@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git status *)",
+      "Bash(grep -rl \"ai-planner\" src/)",
+      "Bash(find src/app -iname \"*admin*\")",
+      "Bash(find . -maxdepth 1 -iname \"middleware*\")",
+      "Bash(find src/app -iname \"*sitemap*\" -o -iname \"*robots*\")",
+      "Bash(cd \"c:/Users/nitin/Desktop/Ticketing-info/Ticketing-info, AI Studio\" && cp .env.example .env && cat .env)",
+      "Bash(npx prisma *)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\nitin\\Desktop\\Ticketing-info\\Ticketing-info, AI Studio"
+    ]
+  }
+}
