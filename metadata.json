@@ -1,6 +1,0 @@
-{
-  "name": "Ticketing-Info",
-  "description": "Premium travel booking platform for flights, hotels, cruises, trains, rentals, transfers, insurance, visas, and AI-driven itinerary planning.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

@@ -1,0 +1,190 @@
+// Prisma schema for Ticketing-Info.
+//
+// Dev default is SQLite (zero setup). For production, point DATABASE_URL at
+// Postgres (e.g. Neon) and change the datasource provider below to "postgresql",
+// then run `npx prisma migrate deploy`.
+//
+// Pinned to prisma/@prisma-client 6.19.3 (see package.json) on purpose: Prisma 7
+// removed schema-level `datasource url` support (requires a driver-adapter
+// rewrite in prisma.config.ts instead), which breaks `db push`/`generate` for
+// this file as written. Don't bump past 6.x without adding that adapter config.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+enum Vertical {
+  flight
+  hotel
+  cruise
+  train
+  car
+  transfer
+  insurance
+  package
+  visa
+}
+
+enum LeadStatus {
+  new
+  contacted
+  quoted
+  converted
+  closed
+}
+
+enum ContactMethod {
+  call
+  whatsapp
+  callback
+  form
+  email
+}
+
+enum BookingStatus {
+  pending
+  confirmed
+  cancelled
+  completed
+}
+
+// A qualified lead generated from any search/detail page — the core MVP conversion event.
+model Lead {
+  id            String        @id @default(cuid())
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+  vertical      Vertical
+  contactMethod ContactMethod
+  status        LeadStatus    @default(new)
+
+  name    String
+  email   String?
+  phone   String?
+
+  message   String?
+  sourcePage String?
+  payload   Json? // the search result / item the lead was raised against
+
+  customer   Customer? @relation(fields: [customerId], references: [id])
+  customerId String?
+
+  bookings Booking[]
+
+  @@index([status])
+  @@index([vertical])
+  @@index([createdAt])
+}
+
+model Customer {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name  String
+  email String  @unique
+  phone String?
+
+  nationality     String?
+  passportNumber  String?
+  passportExpiry  DateTime?
+  preferences     Json?
+
+  leads    Lead[]
+  bookings Booking[]
+}
+
+// A booking request/confirmation. Since MVP has no online payment, these start
+// as "pending" the moment a lead is captured and are moved to "confirmed" by
+// an admin once payment/ticketing is settled offline (phone, WhatsApp, bank transfer).
+model Booking {
+  id         String        @id @default(cuid())
+  createdAt  DateTime      @default(now())
+  updatedAt  DateTime      @updatedAt
+  vertical   Vertical
+  status     BookingStatus @default(pending)
+
+  title      String
+  subtitle   String?
+  priceEstimate Float?
+  travelDate String?
+  details    Json?
+
+  lead       Lead?     @relation(fields: [leadId], references: [id])
+  leadId     String?
+  customer   Customer? @relation(fields: [customerId], references: [id])
+  customerId String?
+
+  @@index([status])
+  @@index([vertical])
+}
+
+model ContactMessage {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  name      String
+  email     String
+  subject   String?
+  message   String
+  handled   Boolean  @default(false)
+}
+
+model NewsletterSubscriber {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  email     String   @unique
+  active    Boolean  @default(true)
+}
+
+model Testimonial {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  name      String
+  location  String?
+  quote     String
+  rating    Int      @default(5)
+  published Boolean  @default(false)
+}
+
+model FaqEntry {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  category  String?
+  question  String
+  answer    String
+  published Boolean  @default(true)
+  sortOrder Int      @default(0)
+}
+
+model BlogPost {
+  id          String    @id @default(cuid())
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  slug        String    @unique
+  title       String
+  excerpt     String?
+  content     String
+  coverImage  String?
+  published   Boolean   @default(false)
+  publishedAt DateTime?
+}
+
+model SiteSetting {
+  key       String   @id
+  value     Json
+  updatedAt DateTime @updatedAt
+}
+
+model AuditLog {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  actor     String? // admin email or "system"
+  action    String
+  entity    String?
+  entityId  String?
+  meta      Json?
+}
