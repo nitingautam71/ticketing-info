@@ -280,10 +280,12 @@ export default function App() {
             className="flex items-center gap-2.5 cursor-pointer shrink-0"
             onClick={() => switchTab('flights')}
           >
-            <div className="w-8 h-8 bg-emerald-500 rounded-lg flex items-center justify-center shadow-lg shadow-emerald-500/30">
-              <Plane className="w-5 h-5 text-neutral-950 rotate-45" />
+            <div className="w-8 h-8 bg-neutral-900 border border-white/10 rounded-lg flex items-center justify-center shadow-lg shadow-black/30">
+              <Plane className="w-5 h-5 text-amber-400 rotate-45" />
             </div>
-            <span className="text-lg font-extrabold tracking-tight text-white">Ticketing-Info</span>
+            <span className="text-lg font-extrabold tracking-tight">
+              <span className="text-white">Ticketing-</span><span className="text-amber-400">info</span>
+            </span>
           </div>
 
           {/* Primary nav */}
@@ -589,10 +591,12 @@ export default function App() {
       <footer className="border-t border-white/10 mt-auto">
         <div className="max-w-7xl mx-auto px-4 md:px-8 py-10 flex flex-col md:flex-row items-center justify-between gap-5">
           <div className="flex items-center gap-2.5">
-            <div className="w-7 h-7 bg-emerald-500 rounded-lg flex items-center justify-center">
-              <Plane className="w-4 h-4 text-neutral-950 rotate-45" />
+            <div className="w-7 h-7 bg-neutral-900 border border-white/10 rounded-lg flex items-center justify-center">
+              <Plane className="w-4 h-4 text-amber-400 rotate-45" />
             </div>
-            <span className="font-extrabold text-white text-sm">Ticketing-Info</span>
+            <span className="font-extrabold text-sm">
+              <span className="text-white">Ticketing-</span><span className="text-amber-400">info</span>
+            </span>
           </div>
 
           <div className="flex flex-wrap gap-6 justify-center text-[10px] font-bold text-neutral-300 uppercase tracking-widest">
