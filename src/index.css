@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  
+  --color-neutral-50: #f8fafc;
+  --color-neutral-100: #0f172a;
+  --color-neutral-200: #1e293b;
+  --color-neutral-300: #334155;
+  --color-neutral-400: #475569;
+  --color-neutral-500: #64748b;
+  --color-neutral-600: #94a3b8;
+  --color-neutral-700: #cbd5e1;
+  --color-neutral-800: #e2e8f0;
+  --color-neutral-850: #f1f5f9;
+  --color-neutral-900: #ffffff;
+  --color-neutral-950: #f8fafc;
+
+  --color-emerald-50: #eff6ff;
+  --color-emerald-100: #eff6ff;
+  --color-emerald-200: #dbeafe;
+  --color-emerald-300: #bfdbfe;
+  --color-emerald-400: #2563eb;
+  --color-emerald-500: #3b82f6;
+  --color-emerald-600: #2563eb;
+  --color-emerald-700: #1d4ed8;
+  --color-emerald-800: #1e40af;
+  --color-emerald-850: #dbeafe;
+  --color-emerald-900: #eff6ff;
+  --color-emerald-950: #eff6ff;
+}
+
+/* Custom design overrides to make everything ultra-polished and premium */
+body {
+  background-color: #f8fafc !important;
+  color: #0f172a !important;
+  font-family: "Inter", sans-serif;
+}
+
+/* Sleek Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Select Dropdown override to make it legible in light mode */
+select option {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+}
+
+/* Modal overlays: keep backdrop blur dark and high contrast */
+.fixed.inset-0.bg-neutral-950\/80 {
+  background-color: rgba(15, 23, 42, 0.4) !important;
+  backdrop-filter: blur(4px) !important;
+}
+
+/* Custom input styling fixes for light mode */
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(0); /* Black indicator in light mode */
+  opacity: 0.6;
+}
+
+/* Fix chat prose lists in light mode */
+.prose {
+  color: #1e293b !important;
+}
+.prose strong {
+  color: #0f172a !important;
+}
+.prose a {
+  color: #2563eb !important;
+}
+
+/* Global input text visibility rules for light-mode inputs */
+input:not(.bg-white\/10 *):not(.bg-slate-900 *):not(.bg-slate-950 *),
+select:not(.bg-white\/10 *):not(.bg-slate-900 *):not(.bg-slate-950 *),
+textarea:not(.bg-white\/10 *):not(.bg-slate-900 *):not(.bg-slate-950 *) {
+  color: #0f172a !important;
+}
+
+/* Global contrast override: replace white-on-white text inside light cards and blocks */
+.bg-neutral-900 .text-white:not(button, .bg-emerald-600 *, .bg-blue-600 *, .bg-red-600 *, .bg-slate-900 *, .bg-slate-950 *),
+.bg-neutral-950 .text-white:not(button, .bg-emerald-600 *, .bg-blue-600 *, .bg-red-600 *, .bg-slate-900 *, .bg-slate-950 *),
+.bg-white .text-white:not(button, .bg-emerald-600 *, .bg-blue-600 *, .bg-red-600 *, .bg-slate-900 *, .bg-slate-950 *),
+h1.text-white:not(.bg-slate-900 *, .bg-slate-950 *),
+h2.text-white:not(.bg-slate-900 *, .bg-slate-950 *),
+h3.text-white:not(.bg-slate-900 *, .bg-slate-950 *),
+h4.text-white:not(.bg-slate-900 *, .bg-slate-950 *),
+h5.text-white:not(.bg-slate-900 *, .bg-slate-950 *) {
+  color: #0f172a !important;
+}
+
+.bg-neutral-900 h1, .bg-neutral-900 h2, .bg-neutral-900 h3, .bg-neutral-900 h4, .bg-neutral-900 h5,
+.bg-neutral-950 h1, .bg-neutral-950 h2, .bg-neutral-950 h3, .bg-neutral-950 h4, .bg-neutral-950 h5 {
+  color: #0f172a !important;
+}
+
+/* Ensure secondary details aren't lost */
+.text-neutral-400 {
+  color: #475569 !important;
+}
+.text-neutral-500 {
+  color: #64748b !important;
+}
+.text-neutral-350 {
+  color: #475569 !important;
+}
+.text-neutral-300 {
+  color: #334155 !important;
+}

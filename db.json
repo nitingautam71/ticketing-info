@@ -1,0 +1,94 @@
+{
+  "bookings": [
+    {
+      "id": "BK-90210",
+      "type": "flight",
+      "title": "New York (JFK) to London (LHR)",
+      "subtitle": "British Airways - Flight BA178",
+      "status": "confirmed",
+      "price": 850,
+      "date": "2026-08-15",
+      "details": {
+        "airline": "British Airways",
+        "flightNumber": "BA178",
+        "departureAirport": "JFK",
+        "arrivalAirport": "LHR",
+        "departureTime": "09:30 AM",
+        "arrivalTime": "09:45 PM",
+        "class": "Business",
+        "seat": "14K",
+        "passenger": "Jane Doe"
+      },
+      "qrCode": "JFK_LHR_BA178_JANEDOE_CONFIRMED_20260815"
+    },
+    {
+      "id": "BK-44203",
+      "type": "hotel",
+      "title": "The Ritz-Carlton, London",
+      "subtitle": "Deluxe King Room - 4 Nights",
+      "status": "confirmed",
+      "price": 1800,
+      "date": "2026-08-15",
+      "details": {
+        "hotelName": "The Ritz-Carlton, London",
+        "location": "150 Piccadilly, London W1J 9BR",
+        "roomType": "Deluxe King Room",
+        "checkIn": "2026-08-15",
+        "checkOut": "2026-08-19",
+        "guests": 2
+      },
+      "qrCode": "RITZ_LHR_JANEDOE_CONFIRMED_20260815"
+    },
+    {
+      "id": "BK-11029",
+      "type": "rental",
+      "title": "Tesla Model S ( Hertz )",
+      "subtitle": "London Heathrow Airport Terminal 5",
+      "status": "confirmed",
+      "price": 420,
+      "date": "2026-08-15",
+      "details": {
+        "provider": "Hertz",
+        "model": "Tesla Model S",
+        "category": "Luxury",
+        "pickupDate": "2026-08-15",
+        "dropoffDate": "2026-08-19",
+        "pickupLocation": "LHR Terminal 5"
+      },
+      "qrCode": "HERTZ_TESLA_LHR_CONFIRMED"
+    },
+    {
+      "id": "BK-00812",
+      "type": "flight",
+      "title": "Tokyo (HND) to San Francisco (SFO)",
+      "subtitle": "Japan Airlines - Flight JL002",
+      "status": "confirmed",
+      "price": 1250,
+      "date": "2026-05-10",
+      "details": {
+        "airline": "Japan Airlines",
+        "flightNumber": "JL002",
+        "departureAirport": "HND",
+        "arrivalAirport": "SFO",
+        "departureTime": "05:45 PM",
+        "arrivalTime": "11:15 AM",
+        "class": "First",
+        "seat": "02A",
+        "passenger": "Jane Doe"
+      },
+      "qrCode": "HND_SFO_JL002_JANEDOE_COMPLETED"
+    }
+  ],
+  "profile": {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "passportNumber": "N32984102",
+    "passportExpiry": "2031-11-20",
+    "nationality": "United States",
+    "preferences": {
+      "dietary": "Vegan",
+      "seating": "Window",
+      "hotelRoom": "High Floor, King Bed"
+    }
+  }
+}
