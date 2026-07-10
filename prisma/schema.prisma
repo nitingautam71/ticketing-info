@@ -1,8 +1,8 @@
 // Prisma schema for Ticketing-Info.
 //
-// Dev default is SQLite (zero setup). For production, point DATABASE_URL at
-// Postgres (e.g. Neon) and change the datasource provider below to "postgresql",
-// then run `npx prisma migrate deploy`.
+// Postgres (Neon) is the datastore for both local dev and production — same
+// DATABASE_URL in .env.local and in Vercel's production env vars. Consider
+// splitting to a separate Neon branch for dev once there's real prod traffic.
 //
 // Pinned to prisma/@prisma-client 6.19.3 (see package.json) on purpose: Prisma 7
 // removed schema-level `datasource url` support (requires a driver-adapter
@@ -14,7 +14,7 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 

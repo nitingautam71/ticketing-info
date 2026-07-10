@@ -14,3 +14,5 @@ next-env.d.ts
 *.tsbuildinfo
 .claude/settings.local.json
 .claude/scheduled_tasks.lock
+.vercel
+.vercel-token
