@@ -11,7 +11,7 @@ export default async function AdminSettingsPage() {
     <div className="space-y-6">
       <div>
         <h1 className="text-2xl font-bold text-white">Site Settings</h1>
-        <p className="text-sm text-neutral-400 mt-1">Simple key/value config used by the site (advanced — only edit if you know the key that's read).</p>
+        <p className="text-sm text-neutral-400 mt-1">Simple key/value config used by the site (advanced — only edit if you know the key that&apos;s read).</p>
       </div>
 
       <NewSettingForm />
