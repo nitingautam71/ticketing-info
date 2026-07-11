@@ -1,0 +1,138 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-display: var(--font-fraunces), Georgia, serif;
+
+  /* Deep-ocean dark palette (true values — no light remap) */
+  --color-neutral-50: #f2f6fc;
+  --color-neutral-100: #dbe4f0;
+  --color-neutral-200: #b9c6da;
+  --color-neutral-300: #8fa0ba;
+  --color-neutral-400: #64748b;
+  --color-neutral-500: #4a5872;
+  --color-neutral-600: #33405a;
+  --color-neutral-700: #232e45;
+  --color-neutral-800: #16203a;
+  --color-neutral-850: #101a30;
+  --color-neutral-900: #0c1424;
+  --color-neutral-950: #070c18;
+
+  /* Brand azure (components reference "emerald-*" — mapped to azure) */
+  --color-emerald-50: #eff9ff;
+  --color-emerald-100: #def2ff;
+  --color-emerald-200: #b6e7ff;
+  --color-emerald-300: #75d5ff;
+  --color-emerald-400: #38bdf8;
+  --color-emerald-500: #22a8ec;
+  --color-emerald-600: #0e88cc;
+  --color-emerald-700: #0d6ca5;
+  --color-emerald-800: #105b88;
+  --color-emerald-850: #0f4d72;
+  --color-emerald-900: #134c70;
+  --color-emerald-950: #0c304a;
+
+  /* Warm sand — ratings, deals, small highlights */
+  --color-sand-300: #f7ddb0;
+  --color-sand-400: #f0c987;
+  --color-sand-500: #e2b26a;
+}
+
+body {
+  background-color: #070c18;
+  color: #f2f6fc;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-display {
+  font-family: var(--font-fraunces), Georgia, serif;
+}
+
+/* ---------- Scrollbars ---------- */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #232e45; border-radius: 9999px; }
+::-webkit-scrollbar-thumb:hover { background: #33405a; }
+.scrollbar-none::-webkit-scrollbar { display: none; }
+.scrollbar-none { scrollbar-width: none; }
+
+/* ---------- Form legibility on dark ---------- */
+select option { background-color: #0c1424; color: #f2f6fc; }
+input[type="date"]::-webkit-calendar-picker-indicator { filter: invert(1); opacity: 0.55; }
+
+/* ---------- Glass surfaces ---------- */
+.glass {
+  background: rgba(12, 20, 36, 0.72);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid rgba(242, 246, 252, 0.10);
+}
+.glass-soft {
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.10);
+}
+
+/* ---------- Hero media ---------- */
+.hero-media {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.hero-scrim {
+  background:
+    linear-gradient(to bottom,
+      rgba(7, 12, 24, 0.62) 0%,
+      rgba(7, 12, 24, 0.28) 34%,
+      rgba(7, 12, 24, 0.34) 62%,
+      rgba(7, 12, 24, 0.94) 92%,
+      #070c18 100%);
+}
+
+@keyframes kenburns {
+  0%   { transform: scale(1) translateY(0); }
+  100% { transform: scale(1.08) translateY(-1.5%); }
+}
+.kenburns { animation: kenburns 24s ease-in-out infinite alternate; }
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(22px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.rise   { animation: rise 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+.rise-1 { animation-delay: 0.08s; }
+.rise-2 { animation-delay: 0.18s; }
+.rise-3 { animation-delay: 0.30s; }
+
+/* ---------- Destination / experience cards ---------- */
+.card-media { overflow: hidden; }
+.card-media img { transition: transform 0.7s cubic-bezier(0.2, 0.7, 0.2, 1); }
+.card-media:hover img { transform: scale(1.06); }
+
+.img-scrim {
+  background: linear-gradient(to top,
+    rgba(7, 12, 24, 0.88) 0%,
+    rgba(7, 12, 24, 0.30) 48%,
+    rgba(7, 12, 24, 0.05) 100%);
+}
+
+/* ---------- Chat prose (AI planner) on dark ---------- */
+.prose { color: #dbe4f0; }
+.prose strong { color: #f2f6fc; }
+.prose a { color: #38bdf8; }
+
+/* ---------- Focus visibility ---------- */
+:focus-visible {
+  outline: 2px solid #38bdf8;
+  outline-offset: 2px;
+}
+
+/* ---------- Reduced motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+  .kenburns, .rise, .rise-1, .rise-2, .rise-3 { animation: none; }
+  .card-media img { transition: none; }
+  html { scroll-behavior: auto; }
+}
