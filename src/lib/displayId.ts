@@ -1,25 +1,33 @@
 import { prisma } from '@/lib/db';
 
 function formatYYYYMMDD(d: Date): string {
-  const y = d.getFullYear();
-  const m = String(d.getMonth() + 1).padStart(2, '0');
-  const day = String(d.getDate()).padStart(2, '0');
+  const y = d.getUTCFullYear();
+  const m = String(d.getUTCMonth() + 1).padStart(2, '0');
+  const day = String(d.getUTCDate()).padStart(2, '0');
   return `${y}${m}${day}`;
 }
 
-async function nextDisplayId(prefix: string, countToday: (start: Date, end: Date) => Promise<number>): Promise<string> {
+// Always bucket "today" in UTC, regardless of the server's local timezone —
+// must be consistent whether it runs on a laptop or a Vercel function.
+//
+// Uses a single atomic UPSERT (INSERT ... ON CONFLICT DO UPDATE count = count + 1)
+// against a per-day counter row, not a "count existing rows" read-then-write —
+// the latter races under concurrent requests (two requests can read the same
+// count before either commits), which is exactly what caused duplicate
+// display IDs in production.
+async function nextDisplayId(prefix: string): Promise<string> {
   const now = new Date();
-  const start = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-  const end = new Date(start.getTime() + 24 * 60 * 60 * 1000);
-  const count = await countToday(start, end);
-  return `${prefix}-${formatYYYYMMDD(now)}-${String(count + 1).padStart(6, '0')}`;
+  const key = `${prefix}-${formatYYYYMMDD(now)}`;
+
+  const counter = await prisma.dailyCounter.upsert({
+    where: { id: key },
+    create: { id: key, count: 1 },
+    update: { count: { increment: 1 } },
+  });
+
+  return `${key}-${String(counter.count).padStart(6, '0')}`;
 }
 
-export const generateLeadDisplayId = () =>
-  nextDisplayId('LD', (start, end) => prisma.lead.count({ where: { createdAt: { gte: start, lt: end } } }));
-
-export const generateBookingDisplayId = () =>
-  nextDisplayId('BK', (start, end) => prisma.booking.count({ where: { createdAt: { gte: start, lt: end } } }));
-
-export const generateQuotationDisplayId = () =>
-  nextDisplayId('QT', (start, end) => prisma.quotation.count({ where: { createdAt: { gte: start, lt: end } } }));
+export const generateLeadDisplayId = () => nextDisplayId('LD');
+export const generateBookingDisplayId = () => nextDisplayId('BK');
+export const generateQuotationDisplayId = () => nextDisplayId('QT');

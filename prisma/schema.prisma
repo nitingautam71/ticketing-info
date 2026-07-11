@@ -18,6 +18,16 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+// Backs human-readable sequential display IDs (LD-/BK-/QT-YYYYMMDD-NNNNNN).
+// `id` is the full date-scoped key (e.g. "LD-20260711") so the increment is a
+// single atomic UPSERT — safe under concurrent requests, unlike counting
+// existing rows (which races: two requests can read the same count before
+// either commits).
+model DailyCounter {
+  id    String @id
+  count Int    @default(0)
+}
+
 enum Vertical {
   flight
   hotel
