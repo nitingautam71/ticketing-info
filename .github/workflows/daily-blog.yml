@@ -1,0 +1,153 @@
+name: Daily Blog Post
+
+# Runs 08:00 IST daily (IST = UTC+5:30, so 02:30 UTC).
+on:
+  schedule:
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Generate + validate + build only; do not push a branch or open a PR'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: daily-blog
+  cancel-in-progress: false
+
+env:
+  # Placeholders only, for `npm ci` (prisma generate) and `npm run build` in this
+  # workflow - mirrors .github/workflows/ci.yml. Never a real DB connection, and
+  # unrelated to the real ADMIN_PASSWORD secret used by publish-blog-on-merge.yml.
+  DATABASE_URL: 'postgresql://user:password@localhost:5432/ci_placeholder'
+  ADMIN_PASSWORD: 'ci-placeholder'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Compute today's date (IST calendar day)
+        id: date
+        run: echo "today=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Build research prompt
+        env:
+          TODAY: ${{ steps.date.outputs.today }}
+        run: node scripts/blog/build-prompt.mjs > "$RUNNER_TEMP/blog-prompt.txt"
+
+      - name: Generate blog post draft with Claude Code
+        id: claude
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          claude -p \
+            --output-format json \
+            --allowedTools Read Glob Grep WebSearch WebFetch Write \
+            --max-turns 40 \
+            < "$RUNNER_TEMP/blog-prompt.txt" \
+            > "$RUNNER_TEMP/claude-output.json" || true
+        continue-on-error: true
+
+      - name: Validate generated draft
+        id: validate
+        env:
+          TODAY: ${{ steps.date.outputs.today }}
+          CLAUDE_OUTPUT_FILE: ${{ runner.temp }}/claude-output.json
+        run: node scripts/blog/validate-draft.mjs
+        continue-on-error: true
+
+      - name: Build
+        id: build
+        if: steps.validate.outcome == 'success'
+        run: npm run build 2>&1 | tee "$RUNNER_TEMP/blog-build.log"
+        continue-on-error: true
+
+      - name: Create branch and commit draft
+        id: commit
+        if: >
+          steps.validate.outcome == 'success' && steps.build.outcome == 'success' &&
+          github.event.inputs.dry_run != 'true'
+        env:
+          TODAY: ${{ steps.date.outputs.today }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "blog-drafts/$TODAY"
+          git add content/blog-drafts/
+          git commit -m "blog: daily travel news – $TODAY"
+          git push origin "blog-drafts/$TODAY"
+
+      - name: Open pull request
+        if: steps.commit.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TODAY: ${{ steps.date.outputs.today }}
+        run: |
+          gh pr create \
+            --base main \
+            --head "blog-drafts/$TODAY" \
+            --title "$(cat "$RUNNER_TEMP/blog-title.txt")" \
+            --body-file "$RUNNER_TEMP/blog-body.md"
+
+      - name: Dry-run summary
+        if: >
+          steps.validate.outcome == 'success' && steps.build.outcome == 'success' &&
+          github.event.inputs.dry_run == 'true'
+        env:
+          TODAY: ${{ steps.date.outputs.today }}
+        run: |
+          echo "Dry run: draft generated and validated, build passed. No branch/PR created."
+          echo "Title: $(cat "$RUNNER_TEMP/blog-title.txt")"
+          echo "--- content/blog-drafts/${TODAY}-*.json ---"
+          cat content/blog-drafts/"$TODAY"-*.json
+
+      - name: Record failure
+        if: steps.validate.outcome != 'success' || steps.build.outcome == 'failure'
+        env:
+          TODAY: ${{ steps.date.outputs.today }}
+        run: |
+          {
+            echo "# Daily blog generation failed - $TODAY"
+            echo
+            echo "Validation step: ${{ steps.validate.outcome }}"
+            echo "Build step: ${{ steps.build.outcome }}"
+            echo
+            if [ -f "$RUNNER_TEMP/blog-error.md" ]; then
+              cat "$RUNNER_TEMP/blog-error.md"
+            fi
+            if [ -f "$RUNNER_TEMP/blog-build.log" ]; then
+              echo
+              echo "## Build log (last 200 lines)"
+              echo '```'
+              tail -n 200 "$RUNNER_TEMP/blog-build.log"
+              echo '```'
+            fi
+          } > "$RUNNER_TEMP/failure-report.md"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "FAILED-$TODAY"
+          mkdir -p .github/blog-failures
+          cp "$RUNNER_TEMP/failure-report.md" ".github/blog-failures/$TODAY.md"
+          git add .github/blog-failures
+          git commit -m "blog: FAILED daily generation – $TODAY"
+          git push origin "FAILED-$TODAY"
+          echo "::error::Daily blog generation failed - see .github/blog-failures/$TODAY.md on branch FAILED-$TODAY"
+          exit 1
