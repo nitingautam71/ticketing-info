@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       { protocol: 'https', hostname: 'images.unsplash.com' },
       { protocol: 'https', hostname: 'videos.pexels.com' },
+      { protocol: 'https', hostname: 'logos.skyscnr.com' },
     ],
   },
   async headers() {

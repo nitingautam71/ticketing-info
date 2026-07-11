@@ -1,17 +1,28 @@
 'use client';
 
 import { useState } from 'react';
-import { Search, Plane, Calendar, ArrowUpDown, Filter, ChevronRight, User, AlertCircle, Briefcase, Plus, X, CheckCircle2 } from 'lucide-react';
+import { Search, ArrowUpDown, ChevronRight, AlertCircle, Plus, X, CheckCircle2 } from 'lucide-react';
 import type { Flight, CabinClass } from '@/lib/providers/flights';
 import { useBookingEnquiry } from '@/components/leads/BookingEnquiryContext';
+import AirportAutocomplete from './AirportAutocomplete';
+import TravelerClassPicker from './TravelerClassPicker';
+import DatePicker from './DatePicker';
+import FlightFilters from './FlightFilters';
+import FlightResultCard from './FlightResultCard';
+import { sortFlights, toggleSetValue, parseDurationMinutes, getDepartureBucket, type SortMode, type DepartureBucket } from '@/lib/flightDisplay';
 
-const CABIN_CLASSES: CabinClass[] = ['Economy', 'Premium Economy', 'Business', 'First'];
 const TRIP_TYPES = [
   { value: 'oneway', label: 'One Way' },
   { value: 'roundtrip', label: 'Round Trip' },
   { value: 'multicity', label: 'Multi-City' },
 ] as const;
 type TripType = (typeof TRIP_TYPES)[number]['value'];
+
+const SORT_TABS: { value: SortMode; label: string; hint: string }[] = [
+  { value: 'best', label: 'Best', hint: 'Ranked on price and convenience' },
+  { value: 'cheapest', label: 'Cheapest', hint: 'Lowest price first' },
+  { value: 'fastest', label: 'Fastest', hint: 'Shortest duration first' },
+];
 
 interface Leg {
   from: string;
@@ -23,6 +34,21 @@ interface LegResult {
   leg: Leg;
   label: string;
   flights: Flight[];
+}
+
+interface Bounds {
+  min: number;
+  max: number;
+}
+
+function computeBounds(flights: Flight[]): { price: Bounds; duration: Bounds } {
+  if (flights.length === 0) return { price: { min: 0, max: 5000 }, duration: { min: 0, max: 24 * 60 } };
+  const prices = flights.map((f) => f.price);
+  const durations = flights.map((f) => parseDurationMinutes(f.duration));
+  return {
+    price: { min: Math.min(...prices), max: Math.max(...prices) },
+    duration: { min: Math.min(...durations), max: Math.max(...durations) },
+  };
 }
 
 export default function FlightSearch() {
@@ -41,9 +67,12 @@ export default function FlightSearch() {
   const [isLoading, setIsLoading] = useState(false);
   const [hasSearched, setHasSearched] = useState(false);
 
-  const [maxPrice, setMaxPrice] = useState(3000);
-  const [stopsFilter, setStopsFilter] = useState('all');
-  const [airlineFilter, setAirlineFilter] = useState('all');
+  const [sortMode, setSortMode] = useState<SortMode>('best');
+  const [maxPrice, setMaxPrice] = useState(5000);
+  const [maxDurationMinutes, setMaxDurationMinutes] = useState(24 * 60);
+  const [selectedStops, setSelectedStops] = useState<Set<number>>(new Set());
+  const [selectedAirlines, setSelectedAirlines] = useState<Set<string>>(new Set());
+  const [selectedBuckets, setSelectedBuckets] = useState<Set<DepartureBucket>>(new Set());
 
   const swapAirports = () => {
     setFrom(to);
@@ -87,7 +116,7 @@ export default function FlightSearch() {
       const legs = buildLegs();
       const results = await Promise.all(
         legs.map(async ({ leg, label }) => {
-          const res = await fetch(`/api/flights?from=${leg.from}&to=${leg.to}&date=${leg.date}&class=${cabinClass}`);
+          const res = await fetch(`/api/flights?from=${leg.from}&to=${leg.to}&date=${leg.date}&class=${cabinClass}&adults=${passengerCount}`);
           if (!res.ok) throw new Error('API Fail');
           const flights: Flight[] = await res.json();
           return { leg, label, flights };
@@ -95,6 +124,14 @@ export default function FlightSearch() {
       );
       setLegResults(results);
       setSelections(new Array(results.length).fill(null));
+
+      const bounds = computeBounds(results.flatMap((r) => r.flights));
+      setSortMode('best');
+      setMaxPrice(bounds.price.max);
+      setMaxDurationMinutes(bounds.duration.max);
+      setSelectedStops(new Set());
+      setSelectedAirlines(new Set());
+      setSelectedBuckets(new Set());
     } catch (err) {
       console.error(err);
       setLegResults([]);
@@ -110,15 +147,26 @@ export default function FlightSearch() {
   const applyFilters = (flights: Flight[]) =>
     flights.filter((f) => {
       if (f.price > maxPrice) return false;
-      if (stopsFilter === 'direct' && f.stops !== 0) return false;
-      if (stopsFilter === '1stop' && f.stops !== 1) return false;
-      if (airlineFilter !== 'all' && f.airline !== airlineFilter) return false;
+      if (parseDurationMinutes(f.duration) > maxDurationMinutes) return false;
+      if (selectedStops.size > 0 && !selectedStops.has(Math.min(f.stops, 2))) return false;
+      if (selectedAirlines.size > 0 && !selectedAirlines.has(f.airline)) return false;
+      if (selectedBuckets.size > 0 && !selectedBuckets.has(getDepartureBucket(f.departureTime))) return false;
       return true;
     });
 
-  const airlinesList = Array.from(new Set(legResults.flatMap((r) => r.flights.map((f) => f.airline))));
+  const allFlights = legResults.flatMap((r) => r.flights);
+  const airlinesList = Array.from(new Set(allFlights.map((f) => f.airline))).sort();
+  const bounds = computeBounds(allFlights);
   const allSelected = legResults.length > 0 && selections.length === legResults.length && selections.every(Boolean);
   const totalPrice = (selections.filter(Boolean) as Flight[]).reduce((sum, f) => sum + f.price, 0) * passengerCount;
+
+  const resetFilters = () => {
+    setMaxPrice(bounds.price.max);
+    setMaxDurationMinutes(bounds.duration.max);
+    setSelectedStops(new Set());
+    setSelectedAirlines(new Set());
+    setSelectedBuckets(new Set());
+  };
 
   const proceedToBooking = () => {
     const chosen = selections as Flight[];
@@ -168,18 +216,8 @@ export default function FlightSearch() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-12 gap-4 items-center">
-          <div className="md:col-span-3 relative">
-            <label className="block text-xs font-semibold text-neutral-400 mb-1">Departure City / Airport</label>
-            <div className="relative">
-              <input
-                type="text"
-                value={from}
-                onChange={(e) => setFrom(e.target.value.toUpperCase())}
-                placeholder="e.g. JFK"
-                className="w-full bg-neutral-950 border border-neutral-800 rounded-xl pl-11 pr-4 py-3 text-white text-sm font-bold tracking-wider uppercase focus:outline-none focus:ring-1 focus:ring-emerald-500"
-              />
-              <Plane className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-neutral-500 rotate-45" />
-            </div>
+          <div className="md:col-span-3">
+            <AirportAutocomplete label="Departure City / Airport" value={from} onChange={setFrom} placeholder="e.g. JFK or London" />
           </div>
 
           <div className="md:col-span-1 flex justify-center pt-5">
@@ -192,61 +230,20 @@ export default function FlightSearch() {
             </button>
           </div>
 
-          <div className="md:col-span-3 relative">
-            <label className="block text-xs font-semibold text-neutral-400 mb-1">Arrival City / Airport</label>
-            <div className="relative">
-              <input
-                type="text"
-                value={to}
-                onChange={(e) => setTo(e.target.value.toUpperCase())}
-                placeholder="e.g. LHR"
-                className="w-full bg-neutral-950 border border-neutral-800 rounded-xl pl-11 pr-4 py-3 text-white text-sm font-bold tracking-wider uppercase focus:outline-none focus:ring-1 focus:ring-emerald-500"
-              />
-              <Plane className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-neutral-500 shrink-0" />
-            </div>
+          <div className="md:col-span-3">
+            <AirportAutocomplete label="Arrival City / Airport" value={to} onChange={setTo} placeholder="e.g. LHR or Tokyo" rotateIcon={false} />
           </div>
-
-          <div className={tripType === 'roundtrip' ? 'md:col-span-2' : 'md:col-span-3'}>
-            <label className="block text-xs font-semibold text-neutral-400 mb-1">{tripType === 'roundtrip' ? 'Depart' : 'Departure Date'}</label>
-            <div className="relative">
-              <input
-                type="date"
-                value={date}
-                onChange={(e) => setDate(e.target.value)}
-                className="w-full bg-neutral-950 border border-neutral-800 rounded-xl pl-11 pr-4 py-3 text-white text-sm focus:outline-none focus:ring-1 focus:ring-emerald-500"
-              />
-              <Calendar className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-neutral-500" />
-            </div>
-          </div>
-
-          {tripType === 'roundtrip' && (
-            <div className="md:col-span-1">
-              <label className="block text-xs font-semibold text-neutral-400 mb-1">Return</label>
-              <div className="relative">
-                <input
-                  type="date"
-                  value={returnDate}
-                  onChange={(e) => setReturnDate(e.target.value)}
-                  className="w-full bg-neutral-950 border border-neutral-800 rounded-xl pl-11 pr-4 py-3 text-white text-sm focus:outline-none focus:ring-1 focus:ring-emerald-500"
-                />
-                <Calendar className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-neutral-500" />
-              </div>
-            </div>
-          )}
 
           <div className="md:col-span-2">
-            <label className="block text-xs font-semibold text-neutral-400 mb-1">Passengers</label>
-            <div className="relative">
-              <input
-                type="number"
-                min={1}
-                max={9}
-                value={passengerCount}
-                onChange={(e) => setPassengerCount(parseInt(e.target.value) || 1)}
-                className="w-full bg-neutral-950 border border-neutral-800 rounded-xl pl-11 pr-4 py-3 text-white text-sm focus:outline-none focus:ring-1 focus:ring-emerald-500"
-              />
-              <User className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-neutral-500" />
-            </div>
+            {tripType === 'roundtrip' ? (
+              <DatePicker range label="Dates" startValue={date} endValue={returnDate} onChangeStart={setDate} onChangeEnd={setReturnDate} />
+            ) : (
+              <DatePicker label="Departure Date" startValue={date} onChangeStart={setDate} />
+            )}
+          </div>
+
+          <div className="md:col-span-3">
+            <TravelerClassPicker travelers={passengerCount} onTravelersChange={setPassengerCount} cabinClass={cabinClass} onCabinClassChange={setCabinClass} />
           </div>
         </div>
 
@@ -255,25 +252,14 @@ export default function FlightSearch() {
             <label className="block text-xs font-semibold text-neutral-400">Additional Flights</label>
             {extraLegs.map((leg, idx) => (
               <div key={idx} className="grid grid-cols-1 md:grid-cols-12 gap-3 items-center">
-                <input
-                  type="text"
-                  value={leg.from}
-                  onChange={(e) => updateLeg(idx, { from: e.target.value.toUpperCase() })}
-                  placeholder="From"
-                  className="md:col-span-3 bg-neutral-950 border border-neutral-800 rounded-xl px-4 py-2.5 text-white text-sm font-bold tracking-wider uppercase focus:outline-none focus:ring-1 focus:ring-emerald-500"
-                />
-                <input
-                  type="text"
-                  value={leg.to}
-                  onChange={(e) => updateLeg(idx, { to: e.target.value.toUpperCase() })}
-                  placeholder="To"
-                  className="md:col-span-3 bg-neutral-950 border border-neutral-800 rounded-xl px-4 py-2.5 text-white text-sm font-bold tracking-wider uppercase focus:outline-none focus:ring-1 focus:ring-emerald-500"
-                />
-                <input
-                  type="date"
-                  value={leg.date}
-                  onChange={(e) => updateLeg(idx, { date: e.target.value })}
-                  className="md:col-span-4 bg-neutral-950 border border-neutral-800 rounded-xl px-4 py-2.5 text-white text-sm focus:outline-none focus:ring-1 focus:ring-emerald-500"
+                <AirportAutocomplete compact containerClassName="md:col-span-3" value={leg.from} onChange={(code) => updateLeg(idx, { from: code })} placeholder="From" />
+                <AirportAutocomplete compact containerClassName="md:col-span-3" value={leg.to} onChange={(code) => updateLeg(idx, { to: code })} placeholder="To" />
+                <DatePicker
+                  compact
+                  containerClassName="md:col-span-4"
+                  startValue={leg.date}
+                  onChangeStart={(d) => updateLeg(idx, { date: d })}
+                  minDate={idx === 0 ? date : extraLegs[idx - 1]?.date}
                 />
                 <button
                   type="button"
@@ -296,22 +282,7 @@ export default function FlightSearch() {
           </div>
         )}
 
-        <div className="flex flex-col sm:flex-row justify-between items-center gap-4 pt-2">
-          <div className="flex bg-neutral-950 p-1 border border-neutral-800 rounded-xl w-full sm:w-auto">
-            {CABIN_CLASSES.map((c) => (
-              <button
-                key={c}
-                type="button"
-                onClick={() => setCabinClass(c)}
-                className={`flex-1 sm:flex-none text-xs px-4 py-2.5 rounded-lg font-medium transition-all cursor-pointer ${
-                  cabinClass === c ? 'bg-emerald-600 text-white shadow' : 'text-neutral-400 hover:text-white'
-                }`}
-              >
-                {c}
-              </button>
-            ))}
-          </div>
-
+        <div className="flex justify-end pt-2">
           <button
             type="submit"
             className="w-full sm:w-auto bg-emerald-600 hover:bg-emerald-500 active:scale-[0.99] text-white font-bold text-xs py-3.5 px-8 rounded-xl flex items-center justify-center gap-2 cursor-pointer transition-all shrink-0"
@@ -323,50 +294,22 @@ export default function FlightSearch() {
 
       {hasSearched && (
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
-          <div className="bg-neutral-900 border border-neutral-800 p-5 rounded-2xl h-fit space-y-6">
-            <div className="flex items-center gap-2 border-b border-neutral-800 pb-3">
-              <Filter className="w-4 h-4 text-emerald-400" />
-              <h4 className="text-sm font-bold text-white uppercase tracking-wider">Search Filters</h4>
-            </div>
-
-            <div className="space-y-2">
-              <div className="flex justify-between text-xs font-semibold">
-                <span className="text-neutral-400">Max Ticket Price</span>
-                <span className="text-white">${maxPrice.toLocaleString()}</span>
-              </div>
-              <input type="range" min={200} max={5000} step={50} value={maxPrice} onChange={(e) => setMaxPrice(parseInt(e.target.value))} className="w-full accent-emerald-500" />
-            </div>
-
-            <div className="space-y-2">
-              <h5 className="text-xs font-bold text-neutral-400 uppercase">Stops</h5>
-              <div className="space-y-2 text-xs">
-                {['all', 'direct', '1stop'].map((opt) => (
-                  <label key={opt} className="flex items-center gap-2 cursor-pointer text-neutral-350 hover:text-white">
-                    <input type="radio" name="stops" checked={stopsFilter === opt} onChange={() => setStopsFilter(opt)} className="accent-emerald-500" />
-                    <span className="capitalize">{opt === 'all' ? 'Any Stops' : opt === 'direct' ? 'Non-Stop Only' : '1 Stop Only'}</span>
-                  </label>
-                ))}
-              </div>
-            </div>
-
-            {airlinesList.length > 0 && (
-              <div className="space-y-2">
-                <h5 className="text-xs font-bold text-neutral-400 uppercase">Airlines</h5>
-                <div className="space-y-2 text-xs">
-                  <label className="flex items-center gap-2 cursor-pointer text-neutral-350 hover:text-white">
-                    <input type="radio" name="airlines" checked={airlineFilter === 'all'} onChange={() => setAirlineFilter('all')} className="accent-emerald-500" />
-                    <span>All Airlines</span>
-                  </label>
-                  {airlinesList.map((al) => (
-                    <label key={al} className="flex items-center gap-2 cursor-pointer text-neutral-350 hover:text-white">
-                      <input type="radio" name="airlines" checked={airlineFilter === al} onChange={() => setAirlineFilter(al)} className="accent-emerald-500" />
-                      <span>{al}</span>
-                    </label>
-                  ))}
-                </div>
-              </div>
-            )}
-          </div>
+          <FlightFilters
+            maxPrice={maxPrice}
+            onMaxPriceChange={setMaxPrice}
+            priceBounds={bounds.price}
+            selectedStops={selectedStops}
+            onToggleStop={(stop) => setSelectedStops((prev) => toggleSetValue(prev, stop))}
+            airlines={airlinesList}
+            selectedAirlines={selectedAirlines}
+            onToggleAirline={(airline) => setSelectedAirlines((prev) => toggleSetValue(prev, airline))}
+            selectedBuckets={selectedBuckets}
+            onToggleBucket={(bucket) => setSelectedBuckets((prev) => toggleSetValue(prev, bucket))}
+            maxDurationMinutes={maxDurationMinutes}
+            onMaxDurationChange={setMaxDurationMinutes}
+            durationBounds={bounds.duration}
+            onReset={resetFilters}
+          />
 
           <div className="lg:col-span-3 space-y-8">
             {isLoading ? (
@@ -381,91 +324,74 @@ export default function FlightSearch() {
                 <p className="text-neutral-400 text-xs">Try adjusting your route or dates.</p>
               </div>
             ) : (
-              legResults.map((result, legIdx) => {
-                const filtered = applyFilters(result.flights);
-                const selected = selections[legIdx];
-                return (
-                  <div key={legIdx} className="space-y-4">
-                    <div className="flex items-center justify-between">
-                      <h4 className="text-sm font-bold text-white uppercase tracking-wider">{result.label}</h4>
-                      {selected && (
-                        <span className="text-[11px] text-emerald-400 font-bold flex items-center gap-1">
-                          <CheckCircle2 className="w-3.5 h-3.5" /> Selected
-                        </span>
-                      )}
-                    </div>
-
-                    {filtered.length === 0 ? (
-                      <div className="text-center py-10 bg-neutral-900 border border-neutral-800 rounded-2xl space-y-1">
-                        <p className="text-sm font-bold text-white">No flights match the filter criteria</p>
-                        <p className="text-neutral-400 text-xs">Try increasing the budget or adjusting stop preferences.</p>
-                      </div>
-                    ) : (
-                      filtered.map((f) => (
-                        <div
-                          key={f.id}
-                          className={`bg-neutral-900 border rounded-2xl overflow-hidden shadow-md transition-all group ${
-                            selected?.id === f.id ? 'border-emerald-500' : 'border-neutral-800 hover:border-neutral-700'
+              <>
+                {allFlights.length > 0 && (
+                  <div className="flex items-center gap-4 flex-wrap">
+                    <div className="flex bg-neutral-950 p-1 border border-neutral-800 rounded-xl">
+                      {SORT_TABS.map((tab) => (
+                        <button
+                          key={tab.value}
+                          type="button"
+                          onClick={() => setSortMode(tab.value)}
+                          className={`text-xs px-4 py-2 rounded-lg font-bold transition-all cursor-pointer ${
+                            sortMode === tab.value ? 'bg-emerald-600 text-white shadow' : 'text-neutral-400 hover:text-white'
                           }`}
                         >
-                          <div className="p-5 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-6">
-                            <div className="flex-1 space-y-4">
-                              <div className="flex items-center gap-3">
-                                <div className="w-9 h-9 bg-neutral-950 rounded-xl flex items-center justify-center font-bold text-xs text-emerald-400 border border-neutral-800">
-                                  {f.airlineLogo}
-                                </div>
-                                <div>
-                                  <h4 className="text-sm font-bold text-white leading-none">{f.airline}</h4>
-                                  <span className="text-[10px] text-neutral-500 font-mono">Flight {f.flightNumber} • {f.class}</span>
-                                </div>
-                              </div>
-
-                              <div className="grid grid-cols-3 gap-2 text-center max-w-md">
-                                <div className="text-left">
-                                  <p className="text-lg font-extrabold text-white leading-none tracking-tight">{f.departureTime}</p>
-                                  <p className="text-xs text-neutral-400 font-bold mt-1 uppercase">{f.departureAirport}</p>
-                                </div>
-                                <div className="relative flex flex-col justify-center items-center">
-                                  <span className="text-[10px] text-neutral-400 font-semibold">{f.duration}</span>
-                                  <div className="w-full h-[2px] bg-neutral-800 relative my-1.5">
-                                    <div className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 rounded-full bg-emerald-500" />
-                                    {f.stops > 0 && <div className="absolute left-1/2 top-1/2 -translate-y-1/2 w-2 h-2 rounded-full bg-orange-400" />}
-                                  </div>
-                                  <span className="text-[9px] text-neutral-500">{f.stops === 0 ? 'Nonstop' : `${f.stops} Stop (${f.stopoverAirports?.join(', ')})`}</span>
-                                </div>
-                                <div className="text-right">
-                                  <p className="text-lg font-extrabold text-white leading-none tracking-tight">{f.arrivalTime}</p>
-                                  <p className="text-xs text-neutral-400 font-bold mt-1 uppercase">{f.arrivalAirport}</p>
-                                </div>
-                              </div>
-
-                              <div className="flex gap-2 items-center text-[10px] text-neutral-400 font-medium">
-                                <Briefcase className="w-3.5 h-3.5 text-neutral-500" />
-                                <span>Included Baggage: {f.baggage}</span>
-                              </div>
-                            </div>
-
-                            <div className="flex sm:flex-col justify-between items-end gap-3 w-full sm:w-auto border-t sm:border-t-0 border-neutral-800 pt-4 sm:pt-0 shrink-0">
-                              <div className="sm:text-right">
-                                <p className="text-[10px] text-neutral-500 font-semibold">Price per passenger</p>
-                                <p className="text-2xl font-black text-white mt-0.5">${f.price.toLocaleString()}</p>
-                              </div>
-                              <button
-                                onClick={() => selectFlightForLeg(legIdx, f)}
-                                className={`font-bold text-xs px-5 py-3 rounded-xl flex items-center gap-1.5 cursor-pointer transition-all ${
-                                  selected?.id === f.id ? 'bg-emerald-500 text-white' : 'bg-emerald-600 hover:bg-emerald-500 group-hover:scale-[1.02] text-white'
-                                }`}
-                              >
-                                {selected?.id === f.id ? 'Selected' : 'Select Flight'} <ChevronRight className="w-4 h-4" />
-                              </button>
-                            </div>
-                          </div>
-                        </div>
-                      ))
-                    )}
+                          {tab.label}
+                        </button>
+                      ))}
+                    </div>
+                    <span className="text-[11px] text-neutral-500 italic">{SORT_TABS.find((t) => t.value === sortMode)?.hint}</span>
                   </div>
-                );
-              })
+                )}
+
+                {legResults.map((result, legIdx) => {
+                  const filtered = sortFlights(applyFilters(result.flights), sortMode);
+                  const selected = selections[legIdx];
+                  const showGrouping = sortMode === 'best' && filtered.length > 3;
+                  const topPicks = showGrouping ? filtered.slice(0, 3) : filtered;
+                  const rest = showGrouping ? filtered.slice(3) : [];
+
+                  return (
+                    <div key={legIdx} className="space-y-4">
+                      <div className="flex items-center justify-between">
+                        <h4 className="text-sm font-bold text-white uppercase tracking-wider">{result.label}</h4>
+                        {selected && (
+                          <span className="text-[11px] text-emerald-400 font-bold flex items-center gap-1">
+                            <CheckCircle2 className="w-3.5 h-3.5" /> Selected
+                          </span>
+                        )}
+                      </div>
+
+                      {filtered.length === 0 ? (
+                        <div className="text-center py-10 bg-neutral-900 border border-neutral-800 rounded-2xl space-y-1">
+                          <p className="text-sm font-bold text-white">No flights match the filter criteria</p>
+                          <p className="text-neutral-400 text-xs">Try increasing the budget or adjusting stop preferences.</p>
+                        </div>
+                      ) : (
+                        <>
+                          {showGrouping && <p className="text-[11px] font-bold text-neutral-400 uppercase tracking-wide">Top picks</p>}
+                          <div className="space-y-4">
+                            {topPicks.map((f) => (
+                              <FlightResultCard key={f.id} flight={f} isSelected={selected?.id === f.id} onSelect={() => selectFlightForLeg(legIdx, f)} />
+                            ))}
+                          </div>
+                          {showGrouping && rest.length > 0 && (
+                            <>
+                              <p className="text-[11px] font-bold text-neutral-400 uppercase tracking-wide pt-2 border-t border-neutral-800">More flights</p>
+                              <div className="space-y-4">
+                                {rest.map((f) => (
+                                  <FlightResultCard key={f.id} flight={f} isSelected={selected?.id === f.id} onSelect={() => selectFlightForLeg(legIdx, f)} />
+                                ))}
+                              </div>
+                            </>
+                          )}
+                        </>
+                      )}
+                    </div>
+                  );
+                })}
+              </>
             )}
 
             {allSelected && (
