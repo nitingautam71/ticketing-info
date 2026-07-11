@@ -1,0 +1,56 @@
+name: Publish Blog Draft on Merge
+
+# The only workflow that touches production. Fires when a blog-drafts/* PR is
+# merged to main, and calls the site's existing /api/admin/blog endpoint to
+# create the post live - never writes to the database directly.
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  publish:
+    if: >
+      github.event.pull_request.merged == true &&
+      startsWith(github.event.pull_request.head.ref, 'blog-drafts/')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.ref }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Find draft files added by this PR
+        id: files
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          files=$(gh pr view "$PR_NUMBER" --json files -q '.files[].path' | grep '^content/blog-drafts/.*\.json$' || true)
+          echo "Draft files in this PR:"
+          echo "$files"
+          {
+            echo "files<<BLOG_FILES_EOF"
+            echo "$files"
+            echo "BLOG_FILES_EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Publish draft(s) via admin API
+        if: steps.files.outputs.files != ''
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          DRAFT_FILES: ${{ steps.files.outputs.files }}
+        run: node scripts/blog/publish-draft.mjs
+
+      - name: No draft files found
+        if: steps.files.outputs.files == ''
+        run: echo "No content/blog-drafts/*.json files in this PR - nothing to publish."
