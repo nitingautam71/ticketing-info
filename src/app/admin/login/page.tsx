@@ -21,7 +21,13 @@ export default function AdminLoginPage() {
         body: JSON.stringify({ password }),
       });
       if (!res.ok) {
-        setError('Incorrect password.');
+        if (res.status === 429) {
+          const retryAfter = res.headers.get('Retry-After');
+          const minutes = retryAfter ? Math.ceil(parseInt(retryAfter, 10) / 60) : null;
+          setError(minutes ? `Too many attempts. Please try again in about ${minutes} minute${minutes === 1 ? '' : 's'}.` : 'Too many attempts. Please try again shortly.');
+        } else {
+          setError('Incorrect password.');
+        }
         return;
       }
       router.push('/admin');
