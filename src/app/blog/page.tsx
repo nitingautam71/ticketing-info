@@ -8,6 +8,8 @@ export const metadata: Metadata = {
   alternates: { canonical: '/blog' },
 };
 
+export const dynamic = 'force-dynamic';
+
 export default async function BlogIndexPage() {
   const posts = await prisma.blogPost.findMany({
     where: { published: true },
