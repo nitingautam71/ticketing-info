@@ -1,0 +1,24 @@
+import { NextResponse } from 'next/server';
+import { ZodError } from 'zod';
+import { prisma } from '@/lib/db';
+import { siteSettingSchema } from '@/lib/cms';
+
+export async function POST(req: Request) {
+  try {
+    const body = await req.json();
+    const input = siteSettingSchema.parse(body);
+
+    const setting = await prisma.siteSetting.upsert({
+      where: { key: input.key },
+      create: { key: input.key, value: input.value },
+      update: { value: input.value },
+    });
+    return NextResponse.json({ success: true, setting });
+  } catch (err) {
+    if (err instanceof ZodError) {
+      return NextResponse.json({ error: 'Invalid input', issues: err.issues }, { status: 400 });
+    }
+    console.error('Failed to save site setting:', err);
+    return NextResponse.json({ error: 'Failed to save site setting' }, { status: 500 });
+  }
+}

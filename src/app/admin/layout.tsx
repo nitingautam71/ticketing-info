@@ -1,11 +1,15 @@
 import Link from 'next/link';
-import { LayoutDashboard, Users, BookOpen, Mail, LogOut } from 'lucide-react';
+import { LayoutDashboard, Users, BookOpen, Mail, LogOut, Star, HelpCircle, Newspaper, Settings } from 'lucide-react';
 
 const ADMIN_NAV = [
   { href: '/admin', label: 'Dashboard', icon: LayoutDashboard },
   { href: '/admin/leads', label: 'Leads', icon: Users },
   { href: '/admin/bookings', label: 'Bookings', icon: BookOpen },
   { href: '/admin/messages', label: 'Messages', icon: Mail },
+  { href: '/admin/testimonials', label: 'Testimonials', icon: Star },
+  { href: '/admin/faqs', label: 'FAQs', icon: HelpCircle },
+  { href: '/admin/blog', label: 'Blog', icon: Newspaper },
+  { href: '/admin/settings', label: 'Settings', icon: Settings },
 ];
 
 export default function AdminLayout({ children }: { children: React.ReactNode }) {
