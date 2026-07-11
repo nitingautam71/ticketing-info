@@ -1,9 +1,12 @@
 import Link from 'next/link';
-import { LayoutDashboard, Users, BookOpen, Mail, LogOut, Star, HelpCircle, Newspaper, Settings } from 'lucide-react';
+import { LayoutDashboard, Users, UserCog, CheckSquare, BookOpen, Mail, LogOut, Star, HelpCircle, Newspaper, Settings, IdCard } from 'lucide-react';
 
 const ADMIN_NAV = [
   { href: '/admin', label: 'Dashboard', icon: LayoutDashboard },
   { href: '/admin/leads', label: 'Leads', icon: Users },
+  { href: '/admin/customers', label: 'Customers', icon: IdCard },
+  { href: '/admin/agents', label: 'Agents', icon: UserCog },
+  { href: '/admin/tasks', label: 'Tasks', icon: CheckSquare },
   { href: '/admin/bookings', label: 'Bookings', icon: BookOpen },
   { href: '/admin/messages', label: 'Messages', icon: Mail },
   { href: '/admin/testimonials', label: 'Testimonials', icon: Star },

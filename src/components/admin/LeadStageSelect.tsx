@@ -2,12 +2,11 @@
 
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
+import { LEAD_STAGES, LEAD_STAGE_LABELS, type LeadStage } from '@/lib/leadLifecycle';
 
-const STATUSES = ['new', 'contacted', 'quoted', 'converted', 'closed'];
-
-export default function LeadStatusSelect({ id, status }: { id: string; status: string }) {
+export default function LeadStageSelect({ id, stage }: { id: string; stage: string }) {
   const router = useRouter();
-  const [value, setValue] = useState(status);
+  const [value, setValue] = useState(stage);
   const [isSaving, setIsSaving] = useState(false);
 
   const handleChange = async (e: React.ChangeEvent<HTMLSelectElement>) => {
@@ -18,7 +17,7 @@ export default function LeadStatusSelect({ id, status }: { id: string; status: s
       await fetch(`/api/admin/leads/${id}`, {
         method: 'PATCH',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ status: next }),
+        body: JSON.stringify({ stage: next }),
       });
       router.refresh();
     } finally {
@@ -31,11 +30,11 @@ export default function LeadStatusSelect({ id, status }: { id: string; status: s
       value={value}
       onChange={handleChange}
       disabled={isSaving}
-      className="bg-neutral-950 border border-neutral-800 rounded-lg px-2 py-1.5 text-xs text-white capitalize disabled:opacity-50"
+      className="bg-neutral-950 border border-neutral-800 rounded-lg px-2 py-1.5 text-xs text-white disabled:opacity-50"
     >
-      {STATUSES.map((s) => (
+      {LEAD_STAGES.map((s) => (
         <option key={s} value={s}>
-          {s}
+          {LEAD_STAGE_LABELS[s as LeadStage]}
         </option>
       ))}
     </select>

@@ -30,14 +30,6 @@ enum Vertical {
   visa
 }
 
-enum LeadStatus {
-  new
-  contacted
-  quoted
-  converted
-  closed
-}
-
 enum ContactMethod {
   call
   whatsapp
@@ -53,31 +45,95 @@ enum BookingStatus {
   completed
 }
 
+// Simple admin-managed roster for assigning leads/tasks to a named consultant.
+// Not a login identity yet — everyone still authenticates with the shared
+// ADMIN_PASSWORD gate. Upgrade to real per-agent accounts (own password, own
+// session) when there's more than one person actually logging into /admin.
+model Agent {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  name      String
+  email     String   @unique
+  phone     String?
+  active    Boolean  @default(true)
+
+  assignedLeads    Lead[]
+  assignedBookings Booking[]
+  assignedTasks    Task[]
+  communications   CommunicationLog[]
+}
+
+enum LeadSource {
+  website
+  phone
+  whatsapp
+  facebook
+  instagram
+  google_ads
+  email
+  referral
+}
+
+enum LeadStage {
+  new
+  assigned
+  contacted
+  follow_up
+  quotation_sent
+  negotiating
+  waiting_for_documents
+  payment_pending
+  paid
+  ticketed
+  completed
+  cancelled
+  lost
+  refunded
+}
+
+enum LeadPriority {
+  low
+  normal
+  high
+  urgent
+}
+
 // A qualified lead generated from any search/detail page — the core MVP conversion event.
 model Lead {
   id            String        @id @default(cuid())
+  displayId     String        @unique // e.g. LD-20260711-000154
   createdAt     DateTime      @default(now())
   updatedAt     DateTime      @updatedAt
   vertical      Vertical
   contactMethod ContactMethod
-  status        LeadStatus    @default(new)
+  source        LeadSource    @default(website)
+  stage         LeadStage     @default(new)
+  priority      LeadPriority  @default(normal)
 
   name    String
   email   String?
   phone   String?
 
-  message   String?
+  message    String?
+  notes      String?
   sourcePage String?
-  payload   Json? // the search result / item the lead was raised against
+  payload    Json? // the search result / item the lead was raised against
 
   customer   Customer? @relation(fields: [customerId], references: [id])
   customerId String?
 
-  bookings Booking[]
+  assignedAgent   Agent?  @relation(fields: [assignedAgentId], references: [id])
+  assignedAgentId String?
 
-  @@index([status])
+  bookings       Booking[]
+  quotations     Quotation[]
+  tasks          Task[]
+  communications CommunicationLog[]
+
+  @@index([stage])
   @@index([vertical])
   @@index([createdAt])
+  @@index([assignedAgentId])
 }
 
 model Customer {
@@ -85,17 +141,36 @@ model Customer {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
-  name  String
-  email String  @unique
-  phone String?
+  name     String
+  email    String  @unique
+  phone    String?
+  whatsapp String?
 
-  nationality     String?
-  passportNumber  String?
-  passportExpiry  DateTime?
-  preferences     Json?
+  gender         String?
+  dob            DateTime?
+  nationality    String?
+  passportNumber String?
+  passportExpiry DateTime?
+  visaStatus     String?
 
-  leads    Lead[]
-  bookings Booking[]
+  addressStreet  String?
+  addressCity    String?
+  addressCountry String?
+  addressZip     String?
+
+  // { seatPreference, mealPreference, preferredAirlines: [], preferredHotelBrands: [],
+  //   frequentFlyerNumbers: [{airline, number}], loyaltyMemberships: [{program, number}] }
+  preferences Json?
+
+  totalSpend Float   @default(0)
+  notes      String?
+
+  leads          Lead[]
+  bookings       Booking[]
+  passengers     Passenger[]
+  quotations     Quotation[]
+  documents      Document[]
+  communications CommunicationLog[]
 }
 
 // A booking request/confirmation. Since MVP has no online payment, these start
@@ -103,24 +178,252 @@ model Customer {
 // an admin once payment/ticketing is settled offline (phone, WhatsApp, bank transfer).
 model Booking {
   id         String        @id @default(cuid())
+  displayId  String        @unique // e.g. BK-20260711-000042
   createdAt  DateTime      @default(now())
   updatedAt  DateTime      @updatedAt
   vertical   Vertical
   status     BookingStatus @default(pending)
 
-  title      String
-  subtitle   String?
+  title         String
+  subtitle      String?
   priceEstimate Float?
-  travelDate String?
-  details    Json?
+  travelDate    String?
+  details       Json?
+
+  // Flight-specific fields — kept flat since a booking is normally one primary
+  // itinerary; per-segment detail (layovers, terminals, fare basis) lives in
+  // `details` Json until segment-level UI justifies a dedicated model.
+  airline      String?
+  flightNumber String?
+  pnr          String?
+  ticketNumber String?
+  bookingClass String?
+  fareBasis    String?
 
   lead       Lead?     @relation(fields: [leadId], references: [id])
   leadId     String?
   customer   Customer? @relation(fields: [customerId], references: [id])
   customerId String?
 
+  assignedAgent   Agent?  @relation(fields: [assignedAgentId], references: [id])
+  assignedAgentId String?
+
+  passengers         Passenger[]
+  payments           Payment[]
+  cardAuthorizations CardAuthorization[]
+  documents          Document[]
+  communications     CommunicationLog[]
+  tasks              Task[]
+
   @@index([status])
   @@index([vertical])
+  @@index([assignedAgentId])
+}
+
+model Passenger {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+
+  booking   Booking @relation(fields: [bookingId], references: [id], onDelete: Cascade)
+  bookingId String
+
+  customer   Customer? @relation(fields: [customerId], references: [id])
+  customerId String?
+
+  name           String
+  dob            DateTime?
+  gender         String?
+  nationality    String?
+  passportNumber String?
+  passportExpiry DateTime?
+  visaDetails    String?
+
+  mealPreference       String?
+  seatPreference       String?
+  specialAssistance    String?
+  wheelchair           Boolean @default(false)
+  infantAssociatedWith String? // name of the adult passenger this infant travels with
+
+  @@index([bookingId])
+}
+
+// A price quote that can be converted into a Booking once accepted.
+model Quotation {
+  id        String   @id @default(cuid())
+  displayId String   @unique // e.g. QT-20260711-000019
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  lead       Lead?     @relation(fields: [leadId], references: [id])
+  leadId     String?
+  customer   Customer? @relation(fields: [customerId], references: [id])
+  customerId String?
+
+  // [{ description: string, amount: number }]
+  lineItems Json
+  subtotal  Float
+  taxes     Float @default(0)
+  discount  Float @default(0)
+  total     Float
+
+  status              String    @default("draft") // draft | sent | accepted | rejected | expired
+  validUntil          DateTime?
+  convertedToBookingId String?
+}
+
+enum PaymentStatus {
+  unpaid
+  partially_paid
+  paid
+  refunded
+  chargeback
+}
+
+model Payment {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+
+  booking   Booking @relation(fields: [bookingId], references: [id], onDelete: Cascade)
+  bookingId String
+
+  amount       Float
+  currency     String        @default("USD")
+  method       String? // card, bank_transfer, cash, other
+  status       PaymentStatus @default(unpaid)
+  exchangeRate Float?
+  notes        String?
+
+  @@index([bookingId])
+}
+
+// Records that a cardholder authorized a charge — never stores a full PAN/CVV.
+// Only the last 4 digits, a signed declaration, and (optionally) a signature
+// image are kept. If you ever need to actually process cards, use a PCI
+// DSS-compliant processor's hosted fields/tokenization instead of touching
+// raw card data in this app at all.
+model CardAuthorization {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+
+  booking   Booking @relation(fields: [bookingId], references: [id], onDelete: Cascade)
+  bookingId String
+
+  cardholderName  String
+  cardLast4       String
+  cardBrand       String?
+  amount          Float
+  currency        String  @default("USD")
+  declarationText String
+  signatureDataUrl String?
+  signedAt        DateTime?
+  ipAddress       String?
+
+  @@index([bookingId])
+}
+
+model Document {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+
+  customer   Customer? @relation(fields: [customerId], references: [id])
+  customerId String?
+  booking    Booking?  @relation(fields: [bookingId], references: [id])
+  bookingId  String?
+
+  type       String // passport | visa | ticket | invoice | receipt | insurance | authorization_form | hotel_voucher | cruise_confirmation | other
+  fileUrl    String
+  fileName   String?
+  uploadedBy String?
+
+  @@index([customerId])
+  @@index([bookingId])
+}
+
+enum TaskStatus {
+  pending
+  in_progress
+  done
+  cancelled
+}
+
+model Task {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  title       String
+  description String?
+  dueDate     DateTime?
+  status      TaskStatus @default(pending)
+
+  assignedAgent   Agent?  @relation(fields: [assignedAgentId], references: [id])
+  assignedAgentId String?
+
+  lead      Lead?    @relation(fields: [leadId], references: [id])
+  leadId    String?
+  booking   Booking? @relation(fields: [bookingId], references: [id])
+  bookingId String?
+
+  @@index([status])
+  @@index([assignedAgentId])
+}
+
+enum CommChannel {
+  call
+  email
+  whatsapp
+  sms
+  internal_note
+}
+
+model CommunicationLog {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+
+  channel       CommChannel
+  direction     String  @default("outbound") // inbound | outbound
+  content       String
+  attachmentUrl String?
+
+  customer   Customer? @relation(fields: [customerId], references: [id])
+  customerId String?
+  lead       Lead?     @relation(fields: [leadId], references: [id])
+  leadId     String?
+  booking    Booking?  @relation(fields: [bookingId], references: [id])
+  bookingId  String?
+
+  agent   Agent?  @relation(fields: [agentId], references: [id])
+  agentId String?
+
+  @@index([customerId])
+  @@index([leadId])
+  @@index([bookingId])
+}
+
+enum SupplierType {
+  airline
+  hotel
+  cruise_line
+  car_rental
+  consolidator
+  insurance
+}
+
+model Supplier {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+
+  name            String
+  type            SupplierType
+  contactName     String?
+  contactEmail    String?
+  contactPhone    String?
+  commissionRate  Float?
+  settlementTerms String?
+  // Kept as an admin-only field, never rendered client-side. Treat as sensitive —
+  // move to a dedicated secrets manager before storing anything beyond test keys.
+  apiCredentials  Json?
+  notes           String?
 }
 
 model ContactMessage {

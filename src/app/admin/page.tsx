@@ -1,4 +1,5 @@
 import { prisma } from '@/lib/db';
+import { LEAD_STAGE_LABELS, type LeadStage } from '@/lib/leadLifecycle';
 
 export const dynamic = 'force-dynamic';
 
@@ -6,22 +7,29 @@ export default async function AdminDashboardPage() {
   const startOfToday = new Date();
   startOfToday.setHours(0, 0, 0, 0);
 
-  const [totalLeads, newLeads, leadsToday, totalBookings, unreadMessages, leadsByVertical] = await Promise.all([
+  const [totalLeads, newLeads, unassignedLeads, leadsToday, totalBookings, unreadMessages, openTasks, leadsByVertical, leadsByStage] = await Promise.all([
     prisma.lead.count(),
-    prisma.lead.count({ where: { status: 'new' } }),
+    prisma.lead.count({ where: { stage: 'new' } }),
+    prisma.lead.count({ where: { assignedAgentId: null } }),
     prisma.lead.count({ where: { createdAt: { gte: startOfToday } } }),
     prisma.booking.count(),
     prisma.contactMessage.count({ where: { handled: false } }),
+    prisma.task.count({ where: { status: { in: ['pending', 'in_progress'] } } }),
     prisma.lead.groupBy({ by: ['vertical'], _count: { vertical: true } }),
+    prisma.lead.groupBy({ by: ['stage'], _count: { stage: true } }),
   ]);
 
   const stats = [
     { label: 'Total Leads', value: totalLeads },
     { label: 'New (Unactioned)', value: newLeads },
+    { label: 'Unassigned', value: unassignedLeads },
     { label: 'Leads Today', value: leadsToday },
     { label: 'Bookings', value: totalBookings },
     { label: 'Unread Messages', value: unreadMessages },
+    { label: 'Open Tasks', value: openTasks },
   ];
+
+  const stageCounts = new Map(leadsByStage.map((row) => [row.stage, row._count.stage]));
 
   return (
     <div className="space-y-8">
@@ -30,13 +38,29 @@ export default async function AdminDashboardPage() {
         <p className="text-sm text-neutral-400 mt-1">Live overview of lead flow and bookings.</p>
       </div>
 
-      <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+      <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-4">
         {stats.map((s) => (
           <div key={s.label} className="bg-neutral-900 border border-neutral-800 rounded-2xl p-5">
             <p className="text-[10px] font-bold text-neutral-500 uppercase tracking-wider">{s.label}</p>
             <p className="text-3xl font-black text-white mt-1">{s.value}</p>
           </div>
         ))}
+      </div>
+
+      <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-6">
+        <h2 className="text-sm font-bold text-white uppercase tracking-wider mb-4">Pipeline by Stage</h2>
+        {totalLeads === 0 ? (
+          <p className="text-sm text-neutral-400">No leads yet.</p>
+        ) : (
+          <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-3">
+            {(Object.keys(LEAD_STAGE_LABELS) as LeadStage[]).map((stage) => (
+              <div key={stage} className="bg-neutral-950 border border-neutral-850 rounded-xl p-3 text-center">
+                <p className="text-xl font-black text-emerald-400">{stageCounts.get(stage) ?? 0}</p>
+                <p className="text-[9px] font-bold text-neutral-400 uppercase tracking-wider mt-1">{LEAD_STAGE_LABELS[stage]}</p>
+              </div>
+            ))}
+          </div>
+        )}
       </div>
 
       <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-6">

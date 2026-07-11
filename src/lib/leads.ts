@@ -2,10 +2,12 @@ import { z } from 'zod';
 import type { Prisma } from '@prisma/client';
 import { prisma } from '@/lib/db';
 import type { BookingVertical } from '@/lib/types';
+import { generateLeadDisplayId } from '@/lib/displayId';
 
 export const leadSchema = z.object({
   vertical: z.enum(['flight', 'hotel', 'cruise', 'train', 'car', 'transfer', 'insurance', 'package', 'visa']),
   contactMethod: z.enum(['call', 'whatsapp', 'callback', 'form', 'email']),
+  source: z.enum(['website', 'phone', 'whatsapp', 'facebook', 'instagram', 'google_ads', 'email', 'referral']).optional(),
   name: z.string().trim().min(2, 'Name is required').max(120),
   email: z.string().trim().email().optional().or(z.literal('')),
   phone: z.string().trim().max(40).optional().or(z.literal('')),
@@ -17,10 +19,14 @@ export const leadSchema = z.object({
 export type LeadInput = z.infer<typeof leadSchema>;
 
 export async function createLead(input: LeadInput) {
+  const displayId = await generateLeadDisplayId();
+
   const lead = await prisma.lead.create({
     data: {
+      displayId,
       vertical: input.vertical as BookingVertical,
       contactMethod: input.contactMethod,
+      source: input.source ?? 'website',
       name: input.name,
       email: input.email || undefined,
       phone: input.phone || undefined,
@@ -36,7 +42,7 @@ export async function createLead(input: LeadInput) {
       action: 'lead.created',
       entity: 'Lead',
       entityId: lead.id,
-      meta: { vertical: lead.vertical, contactMethod: lead.contactMethod },
+      meta: { displayId: lead.displayId, vertical: lead.vertical, contactMethod: lead.contactMethod },
     },
   });
 
