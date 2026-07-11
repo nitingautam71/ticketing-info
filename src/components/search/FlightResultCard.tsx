@@ -127,7 +127,12 @@ export default function FlightResultCard({ flight: f, isSelected, onSelect }: Fl
             )}
             {f.isSelfTransfer && (
               <span className="flex items-center gap-1 px-2 py-0.5 rounded-full border border-amber-500/30 text-amber-400">
-                <AlertCircle className="w-3 h-3" /> Self-transfer
+                <AlertCircle className="w-3 h-3" /> {f.isProtectedSelfTransfer ? 'Self-transfer (protected)' : 'Self-transfer (unprotected)'}
+              </span>
+            )}
+            {f.isMashUp && (
+              <span className="flex items-center gap-1 px-2 py-0.5 rounded-full border border-amber-500/30 text-amber-400">
+                <AlertCircle className="w-3 h-3" /> Separate tickets
               </span>
             )}
             {f.ecoDeltaPercent != null && (
@@ -144,7 +149,7 @@ export default function FlightResultCard({ flight: f, isSelected, onSelect }: Fl
 
         <div className="flex sm:flex-col justify-between items-end gap-3 w-full sm:w-auto border-t sm:border-t-0 border-neutral-800 pt-4 sm:pt-0 shrink-0">
           <div className="sm:text-right">
-            <p className="text-[10px] text-neutral-500 font-semibold">Price per passenger</p>
+            <p className="text-[10px] text-neutral-500 font-semibold">Total price</p>
             <p className="text-2xl font-black text-white mt-0.5">${f.price.toLocaleString()}</p>
           </div>
           <button

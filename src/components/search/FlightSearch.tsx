@@ -41,6 +41,15 @@ interface Bounds {
   max: number;
 }
 
+interface FilterSnapshot {
+  sortMode: SortMode;
+  maxPrice: number;
+  maxDurationMinutes: number;
+  selectedStops: Set<number>;
+  selectedAirlines: Set<string>;
+  selectedBuckets: Set<DepartureBucket>;
+}
+
 function computeBounds(flights: Flight[]): { price: Bounds; duration: Bounds } {
   if (flights.length === 0) return { price: { min: 0, max: 5000 }, duration: { min: 0, max: 24 * 60 } };
   const prices = flights.map((f) => f.price);
@@ -48,6 +57,18 @@ function computeBounds(flights: Flight[]): { price: Bounds; duration: Bounds } {
   return {
     price: { min: Math.min(...prices), max: Math.max(...prices) },
     duration: { min: Math.min(...durations), max: Math.max(...durations) },
+  };
+}
+
+function freshFilters(flights: Flight[]): FilterSnapshot {
+  const bounds = computeBounds(flights);
+  return {
+    sortMode: 'best',
+    maxPrice: bounds.price.max,
+    maxDurationMinutes: bounds.duration.max,
+    selectedStops: new Set(),
+    selectedAirlines: new Set(),
+    selectedBuckets: new Set(),
   };
 }
 
@@ -64,6 +85,7 @@ export default function FlightSearch() {
 
   const [legResults, setLegResults] = useState<LegResult[]>([]);
   const [selections, setSelections] = useState<(Flight | null)[]>([]);
+  const [activeLegIndex, setActiveLegIndex] = useState(0);
   const [isLoading, setIsLoading] = useState(false);
   const [hasSearched, setHasSearched] = useState(false);
 
@@ -73,6 +95,21 @@ export default function FlightSearch() {
   const [selectedStops, setSelectedStops] = useState<Set<number>>(new Set());
   const [selectedAirlines, setSelectedAirlines] = useState<Set<string>>(new Set());
   const [selectedBuckets, setSelectedBuckets] = useState<Set<DepartureBucket>>(new Set());
+
+  const applyFilterSnapshot = (snapshot: FilterSnapshot) => {
+    setSortMode(snapshot.sortMode);
+    setMaxPrice(snapshot.maxPrice);
+    setMaxDurationMinutes(snapshot.maxDurationMinutes);
+    setSelectedStops(snapshot.selectedStops);
+    setSelectedAirlines(snapshot.selectedAirlines);
+    setSelectedBuckets(snapshot.selectedBuckets);
+  };
+
+  const stepLabel = (idx: number): string => {
+    if (tripType === 'roundtrip') return idx === 0 ? 'Departing flight' : 'Returning flight';
+    if (tripType === 'multicity') return `Flight ${idx + 1}`;
+    return '';
+  };
 
   const swapAirports = () => {
     setFrom(to);
@@ -97,13 +134,13 @@ export default function FlightSearch() {
     }
     if (tripType === 'roundtrip') {
       return [
-        { leg: { from, to, date }, label: `Outbound: ${from} → ${to}` },
-        { leg: { from: to, to: from, date: returnDate }, label: `Return: ${to} → ${from}` },
+        { leg: { from, to, date }, label: `${from} → ${to}` },
+        { leg: { from: to, to: from, date: returnDate }, label: `${to} → ${from}` },
       ];
     }
     return [
-      { leg: { from, to, date }, label: `Flight 1: ${from} → ${to}` },
-      ...extraLegs.map((l, i) => ({ leg: l, label: `Flight ${i + 2}: ${l.from} → ${l.to}` })),
+      { leg: { from, to, date }, label: `${from} → ${to}` },
+      ...extraLegs.map((l) => ({ leg: l, label: `${l.from} → ${l.to}` })),
     ];
   };
 
@@ -112,6 +149,7 @@ export default function FlightSearch() {
     setIsLoading(true);
     setHasSearched(true);
     setSelections([]);
+    setActiveLegIndex(0);
     try {
       const legs = buildLegs();
       const results = await Promise.all(
@@ -124,14 +162,7 @@ export default function FlightSearch() {
       );
       setLegResults(results);
       setSelections(new Array(results.length).fill(null));
-
-      const bounds = computeBounds(results.flatMap((r) => r.flights));
-      setSortMode('best');
-      setMaxPrice(bounds.price.max);
-      setMaxDurationMinutes(bounds.duration.max);
-      setSelectedStops(new Set());
-      setSelectedAirlines(new Set());
-      setSelectedBuckets(new Set());
+      applyFilterSnapshot(freshFilters(results[0]?.flights ?? []));
     } catch (err) {
       console.error(err);
       setLegResults([]);
@@ -142,6 +173,15 @@ export default function FlightSearch() {
 
   const selectFlightForLeg = (legIdx: number, flight: Flight) => {
     setSelections((prev) => prev.map((f, i) => (i === legIdx ? flight : f)));
+    const nextIdx = legIdx + 1;
+    setActiveLegIndex((prev) => Math.max(prev, nextIdx));
+    if (legResults[nextIdx]) applyFilterSnapshot(freshFilters(legResults[nextIdx].flights));
+  };
+
+  const reopenLeg = (idx: number) => {
+    setSelections((prev) => prev.map((f, i) => (i >= idx ? null : f)));
+    setActiveLegIndex(idx);
+    if (legResults[idx]) applyFilterSnapshot(freshFilters(legResults[idx].flights));
   };
 
   const applyFilters = (flights: Flight[]) =>
@@ -154,19 +194,14 @@ export default function FlightSearch() {
       return true;
     });
 
-  const allFlights = legResults.flatMap((r) => r.flights);
-  const airlinesList = Array.from(new Set(allFlights.map((f) => f.airline))).sort();
-  const bounds = computeBounds(allFlights);
+  const activeResult = legResults[activeLegIndex];
+  const activeFlights = activeResult?.flights ?? [];
+  const airlinesList = Array.from(new Set(activeFlights.map((f) => f.airline))).sort();
+  const bounds = computeBounds(activeFlights);
   const allSelected = legResults.length > 0 && selections.length === legResults.length && selections.every(Boolean);
-  const totalPrice = (selections.filter(Boolean) as Flight[]).reduce((sum, f) => sum + f.price, 0) * passengerCount;
+  const totalPrice = (selections.filter(Boolean) as Flight[]).reduce((sum, f) => sum + f.price, 0);
 
-  const resetFilters = () => {
-    setMaxPrice(bounds.price.max);
-    setMaxDurationMinutes(bounds.duration.max);
-    setSelectedStops(new Set());
-    setSelectedAirlines(new Set());
-    setSelectedBuckets(new Set());
-  };
+  const resetFilters = () => applyFilterSnapshot(freshFilters(activeFlights));
 
   const proceedToBooking = () => {
     const chosen = selections as Flight[];
@@ -311,7 +346,7 @@ export default function FlightSearch() {
             onReset={resetFilters}
           />
 
-          <div className="lg:col-span-3 space-y-8">
+          <div className="lg:col-span-3 space-y-6">
             {isLoading ? (
               <div className="text-center py-16 bg-neutral-900/40 border border-neutral-800 rounded-2xl">
                 <div className="w-8 h-8 border-4 border-emerald-500/30 border-t-emerald-500 rounded-full animate-spin mx-auto mb-4" />
@@ -325,55 +360,89 @@ export default function FlightSearch() {
               </div>
             ) : (
               <>
-                {allFlights.length > 0 && (
-                  <div className="flex items-center gap-4 flex-wrap">
-                    <div className="flex bg-neutral-950 p-1 border border-neutral-800 rounded-xl">
-                      {SORT_TABS.map((tab) => (
-                        <button
-                          key={tab.value}
-                          type="button"
-                          onClick={() => setSortMode(tab.value)}
-                          className={`text-xs px-4 py-2 rounded-lg font-bold transition-all cursor-pointer ${
-                            sortMode === tab.value ? 'bg-emerald-600 text-white shadow' : 'text-neutral-400 hover:text-white'
-                          }`}
-                        >
-                          {tab.label}
-                        </button>
+                {legResults.length > 1 && (
+                  <div className="flex items-center gap-2">
+                    <span className="text-[11px] font-bold text-neutral-400 uppercase tracking-wide shrink-0">
+                      Step {Math.min(activeLegIndex + 1, legResults.length)} of {legResults.length}
+                    </span>
+                    <div className="flex gap-1.5">
+                      {legResults.map((_, i) => (
+                        <div key={i} className={`h-1.5 w-8 rounded-full ${i < activeLegIndex ? 'bg-emerald-500' : i === activeLegIndex ? 'bg-emerald-500/40' : 'bg-neutral-800'}`} />
                       ))}
                     </div>
-                    <span className="text-[11px] text-neutral-500 italic">{SORT_TABS.find((t) => t.value === sortMode)?.hint}</span>
                   </div>
                 )}
 
-                {legResults.map((result, legIdx) => {
-                  const filtered = sortFlights(applyFilters(result.flights), sortMode);
-                  const selected = selections[legIdx];
-                  const showGrouping = sortMode === 'best' && filtered.length > 3;
-                  const topPicks = showGrouping ? filtered.slice(0, 3) : filtered;
-                  const rest = showGrouping ? filtered.slice(3) : [];
-
+                {legResults.slice(0, activeLegIndex).map((result, i) => {
+                  const sel = selections[i];
+                  if (!sel) return null;
                   return (
-                    <div key={legIdx} className="space-y-4">
-                      <div className="flex items-center justify-between">
-                        <h4 className="text-sm font-bold text-white uppercase tracking-wider">{result.label}</h4>
-                        {selected && (
-                          <span className="text-[11px] text-emerald-400 font-bold flex items-center gap-1">
-                            <CheckCircle2 className="w-3.5 h-3.5" /> Selected
-                          </span>
-                        )}
-                      </div>
-
-                      {filtered.length === 0 ? (
-                        <div className="text-center py-10 bg-neutral-900 border border-neutral-800 rounded-2xl space-y-1">
-                          <p className="text-sm font-bold text-white">No flights match the filter criteria</p>
-                          <p className="text-neutral-400 text-xs">Try increasing the budget or adjusting stop preferences.</p>
+                    <div key={i} className="flex items-center justify-between gap-3 bg-neutral-900 border border-emerald-500/30 rounded-2xl px-5 py-3">
+                      <div className="flex items-center gap-3 min-w-0">
+                        <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0" />
+                        <div className="min-w-0">
+                          <p className="text-[10px] font-bold text-emerald-400 uppercase tracking-wide">
+                            {stepLabel(i) && `${stepLabel(i)} • `}
+                            {result.label}
+                          </p>
+                          <p className="text-xs text-neutral-300 truncate">
+                            {sel.airline} • {sel.departureTime} – {sel.arrivalTime} • ${sel.price.toLocaleString()}
+                          </p>
                         </div>
-                      ) : (
+                      </div>
+                      <button type="button" onClick={() => reopenLeg(i)} className="text-xs font-bold text-emerald-400 hover:text-emerald-300 cursor-pointer shrink-0">
+                        Change
+                      </button>
+                    </div>
+                  );
+                })}
+
+                {activeResult && (
+                  <div className="space-y-4">
+                    <h4 className="text-sm font-bold text-white uppercase tracking-wider">
+                      {stepLabel(activeLegIndex) && `${stepLabel(activeLegIndex)} • `}
+                      {activeResult.label}
+                    </h4>
+
+                    {activeFlights.length > 0 && (
+                      <div className="flex items-center gap-4 flex-wrap">
+                        <div className="flex bg-neutral-950 p-1 border border-neutral-800 rounded-xl">
+                          {SORT_TABS.map((tab) => (
+                            <button
+                              key={tab.value}
+                              type="button"
+                              onClick={() => setSortMode(tab.value)}
+                              className={`text-xs px-4 py-2 rounded-lg font-bold transition-all cursor-pointer ${
+                                sortMode === tab.value ? 'bg-emerald-600 text-white shadow' : 'text-neutral-400 hover:text-white'
+                              }`}
+                            >
+                              {tab.label}
+                            </button>
+                          ))}
+                        </div>
+                        <span className="text-[11px] text-neutral-500 italic">{SORT_TABS.find((t) => t.value === sortMode)?.hint}</span>
+                      </div>
+                    )}
+
+                    {(() => {
+                      const filtered = sortFlights(applyFilters(activeFlights), sortMode);
+                      if (filtered.length === 0) {
+                        return (
+                          <div className="text-center py-10 bg-neutral-900 border border-neutral-800 rounded-2xl space-y-1">
+                            <p className="text-sm font-bold text-white">No flights match the filter criteria</p>
+                            <p className="text-neutral-400 text-xs">Try increasing the budget or adjusting stop preferences.</p>
+                          </div>
+                        );
+                      }
+                      const showGrouping = sortMode === 'best' && filtered.length > 3;
+                      const topPicks = showGrouping ? filtered.slice(0, 3) : filtered;
+                      const rest = showGrouping ? filtered.slice(3) : [];
+                      return (
                         <>
                           {showGrouping && <p className="text-[11px] font-bold text-neutral-400 uppercase tracking-wide">Top picks</p>}
                           <div className="space-y-4">
                             {topPicks.map((f) => (
-                              <FlightResultCard key={f.id} flight={f} isSelected={selected?.id === f.id} onSelect={() => selectFlightForLeg(legIdx, f)} />
+                              <FlightResultCard key={f.id} flight={f} isSelected={false} onSelect={() => selectFlightForLeg(activeLegIndex, f)} />
                             ))}
                           </div>
                           {showGrouping && rest.length > 0 && (
@@ -381,33 +450,49 @@ export default function FlightSearch() {
                               <p className="text-[11px] font-bold text-neutral-400 uppercase tracking-wide pt-2 border-t border-neutral-800">More flights</p>
                               <div className="space-y-4">
                                 {rest.map((f) => (
-                                  <FlightResultCard key={f.id} flight={f} isSelected={selected?.id === f.id} onSelect={() => selectFlightForLeg(legIdx, f)} />
+                                  <FlightResultCard key={f.id} flight={f} isSelected={false} onSelect={() => selectFlightForLeg(activeLegIndex, f)} />
                                 ))}
                               </div>
                             </>
                           )}
                         </>
-                      )}
-                    </div>
-                  );
-                })}
+                      );
+                    })()}
+                  </div>
+                )}
               </>
             )}
 
             {allSelected && (
-              <div className="sticky bottom-4 bg-neutral-900 border border-emerald-500/40 rounded-2xl p-5 flex flex-col sm:flex-row items-center justify-between gap-4 shadow-2xl">
-                <div>
-                  <p className="text-xs text-neutral-400 font-semibold">
-                    {legResults.length > 1 ? `${legResults.length} flights selected` : 'Flight selected'} • {passengerCount} passenger{passengerCount > 1 ? 's' : ''}
-                  </p>
-                  <p className="text-xl font-black text-white">Total: ${totalPrice.toLocaleString()}</p>
+              <div className="sticky bottom-4 bg-neutral-900 border border-emerald-500/40 rounded-2xl p-5 shadow-2xl space-y-4">
+                <div className="space-y-1.5">
+                  {legResults.map((result, i) => {
+                    const sel = selections[i] as Flight;
+                    return (
+                      <div key={i} className="flex items-center justify-between gap-3 text-xs">
+                        <span className="text-neutral-400 truncate">
+                          {stepLabel(i) && `${stepLabel(i)} • `}
+                          {result.label} <span className="text-neutral-500">({sel.airline} {sel.flightNumber})</span>
+                        </span>
+                        <span className="text-white font-bold shrink-0">${sel.price.toLocaleString()}</span>
+                      </div>
+                    );
+                  })}
                 </div>
-                <button
-                  onClick={proceedToBooking}
-                  className="w-full sm:w-auto bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs px-6 py-3.5 rounded-xl flex items-center justify-center gap-2 cursor-pointer transition-all"
-                >
-                  Continue Booking <ChevronRight className="w-4 h-4" />
-                </button>
+                <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-3 border-t border-neutral-800">
+                  <div>
+                    <p className="text-xs text-neutral-400 font-semibold">
+                      {passengerCount} traveler{passengerCount > 1 ? 's' : ''}
+                    </p>
+                    <p className="text-xl font-black text-white">Total: ${totalPrice.toLocaleString()}</p>
+                  </div>
+                  <button
+                    onClick={proceedToBooking}
+                    className="w-full sm:w-auto bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs px-6 py-3.5 rounded-xl flex items-center justify-center gap-2 cursor-pointer transition-all"
+                  >
+                    Continue Booking <ChevronRight className="w-4 h-4" />
+                  </button>
+                </div>
               </div>
             )}
           </div>

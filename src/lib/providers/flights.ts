@@ -36,11 +36,16 @@ export interface Flight {
   stops: number;
   stopoverAirports?: string[];
   segments?: FlightSegment[];
+  /** Total price for the whole itinerary across every requested traveler — NOT per-passenger. */
   price: number;
   class: CabinClass;
   baggage: string;
   /** Connection booked as separate tickets — passenger must recheck bags themselves. */
   isSelfTransfer?: boolean;
+  /** Airline/booking site guarantees rebooking if a self-transfer connection is missed. */
+  isProtectedSelfTransfer?: boolean;
+  /** Outbound and return (or two one-ways) sold as unrelated, separately-issued tickets. */
+  isMashUp?: boolean;
   farePolicy?: FarePolicy;
   /** CO2 emissions vs. the greenest itinerary on this route, as a +/- percentage. */
   ecoDeltaPercent?: number;
@@ -253,6 +258,8 @@ interface RawItinerary {
   price: { raw: number };
   legs: RawLeg[];
   isSelfTransfer?: boolean;
+  isProtectedSelfTransfer?: boolean;
+  isMashUp?: boolean;
   farePolicy?: {
     isChangeAllowed: boolean;
     isCancellationAllowed: boolean;
@@ -403,7 +410,9 @@ class SkyScrapperFlightProvider implements FlightProvider {
       .map((it) => {
         const leg = it.legs[0];
         const rawSegments = leg.segments ?? [];
-        const legMarketingCarrier = leg.carriers?.marketing?.[0];
+        const marketingCarriers = leg.carriers?.marketing ?? [];
+        const isMultiAirline = marketingCarriers.length > 1;
+        const legMarketingCarrier = marketingCarriers[0];
 
         const segments: FlightSegment[] = rawSegments.map((seg, idx) => {
           const prev = rawSegments[idx - 1];
@@ -435,9 +444,9 @@ class SkyScrapperFlightProvider implements FlightProvider {
 
         return {
           id: it.id,
-          airline: legMarketingCarrier?.name || 'Unknown Airline',
-          airlineLogo: legMarketingCarrier?.alternateId || '—',
-          airlineLogoUrl: legMarketingCarrier?.logoUrl,
+          airline: isMultiAirline ? 'Multiple Airlines' : legMarketingCarrier?.name || 'Unknown Airline',
+          airlineLogo: isMultiAirline ? '✈' : legMarketingCarrier?.alternateId || '—',
+          airlineLogoUrl: isMultiAirline ? undefined : legMarketingCarrier?.logoUrl,
           operatingAirline,
           flightNumber: segments[0]?.flightNumber || legMarketingCarrier?.alternateId || '',
           departureAirport: leg.origin?.displayCode || originCode,
@@ -453,6 +462,8 @@ class SkyScrapperFlightProvider implements FlightProvider {
           class: cabinClass,
           baggage: 'Confirm baggage allowance at checkout',
           isSelfTransfer: it.isSelfTransfer,
+          isProtectedSelfTransfer: it.isProtectedSelfTransfer,
+          isMashUp: it.isMashUp,
           farePolicy: it.farePolicy
             ? {
                 changeable: it.farePolicy.isChangeAllowed,
