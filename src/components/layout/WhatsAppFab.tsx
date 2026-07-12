@@ -7,7 +7,7 @@ import { trackEvent } from '@/lib/analytics';
 
 export default function WhatsAppFab() {
   const pathname = usePathname();
-  if (pathname?.startsWith('/admin')) return null;
+  if (pathname?.startsWith('/admin') || pathname?.startsWith('/lp/')) return null;
 
   return (
     <a

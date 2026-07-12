@@ -1,8 +1,24 @@
+'use client';
+
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { Plane } from 'lucide-react';
 
 export default function Footer() {
+  const pathname = usePathname();
   const year = new Date().getFullYear();
+
+  if (pathname?.startsWith('/lp/')) {
+    return (
+      <footer className="border-t border-white/10 mt-auto">
+        <div className="max-w-3xl mx-auto px-4 md:px-8 py-6 flex flex-wrap items-center justify-center gap-4 text-[10px] font-bold text-neutral-400 uppercase tracking-widest">
+          <span>&copy; {year} Ticketing-Info</span>
+          <Link href="/legal/privacy" className="hover:text-white transition-colors">Privacy Policy</Link>
+          <Link href="/legal/terms" className="hover:text-white transition-colors">Terms of Service</Link>
+        </div>
+      </footer>
+    );
+  }
 
   return (
     <footer className="border-t border-white/10 mt-auto">
