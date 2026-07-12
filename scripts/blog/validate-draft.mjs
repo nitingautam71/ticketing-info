@@ -74,12 +74,56 @@ if (unexpectedLines.length > 0) {
   fail(`Unexpected file changes outside content/blog-drafts/ - refusing to proceed:\n${unexpectedLines.join('\n')}`);
 }
 
+// Models writing a long multi-paragraph "content" field sometimes emit a literal
+// newline/tab inside a JSON string instead of the escaped \n / \t the JSON spec
+// requires. Repair that specific case (escape raw control characters that occur
+// inside string literals only) before giving up on the whole draft.
+function escapeControlCharsInJsonStrings(text) {
+  let out = '';
+  let inString = false;
+  let escaped = false;
+  for (const ch of text) {
+    if (inString) {
+      if (escaped) {
+        out += ch;
+        escaped = false;
+      } else if (ch === '\\') {
+        out += ch;
+        escaped = true;
+      } else if (ch === '"') {
+        out += ch;
+        inString = false;
+      } else if (ch === '\n') {
+        out += '\\n';
+      } else if (ch === '\r') {
+        out += '\\r';
+      } else if (ch === '\t') {
+        out += '\\t';
+      } else if (ch.charCodeAt(0) < 0x20) {
+        out += `\\u${ch.charCodeAt(0).toString(16).padStart(4, '0')}`;
+      } else {
+        out += ch;
+      }
+    } else {
+      if (ch === '"') inString = true;
+      out += ch;
+    }
+  }
+  return out;
+}
+
 const draftPath = draftLines[0].slice(3).trim();
+const draftRaw = readFileSync(draftPath, 'utf8');
 let draft;
 try {
-  draft = JSON.parse(readFileSync(draftPath, 'utf8'));
-} catch (e) {
-  fail(`Draft file ${draftPath} is not valid JSON: ${e.message}`);
+  draft = JSON.parse(draftRaw);
+} catch (firstErr) {
+  try {
+    draft = JSON.parse(escapeControlCharsInJsonStrings(draftRaw));
+    console.log(`Note: ${draftPath} had raw control characters inside a JSON string (e.g. an unescaped newline) - repaired automatically.`);
+  } catch {
+    fail(`Draft file ${draftPath} is not valid JSON: ${firstErr.message}`);
+  }
 }
 
 const errors = [];
