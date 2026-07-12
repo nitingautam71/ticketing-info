@@ -6,6 +6,9 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'images.unsplash.com' },
       { protocol: 'https', hostname: 'videos.pexels.com' },
       { protocol: 'https', hostname: 'logos.skyscnr.com' },
+      // Blog cover images are admin-entered URLs (single-operator trust model, see README).
+      // Wildcard so any https host works instead of allowlisting per-image.
+      { protocol: 'https', hostname: '**' },
     ],
   },
   async headers() {
