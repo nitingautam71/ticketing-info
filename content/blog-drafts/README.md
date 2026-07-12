@@ -9,10 +9,11 @@ here has no effect on the site by itself.
 
 1. Daily workflow researches travel news and writes one file here: `YYYY-MM-DD-<slug>.json`.
 2. It opens a PR (`blog-drafts/YYYY-MM-DD` -> `main`) containing that file, with the full post
-   text in the PR description for review.
-3. When you merge the PR, `.github/workflows/publish-blog-on-merge.yml` calls the site's
-   `/api/admin/blog` endpoint to create the post live with `published: true`. That merge is the
-   only step that touches production.
+   text in the PR description, and immediately auto-merges it - by explicit request, there is no
+   human review gate here. The PR exists only as a git history / audit trail, not a checkpoint.
+3. That merge triggers `.github/workflows/publish-blog-on-merge.yml`, which calls the site's
+   `/api/admin/blog` endpoint to create the post live with `published: true`. That's the only
+   step that touches production, and it now happens automatically, same-day, with no manual step.
 
 ## File shape
 

@@ -99,6 +99,7 @@ jobs:
           git push origin "blog-drafts/$TODAY"
 
       - name: Open pull request
+        id: pr
         if: steps.commit.outcome == 'success'
         env:
           GH_TOKEN: ${{ github.token }}
@@ -109,6 +110,16 @@ jobs:
             --head "blog-drafts/$TODAY" \
             --title "$(cat "$RUNNER_TEMP/blog-title.txt")" \
             --body-file "$RUNNER_TEMP/blog-body.md"
+
+      # No human review gate, by explicit request: the PR above exists only as a
+      # git history / audit trail record, not a review checkpoint. Merging it here
+      # immediately fires publish-blog-on-merge.yml, which publishes the post live.
+      - name: Auto-merge pull request
+        if: steps.pr.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TODAY: ${{ steps.date.outputs.today }}
+        run: gh pr merge "blog-drafts/$TODAY" --merge --delete-branch
 
       - name: Dry-run summary
         if: >
