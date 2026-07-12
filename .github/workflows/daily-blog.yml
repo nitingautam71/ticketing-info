@@ -59,9 +59,10 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           claude -p \
+            --bare \
             --output-format json \
             --allowedTools Read Glob Grep WebSearch WebFetch Write \
-            --max-turns 40 \
+            --max-budget-usd 3 \
             < "$RUNNER_TEMP/blog-prompt.txt" \
             > "$RUNNER_TEMP/claude-output.json" || true
         continue-on-error: true
@@ -141,6 +142,13 @@ jobs:
               echo '```'
             fi
           } > "$RUNNER_TEMP/failure-report.md"
+          cat "$RUNNER_TEMP/failure-report.md"
+
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            echo "::error::Dry run failed during generation/validation/build - see the report above. Nothing was pushed to the repo."
+            exit 1
+          fi
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b "FAILED-$TODAY"
