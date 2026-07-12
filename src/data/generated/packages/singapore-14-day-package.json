@@ -1,0 +1,1736 @@
+{
+  "id": "PKG-singapore-14D",
+  "slug": "singapore-14-day-package",
+  "destinationSlug": "singapore",
+  "destinationName": "Singapore",
+  "country": "Singapore",
+  "region": "Southeast Asia",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Singapore 14-Day City Break",
+  "metaTitle": "Singapore 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Singapore, Singapore: round-trip flights, hotel, breakfast, transfers, and guided tours including Gardens by the Bay (Cloud Forest & Flower Dome) and Marina Bay Sands SkyPark Observation Deck. Prices from $3198 per person (estimate).",
+  "highlights": [
+    "Gardens by the Bay (Cloud Forest & Flower Dome)",
+    "Marina Bay Sands SkyPark Observation Deck",
+    "Merlion Park",
+    "Infinity pool stay at Marina Bay Sands",
+    "Sentosa Island"
+  ],
+  "overview": "Spend 14 days discovering Singapore, Singapore — Tropical rainforest climate that is hot and humid year-round (highs 30-32°C) with frequent short afternoon showers, especially during the November-January monsoon. February to April offers slightly lower humidity and rainfall, though Singapore's equatorial climate is warm and can see rain year-round, so any month works with proper planning. This itinerary blends Gardens by the Bay (Cloud Forest & Flower Dome), Marina Bay Sands SkyPark Observation Deck, Merlion Park with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Gardens by the Bay (Cloud Forest & Flower Dome), Marina Bay Sands SkyPark Observation Deck, Merlion Park",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Singapore",
+      "description": "Land at Singapore Changi Airport (SIN) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Gardens by the Bay (Cloud Forest & Flower Dome) — Futuristic domed conservatories and Supertree Grove. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Gardens by the Bay (Cloud Forest & Flower Dome)"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 2,
+      "title": "Singapore: Marina Bay Sands SkyPark Observation Deck & Singapore Zoo",
+      "description": "Morning visit to Marina Bay Sands SkyPark Observation Deck — Panoramic city skyline views atop the iconic hotel. In the afternoon, continue to Singapore Zoo — Open-concept zoo rated among the world's best. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Marina Bay Sands SkyPark Observation Deck",
+        "Singapore Zoo"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 3,
+      "title": "Singapore: Universal Studios Singapore & Night Safari",
+      "description": "Morning visit to Universal Studios Singapore — Movie-themed amusement park on Sentosa Island. In the afternoon, continue to Night Safari — World's first nocturnal wildlife park. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Universal Studios Singapore",
+        "Night Safari"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Sentosa Island",
+      "description": "Full-day excursion to Sentosa Island, a popular side trip from Singapore. Return to Singapore in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Sentosa Island",
+        "Free evening"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Tiong Bahru heritage neighborhood — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Tiong Bahru heritage neighborhood"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 6,
+      "title": "Singapore: Singapore Flyer & ArtScience Museum",
+      "description": "Morning visit to Singapore Flyer — Giant observation wheel with city and strait views. In the afternoon, continue to ArtScience Museum — Lotus-shaped museum blending art, science and technology. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Singapore Flyer",
+        "ArtScience Museum"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Pulau Ubin",
+      "description": "Full-day excursion to Pulau Ubin, a popular side trip from Singapore. Return to Singapore in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Pulau Ubin",
+        "Free evening"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 8,
+      "title": "Singapore: S.E.A. Aquarium & River Wonders",
+      "description": "Morning visit to S.E.A. Aquarium — One of the world's largest aquariums, on Sentosa. In the afternoon, continue to River Wonders — River-themed wildlife park with giant pandas. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "S.E.A. Aquarium",
+        "River Wonders"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Pulau Ubin rustic island — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Pulau Ubin rustic island"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Johor Bahru, Malaysia (day trip across the border)",
+      "description": "Full-day excursion to Johor Bahru, Malaysia (day trip across the border), a popular side trip from Singapore. Return to Singapore in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Johor Bahru, Malaysia (day trip across the border)",
+        "Free evening"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 11,
+      "title": "Singapore: Singapore Cable Car (Sentosa) & Merlion Park",
+      "description": "Morning visit to Singapore Cable Car (Sentosa) — Aerial ropeway between Mount Faber and Sentosa Island. In the afternoon, continue to Merlion Park — Iconic half-lion, half-fish statue overlooking Marina Bay. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Singapore Cable Car (Sentosa)",
+        "Merlion Park"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 12,
+      "title": "Singapore: Gardens by the Bay outdoor gardens & Marina Bay Sands light and water show",
+      "description": "Morning visit to Gardens by the Bay outdoor gardens — Free-to-access outdoor sections and Supertree light show. In the afternoon, continue to Marina Bay Sands light and water show — Free nightly \"Spectra\" show on the waterfront. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Gardens by the Bay outdoor gardens",
+        "Marina Bay Sands light and water show"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Southern Ridges walking trail — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Southern Ridges walking trail"
+      ],
+      "overnight": "Singapore"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Chinatown Singapore or some souvenir shopping — before your private transfer to SIN for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Eat at hawker centers for some of the best-value, highest-quality food in the city, including Michelin-starred stalls.",
+    "Buy an EZ-Link card immediately on arrival at Changi Airport for seamless transit.",
+    "Visit Gardens by the Bay at night for the free Supertree light show in addition to daytime conservatory visits.",
+    "Changi Airport itself is a destination — Jewel Changi's indoor waterfall is worth a visit even between flights.",
+    "Book Universal Studios and major attraction tickets online in advance for time savings and occasional discounts.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Light, breathable clothing for constant heat and humidity",
+    "A light jacket for heavily air-conditioned malls and the MRT",
+    "A compact umbrella for sudden tropical showers",
+    "Modest attire for temple and mosque visits"
+  ],
+  "thingsToDo": [
+    "Gardens by the Bay (Cloud Forest & Flower Dome)",
+    "Marina Bay Sands SkyPark Observation Deck",
+    "Singapore Zoo",
+    "Universal Studios Singapore",
+    "Night Safari",
+    "Singapore Flyer",
+    "ArtScience Museum",
+    "S.E.A. Aquarium",
+    "River Wonders",
+    "Singapore Cable Car (Sentosa)",
+    "Merlion Park",
+    "Gardens by the Bay outdoor gardens",
+    "Marina Bay Sands light and water show",
+    "Chinatown Singapore",
+    "Little India",
+    "Kampong Glam (Arab Street)",
+    "Clarke Quay riverside",
+    "Singapore Botanic Gardens (incl. free sections)",
+    "Henderson Waves bridge",
+    "Megazip zipline on Sentosa"
+  ],
+  "thingsToAvoid": [
+    "Chewing gum import/sale — it is restricted by law (personal use with no resale is generally tolerated, but don't bring large quantities).",
+    "Jaywalking, littering, or eating/drinking on the MRT — fines are strictly enforced.",
+    "Assuming tipping is expected — it is not customary and can occasionally cause confusion.",
+    "Overspending on Orchard Road malls when hawker centers and heartland neighborhoods offer better value and authenticity.",
+    "Underestimating the humidity — plan indoor/air-conditioned breaks between outdoor sightseeing."
+  ],
+  "topRestaurants": [
+    "Hawker Chan (Liao Fan Soya Sauce Chicken) — Michelin Street Food ($)",
+    "Lau Pa Sat hawker center — Hawker / Various ($)",
+    "Odette — French Fine Dining (3-Michelin-star) ($$$$)",
+    "Maxwell Food Centre stalls — Hawker / Various ($)",
+    "Jumbo Seafood — Singaporean Seafood (Chili Crab) ($$$)",
+    "Newton Food Centre — Hawker / Various ($)",
+    "Burnt Ends — Modern Barbecue ($$$$)",
+    "Tiong Bahru Bakery — Café / Bakery ($$)"
+  ],
+  "topCafes": [
+    "Tiong Bahru Bakery",
+    "Nylon Coffee Roasters",
+    "PPP Coffee",
+    "Chye Seng Huat Hardware",
+    "Common Man Coffee Roasters"
+  ],
+  "shoppingAreas": [
+    "Orchard Road",
+    "Bugis Street Market",
+    "Haji Lane boutiques",
+    "ION Orchard",
+    "Chinatown Street Market"
+  ],
+  "nightlife": [
+    "Clarke Quay bars",
+    "CÉ LA VI rooftop bar",
+    "Zouk nightclub",
+    "1-Altitude rooftop bar"
+  ],
+  "instagramSpots": [
+    "Gardens by the Bay Supertree Grove at night",
+    "Marina Bay Sands infinity pool skyline",
+    "Merlion Park with skyline backdrop",
+    "Haji Lane street art",
+    "Henderson Waves bridge"
+  ],
+  "hiddenGems": [
+    "Tiong Bahru heritage neighborhood",
+    "Pulau Ubin rustic island",
+    "Southern Ridges walking trail",
+    "Haw Par Villa quirky statue park"
+  ],
+  "familyActivities": [
+    "Universal Studios Singapore",
+    "Singapore Zoo and Night Safari",
+    "Jurong Bird Park (Bird Paradise)",
+    "Sentosa beaches and Adventure Cove Waterpark"
+  ],
+  "adventureActivities": [
+    "Megazip zipline on Sentosa",
+    "Kayaking at East Coast Park",
+    "Skypark climb at Marina Bay Sands",
+    "Cycling Pulau Ubin's rustic trails"
+  ],
+  "luxuryExperiences": [
+    "Infinity pool stay at Marina Bay Sands",
+    "Fine dining at Odette (3-Michelin-star)",
+    "Private yacht cruise around the Marina",
+    "VIP F1 Singapore Grand Prix experience"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at Marina Bay Sands SkyPark",
+    "Private dinner amid the Gardens by the Bay Supertrees",
+    "Couples spa retreat at a luxury hotel",
+    "Romantic Singapore Flyer capsule ride"
+  ],
+  "budgetExperiences": [
+    "Hawker center meals for a few dollars",
+    "Free Gardens by the Bay outdoor areas and Supertree light show",
+    "Merlion Park and Marina Bay waterfront walk",
+    "Free entry to many Botanic Gardens sections"
+  ],
+  "estimatedDailyBudgetUSD": [
+    75,
+    160,
+    320,
+    850
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 88,
+  "accessibilityRating": 5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Feb",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Aug",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 30,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Chinese New Year",
+      "timing": "January/February (lunar calendar)"
+    },
+    {
+      "name": "Singapore Grand Prix (F1 Night Race)",
+      "timing": "September"
+    },
+    {
+      "name": "Deepavali",
+      "timing": "October/November"
+    },
+    {
+      "name": "Singapore Food Festival",
+      "timing": "July"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "999",
+    "ambulance": "995",
+    "fire": "995"
+  },
+  "localEtiquette": [
+    "Chewing gum sale/import is restricted, and littering, jaywalking and eating on the MRT carry real fines.",
+    "Tipping is not customary and generally not expected — a service charge is usually already included.",
+    "Remove shoes when entering someone's home.",
+    "Queueing is taken seriously and orderly lines are the social norm everywhere.",
+    "Dress modestly when visiting mosques, temples, and Little India's religious sites."
+  ],
+  "localTransportGuide": "The MRT subway is clean, efficient and covers virtually the entire city — an EZ-Link or contactless card works across MRT, buses and even some taxis. Grab ride-hailing is widely used, and the city is very walkable in the downtown core with covered walkways in many areas.",
+  "bestTimeToVisit": "February to April offers slightly lower humidity and rainfall, though Singapore's equatorial climate is warm and can see rain year-round, so any month works with proper planning.",
+  "weather": "Tropical rainforest climate that is hot and humid year-round (highs 30-32°C) with frequent short afternoon showers, especially during the November-January monsoon.",
+  "visaInformation": "Visa-free entry for most nationalities including the US, UK, Canada, Australia and EU citizens for tourist stays of up to 30-90 days depending on nationality. Verify current requirements against your specific passport before travel.",
+  "currency": "SGD",
+  "languages": [
+    "English",
+    "Mandarin",
+    "Malay",
+    "Tamil"
+  ],
+  "timeZone": "SGT (UTC+8)",
+  "averageFlightTime": "~11.1h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Singapore Changi Airport (SIN)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Singapore?",
+      "answer": "Visa-free entry for most nationalities including the US, UK, Canada, Australia and EU citizens for tourist stays of up to 30-90 days depending on nationality. Verify current requirements against your specific passport before travel."
+    },
+    {
+      "question": "What is the best time to visit Singapore?",
+      "answer": "February to April offers slightly lower humidity and rainfall, though Singapore's equatorial climate is warm and can see rain year-round, so any month works with proper planning. Tropical rainforest climate that is hot and humid year-round (highs 30-32°C) with frequent short afternoon showers, especially during the November-January monsoon."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Singapore safe for tourists?",
+      "answer": "Singapore is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Singapore?",
+      "answer": "The local currency is SGD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include Universal Studios Singapore."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Family",
+    "Food",
+    "Shopping",
+    "Luxury",
+    "Nightlife",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Singapore",
+    "Singapore, Singapore",
+    "Southeast Asia",
+    "Singapore tour package",
+    "Singapore vacation package",
+    "Singapore holiday package",
+    "things to do in Singapore",
+    "best time to visit Singapore",
+    "Singapore itinerary",
+    "14 day Singapore itinerary",
+    "Singapore flights and hotels",
+    "Singapore all inclusive package",
+    "cheap Singapore package",
+    "luxury Singapore package",
+    "Singapore honeymoon package",
+    "Singapore family vacation",
+    "Singapore solo trip",
+    "Singapore group tour",
+    "Singapore weekend getaway",
+    "Singapore guided tour",
+    "SIN flights",
+    "Singapore travel guide",
+    "book Singapore trip online",
+    "Singapore trip cost",
+    "Singapore packages 14 days",
+    "Singapore city break",
+    "Singapore family",
+    "Singapore food",
+    "Singapore shopping",
+    "Singapore luxury",
+    "Singapore nightlife",
+    "Singapore bucket list",
+    "Gardens by the Bay (Cloud Forest & Flower Dome)",
+    "Marina Bay Sands SkyPark Observation Deck",
+    "Singapore Zoo",
+    "Universal Studios Singapore",
+    "Night Safari",
+    "Singapore Flyer",
+    "ArtScience Museum",
+    "S.E.A. Aquarium",
+    "River Wonders",
+    "Singapore Cable Car (Sentosa)",
+    "Merlion Park",
+    "Gardens by the Bay outdoor gardens",
+    "Marina Bay Sands light and water show",
+    "Chinatown Singapore",
+    "Little India",
+    "Kampong Glam (Arab Street)",
+    "Clarke Quay riverside",
+    "Singapore Botanic Gardens (incl. free sections)"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Singapore, Singapore — Marina Bay Sands skyline",
+      "keywords": [
+        "Singapore",
+        "Marina Bay Sands skyline",
+        "City Break",
+        "Family"
+      ],
+      "unsplashQuery": "Singapore Marina Bay Sands skyline",
+      "pexelsQuery": "Singapore Marina Bay Sands skyline",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Singapore, Singapore — Marina Bay Sands skyline",
+      "keywords": [
+        "Singapore",
+        "Marina Bay Sands skyline",
+        "City Break",
+        "Family"
+      ],
+      "unsplashQuery": "Singapore Marina Bay Sands skyline",
+      "pexelsQuery": "Singapore Marina Bay Sands skyline",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Singapore, Singapore — Gardens by the Bay Supertrees",
+      "keywords": [
+        "Singapore",
+        "Gardens by the Bay Supertrees",
+        "City Break",
+        "Family"
+      ],
+      "unsplashQuery": "Singapore Gardens by the Bay Supertrees",
+      "pexelsQuery": "Singapore Gardens by the Bay Supertrees",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Singapore, Singapore — Merlion Park sunset",
+      "keywords": [
+        "Singapore",
+        "Merlion Park sunset",
+        "City Break",
+        "Family"
+      ],
+      "unsplashQuery": "Singapore Merlion Park sunset",
+      "pexelsQuery": "Singapore Merlion Park sunset",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Singapore, Singapore — Marina Bay Sands skyline",
+      "keywords": [
+        "Singapore",
+        "Marina Bay Sands skyline",
+        "City Break",
+        "Family"
+      ],
+      "unsplashQuery": "Singapore Marina Bay Sands skyline",
+      "pexelsQuery": "Singapore Marina Bay Sands skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Singapore, Singapore — Gardens by the Bay Supertrees",
+      "keywords": [
+        "Singapore",
+        "Gardens by the Bay Supertrees",
+        "City Break",
+        "Family"
+      ],
+      "unsplashQuery": "Singapore Gardens by the Bay Supertrees",
+      "pexelsQuery": "Singapore Gardens by the Bay Supertrees",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Singapore, Singapore — Merlion Park sunset",
+      "keywords": [
+        "Singapore",
+        "Merlion Park sunset",
+        "City Break",
+        "Family"
+      ],
+      "unsplashQuery": "Singapore Merlion Park sunset",
+      "pexelsQuery": "Singapore Merlion Park sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Singapore, Singapore — Singapore hawker center food",
+      "keywords": [
+        "Singapore",
+        "Singapore hawker center food",
+        "City Break",
+        "Family"
+      ],
+      "unsplashQuery": "Singapore Singapore hawker center food",
+      "pexelsQuery": "Singapore Singapore hawker center food",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Singapore, Singapore — Gardens by the Bay (Cloud Forest & Flower Dome)",
+      "keywords": [
+        "Singapore",
+        "Gardens by the Bay (Cloud Forest & Flower Dome)",
+        "City Break",
+        "Family"
+      ],
+      "unsplashQuery": "Singapore Gardens by the Bay (Cloud Forest & Flower Dome)",
+      "pexelsQuery": "Singapore Gardens by the Bay (Cloud Forest & Flower Dome)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Singapore, Singapore — Marina Bay Sands SkyPark Observation Deck",
+      "keywords": [
+        "Singapore",
+        "Marina Bay Sands SkyPark Observation Deck",
+        "City Break",
+        "Family"
+      ],
+      "unsplashQuery": "Singapore Marina Bay Sands SkyPark Observation Deck",
+      "pexelsQuery": "Singapore Marina Bay Sands SkyPark Observation Deck",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Singapore, Singapore — Singapore Zoo",
+      "keywords": [
+        "Singapore",
+        "Singapore Zoo",
+        "City Break",
+        "Family"
+      ],
+      "unsplashQuery": "Singapore Singapore Zoo",
+      "pexelsQuery": "Singapore Singapore Zoo",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Singapore, Singapore — Universal Studios Singapore",
+      "keywords": [
+        "Singapore",
+        "Universal Studios Singapore",
+        "City Break",
+        "Family"
+      ],
+      "unsplashQuery": "Singapore Universal Studios Singapore",
+      "pexelsQuery": "Singapore Universal Studios Singapore",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-singapore-14-1",
+      "author": "Priya Garcia",
+      "country": "Italy",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-06",
+      "title": "Worth every penny",
+      "body": "Booked this as a solo trip and it was well paced. Singapore Botanic Gardens (incl. free sections) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-2",
+      "author": "Arjun Rossi",
+      "country": "UAE",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-21",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a couple trip and it was well paced. ArtScience Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-singapore-14-3",
+      "author": "Olivia Andersen",
+      "country": "Japan",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-03",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Singapore was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Singapore Cable Car (Sentosa) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-4",
+      "author": "Priya Cohen",
+      "country": "Canada",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-15",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a group trip and it was well paced. Singapore Zoo in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-singapore-14-5",
+      "author": "Anna Ibrahim",
+      "country": "India",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-30",
+      "title": "Great for families with kids",
+      "body": "Singapore is stunning and this package covered the essentials well, especially Singapore Flyer. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-6",
+      "author": "Wei Andersen",
+      "country": "Mexico",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-09-29",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a couple trip and it was well paced. Singapore Botanic Gardens (incl. free sections) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-singapore-14-7",
+      "author": "Liam Müller",
+      "country": "Switzerland",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-16",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Singapore was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Little India was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-singapore-14-8",
+      "author": "Chen Botha",
+      "country": "Singapore",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-11",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a group trip and it was well paced. River Wonders in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-9",
+      "author": "Emma Silva",
+      "country": "New Zealand",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-01-15",
+      "title": "Great value for money",
+      "body": "Our trip to Singapore was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Chinatown Singapore was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-10",
+      "author": "Hiroshi Williams",
+      "country": "Spain",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-10",
+      "title": "Adventure of a lifetime",
+      "body": "Henderson Waves bridge alone was worth the trip, but combined with Gardens by the Bay outdoor gardens this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-11",
+      "author": "Grace Nguyen",
+      "country": "Netherlands",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-05",
+      "title": "Five stars, will return",
+      "body": "We added a couple of optional activities beyond Little India and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-12",
+      "author": "Hiroshi Novak",
+      "country": "Spain",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-04-02",
+      "title": "Great value for money",
+      "body": "Henderson Waves bridge alone was worth the trip, but combined with River Wonders this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-13",
+      "author": "Olivia Cohen",
+      "country": "UAE",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-01-20",
+      "title": "Exceeded our expectations",
+      "body": "Our trip to Singapore was fantastic from start to finish. The hotel was clean and well located, and the guided visit to S.E.A. Aquarium was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-14",
+      "author": "Elena Botha",
+      "country": "Netherlands",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-09-06",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Chinatown Singapore and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-15",
+      "author": "Lukas Rossi",
+      "country": "Australia",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-20",
+      "title": "Exceeded our expectations",
+      "body": "Singapore is stunning and this package covered the essentials well, especially Universal Studios Singapore. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-16",
+      "author": "Hiroshi Fernandez",
+      "country": "South Africa",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-11-29",
+      "title": "A little rushed but still wonderful",
+      "body": "Marina Bay Sands light and water show alone was worth the trip, but combined with Singapore Flyer this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-17",
+      "author": "Ethan Smith",
+      "country": "United Kingdom",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-14",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Marina Bay Sands SkyPark Observation Deck and S.E.A. Aquarium. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-18",
+      "author": "Chen Fernandez",
+      "country": "Italy",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-23",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a couple trip and it was well paced. Singapore Botanic Gardens (incl. free sections) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-singapore-14-19",
+      "author": "Emma van Dijk",
+      "country": "Australia",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-12-06",
+      "title": "Great for families with kids",
+      "body": "Our trip to Singapore was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Universal Studios Singapore was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-singapore-14-20",
+      "author": "Yuki Johnson",
+      "country": "Japan",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 3.5,
+      "date": "2025-09-17",
+      "title": "A little rushed but still wonderful",
+      "body": "Merlion Park alone was worth the trip, but combined with Henderson Waves bridge this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.1,
+    "food": 4.1,
+    "hotel": 4.1,
+    "transportation": 4.1,
+    "activities": 4.2,
+    "value": 4.2,
+    "cleanliness": 4.2,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Singapore Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 17,
+      "neighborhood": "Orchard Road"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Singapore Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 30,
+      "neighborhood": "Bugis Street Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Singapore Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 56,
+      "neighborhood": "Haji Lane boutiques"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Singapore Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 72,
+      "neighborhood": "ION Orchard"
+    },
+    {
+      "tier": "Resort",
+      "name": "Singapore Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "Chinatown Street Market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Singapore Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 357,
+      "neighborhood": "Clarke Quay bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Singapore Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 425,
+      "neighborhood": "CÉ LA VI rooftop bar"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1184,
+        1881
+      ],
+      "estimatedFlightHours": 21.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1160,
+        1843
+      ],
+      "estimatedFlightHours": 21,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        860,
+        1366
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        852,
+        1353
+      ],
+      "estimatedFlightHours": 15.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        818,
+        1299
+      ],
+      "estimatedFlightHours": 14.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        800,
+        1270
+      ],
+      "estimatedFlightHours": 14.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        898,
+        1427
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        835,
+        1326
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        820,
+        1303
+      ],
+      "estimatedFlightHours": 14.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        532,
+        845
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        684,
+        1087
+      ],
+      "estimatedFlightHours": 12.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        376,
+        597
+      ],
+      "estimatedFlightHours": 6.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        460,
+        730
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        414,
+        657
+      ],
+      "estimatedFlightHours": 7.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        179,
+        285
+      ],
+      "estimatedFlightHours": 2.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        99,
+        157
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        142,
+        225
+      ],
+      "estimatedFlightHours": 2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        249,
+        396
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        156,
+        247
+      ],
+      "estimatedFlightHours": 2.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        498,
+        791
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        558,
+        886
+      ],
+      "estimatedFlightHours": 9.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        524,
+        833
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        558,
+        887
+      ],
+      "estimatedFlightHours": 9.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        702,
+        1115
+      ],
+      "estimatedFlightHours": 12.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1232,
+        1956
+      ],
+      "estimatedFlightHours": 22.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Singapore Changi Airport (SIN)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1277,
+        2028
+      ],
+      "estimatedFlightHours": 23.2,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Gardens by the Bay (Cloud Forest & Flower Dome)",
+    "Marina Bay Sands SkyPark Observation Deck",
+    "Singapore Zoo",
+    "Universal Studios Singapore",
+    "Night Safari",
+    "Singapore Flyer",
+    "ArtScience Museum",
+    "S.E.A. Aquarium",
+    "River Wonders",
+    "Singapore Cable Car (Sentosa)",
+    "Merlion Park",
+    "Gardens by the Bay outdoor gardens",
+    "Marina Bay Sands light and water show",
+    "Chinatown Singapore",
+    "Little India",
+    "Kampong Glam (Arab Street)",
+    "Clarke Quay riverside",
+    "Singapore Botanic Gardens (incl. free sections)",
+    "Henderson Waves bridge",
+    "Sentosa Island",
+    "Pulau Ubin",
+    "Johor Bahru, Malaysia (day trip across the border)",
+    "Southern Ridges trail",
+    "National Gallery Singapore",
+    "Asian Civilisations Museum",
+    "National Museum of Singapore",
+    "Singapore Botanic Gardens",
+    "East Coast Park",
+    "Fort Canning Park",
+    "Sentosa Island beaches",
+    "East Coast Park beach",
+    "Gardens by the Bay Supertree Grove at night",
+    "Marina Bay Sands infinity pool skyline",
+    "Merlion Park with skyline backdrop",
+    "Haji Lane street art"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Gardens by the Bay (Cloud Forest & Flower Dome)",
+      "priceUSD": 24
+    },
+    {
+      "name": "Marina Bay Sands SkyPark Observation Deck",
+      "priceUSD": 26
+    },
+    {
+      "name": "Singapore Zoo",
+      "priceUSD": 30
+    },
+    {
+      "name": "Universal Studios Singapore",
+      "priceUSD": 68
+    },
+    {
+      "name": "Night Safari",
+      "priceUSD": 35
+    },
+    {
+      "name": "Singapore Flyer",
+      "priceUSD": 33
+    },
+    {
+      "name": "ArtScience Museum",
+      "priceUSD": 20
+    },
+    {
+      "name": "S.E.A. Aquarium",
+      "priceUSD": 36
+    },
+    {
+      "name": "River Wonders",
+      "priceUSD": 28
+    },
+    {
+      "name": "Singapore Cable Car (Sentosa)",
+      "priceUSD": 25
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Merlion Park",
+    "Gardens by the Bay outdoor gardens",
+    "Marina Bay Sands light and water show",
+    "Chinatown Singapore",
+    "Little India",
+    "Kampong Glam (Arab Street)",
+    "Clarke Quay riverside",
+    "Singapore Botanic Gardens (incl. free sections)",
+    "Henderson Waves bridge"
+  ],
+  "museums": [
+    "ArtScience Museum",
+    "National Gallery Singapore",
+    "Asian Civilisations Museum",
+    "National Museum of Singapore"
+  ],
+  "parks": [
+    "Singapore Botanic Gardens",
+    "East Coast Park",
+    "Fort Canning Park"
+  ],
+  "beaches": [
+    "Sentosa Island beaches",
+    "East Coast Park beach"
+  ],
+  "dayTrips": [
+    "Sentosa Island",
+    "Pulau Ubin",
+    "Johor Bahru, Malaysia (day trip across the border)",
+    "Southern Ridges trail"
+  ],
+  "fromPriceUSD": 3198,
+  "seo": {
+    "title": "Singapore 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "singapore-14-day-package",
+    "keywords": [
+      "Singapore",
+      "Singapore, Singapore",
+      "Southeast Asia",
+      "Singapore tour package",
+      "Singapore vacation package",
+      "Singapore holiday package",
+      "things to do in Singapore",
+      "best time to visit Singapore",
+      "Singapore itinerary",
+      "14 day Singapore itinerary",
+      "Singapore flights and hotels",
+      "Singapore all inclusive package",
+      "cheap Singapore package",
+      "luxury Singapore package",
+      "Singapore honeymoon package"
+    ],
+    "canonicalUrl": "/packages/singapore-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Singapore Package",
+        "url": "/packages/singapore-10-day-package"
+      },
+      {
+        "title": "7-Day Singapore Package",
+        "url": "/packages/singapore-7-day-package"
+      },
+      {
+        "title": "Dubai 14-Day Luxury Escape",
+        "url": "/packages/dubai-14-day-package"
+      },
+      {
+        "title": "London 14-Day City Break",
+        "url": "/packages/london-14-day-package"
+      },
+      {
+        "title": "Bangkok 14-Day City Break",
+        "url": "/packages/bangkok-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Singapore — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Singapore"
+      },
+      {
+        "title": "Singapore — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Singapore"
+      }
+    ]
+  }
+}

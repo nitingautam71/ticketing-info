@@ -1,0 +1,1624 @@
+{
+  "id": "PKG-hong-kong-5D",
+  "slug": "hong-kong-5-day-package",
+  "destinationSlug": "hong-kong",
+  "destinationName": "Hong Kong",
+  "country": "Hong Kong SAR",
+  "region": "East Asia",
+  "durationDays": 5,
+  "durationNights": 4,
+  "title": "Hong Kong 5-Day City Break",
+  "metaTitle": "Hong Kong 5-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 5-day trip to Hong Kong, Hong Kong SAR: round-trip flights, hotel, breakfast, transfers, and guided tours including Victoria Peak Tram & Sky Terrace and Hong Kong Disneyland. Prices from $1821 per person (estimate).",
+  "highlights": [
+    "Victoria Peak Tram & Sky Terrace",
+    "Hong Kong Disneyland",
+    "Star Ferry",
+    "Lantau Island and Big Buddha"
+  ],
+  "overview": "Spend 5 days discovering Hong Kong, Hong Kong SAR — Subtropical climate with hot, humid summers (May-Sep) including typhoon risk, and mild, dry winters (Dec-Feb); spring brings fog and drizzle. October to December for dry, mild, sunny weather with lower humidity. This itinerary blends Victoria Peak Tram & Sky Terrace, Hong Kong Disneyland, Star Ferry with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "4 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Victoria Peak Tram & Sky Terrace, Hong Kong Disneyland, Star Ferry",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Hong Kong",
+      "description": "Land at Hong Kong International Airport (HKG) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Victoria Peak Tram & Sky Terrace — Iconic funicular and skyline viewpoint. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Victoria Peak Tram & Sky Terrace"
+      ],
+      "overnight": "Hong Kong"
+    },
+    {
+      "day": 2,
+      "title": "Hong Kong: Hong Kong Disneyland & Ocean Park",
+      "description": "Morning visit to Hong Kong Disneyland — Compact Disney theme park. In the afternoon, continue to Ocean Park — Marine-life theme park with rides. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Hong Kong Disneyland",
+        "Ocean Park"
+      ],
+      "overnight": "Hong Kong"
+    },
+    {
+      "day": 3,
+      "title": "Hong Kong: Ngong Ping 360 Cable Car & Hong Kong Museum of History",
+      "description": "Morning visit to Ngong Ping 360 Cable Car — Cable car to the Big Buddha at Lantau Island. In the afternoon, continue to Hong Kong Museum of History — Comprehensive city and regional history museum. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Ngong Ping 360 Cable Car",
+        "Hong Kong Museum of History"
+      ],
+      "overnight": "Hong Kong"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Lantau Island and Big Buddha",
+      "description": "Full-day excursion to Lantau Island and Big Buddha, a popular side trip from Hong Kong. Return to Hong Kong in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Lantau Island and Big Buddha",
+        "Free evening"
+      ],
+      "overnight": "Hong Kong"
+    },
+    {
+      "day": 5,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to M+ Museum or some souvenir shopping — before your private transfer to HKG for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Get an Octopus card on arrival for all public transport",
+    "Book Michelin-starred dim sum spots online in advance",
+    "Avoid Golden Week and Lunar New Year for crowds and price spikes",
+    "Use the free Star Ferry for the best skyline photos",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Light breathable clothing for humid summers",
+    "A light jacket for cooler winter evenings",
+    "Compact umbrella year-round for sudden showers",
+    "Comfortable shoes for hilly, escalator-heavy walking"
+  ],
+  "thingsToDo": [
+    "Victoria Peak Tram & Sky Terrace",
+    "Hong Kong Disneyland",
+    "Ocean Park",
+    "Ngong Ping 360 Cable Car",
+    "Hong Kong Museum of History",
+    "M+ Museum",
+    "Hong Kong Palace Museum",
+    "Symphony of Lights Harbour Cruise",
+    "Madame Tussauds Hong Kong",
+    "Hong Kong Wetland Park",
+    "Star Ferry",
+    "Avenue of Stars",
+    "Man Mo Temple",
+    "Temple Street Night Market",
+    "Mong Kok street markets",
+    "Tian Tan Buddha (Big Buddha)",
+    "Sai Kung waterfront",
+    "Central-Mid-Levels Escalator",
+    "Dragon's Back hiking trail",
+    "Sai Kung kayaking"
+  ],
+  "thingsToAvoid": [
+    "Tailor scams in Tsim Sha Tsui promising unrealistically cheap suits",
+    "Standing on the left on escalators",
+    "Overpaying at unmetered taxis near tourist zones",
+    "Visiting outlying islands during typhoon signal warnings"
+  ],
+  "topRestaurants": [
+    "Tim Ho Wan — Cantonese dim sum ($)",
+    "Lin Heung Tea House — Traditional dim sum ($)",
+    "Tai Hing Roast — Cantonese roast meats ($)",
+    "Yat Lok Roast Goose — Cantonese roast goose ($$)",
+    "Kau Kee Restaurant — Beef brisket noodles ($)",
+    "Duddell's — Cantonese fine dining ($$$$)",
+    "Lung King Heen — Michelin-starred Cantonese ($$$$)",
+    "Australia Dairy Company — Hong Kong-style cha chaan teng ($)"
+  ],
+  "topCafes": [
+    "Central Cha Chaan Teng row",
+    "Sham Shui Po cafe district",
+    "PMQ cafes",
+    "The Cupping Room",
+    "Australia Dairy Company"
+  ],
+  "shoppingAreas": [
+    "Causeway Bay",
+    "Mong Kok Ladies Market",
+    "Tsim Sha Tsui Harbour City",
+    "Central IFC Mall",
+    "Stanley Market"
+  ],
+  "nightlife": [
+    "Lan Kwai Fong",
+    "Soho Central",
+    "Wan Chai bar strip",
+    "Knutsford Terrace Tsim Sha Tsui"
+  ],
+  "instagramSpots": [
+    "Victoria Peak skyline at dusk",
+    "Monster Building Quarry Bay",
+    "Choi Hung Estate rainbow courts",
+    "Tian Tan Buddha silhouette",
+    "Symphony of Lights from Avenue of Stars"
+  ],
+  "hiddenGems": [
+    "Cheung Chau Island",
+    "Sai Kung Global Geopark boat tour",
+    "Blue House Cluster Wan Chai",
+    "Ping Shan Heritage Trail"
+  ],
+  "familyActivities": [
+    "Hong Kong Disneyland",
+    "Ocean Park",
+    "Hong Kong Science Museum",
+    "Ngong Ping cable car and village"
+  ],
+  "adventureActivities": [
+    "Dragon's Back hiking trail",
+    "Sai Kung kayaking",
+    "MacLehose Trail sections",
+    "Rock climbing at Lion Rock"
+  ],
+  "luxuryExperiences": [
+    "Suite stay at The Peninsula Hong Kong",
+    "Private junk boat charter around outlying islands",
+    "Michelin tasting menu at Lung King Heen",
+    "Private tailor-made suit fitting in Central"
+  ],
+  "honeymoonExperiences": [
+    "Victoria Harbour sunset cruise",
+    "Rooftop dinner overlooking the skyline",
+    "Couples spa at a Peak hotel",
+    "Private junk boat sunset sail"
+  ],
+  "budgetExperiences": [
+    "Star Ferry harbour crossing",
+    "Temple Street Night Market street food",
+    "Free hiking on Dragon's Back",
+    "Wander Mong Kok markets"
+  ],
+  "estimatedDailyBudgetUSD": [
+    60,
+    150,
+    260,
+    550
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 90,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 18,
+      "crowd": "High"
+    },
+    {
+      "month": "Feb",
+      "highC": 18,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 24,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 28,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Nov",
+      "highC": 23,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 19,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Chinese (Lunar) New Year",
+      "timing": "Late January or February"
+    },
+    {
+      "name": "Cheung Chau Bun Festival",
+      "timing": "April or May (lunar calendar)"
+    },
+    {
+      "name": "Hong Kong Dragon Boat Festival",
+      "timing": "June"
+    },
+    {
+      "name": "Mid-Autumn Festival Lantern Carnival",
+      "timing": "September or October (lunar calendar)"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "999",
+    "ambulance": "999",
+    "fire": "999"
+  },
+  "localEtiquette": [
+    "Queue in an orderly line for public transport and escalators; stand on the right.",
+    "Use both hands when giving or receiving business cards or gifts.",
+    "It is polite to leave a small amount of change rather than exact-tipping in casual eateries.",
+    "Avoid discussing politics with locals unless they raise it themselves.",
+    "Remove shoes when entering someone's home."
+  ],
+  "localTransportGuide": "The MTR subway is fast, clean, and covers nearly all attractions; get an Octopus card for trains, buses, ferries, and even convenience stores. Taxis are metered and inexpensive for short hops; the Star Ferry remains the cheapest scenic harbour crossing.",
+  "bestTimeToVisit": "October to December for dry, mild, sunny weather with lower humidity.",
+  "weather": "Subtropical climate with hot, humid summers (May-Sep) including typhoon risk, and mild, dry winters (Dec-Feb); spring brings fog and drizzle.",
+  "visaInformation": "Most Western passport holders (US, UK, EU, Canada, Australia) can enter visa-free for 90-180 days for tourism. No advance e-visa is needed for these nationalities; other nationalities should check requirements as Hong Kong maintains its own immigration policy separate from mainland China.",
+  "currency": "HKD",
+  "languages": [
+    "Cantonese",
+    "English"
+  ],
+  "timeZone": "HKT (UTC+8)",
+  "averageFlightTime": "~10.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Hong Kong International Airport (HKG)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Hong Kong?",
+      "answer": "Most Western passport holders (US, UK, EU, Canada, Australia) can enter visa-free for 90-180 days for tourism. No advance e-visa is needed for these nationalities; other nationalities should check requirements as Hong Kong maintains its own immigration policy separate from mainland China."
+    },
+    {
+      "question": "What is the best time to visit Hong Kong?",
+      "answer": "October to December for dry, mild, sunny weather with lower humidity. Subtropical climate with hot, humid summers (May-Sep) including typhoon risk, and mild, dry winters (Dec-Feb); spring brings fog and drizzle."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Hong Kong safe for tourists?",
+      "answer": "Hong Kong is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Hong Kong?",
+      "answer": "The local currency is HKD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Food",
+    "Shopping",
+    "Culture",
+    "Nightlife"
+  ],
+  "aiTags": [
+    "Hong Kong",
+    "Hong Kong SAR",
+    "Hong Kong, Hong Kong SAR",
+    "East Asia",
+    "Hong Kong tour package",
+    "Hong Kong vacation package",
+    "Hong Kong holiday package",
+    "things to do in Hong Kong",
+    "best time to visit Hong Kong",
+    "Hong Kong itinerary",
+    "5 day Hong Kong itinerary",
+    "Hong Kong flights and hotels",
+    "Hong Kong all inclusive package",
+    "cheap Hong Kong package",
+    "luxury Hong Kong package",
+    "Hong Kong honeymoon package",
+    "Hong Kong family vacation",
+    "Hong Kong solo trip",
+    "Hong Kong group tour",
+    "Hong Kong weekend getaway",
+    "Hong Kong guided tour",
+    "HKG flights",
+    "Hong Kong travel guide",
+    "book Hong Kong trip online",
+    "Hong Kong trip cost",
+    "Hong Kong packages 5 days",
+    "Hong Kong city break",
+    "Hong Kong food",
+    "Hong Kong shopping",
+    "Hong Kong culture",
+    "Hong Kong nightlife",
+    "Victoria Peak Tram & Sky Terrace",
+    "Hong Kong Disneyland",
+    "Ocean Park",
+    "Ngong Ping 360 Cable Car",
+    "Hong Kong Museum of History",
+    "M+ Museum",
+    "Hong Kong Palace Museum",
+    "Symphony of Lights Harbour Cruise",
+    "Madame Tussauds Hong Kong",
+    "Hong Kong Wetland Park",
+    "Star Ferry",
+    "Avenue of Stars",
+    "Man Mo Temple",
+    "Temple Street Night Market",
+    "Mong Kok street markets",
+    "Tian Tan Buddha (Big Buddha)",
+    "Sai Kung waterfront",
+    "Central-Mid-Levels Escalator",
+    "Tim Ho Wan"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Hong Kong, Hong Kong SAR — Victoria Harbour skyline night",
+      "keywords": [
+        "Hong Kong",
+        "Hong Kong SAR",
+        "Victoria Harbour skyline night",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Hong Kong Victoria Harbour skyline night",
+      "pexelsQuery": "Hong Kong Victoria Harbour skyline night",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Hong Kong, Hong Kong SAR — Victoria Harbour skyline night",
+      "keywords": [
+        "Hong Kong",
+        "Hong Kong SAR",
+        "Victoria Harbour skyline night",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Hong Kong Victoria Harbour skyline night",
+      "pexelsQuery": "Hong Kong Victoria Harbour skyline night",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Hong Kong, Hong Kong SAR — Star Ferry Hong Kong",
+      "keywords": [
+        "Hong Kong",
+        "Hong Kong SAR",
+        "Star Ferry Hong Kong",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Hong Kong Star Ferry Hong Kong",
+      "pexelsQuery": "Hong Kong Star Ferry Hong Kong",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Hong Kong, Hong Kong SAR — Temple Street Night Market",
+      "keywords": [
+        "Hong Kong",
+        "Hong Kong SAR",
+        "Temple Street Night Market",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Hong Kong Temple Street Night Market",
+      "pexelsQuery": "Hong Kong Temple Street Night Market",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Hong Kong, Hong Kong SAR — Victoria Harbour skyline night",
+      "keywords": [
+        "Hong Kong",
+        "Hong Kong SAR",
+        "Victoria Harbour skyline night",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Hong Kong Victoria Harbour skyline night",
+      "pexelsQuery": "Hong Kong Victoria Harbour skyline night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hong Kong, Hong Kong SAR — Star Ferry Hong Kong",
+      "keywords": [
+        "Hong Kong",
+        "Hong Kong SAR",
+        "Star Ferry Hong Kong",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Hong Kong Star Ferry Hong Kong",
+      "pexelsQuery": "Hong Kong Star Ferry Hong Kong",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hong Kong, Hong Kong SAR — Temple Street Night Market",
+      "keywords": [
+        "Hong Kong",
+        "Hong Kong SAR",
+        "Temple Street Night Market",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Hong Kong Temple Street Night Market",
+      "pexelsQuery": "Hong Kong Temple Street Night Market",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hong Kong, Hong Kong SAR — Victoria Peak tram",
+      "keywords": [
+        "Hong Kong",
+        "Hong Kong SAR",
+        "Victoria Peak tram",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Hong Kong Victoria Peak tram",
+      "pexelsQuery": "Hong Kong Victoria Peak tram",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hong Kong, Hong Kong SAR — Victoria Peak Tram & Sky Terrace",
+      "keywords": [
+        "Hong Kong",
+        "Hong Kong SAR",
+        "Victoria Peak Tram & Sky Terrace",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Hong Kong Victoria Peak Tram & Sky Terrace",
+      "pexelsQuery": "Hong Kong Victoria Peak Tram & Sky Terrace",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hong Kong, Hong Kong SAR — Hong Kong Disneyland",
+      "keywords": [
+        "Hong Kong",
+        "Hong Kong SAR",
+        "Hong Kong Disneyland",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Hong Kong Hong Kong Disneyland",
+      "pexelsQuery": "Hong Kong Hong Kong Disneyland",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hong Kong, Hong Kong SAR — Ocean Park",
+      "keywords": [
+        "Hong Kong",
+        "Hong Kong SAR",
+        "Ocean Park",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Hong Kong Ocean Park",
+      "pexelsQuery": "Hong Kong Ocean Park",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hong Kong, Hong Kong SAR — Ngong Ping 360 Cable Car",
+      "keywords": [
+        "Hong Kong",
+        "Hong Kong SAR",
+        "Ngong Ping 360 Cable Car",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Hong Kong Ngong Ping 360 Cable Car",
+      "pexelsQuery": "Hong Kong Ngong Ping 360 Cable Car",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-hong-kong-5-1",
+      "author": "Olivia van Dijk",
+      "country": "United States",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-04-28",
+      "title": "Worth every penny",
+      "body": "Our trip to Hong Kong was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Victoria Peak Tram & Sky Terrace was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-hong-kong-5-2",
+      "author": "Marco Ivanov",
+      "country": "United States",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-10-12",
+      "title": "Best vacation we've had",
+      "body": "We added a couple of optional activities beyond Victoria Peak Tram & Sky Terrace and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-3",
+      "author": "Liam van Dijk",
+      "country": "Germany",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-01-04",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Hong Kong was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Ngong Ping 360 Cable Car was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-4",
+      "author": "Isabella Wang",
+      "country": "Spain",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-10-12",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Central-Mid-Levels Escalator and Ngong Ping 360 Cable Car. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-hong-kong-5-5",
+      "author": "Olivia Larsen",
+      "country": "Italy",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-09-25",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Hong Kong was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Sai Kung waterfront was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-6",
+      "author": "Priya Ivanov",
+      "country": "Spain",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-06-09",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a couple trip and it was well paced. Central-Mid-Levels Escalator in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-7",
+      "author": "Priya Novak",
+      "country": "France",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-02-18",
+      "title": "Smooth from start to finish",
+      "body": "Booked this as a family of 4 trip and it was well paced. Hong Kong Museum of History in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-8",
+      "author": "Lucas Khan",
+      "country": "Australia",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-03-16",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Ngong Ping 360 Cable Car and Hong Kong Wetland Park. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-9",
+      "author": "Noah van Dijk",
+      "country": "Brazil",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-06-07",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Hong Kong was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Star Ferry was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-hong-kong-5-10",
+      "author": "Sofia Khan",
+      "country": "Japan",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-12",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a couple trip and it was well paced. Hong Kong Wetland Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-11",
+      "author": "Grace Botha",
+      "country": "Mexico",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-03-06",
+      "title": "Consultant made it effortless",
+      "body": "We added a couple of optional activities beyond Sai Kung waterfront and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-12",
+      "author": "Arjun Wang",
+      "country": "Brazil",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-16",
+      "title": "Great for families with kids",
+      "body": "Booked this as a group trip and it was well paced. Star Ferry in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-13",
+      "author": "Mohammed Wang",
+      "country": "United Kingdom",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-12",
+      "title": "Five stars, will return",
+      "body": "Hong Kong Disneyland alone was worth the trip, but combined with Man Mo Temple this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-14",
+      "author": "Grace Costa",
+      "country": "UAE",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-07-28",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Hong Kong Palace Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-15",
+      "author": "Sarah Ivanov",
+      "country": "Brazil",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-19",
+      "title": "Adventure of a lifetime",
+      "body": "Hong Kong is stunning and this package covered the essentials well, especially Star Ferry. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-16",
+      "author": "Hiroshi Tanaka",
+      "country": "France",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-19",
+      "title": "Consultant made it effortless",
+      "body": "M+ Museum alone was worth the trip, but combined with Central-Mid-Levels Escalator this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-17",
+      "author": "Tom Botha",
+      "country": "United States",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-01-08",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Victoria Peak Tram & Sky Terrace and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-hong-kong-5-18",
+      "author": "Sarah Kim",
+      "country": "Brazil",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-27",
+      "title": "A little rushed but still wonderful",
+      "body": "Hong Kong is stunning and this package covered the essentials well, especially Star Ferry. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-19",
+      "author": "Yuki Fernandez",
+      "country": "United States",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-25",
+      "title": "Solid mid-range package",
+      "body": "Victoria Peak Tram & Sky Terrace alone was worth the trip, but combined with Avenue of Stars this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hong-kong-5-20",
+      "author": "Ava Kowalski",
+      "country": "Germany",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 3.5,
+      "date": "2026-02-22",
+      "title": "Solid mid-range package",
+      "body": "Hong Kong Museum of History alone was worth the trip, but combined with Hong Kong Museum of History this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Hong Kong Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 13,
+      "neighborhood": "Causeway Bay"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Hong Kong Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 24,
+      "neighborhood": "Mong Kok Ladies Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Hong Kong Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 53,
+      "neighborhood": "Tsim Sha Tsui Harbour City"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Hong Kong Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 68,
+      "neighborhood": "Central IFC Mall"
+    },
+    {
+      "tier": "Resort",
+      "name": "Hong Kong Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 130,
+      "neighborhood": "Stanley Market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Hong Kong Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 231,
+      "neighborhood": "Lan Kwai Fong"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Hong Kong Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 275,
+      "neighborhood": "Soho Central"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1012,
+        1608
+      ],
+      "estimatedFlightHours": 18.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        983,
+        1562
+      ],
+      "estimatedFlightHours": 17.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        772,
+        1226
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        772,
+        1226
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        738,
+        1172
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        747,
+        1187
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        838,
+        1331
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        747,
+        1187
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        749,
+        1189
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        609,
+        968
+      ],
+      "estimatedFlightHours": 10.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        737,
+        1170
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        349,
+        554
+      ],
+      "estimatedFlightHours": 5.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        284,
+        451
+      ],
+      "estimatedFlightHours": 4.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        228,
+        362
+      ],
+      "estimatedFlightHours": 3.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        264,
+        419
+      ],
+      "estimatedFlightHours": 4.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        201,
+        320
+      ],
+      "estimatedFlightHours": 3.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        258,
+        410
+      ],
+      "estimatedFlightHours": 4.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        313,
+        497
+      ],
+      "estimatedFlightHours": 5.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        157,
+        250
+      ],
+      "estimatedFlightHours": 2.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        185,
+        294
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        507,
+        805
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        569,
+        903
+      ],
+      "estimatedFlightHours": 10,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        533,
+        846
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        553,
+        878
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        851,
+        1351
+      ],
+      "estimatedFlightHours": 15.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1380,
+        2192
+      ],
+      "estimatedFlightHours": 25.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Hong Kong International Airport (HKG)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1097,
+        1743
+      ],
+      "estimatedFlightHours": 19.9,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Victoria Peak Tram & Sky Terrace",
+    "Hong Kong Disneyland",
+    "Ocean Park",
+    "Ngong Ping 360 Cable Car",
+    "Hong Kong Museum of History",
+    "M+ Museum",
+    "Hong Kong Palace Museum",
+    "Symphony of Lights Harbour Cruise",
+    "Madame Tussauds Hong Kong",
+    "Hong Kong Wetland Park",
+    "Star Ferry",
+    "Avenue of Stars",
+    "Man Mo Temple",
+    "Temple Street Night Market",
+    "Mong Kok street markets",
+    "Tian Tan Buddha (Big Buddha)",
+    "Sai Kung waterfront",
+    "Central-Mid-Levels Escalator",
+    "Lantau Island and Big Buddha",
+    "Macau",
+    "Cheung Chau Island",
+    "Sai Kung and the Geopark",
+    "Hong Kong Science Museum",
+    "Hong Kong Park",
+    "Kowloon Park",
+    "Victoria Park",
+    "Repulse Bay",
+    "Shek O Beach",
+    "Big Wave Bay",
+    "Victoria Peak skyline at dusk",
+    "Monster Building Quarry Bay",
+    "Choi Hung Estate rainbow courts",
+    "Tian Tan Buddha silhouette",
+    "Symphony of Lights from Avenue of Stars"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Victoria Peak Tram & Sky Terrace",
+      "priceUSD": 27
+    },
+    {
+      "name": "Hong Kong Disneyland",
+      "priceUSD": 78
+    },
+    {
+      "name": "Ocean Park",
+      "priceUSD": 65
+    },
+    {
+      "name": "Ngong Ping 360 Cable Car",
+      "priceUSD": 27
+    },
+    {
+      "name": "Hong Kong Museum of History",
+      "priceUSD": 1
+    },
+    {
+      "name": "M+ Museum",
+      "priceUSD": 22
+    },
+    {
+      "name": "Hong Kong Palace Museum",
+      "priceUSD": 20
+    },
+    {
+      "name": "Symphony of Lights Harbour Cruise",
+      "priceUSD": 35
+    },
+    {
+      "name": "Madame Tussauds Hong Kong",
+      "priceUSD": 28
+    },
+    {
+      "name": "Hong Kong Wetland Park",
+      "priceUSD": 2
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Star Ferry",
+    "Avenue of Stars",
+    "Man Mo Temple",
+    "Temple Street Night Market",
+    "Mong Kok street markets",
+    "Tian Tan Buddha (Big Buddha)",
+    "Sai Kung waterfront",
+    "Central-Mid-Levels Escalator"
+  ],
+  "museums": [
+    "Hong Kong Museum of History",
+    "M+ Museum",
+    "Hong Kong Palace Museum",
+    "Hong Kong Science Museum"
+  ],
+  "parks": [
+    "Hong Kong Park",
+    "Kowloon Park",
+    "Hong Kong Wetland Park",
+    "Victoria Park"
+  ],
+  "beaches": [
+    "Repulse Bay",
+    "Shek O Beach",
+    "Big Wave Bay"
+  ],
+  "dayTrips": [
+    "Lantau Island and Big Buddha",
+    "Macau",
+    "Cheung Chau Island",
+    "Sai Kung and the Geopark"
+  ],
+  "fromPriceUSD": 1821,
+  "seo": {
+    "title": "Hong Kong 5-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "hong-kong-5-day-package",
+    "keywords": [
+      "Hong Kong",
+      "Hong Kong SAR",
+      "Hong Kong, Hong Kong SAR",
+      "East Asia",
+      "Hong Kong tour package",
+      "Hong Kong vacation package",
+      "Hong Kong holiday package",
+      "things to do in Hong Kong",
+      "best time to visit Hong Kong",
+      "Hong Kong itinerary",
+      "5 day Hong Kong itinerary",
+      "Hong Kong flights and hotels",
+      "Hong Kong all inclusive package",
+      "cheap Hong Kong package",
+      "luxury Hong Kong package"
+    ],
+    "canonicalUrl": "/packages/hong-kong-5-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Hong Kong Package",
+        "url": "/packages/hong-kong-3-day-package"
+      },
+      {
+        "title": "7-Day Hong Kong Package",
+        "url": "/packages/hong-kong-7-day-package"
+      },
+      {
+        "title": "London 5-Day City Break",
+        "url": "/packages/london-5-day-package"
+      },
+      {
+        "title": "Bangkok 5-Day City Break",
+        "url": "/packages/bangkok-5-day-package"
+      },
+      {
+        "title": "Tokyo 5-Day City Break",
+        "url": "/packages/tokyo-5-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Hong Kong — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hong_Kong"
+      },
+      {
+        "title": "Hong Kong — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Hong_Kong"
+      }
+    ]
+  }
+}

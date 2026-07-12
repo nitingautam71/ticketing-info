@@ -1,0 +1,1690 @@
+{
+  "id": "PKG-rio-de-janeiro-10D",
+  "slug": "rio-de-janeiro-10-day-package",
+  "destinationSlug": "rio-de-janeiro",
+  "destinationName": "Rio de Janeiro",
+  "country": "Brazil",
+  "region": "South America",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Rio de Janeiro 10-Day Beach Getaway",
+  "metaTitle": "Rio de Janeiro 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Rio de Janeiro, Brazil: round-trip flights, hotel, breakfast, transfers, and guided tours including Christ the Redeemer (Corcovado train) and Sugarloaf Mountain cable car. Prices from $1470 per person (estimate).",
+  "highlights": [
+    "Christ the Redeemer (Corcovado train)",
+    "Sugarloaf Mountain cable car",
+    "Copacabana Beach",
+    "Hang gliding from Pedra Bonita over São Conrado",
+    "Ilha Grande"
+  ],
+  "overview": "Spend 10 days discovering Rio de Janeiro, Brazil — Tropical climate with hot, humid summers (Dec-Mar) and mild, drier winters (Jun-Aug); seasons are reversed from the Northern Hemisphere. September to November (spring) or March to April (autumn) for pleasant weather and lower crowds than Carnival season. This itinerary blends Christ the Redeemer (Corcovado train), Sugarloaf Mountain cable car, Copacabana Beach with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Christ the Redeemer (Corcovado train), Sugarloaf Mountain cable car, Copacabana Beach",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Rio de Janeiro",
+      "description": "Land at Rio de Janeiro–Galeão International Airport (GIG) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Christ the Redeemer (Corcovado train) — Cog train up to the iconic statue. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Christ the Redeemer (Corcovado train)"
+      ],
+      "overnight": "Rio de Janeiro"
+    },
+    {
+      "day": 2,
+      "title": "Rio de Janeiro: Sugarloaf Mountain cable car & Museum of Tomorrow",
+      "description": "Morning visit to Sugarloaf Mountain cable car — Two-stage cable car with panoramic bay views. In the afternoon, continue to Museum of Tomorrow — Futuristic science museum at the revitalized port. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Sugarloaf Mountain cable car",
+        "Museum of Tomorrow"
+      ],
+      "overnight": "Rio de Janeiro"
+    },
+    {
+      "day": 3,
+      "title": "Rio de Janeiro: Rio de Janeiro Botanical Garden & Maracanã Stadium tour",
+      "description": "Morning visit to Rio de Janeiro Botanical Garden — Historic gardens beneath Corcovado mountain. In the afternoon, continue to Maracanã Stadium tour — Backstage tour of Brazil's most famous football stadium. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Rio de Janeiro Botanical Garden",
+        "Maracanã Stadium tour"
+      ],
+      "overnight": "Rio de Janeiro"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Ilha Grande",
+      "description": "Full-day excursion to Ilha Grande, a popular side trip from Rio de Janeiro. Return to Rio de Janeiro in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Ilha Grande",
+        "Free evening"
+      ],
+      "overnight": "Rio de Janeiro"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Parque Lage botanical trails — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Parque Lage botanical trails"
+      ],
+      "overnight": "Rio de Janeiro"
+    },
+    {
+      "day": 6,
+      "title": "Rio de Janeiro: Tijuca National Park guided hike & AquaRio Marine Aquarium",
+      "description": "Morning visit to Tijuca National Park guided hike — Guided trek through the world's largest urban rainforest. In the afternoon, continue to AquaRio Marine Aquarium — Latin America's largest marine aquarium. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Tijuca National Park guided hike",
+        "AquaRio Marine Aquarium"
+      ],
+      "overnight": "Rio de Janeiro"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Petrópolis (Imperial city)",
+      "description": "Full-day excursion to Petrópolis (Imperial city), a popular side trip from Rio de Janeiro. Return to Rio de Janeiro in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Petrópolis (Imperial city)",
+        "Free evening"
+      ],
+      "overnight": "Rio de Janeiro"
+    },
+    {
+      "day": 8,
+      "title": "Rio de Janeiro: Museu de Arte do Rio (MAR) & Santa Teresa tram ride",
+      "description": "Morning visit to Museu de Arte do Rio (MAR) — Brazilian art museum on the revitalized waterfront. In the afternoon, continue to Santa Teresa tram ride — Historic yellow tram through the hillside bohemian district. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Museu de Arte do Rio (MAR)",
+        "Santa Teresa tram ride"
+      ],
+      "overnight": "Rio de Janeiro"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Pedra do Telégrafo cliff-edge photo spot — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Pedra do Telégrafo cliff-edge photo spot"
+      ],
+      "overnight": "Rio de Janeiro"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Cidade do Samba backstage tour or some souvenir shopping — before your private transfer to GIG for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Use Uber or 99 instead of street taxis or unofficial cabs",
+    "Avoid wearing flashy jewelry or displaying phones and cameras openly",
+    "Visit Christ the Redeemer early morning to avoid clouds and crowds",
+    "Learn basic Portuguese greetings, as English is limited outside tourist zones",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Light, breathable beachwear plus a rain layer for sudden tropical showers",
+    "Reef-safe sunscreen for beach days",
+    "A discreet bag or money belt given pickpocketing risk",
+    "Comfortable shoes for hilly Santa Teresa cobblestones"
+  ],
+  "thingsToDo": [
+    "Christ the Redeemer (Corcovado train)",
+    "Sugarloaf Mountain cable car",
+    "Museum of Tomorrow",
+    "Rio de Janeiro Botanical Garden",
+    "Maracanã Stadium tour",
+    "Tijuca National Park guided hike",
+    "AquaRio Marine Aquarium",
+    "Museu de Arte do Rio (MAR)",
+    "Santa Teresa tram ride",
+    "Cidade do Samba backstage tour",
+    "Copacabana Beach",
+    "Ipanema Beach",
+    "Selarón Steps",
+    "Santa Teresa neighborhood streets",
+    "Lapa Arches",
+    "Parque Lage",
+    "Flamengo Park",
+    "Confeitaria Colombo",
+    "Hang gliding from Pedra Bonita over São Conrado",
+    "Hiking Pedra da Gávea"
+  ],
+  "thingsToAvoid": [
+    "Walking alone at night outside well-lit tourist areas",
+    "Carrying original passports or large cash — use hotel safes and photocopies",
+    "Wandering into favelas without a reputable guided tour",
+    "Leaving belongings unattended on the beach"
+  ],
+  "topRestaurants": [
+    "Confeitaria Colombo — Historic Brazilian café-restaurant ($$)",
+    "Aprazível — Brazilian, Santa Teresa hillside setting ($$$)",
+    "Fogo de Chão — Churrascaria (Brazilian steakhouse) ($$$)",
+    "Zazá Bistrô Tropical — Brazilian-international fusion ($$)",
+    "Bar Urca — Casual waterfront petiscos ($)",
+    "Cervantes — Iconic sandwich bar ($)",
+    "Oro — Contemporary Brazilian fine dining ($$$$)",
+    "Academia da Cachaça — Brazilian bar food and caipirinhas ($$)"
+  ],
+  "topCafes": [
+    "Confeitaria Colombo",
+    "Café Lamas",
+    "Boteco Belmonte",
+    "Armazém do Café"
+  ],
+  "shoppingAreas": [
+    "Ipanema General Osório market",
+    "Rio Sul Shopping",
+    "Feira de São Cristóvão",
+    "Copacabana boardwalk stalls"
+  ],
+  "nightlife": [
+    "Lapa Arches bar street",
+    "Rio Scenarium samba club",
+    "Copacabana beach bars",
+    "Baixo Gávea bar district"
+  ],
+  "instagramSpots": [
+    "Christ the Redeemer with the city below",
+    "Sugarloaf Mountain at sunset",
+    "Selarón Steps mosaic staircase",
+    "Copacabana and Ipanema beach panorama",
+    "Vista Chinesa viewpoint"
+  ],
+  "hiddenGems": [
+    "Parque Lage botanical trails",
+    "Pedra do Telégrafo cliff-edge photo spot",
+    "Ilha Grande day trip",
+    "Vista Chinesa viewpoint"
+  ],
+  "familyActivities": [
+    "AquaRio Marine Aquarium",
+    "Sugarloaf cable car",
+    "Museum of Tomorrow",
+    "Flamengo Park playgrounds and bike paths"
+  ],
+  "adventureActivities": [
+    "Hang gliding from Pedra Bonita over São Conrado",
+    "Hiking Pedra da Gávea",
+    "Surfing at Ipanema or Barra da Tijuca",
+    "Favela community bike tours"
+  ],
+  "luxuryExperiences": [
+    "Private helicopter tour over Christ the Redeemer and the bay",
+    "Suite at Copacabana Palace",
+    "Private samba show with dinner",
+    "Yacht charter around Guanabara Bay"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at Sugarloaf Mountain together",
+    "Private beach cabana at Ipanema",
+    "Romantic dinner in Santa Teresa",
+    "Couples spa at a beachfront resort"
+  ],
+  "budgetExperiences": [
+    "Free day at Copacabana or Ipanema Beach",
+    "Walk the Selarón Steps",
+    "Explore Santa Teresa's free streets and trams",
+    "Lapa Arches nightlife without cover charges"
+  ],
+  "estimatedDailyBudgetUSD": [
+    40,
+    90,
+    180,
+    380
+  ],
+  "safetyRating": 3,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 60,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Feb",
+      "highC": 30,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 27,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 26,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 25,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 25,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 25,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 25,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 26,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 27,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 29,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Carnaval (Rio Carnival)",
+      "timing": "February or March"
+    },
+    {
+      "name": "Réveillon (New Year's Eve at Copacabana Beach)",
+      "timing": "December 31"
+    },
+    {
+      "name": "Festa Junina",
+      "timing": "June"
+    },
+    {
+      "name": "Rock in Rio (biennial)",
+      "timing": "September"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "190",
+    "ambulance": "192",
+    "fire": "193"
+  },
+  "localEtiquette": [
+    "Greet with a handshake, or cheek kisses among friends and acquaintances.",
+    "Beachwear is for the beach — cover up when heading into restaurants or shops.",
+    "A 10% service charge is often already included in restaurant bills.",
+    "Be discreet with jewelry, phones, and cameras in public spaces.",
+    "A few Portuguese phrases go a long way, as English is limited outside tourist zones."
+  ],
+  "localTransportGuide": "The Rio Metro is safe, efficient, and covers Copacabana, Ipanema, and downtown; use Uber or 99 (a local ride app) rather than hailing street taxis, especially at night. Avoid public buses unless traveling with a local, as routes can be confusing for visitors.",
+  "bestTimeToVisit": "September to November (spring) or March to April (autumn) for pleasant weather and lower crowds than Carnival season.",
+  "weather": "Tropical climate with hot, humid summers (Dec-Mar) and mild, drier winters (Jun-Aug); seasons are reversed from the Northern Hemisphere.",
+  "visaInformation": "Brazil allows visa-free tourist entry for many nationalities including the EU, UK, Canada, Australia, and Japan for stays up to 90 days; other nationalities including the US have faced shifting reciprocity-based visa or e-visa requirements, so check current rules before booking.",
+  "currency": "BRL",
+  "languages": [
+    "Portuguese"
+  ],
+  "timeZone": "BRT (UTC-3)",
+  "averageFlightTime": "~16.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Rio de Janeiro?",
+      "answer": "Brazil allows visa-free tourist entry for many nationalities including the EU, UK, Canada, Australia, and Japan for stays up to 90 days; other nationalities including the US have faced shifting reciprocity-based visa or e-visa requirements, so check current rules before booking."
+    },
+    {
+      "question": "What is the best time to visit Rio de Janeiro?",
+      "answer": "September to November (spring) or March to April (autumn) for pleasant weather and lower crowds than Carnival season. Tropical climate with hot, humid summers (Dec-Mar) and mild, drier winters (Jun-Aug); seasons are reversed from the Northern Hemisphere."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Rio de Janeiro safe for tourists?",
+      "answer": "Rio de Janeiro is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Rio de Janeiro?",
+      "answer": "The local currency is BRL. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "City Break",
+    "Culture",
+    "Adventure",
+    "Nightlife",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Rio de Janeiro",
+    "Brazil",
+    "Rio de Janeiro, Brazil",
+    "South America",
+    "Rio de Janeiro tour package",
+    "Rio de Janeiro vacation package",
+    "Rio de Janeiro holiday package",
+    "things to do in Rio de Janeiro",
+    "best time to visit Rio de Janeiro",
+    "Rio de Janeiro itinerary",
+    "10 day Rio de Janeiro itinerary",
+    "Rio de Janeiro flights and hotels",
+    "Rio de Janeiro all inclusive package",
+    "cheap Rio de Janeiro package",
+    "luxury Rio de Janeiro package",
+    "Rio de Janeiro honeymoon package",
+    "Rio de Janeiro family vacation",
+    "Rio de Janeiro solo trip",
+    "Rio de Janeiro group tour",
+    "Rio de Janeiro weekend getaway",
+    "Rio de Janeiro guided tour",
+    "GIG flights",
+    "Rio de Janeiro travel guide",
+    "book Rio de Janeiro trip online",
+    "Rio de Janeiro trip cost",
+    "Rio de Janeiro packages 10 days",
+    "Rio de Janeiro beach",
+    "Rio de Janeiro city break",
+    "Rio de Janeiro culture",
+    "Rio de Janeiro adventure",
+    "Rio de Janeiro nightlife",
+    "Rio de Janeiro bucket list",
+    "Christ the Redeemer (Corcovado train)",
+    "Sugarloaf Mountain cable car",
+    "Museum of Tomorrow",
+    "Rio de Janeiro Botanical Garden",
+    "Maracanã Stadium tour",
+    "Tijuca National Park guided hike",
+    "AquaRio Marine Aquarium",
+    "Museu de Arte do Rio (MAR)",
+    "Santa Teresa tram ride",
+    "Cidade do Samba backstage tour",
+    "Copacabana Beach",
+    "Ipanema Beach",
+    "Selarón Steps",
+    "Santa Teresa neighborhood streets",
+    "Lapa Arches",
+    "Parque Lage",
+    "Flamengo Park",
+    "Confeitaria Colombo"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Rio de Janeiro, Brazil — Christ the Redeemer Rio skyline",
+      "keywords": [
+        "Rio de Janeiro",
+        "Brazil",
+        "Christ the Redeemer Rio skyline",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Rio de Janeiro Christ the Redeemer Rio skyline",
+      "pexelsQuery": "Rio de Janeiro Christ the Redeemer Rio skyline",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Rio de Janeiro, Brazil — Christ the Redeemer Rio skyline",
+      "keywords": [
+        "Rio de Janeiro",
+        "Brazil",
+        "Christ the Redeemer Rio skyline",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Rio de Janeiro Christ the Redeemer Rio skyline",
+      "pexelsQuery": "Rio de Janeiro Christ the Redeemer Rio skyline",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Rio de Janeiro, Brazil — Sugarloaf Mountain sunset",
+      "keywords": [
+        "Rio de Janeiro",
+        "Brazil",
+        "Sugarloaf Mountain sunset",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Rio de Janeiro Sugarloaf Mountain sunset",
+      "pexelsQuery": "Rio de Janeiro Sugarloaf Mountain sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Rio de Janeiro, Brazil — Copacabana Ipanema beach aerial",
+      "keywords": [
+        "Rio de Janeiro",
+        "Brazil",
+        "Copacabana Ipanema beach aerial",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Rio de Janeiro Copacabana Ipanema beach aerial",
+      "pexelsQuery": "Rio de Janeiro Copacabana Ipanema beach aerial",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Rio de Janeiro, Brazil — Christ the Redeemer Rio skyline",
+      "keywords": [
+        "Rio de Janeiro",
+        "Brazil",
+        "Christ the Redeemer Rio skyline",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Rio de Janeiro Christ the Redeemer Rio skyline",
+      "pexelsQuery": "Rio de Janeiro Christ the Redeemer Rio skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rio de Janeiro, Brazil — Sugarloaf Mountain sunset",
+      "keywords": [
+        "Rio de Janeiro",
+        "Brazil",
+        "Sugarloaf Mountain sunset",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Rio de Janeiro Sugarloaf Mountain sunset",
+      "pexelsQuery": "Rio de Janeiro Sugarloaf Mountain sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rio de Janeiro, Brazil — Copacabana Ipanema beach aerial",
+      "keywords": [
+        "Rio de Janeiro",
+        "Brazil",
+        "Copacabana Ipanema beach aerial",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Rio de Janeiro Copacabana Ipanema beach aerial",
+      "pexelsQuery": "Rio de Janeiro Copacabana Ipanema beach aerial",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rio de Janeiro, Brazil — Selaron Steps mosaic",
+      "keywords": [
+        "Rio de Janeiro",
+        "Brazil",
+        "Selaron Steps mosaic",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Rio de Janeiro Selaron Steps mosaic",
+      "pexelsQuery": "Rio de Janeiro Selaron Steps mosaic",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rio de Janeiro, Brazil — Christ the Redeemer (Corcovado train)",
+      "keywords": [
+        "Rio de Janeiro",
+        "Brazil",
+        "Christ the Redeemer (Corcovado train)",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Rio de Janeiro Christ the Redeemer (Corcovado train)",
+      "pexelsQuery": "Rio de Janeiro Christ the Redeemer (Corcovado train)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rio de Janeiro, Brazil — Sugarloaf Mountain cable car",
+      "keywords": [
+        "Rio de Janeiro",
+        "Brazil",
+        "Sugarloaf Mountain cable car",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Rio de Janeiro Sugarloaf Mountain cable car",
+      "pexelsQuery": "Rio de Janeiro Sugarloaf Mountain cable car",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rio de Janeiro, Brazil — Museum of Tomorrow",
+      "keywords": [
+        "Rio de Janeiro",
+        "Brazil",
+        "Museum of Tomorrow",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Rio de Janeiro Museum of Tomorrow",
+      "pexelsQuery": "Rio de Janeiro Museum of Tomorrow",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rio de Janeiro, Brazil — Rio de Janeiro Botanical Garden",
+      "keywords": [
+        "Rio de Janeiro",
+        "Brazil",
+        "Rio de Janeiro Botanical Garden",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Rio de Janeiro Rio de Janeiro Botanical Garden",
+      "pexelsQuery": "Rio de Janeiro Rio de Janeiro Botanical Garden",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-rio-de-janeiro-10-1",
+      "author": "Sarah Silva",
+      "country": "South Africa",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-06-07",
+      "title": "Would book again in a heartbeat",
+      "body": "Rio de Janeiro is stunning and this package covered the essentials well, especially Ipanema Beach. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-2",
+      "author": "Sofia Cohen",
+      "country": "South Korea",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-07",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a couple trip and it was well paced. Santa Teresa tram ride in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-3",
+      "author": "Anna Cohen",
+      "country": "Canada",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-08-21",
+      "title": "Unforgettable trip!",
+      "body": "Rio de Janeiro is stunning and this package covered the essentials well, especially Museum of Tomorrow. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-4",
+      "author": "Priya Costa",
+      "country": "UAE",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-17",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a group trip and it was well paced. AquaRio Marine Aquarium in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-5",
+      "author": "James Larsen",
+      "country": "Spain",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-05-17",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Rio de Janeiro was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Confeitaria Colombo was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-6",
+      "author": "Mia Andersen",
+      "country": "Switzerland",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-24",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Lapa Arches and Confeitaria Colombo. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-7",
+      "author": "Fatima Smith",
+      "country": "France",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-04-14",
+      "title": "Highly recommend this package",
+      "body": "Maracanã Stadium tour alone was worth the trip, but combined with Rio de Janeiro Botanical Garden this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-8",
+      "author": "Chen Kim",
+      "country": "Italy",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-19",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a group trip and it was well paced. Flamengo Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-9",
+      "author": "Olivia Kim",
+      "country": "South Korea",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-05-19",
+      "title": "Great value for money",
+      "body": "Our trip to Rio de Janeiro was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Santa Teresa tram ride was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-10",
+      "author": "Arjun Wang",
+      "country": "Australia",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-01-02",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a couple trip and it was well paced. Museum of Tomorrow in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-11",
+      "author": "Priya Cohen",
+      "country": "Netherlands",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-07-14",
+      "title": "Great for families with kids",
+      "body": "Booked this as a family of 4 trip and it was well paced. Selarón Steps in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-12",
+      "author": "Grace Andersen",
+      "country": "South Korea",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-04-15",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond Santa Teresa tram ride and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-13",
+      "author": "Ava Khan",
+      "country": "South Korea",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-06-26",
+      "title": "Worth every penny",
+      "body": "Santa Teresa tram ride alone was worth the trip, but combined with Rio de Janeiro Botanical Garden this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-14",
+      "author": "Sofia Costa",
+      "country": "New Zealand",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-12-28",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a couple trip and it was well paced. Ipanema Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-15",
+      "author": "Lukas Santos",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-27",
+      "title": "A little rushed but still wonderful",
+      "body": "Rio de Janeiro is stunning and this package covered the essentials well, especially Santa Teresa neighborhood streets. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-16",
+      "author": "Marco Wang",
+      "country": "Brazil",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-05-03",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Cidade do Samba backstage tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-17",
+      "author": "Omar Larsen",
+      "country": "United States",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-24",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Christ the Redeemer (Corcovado train) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-18",
+      "author": "James Müller",
+      "country": "Netherlands",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-01-09",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Rio de Janeiro was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Santa Teresa neighborhood streets was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-19",
+      "author": "Ava Andersen",
+      "country": "Switzerland",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-15",
+      "title": "Best vacation we've had",
+      "body": "Santa Teresa neighborhood streets alone was worth the trip, but combined with Rio de Janeiro Botanical Garden this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-rio-de-janeiro-10-20",
+      "author": "Chen Cohen",
+      "country": "Saudi Arabia",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-10-23",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a group trip and it was well paced. Parque Lage in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.2,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Rio de Janeiro Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 9,
+      "neighborhood": "Ipanema General Osório market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Rio de Janeiro Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 16,
+      "neighborhood": "Rio Sul Shopping"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Rio de Janeiro Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 31,
+      "neighborhood": "Feira de São Cristóvão"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Rio de Janeiro Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 41,
+      "neighborhood": "Copacabana boardwalk stalls"
+    },
+    {
+      "tier": "Resort",
+      "name": "Rio de Janeiro Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 90,
+      "neighborhood": "Lapa Arches bar street"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Rio de Janeiro Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "Rio Scenarium samba club"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Rio de Janeiro Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 190,
+      "neighborhood": "Copacabana beach bars"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        638,
+        1013
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        674,
+        1071
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        747,
+        1187
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        739,
+        1173
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        769,
+        1222
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        741,
+        1177
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        665,
+        1056
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        768,
+        1220
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        753,
+        1196
+      ],
+      "estimatedFlightHours": 13.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1053,
+        1673
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        963,
+        1530
+      ],
+      "estimatedFlightHours": 17.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1093,
+        1736
+      ],
+      "estimatedFlightHours": 19.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        1418,
+        2252
+      ],
+      "estimatedFlightHours": 25.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1386,
+        2202
+      ],
+      "estimatedFlightHours": 25.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1212,
+        1925
+      ],
+      "estimatedFlightHours": 22,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1237,
+        1964
+      ],
+      "estimatedFlightHours": 22.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1206,
+        1916
+      ],
+      "estimatedFlightHours": 21.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1191,
+        1891
+      ],
+      "estimatedFlightHours": 21.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1385,
+        2199
+      ],
+      "estimatedFlightHours": 25.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1272,
+        2020
+      ],
+      "estimatedFlightHours": 23.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        934,
+        1484
+      ],
+      "estimatedFlightHours": 16.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        874,
+        1388
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        909,
+        1443
+      ],
+      "estimatedFlightHours": 16.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        896,
+        1423
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        591,
+        938
+      ],
+      "estimatedFlightHours": 10.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        103,
+        163
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        632,
+        1003
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Christ the Redeemer (Corcovado train)",
+    "Sugarloaf Mountain cable car",
+    "Museum of Tomorrow",
+    "Rio de Janeiro Botanical Garden",
+    "Maracanã Stadium tour",
+    "Tijuca National Park guided hike",
+    "AquaRio Marine Aquarium",
+    "Museu de Arte do Rio (MAR)",
+    "Santa Teresa tram ride",
+    "Cidade do Samba backstage tour",
+    "Copacabana Beach",
+    "Ipanema Beach",
+    "Selarón Steps",
+    "Santa Teresa neighborhood streets",
+    "Lapa Arches",
+    "Parque Lage",
+    "Flamengo Park",
+    "Confeitaria Colombo",
+    "Ilha Grande",
+    "Petrópolis (Imperial city)",
+    "Búzios beach town",
+    "Paraty colonial town",
+    "National Museum of Fine Arts",
+    "Museu Nacional",
+    "Tijuca National Park",
+    "Rio Botanical Garden",
+    "Copacabana",
+    "Ipanema",
+    "Leblon",
+    "Barra da Tijuca",
+    "Christ the Redeemer with the city below",
+    "Sugarloaf Mountain at sunset",
+    "Selarón Steps mosaic staircase",
+    "Copacabana and Ipanema beach panorama",
+    "Vista Chinesa viewpoint"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Christ the Redeemer (Corcovado train)",
+      "priceUSD": 30
+    },
+    {
+      "name": "Sugarloaf Mountain cable car",
+      "priceUSD": 35
+    },
+    {
+      "name": "Museum of Tomorrow",
+      "priceUSD": 10
+    },
+    {
+      "name": "Rio de Janeiro Botanical Garden",
+      "priceUSD": 6
+    },
+    {
+      "name": "Maracanã Stadium tour",
+      "priceUSD": 22
+    },
+    {
+      "name": "Tijuca National Park guided hike",
+      "priceUSD": 40
+    },
+    {
+      "name": "AquaRio Marine Aquarium",
+      "priceUSD": 25
+    },
+    {
+      "name": "Museu de Arte do Rio (MAR)",
+      "priceUSD": 6
+    },
+    {
+      "name": "Santa Teresa tram ride",
+      "priceUSD": 1
+    },
+    {
+      "name": "Cidade do Samba backstage tour",
+      "priceUSD": 20
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Copacabana Beach",
+    "Ipanema Beach",
+    "Selarón Steps",
+    "Santa Teresa neighborhood streets",
+    "Lapa Arches",
+    "Parque Lage",
+    "Flamengo Park",
+    "Confeitaria Colombo"
+  ],
+  "museums": [
+    "Museum of Tomorrow",
+    "Museu de Arte do Rio (MAR)",
+    "National Museum of Fine Arts",
+    "Museu Nacional"
+  ],
+  "parks": [
+    "Tijuca National Park",
+    "Flamengo Park",
+    "Parque Lage",
+    "Rio Botanical Garden"
+  ],
+  "beaches": [
+    "Copacabana",
+    "Ipanema",
+    "Leblon",
+    "Barra da Tijuca"
+  ],
+  "dayTrips": [
+    "Ilha Grande",
+    "Petrópolis (Imperial city)",
+    "Búzios beach town",
+    "Paraty colonial town"
+  ],
+  "fromPriceUSD": 1470,
+  "seo": {
+    "title": "Rio de Janeiro 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "rio-de-janeiro-10-day-package",
+    "keywords": [
+      "Rio de Janeiro",
+      "Brazil",
+      "Rio de Janeiro, Brazil",
+      "South America",
+      "Rio de Janeiro tour package",
+      "Rio de Janeiro vacation package",
+      "Rio de Janeiro holiday package",
+      "things to do in Rio de Janeiro",
+      "best time to visit Rio de Janeiro",
+      "Rio de Janeiro itinerary",
+      "10 day Rio de Janeiro itinerary",
+      "Rio de Janeiro flights and hotels",
+      "Rio de Janeiro all inclusive package",
+      "cheap Rio de Janeiro package",
+      "luxury Rio de Janeiro package"
+    ],
+    "canonicalUrl": "/packages/rio-de-janeiro-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Rio de Janeiro Package",
+        "url": "/packages/rio-de-janeiro-7-day-package"
+      },
+      {
+        "title": "14-Day Rio de Janeiro Package",
+        "url": "/packages/rio-de-janeiro-14-day-package"
+      },
+      {
+        "title": "Barcelona 10-Day City Break",
+        "url": "/packages/barcelona-10-day-package"
+      },
+      {
+        "title": "Bangkok 10-Day City Break",
+        "url": "/packages/bangkok-10-day-package"
+      },
+      {
+        "title": "Sydney 10-Day City Break",
+        "url": "/packages/sydney-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Rio de Janeiro — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rio_de_Janeiro"
+      },
+      {
+        "title": "Rio de Janeiro — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro"
+      }
+    ]
+  }
+}

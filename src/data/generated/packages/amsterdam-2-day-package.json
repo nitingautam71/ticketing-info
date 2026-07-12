@@ -1,0 +1,1589 @@
+{
+  "id": "PKG-amsterdam-2D",
+  "slug": "amsterdam-2-day-package",
+  "destinationSlug": "amsterdam",
+  "destinationName": "Amsterdam",
+  "country": "Netherlands",
+  "region": "Western Europe",
+  "durationDays": 2,
+  "durationNights": 1,
+  "title": "Amsterdam 2-Day City Break",
+  "metaTitle": "Amsterdam 2-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 2-day trip to Amsterdam, Netherlands: round-trip flights, hotel, breakfast, transfers, and guided tours including Anne Frank House and Van Gogh Museum. Prices from $911 per person (estimate).",
+  "highlights": [
+    "Anne Frank House",
+    "Van Gogh Museum",
+    "Jordaan neighborhood",
+    "Zaanse Schans windmills"
+  ],
+  "overview": "Spend 2 days discovering Amsterdam, Netherlands — Temperate maritime climate with cool, wet winters (highs 6°C) and mild summers (highs 21°C); wind and rain are common year-round, so layering is key. April (tulip season) through May, and September, offer mild weather, blooming Keukenhof gardens and moderate crowds. This itinerary blends Anne Frank House, Van Gogh Museum, Jordaan neighborhood with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "1 night accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Anne Frank House, Van Gogh Museum, Jordaan neighborhood",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Amsterdam",
+      "description": "Land at Amsterdam Schiphol Airport (AMS) and take your included private transfer to your hotel. With limited time on the ground, head straight out to Anne Frank House — WWII hiding place and museum. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Anne Frank House"
+      ],
+      "overnight": "Amsterdam"
+    },
+    {
+      "day": 2,
+      "title": "Amsterdam Highlights & Departure",
+      "description": "Start early with a visit to Van Gogh Museum — Largest collection of Van Gogh works. Grab a last taste of local life before your private transfer to AMS for your onward flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Van Gogh Museum",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Anne Frank House tickets exactly 6 weeks ahead online — they sell out almost immediately.",
+    "Rent a bike from a reputable shop and always lock both wheels — bike theft is common.",
+    "The I Amsterdam City Card bundles free museum entry and transit for short stays.",
+    "Coffeeshops sell cannabis; cafés serve regular coffee — don't confuse the two when ordering.",
+    "Visit the Nine Streets on weekday mornings to avoid weekend shopping crowds.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "A waterproof jacket for frequent rain",
+    "Warm layers even in summer evenings",
+    "Comfortable shoes for cobblestones",
+    "A bike-friendly bag if planning to cycle"
+  ],
+  "thingsToDo": [
+    "Anne Frank House",
+    "Van Gogh Museum",
+    "Rijksmuseum",
+    "Vondelpark",
+    "Heineken Experience",
+    "Canal cruise (classic boat tour)",
+    "A'DAM Lookout",
+    "Moco Museum",
+    "NEMO Science Museum",
+    "Rembrandt House Museum",
+    "Keukenhof Gardens (seasonal)",
+    "Jordaan neighborhood",
+    "Dam Square",
+    "De Wallen (Red Light District walk)",
+    "Begijnhof",
+    "Nine Streets (De 9 Straatjes)",
+    "Albert Cuyp Market (browsing)",
+    "Amsterdam canal ring walk",
+    "NDSM Wharf",
+    "Cycling the countryside to Zaanse Schans"
+  ],
+  "thingsToAvoid": [
+    "Walking or standing in marked bike lanes — cyclists move fast and won't always stop.",
+    "Photographing sex workers in the Red Light District — it's illegal and disrespectful.",
+    "Buying drugs from street dealers — only licensed coffeeshops are legal and safe.",
+    "Renting bikes without proper locks in high-theft areas like Centraal Station.",
+    "Overpaying at central-canal restaurants — better value is a short walk into residential streets."
+  ],
+  "topRestaurants": [
+    "Restaurant Greetje — Modern Dutch ($$$)",
+    "Foodhallen — Food Hall / Various ($$)",
+    "De Kas — Farm-to-table Dutch ($$$$)",
+    "Winkel 43 — Dutch Apple Pie / Café ($)",
+    "Café de Reiger — Dutch Brown Café ($$)",
+    "Restaurant De Struisvogel — French-Dutch ($$$)",
+    "Rijsel — French Bistro ($$$)",
+    "Vlaams Friteshuis Vleminckx — Dutch Fries ($)",
+    "Wilde Zwijnen — Seasonal Dutch ($$$)"
+  ],
+  "topCafes": [
+    "Café Papeneiland",
+    "Screaming Beans",
+    "White Label Coffee",
+    "Café Chris",
+    "Bakers & Roasters"
+  ],
+  "shoppingAreas": [
+    "Nine Streets boutiques",
+    "Kalverstraat",
+    "Albert Cuyp Market",
+    "Waterlooplein flea market",
+    "De Bijenkorf department store"
+  ],
+  "nightlife": [
+    "Melkweg concert venue",
+    "Paradiso",
+    "Brown cafés of the Jordaan",
+    "De Wallen bars",
+    "Canal boat party cruises"
+  ],
+  "instagramSpots": [
+    "Brouwersgracht canal houses",
+    "Nine Streets flower-lined bridges",
+    "A'DAM Lookout skyline view",
+    "Zaanse Schans windmills (day trip)",
+    "Begijnhof courtyard"
+  ],
+  "hiddenGems": [
+    "Hortus Botanicus",
+    "Amsterdam Cheese Museum",
+    "Houseboat Museum",
+    "Electric Ladyland art museum"
+  ],
+  "familyActivities": [
+    "NEMO Science Museum",
+    "Artis Royal Zoo",
+    "Vondelpark playgrounds",
+    "Canal cruise for kids"
+  ],
+  "adventureActivities": [
+    "Cycling the countryside to Zaanse Schans",
+    "Canal kayaking",
+    "Ice skating in winter (Museumplein)",
+    "Bungee jumping at A'DAM Tower"
+  ],
+  "luxuryExperiences": [
+    "Private canal boat charter with catering",
+    "Michelin dining at De Kas",
+    "Exclusive after-hours Rijksmuseum tour",
+    "Diamond factory VIP tour"
+  ],
+  "honeymoonExperiences": [
+    "Sunset canal cruise for two",
+    "Romantic dinner in a converted canal house",
+    "Private bike tour through tulip fields",
+    "Candlelit dinner at Restaurant Greetje"
+  ],
+  "budgetExperiences": [
+    "Free walk through Jordaan and Nine Streets",
+    "Picnic in Vondelpark",
+    "Browse Albert Cuyp Market for street food",
+    "Self-guided canal ring walking tour"
+  ],
+  "estimatedDailyBudgetUSD": [
+    70,
+    150,
+    260,
+    520
+  ],
+  "safetyRating": 4,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 87,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 6,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 7,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 10,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 13,
+      "crowd": "Peak"
+    },
+    {
+      "month": "May",
+      "highC": 17,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jun",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "Aug",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 9,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 6,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "King's Day (Koningsdag)",
+      "timing": "April 27"
+    },
+    {
+      "name": "Amsterdam Light Festival",
+      "timing": "December to January"
+    },
+    {
+      "name": "Pride Amsterdam (canal parade)",
+      "timing": "First Saturday of August"
+    },
+    {
+      "name": "Keukenhof tulip season",
+      "timing": "Mid-March to mid-May"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112"
+  },
+  "localEtiquette": [
+    "Cyclists have the right of way in bike lanes — always look before stepping into one.",
+    "The Dutch are direct communicators; blunt feedback is normal, not rude.",
+    "Cannabis use is tolerated only in licensed coffeeshops, not openly on the street.",
+    "Splitting the bill (\"going Dutch\") is standard practice among friends and colleagues.",
+    "Greet with a simple nod or handshake; overt formality isn't expected."
+  ],
+  "localTransportGuide": "Renting a bicycle is the most authentic way to get around flat, compact Amsterdam — dedicated bike lanes cover the whole city. Trams and the GVB public transit network (use an OV-chipkaart or contactless card) fill in the rest, and the center is very walkable.",
+  "bestTimeToVisit": "April (tulip season) through May, and September, offer mild weather, blooming Keukenhof gardens and moderate crowds.",
+  "weather": "Temperate maritime climate with cool, wet winters (highs 6°C) and mild summers (highs 21°C); wind and rain are common year-round, so layering is key.",
+  "visaInformation": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities should check Schengen short-stay visa requirements in advance.",
+  "currency": "EUR",
+  "languages": [
+    "Dutch"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~10h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Amsterdam Schiphol Airport (AMS)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Amsterdam?",
+      "answer": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities should check Schengen short-stay visa requirements in advance."
+    },
+    {
+      "question": "What is the best time to visit Amsterdam?",
+      "answer": "April (tulip season) through May, and September, offer mild weather, blooming Keukenhof gardens and moderate crowds. Temperate maritime climate with cool, wet winters (highs 6°C) and mild summers (highs 21°C); wind and rain are common year-round, so layering is key."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Amsterdam safe for tourists?",
+      "answer": "Amsterdam is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Amsterdam?",
+      "answer": "The local currency is EUR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Nightlife",
+    "History",
+    "Romantic",
+    "Spring",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Amsterdam",
+    "Netherlands",
+    "Amsterdam, Netherlands",
+    "Western Europe",
+    "Amsterdam tour package",
+    "Amsterdam vacation package",
+    "Amsterdam holiday package",
+    "things to do in Amsterdam",
+    "best time to visit Amsterdam",
+    "Amsterdam itinerary",
+    "2 day Amsterdam itinerary",
+    "Amsterdam flights and hotels",
+    "Amsterdam all inclusive package",
+    "cheap Amsterdam package",
+    "luxury Amsterdam package",
+    "Amsterdam honeymoon package",
+    "Amsterdam family vacation",
+    "Amsterdam solo trip",
+    "Amsterdam group tour",
+    "Amsterdam weekend getaway",
+    "Amsterdam guided tour",
+    "AMS flights",
+    "Amsterdam travel guide",
+    "book Amsterdam trip online",
+    "Amsterdam trip cost",
+    "Amsterdam packages 2 days",
+    "Amsterdam city break",
+    "Amsterdam culture",
+    "Amsterdam nightlife",
+    "Amsterdam history",
+    "Amsterdam romantic",
+    "Amsterdam spring",
+    "Anne Frank House",
+    "Van Gogh Museum",
+    "Rijksmuseum",
+    "Vondelpark",
+    "Heineken Experience",
+    "Canal cruise (classic boat tour)",
+    "A'DAM Lookout",
+    "Moco Museum",
+    "NEMO Science Museum",
+    "Rembrandt House Museum",
+    "Keukenhof Gardens (seasonal)",
+    "Jordaan neighborhood",
+    "Dam Square",
+    "De Wallen (Red Light District walk)",
+    "Begijnhof",
+    "Nine Streets (De 9 Straatjes)",
+    "Albert Cuyp Market (browsing)",
+    "Amsterdam canal ring walk"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Amsterdam, Netherlands — Amsterdam canal houses",
+      "keywords": [
+        "Amsterdam",
+        "Netherlands",
+        "Amsterdam canal houses",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Amsterdam Amsterdam canal houses",
+      "pexelsQuery": "Amsterdam Amsterdam canal houses",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Amsterdam, Netherlands — Amsterdam canal houses",
+      "keywords": [
+        "Amsterdam",
+        "Netherlands",
+        "Amsterdam canal houses",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Amsterdam Amsterdam canal houses",
+      "pexelsQuery": "Amsterdam Amsterdam canal houses",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Amsterdam, Netherlands — tulip fields Keukenhof",
+      "keywords": [
+        "Amsterdam",
+        "Netherlands",
+        "tulip fields Keukenhof",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Amsterdam tulip fields Keukenhof",
+      "pexelsQuery": "Amsterdam tulip fields Keukenhof",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Amsterdam, Netherlands — bicycles canal bridge",
+      "keywords": [
+        "Amsterdam",
+        "Netherlands",
+        "bicycles canal bridge",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Amsterdam bicycles canal bridge",
+      "pexelsQuery": "Amsterdam bicycles canal bridge",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Amsterdam, Netherlands — Amsterdam canal houses",
+      "keywords": [
+        "Amsterdam",
+        "Netherlands",
+        "Amsterdam canal houses",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Amsterdam Amsterdam canal houses",
+      "pexelsQuery": "Amsterdam Amsterdam canal houses",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amsterdam, Netherlands — tulip fields Keukenhof",
+      "keywords": [
+        "Amsterdam",
+        "Netherlands",
+        "tulip fields Keukenhof",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Amsterdam tulip fields Keukenhof",
+      "pexelsQuery": "Amsterdam tulip fields Keukenhof",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amsterdam, Netherlands — bicycles canal bridge",
+      "keywords": [
+        "Amsterdam",
+        "Netherlands",
+        "bicycles canal bridge",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Amsterdam bicycles canal bridge",
+      "pexelsQuery": "Amsterdam bicycles canal bridge",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amsterdam, Netherlands — Jordaan district evening",
+      "keywords": [
+        "Amsterdam",
+        "Netherlands",
+        "Jordaan district evening",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Amsterdam Jordaan district evening",
+      "pexelsQuery": "Amsterdam Jordaan district evening",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amsterdam, Netherlands — Anne Frank House",
+      "keywords": [
+        "Amsterdam",
+        "Netherlands",
+        "Anne Frank House",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Amsterdam Anne Frank House",
+      "pexelsQuery": "Amsterdam Anne Frank House",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amsterdam, Netherlands — Van Gogh Museum",
+      "keywords": [
+        "Amsterdam",
+        "Netherlands",
+        "Van Gogh Museum",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Amsterdam Van Gogh Museum",
+      "pexelsQuery": "Amsterdam Van Gogh Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amsterdam, Netherlands — Rijksmuseum",
+      "keywords": [
+        "Amsterdam",
+        "Netherlands",
+        "Rijksmuseum",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Amsterdam Rijksmuseum",
+      "pexelsQuery": "Amsterdam Rijksmuseum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amsterdam, Netherlands — Vondelpark",
+      "keywords": [
+        "Amsterdam",
+        "Netherlands",
+        "Vondelpark",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Amsterdam Vondelpark",
+      "pexelsQuery": "Amsterdam Vondelpark",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-amsterdam-2-1",
+      "author": "Olivia Silva",
+      "country": "Canada",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-04-17",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Amsterdam was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Rijksmuseum was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-2",
+      "author": "Mohammed Dubois",
+      "country": "Australia",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-09-20",
+      "title": "Beautiful destination, well organized",
+      "body": "Vondelpark alone was worth the trip, but combined with NDSM Wharf this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-3",
+      "author": "Priya Andersen",
+      "country": "Australia",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-27",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a family of 4 trip and it was well paced. Vondelpark in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-4",
+      "author": "Anna Rossi",
+      "country": "Japan",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-21",
+      "title": "Exceeded our expectations",
+      "body": "Amsterdam is stunning and this package covered the essentials well, especially Keukenhof Gardens (seasonal). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-5",
+      "author": "Marco Larsen",
+      "country": "Switzerland",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-05",
+      "title": "Consultant made it effortless",
+      "body": "We added a couple of optional activities beyond Nine Streets (De 9 Straatjes) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-6",
+      "author": "Yuki Müller",
+      "country": "New Zealand",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-01-04",
+      "title": "Smooth from start to finish",
+      "body": "De Wallen (Red Light District walk) alone was worth the trip, but combined with NDSM Wharf this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-7",
+      "author": "Grace Santos",
+      "country": "Germany",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-02-08",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Heineken Experience and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-amsterdam-2-8",
+      "author": "David Ivanov",
+      "country": "South Korea",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-02-21",
+      "title": "Great for families with kids",
+      "body": "Amsterdam is stunning and this package covered the essentials well, especially Rembrandt House Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-9",
+      "author": "Arjun Rossi",
+      "country": "United Kingdom",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-27",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a solo trip and it was well paced. Van Gogh Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-10",
+      "author": "Hiroshi Cohen",
+      "country": "Singapore",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-01-22",
+      "title": "Solid mid-range package",
+      "body": "NEMO Science Museum alone was worth the trip, but combined with NEMO Science Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-11",
+      "author": "Liam Tanaka",
+      "country": "Switzerland",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-10-04",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Amsterdam was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Nine Streets (De 9 Straatjes) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-12",
+      "author": "Yuki Patel",
+      "country": "New Zealand",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-23",
+      "title": "Loved every moment",
+      "body": "De Wallen (Red Light District walk) alone was worth the trip, but combined with De Wallen (Red Light District walk) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-13",
+      "author": "Tom Wang",
+      "country": "United States",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-09",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Anne Frank House and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-amsterdam-2-14",
+      "author": "Mia Dubois",
+      "country": "Spain",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-06-21",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to NDSM Wharf and Rijksmuseum. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-15",
+      "author": "David Larsen",
+      "country": "United States",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-01-30",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Amsterdam is stunning and this package covered the essentials well, especially Anne Frank House. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-amsterdam-2-16",
+      "author": "Daniel Cohen",
+      "country": "India",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-28",
+      "title": "Perfect for our honeymoon",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to A'DAM Lookout and Vondelpark. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-amsterdam-2-17",
+      "author": "Noah Garcia",
+      "country": "Singapore",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-03-18",
+      "title": "Great value for money",
+      "body": "Our trip to Amsterdam was fantastic from start to finish. The hotel was clean and well located, and the guided visit to NEMO Science Museum was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-18",
+      "author": "Hiroshi Andersen",
+      "country": "UAE",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-06-21",
+      "title": "Smooth from start to finish",
+      "body": "Moco Museum alone was worth the trip, but combined with Van Gogh Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-19",
+      "author": "Olivia Smith",
+      "country": "New Zealand",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-04-07",
+      "title": "Great value for money",
+      "body": "Our trip to Amsterdam was fantastic from start to finish. The hotel was clean and well located, and the guided visit to De Wallen (Red Light District walk) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amsterdam-2-20",
+      "author": "David Novak",
+      "country": "Switzerland",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-05-15",
+      "title": "Beautiful destination, well organized",
+      "body": "Amsterdam is stunning and this package covered the essentials well, especially Nine Streets (De 9 Straatjes). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.4,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.4,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Amsterdam Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 15,
+      "neighborhood": "Nine Streets boutiques"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Amsterdam Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 28,
+      "neighborhood": "Kalverstraat"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Amsterdam Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 53,
+      "neighborhood": "Albert Cuyp Market"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Amsterdam Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 68,
+      "neighborhood": "Waterlooplein flea market"
+    },
+    {
+      "tier": "Resort",
+      "name": "Amsterdam Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 130,
+      "neighborhood": "De Bijenkorf department store"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Amsterdam Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 218,
+      "neighborhood": "Melkweg concert venue"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Amsterdam Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 260,
+      "neighborhood": "Paradiso"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        500,
+        794
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        508,
+        807
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        102,
+        162
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        108,
+        171
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        103,
+        163
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        170,
+        270
+      ],
+      "estimatedFlightHours": 2.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        184,
+        292
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        121,
+        192
+      ],
+      "estimatedFlightHours": 1.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1279,
+        2032
+      ],
+      "estimatedFlightHours": 23.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1386,
+        2201
+      ],
+      "estimatedFlightHours": 25.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        536,
+        851
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        747,
+        1187
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        694,
+        1103
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        835,
+        1326
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        740,
+        1175
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        813,
+        1291
+      ],
+      "estimatedFlightHours": 14.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        898,
+        1426
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        827,
+        1314
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        787,
+        1250
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        450,
+        714
+      ],
+      "estimatedFlightHours": 7.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        413,
+        656
+      ],
+      "estimatedFlightHours": 7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        431,
+        684
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        390,
+        620
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        728,
+        1157
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        785,
+        1246
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Amsterdam Schiphol Airport (AMS)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        742,
+        1179
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Anne Frank House",
+    "Van Gogh Museum",
+    "Rijksmuseum",
+    "Vondelpark",
+    "Heineken Experience",
+    "Canal cruise (classic boat tour)",
+    "A'DAM Lookout",
+    "Moco Museum",
+    "NEMO Science Museum",
+    "Rembrandt House Museum",
+    "Keukenhof Gardens (seasonal)",
+    "Jordaan neighborhood",
+    "Dam Square",
+    "De Wallen (Red Light District walk)",
+    "Begijnhof",
+    "Nine Streets (De 9 Straatjes)",
+    "Albert Cuyp Market (browsing)",
+    "Amsterdam canal ring walk",
+    "NDSM Wharf",
+    "Zaanse Schans windmills",
+    "Keukenhof Gardens (spring)",
+    "Volendam and Marken fishing villages",
+    "Utrecht",
+    "Amsterdamse Bos",
+    "Sarphatipark",
+    "Zandvoort aan Zee (day trip)",
+    "Brouwersgracht canal houses",
+    "Nine Streets flower-lined bridges",
+    "A'DAM Lookout skyline view",
+    "Zaanse Schans windmills (day trip)",
+    "Begijnhof courtyard"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Anne Frank House",
+      "priceUSD": 17
+    },
+    {
+      "name": "Van Gogh Museum",
+      "priceUSD": 22
+    },
+    {
+      "name": "Rijksmuseum",
+      "priceUSD": 24
+    },
+    {
+      "name": "Vondelpark",
+      "priceUSD": 0
+    },
+    {
+      "name": "Heineken Experience",
+      "priceUSD": 25
+    },
+    {
+      "name": "Canal cruise (classic boat tour)",
+      "priceUSD": 20
+    },
+    {
+      "name": "A'DAM Lookout",
+      "priceUSD": 16
+    },
+    {
+      "name": "Moco Museum",
+      "priceUSD": 21
+    },
+    {
+      "name": "NEMO Science Museum",
+      "priceUSD": 19
+    },
+    {
+      "name": "Rembrandt House Museum",
+      "priceUSD": 16
+    },
+    {
+      "name": "Keukenhof Gardens (seasonal)",
+      "priceUSD": 22
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Jordaan neighborhood",
+    "Dam Square",
+    "De Wallen (Red Light District walk)",
+    "Begijnhof",
+    "Nine Streets (De 9 Straatjes)",
+    "Vondelpark",
+    "Albert Cuyp Market (browsing)",
+    "Amsterdam canal ring walk",
+    "NDSM Wharf"
+  ],
+  "museums": [
+    "Van Gogh Museum",
+    "Rijksmuseum",
+    "Anne Frank House",
+    "Moco Museum"
+  ],
+  "parks": [
+    "Vondelpark",
+    "Amsterdamse Bos",
+    "Sarphatipark"
+  ],
+  "beaches": [
+    "Zandvoort aan Zee (day trip)"
+  ],
+  "dayTrips": [
+    "Zaanse Schans windmills",
+    "Keukenhof Gardens (spring)",
+    "Volendam and Marken fishing villages",
+    "Utrecht"
+  ],
+  "fromPriceUSD": 911,
+  "seo": {
+    "title": "Amsterdam 2-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "amsterdam-2-day-package",
+    "keywords": [
+      "Amsterdam",
+      "Netherlands",
+      "Amsterdam, Netherlands",
+      "Western Europe",
+      "Amsterdam tour package",
+      "Amsterdam vacation package",
+      "Amsterdam holiday package",
+      "things to do in Amsterdam",
+      "best time to visit Amsterdam",
+      "Amsterdam itinerary",
+      "2 day Amsterdam itinerary",
+      "Amsterdam flights and hotels",
+      "Amsterdam all inclusive package",
+      "cheap Amsterdam package",
+      "luxury Amsterdam package"
+    ],
+    "canonicalUrl": "/packages/amsterdam-2-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Amsterdam Package",
+        "url": "/packages/amsterdam-3-day-package"
+      },
+      {
+        "title": "5-Day Amsterdam Package",
+        "url": "/packages/amsterdam-5-day-package"
+      },
+      {
+        "title": "Prague 2-Day City Break",
+        "url": "/packages/prague-2-day-package"
+      },
+      {
+        "title": "Lisbon 2-Day City Break",
+        "url": "/packages/lisbon-2-day-package"
+      },
+      {
+        "title": "Paris 2-Day City Break",
+        "url": "/packages/paris-2-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Amsterdam — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amsterdam"
+      },
+      {
+        "title": "Amsterdam — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Amsterdam"
+      }
+    ]
+  }
+}

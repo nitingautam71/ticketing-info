@@ -1,0 +1,1568 @@
+{
+  "id": "PKG-orlando-2D",
+  "slug": "orlando-2-day-package",
+  "destinationSlug": "orlando",
+  "destinationName": "Orlando",
+  "country": "United States",
+  "region": "North America",
+  "durationDays": 2,
+  "durationNights": 1,
+  "title": "Orlando 2-Day Family Vacation",
+  "metaTitle": "Orlando 2-Day Family Vacation | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 2-day trip to Orlando, United States: round-trip flights, hotel, breakfast, transfers, and guided tours including Walt Disney World Magic Kingdom and Epcot. Prices from $570 per person (estimate).",
+  "highlights": [
+    "Walt Disney World Magic Kingdom",
+    "Epcot",
+    "Disney Springs",
+    "Universal's Hollywood Rip Ride Rockit and thrill coasters",
+    "Kennedy Space Center"
+  ],
+  "overview": "Spend 2 days discovering Orlando, United States — Humid subtropical climate with hot, rainy, thunderstorm-prone summers (Jun-Sep) and mild, dry winters (Dec-Feb) with occasional cold snaps. January to May, outside spring break weeks, for milder weather, lower humidity, and shorter theme park lines. This itinerary blends Walt Disney World Magic Kingdom, Epcot, Disney Springs with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "1 night accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Walt Disney World Magic Kingdom, Epcot, Disney Springs",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Orlando",
+      "description": "Land at Orlando International Airport (MCO) and take your included private transfer to your hotel. With limited time on the ground, head straight out to Walt Disney World Magic Kingdom — Flagship Disney theme park. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Walt Disney World Magic Kingdom"
+      ],
+      "overnight": "Orlando"
+    },
+    {
+      "day": 2,
+      "title": "Orlando Highlights & Departure",
+      "description": "Start early with a visit to Epcot — Future World and World Showcase pavilions. Grab a last taste of local life before your private transfer to MCO for your onward flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Epcot",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Use Disney Genie+/Lightning Lane and Universal Express systems to cut wait times",
+    "Book park tickets and dining reservations well in advance, especially around holidays",
+    "Ride outdoor attractions early or late to avoid the hottest, most crowded midday hours",
+    "Download park apps for real-time wait times and mobile ordering",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Comfortable walking shoes for long theme park days",
+    "Sunscreen and a refillable water bottle for hot, humid weather",
+    "A light rain poncho for frequent afternoon summer storms",
+    "A portable phone charger for all-day park app use"
+  ],
+  "thingsToDo": [
+    "Walt Disney World Magic Kingdom",
+    "Epcot",
+    "Universal Studios Florida",
+    "Universal's Islands of Adventure",
+    "Disney's Animal Kingdom",
+    "SeaWorld Orlando",
+    "Kennedy Space Center Visitor Complex",
+    "LEGOLAND Florida",
+    "ICON Park Wheel",
+    "Gatorland",
+    "Disney Springs",
+    "CityWalk Universal Orlando",
+    "Lake Eola Park",
+    "Winter Park Scenic Boat Tour area",
+    "Orlando Farmers Market at Lake Eola",
+    "Celebration Main Street",
+    "Universal's Hollywood Rip Ride Rockit and thrill coasters",
+    "Airboat tours in nearby wetlands",
+    "Kennedy Space Center astronaut training experience",
+    "Zip-lining at Forever Florida"
+  ],
+  "thingsToAvoid": [
+    "Visiting during major US school holiday weeks if you dislike crowds",
+    "Underestimating the size of the parks and amount of walking involved",
+    "Leaving strollers or bags unattended",
+    "Skipping required park reservations alongside ticket purchases at Disney"
+  ],
+  "topRestaurants": [
+    "The Boathouse Disney Springs — Seafood and steak ($$$)",
+    "Victoria & Albert's — Fine dining tasting menu ($$$$)",
+    "Cask & Larder — Southern American ($$)",
+    "Se7en Bites — Southern comfort food ($)",
+    "Ravenous Pig — Gastropub ($$$)",
+    "Chef Art Smith's Homecomin' — Southern comfort food ($$)",
+    "Toothsome Chocolate Emporium — American dessert and dining ($$)",
+    "Yak & Yeti (Animal Kingdom) — Pan-Asian ($$)"
+  ],
+  "topCafes": [
+    "Joffrey's Coffee (Disney parks)",
+    "Foxtail Coffee Co.",
+    "Downtown Credo",
+    "Se7en Bites Bakery"
+  ],
+  "shoppingAreas": [
+    "Disney Springs",
+    "Orlando International Premium Outlets",
+    "The Mall at Millenia",
+    "Winter Park Park Avenue boutiques"
+  ],
+  "nightlife": [
+    "CityWalk Universal Orlando",
+    "Icebar Orlando",
+    "The Wine Room Disney Springs",
+    "Wall Street Plaza Downtown Orlando"
+  ],
+  "instagramSpots": [
+    "Cinderella Castle, Magic Kingdom",
+    "Spaceship Earth, Epcot",
+    "Hogwarts Castle, Universal",
+    "ICON Park Wheel at sunset",
+    "Lake Eola swan boats"
+  ],
+  "hiddenGems": [
+    "Winter Park Scenic Boat Tour",
+    "Harry P. Leu Gardens",
+    "Kennedy Space Center rocket garden",
+    "Blue Spring State Park manatees (seasonal)"
+  ],
+  "familyActivities": [
+    "Magic Kingdom",
+    "Universal's Islands of Adventure",
+    "SeaWorld Orlando",
+    "LEGOLAND Florida"
+  ],
+  "adventureActivities": [
+    "Universal's Hollywood Rip Ride Rockit and thrill coasters",
+    "Airboat tours in nearby wetlands",
+    "Kennedy Space Center astronaut training experience",
+    "Zip-lining at Forever Florida"
+  ],
+  "luxuryExperiences": [
+    "Stay at a Disney Deluxe Villa or Four Seasons Orlando",
+    "Private VIP tour guide at Universal or Disney",
+    "Dinner at Victoria & Albert's",
+    "Private fireworks viewing cruise on the Seven Seas Lagoon"
+  ],
+  "honeymoonExperiences": [
+    "Romantic dinner at California Grill overlooking Magic Kingdom fireworks",
+    "Couples spa at a Disney or Four Seasons resort",
+    "Private Segway tour of Epcot's World Showcase",
+    "Sunset cruise on Lake Buena Vista"
+  ],
+  "budgetExperiences": [
+    "Free entry and browsing at Disney Springs",
+    "CityWalk evening stroll",
+    "Lake Eola Park picnic and swan boats",
+    "Discount multi-day park ticket bundles"
+  ],
+  "estimatedDailyBudgetUSD": [
+    90,
+    190,
+    380,
+    750
+  ],
+  "safetyRating": 4,
+  "internetRating": 5,
+  "publicTransportRating": 2,
+  "walkingScore": 30,
+  "accessibilityRating": 5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 22,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 24,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Apr",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 33,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 33,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 33,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 23,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Epcot International Flower & Garden Festival",
+      "timing": "March to July"
+    },
+    {
+      "name": "Epcot International Food & Wine Festival",
+      "timing": "August to November"
+    },
+    {
+      "name": "Mickey's Not-So-Scary Halloween Party",
+      "timing": "August to October"
+    },
+    {
+      "name": "Universal's Halloween Horror Nights",
+      "timing": "September to October"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Tipping 18-20% is standard at sit-down restaurants.",
+    "Tipping housekeeping and valet is customary at hotels.",
+    "Queue politely for rides and respect the Lightning Lane/Genie+ systems.",
+    "Casual dress is the norm everywhere, including most restaurants.",
+    "Sales tax is added at checkout and not included in listed prices."
+  ],
+  "localTransportGuide": "Renting a car is the most practical way to get around Orlando's sprawling, highway-linked attractions; Disney offers free buses, monorail, and Skyliner gondolas between its own parks and resorts. Uber and Lyft are widely used for trips outside Disney property.",
+  "bestTimeToVisit": "January to May, outside spring break weeks, for milder weather, lower humidity, and shorter theme park lines.",
+  "weather": "Humid subtropical climate with hot, rainy, thunderstorm-prone summers (Jun-Sep) and mild, dry winters (Dec-Feb) with occasional cold snaps.",
+  "visaInformation": "Travelers from Visa Waiver Program countries (UK, EU, Australia, Japan, and others) need an approved ESTA (Electronic System for Travel Authorization) before flying, valid for stays up to 90 days; other nationalities require a B-2 tourist visa.",
+  "currency": "USD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "EST (UTC-5)",
+  "averageFlightTime": "~15.1h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Orlando International Airport (MCO)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Orlando?",
+      "answer": "Travelers from Visa Waiver Program countries (UK, EU, Australia, Japan, and others) need an approved ESTA (Electronic System for Travel Authorization) before flying, valid for stays up to 90 days; other nationalities require a B-2 tourist visa."
+    },
+    {
+      "question": "What is the best time to visit Orlando?",
+      "answer": "January to May, outside spring break weeks, for milder weather, lower humidity, and shorter theme park lines. Humid subtropical climate with hot, rainy, thunderstorm-prone summers (Jun-Sep) and mild, dry winters (Dec-Feb) with occasional cold snaps."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Orlando safe for tourists?",
+      "answer": "Orlando is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Orlando?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include Magic Kingdom."
+    }
+  ],
+  "categories": [
+    "Family",
+    "City Break",
+    "Adventure",
+    "Bucket List",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Orlando",
+    "United States",
+    "Orlando, United States",
+    "North America",
+    "Orlando tour package",
+    "Orlando vacation package",
+    "Orlando holiday package",
+    "things to do in Orlando",
+    "best time to visit Orlando",
+    "Orlando itinerary",
+    "2 day Orlando itinerary",
+    "Orlando flights and hotels",
+    "Orlando all inclusive package",
+    "cheap Orlando package",
+    "luxury Orlando package",
+    "Orlando honeymoon package",
+    "Orlando family vacation",
+    "Orlando solo trip",
+    "Orlando group tour",
+    "Orlando weekend getaway",
+    "Orlando guided tour",
+    "MCO flights",
+    "Orlando travel guide",
+    "book Orlando trip online",
+    "Orlando trip cost",
+    "Orlando packages 2 days",
+    "Orlando family",
+    "Orlando city break",
+    "Orlando adventure",
+    "Orlando bucket list",
+    "Walt Disney World Magic Kingdom",
+    "Epcot",
+    "Universal Studios Florida",
+    "Universal's Islands of Adventure",
+    "Disney's Animal Kingdom",
+    "SeaWorld Orlando",
+    "Kennedy Space Center Visitor Complex",
+    "LEGOLAND Florida",
+    "ICON Park Wheel",
+    "Gatorland",
+    "Disney Springs",
+    "CityWalk Universal Orlando",
+    "Lake Eola Park",
+    "Winter Park Scenic Boat Tour area",
+    "Orlando Farmers Market at Lake Eola",
+    "Celebration Main Street",
+    "The Boathouse Disney Springs",
+    "Victoria & Albert's",
+    "Cask & Larder",
+    "Se7en Bites"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Orlando, United States — Cinderella Castle fireworks",
+      "keywords": [
+        "Orlando",
+        "United States",
+        "Cinderella Castle fireworks",
+        "Family",
+        "City Break"
+      ],
+      "unsplashQuery": "Orlando Cinderella Castle fireworks",
+      "pexelsQuery": "Orlando Cinderella Castle fireworks",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Orlando, United States — Cinderella Castle fireworks",
+      "keywords": [
+        "Orlando",
+        "United States",
+        "Cinderella Castle fireworks",
+        "Family",
+        "City Break"
+      ],
+      "unsplashQuery": "Orlando Cinderella Castle fireworks",
+      "pexelsQuery": "Orlando Cinderella Castle fireworks",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Orlando, United States — Universal Hogwarts Castle",
+      "keywords": [
+        "Orlando",
+        "United States",
+        "Universal Hogwarts Castle",
+        "Family",
+        "City Break"
+      ],
+      "unsplashQuery": "Orlando Universal Hogwarts Castle",
+      "pexelsQuery": "Orlando Universal Hogwarts Castle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Orlando, United States — Epcot Spaceship Earth",
+      "keywords": [
+        "Orlando",
+        "United States",
+        "Epcot Spaceship Earth",
+        "Family",
+        "City Break"
+      ],
+      "unsplashQuery": "Orlando Epcot Spaceship Earth",
+      "pexelsQuery": "Orlando Epcot Spaceship Earth",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Orlando, United States — Cinderella Castle fireworks",
+      "keywords": [
+        "Orlando",
+        "United States",
+        "Cinderella Castle fireworks",
+        "Family",
+        "City Break"
+      ],
+      "unsplashQuery": "Orlando Cinderella Castle fireworks",
+      "pexelsQuery": "Orlando Cinderella Castle fireworks",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Orlando, United States — Universal Hogwarts Castle",
+      "keywords": [
+        "Orlando",
+        "United States",
+        "Universal Hogwarts Castle",
+        "Family",
+        "City Break"
+      ],
+      "unsplashQuery": "Orlando Universal Hogwarts Castle",
+      "pexelsQuery": "Orlando Universal Hogwarts Castle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Orlando, United States — Epcot Spaceship Earth",
+      "keywords": [
+        "Orlando",
+        "United States",
+        "Epcot Spaceship Earth",
+        "Family",
+        "City Break"
+      ],
+      "unsplashQuery": "Orlando Epcot Spaceship Earth",
+      "pexelsQuery": "Orlando Epcot Spaceship Earth",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Orlando, United States — Orlando theme park skyline",
+      "keywords": [
+        "Orlando",
+        "United States",
+        "Orlando theme park skyline",
+        "Family",
+        "City Break"
+      ],
+      "unsplashQuery": "Orlando Orlando theme park skyline",
+      "pexelsQuery": "Orlando Orlando theme park skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Orlando, United States — Walt Disney World Magic Kingdom",
+      "keywords": [
+        "Orlando",
+        "United States",
+        "Walt Disney World Magic Kingdom",
+        "Family",
+        "City Break"
+      ],
+      "unsplashQuery": "Orlando Walt Disney World Magic Kingdom",
+      "pexelsQuery": "Orlando Walt Disney World Magic Kingdom",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Orlando, United States — Epcot",
+      "keywords": [
+        "Orlando",
+        "United States",
+        "Epcot",
+        "Family",
+        "City Break"
+      ],
+      "unsplashQuery": "Orlando Epcot",
+      "pexelsQuery": "Orlando Epcot",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Orlando, United States — Universal Studios Florida",
+      "keywords": [
+        "Orlando",
+        "United States",
+        "Universal Studios Florida",
+        "Family",
+        "City Break"
+      ],
+      "unsplashQuery": "Orlando Universal Studios Florida",
+      "pexelsQuery": "Orlando Universal Studios Florida",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Orlando, United States — Universal's Islands of Adventure",
+      "keywords": [
+        "Orlando",
+        "United States",
+        "Universal's Islands of Adventure",
+        "Family",
+        "City Break"
+      ],
+      "unsplashQuery": "Orlando Universal's Islands of Adventure",
+      "pexelsQuery": "Orlando Universal's Islands of Adventure",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-orlando-2-1",
+      "author": "Lucas Dubois",
+      "country": "Mexico",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-14",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Orlando Farmers Market at Lake Eola and Winter Park Scenic Boat Tour area. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-2",
+      "author": "Sarah Costa",
+      "country": "United Kingdom",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-02-27",
+      "title": "Great for families with kids",
+      "body": "Orlando is stunning and this package covered the essentials well, especially Epcot. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-3",
+      "author": "David Santos",
+      "country": "United States",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-06-13",
+      "title": "Smooth from start to finish",
+      "body": "Orlando is stunning and this package covered the essentials well, especially Walt Disney World Magic Kingdom. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-4",
+      "author": "Ethan Khan",
+      "country": "South Korea",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-04",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to LEGOLAND Florida and Celebration Main Street. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-5",
+      "author": "Elena Tanaka",
+      "country": "South Korea",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-06-21",
+      "title": "Consultant made it effortless",
+      "body": "We added a couple of optional activities beyond LEGOLAND Florida and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-orlando-2-6",
+      "author": "Omar Ibrahim",
+      "country": "Brazil",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-11-09",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond ICON Park Wheel and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-7",
+      "author": "Hiroshi Ibrahim",
+      "country": "Spain",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 3.5,
+      "date": "2026-03-16",
+      "title": "Smooth from start to finish",
+      "body": "Celebration Main Street alone was worth the trip, but combined with Gatorland this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-orlando-2-8",
+      "author": "Liam Santos",
+      "country": "Spain",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-08",
+      "title": "Loved every moment",
+      "body": "Our trip to Orlando was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Celebration Main Street was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-9",
+      "author": "Sofia Smith",
+      "country": "South Africa",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-03-14",
+      "title": "Smooth from start to finish",
+      "body": "Booked this as a solo trip and it was well paced. Disney Springs in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-10",
+      "author": "Fatima Rossi",
+      "country": "Spain",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-31",
+      "title": "Great value for money",
+      "body": "Celebration Main Street alone was worth the trip, but combined with Lake Eola Park this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-11",
+      "author": "Sofia Kim",
+      "country": "Switzerland",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-23",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a family of 4 trip and it was well paced. Lake Eola Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-12",
+      "author": "Marco Andersen",
+      "country": "Japan",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-14",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond ICON Park Wheel and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-13",
+      "author": "Mia Kim",
+      "country": "Italy",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-09-11",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Orlando Farmers Market at Lake Eola and Universal Studios Florida. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-14",
+      "author": "Nadia Kim",
+      "country": "New Zealand",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-16",
+      "title": "Great value for money",
+      "body": "Orlando is stunning and this package covered the essentials well, especially CityWalk Universal Orlando. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-15",
+      "author": "Nadia Costa",
+      "country": "India",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-02-08",
+      "title": "Exceeded our expectations",
+      "body": "Orlando is stunning and this package covered the essentials well, especially Disney's Animal Kingdom. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-16",
+      "author": "Arjun Larsen",
+      "country": "Germany",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-11-23",
+      "title": "Five stars, will return",
+      "body": "Booked this as a group trip and it was well paced. Universal's Islands of Adventure in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-17",
+      "author": "Arjun Nguyen",
+      "country": "Australia",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-25",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a solo trip and it was well paced. Universal Studios Florida in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-18",
+      "author": "Sarah Sharma",
+      "country": "Switzerland",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-23",
+      "title": "Exceeded our expectations",
+      "body": "Orlando is stunning and this package covered the essentials well, especially Lake Eola Park. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-orlando-2-19",
+      "author": "Marco Santos",
+      "country": "UAE",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-03-15",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond SeaWorld Orlando and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-orlando-2-20",
+      "author": "Isabella Novak",
+      "country": "New Zealand",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2026-05-10",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Disney Springs and SeaWorld Orlando. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.5,
+    "food": 4.5,
+    "hotel": 4.4,
+    "transportation": 4.5,
+    "activities": 4.5,
+    "value": 4.5,
+    "cleanliness": 4.4,
+    "safety": 4.5,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Orlando Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 20,
+      "neighborhood": "Disney Springs"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Orlando Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 36,
+      "neighborhood": "Orlando International Premium Outlets"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Orlando Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 67,
+      "neighborhood": "The Mall at Millenia"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Orlando Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 86,
+      "neighborhood": "Winter Park Park Avenue boutiques"
+    },
+    {
+      "tier": "Resort",
+      "name": "Orlando Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 190,
+      "neighborhood": "CityWalk Universal Orlando"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Orlando Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 315,
+      "neighborhood": "Icebar Orlando"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Orlando Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 375,
+      "neighborhood": "The Wine Room Disney Springs"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        185,
+        294
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        199,
+        316
+      ],
+      "estimatedFlightHours": 3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        581,
+        923
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        598,
+        950
+      ],
+      "estimatedFlightHours": 10.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        627,
+        996
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        672,
+        1067
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        583,
+        926
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        604,
+        959
+      ],
+      "estimatedFlightHours": 10.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        634,
+        1007
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1163,
+        1847
+      ],
+      "estimatedFlightHours": 21.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1017,
+        1615
+      ],
+      "estimatedFlightHours": 18.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1034,
+        1643
+      ],
+      "estimatedFlightHours": 18.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        921,
+        1462
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        950,
+        1509
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1279,
+        2032
+      ],
+      "estimatedFlightHours": 23.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1182,
+        1878
+      ],
+      "estimatedFlightHours": 21.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1267,
+        2013
+      ],
+      "estimatedFlightHours": 23,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1333,
+        2117
+      ],
+      "estimatedFlightHours": 24.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1135,
+        1802
+      ],
+      "estimatedFlightHours": 20.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1200,
+        1906
+      ],
+      "estimatedFlightHours": 21.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        977,
+        1551
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        936,
+        1486
+      ],
+      "estimatedFlightHours": 16.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        958,
+        1521
+      ],
+      "estimatedFlightHours": 17.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        916,
+        1455
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1026,
+        1629
+      ],
+      "estimatedFlightHours": 18.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        574,
+        911
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Orlando International Airport (MCO)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        226,
+        359
+      ],
+      "estimatedFlightHours": 3.5,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Walt Disney World Magic Kingdom",
+    "Epcot",
+    "Universal Studios Florida",
+    "Universal's Islands of Adventure",
+    "Disney's Animal Kingdom",
+    "SeaWorld Orlando",
+    "Kennedy Space Center Visitor Complex",
+    "LEGOLAND Florida",
+    "ICON Park Wheel",
+    "Gatorland",
+    "Disney Springs",
+    "CityWalk Universal Orlando",
+    "Lake Eola Park",
+    "Winter Park Scenic Boat Tour area",
+    "Orlando Farmers Market at Lake Eola",
+    "Celebration Main Street",
+    "Kennedy Space Center",
+    "Cocoa Beach",
+    "LEGOLAND Florida (Winter Haven)",
+    "Winter Park",
+    "Orlando Science Center",
+    "Orange County Regional History Center",
+    "Harry P. Leu Gardens",
+    "Blue Spring State Park",
+    "Cinderella Castle, Magic Kingdom",
+    "Spaceship Earth, Epcot",
+    "Hogwarts Castle, Universal",
+    "ICON Park Wheel at sunset",
+    "Lake Eola swan boats"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Walt Disney World Magic Kingdom",
+      "priceUSD": 130
+    },
+    {
+      "name": "Epcot",
+      "priceUSD": 130
+    },
+    {
+      "name": "Universal Studios Florida",
+      "priceUSD": 130
+    },
+    {
+      "name": "Universal's Islands of Adventure",
+      "priceUSD": 130
+    },
+    {
+      "name": "Disney's Animal Kingdom",
+      "priceUSD": 130
+    },
+    {
+      "name": "SeaWorld Orlando",
+      "priceUSD": 95
+    },
+    {
+      "name": "Kennedy Space Center Visitor Complex",
+      "priceUSD": 75
+    },
+    {
+      "name": "LEGOLAND Florida",
+      "priceUSD": 95
+    },
+    {
+      "name": "ICON Park Wheel",
+      "priceUSD": 30
+    },
+    {
+      "name": "Gatorland",
+      "priceUSD": 30
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Disney Springs",
+    "CityWalk Universal Orlando",
+    "Lake Eola Park",
+    "Winter Park Scenic Boat Tour area",
+    "Orlando Farmers Market at Lake Eola",
+    "Celebration Main Street"
+  ],
+  "museums": [
+    "Orlando Science Center",
+    "Orange County Regional History Center"
+  ],
+  "parks": [
+    "Lake Eola Park",
+    "Harry P. Leu Gardens",
+    "Blue Spring State Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Kennedy Space Center",
+    "Cocoa Beach",
+    "LEGOLAND Florida (Winter Haven)",
+    "Winter Park"
+  ],
+  "fromPriceUSD": 570,
+  "seo": {
+    "title": "Orlando 2-Day Family Vacation | Flights, Hotels & Tours Included",
+    "slug": "orlando-2-day-package",
+    "keywords": [
+      "Orlando",
+      "United States",
+      "Orlando, United States",
+      "North America",
+      "Orlando tour package",
+      "Orlando vacation package",
+      "Orlando holiday package",
+      "things to do in Orlando",
+      "best time to visit Orlando",
+      "Orlando itinerary",
+      "2 day Orlando itinerary",
+      "Orlando flights and hotels",
+      "Orlando all inclusive package",
+      "cheap Orlando package",
+      "luxury Orlando package"
+    ],
+    "canonicalUrl": "/packages/orlando-2-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Orlando Package",
+        "url": "/packages/orlando-3-day-package"
+      },
+      {
+        "title": "5-Day Orlando Package",
+        "url": "/packages/orlando-5-day-package"
+      },
+      {
+        "title": "Cairo 2-Day Heritage Tour",
+        "url": "/packages/cairo-2-day-package"
+      },
+      {
+        "title": "Dubai 2-Day Luxury Escape",
+        "url": "/packages/dubai-2-day-package"
+      },
+      {
+        "title": "Rio de Janeiro 2-Day Beach Getaway",
+        "url": "/packages/rio-de-janeiro-2-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Orlando — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Orlando"
+      },
+      {
+        "title": "Orlando — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Orlando"
+      }
+    ]
+  }
+}

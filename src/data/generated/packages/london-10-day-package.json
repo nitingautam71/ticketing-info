@@ -1,0 +1,1696 @@
+{
+  "id": "PKG-london-10D",
+  "slug": "london-10-day-package",
+  "destinationSlug": "london",
+  "destinationName": "London",
+  "country": "United Kingdom",
+  "region": "Western Europe",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "London 10-Day City Break",
+  "metaTitle": "London 10-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to London, United Kingdom: round-trip flights, hotel, breakfast, transfers, and guided tours including Tower of London and London Eye. Prices from $1894 per person (estimate).",
+  "highlights": [
+    "Tower of London",
+    "London Eye",
+    "British Museum",
+    "Windsor Castle"
+  ],
+  "overview": "Spend 10 days discovering London, United Kingdom — Temperate maritime climate with mild, wet winters (highs 8°C) and mild summers (highs 23°C); rain and overcast skies are possible any month. Late March to May and September to October offer pleasant temperatures, blooming parks and fewer crowds than peak summer. This itinerary blends Tower of London, London Eye, British Museum with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Tower of London, London Eye, British Museum",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in London",
+      "description": "Land at Heathrow Airport (LHR) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Tower of London — Historic castle housing the Crown Jewels. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Tower of London"
+      ],
+      "overnight": "London"
+    },
+    {
+      "day": 2,
+      "title": "London: London Eye & Warner Bros. Studio Tour (Harry Potter)",
+      "description": "Morning visit to London Eye — Giant observation wheel on the South Bank. In the afternoon, continue to Warner Bros. Studio Tour (Harry Potter) — Behind-the-scenes film studio experience. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "London Eye",
+        "Warner Bros. Studio Tour (Harry Potter)"
+      ],
+      "overnight": "London"
+    },
+    {
+      "day": 3,
+      "title": "London: Westminster Abbey & St Paul's Cathedral",
+      "description": "Morning visit to Westminster Abbey — Gothic abbey and site of royal coronations. In the afternoon, continue to St Paul's Cathedral — Wren-designed cathedral with dome climb. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Westminster Abbey",
+        "St Paul's Cathedral"
+      ],
+      "overnight": "London"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Windsor Castle",
+      "description": "Full-day excursion to Windsor Castle, a popular side trip from London. Return to London in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Windsor Castle",
+        "Free evening"
+      ],
+      "overnight": "London"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Leadenhall Market — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Leadenhall Market"
+      ],
+      "overnight": "London"
+    },
+    {
+      "day": 6,
+      "title": "London: Shard viewing platform & Kensington Palace",
+      "description": "Morning visit to Shard viewing platform — Tallest building in the UK with observation deck. In the afternoon, continue to Kensington Palace — Royal residence with historic apartments. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Shard viewing platform",
+        "Kensington Palace"
+      ],
+      "overnight": "London"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Stonehenge",
+      "description": "Full-day excursion to Stonehenge, a popular side trip from London. Return to London in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Stonehenge",
+        "Free evening"
+      ],
+      "overnight": "London"
+    },
+    {
+      "day": 8,
+      "title": "London: Madame Tussauds & Hampton Court Palace",
+      "description": "Morning visit to Madame Tussauds — Famous wax figure museum. In the afternoon, continue to Hampton Court Palace — Tudor palace of Henry VIII with maze. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Madame Tussauds",
+        "Hampton Court Palace"
+      ],
+      "overnight": "London"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Postman's Park — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Postman's Park"
+      ],
+      "overnight": "London"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Churchill War Rooms or some souvenir shopping — before your private transfer to LHR for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book West End theatre tickets in advance or check day-of \"TKTS\" booth deals in Leicester Square.",
+    "Use contactless payment or an Oyster card on the Tube — it automatically caps your daily fare.",
+    "Many major museums are free, so budget your money for special exhibitions instead.",
+    "Sunday trading hours are shorter for many shops, typically 11am-5pm.",
+    "Book Harry Potter Studio Tour tickets weeks ahead — it regularly sells out.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "A compact umbrella or rain jacket for unpredictable weather",
+    "Layered clothing for cool mornings and mild afternoons",
+    "Comfortable shoes for extensive walking",
+    "A smart-casual outfit for theatre or upscale dining"
+  ],
+  "thingsToDo": [
+    "Tower of London",
+    "London Eye",
+    "Warner Bros. Studio Tour (Harry Potter)",
+    "Westminster Abbey",
+    "St Paul's Cathedral",
+    "Shard viewing platform",
+    "Kensington Palace",
+    "Madame Tussauds",
+    "Hampton Court Palace",
+    "Churchill War Rooms",
+    "The View from The Shard",
+    "British Museum",
+    "National Gallery",
+    "Tate Modern",
+    "Natural History Museum",
+    "Buckingham Palace (Changing of the Guard)",
+    "Camden Market area",
+    "Borough Market",
+    "Greenwich Park & Prime Meridian",
+    "Hyde Park & Kensington Gardens"
+  ],
+  "thingsToAvoid": [
+    "Fake \"charity worker\" clipboard scams around tourist areas like Oxford Street.",
+    "Unofficial minicabs touting outside nightclubs — use licensed black cabs or ride apps.",
+    "Standing on the left side of Underground escalators — it blocks foot traffic.",
+    "Overpaying for meals in extremely touristy zones like directly outside Buckingham Palace.",
+    "Traveling during rush hour (8-9:30am, 5-6:30pm) with luggage — Tube carriages get packed."
+  ],
+  "topRestaurants": [
+    "Dishoom — Indian ($$)",
+    "Rules Restaurant — British Traditional ($$$$)",
+    "Padella — Italian Pasta ($$)",
+    "The Ivy — British Brasserie ($$$)",
+    "Sketch — Modern European ($$$$)",
+    "Poppies Fish & Chips — British ($$)",
+    "Hawksmoor — Steakhouse ($$$)",
+    "Franco Manca — Sourdough Pizza ($)",
+    "Duck & Waffle — Modern British ($$$)"
+  ],
+  "topCafes": [
+    "Monmouth Coffee Company",
+    "Ozone Coffee Roasters",
+    "The Wolseley",
+    "Sketch Parlour",
+    "Fortnum & Mason tea room"
+  ],
+  "shoppingAreas": [
+    "Oxford Street",
+    "Camden Market",
+    "Covent Garden",
+    "Borough Market",
+    "Harrods",
+    "Portobello Road Market"
+  ],
+  "nightlife": [
+    "Ministry of Sound",
+    "Fabric Nightclub",
+    "Sky Garden",
+    "Nightjar cocktail bar",
+    "Shoreditch bars"
+  ],
+  "instagramSpots": [
+    "Tower Bridge at sunset",
+    "Notting Hill colourful houses",
+    "Sky Garden skyline view",
+    "Neal's Yard Covent Garden",
+    "Primrose Hill skyline"
+  ],
+  "hiddenGems": [
+    "Leadenhall Market",
+    "Postman's Park",
+    "God's Own Junkyard neon art",
+    "Little Venice canals",
+    "Dennis Severs' House"
+  ],
+  "familyActivities": [
+    "London Zoo",
+    "Natural History Museum dinosaurs",
+    "London Eye family capsules",
+    "SEA LIFE London Aquarium",
+    "Legoland Windsor day trip"
+  ],
+  "adventureActivities": [
+    "Thames RIB speedboat ride",
+    "Go Ape Battersea zip-lining",
+    "Up at The O2 rooftop climb",
+    "Kayaking on the Regent's Canal"
+  ],
+  "luxuryExperiences": [
+    "Afternoon tea at The Ritz",
+    "Private Tower of London Crown Jewels viewing",
+    "West End VIP theatre box",
+    "Michelin dining at Sketch"
+  ],
+  "honeymoonExperiences": [
+    "Thames sunset dinner cruise",
+    "Private helicopter tour over London landmarks",
+    "Champagne afternoon tea for two",
+    "Romantic walk through Kew Gardens"
+  ],
+  "budgetExperiences": [
+    "Free entry to British Museum and Tate Modern",
+    "Watch Changing of the Guard for free",
+    "Picnic in Hyde Park",
+    "Wander Borough Market for free samples"
+  ],
+  "estimatedDailyBudgetUSD": [
+    80,
+    170,
+    300,
+    600
+  ],
+  "safetyRating": 4,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 90,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 8,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 8,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 11,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 14,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 18,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 21,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 15,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 11,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 8,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Notting Hill Carnival",
+      "timing": "August Bank Holiday weekend"
+    },
+    {
+      "name": "Trooping the Colour",
+      "timing": "Second Saturday of June"
+    },
+    {
+      "name": "London Fashion Week",
+      "timing": "February and September"
+    },
+    {
+      "name": "New Year's Eve Fireworks on the Thames",
+      "timing": "December 31"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "999",
+    "ambulance": "999",
+    "fire": "999"
+  },
+  "localEtiquette": [
+    "Queueing is taken seriously — always join the back of a line and never cut in.",
+    "Stand on the right on Underground escalators to let people pass on the left.",
+    "A polite \"sorry\" and \"please/thank you\" go a long way, even in minor interactions.",
+    "Tipping around 10-12.5% is customary in restaurants if service isn't already included.",
+    "Avoid discussing salary or being overly loud in public spaces — reserved conversation is the norm."
+  ],
+  "localTransportGuide": "The Underground (\"the Tube\") is the fastest way around; use a contactless card or Oyster card and tap in/out for the best fares. Black cabs and Uber are plentiful, and the Elizabeth line offers quick cross-city and Heathrow connections.",
+  "bestTimeToVisit": "Late March to May and September to October offer pleasant temperatures, blooming parks and fewer crowds than peak summer.",
+  "weather": "Temperate maritime climate with mild, wet winters (highs 8°C) and mild summers (highs 23°C); rain and overcast skies are possible any month.",
+  "visaInformation": "US, Canadian, Australian, New Zealand and most EU passport holders can visit visa-free for up to 6 months as a Standard Visitor. As of 2025, most non-visa-national travellers (including EU citizens) require an Electronic Travel Authorisation (ETA) applied for online before arrival.",
+  "currency": "GBP",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "GMT (UTC+0)",
+  "averageFlightTime": "~10.2h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Heathrow Airport (LHR)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit London?",
+      "answer": "US, Canadian, Australian, New Zealand and most EU passport holders can visit visa-free for up to 6 months as a Standard Visitor. As of 2025, most non-visa-national travellers (including EU citizens) require an Electronic Travel Authorisation (ETA) applied for online before arrival."
+    },
+    {
+      "question": "What is the best time to visit London?",
+      "answer": "Late March to May and September to October offer pleasant temperatures, blooming parks and fewer crowds than peak summer. Temperate maritime climate with mild, wet winters (highs 8°C) and mild summers (highs 23°C); rain and overcast skies are possible any month."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is London safe for tourists?",
+      "answer": "London is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to London?",
+      "answer": "The local currency is GBP. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "History",
+    "Shopping",
+    "Food",
+    "Nightlife",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "London",
+    "United Kingdom",
+    "London, United Kingdom",
+    "Western Europe",
+    "London tour package",
+    "London vacation package",
+    "London holiday package",
+    "things to do in London",
+    "best time to visit London",
+    "London itinerary",
+    "10 day London itinerary",
+    "London flights and hotels",
+    "London all inclusive package",
+    "cheap London package",
+    "luxury London package",
+    "London honeymoon package",
+    "London family vacation",
+    "London solo trip",
+    "London group tour",
+    "London weekend getaway",
+    "London guided tour",
+    "LHR flights",
+    "London travel guide",
+    "book London trip online",
+    "London trip cost",
+    "London packages 10 days",
+    "London city break",
+    "London culture",
+    "London history",
+    "London shopping",
+    "London food",
+    "London nightlife",
+    "London bucket list",
+    "Tower of London",
+    "London Eye",
+    "Warner Bros. Studio Tour (Harry Potter)",
+    "Westminster Abbey",
+    "St Paul's Cathedral",
+    "Shard viewing platform",
+    "Kensington Palace",
+    "Madame Tussauds",
+    "Hampton Court Palace",
+    "Churchill War Rooms",
+    "The View from The Shard",
+    "British Museum",
+    "National Gallery",
+    "Tate Modern",
+    "Natural History Museum",
+    "Buckingham Palace (Changing of the Guard)",
+    "Camden Market area"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "London, United Kingdom — Big Ben Westminster Bridge",
+      "keywords": [
+        "London",
+        "United Kingdom",
+        "Big Ben Westminster Bridge",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "London Big Ben Westminster Bridge",
+      "pexelsQuery": "London Big Ben Westminster Bridge",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "London, United Kingdom — Big Ben Westminster Bridge",
+      "keywords": [
+        "London",
+        "United Kingdom",
+        "Big Ben Westminster Bridge",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "London Big Ben Westminster Bridge",
+      "pexelsQuery": "London Big Ben Westminster Bridge",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "London, United Kingdom — Tower Bridge London skyline",
+      "keywords": [
+        "London",
+        "United Kingdom",
+        "Tower Bridge London skyline",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "London Tower Bridge London skyline",
+      "pexelsQuery": "London Tower Bridge London skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "London, United Kingdom — red telephone box",
+      "keywords": [
+        "London",
+        "United Kingdom",
+        "red telephone box",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "London red telephone box",
+      "pexelsQuery": "London red telephone box",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "London, United Kingdom — Big Ben Westminster Bridge",
+      "keywords": [
+        "London",
+        "United Kingdom",
+        "Big Ben Westminster Bridge",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "London Big Ben Westminster Bridge",
+      "pexelsQuery": "London Big Ben Westminster Bridge",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "London, United Kingdom — Tower Bridge London skyline",
+      "keywords": [
+        "London",
+        "United Kingdom",
+        "Tower Bridge London skyline",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "London Tower Bridge London skyline",
+      "pexelsQuery": "London Tower Bridge London skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "London, United Kingdom — red telephone box",
+      "keywords": [
+        "London",
+        "United Kingdom",
+        "red telephone box",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "London red telephone box",
+      "pexelsQuery": "London red telephone box",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "London, United Kingdom — Buckingham Palace guards",
+      "keywords": [
+        "London",
+        "United Kingdom",
+        "Buckingham Palace guards",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "London Buckingham Palace guards",
+      "pexelsQuery": "London Buckingham Palace guards",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "London, United Kingdom — Tower of London",
+      "keywords": [
+        "London",
+        "United Kingdom",
+        "Tower of London",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "London Tower of London",
+      "pexelsQuery": "London Tower of London",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "London, United Kingdom — London Eye",
+      "keywords": [
+        "London",
+        "United Kingdom",
+        "London Eye",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "London London Eye",
+      "pexelsQuery": "London London Eye",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "London, United Kingdom — Warner Bros. Studio Tour (Harry Potter)",
+      "keywords": [
+        "London",
+        "United Kingdom",
+        "Warner Bros. Studio Tour (Harry Potter)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "London Warner Bros. Studio Tour (Harry Potter)",
+      "pexelsQuery": "London Warner Bros. Studio Tour (Harry Potter)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "London, United Kingdom — Westminster Abbey",
+      "keywords": [
+        "London",
+        "United Kingdom",
+        "Westminster Abbey",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "London Westminster Abbey",
+      "pexelsQuery": "London Westminster Abbey",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-london-10-1",
+      "author": "Grace Larsen",
+      "country": "South Africa",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-03-23",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond National Gallery and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-2",
+      "author": "Marco Williams",
+      "country": "Netherlands",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-09-30",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Natural History Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-3",
+      "author": "James Brown",
+      "country": "UAE",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-03-14",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to London was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Madame Tussauds was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-4",
+      "author": "Fatima Santos",
+      "country": "Mexico",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-26",
+      "title": "Adventure of a lifetime",
+      "body": "Borough Market alone was worth the trip, but combined with Hampton Court Palace this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-5",
+      "author": "Lukas Andersen",
+      "country": "Germany",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-12-06",
+      "title": "Exceeded our expectations",
+      "body": "London is stunning and this package covered the essentials well, especially St Paul's Cathedral. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-6",
+      "author": "Priya Sharma",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-17",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a couple trip and it was well paced. The View from The Shard in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-7",
+      "author": "Tom Ivanov",
+      "country": "Singapore",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-04-15",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond Hampton Court Palace and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-8",
+      "author": "Yuki Botha",
+      "country": "Canada",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-29",
+      "title": "Exceeded our expectations",
+      "body": "Warner Bros. Studio Tour (Harry Potter) alone was worth the trip, but combined with Natural History Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-9",
+      "author": "Hiroshi Khan",
+      "country": "UAE",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-02-28",
+      "title": "Adventure of a lifetime",
+      "body": "Madame Tussauds alone was worth the trip, but combined with Greenwich Park & Prime Meridian this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-10",
+      "author": "Fatima Santos",
+      "country": "India",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-20",
+      "title": "A little rushed but still wonderful",
+      "body": "Kensington Palace alone was worth the trip, but combined with Hampton Court Palace this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-11",
+      "author": "James Cohen",
+      "country": "Japan",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-04-27",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to London was fantastic from start to finish. The hotel was clean and well located, and the guided visit to The View from The Shard was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-12",
+      "author": "Yuki Rossi",
+      "country": "Singapore",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-07",
+      "title": "Worth every penny",
+      "body": "Hampton Court Palace alone was worth the trip, but combined with Madame Tussauds this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-13",
+      "author": "Wei Andersen",
+      "country": "Italy",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-27",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a solo trip and it was well paced. Greenwich Park & Prime Meridian in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-london-10-14",
+      "author": "Fatima Nguyen",
+      "country": "UAE",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-06",
+      "title": "Five stars, will return",
+      "body": "Madame Tussauds alone was worth the trip, but combined with Warner Bros. Studio Tour (Harry Potter) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-15",
+      "author": "Isabella Dubois",
+      "country": "United Kingdom",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-13",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to London Eye and Tower of London. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-16",
+      "author": "Anna Patel",
+      "country": "France",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2026-03-11",
+      "title": "Great for families with kids",
+      "body": "London is stunning and this package covered the essentials well, especially Shard viewing platform. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-17",
+      "author": "Anna Cohen",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-16",
+      "title": "Luxury without the hassle",
+      "body": "London is stunning and this package covered the essentials well, especially The View from The Shard. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-18",
+      "author": "David Brown",
+      "country": "South Africa",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-11",
+      "title": "Five stars, will return",
+      "body": "London is stunning and this package covered the essentials well, especially National Gallery. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-19",
+      "author": "Lucas Williams",
+      "country": "Brazil",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-22",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to British Museum and St Paul's Cathedral. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-london-10-20",
+      "author": "Liam Costa",
+      "country": "New Zealand",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-06-12",
+      "title": "Exceeded our expectations",
+      "body": "Our trip to London was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Tate Modern was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.3,
+    "activities": 4.2,
+    "value": 4.3,
+    "cleanliness": 4.2,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "London Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Oxford Street"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "London Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "Camden Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "London Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 59,
+      "neighborhood": "Covent Garden"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "London Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 77,
+      "neighborhood": "Borough Market"
+    },
+    {
+      "tier": "Resort",
+      "name": "London Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 150,
+      "neighborhood": "Harrods"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private London Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 252,
+      "neighborhood": "Portobello Road Market"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The London Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 300,
+      "neighborhood": "Ministry of Sound"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        479,
+        760
+      ],
+      "estimatedFlightHours": 8.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        490,
+        778
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        101,
+        161
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        122,
+        194
+      ],
+      "estimatedFlightHours": 1.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        180,
+        286
+      ],
+      "estimatedFlightHours": 2.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        167,
+        266
+      ],
+      "estimatedFlightHours": 2.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        102,
+        162
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        133,
+        211
+      ],
+      "estimatedFlightHours": 1.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1304,
+        2071
+      ],
+      "estimatedFlightHours": 23.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1402,
+        2226
+      ],
+      "estimatedFlightHours": 25.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        561,
+        891
+      ],
+      "estimatedFlightHours": 9.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        768,
+        1219
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        717,
+        1138
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        860,
+        1366
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        765,
+        1215
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        838,
+        1331
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        923,
+        1466
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        852,
+        1353
+      ],
+      "estimatedFlightHours": 15.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        813,
+        1291
+      ],
+      "estimatedFlightHours": 14.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        472,
+        749
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        434,
+        689
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        453,
+        720
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        412,
+        655
+      ],
+      "estimatedFlightHours": 7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        732,
+        1162
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        762,
+        1211
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Heathrow Airport (LHR)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        722,
+        1146
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Tower of London",
+    "London Eye",
+    "Warner Bros. Studio Tour (Harry Potter)",
+    "Westminster Abbey",
+    "St Paul's Cathedral",
+    "Shard viewing platform",
+    "Kensington Palace",
+    "Madame Tussauds",
+    "Hampton Court Palace",
+    "Churchill War Rooms",
+    "The View from The Shard",
+    "British Museum",
+    "National Gallery",
+    "Tate Modern",
+    "Natural History Museum",
+    "Buckingham Palace (Changing of the Guard)",
+    "Camden Market area",
+    "Borough Market",
+    "Greenwich Park & Prime Meridian",
+    "Hyde Park & Kensington Gardens",
+    "Windsor Castle",
+    "Stonehenge",
+    "Oxford",
+    "Bath",
+    "Hyde Park",
+    "Regent's Park",
+    "Greenwich Park",
+    "Richmond Park",
+    "Tower Bridge at sunset",
+    "Notting Hill colourful houses",
+    "Sky Garden skyline view",
+    "Neal's Yard Covent Garden",
+    "Primrose Hill skyline"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Tower of London",
+      "priceUSD": 38
+    },
+    {
+      "name": "London Eye",
+      "priceUSD": 35
+    },
+    {
+      "name": "Warner Bros. Studio Tour (Harry Potter)",
+      "priceUSD": 75
+    },
+    {
+      "name": "Westminster Abbey",
+      "priceUSD": 33
+    },
+    {
+      "name": "St Paul's Cathedral",
+      "priceUSD": 28
+    },
+    {
+      "name": "Shard viewing platform",
+      "priceUSD": 35
+    },
+    {
+      "name": "Kensington Palace",
+      "priceUSD": 25
+    },
+    {
+      "name": "Madame Tussauds",
+      "priceUSD": 40
+    },
+    {
+      "name": "Hampton Court Palace",
+      "priceUSD": 32
+    },
+    {
+      "name": "Churchill War Rooms",
+      "priceUSD": 30
+    },
+    {
+      "name": "The View from The Shard",
+      "priceUSD": 35
+    }
+  ],
+  "attractionsFreeTop20": [
+    "British Museum",
+    "National Gallery",
+    "Tate Modern",
+    "Natural History Museum",
+    "Buckingham Palace (Changing of the Guard)",
+    "Camden Market area",
+    "Borough Market",
+    "Greenwich Park & Prime Meridian",
+    "Hyde Park & Kensington Gardens"
+  ],
+  "museums": [
+    "British Museum",
+    "National Gallery",
+    "Tate Modern",
+    "Natural History Museum"
+  ],
+  "parks": [
+    "Hyde Park",
+    "Regent's Park",
+    "Greenwich Park",
+    "Richmond Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Windsor Castle",
+    "Stonehenge",
+    "Oxford",
+    "Bath"
+  ],
+  "fromPriceUSD": 1894,
+  "seo": {
+    "title": "London 10-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "london-10-day-package",
+    "keywords": [
+      "London",
+      "United Kingdom",
+      "London, United Kingdom",
+      "Western Europe",
+      "London tour package",
+      "London vacation package",
+      "London holiday package",
+      "things to do in London",
+      "best time to visit London",
+      "London itinerary",
+      "10 day London itinerary",
+      "London flights and hotels",
+      "London all inclusive package",
+      "cheap London package",
+      "luxury London package"
+    ],
+    "canonicalUrl": "/packages/london-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day London Package",
+        "url": "/packages/london-7-day-package"
+      },
+      {
+        "title": "14-Day London Package",
+        "url": "/packages/london-14-day-package"
+      },
+      {
+        "title": "Seoul 10-Day City Break",
+        "url": "/packages/seoul-10-day-package"
+      },
+      {
+        "title": "Lisbon 10-Day City Break",
+        "url": "/packages/lisbon-10-day-package"
+      },
+      {
+        "title": "Istanbul 10-Day City Break",
+        "url": "/packages/istanbul-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "London — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/London"
+      },
+      {
+        "title": "London — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/London"
+      }
+    ]
+  }
+}

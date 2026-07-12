@@ -1,0 +1,1688 @@
+{
+  "id": "PKG-santorini-10D",
+  "slug": "santorini-10-day-package",
+  "destinationSlug": "santorini",
+  "destinationName": "Santorini",
+  "country": "Greece",
+  "region": "Southern Europe",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Santorini 10-Day Beach Getaway",
+  "metaTitle": "Santorini 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Santorini, Greece: round-trip flights, hotel, breakfast, transfers, and guided tours including Akrotiri Archaeological Site and Museum of Prehistoric Thera. Prices from $2139 per person (estimate).",
+  "highlights": [
+    "Akrotiri Archaeological Site",
+    "Museum of Prehistoric Thera",
+    "Oia sunset viewpoint",
+    "Private catamaran caldera cruise with sunset dinner",
+    "Sunset dinner overlooking the caldera in Oia",
+    "Nea Kameni volcanic islet"
+  ],
+  "overview": "Spend 10 days discovering Santorini, Greece — Mediterranean island climate with mild, breezy winters (highs 15°C) and hot, dry summers (highs 29°C); strong winds (the \"meltemi\") are common in summer. Late April to June and September to early October give warm weather, calm seas and lighter crowds than the packed July-August peak. This itinerary blends Akrotiri Archaeological Site, Museum of Prehistoric Thera, Oia sunset viewpoint with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Akrotiri Archaeological Site, Museum of Prehistoric Thera, Oia sunset viewpoint",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Santorini",
+      "description": "Land at Santorini (Thira) National Airport (JTR) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Akrotiri Archaeological Site — Preserved Bronze Age Minoan settlement. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Akrotiri Archaeological Site"
+      ],
+      "overnight": "Santorini"
+    },
+    {
+      "day": 2,
+      "title": "Santorini: Museum of Prehistoric Thera & Santo Wines winery tour & tasting",
+      "description": "Morning visit to Museum of Prehistoric Thera — Artifacts from the Akrotiri excavation. In the afternoon, continue to Santo Wines winery tour & tasting — Caldera-view winery tasting local Assyrtiko wine. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Museum of Prehistoric Thera",
+        "Santo Wines winery tour & tasting"
+      ],
+      "overnight": "Santorini"
+    },
+    {
+      "day": 3,
+      "title": "Santorini: Catamaran sunset cruise with BBQ & Volcano & Hot Springs boat tour",
+      "description": "Morning visit to Catamaran sunset cruise with BBQ — Sailing trip around the caldera and hot springs. In the afternoon, continue to Volcano & Hot Springs boat tour — Boat trip to Nea Kameni volcanic islet. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Catamaran sunset cruise with BBQ",
+        "Volcano & Hot Springs boat tour"
+      ],
+      "overnight": "Santorini"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Nea Kameni volcanic islet",
+      "description": "Full-day excursion to Nea Kameni volcanic islet, a popular side trip from Santorini. Return to Santorini in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Nea Kameni volcanic islet",
+        "Free evening"
+      ],
+      "overnight": "Santorini"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Pyrgos village viewpoint — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Pyrgos village viewpoint"
+      ],
+      "overnight": "Santorini"
+    },
+    {
+      "day": 6,
+      "title": "Santorini: Cable car (Fira to Old Port) & Venetian Castle ruins Pyrgos",
+      "description": "Morning visit to Cable car (Fira to Old Port) — Scenic descent to the old port. In the afternoon, continue to Venetian Castle ruins Pyrgos — Hilltop medieval castle ruins with views. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Cable car (Fira to Old Port)",
+        "Venetian Castle ruins Pyrgos"
+      ],
+      "overnight": "Santorini"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Thirassia island",
+      "description": "Full-day excursion to Thirassia island, a popular side trip from Santorini. Return to Santorini in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Thirassia island",
+        "Free evening"
+      ],
+      "overnight": "Santorini"
+    },
+    {
+      "day": 8,
+      "title": "Santorini: Santorini Arts Factory & Scuba diving excursion",
+      "description": "Morning visit to Santorini Arts Factory — Cultural venue in a restored tomato-processing factory. In the afternoon, continue to Scuba diving excursion — Volcanic reef diving off Kamari or Perissa. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Santorini Arts Factory",
+        "Scuba diving excursion"
+      ],
+      "overnight": "Santorini"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Megalochori quiet lanes — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Megalochori quiet lanes"
+      ],
+      "overnight": "Santorini"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to ATV/quad bike rental day tour or some souvenir shopping — before your private transfer to JTR for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book caldera-view accommodation in Oia or Imerovigli months ahead for peak season.",
+    "Arrive at the Oia sunset viewpoint at least an hour early in summer to get a spot.",
+    "Ferries between islands can be cancelled due to wind — build buffer days into island-hopping itineraries.",
+    "Red and black sand beaches get scorching hot midday — bring sandals for the walk to the water.",
+    "Renting an ATV is cheaper and more practical than taxis for reaching multiple villages in a day.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Comfortable, grippy shoes for steep cobbled caldera steps",
+    "Sun protection — hat, high-SPF sunscreen, sunglasses",
+    "A light wind layer for breezy clifftop evenings",
+    "Swimwear plus a cover-up for beach-to-town transitions"
+  ],
+  "thingsToDo": [
+    "Akrotiri Archaeological Site",
+    "Museum of Prehistoric Thera",
+    "Santo Wines winery tour & tasting",
+    "Catamaran sunset cruise with BBQ",
+    "Volcano & Hot Springs boat tour",
+    "Cable car (Fira to Old Port)",
+    "Venetian Castle ruins Pyrgos",
+    "Santorini Arts Factory",
+    "Scuba diving excursion",
+    "ATV/quad bike rental day tour",
+    "Oia sunset viewpoint",
+    "Fira caldera-edge walkway",
+    "Red Beach",
+    "Imerovigli village",
+    "Fira to Oia coastal hike",
+    "Amoudi Bay",
+    "Perissa black sand beach",
+    "Skaros Rock",
+    "Megalochori village",
+    "Volcano hiking on Nea Kameni"
+  ],
+  "thingsToAvoid": [
+    "Overpaying at restaurants directly on the Oia sunset strip — quality doesn't always match the price.",
+    "Skipping travel insurance — ferry and flight delays due to weather are common.",
+    "Wandering onto caldera-view hotel terraces for photos — these are private property.",
+    "Driving rental ATVs without a valid international license — checks do happen.",
+    "Assuming all beaches are sandy — several are pebble or volcanic rock, uncomfortable barefoot."
+  ],
+  "topRestaurants": [
+    "Ambrosia Restaurant — Greek Fine Dining ($$$$)",
+    "Metaxi Mas — Traditional Greek ($$)",
+    "Selene Restaurant — Modern Greek ($$$$)",
+    "Lucky's Souvlakis — Greek Street Food ($)",
+    "To Psaraki — Seafood ($$$)",
+    "Mama's House Taverna — Home-style Greek ($$)",
+    "Kastro Oia — Greek Sunset-view Dining ($$$)",
+    "Vitrin Restaurant — Contemporary Greek ($$$)"
+  ],
+  "topCafes": [
+    "Franco's Bar (Oia)",
+    "Lolita's Gelato",
+    "Kira Thira Jazz Bar",
+    "Melitini Bakery",
+    "Mikro Café Fira"
+  ],
+  "shoppingAreas": [
+    "Fira main shopping street",
+    "Oia art galleries and jewelry shops",
+    "Santorini Wine Museum shop",
+    "Local ceramics workshops"
+  ],
+  "nightlife": [
+    "Tropical Bar Fira",
+    "Franco's Bar Oia sunset cocktails",
+    "Koo Club Fira",
+    "Enigma Club"
+  ],
+  "instagramSpots": [
+    "Oia blue-domed churches",
+    "Caldera cliffside infinity pools",
+    "Fira sunset walkway",
+    "Amoudi Bay stairs",
+    "Red Beach cliffs"
+  ],
+  "hiddenGems": [
+    "Pyrgos village viewpoint",
+    "Megalochori quiet lanes",
+    "Santo Wines caldera vineyard walk",
+    "Vlychada Beach moon-like cliffs"
+  ],
+  "familyActivities": [
+    "Boat trip to volcanic hot springs",
+    "Santorini Water Park (Kamari)",
+    "Museum of Prehistoric Thera",
+    "Family-friendly Kamari Beach"
+  ],
+  "adventureActivities": [
+    "Volcano hiking on Nea Kameni",
+    "Scuba diving volcanic reefs",
+    "ATV island exploration",
+    "Fira-to-Oia caldera rim hike"
+  ],
+  "luxuryExperiences": [
+    "Private catamaran caldera cruise with sunset dinner",
+    "Infinity-pool suite stay in Oia",
+    "Private wine-pairing dinner at a caldera-view winery",
+    "Helicopter transfer and island tour"
+  ],
+  "honeymoonExperiences": [
+    "Sunset dinner overlooking the caldera in Oia",
+    "Private infinity-pool villa stay",
+    "Couples catamaran cruise with champagne",
+    "Candlelit dinner on a cliffside terrace"
+  ],
+  "budgetExperiences": [
+    "Free sunset watching from Fira caldera walkway",
+    "Hike the Fira-to-Oia coastal trail",
+    "Relax at Perissa black sand beach",
+    "Explore quiet Megalochori village for free"
+  ],
+  "estimatedDailyBudgetUSD": [
+    80,
+    180,
+    320,
+    700
+  ],
+  "safetyRating": 5,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 55,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 15,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 15,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 16,
+      "crowd": "Low"
+    },
+    {
+      "month": "Apr",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 22,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 28,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 29,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 23,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 19,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 16,
+      "crowd": "Low"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Orthodox Easter celebrations",
+      "timing": "April or May (varies yearly)"
+    },
+    {
+      "name": "Ifestia (Volcano) Festival",
+      "timing": "Early September, Fira"
+    },
+    {
+      "name": "Santorini Wine & Culinary Festival",
+      "timing": "Summer months"
+    },
+    {
+      "name": "Feast of the Assumption (Panagia)",
+      "timing": "August 15"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "166",
+    "fire": "199"
+  },
+  "localEtiquette": [
+    "Modest dress is expected when entering Orthodox churches — cover shoulders and knees.",
+    "Sunset viewing spots in Oia get extremely crowded; arrive early and be patient with space.",
+    "Tipping around 5-10% in restaurants is appreciated though not mandatory.",
+    "Many businesses close for a midday rest in shoulder season; plan around siesta hours.",
+    "Respect private property — many caldera-view spots are on hotel land, not public paths."
+  ],
+  "localTransportGuide": "Renting an ATV or small car is the most flexible way to explore beyond Fira and Oia, since the island is hilly and bus routes are limited. Local KTEL buses run between main villages, and taxis are scarce and should be booked ahead for airport or ferry transfers.",
+  "bestTimeToVisit": "Late April to June and September to early October give warm weather, calm seas and lighter crowds than the packed July-August peak.",
+  "weather": "Mediterranean island climate with mild, breezy winters (highs 15°C) and hot, dry summers (highs 29°C); strong winds (the \"meltemi\") are common in summer.",
+  "visaInformation": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities should check Schengen short-stay visa requirements in advance.",
+  "currency": "EUR",
+  "languages": [
+    "Greek"
+  ],
+  "timeZone": "EET (UTC+2)",
+  "averageFlightTime": "~9.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Santorini (Thira) National Airport (JTR)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Santorini?",
+      "answer": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities should check Schengen short-stay visa requirements in advance."
+    },
+    {
+      "question": "What is the best time to visit Santorini?",
+      "answer": "Late April to June and September to early October give warm weather, calm seas and lighter crowds than the packed July-August peak. Mediterranean island climate with mild, breezy winters (highs 15°C) and hot, dry summers (highs 29°C); strong winds (the \"meltemi\") are common in summer."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Santorini safe for tourists?",
+      "answer": "Santorini is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Santorini?",
+      "answer": "The local currency is EUR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Santorini is one of our most-booked honeymoon destinations, especially the Sunset dinner overlooking the caldera in Oia experience."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Honeymoon",
+    "Romantic",
+    "Luxury",
+    "Summer",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Santorini",
+    "Greece",
+    "Santorini, Greece",
+    "Southern Europe",
+    "Santorini tour package",
+    "Santorini vacation package",
+    "Santorini holiday package",
+    "things to do in Santorini",
+    "best time to visit Santorini",
+    "Santorini itinerary",
+    "10 day Santorini itinerary",
+    "Santorini flights and hotels",
+    "Santorini all inclusive package",
+    "cheap Santorini package",
+    "luxury Santorini package",
+    "Santorini honeymoon package",
+    "Santorini family vacation",
+    "Santorini solo trip",
+    "Santorini group tour",
+    "Santorini weekend getaway",
+    "Santorini guided tour",
+    "JTR flights",
+    "Santorini travel guide",
+    "book Santorini trip online",
+    "Santorini trip cost",
+    "Santorini packages 10 days",
+    "Santorini beach",
+    "Santorini honeymoon",
+    "Santorini romantic",
+    "Santorini luxury",
+    "Santorini summer",
+    "Santorini bucket list",
+    "Akrotiri Archaeological Site",
+    "Museum of Prehistoric Thera",
+    "Santo Wines winery tour & tasting",
+    "Catamaran sunset cruise with BBQ",
+    "Volcano & Hot Springs boat tour",
+    "Cable car (Fira to Old Port)",
+    "Venetian Castle ruins Pyrgos",
+    "Santorini Arts Factory",
+    "Scuba diving excursion",
+    "ATV/quad bike rental day tour",
+    "Oia sunset viewpoint",
+    "Fira caldera-edge walkway",
+    "Red Beach",
+    "Imerovigli village",
+    "Fira to Oia coastal hike",
+    "Amoudi Bay",
+    "Perissa black sand beach",
+    "Skaros Rock"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Santorini, Greece — Oia blue domes sunset",
+      "keywords": [
+        "Santorini",
+        "Greece",
+        "Oia blue domes sunset",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Santorini Oia blue domes sunset",
+      "pexelsQuery": "Santorini Oia blue domes sunset",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Santorini, Greece — Oia blue domes sunset",
+      "keywords": [
+        "Santorini",
+        "Greece",
+        "Oia blue domes sunset",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Santorini Oia blue domes sunset",
+      "pexelsQuery": "Santorini Oia blue domes sunset",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Santorini, Greece — Santorini caldera infinity pool",
+      "keywords": [
+        "Santorini",
+        "Greece",
+        "Santorini caldera infinity pool",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Santorini Santorini caldera infinity pool",
+      "pexelsQuery": "Santorini Santorini caldera infinity pool",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Santorini, Greece — whitewashed cliffside village",
+      "keywords": [
+        "Santorini",
+        "Greece",
+        "whitewashed cliffside village",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Santorini whitewashed cliffside village",
+      "pexelsQuery": "Santorini whitewashed cliffside village",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Santorini, Greece — Oia blue domes sunset",
+      "keywords": [
+        "Santorini",
+        "Greece",
+        "Oia blue domes sunset",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Santorini Oia blue domes sunset",
+      "pexelsQuery": "Santorini Oia blue domes sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santorini, Greece — Santorini caldera infinity pool",
+      "keywords": [
+        "Santorini",
+        "Greece",
+        "Santorini caldera infinity pool",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Santorini Santorini caldera infinity pool",
+      "pexelsQuery": "Santorini Santorini caldera infinity pool",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santorini, Greece — whitewashed cliffside village",
+      "keywords": [
+        "Santorini",
+        "Greece",
+        "whitewashed cliffside village",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Santorini whitewashed cliffside village",
+      "pexelsQuery": "Santorini whitewashed cliffside village",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santorini, Greece — Aegean sea view",
+      "keywords": [
+        "Santorini",
+        "Greece",
+        "Aegean sea view",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Santorini Aegean sea view",
+      "pexelsQuery": "Santorini Aegean sea view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santorini, Greece — Akrotiri Archaeological Site",
+      "keywords": [
+        "Santorini",
+        "Greece",
+        "Akrotiri Archaeological Site",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Santorini Akrotiri Archaeological Site",
+      "pexelsQuery": "Santorini Akrotiri Archaeological Site",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santorini, Greece — Museum of Prehistoric Thera",
+      "keywords": [
+        "Santorini",
+        "Greece",
+        "Museum of Prehistoric Thera",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Santorini Museum of Prehistoric Thera",
+      "pexelsQuery": "Santorini Museum of Prehistoric Thera",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santorini, Greece — Santo Wines winery tour & tasting",
+      "keywords": [
+        "Santorini",
+        "Greece",
+        "Santo Wines winery tour & tasting",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Santorini Santo Wines winery tour & tasting",
+      "pexelsQuery": "Santorini Santo Wines winery tour & tasting",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santorini, Greece — Catamaran sunset cruise with BBQ",
+      "keywords": [
+        "Santorini",
+        "Greece",
+        "Catamaran sunset cruise with BBQ",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Santorini Catamaran sunset cruise with BBQ",
+      "pexelsQuery": "Santorini Catamaran sunset cruise with BBQ",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-santorini-10-1",
+      "author": "Marco Santos",
+      "country": "New Zealand",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-01-19",
+      "title": "Adventure of a lifetime",
+      "body": "We added a couple of optional activities beyond Red Beach and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-2",
+      "author": "David Kim",
+      "country": "Australia",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-08-22",
+      "title": "Five stars, will return",
+      "body": "Santorini is stunning and this package covered the essentials well, especially Santo Wines winery tour & tasting. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-3",
+      "author": "Ava Kowalski",
+      "country": "France",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-02",
+      "title": "Luxury without the hassle",
+      "body": "Cable car (Fira to Old Port) alone was worth the trip, but combined with Scuba diving excursion this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-4",
+      "author": "James Costa",
+      "country": "United Kingdom",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-09-04",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Santorini was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Museum of Prehistoric Thera was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-5",
+      "author": "James Smith",
+      "country": "UAE",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-08",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Santorini was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Venetian Castle ruins Pyrgos was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-6",
+      "author": "Sarah Novak",
+      "country": "Australia",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-11-20",
+      "title": "Luxury without the hassle",
+      "body": "Santorini is stunning and this package covered the essentials well, especially Catamaran sunset cruise with BBQ. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-santorini-10-7",
+      "author": "Isabella Sharma",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-09-17",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Oia sunset viewpoint and Akrotiri Archaeological Site. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-8",
+      "author": "Marco Smith",
+      "country": "France",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-08-15",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Cable car (Fira to Old Port) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-santorini-10-9",
+      "author": "Priya Williams",
+      "country": "Brazil",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-01-15",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a solo trip and it was well paced. Oia sunset viewpoint in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-10",
+      "author": "Hiroshi Fernandez",
+      "country": "Saudi Arabia",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-10",
+      "title": "Exceeded our expectations",
+      "body": "Amoudi Bay alone was worth the trip, but combined with Fira caldera-edge walkway this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-11",
+      "author": "Fatima Cohen",
+      "country": "Japan",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-21",
+      "title": "Best vacation we've had",
+      "body": "ATV/quad bike rental day tour alone was worth the trip, but combined with Cable car (Fira to Old Port) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-12",
+      "author": "Sofia Williams",
+      "country": "United Kingdom",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-29",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a group trip and it was well paced. Museum of Prehistoric Thera in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-santorini-10-13",
+      "author": "Noah Andersen",
+      "country": "Saudi Arabia",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-28",
+      "title": "Highly recommend this package",
+      "body": "Our trip to Santorini was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Perissa black sand beach was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-14",
+      "author": "Chen Costa",
+      "country": "France",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-31",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a couple trip and it was well paced. Cable car (Fira to Old Port) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-15",
+      "author": "Daniel Johnson",
+      "country": "Italy",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-15",
+      "title": "Perfect for our honeymoon",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Skaros Rock and Catamaran sunset cruise with BBQ. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-santorini-10-16",
+      "author": "Anna Novak",
+      "country": "New Zealand",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-08-20",
+      "title": "Highly recommend this package",
+      "body": "Santorini is stunning and this package covered the essentials well, especially Imerovigli village. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-17",
+      "author": "Elena Kowalski",
+      "country": "Italy",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-05-09",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond Skaros Rock and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-santorini-10-18",
+      "author": "James Williams",
+      "country": "Brazil",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3,
+      "safetyRating": 4,
+      "date": "2025-01-08",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Santorini was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Fira caldera-edge walkway was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-santorini-10-19",
+      "author": "Emma Silva",
+      "country": "Spain",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-02-22",
+      "title": "Highly recommend this package",
+      "body": "Our trip to Santorini was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Megalochori village was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santorini-10-20",
+      "author": "Daniel Patel",
+      "country": "Spain",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-07-21",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Megalochori village and Santo Wines winery tour & tasting. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.4,
+    "hotel": 4.3,
+    "transportation": 4.2,
+    "activities": 4.2,
+    "value": 4.2,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Santorini Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Fira main shopping street"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Santorini Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "Oia art galleries and jewelry shops"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Santorini Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 63,
+      "neighborhood": "Santorini Wine Museum shop"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Santorini Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 81,
+      "neighborhood": "Local ceramics workshops"
+    },
+    {
+      "tier": "Resort",
+      "name": "Santorini Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "Tropical Bar Fira"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Santorini Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 294,
+      "neighborhood": "Franco's Bar Oia sunset cocktails"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Santorini Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 350,
+      "neighborhood": "Koo Club Fira"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        666,
+        1057
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        678,
+        1077
+      ],
+      "estimatedFlightHours": 12,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        266,
+        423
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        245,
+        389
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        224,
+        355
+      ],
+      "estimatedFlightHours": 3.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        168,
+        267
+      ],
+      "estimatedFlightHours": 2.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        262,
+        416
+      ],
+      "estimatedFlightHours": 4.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        250,
+        397
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        210,
+        333
+      ],
+      "estimatedFlightHours": 3.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1170,
+        1859
+      ],
+      "estimatedFlightHours": 21.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1325,
+        2105
+      ],
+      "estimatedFlightHours": 24.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        428,
+        680
+      ],
+      "estimatedFlightHours": 7.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        763,
+        1212
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        691,
+        1098
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        718,
+        1141
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        638,
+        1014
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        695,
+        1104
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        774,
+        1229
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        765,
+        1215
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        691,
+        1098
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        300,
+        477
+      ],
+      "estimatedFlightHours": 4.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        250,
+        397
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        276,
+        439
+      ],
+      "estimatedFlightHours": 4.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        238,
+        378
+      ],
+      "estimatedFlightHours": 3.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        580,
+        921
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        804,
+        1277
+      ],
+      "estimatedFlightHours": 14.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Santorini (Thira) National Airport (JTR)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        908,
+        1442
+      ],
+      "estimatedFlightHours": 16.3,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Akrotiri Archaeological Site",
+    "Museum of Prehistoric Thera",
+    "Santo Wines winery tour & tasting",
+    "Catamaran sunset cruise with BBQ",
+    "Volcano & Hot Springs boat tour",
+    "Cable car (Fira to Old Port)",
+    "Venetian Castle ruins Pyrgos",
+    "Santorini Arts Factory",
+    "Scuba diving excursion",
+    "ATV/quad bike rental day tour",
+    "Oia sunset viewpoint",
+    "Fira caldera-edge walkway",
+    "Red Beach",
+    "Imerovigli village",
+    "Fira to Oia coastal hike",
+    "Amoudi Bay",
+    "Perissa black sand beach",
+    "Skaros Rock",
+    "Megalochori village",
+    "Nea Kameni volcanic islet",
+    "Thirassia island",
+    "Ancient Thera archaeological site",
+    "Ios island day cruise",
+    "Maritime Museum of Oia",
+    "Santorini Arts Factory grounds",
+    "Perissa Beach",
+    "Kamari Beach",
+    "Vlychada Beach",
+    "Oia blue-domed churches",
+    "Caldera cliffside infinity pools",
+    "Fira sunset walkway",
+    "Amoudi Bay stairs",
+    "Red Beach cliffs"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Akrotiri Archaeological Site",
+      "priceUSD": 12
+    },
+    {
+      "name": "Museum of Prehistoric Thera",
+      "priceUSD": 6
+    },
+    {
+      "name": "Santo Wines winery tour & tasting",
+      "priceUSD": 25
+    },
+    {
+      "name": "Catamaran sunset cruise with BBQ",
+      "priceUSD": 95
+    },
+    {
+      "name": "Volcano & Hot Springs boat tour",
+      "priceUSD": 35
+    },
+    {
+      "name": "Cable car (Fira to Old Port)",
+      "priceUSD": 6
+    },
+    {
+      "name": "Venetian Castle ruins Pyrgos",
+      "priceUSD": 5
+    },
+    {
+      "name": "Santorini Arts Factory",
+      "priceUSD": 8
+    },
+    {
+      "name": "Scuba diving excursion",
+      "priceUSD": 90
+    },
+    {
+      "name": "ATV/quad bike rental day tour",
+      "priceUSD": 45
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Oia sunset viewpoint",
+    "Fira caldera-edge walkway",
+    "Red Beach",
+    "Imerovigli village",
+    "Fira to Oia coastal hike",
+    "Amoudi Bay",
+    "Perissa black sand beach",
+    "Skaros Rock",
+    "Megalochori village"
+  ],
+  "museums": [
+    "Museum of Prehistoric Thera",
+    "Maritime Museum of Oia"
+  ],
+  "parks": [
+    "Santorini Arts Factory grounds"
+  ],
+  "beaches": [
+    "Red Beach",
+    "Perissa Beach",
+    "Kamari Beach",
+    "Vlychada Beach"
+  ],
+  "dayTrips": [
+    "Nea Kameni volcanic islet",
+    "Thirassia island",
+    "Ancient Thera archaeological site",
+    "Ios island day cruise"
+  ],
+  "fromPriceUSD": 2139,
+  "seo": {
+    "title": "Santorini 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "santorini-10-day-package",
+    "keywords": [
+      "Santorini",
+      "Greece",
+      "Santorini, Greece",
+      "Southern Europe",
+      "Santorini tour package",
+      "Santorini vacation package",
+      "Santorini holiday package",
+      "things to do in Santorini",
+      "best time to visit Santorini",
+      "Santorini itinerary",
+      "10 day Santorini itinerary",
+      "Santorini flights and hotels",
+      "Santorini all inclusive package",
+      "cheap Santorini package",
+      "luxury Santorini package"
+    ],
+    "canonicalUrl": "/packages/santorini-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Santorini Package",
+        "url": "/packages/santorini-7-day-package"
+      },
+      {
+        "title": "14-Day Santorini Package",
+        "url": "/packages/santorini-14-day-package"
+      },
+      {
+        "title": "Maldives 10-Day Beach Getaway",
+        "url": "/packages/maldives-10-day-package"
+      },
+      {
+        "title": "Fiji 10-Day Beach Getaway",
+        "url": "/packages/fiji-10-day-package"
+      },
+      {
+        "title": "Bora Bora 10-Day Honeymoon Package",
+        "url": "/packages/bora-bora-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Santorini — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Santorini"
+      },
+      {
+        "title": "Santorini — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Santorini"
+      }
+    ]
+  }
+}

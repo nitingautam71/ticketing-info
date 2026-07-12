@@ -1,0 +1,1583 @@
+{
+  "id": "PKG-new-york-city-2D",
+  "slug": "new-york-city-2-day-package",
+  "destinationSlug": "new-york-city",
+  "destinationName": "New York City",
+  "country": "United States",
+  "region": "North America",
+  "durationDays": 2,
+  "durationNights": 1,
+  "title": "New York City 2-Day City Break",
+  "metaTitle": "New York City 2-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 2-day trip to New York City, United States: round-trip flights, hotel, breakfast, transfers, and guided tours including Empire State Building Observatory and Top of the Rock (Rockefeller Center). Prices from $524 per person (estimate).",
+  "highlights": [
+    "Empire State Building Observatory",
+    "Top of the Rock (Rockefeller Center)",
+    "Central Park",
+    "The Hamptons"
+  ],
+  "overview": "Spend 2 days discovering New York City, United States — Four-season humid continental climate with hot, humid summers (Jun-Aug), cold winters with occasional snow (Dec-Feb), and mild, colorful spring and autumn shoulder seasons. April to June and September to early November for mild, comfortable weather and fewer crowds than summer. This itinerary blends Empire State Building Observatory, Top of the Rock (Rockefeller Center), Central Park with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "1 night accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Empire State Building Observatory, Top of the Rock (Rockefeller Center), Central Park",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in New York City",
+      "description": "Land at John F. Kennedy International Airport (JFK) and take your included private transfer to your hotel. With limited time on the ground, head straight out to Empire State Building Observatory — Art Deco skyscraper observation decks. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Empire State Building Observatory"
+      ],
+      "overnight": "New York City"
+    },
+    {
+      "day": 2,
+      "title": "New York City Highlights & Departure",
+      "description": "Start early with a visit to Top of the Rock (Rockefeller Center) — Observation deck with Empire State Building views. Grab a last taste of local life before your private transfer to JFK for your onward flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Top of the Rock (Rockefeller Center)",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Tap your contactless card or phone directly on OMNY subway readers",
+    "Book Broadway tickets and popular museum timed-entry slots in advance",
+    "Walk briskly and stay alert to avoid blocking sidewalk or subway stair traffic",
+    "Check for pay-what-you-wish hours at major museums",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "Comfortable shoes for extensive walking on hard pavement",
+    "Layered clothing for unpredictable weather across seasons",
+    "A warm coat and waterproof boots for winter snow and slush",
+    "A compact umbrella for sudden showers"
+  ],
+  "thingsToDo": [
+    "Empire State Building Observatory",
+    "Top of the Rock (Rockefeller Center)",
+    "One World Observatory",
+    "Statue of Liberty & Ellis Island ferry",
+    "The Metropolitan Museum of Art",
+    "MoMA (Museum of Modern Art)",
+    "9/11 Memorial & Museum",
+    "Edge Observation Deck (Hudson Yards)",
+    "Broadway show ticket",
+    "American Museum of Natural History",
+    "Central Park",
+    "Times Square",
+    "Brooklyn Bridge",
+    "The High Line",
+    "Grand Central Terminal",
+    "Staten Island Ferry",
+    "Washington Square Park",
+    "St. Patrick's Cathedral",
+    "Kayaking on the Hudson River",
+    "Cycling the Central Park loop"
+  ],
+  "thingsToAvoid": [
+    "Buying \"discount\" Broadway or attraction tickets from street vendors near Times Square",
+    "Standing in the middle of subway stairs or sidewalks during rush hour",
+    "Hailing a cab instead of the subway for cross-town trips in heavy traffic",
+    "Walking through Central Park alone late at night"
+  ],
+  "topRestaurants": [
+    "Katz's Delicatessen — Jewish deli, pastrami ($)",
+    "Peter Luger Steak House — Steakhouse ($$$$)",
+    "Le Bernardin — French fine dining, seafood ($$$$)",
+    "Joe's Pizza — New York pizza ($)",
+    "Los Tacos No. 1 — Mexican tacos ($)",
+    "Russ & Daughters — Jewish appetizing, smoked fish ($$)",
+    "Xi'an Famous Foods — Chinese hand-pulled noodles ($)",
+    "Gramercy Tavern — Modern American ($$$)"
+  ],
+  "topCafes": [
+    "Blue Bottle Coffee",
+    "Stumptown Coffee Roasters",
+    "Café Grumpy",
+    "Levain Bakery"
+  ],
+  "shoppingAreas": [
+    "Fifth Avenue",
+    "SoHo boutiques",
+    "Chelsea Market",
+    "Macy's Herald Square"
+  ],
+  "nightlife": [
+    "Meatpacking District clubs",
+    "Williamsburg bar scene (Brooklyn)",
+    "Rooftop bars (230 Fifth)",
+    "Blue Note jazz club, Greenwich Village"
+  ],
+  "instagramSpots": [
+    "Times Square neon lights",
+    "Brooklyn Bridge at sunrise",
+    "Top of the Rock skyline view",
+    "DUMBO Manhattan Bridge photo spot",
+    "The High Line elevated park"
+  ],
+  "hiddenGems": [
+    "The Cloisters museum and gardens",
+    "Roosevelt Island Tram",
+    "Green-Wood Cemetery",
+    "City Island"
+  ],
+  "familyActivities": [
+    "American Museum of Natural History",
+    "Central Park Zoo",
+    "Statue of Liberty ferry",
+    "Coney Island boardwalk and rides"
+  ],
+  "adventureActivities": [
+    "Kayaking on the Hudson River",
+    "Cycling the Central Park loop",
+    "Ice skating at Rockefeller Center (winter)",
+    "Rock climbing at Brooklyn Boulders"
+  ],
+  "luxuryExperiences": [
+    "Suite stay at The Plaza",
+    "Private helicopter tour over Manhattan",
+    "Tasting menu at Le Bernardin",
+    "Front-row Broadway tickets with a backstage tour"
+  ],
+  "honeymoonExperiences": [
+    "Sunset cocktails at a rooftop bar overlooking the skyline",
+    "Horse-drawn carriage ride through Central Park",
+    "Private dinner cruise around Manhattan",
+    "Broadway date night"
+  ],
+  "budgetExperiences": [
+    "Free Staten Island Ferry ride past the Statue of Liberty",
+    "Central Park picnic and people-watching",
+    "Walk the Brooklyn Bridge and High Line",
+    "Pay-what-you-wish hours at select museums"
+  ],
+  "estimatedDailyBudgetUSD": [
+    110,
+    220,
+    420,
+    900
+  ],
+  "safetyRating": 4,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 95,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 3,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 5,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 10,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 16,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 22,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 29,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 25,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 18,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 12,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 6,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Macy's Thanksgiving Day Parade",
+      "timing": "Late November"
+    },
+    {
+      "name": "Tribeca Festival",
+      "timing": "June"
+    },
+    {
+      "name": "New Year's Eve Ball Drop, Times Square",
+      "timing": "December 31"
+    },
+    {
+      "name": "SantaCon",
+      "timing": "December"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Walk briskly and stay to the right on sidewalks and subway stairs.",
+    "Tipping 18-20% is standard at restaurants and for taxi rides.",
+    "Let subway passengers exit before boarding.",
+    "Personal space is limited on transit — crowding isn't personal.",
+    "Direct, efficient communication is the local norm."
+  ],
+  "localTransportGuide": "The subway runs 24/7 and is the fastest way around the city — tap a contactless card or phone directly on an OMNY reader, no separate MetroCard needed. Yellow cabs and rideshares (Uber/Lyft) are plentiful but often slower than the subway in Manhattan traffic.",
+  "bestTimeToVisit": "April to June and September to early November for mild, comfortable weather and fewer crowds than summer.",
+  "weather": "Four-season humid continental climate with hot, humid summers (Jun-Aug), cold winters with occasional snow (Dec-Feb), and mild, colorful spring and autumn shoulder seasons.",
+  "visaInformation": "Travelers from Visa Waiver Program countries need an approved ESTA before flying, valid for stays up to 90 days; other nationalities require a B-2 tourist visa.",
+  "currency": "USD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "EST (UTC-5)",
+  "averageFlightTime": "~13.9h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "John F. Kennedy International Airport (JFK)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit New York City?",
+      "answer": "Travelers from Visa Waiver Program countries need an approved ESTA before flying, valid for stays up to 90 days; other nationalities require a B-2 tourist visa."
+    },
+    {
+      "question": "What is the best time to visit New York City?",
+      "answer": "April to June and September to early November for mild, comfortable weather and fewer crowds than summer. Four-season humid continental climate with hot, humid summers (Jun-Aug), cold winters with occasional snow (Dec-Feb), and mild, colorful spring and autumn shoulder seasons."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is New York City safe for tourists?",
+      "answer": "New York City is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to New York City?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Food",
+    "Shopping",
+    "Nightlife",
+    "Bucket List",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "New York City",
+    "United States",
+    "New York City, United States",
+    "North America",
+    "New York City tour package",
+    "New York City vacation package",
+    "New York City holiday package",
+    "things to do in New York City",
+    "best time to visit New York City",
+    "New York City itinerary",
+    "2 day New York City itinerary",
+    "New York City flights and hotels",
+    "New York City all inclusive package",
+    "cheap New York City package",
+    "luxury New York City package",
+    "New York City honeymoon package",
+    "New York City family vacation",
+    "New York City solo trip",
+    "New York City group tour",
+    "New York City weekend getaway",
+    "New York City guided tour",
+    "JFK flights",
+    "New York City travel guide",
+    "book New York City trip online",
+    "New York City trip cost",
+    "New York City packages 2 days",
+    "New York City city break",
+    "New York City culture",
+    "New York City food",
+    "New York City shopping",
+    "New York City nightlife",
+    "New York City bucket list",
+    "Empire State Building Observatory",
+    "Top of the Rock (Rockefeller Center)",
+    "One World Observatory",
+    "Statue of Liberty & Ellis Island ferry",
+    "The Metropolitan Museum of Art",
+    "MoMA (Museum of Modern Art)",
+    "9/11 Memorial & Museum",
+    "Edge Observation Deck (Hudson Yards)",
+    "Broadway show ticket",
+    "American Museum of Natural History",
+    "Central Park",
+    "Times Square",
+    "Brooklyn Bridge",
+    "The High Line",
+    "Grand Central Terminal",
+    "Staten Island Ferry",
+    "Washington Square Park",
+    "St. Patrick's Cathedral"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "New York City, United States — Times Square neon night",
+      "keywords": [
+        "New York City",
+        "United States",
+        "Times Square neon night",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New York City Times Square neon night",
+      "pexelsQuery": "New York City Times Square neon night",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "New York City, United States — Times Square neon night",
+      "keywords": [
+        "New York City",
+        "United States",
+        "Times Square neon night",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New York City Times Square neon night",
+      "pexelsQuery": "New York City Times Square neon night",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "New York City, United States — Manhattan skyline sunset",
+      "keywords": [
+        "New York City",
+        "United States",
+        "Manhattan skyline sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New York City Manhattan skyline sunset",
+      "pexelsQuery": "New York City Manhattan skyline sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "New York City, United States — Brooklyn Bridge golden hour",
+      "keywords": [
+        "New York City",
+        "United States",
+        "Brooklyn Bridge golden hour",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New York City Brooklyn Bridge golden hour",
+      "pexelsQuery": "New York City Brooklyn Bridge golden hour",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "New York City, United States — Times Square neon night",
+      "keywords": [
+        "New York City",
+        "United States",
+        "Times Square neon night",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New York City Times Square neon night",
+      "pexelsQuery": "New York City Times Square neon night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New York City, United States — Manhattan skyline sunset",
+      "keywords": [
+        "New York City",
+        "United States",
+        "Manhattan skyline sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New York City Manhattan skyline sunset",
+      "pexelsQuery": "New York City Manhattan skyline sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New York City, United States — Brooklyn Bridge golden hour",
+      "keywords": [
+        "New York City",
+        "United States",
+        "Brooklyn Bridge golden hour",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New York City Brooklyn Bridge golden hour",
+      "pexelsQuery": "New York City Brooklyn Bridge golden hour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New York City, United States — Central Park autumn",
+      "keywords": [
+        "New York City",
+        "United States",
+        "Central Park autumn",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New York City Central Park autumn",
+      "pexelsQuery": "New York City Central Park autumn",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New York City, United States — Empire State Building Observatory",
+      "keywords": [
+        "New York City",
+        "United States",
+        "Empire State Building Observatory",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New York City Empire State Building Observatory",
+      "pexelsQuery": "New York City Empire State Building Observatory",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New York City, United States — Top of the Rock (Rockefeller Center)",
+      "keywords": [
+        "New York City",
+        "United States",
+        "Top of the Rock (Rockefeller Center)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New York City Top of the Rock (Rockefeller Center)",
+      "pexelsQuery": "New York City Top of the Rock (Rockefeller Center)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New York City, United States — One World Observatory",
+      "keywords": [
+        "New York City",
+        "United States",
+        "One World Observatory",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New York City One World Observatory",
+      "pexelsQuery": "New York City One World Observatory",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New York City, United States — Statue of Liberty & Ellis Island ferry",
+      "keywords": [
+        "New York City",
+        "United States",
+        "Statue of Liberty & Ellis Island ferry",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New York City Statue of Liberty & Ellis Island ferry",
+      "pexelsQuery": "New York City Statue of Liberty & Ellis Island ferry",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-new-york-city-2-1",
+      "author": "Tom Sharma",
+      "country": "Singapore",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-08-17",
+      "title": "Perfect for our honeymoon",
+      "body": "We added a couple of optional activities beyond Edge Observation Deck (Hudson Yards) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-new-york-city-2-2",
+      "author": "Priya Andersen",
+      "country": "Netherlands",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-16",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a couple trip and it was well paced. Brooklyn Bridge in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-new-york-city-2-3",
+      "author": "Mia Nguyen",
+      "country": "South Africa",
+      "rating": 4.4,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-22",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Times Square and Empire State Building Observatory. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-new-york-city-2-4",
+      "author": "Noah Cohen",
+      "country": "Singapore",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-04-28",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to New York City was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Edge Observation Deck (Hudson Yards) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-5",
+      "author": "James Khan",
+      "country": "Singapore",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-18",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to New York City was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Edge Observation Deck (Hudson Yards) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-6",
+      "author": "Sarah Khan",
+      "country": "United States",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-01-24",
+      "title": "Would book again in a heartbeat",
+      "body": "New York City is stunning and this package covered the essentials well, especially Empire State Building Observatory. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-7",
+      "author": "Mia Costa",
+      "country": "United States",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-30",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Empire State Building Observatory and Staten Island Ferry. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-8",
+      "author": "Olivia Ivanov",
+      "country": "Germany",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-01-07",
+      "title": "Five stars, will return",
+      "body": "Our trip to New York City was fantastic from start to finish. The hotel was clean and well located, and the guided visit to The Metropolitan Museum of Art was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-9",
+      "author": "Yuki Smith",
+      "country": "France",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-01-31",
+      "title": "A little rushed but still wonderful",
+      "body": "MoMA (Museum of Modern Art) alone was worth the trip, but combined with 9/11 Memorial & Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-10",
+      "author": "Chen Andersen",
+      "country": "Saudi Arabia",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-16",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a couple trip and it was well paced. Grand Central Terminal in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-11",
+      "author": "Chen Tanaka",
+      "country": "United Kingdom",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-07-16",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a family of 4 trip and it was well paced. Top of the Rock (Rockefeller Center) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-new-york-city-2-12",
+      "author": "Marco Müller",
+      "country": "Japan",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-07-07",
+      "title": "Unforgettable trip!",
+      "body": "We added a couple of optional activities beyond American Museum of Natural History and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-13",
+      "author": "Wei Botha",
+      "country": "United Kingdom",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-02",
+      "title": "Five stars, will return",
+      "body": "Booked this as a solo trip and it was well paced. Empire State Building Observatory in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-14",
+      "author": "Fatima Santos",
+      "country": "South Korea",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-04-17",
+      "title": "Loved every moment",
+      "body": "Broadway show ticket alone was worth the trip, but combined with Edge Observation Deck (Hudson Yards) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-15",
+      "author": "Grace Larsen",
+      "country": "Singapore",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-06",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Edge Observation Deck (Hudson Yards) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-16",
+      "author": "Chen Botha",
+      "country": "Saudi Arabia",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-01-01",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a group trip and it was well paced. Grand Central Terminal in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-17",
+      "author": "Tom Botha",
+      "country": "Netherlands",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-07-29",
+      "title": "Five stars, will return",
+      "body": "We added a couple of optional activities beyond Brooklyn Bridge and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-18",
+      "author": "Olivia Novak",
+      "country": "Mexico",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-29",
+      "title": "Worth every penny",
+      "body": "Our trip to New York City was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Staten Island Ferry was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-new-york-city-2-19",
+      "author": "Anna Johnson",
+      "country": "Japan",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4,
+      "date": "2026-04-04",
+      "title": "Best vacation we've had",
+      "body": "New York City is stunning and this package covered the essentials well, especially American Museum of Natural History. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-york-city-2-20",
+      "author": "Priya Johnson",
+      "country": "Brazil",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-10",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a group trip and it was well paced. Central Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.4,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "New York City Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 24,
+      "neighborhood": "Fifth Avenue"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "New York City Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 44,
+      "neighborhood": "SoHo boutiques"
+    },
+    {
+      "tier": "Apartment",
+      "name": "New York City Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 77,
+      "neighborhood": "Chelsea Market"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "New York City Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 99,
+      "neighborhood": "Macy's Herald Square"
+    },
+    {
+      "tier": "Resort",
+      "name": "New York City Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 210,
+      "neighborhood": "Meatpacking District clubs"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private New York City Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 378,
+      "neighborhood": "Williamsburg bar scene (Brooklyn)"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The New York City Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 450,
+      "neighborhood": "Rooftop bars (230 Fifth)"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        116,
+        185
+      ],
+      "estimatedFlightHours": 1.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        479,
+        760
+      ],
+      "estimatedFlightHours": 8.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        498,
+        791
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        524,
+        833
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        575,
+        913
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        493,
+        783
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        500,
+        794
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        534,
+        848
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1232,
+        1956
+      ],
+      "estimatedFlightHours": 22.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1102,
+        1750
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        926,
+        1470
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        860,
+        1366
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        876,
+        1391
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1184,
+        1881
+      ],
+      "estimatedFlightHours": 21.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1083,
+        1720
+      ],
+      "estimatedFlightHours": 19.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1169,
+        1856
+      ],
+      "estimatedFlightHours": 21.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1245,
+        1978
+      ],
+      "estimatedFlightHours": 22.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1064,
+        1690
+      ],
+      "estimatedFlightHours": 19.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1108,
+        1760
+      ],
+      "estimatedFlightHours": 20.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        872,
+        1385
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        836,
+        1327
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        855,
+        1358
+      ],
+      "estimatedFlightHours": 15.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        813,
+        1292
+      ],
+      "estimatedFlightHours": 14.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1004,
+        1594
+      ],
+      "estimatedFlightHours": 18.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        632,
+        1003
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "John F. Kennedy International Airport (JFK)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        320,
+        508
+      ],
+      "estimatedFlightHours": 5.3,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Empire State Building Observatory",
+    "Top of the Rock (Rockefeller Center)",
+    "One World Observatory",
+    "Statue of Liberty & Ellis Island ferry",
+    "The Metropolitan Museum of Art",
+    "MoMA (Museum of Modern Art)",
+    "9/11 Memorial & Museum",
+    "Edge Observation Deck (Hudson Yards)",
+    "Broadway show ticket",
+    "American Museum of Natural History",
+    "Central Park",
+    "Times Square",
+    "Brooklyn Bridge",
+    "The High Line",
+    "Grand Central Terminal",
+    "Staten Island Ferry",
+    "Washington Square Park",
+    "St. Patrick's Cathedral",
+    "The Hamptons",
+    "Hudson Valley",
+    "Philadelphia",
+    "Fire Island",
+    "MoMA",
+    "Prospect Park",
+    "Coney Island Beach",
+    "Rockaway Beach",
+    "Brighton Beach",
+    "Times Square neon lights",
+    "Brooklyn Bridge at sunrise",
+    "Top of the Rock skyline view",
+    "DUMBO Manhattan Bridge photo spot",
+    "The High Line elevated park"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Empire State Building Observatory",
+      "priceUSD": 50
+    },
+    {
+      "name": "Top of the Rock (Rockefeller Center)",
+      "priceUSD": 45
+    },
+    {
+      "name": "One World Observatory",
+      "priceUSD": 45
+    },
+    {
+      "name": "Statue of Liberty & Ellis Island ferry",
+      "priceUSD": 25
+    },
+    {
+      "name": "The Metropolitan Museum of Art",
+      "priceUSD": 30
+    },
+    {
+      "name": "MoMA (Museum of Modern Art)",
+      "priceUSD": 30
+    },
+    {
+      "name": "9/11 Memorial & Museum",
+      "priceUSD": 33
+    },
+    {
+      "name": "Edge Observation Deck (Hudson Yards)",
+      "priceUSD": 40
+    },
+    {
+      "name": "Broadway show ticket",
+      "priceUSD": 150
+    },
+    {
+      "name": "American Museum of Natural History",
+      "priceUSD": 28
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Central Park",
+    "Times Square",
+    "Brooklyn Bridge",
+    "The High Line",
+    "Grand Central Terminal",
+    "Staten Island Ferry",
+    "Washington Square Park",
+    "St. Patrick's Cathedral"
+  ],
+  "museums": [
+    "The Metropolitan Museum of Art",
+    "MoMA",
+    "American Museum of Natural History",
+    "9/11 Memorial & Museum"
+  ],
+  "parks": [
+    "Central Park",
+    "The High Line",
+    "Prospect Park",
+    "Washington Square Park"
+  ],
+  "beaches": [
+    "Coney Island Beach",
+    "Rockaway Beach",
+    "Brighton Beach"
+  ],
+  "dayTrips": [
+    "The Hamptons",
+    "Hudson Valley",
+    "Philadelphia",
+    "Fire Island"
+  ],
+  "fromPriceUSD": 524,
+  "seo": {
+    "title": "New York City 2-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "new-york-city-2-day-package",
+    "keywords": [
+      "New York City",
+      "United States",
+      "New York City, United States",
+      "North America",
+      "New York City tour package",
+      "New York City vacation package",
+      "New York City holiday package",
+      "things to do in New York City",
+      "best time to visit New York City",
+      "New York City itinerary",
+      "2 day New York City itinerary",
+      "New York City flights and hotels",
+      "New York City all inclusive package",
+      "cheap New York City package",
+      "luxury New York City package"
+    ],
+    "canonicalUrl": "/packages/new-york-city-2-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day New York City Package",
+        "url": "/packages/new-york-city-3-day-package"
+      },
+      {
+        "title": "5-Day New York City Package",
+        "url": "/packages/new-york-city-5-day-package"
+      },
+      {
+        "title": "Tokyo 2-Day City Break",
+        "url": "/packages/tokyo-2-day-package"
+      },
+      {
+        "title": "London 2-Day City Break",
+        "url": "/packages/london-2-day-package"
+      },
+      {
+        "title": "Istanbul 2-Day City Break",
+        "url": "/packages/istanbul-2-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "New York City — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/New_York_City"
+      },
+      {
+        "title": "New York City — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/New_York_City"
+      }
+    ]
+  }
+}

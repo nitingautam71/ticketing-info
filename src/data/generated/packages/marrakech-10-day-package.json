@@ -1,0 +1,1684 @@
+{
+  "id": "PKG-marrakech-10D",
+  "slug": "marrakech-10-day-package",
+  "destinationSlug": "marrakech",
+  "destinationName": "Marrakech",
+  "country": "Morocco",
+  "region": "North Africa",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Marrakech 10-Day Cultural Tour",
+  "metaTitle": "Marrakech 10-Day Cultural Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Marrakech, Morocco: round-trip flights, hotel, breakfast, transfers, and guided tours including Bahia Palace and Jardin Majorelle. Prices from $1132 per person (estimate).",
+  "highlights": [
+    "Bahia Palace",
+    "Jardin Majorelle",
+    "Jemaa el-Fnaa square",
+    "Atlas Mountains trekking near Imlil",
+    "Sunset camel ride in the Agafay Desert",
+    "Atlas Mountains and Imlil villages"
+  ],
+  "overview": "Spend 10 days discovering Marrakech, Morocco — Semi-arid climate with mild winters (highs 18°C, chilly nights) and very hot, dry summers (highs 38°C) that can be intense for daytime sightseeing. March to May and September to November offer warm, comfortable days without the extreme summer heat of the Marrakech plain. This itinerary blends Bahia Palace, Jardin Majorelle, Jemaa el-Fnaa square with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Bahia Palace, Jardin Majorelle, Jemaa el-Fnaa square",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Marrakech",
+      "description": "Land at Marrakesh Menara Airport (RAK) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Bahia Palace — 19th-century palace with intricate zellige tilework. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Bahia Palace"
+      ],
+      "overnight": "Marrakech"
+    },
+    {
+      "day": 2,
+      "title": "Marrakech: Jardin Majorelle & Saadian Tombs",
+      "description": "Morning visit to Jardin Majorelle — Cobalt-blue garden once owned by Yves Saint Laurent. In the afternoon, continue to Saadian Tombs — Ornate 16th-century royal necropolis. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Jardin Majorelle",
+        "Saadian Tombs"
+      ],
+      "overnight": "Marrakech"
+    },
+    {
+      "day": 3,
+      "title": "Marrakech: El Badi Palace & Koutoubia Mosque grounds",
+      "description": "Morning visit to El Badi Palace — Ruined 16th-century palace with storks nesting on the walls. In the afternoon, continue to Koutoubia Mosque grounds — Iconic minaret and surrounding gardens (non-Muslims view exterior only). Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "El Badi Palace",
+        "Koutoubia Mosque grounds"
+      ],
+      "overnight": "Marrakech"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Atlas Mountains and Imlil villages",
+      "description": "Full-day excursion to Atlas Mountains and Imlil villages, a popular side trip from Marrakech. Return to Marrakech in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Atlas Mountains and Imlil villages",
+        "Free evening"
+      ],
+      "overnight": "Marrakech"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Le Jardin Secret — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Le Jardin Secret"
+      ],
+      "overnight": "Marrakech"
+    },
+    {
+      "day": 6,
+      "title": "Marrakech: Marrakech Museum & Ben Youssef Madrasa",
+      "description": "Morning visit to Marrakech Museum — Islamic art in a restored 19th-century palace. In the afternoon, continue to Ben Youssef Madrasa — Ornate former Islamic school with stunning courtyards. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Marrakech Museum",
+        "Ben Youssef Madrasa"
+      ],
+      "overnight": "Marrakech"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Agafay Desert",
+      "description": "Full-day excursion to Agafay Desert, a popular side trip from Marrakech. Return to Marrakech in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Agafay Desert",
+        "Free evening"
+      ],
+      "overnight": "Marrakech"
+    },
+    {
+      "day": 8,
+      "title": "Marrakech: Atlas Mountains day trip & Agafay Desert camp experience",
+      "description": "Morning visit to Atlas Mountains day trip — Berber villages and valley scenery near Imlil. In the afternoon, continue to Agafay Desert camp experience — Sunset camel ride and dinner in the rocky desert. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Atlas Mountains day trip",
+        "Agafay Desert camp experience"
+      ],
+      "overnight": "Marrakech"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Maison de la Photographie — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Maison de la Photographie"
+      ],
+      "overnight": "Marrakech"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Hammam & spa experience or some souvenir shopping — before your private transfer to RAK for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Agree on a taxi fare before getting in, or insist the meter is used — petit taxis rarely default to it.",
+    "Get lost in the souks intentionally, but note a landmark or use GPS — the medina is a genuine maze.",
+    "Riads (traditional courtyard guesthouses) offer a more authentic, often better-value stay than large hotels.",
+    "Bargain to roughly 40-50% of the initial asking price in souks as a starting point.",
+    "Visit Jemaa el-Fnaa both in daytime (juice stalls, snake charmers) and at night (food stalls, storytellers) — the atmosphere transforms completely.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Modest, breathable clothing covering shoulders and knees",
+    "A scarf for sun protection and mosque courtesy",
+    "Comfortable closed shoes for uneven medina streets",
+    "A warm layer for chilly desert or Atlas Mountain evenings"
+  ],
+  "thingsToDo": [
+    "Bahia Palace",
+    "Jardin Majorelle",
+    "Saadian Tombs",
+    "El Badi Palace",
+    "Koutoubia Mosque grounds",
+    "Marrakech Museum",
+    "Ben Youssef Madrasa",
+    "Atlas Mountains day trip",
+    "Agafay Desert camp experience",
+    "Hammam & spa experience",
+    "Jemaa el-Fnaa square",
+    "Souks of the Medina",
+    "Koutoubia Mosque exterior",
+    "Mellah (former Jewish quarter)",
+    "Menara Gardens",
+    "Gueliz new town streets",
+    "Cyber Park (Parc Moulay Abdeslam)",
+    "Rooftop views over the medina",
+    "Atlas Mountains trekking near Imlil",
+    "Quad biking in the Agafay Desert"
+  ],
+  "thingsToAvoid": [
+    "Unofficial \"guides\" who approach offering to lead you somewhere — politely decline and use a licensed guide instead.",
+    "Photographing Jemaa el-Fnaa performers or henna artists without agreeing to a tip first — expect demands afterward.",
+    "Accepting unsolicited henna application on the street — high-pressure payment demands often follow.",
+    "Drinking tap water — stick to bottled or filtered water.",
+    "Walking through the souks with valuables in easily accessible pockets — pickpocketing occurs in crowded lanes."
+  ],
+  "topRestaurants": [
+    "Nomad — Modern Moroccan ($$$)",
+    "Le Jardin — Moroccan Garden Restaurant ($$)",
+    "Al Fassia — Traditional Moroccan (Fez-style) ($$$)",
+    "Café Clock — Moroccan Fusion ($$)",
+    "Dar Yacout — Palatial Moroccan Fine Dining ($$$$)",
+    "Jemaa el-Fnaa food stalls — Moroccan Street Food ($)",
+    "La Maison Arabe — Moroccan Fine Dining ($$$$)",
+    "Kui-Zin — Moroccan Rooftop ($$)"
+  ],
+  "topCafes": [
+    "Café des Épices",
+    "Nomad Café rooftop",
+    "Kaowa Café",
+    "16 Café",
+    "Bacha Coffee"
+  ],
+  "shoppingAreas": [
+    "Souk Semmarine",
+    "Souk des Teinturiers (dyers)",
+    "Rue Mouassine boutiques",
+    "Ensemble Artisanal",
+    "Gueliz shopping district"
+  ],
+  "nightlife": [
+    "Sky Bar Marrakech",
+    "Comptoir Darna",
+    "Kabana rooftop lounge",
+    "Théâtro nightclub"
+  ],
+  "instagramSpots": [
+    "Jardin Majorelle cobalt-blue walls",
+    "Bahia Palace tiled courtyards",
+    "Jemaa el-Fnaa at sunset",
+    "Rooftop medina views",
+    "Ben Youssef Madrasa courtyard"
+  ],
+  "hiddenGems": [
+    "Le Jardin Secret",
+    "Maison de la Photographie",
+    "Dar El Bacha Museum",
+    "Cyber Park quiet corners"
+  ],
+  "familyActivities": [
+    "Camel rides in Palmeraie",
+    "Marrakech Museum for kids",
+    "Oasiria water park",
+    "Atlas Mountains day trip with a waterfall stop"
+  ],
+  "adventureActivities": [
+    "Atlas Mountains trekking near Imlil",
+    "Quad biking in the Agafay Desert",
+    "Hot air balloon ride over the Marrakech plain",
+    "Camel trekking into the desert"
+  ],
+  "luxuryExperiences": [
+    "Private riad stay with a rooftop plunge pool",
+    "Luxury desert camp overnight in Agafay",
+    "Private guided medina and palace tour",
+    "Fine dining at Dar Yacout with a traditional show"
+  ],
+  "honeymoonExperiences": [
+    "Sunset camel ride in the Agafay Desert",
+    "Private riad courtyard dinner under the stars",
+    "Couples hammam and spa ritual",
+    "Romantic dinner in Jardin Majorelle's garden setting"
+  ],
+  "budgetExperiences": [
+    "Free wander through Jemaa el-Fnaa and the souks",
+    "Street food dinner at the night market stalls",
+    "Free views of Koutoubia Mosque exterior",
+    "Menara Gardens for a relaxed afternoon"
+  ],
+  "estimatedDailyBudgetUSD": [
+    30,
+    65,
+    140,
+    280
+  ],
+  "safetyRating": 3,
+  "internetRating": 3,
+  "publicTransportRating": 3,
+  "walkingScore": 70,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 22,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 25,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 28,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 33,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 38,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 38,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 22,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 18,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Marrakech International Film Festival",
+      "timing": "November/December"
+    },
+    {
+      "name": "Ramadan and Eid al-Fitr",
+      "timing": "Varies yearly by lunar calendar"
+    },
+    {
+      "name": "Marrakech Popular Arts Festival",
+      "timing": "July"
+    },
+    {
+      "name": "Rose Festival (nearby Kelaat M'Gouna)",
+      "timing": "May"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "19",
+    "ambulance": "15",
+    "fire": "15"
+  },
+  "localEtiquette": [
+    "Dress modestly, especially away from resort pools — shoulders and knees covered is respectful, particularly for women.",
+    "Ask before photographing people, especially in the souks and Jemaa el-Fnaa performers.",
+    "Bargaining is essential and expected in the souks — never accept the first price.",
+    "Use your right hand for eating, giving or receiving items.",
+    "During Ramadan, avoid eating, drinking or smoking in public during daylight hours out of respect."
+  ],
+  "localTransportGuide": "The medina is a pedestrian maze best explored on foot with an offline map, since cars can't enter most of it — petit taxis (metered, or negotiate the fare first) handle short city trips, while grand taxis or organized tours cover day trips to the Atlas Mountains or Essaouira.",
+  "bestTimeToVisit": "March to May and September to November offer warm, comfortable days without the extreme summer heat of the Marrakech plain.",
+  "weather": "Semi-arid climate with mild winters (highs 18°C, chilly nights) and very hot, dry summers (highs 38°C) that can be intense for daytime sightseeing.",
+  "visaInformation": "Visa-free entry for stays up to 90 days for most Western passport holders including US, UK, Canada, Australia and EU citizens. Other nationalities should check Moroccan visa requirements in advance.",
+  "currency": "MAD",
+  "languages": [
+    "Arabic",
+    "French",
+    "Berber"
+  ],
+  "timeZone": "WET (UTC+1)",
+  "averageFlightTime": "~11.4h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Marrakesh Menara Airport (RAK)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Marrakech?",
+      "answer": "Visa-free entry for stays up to 90 days for most Western passport holders including US, UK, Canada, Australia and EU citizens. Other nationalities should check Moroccan visa requirements in advance."
+    },
+    {
+      "question": "What is the best time to visit Marrakech?",
+      "answer": "March to May and September to November offer warm, comfortable days without the extreme summer heat of the Marrakech plain. Semi-arid climate with mild winters (highs 18°C, chilly nights) and very hot, dry summers (highs 38°C) that can be intense for daytime sightseeing."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Marrakech safe for tourists?",
+      "answer": "Marrakech is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Marrakech?",
+      "answer": "The local currency is MAD. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Marrakech is one of our most-booked honeymoon destinations, especially the Sunset camel ride in the Agafay Desert experience."
+    }
+  ],
+  "categories": [
+    "Culture",
+    "Adventure",
+    "Shopping",
+    "Romantic",
+    "Bucket List",
+    "Honeymoon"
+  ],
+  "aiTags": [
+    "Marrakech",
+    "Morocco",
+    "Marrakech, Morocco",
+    "North Africa",
+    "Marrakech tour package",
+    "Marrakech vacation package",
+    "Marrakech holiday package",
+    "things to do in Marrakech",
+    "best time to visit Marrakech",
+    "Marrakech itinerary",
+    "10 day Marrakech itinerary",
+    "Marrakech flights and hotels",
+    "Marrakech all inclusive package",
+    "cheap Marrakech package",
+    "luxury Marrakech package",
+    "Marrakech honeymoon package",
+    "Marrakech family vacation",
+    "Marrakech solo trip",
+    "Marrakech group tour",
+    "Marrakech weekend getaway",
+    "Marrakech guided tour",
+    "RAK flights",
+    "Marrakech travel guide",
+    "book Marrakech trip online",
+    "Marrakech trip cost",
+    "Marrakech packages 10 days",
+    "Marrakech culture",
+    "Marrakech adventure",
+    "Marrakech shopping",
+    "Marrakech romantic",
+    "Marrakech bucket list",
+    "Marrakech honeymoon",
+    "Bahia Palace",
+    "Jardin Majorelle",
+    "Saadian Tombs",
+    "El Badi Palace",
+    "Koutoubia Mosque grounds",
+    "Marrakech Museum",
+    "Ben Youssef Madrasa",
+    "Atlas Mountains day trip",
+    "Agafay Desert camp experience",
+    "Hammam & spa experience",
+    "Jemaa el-Fnaa square",
+    "Souks of the Medina",
+    "Koutoubia Mosque exterior",
+    "Mellah (former Jewish quarter)",
+    "Menara Gardens",
+    "Gueliz new town streets",
+    "Cyber Park (Parc Moulay Abdeslam)",
+    "Rooftop views over the medina"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Marrakech, Morocco — Jemaa el-Fnaa square",
+      "keywords": [
+        "Marrakech",
+        "Morocco",
+        "Jemaa el-Fnaa square",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Marrakech Jemaa el-Fnaa square",
+      "pexelsQuery": "Marrakech Jemaa el-Fnaa square",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Marrakech, Morocco — Jemaa el-Fnaa square",
+      "keywords": [
+        "Marrakech",
+        "Morocco",
+        "Jemaa el-Fnaa square",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Marrakech Jemaa el-Fnaa square",
+      "pexelsQuery": "Marrakech Jemaa el-Fnaa square",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Marrakech, Morocco — Jardin Majorelle blue walls",
+      "keywords": [
+        "Marrakech",
+        "Morocco",
+        "Jardin Majorelle blue walls",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Marrakech Jardin Majorelle blue walls",
+      "pexelsQuery": "Marrakech Jardin Majorelle blue walls",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Marrakech, Morocco — Marrakech medina souk",
+      "keywords": [
+        "Marrakech",
+        "Morocco",
+        "Marrakech medina souk",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Marrakech Marrakech medina souk",
+      "pexelsQuery": "Marrakech Marrakech medina souk",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Marrakech, Morocco — Jemaa el-Fnaa square",
+      "keywords": [
+        "Marrakech",
+        "Morocco",
+        "Jemaa el-Fnaa square",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Marrakech Jemaa el-Fnaa square",
+      "pexelsQuery": "Marrakech Jemaa el-Fnaa square",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Marrakech, Morocco — Jardin Majorelle blue walls",
+      "keywords": [
+        "Marrakech",
+        "Morocco",
+        "Jardin Majorelle blue walls",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Marrakech Jardin Majorelle blue walls",
+      "pexelsQuery": "Marrakech Jardin Majorelle blue walls",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Marrakech, Morocco — Marrakech medina souk",
+      "keywords": [
+        "Marrakech",
+        "Morocco",
+        "Marrakech medina souk",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Marrakech Marrakech medina souk",
+      "pexelsQuery": "Marrakech Marrakech medina souk",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Marrakech, Morocco — Atlas Mountains desert camp",
+      "keywords": [
+        "Marrakech",
+        "Morocco",
+        "Atlas Mountains desert camp",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Marrakech Atlas Mountains desert camp",
+      "pexelsQuery": "Marrakech Atlas Mountains desert camp",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Marrakech, Morocco — Bahia Palace",
+      "keywords": [
+        "Marrakech",
+        "Morocco",
+        "Bahia Palace",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Marrakech Bahia Palace",
+      "pexelsQuery": "Marrakech Bahia Palace",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Marrakech, Morocco — Jardin Majorelle",
+      "keywords": [
+        "Marrakech",
+        "Morocco",
+        "Jardin Majorelle",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Marrakech Jardin Majorelle",
+      "pexelsQuery": "Marrakech Jardin Majorelle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Marrakech, Morocco — Saadian Tombs",
+      "keywords": [
+        "Marrakech",
+        "Morocco",
+        "Saadian Tombs",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Marrakech Saadian Tombs",
+      "pexelsQuery": "Marrakech Saadian Tombs",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Marrakech, Morocco — El Badi Palace",
+      "keywords": [
+        "Marrakech",
+        "Morocco",
+        "El Badi Palace",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Marrakech El Badi Palace",
+      "pexelsQuery": "Marrakech El Badi Palace",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-marrakech-10-1",
+      "author": "Emma Novak",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-08-06",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Marrakech was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Ben Youssef Madrasa was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-2",
+      "author": "Isabella Cohen",
+      "country": "Netherlands",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2026-06-24",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Koutoubia Mosque exterior and Rooftop views over the medina. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-3",
+      "author": "Arjun Fernandez",
+      "country": "New Zealand",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-03",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a family of 4 trip and it was well paced. Koutoubia Mosque exterior in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-4",
+      "author": "Mohammed Brown",
+      "country": "Netherlands",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-06-26",
+      "title": "Great for families with kids",
+      "body": "Koutoubia Mosque exterior alone was worth the trip, but combined with Gueliz new town streets this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-marrakech-10-5",
+      "author": "Tom Andersen",
+      "country": "Spain",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-09",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Rooftop views over the medina and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-marrakech-10-6",
+      "author": "Omar Cohen",
+      "country": "Brazil",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-03-23",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Jemaa el-Fnaa square and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-marrakech-10-7",
+      "author": "Elena Silva",
+      "country": "Japan",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-09-28",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Hammam & spa experience and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-8",
+      "author": "Lucas Brown",
+      "country": "Italy",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-03-02",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Cyber Park (Parc Moulay Abdeslam) and Ben Youssef Madrasa. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-9",
+      "author": "Priya Andersen",
+      "country": "Germany",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-01",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a solo trip and it was well paced. El Badi Palace in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-10",
+      "author": "Grace Novak",
+      "country": "France",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-24",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Koutoubia Mosque grounds and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-11",
+      "author": "Chen Andersen",
+      "country": "New Zealand",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-05-08",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a family of 4 trip and it was well paced. Koutoubia Mosque exterior in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-12",
+      "author": "Ava Dubois",
+      "country": "France",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-28",
+      "title": "So many hidden gems included",
+      "body": "Marrakech Museum alone was worth the trip, but combined with Menara Gardens this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-13",
+      "author": "Isabella Brown",
+      "country": "United States",
+      "rating": 4.4,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-11-01",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Bahia Palace and Mellah (former Jewish quarter). Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-14",
+      "author": "Grace Dubois",
+      "country": "Australia",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-09-11",
+      "title": "Consultant made it effortless",
+      "body": "We added a couple of optional activities beyond El Badi Palace and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-15",
+      "author": "Lukas Tanaka",
+      "country": "Mexico",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-06-10",
+      "title": "Five stars, will return",
+      "body": "Marrakech is stunning and this package covered the essentials well, especially Cyber Park (Parc Moulay Abdeslam). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-16",
+      "author": "Priya Fernandez",
+      "country": "UAE",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-03",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a group trip and it was well paced. Ben Youssef Madrasa in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-marrakech-10-17",
+      "author": "Noah Nguyen",
+      "country": "Brazil",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-06-26",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Marrakech was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Hammam & spa experience was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-18",
+      "author": "Isabella Wang",
+      "country": "Netherlands",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-04-06",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Koutoubia Mosque exterior and Ben Youssef Madrasa. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-19",
+      "author": "Elena Müller",
+      "country": "South Korea",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-04-13",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Agafay Desert camp experience and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-marrakech-10-20",
+      "author": "Nadia Ivanov",
+      "country": "France",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-12-13",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Marrakech is stunning and this package covered the essentials well, especially Koutoubia Mosque grounds. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.4,
+    "hotel": 4.3,
+    "transportation": 4.4,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.4,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Marrakech Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 7,
+      "neighborhood": "Souk Semmarine"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Marrakech Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 12,
+      "neighborhood": "Souk des Teinturiers (dyers)"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Marrakech Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 23,
+      "neighborhood": "Rue Mouassine boutiques"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Marrakech Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 29,
+      "neighborhood": "Ensemble Artisanal"
+    },
+    {
+      "tier": "Resort",
+      "name": "Marrakech Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 70,
+      "neighborhood": "Gueliz shopping district"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Marrakech Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 118,
+      "neighborhood": "Sky Bar Marrakech"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Marrakech Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 140,
+      "neighborhood": "Comptoir Darna"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        501,
+        795
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        527,
+        837
+      ],
+      "estimatedFlightHours": 9.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        243,
+        386
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        229,
+        363
+      ],
+      "estimatedFlightHours": 3.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        255,
+        405
+      ],
+      "estimatedFlightHours": 4.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        231,
+        367
+      ],
+      "estimatedFlightHours": 3.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        152,
+        242
+      ],
+      "estimatedFlightHours": 2.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        259,
+        412
+      ],
+      "estimatedFlightHours": 4.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        239,
+        379
+      ],
+      "estimatedFlightHours": 3.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1381,
+        2194
+      ],
+      "estimatedFlightHours": 25.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1476,
+        2345
+      ],
+      "estimatedFlightHours": 27,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        653,
+        1037
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        929,
+        1476
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        872,
+        1385
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        942,
+        1496
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        863,
+        1370
+      ],
+      "estimatedFlightHours": 15.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        920,
+        1461
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        995,
+        1581
+      ],
+      "estimatedFlightHours": 18,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        982,
+        1559
+      ],
+      "estimatedFlightHours": 17.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        915,
+        1454
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        520,
+        826
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        463,
+        736
+      ],
+      "estimatedFlightHours": 8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        495,
+        786
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        460,
+        730
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        617,
+        980
+      ],
+      "estimatedFlightHours": 10.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        610,
+        969
+      ],
+      "estimatedFlightHours": 10.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Marrakesh Menara Airport (RAK)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        727,
+        1154
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Bahia Palace",
+    "Jardin Majorelle",
+    "Saadian Tombs",
+    "El Badi Palace",
+    "Koutoubia Mosque grounds",
+    "Marrakech Museum",
+    "Ben Youssef Madrasa",
+    "Atlas Mountains day trip",
+    "Agafay Desert camp experience",
+    "Hammam & spa experience",
+    "Jemaa el-Fnaa square",
+    "Souks of the Medina",
+    "Koutoubia Mosque exterior",
+    "Mellah (former Jewish quarter)",
+    "Menara Gardens",
+    "Gueliz new town streets",
+    "Cyber Park (Parc Moulay Abdeslam)",
+    "Rooftop views over the medina",
+    "Atlas Mountains and Imlil villages",
+    "Agafay Desert",
+    "Essaouira coastal town",
+    "Ouzoud Waterfalls",
+    "Museum of Photography",
+    "Yves Saint Laurent Museum",
+    "Cyber Park",
+    "Jardin Majorelle cobalt-blue walls",
+    "Bahia Palace tiled courtyards",
+    "Jemaa el-Fnaa at sunset",
+    "Rooftop medina views",
+    "Ben Youssef Madrasa courtyard"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Bahia Palace",
+      "priceUSD": 8
+    },
+    {
+      "name": "Jardin Majorelle",
+      "priceUSD": 16
+    },
+    {
+      "name": "Saadian Tombs",
+      "priceUSD": 8
+    },
+    {
+      "name": "El Badi Palace",
+      "priceUSD": 7
+    },
+    {
+      "name": "Koutoubia Mosque grounds",
+      "priceUSD": 0
+    },
+    {
+      "name": "Marrakech Museum",
+      "priceUSD": 6
+    },
+    {
+      "name": "Ben Youssef Madrasa",
+      "priceUSD": 8
+    },
+    {
+      "name": "Atlas Mountains day trip",
+      "priceUSD": 60
+    },
+    {
+      "name": "Agafay Desert camp experience",
+      "priceUSD": 75
+    },
+    {
+      "name": "Hammam & spa experience",
+      "priceUSD": 40
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Jemaa el-Fnaa square",
+    "Souks of the Medina",
+    "Koutoubia Mosque exterior",
+    "Mellah (former Jewish quarter)",
+    "Menara Gardens",
+    "Gueliz new town streets",
+    "Cyber Park (Parc Moulay Abdeslam)",
+    "Rooftop views over the medina"
+  ],
+  "museums": [
+    "Marrakech Museum",
+    "Museum of Photography",
+    "Yves Saint Laurent Museum"
+  ],
+  "parks": [
+    "Jardin Majorelle",
+    "Menara Gardens",
+    "Cyber Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Atlas Mountains and Imlil villages",
+    "Agafay Desert",
+    "Essaouira coastal town",
+    "Ouzoud Waterfalls"
+  ],
+  "fromPriceUSD": 1132,
+  "seo": {
+    "title": "Marrakech 10-Day Cultural Tour | Flights, Hotels & Tours Included",
+    "slug": "marrakech-10-day-package",
+    "keywords": [
+      "Marrakech",
+      "Morocco",
+      "Marrakech, Morocco",
+      "North Africa",
+      "Marrakech tour package",
+      "Marrakech vacation package",
+      "Marrakech holiday package",
+      "things to do in Marrakech",
+      "best time to visit Marrakech",
+      "Marrakech itinerary",
+      "10 day Marrakech itinerary",
+      "Marrakech flights and hotels",
+      "Marrakech all inclusive package",
+      "cheap Marrakech package",
+      "luxury Marrakech package"
+    ],
+    "canonicalUrl": "/packages/marrakech-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Marrakech Package",
+        "url": "/packages/marrakech-7-day-package"
+      },
+      {
+        "title": "14-Day Marrakech Package",
+        "url": "/packages/marrakech-14-day-package"
+      },
+      {
+        "title": "Cappadocia 10-Day Adventure Tour",
+        "url": "/packages/cappadocia-10-day-package"
+      },
+      {
+        "title": "Bali 10-Day Beach Getaway",
+        "url": "/packages/bali-10-day-package"
+      },
+      {
+        "title": "Paris 10-Day City Break",
+        "url": "/packages/paris-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Marrakech — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marrakech"
+      },
+      {
+        "title": "Marrakech — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Marrakech"
+      }
+    ]
+  }
+}

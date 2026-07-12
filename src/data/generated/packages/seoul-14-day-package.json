@@ -1,0 +1,1745 @@
+{
+  "id": "PKG-seoul-14D",
+  "slug": "seoul-14-day-package",
+  "destinationSlug": "seoul",
+  "destinationName": "Seoul",
+  "country": "South Korea",
+  "region": "East Asia",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Seoul 14-Day City Break",
+  "metaTitle": "Seoul 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Seoul, South Korea: round-trip flights, hotel, breakfast, transfers, and guided tours including Gyeongbokgung Palace and N Seoul Tower Observatory. Prices from $2355 per person (estimate).",
+  "highlights": [
+    "Gyeongbokgung Palace",
+    "N Seoul Tower Observatory",
+    "Bukchon Hanok Village",
+    "Nami Island"
+  ],
+  "overview": "Spend 14 days discovering Seoul, South Korea — Four distinct seasons: hot, humid summers (Jun-Aug) with a July monsoon, cold dry winters (Dec-Feb) with occasional snow, and short, pleasant spring and autumn shoulder seasons. March to May for cherry blossoms and mild weather, or September to November for crisp air and autumn foliage. This itinerary blends Gyeongbokgung Palace, N Seoul Tower Observatory, Bukchon Hanok Village with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Gyeongbokgung Palace, N Seoul Tower Observatory, Bukchon Hanok Village",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Seoul",
+      "description": "Land at Incheon International Airport (ICN) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Gyeongbokgung Palace — Main royal palace with changing-of-the-guard ceremony. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Gyeongbokgung Palace"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 2,
+      "title": "Seoul: N Seoul Tower Observatory & Lotte World",
+      "description": "Morning visit to N Seoul Tower Observatory — Namsan Mountain viewing deck. In the afternoon, continue to Lotte World — Indoor/outdoor theme park. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "N Seoul Tower Observatory",
+        "Lotte World"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 3,
+      "title": "Seoul: Everland & COEX Aquarium",
+      "description": "Morning visit to Everland — Korea's largest theme park with safari. In the afternoon, continue to COEX Aquarium — Large aquarium beneath COEX Mall. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Everland",
+        "COEX Aquarium"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Nami Island",
+      "description": "Full-day excursion to Nami Island, a popular side trip from Seoul. Return to Seoul in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Nami Island",
+        "Free evening"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Seokchon Lake trail — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Seokchon Lake trail"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 6,
+      "title": "Seoul: Changdeokgung Secret Garden & Leeum Museum of Art",
+      "description": "Morning visit to Changdeokgung Secret Garden — UNESCO palace with guided rear-garden tour. In the afternoon, continue to Leeum Museum of Art — Samsung-founded contemporary and classical art museum. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Changdeokgung Secret Garden",
+        "Leeum Museum of Art"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to DMZ Demilitarized Zone",
+      "description": "Full-day excursion to DMZ Demilitarized Zone, a popular side trip from Seoul. Return to Seoul in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: DMZ Demilitarized Zone",
+        "Free evening"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 8,
+      "title": "Seoul: DMZ & JSA Tour & Lotte World Tower Seoul Sky",
+      "description": "Morning visit to DMZ & JSA Tour — Guided tour to the Demilitarized Zone. In the afternoon, continue to Lotte World Tower Seoul Sky — Observation deck on one of the tallest towers in the world. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "DMZ & JSA Tour",
+        "Lotte World Tower Seoul Sky"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Seonyudo Park — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Seonyudo Park"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Suwon Hwaseong Fortress",
+      "description": "Full-day excursion to Suwon Hwaseong Fortress, a popular side trip from Seoul. Return to Seoul in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Suwon Hwaseong Fortress",
+        "Free evening"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 11,
+      "title": "Seoul: Trickeye Museum Hongdae & Han River Cruise",
+      "description": "Morning visit to Trickeye Museum Hongdae — 3D optical illusion art museum. In the afternoon, continue to Han River Cruise — Evening cruise with city skyline views. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Trickeye Museum Hongdae",
+        "Han River Cruise"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 12,
+      "title": "Seoul: Bukchon Hanok Village & Myeongdong",
+      "description": "Morning visit to Bukchon Hanok Village — Historic hillside neighborhood of traditional hanok houses. In the afternoon, continue to Myeongdong — Bustling shopping and street food district. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Bukchon Hanok Village",
+        "Myeongdong"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Jongmyo Shrine — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Jongmyo Shrine"
+      ],
+      "overnight": "Seoul"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Cheonggyecheon Stream or some souvenir shopping — before your private transfer to ICN for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Use Naver Map or KakaoMap, not Google Maps, which has limited functionality in Korea",
+    "Get a T-money card immediately on arrival",
+    "Tipping is not expected in restaurants or taxis",
+    "Convenience stores (GS25, CU) are excellent for cheap, quick meals",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Insulated jacket and warm layers for cold weather",
+    "Layered clothing for a four-season climate",
+    "Comfortable shoes for extensive subway walking",
+    "Compact umbrella for the July monsoon season",
+    "Portable WiFi or a local SIM for navigation apps"
+  ],
+  "thingsToDo": [
+    "Gyeongbokgung Palace",
+    "N Seoul Tower Observatory",
+    "Lotte World",
+    "Everland",
+    "COEX Aquarium",
+    "Changdeokgung Secret Garden",
+    "Leeum Museum of Art",
+    "DMZ & JSA Tour",
+    "Lotte World Tower Seoul Sky",
+    "Trickeye Museum Hongdae",
+    "Han River Cruise",
+    "Bukchon Hanok Village",
+    "Myeongdong",
+    "Cheonggyecheon Stream",
+    "Gwangjang Market",
+    "Insadong",
+    "Ihwa Mural Village",
+    "Han River Park",
+    "Dongdaemun Design Plaza",
+    "Namdaemun Market"
+  ],
+  "thingsToAvoid": [
+    "Overpaying unlicensed taxis outside Incheon airport instead of using official taxi stands",
+    "Jaywalking, which is strictly enforced",
+    "Keeping shoes on in traditional accommodations and some restaurants",
+    "Assuming English is widely spoken outside tourist districts"
+  ],
+  "topRestaurants": [
+    "Gwangjang Market Food Stalls — Korean street food ($)",
+    "Myeongdong Kyoja — Korean noodles ($$)",
+    "Tosokchon Samgyetang — Ginseng chicken soup ($$)",
+    "Mapo Galmaegi — Korean BBQ ($$)",
+    "Gogung Bibimbap — Korean, Jeonju-style bibimbap ($)",
+    "Jungsik — Modern Korean fine dining ($$$$)",
+    "Pierre Gagnaire à Séoul — French fine dining ($$$$)",
+    "OB Bear — Korean pub food ($)",
+    "Baekje Samgyetang — Traditional Korean ($$)"
+  ],
+  "topCafes": [
+    "Seongsu-dong cafe street",
+    "Ikseon-dong hanok cafes",
+    "Blue Bottle Coffee Seongsu",
+    "Cafe Onion Anguk",
+    "Common Ground container cafe mall"
+  ],
+  "shoppingAreas": [
+    "Myeongdong",
+    "Hongdae",
+    "Dongdaemun Design Plaza night market",
+    "Gangnam underground shopping mall",
+    "Insadong",
+    "COEX Mall"
+  ],
+  "nightlife": [
+    "Itaewon nightlife district",
+    "Hongdae club street",
+    "Gangnam clubbing district (Club Octagon)",
+    "Konkuk University entertainment area"
+  ],
+  "instagramSpots": [
+    "Bukchon Hanok Village alleys",
+    "Ihwa Mural Village",
+    "Lotte World Tower at night",
+    "Banpo Bridge Rainbow Fountain",
+    "Naksan Park sunset viewpoint"
+  ],
+  "hiddenGems": [
+    "Seokchon Lake trail",
+    "Seonyudo Park",
+    "Jongmyo Shrine",
+    "Mullae Art Village"
+  ],
+  "familyActivities": [
+    "Everland theme park",
+    "Lotte World indoor/outdoor park",
+    "Seoul Children's Grand Park",
+    "COEX Aquarium"
+  ],
+  "adventureActivities": [
+    "Bukhansan National Park hiking",
+    "Han River cycling paths",
+    "Seoul Plaza winter ice skating",
+    "Bukhansan rock climbing"
+  ],
+  "luxuryExperiences": [
+    "Private hanbok photoshoot with palace access",
+    "Suite stay at The Shilla Seoul",
+    "Tasting menu at Jungsik",
+    "Private DMZ tour with expert guide"
+  ],
+  "honeymoonExperiences": [
+    "Han River sunset dinner cruise",
+    "Couple hanbok rental at Gyeongbokgung",
+    "Spa day at a luxury jjimjilbang",
+    "N Seoul Tower love-lock ceremony"
+  ],
+  "budgetExperiences": [
+    "Street food crawl at Gwangjang Market",
+    "Free palace changing-of-the-guard ceremony",
+    "Hike Namsan for skyline views",
+    "Explore Hongdae street art and busking"
+  ],
+  "estimatedDailyBudgetUSD": [
+    55,
+    130,
+    240,
+    500
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 85,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 1,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 4,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 11,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 18,
+      "crowd": "Peak"
+    },
+    {
+      "month": "May",
+      "highC": 23,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 27,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 26,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Nov",
+      "highC": 11,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 3,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Yeouido Spring Flower Festival",
+      "timing": "Early-mid April"
+    },
+    {
+      "name": "Boryeong Mud Festival (popular day trip from Seoul)",
+      "timing": "Mid-late July"
+    },
+    {
+      "name": "Chuseok (Korean Thanksgiving)",
+      "timing": "September or October (lunar calendar)"
+    },
+    {
+      "name": "Seoul Lantern Festival",
+      "timing": "November"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "112",
+    "ambulance": "119",
+    "fire": "119"
+  },
+  "localEtiquette": [
+    "Bow slightly and use two hands when giving or receiving items, money, or business cards.",
+    "Remove shoes before entering homes, temples, and many traditional restaurants.",
+    "Pour drinks for others rather than yourself, and turn away slightly when drinking with elders.",
+    "Tipping is not customary and can cause confusion in restaurants and taxis.",
+    "Avoid writing a person's name in red ink, which is associated with death."
+  ],
+  "localTransportGuide": "Buy a T-money card at any convenience store for seamless use across subway, bus, and taxis. The subway is extensive, cheap, and fully signed in English; the Kakao Taxi app is the standard for ride-hailing.",
+  "bestTimeToVisit": "March to May for cherry blossoms and mild weather, or September to November for crisp air and autumn foliage.",
+  "weather": "Four distinct seasons: hot, humid summers (Jun-Aug) with a July monsoon, cold dry winters (Dec-Feb) with occasional snow, and short, pleasant spring and autumn shoulder seasons.",
+  "visaInformation": "Visa-free for up to 90 days for most Western passport holders (US, UK, EU, Canada, Australia) but a K-ETA (Korea Electronic Travel Authorization) is required in advance for visa-exempt travelers; some nationalities need a full visa. Check K-ETA status well before departure.",
+  "currency": "KRW",
+  "languages": [
+    "Korean"
+  ],
+  "timeZone": "KST (UTC+9)",
+  "averageFlightTime": "~11h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Incheon International Airport (ICN)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Seoul?",
+      "answer": "Visa-free for up to 90 days for most Western passport holders (US, UK, EU, Canada, Australia) but a K-ETA (Korea Electronic Travel Authorization) is required in advance for visa-exempt travelers; some nationalities need a full visa. Check K-ETA status well before departure."
+    },
+    {
+      "question": "What is the best time to visit Seoul?",
+      "answer": "March to May for cherry blossoms and mild weather, or September to November for crisp air and autumn foliage. Four distinct seasons: hot, humid summers (Jun-Aug) with a July monsoon, cold dry winters (Dec-Feb) with occasional snow, and short, pleasant spring and autumn shoulder seasons."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Seoul safe for tourists?",
+      "answer": "Seoul is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Seoul?",
+      "answer": "The local currency is KRW. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Food",
+    "Shopping",
+    "Nightlife",
+    "History",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Seoul",
+    "South Korea",
+    "Seoul, South Korea",
+    "East Asia",
+    "Seoul tour package",
+    "Seoul vacation package",
+    "Seoul holiday package",
+    "things to do in Seoul",
+    "best time to visit Seoul",
+    "Seoul itinerary",
+    "14 day Seoul itinerary",
+    "Seoul flights and hotels",
+    "Seoul all inclusive package",
+    "cheap Seoul package",
+    "luxury Seoul package",
+    "Seoul honeymoon package",
+    "Seoul family vacation",
+    "Seoul solo trip",
+    "Seoul group tour",
+    "Seoul weekend getaway",
+    "Seoul guided tour",
+    "ICN flights",
+    "Seoul travel guide",
+    "book Seoul trip online",
+    "Seoul trip cost",
+    "Seoul packages 14 days",
+    "Seoul city break",
+    "Seoul culture",
+    "Seoul food",
+    "Seoul shopping",
+    "Seoul nightlife",
+    "Seoul history",
+    "Seoul bucket list",
+    "Gyeongbokgung Palace",
+    "N Seoul Tower Observatory",
+    "Lotte World",
+    "Everland",
+    "COEX Aquarium",
+    "Changdeokgung Secret Garden",
+    "Leeum Museum of Art",
+    "DMZ & JSA Tour",
+    "Lotte World Tower Seoul Sky",
+    "Trickeye Museum Hongdae",
+    "Han River Cruise",
+    "Bukchon Hanok Village",
+    "Myeongdong",
+    "Cheonggyecheon Stream",
+    "Gwangjang Market",
+    "Insadong",
+    "Ihwa Mural Village"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Seoul, South Korea — Gyeongbokgung Palace hanbok",
+      "keywords": [
+        "Seoul",
+        "South Korea",
+        "Gyeongbokgung Palace hanbok",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Seoul Gyeongbokgung Palace hanbok",
+      "pexelsQuery": "Seoul Gyeongbokgung Palace hanbok",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Seoul, South Korea — Gyeongbokgung Palace hanbok",
+      "keywords": [
+        "Seoul",
+        "South Korea",
+        "Gyeongbokgung Palace hanbok",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Seoul Gyeongbokgung Palace hanbok",
+      "pexelsQuery": "Seoul Gyeongbokgung Palace hanbok",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Seoul, South Korea — Seoul skyline N Tower night",
+      "keywords": [
+        "Seoul",
+        "South Korea",
+        "Seoul skyline N Tower night",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Seoul Seoul skyline N Tower night",
+      "pexelsQuery": "Seoul Seoul skyline N Tower night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Seoul, South Korea — Myeongdong street food",
+      "keywords": [
+        "Seoul",
+        "South Korea",
+        "Myeongdong street food",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Seoul Myeongdong street food",
+      "pexelsQuery": "Seoul Myeongdong street food",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Seoul, South Korea — Gyeongbokgung Palace hanbok",
+      "keywords": [
+        "Seoul",
+        "South Korea",
+        "Gyeongbokgung Palace hanbok",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Seoul Gyeongbokgung Palace hanbok",
+      "pexelsQuery": "Seoul Gyeongbokgung Palace hanbok",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seoul, South Korea — Seoul skyline N Tower night",
+      "keywords": [
+        "Seoul",
+        "South Korea",
+        "Seoul skyline N Tower night",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Seoul Seoul skyline N Tower night",
+      "pexelsQuery": "Seoul Seoul skyline N Tower night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seoul, South Korea — Myeongdong street food",
+      "keywords": [
+        "Seoul",
+        "South Korea",
+        "Myeongdong street food",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Seoul Myeongdong street food",
+      "pexelsQuery": "Seoul Myeongdong street food",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seoul, South Korea — Bukchon Hanok Village alley",
+      "keywords": [
+        "Seoul",
+        "South Korea",
+        "Bukchon Hanok Village alley",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Seoul Bukchon Hanok Village alley",
+      "pexelsQuery": "Seoul Bukchon Hanok Village alley",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seoul, South Korea — Gyeongbokgung Palace",
+      "keywords": [
+        "Seoul",
+        "South Korea",
+        "Gyeongbokgung Palace",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Seoul Gyeongbokgung Palace",
+      "pexelsQuery": "Seoul Gyeongbokgung Palace",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seoul, South Korea — N Seoul Tower Observatory",
+      "keywords": [
+        "Seoul",
+        "South Korea",
+        "N Seoul Tower Observatory",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Seoul N Seoul Tower Observatory",
+      "pexelsQuery": "Seoul N Seoul Tower Observatory",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seoul, South Korea — Lotte World",
+      "keywords": [
+        "Seoul",
+        "South Korea",
+        "Lotte World",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Seoul Lotte World",
+      "pexelsQuery": "Seoul Lotte World",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seoul, South Korea — Everland",
+      "keywords": [
+        "Seoul",
+        "South Korea",
+        "Everland",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Seoul Everland",
+      "pexelsQuery": "Seoul Everland",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-seoul-14-1",
+      "author": "Tom Santos",
+      "country": "Saudi Arabia",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-06-21",
+      "title": "Adventure of a lifetime",
+      "body": "We added a couple of optional activities beyond Ihwa Mural Village and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-2",
+      "author": "Sofia Nguyen",
+      "country": "New Zealand",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-12-25",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a couple trip and it was well paced. Cheonggyecheon Stream in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-3",
+      "author": "Sarah Johnson",
+      "country": "UAE",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-10",
+      "title": "Exceeded our expectations",
+      "body": "Seoul is stunning and this package covered the essentials well, especially DMZ & JSA Tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-4",
+      "author": "Noah Larsen",
+      "country": "France",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-03-23",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to Seoul was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Changdeokgung Secret Garden was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-5",
+      "author": "Ava Cohen",
+      "country": "United Kingdom",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-05",
+      "title": "Great value for money",
+      "body": "N Seoul Tower Observatory alone was worth the trip, but combined with Insadong this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-6",
+      "author": "Emma Khan",
+      "country": "Saudi Arabia",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-10-01",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Seoul was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Ihwa Mural Village was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-7",
+      "author": "Chen Ivanov",
+      "country": "Singapore",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-08",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a family of 4 trip and it was well paced. Lotte World Tower Seoul Sky in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-8",
+      "author": "Yuki Fernandez",
+      "country": "United States",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-15",
+      "title": "Smooth from start to finish",
+      "body": "Gyeongbokgung Palace alone was worth the trip, but combined with Gyeongbokgung Palace this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-9",
+      "author": "Marco van Dijk",
+      "country": "Mexico",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-06-17",
+      "title": "Loved every moment",
+      "body": "We added a couple of optional activities beyond Han River Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-10",
+      "author": "David Williams",
+      "country": "Mexico",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-26",
+      "title": "Great for families with kids",
+      "body": "Seoul is stunning and this package covered the essentials well, especially Han River Park. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-11",
+      "author": "Omar Smith",
+      "country": "United States",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-02-14",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Gyeongbokgung Palace and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-12",
+      "author": "Hiroshi Fernandez",
+      "country": "South Korea",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-05",
+      "title": "Solid mid-range package",
+      "body": "Trickeye Museum Hongdae alone was worth the trip, but combined with Han River Cruise this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-13",
+      "author": "Mia Khan",
+      "country": "Netherlands",
+      "rating": 4.4,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-23",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Gwangjang Market and Changdeokgung Secret Garden. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-14",
+      "author": "Wei Williams",
+      "country": "Australia",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-04-09",
+      "title": "Adventure of a lifetime",
+      "body": "Booked this as a couple trip and it was well paced. Everland in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-15",
+      "author": "Mia Costa",
+      "country": "Australia",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-08-16",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Everland and Myeongdong. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-16",
+      "author": "Lucas Wang",
+      "country": "Switzerland",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-26",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Insadong and Cheonggyecheon Stream. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seoul-14-17",
+      "author": "Sarah Johnson",
+      "country": "Spain",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-09-21",
+      "title": "Best vacation we've had",
+      "body": "Seoul is stunning and this package covered the essentials well, especially Namdaemun Market. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-18",
+      "author": "Noah Williams",
+      "country": "Mexico",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-02-14",
+      "title": "Exceeded our expectations",
+      "body": "Our trip to Seoul was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Han River Park was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seoul-14-19",
+      "author": "Priya Wang",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-29",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a family of 4 trip and it was well paced. Han River Cruise in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seoul-14-20",
+      "author": "Arjun Novak",
+      "country": "Singapore",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-08-25",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a group trip and it was well paced. Lotte World Tower Seoul Sky in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.4,
+    "hotel": 4.2,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Seoul Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 12,
+      "neighborhood": "Myeongdong"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Seoul Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 22,
+      "neighborhood": "Hongdae"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Seoul Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 46,
+      "neighborhood": "Dongdaemun Design Plaza night market"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Seoul Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 59,
+      "neighborhood": "Gangnam underground shopping mall"
+    },
+    {
+      "tier": "Resort",
+      "name": "Seoul Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 120,
+      "neighborhood": "Insadong"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Seoul Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 210,
+      "neighborhood": "COEX Mall"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Seoul Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 250,
+      "neighborhood": "Itaewon nightlife district"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        876,
+        1391
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        842,
+        1338
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        717,
+        1138
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        724,
+        1150
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        694,
+        1103
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        724,
+        1150
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        799,
+        1269
+      ],
+      "estimatedFlightHours": 14.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        694,
+        1103
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        710,
+        1127
+      ],
+      "estimatedFlightHours": 12.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        678,
+        1077
+      ],
+      "estimatedFlightHours": 12,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        772,
+        1226
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        415,
+        659
+      ],
+      "estimatedFlightHours": 7.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        160,
+        254
+      ],
+      "estimatedFlightHours": 2.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        414,
+        657
+      ],
+      "estimatedFlightHours": 7.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        345,
+        548
+      ],
+      "estimatedFlightHours": 5.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        410,
+        651
+      ],
+      "estimatedFlightHours": 7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        459,
+        729
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        266,
+        423
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        337,
+        535
+      ],
+      "estimatedFlightHours": 5.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        567,
+        900
+      ],
+      "estimatedFlightHours": 9.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        622,
+        988
+      ],
+      "estimatedFlightHours": 11,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        590,
+        937
+      ],
+      "estimatedFlightHours": 10.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        594,
+        944
+      ],
+      "estimatedFlightHours": 10.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        978,
+        1554
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1402,
+        2226
+      ],
+      "estimatedFlightHours": 25.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Incheon International Airport (ICN)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        947,
+        1504
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Gyeongbokgung Palace",
+    "N Seoul Tower Observatory",
+    "Lotte World",
+    "Everland",
+    "COEX Aquarium",
+    "Changdeokgung Secret Garden",
+    "Leeum Museum of Art",
+    "DMZ & JSA Tour",
+    "Lotte World Tower Seoul Sky",
+    "Trickeye Museum Hongdae",
+    "Han River Cruise",
+    "Bukchon Hanok Village",
+    "Myeongdong",
+    "Cheonggyecheon Stream",
+    "Gwangjang Market",
+    "Insadong",
+    "Ihwa Mural Village",
+    "Han River Park",
+    "Dongdaemun Design Plaza",
+    "Namdaemun Market",
+    "Nami Island",
+    "DMZ Demilitarized Zone",
+    "Suwon Hwaseong Fortress",
+    "Incheon Chinatown",
+    "National Museum of Korea",
+    "War Memorial of Korea",
+    "Trickeye Museum",
+    "Namsan Park",
+    "Seoul Forest",
+    "Olympic Park",
+    "Bukchon Hanok Village alleys",
+    "Lotte World Tower at night",
+    "Banpo Bridge Rainbow Fountain",
+    "Naksan Park sunset viewpoint"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Gyeongbokgung Palace",
+      "priceUSD": 3
+    },
+    {
+      "name": "N Seoul Tower Observatory",
+      "priceUSD": 11
+    },
+    {
+      "name": "Lotte World",
+      "priceUSD": 46
+    },
+    {
+      "name": "Everland",
+      "priceUSD": 55
+    },
+    {
+      "name": "COEX Aquarium",
+      "priceUSD": 29
+    },
+    {
+      "name": "Changdeokgung Secret Garden",
+      "priceUSD": 8
+    },
+    {
+      "name": "Leeum Museum of Art",
+      "priceUSD": 15
+    },
+    {
+      "name": "DMZ & JSA Tour",
+      "priceUSD": 60
+    },
+    {
+      "name": "Lotte World Tower Seoul Sky",
+      "priceUSD": 27
+    },
+    {
+      "name": "Trickeye Museum Hongdae",
+      "priceUSD": 18
+    },
+    {
+      "name": "Han River Cruise",
+      "priceUSD": 20
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Bukchon Hanok Village",
+    "Myeongdong",
+    "Cheonggyecheon Stream",
+    "Gwangjang Market",
+    "Insadong",
+    "Ihwa Mural Village",
+    "Han River Park",
+    "Dongdaemun Design Plaza",
+    "Namdaemun Market"
+  ],
+  "museums": [
+    "National Museum of Korea",
+    "Leeum Museum of Art",
+    "War Memorial of Korea",
+    "Trickeye Museum"
+  ],
+  "parks": [
+    "Namsan Park",
+    "Han River Park",
+    "Seoul Forest",
+    "Olympic Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Nami Island",
+    "DMZ Demilitarized Zone",
+    "Suwon Hwaseong Fortress",
+    "Incheon Chinatown"
+  ],
+  "fromPriceUSD": 2355,
+  "seo": {
+    "title": "Seoul 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "seoul-14-day-package",
+    "keywords": [
+      "Seoul",
+      "South Korea",
+      "Seoul, South Korea",
+      "East Asia",
+      "Seoul tour package",
+      "Seoul vacation package",
+      "Seoul holiday package",
+      "things to do in Seoul",
+      "best time to visit Seoul",
+      "Seoul itinerary",
+      "14 day Seoul itinerary",
+      "Seoul flights and hotels",
+      "Seoul all inclusive package",
+      "cheap Seoul package",
+      "luxury Seoul package"
+    ],
+    "canonicalUrl": "/packages/seoul-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Seoul Package",
+        "url": "/packages/seoul-10-day-package"
+      },
+      {
+        "title": "7-Day Seoul Package",
+        "url": "/packages/seoul-7-day-package"
+      },
+      {
+        "title": "London 14-Day City Break",
+        "url": "/packages/london-14-day-package"
+      },
+      {
+        "title": "Lisbon 14-Day City Break",
+        "url": "/packages/lisbon-14-day-package"
+      },
+      {
+        "title": "Istanbul 14-Day City Break",
+        "url": "/packages/istanbul-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Seoul — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seoul"
+      },
+      {
+        "title": "Seoul — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Seoul"
+      }
+    ]
+  }
+}

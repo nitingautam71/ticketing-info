@@ -1,0 +1,1602 @@
+{
+  "id": "PKG-dubai-3D",
+  "slug": "dubai-3-day-package",
+  "destinationSlug": "dubai",
+  "destinationName": "Dubai",
+  "country": "United Arab Emirates",
+  "region": "Middle East",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Dubai 3-Day Luxury Escape",
+  "metaTitle": "Dubai 3-Day Luxury Escape | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Dubai, United Arab Emirates: round-trip flights, hotel, breakfast, transfers, and guided tours including Burj Khalifa (At the Top observation deck) and Dubai Mall Aquarium & Underwater Zoo. Prices from $1557 per person (estimate).",
+  "highlights": [
+    "Burj Khalifa (At the Top observation deck)",
+    "Dubai Mall Aquarium & Underwater Zoo",
+    "Dubai Fountain show (standard viewing)",
+    "Desert dune bashing and quad biking",
+    "Stay in an underwater or overwater suite at Atlantis The Palm",
+    "Abu Dhabi (Sheikh Zayed Grand Mosque, Louvre Abu Dhabi)"
+  ],
+  "overview": "Spend 3 days discovering Dubai, United Arab Emirates — Desert climate with mild, sunny winters (highs 24°C) and extremely hot, humid summers (highs 41°C) where outdoor activity is largely limited to early morning or evening. November to March offers pleasantly warm, dry weather ideal for outdoor sightseeing, desert safaris and beach time. This itinerary blends Burj Khalifa (At the Top observation deck), Dubai Mall Aquarium & Underwater Zoo, Dubai Fountain show (standard viewing) with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Burj Khalifa (At the Top observation deck), Dubai Mall Aquarium & Underwater Zoo, Dubai Fountain show (standard viewing)",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Dubai",
+      "description": "Land at Dubai International Airport (DXB) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Burj Khalifa (At the Top observation deck) — World's tallest building with sky-high viewing decks. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Burj Khalifa (At the Top observation deck)"
+      ],
+      "overnight": "Dubai"
+    },
+    {
+      "day": 2,
+      "title": "Dubai: Dubai Mall Aquarium & Underwater Zoo & Desert safari with dune bashing & BBQ dinner",
+      "description": "Morning visit to Dubai Mall Aquarium & Underwater Zoo — Massive aquarium tank inside the world's largest mall. In the afternoon, continue to Desert safari with dune bashing & BBQ dinner — Evening 4x4 desert tour with entertainment. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Dubai Mall Aquarium & Underwater Zoo",
+        "Desert safari with dune bashing & BBQ dinner"
+      ],
+      "overnight": "Dubai"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Palm Jumeirah / Atlantis Aquaventure Waterpark or some souvenir shopping — before your private transfer to DXB for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Visit outdoor attractions and do desert safaris between November and March to avoid extreme summer heat.",
+    "Book Burj Khalifa \"At the Top\" tickets for sunset slots — they sell out and offer the best views.",
+    "Malls double as social hubs with free entertainment (fountain shows, ice rinks) — budget time to explore them.",
+    "Alcohol is only available in licensed hotel bars/restaurants, not supermarkets, so plan accordingly.",
+    "Friday is the start of the weekend in the UAE — some government offices and services close.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Modest clothing for malls and public areas outside beach/pool zones",
+    "Light, breathable fabrics for extreme heat",
+    "A light jacket for heavily air-conditioned malls and restaurants",
+    "Sun protection for desert and beach excursions"
+  ],
+  "thingsToDo": [
+    "Burj Khalifa (At the Top observation deck)",
+    "Dubai Mall Aquarium & Underwater Zoo",
+    "Desert safari with dune bashing & BBQ dinner",
+    "Palm Jumeirah / Atlantis Aquaventure Waterpark",
+    "Dubai Frame",
+    "Museum of the Future",
+    "Dubai Fountain show viewing (VIP boardwalk)",
+    "Ski Dubai",
+    "Global Village (seasonal)",
+    "Dhow dinner cruise on Dubai Creek/Marina",
+    "Dubai Fountain show (standard viewing)",
+    "Jumeirah Beach",
+    "Dubai Marina Walk",
+    "Al Fahidi Historical Neighbourhood",
+    "Dubai Creek & abra boat crossing",
+    "Gold Souk & Spice Souk",
+    "Kite Beach",
+    "La Mer beachfront district",
+    "Burj Al Arab exterior viewpoint",
+    "Desert dune bashing and quad biking"
+  ],
+  "thingsToAvoid": [
+    "Public displays of affection — even hand-holding beyond light contact can draw unwanted attention.",
+    "Photographing government buildings, military installations, or people without consent.",
+    "Drinking alcohol outside licensed venues, or being visibly intoxicated in public — both carry legal risk.",
+    "Overpacking the summer months with extensive outdoor plans — the heat can be genuinely dangerous.",
+    "Assuming all beaches are free — some upscale beach clubs charge a day-pass entry fee."
+  ],
+  "topRestaurants": [
+    "Al Ustad Special Kabab — Persian/Emirati ($)",
+    "Pierchic — Seafood Fine Dining (overwater) ($$$$)",
+    "Ravi Restaurant — Pakistani ($)",
+    "Al Fanar Restaurant — Traditional Emirati ($$)",
+    "Zuma Dubai — Contemporary Japanese ($$$$)",
+    "Arabian Tea House — Emirati Café ($$)",
+    "Bu Qtair — Fresh Seafood Shack ($$)",
+    "At.mosphere (Burj Khalifa) — Fine Dining International ($$$$)"
+  ],
+  "topCafes": [
+    "Arabian Tea House",
+    "Nezesaussi Grill Café",
+    "Common Grounds",
+    "Comptoir 102",
+    "Tom & Serg"
+  ],
+  "shoppingAreas": [
+    "The Dubai Mall",
+    "Mall of the Emirates",
+    "Gold Souk",
+    "Ibn Battuta Mall",
+    "City Walk"
+  ],
+  "nightlife": [
+    "White Dubai nightclub",
+    "Zero Gravity beach club",
+    "Level 43 Sky Lounge",
+    "Barasti Beach Bar"
+  ],
+  "instagramSpots": [
+    "Burj Khalifa and Dubai Fountain",
+    "Palm Jumeirah aerial view",
+    "Museum of the Future façade",
+    "Burj Al Arab from Jumeirah Beach",
+    "Dubai Frame"
+  ],
+  "hiddenGems": [
+    "Al Seef heritage waterfront district",
+    "Alserkal Avenue art district",
+    "Dubai Creek abra crossing at sunset",
+    "Jumeirah Mosque guided visit"
+  ],
+  "familyActivities": [
+    "Atlantis Aquaventure Waterpark",
+    "Dubai Aquarium & Underwater Zoo",
+    "IMG Worlds of Adventure theme park",
+    "Ski Dubai snow park"
+  ],
+  "adventureActivities": [
+    "Desert dune bashing and quad biking",
+    "Skydiving over Palm Jumeirah",
+    "Deep-sea fishing charters",
+    "Zipline at Dubai Marina (XLine)"
+  ],
+  "luxuryExperiences": [
+    "Stay in an underwater or overwater suite at Atlantis The Palm",
+    "Private yacht charter along the Marina and Palm",
+    "Fine dining at Pierchic overwater restaurant",
+    "Helicopter tour over the Palm and Burj Al Arab"
+  ],
+  "honeymoonExperiences": [
+    "Sunset dhow dinner cruise on Dubai Marina",
+    "Private desert camp dinner under the stars",
+    "Overwater suite stay at Atlantis The Palm",
+    "Champagne at At.mosphere atop the Burj Khalifa"
+  ],
+  "budgetExperiences": [
+    "Free Dubai Fountain show viewing",
+    "Relax at public Jumeirah or Kite Beach",
+    "Explore Al Fahidi Historical Neighbourhood on foot",
+    "Abra boat crossing on Dubai Creek for a few dirhams"
+  ],
+  "estimatedDailyBudgetUSD": [
+    80,
+    180,
+    350,
+    900
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 45,
+  "accessibilityRating": 5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 33,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 38,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 40,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 41,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 41,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 38,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 34,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 25,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Dubai Shopping Festival",
+      "timing": "December to January"
+    },
+    {
+      "name": "Dubai Food Festival",
+      "timing": "February to March"
+    },
+    {
+      "name": "Ramadan and Eid al-Fitr",
+      "timing": "Varies yearly by lunar calendar"
+    },
+    {
+      "name": "Dubai World Cup (horse racing)",
+      "timing": "Late March"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "999",
+    "ambulance": "998",
+    "fire": "997"
+  },
+  "localEtiquette": [
+    "Dress modestly in public areas and malls — shoulders and knees covered; swimwear is only appropriate at pools and beaches.",
+    "Public displays of affection are frowned upon and can be legally problematic — keep contact minimal.",
+    "During Ramadan, avoid eating, drinking or smoking in public during daylight hours.",
+    "Alcohol is only served in licensed venues (hotels, some restaurants) — public intoxication is illegal.",
+    "Photography of government buildings, military sites, or local people without permission should be avoided."
+  ],
+  "localTransportGuide": "The Dubai Metro is modern, driverless and air-conditioned, connecting most major attractions along two lines with a Nol card for payment. Taxis and ride-hailing apps (Careem, Uber) are affordable and widely used for areas the metro doesn't reach, like Palm Jumeirah.",
+  "bestTimeToVisit": "November to March offers pleasantly warm, dry weather ideal for outdoor sightseeing, desert safaris and beach time.",
+  "weather": "Desert climate with mild, sunny winters (highs 24°C) and extremely hot, humid summers (highs 41°C) where outdoor activity is largely limited to early morning or evening.",
+  "visaInformation": "Many nationalities including the US, UK, Canada, Australia and EU citizens receive visa-on-arrival or a free 30/90-day visit visa depending on passport; some nationalities can also apply for an e-Visa in advance. Always verify current requirements against your specific passport before travel.",
+  "currency": "AED",
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "timeZone": "GST (UTC+4)",
+  "averageFlightTime": "~9.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Dubai International Airport (DXB)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Dubai?",
+      "answer": "Many nationalities including the US, UK, Canada, Australia and EU citizens receive visa-on-arrival or a free 30/90-day visit visa depending on passport; some nationalities can also apply for an e-Visa in advance. Always verify current requirements against your specific passport before travel."
+    },
+    {
+      "question": "What is the best time to visit Dubai?",
+      "answer": "November to March offers pleasantly warm, dry weather ideal for outdoor sightseeing, desert safaris and beach time. Desert climate with mild, sunny winters (highs 24°C) and extremely hot, humid summers (highs 41°C) where outdoor activity is largely limited to early morning or evening."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Dubai safe for tourists?",
+      "answer": "Dubai is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Dubai?",
+      "answer": "The local currency is AED. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include Atlantis Aquaventure Waterpark."
+    }
+  ],
+  "categories": [
+    "Luxury",
+    "City Break",
+    "Shopping",
+    "Adventure",
+    "Family",
+    "Nightlife",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Dubai",
+    "United Arab Emirates",
+    "Dubai, United Arab Emirates",
+    "Middle East",
+    "Dubai tour package",
+    "Dubai vacation package",
+    "Dubai holiday package",
+    "things to do in Dubai",
+    "best time to visit Dubai",
+    "Dubai itinerary",
+    "3 day Dubai itinerary",
+    "Dubai flights and hotels",
+    "Dubai all inclusive package",
+    "cheap Dubai package",
+    "luxury Dubai package",
+    "Dubai honeymoon package",
+    "Dubai family vacation",
+    "Dubai solo trip",
+    "Dubai group tour",
+    "Dubai weekend getaway",
+    "Dubai guided tour",
+    "DXB flights",
+    "Dubai travel guide",
+    "book Dubai trip online",
+    "Dubai trip cost",
+    "Dubai packages 3 days",
+    "Dubai luxury",
+    "Dubai city break",
+    "Dubai shopping",
+    "Dubai adventure",
+    "Dubai family",
+    "Dubai nightlife",
+    "Burj Khalifa (At the Top observation deck)",
+    "Dubai Mall Aquarium & Underwater Zoo",
+    "Desert safari with dune bashing & BBQ dinner",
+    "Palm Jumeirah / Atlantis Aquaventure Waterpark",
+    "Dubai Frame",
+    "Museum of the Future",
+    "Dubai Fountain show viewing (VIP boardwalk)",
+    "Ski Dubai",
+    "Global Village (seasonal)",
+    "Dhow dinner cruise on Dubai Creek/Marina",
+    "Dubai Fountain show (standard viewing)",
+    "Jumeirah Beach",
+    "Dubai Marina Walk",
+    "Al Fahidi Historical Neighbourhood",
+    "Dubai Creek & abra boat crossing",
+    "Gold Souk & Spice Souk",
+    "Kite Beach",
+    "La Mer beachfront district"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Dubai, United Arab Emirates — Burj Khalifa skyline",
+      "keywords": [
+        "Dubai",
+        "United Arab Emirates",
+        "Burj Khalifa skyline",
+        "Luxury",
+        "City Break"
+      ],
+      "unsplashQuery": "Dubai Burj Khalifa skyline",
+      "pexelsQuery": "Dubai Burj Khalifa skyline",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Dubai, United Arab Emirates — Burj Khalifa skyline",
+      "keywords": [
+        "Dubai",
+        "United Arab Emirates",
+        "Burj Khalifa skyline",
+        "Luxury",
+        "City Break"
+      ],
+      "unsplashQuery": "Dubai Burj Khalifa skyline",
+      "pexelsQuery": "Dubai Burj Khalifa skyline",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Dubai, United Arab Emirates — Palm Jumeirah aerial",
+      "keywords": [
+        "Dubai",
+        "United Arab Emirates",
+        "Palm Jumeirah aerial",
+        "Luxury",
+        "City Break"
+      ],
+      "unsplashQuery": "Dubai Palm Jumeirah aerial",
+      "pexelsQuery": "Dubai Palm Jumeirah aerial",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Dubai, United Arab Emirates — desert dune safari",
+      "keywords": [
+        "Dubai",
+        "United Arab Emirates",
+        "desert dune safari",
+        "Luxury",
+        "City Break"
+      ],
+      "unsplashQuery": "Dubai desert dune safari",
+      "pexelsQuery": "Dubai desert dune safari",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Dubai, United Arab Emirates — Burj Khalifa skyline",
+      "keywords": [
+        "Dubai",
+        "United Arab Emirates",
+        "Burj Khalifa skyline",
+        "Luxury",
+        "City Break"
+      ],
+      "unsplashQuery": "Dubai Burj Khalifa skyline",
+      "pexelsQuery": "Dubai Burj Khalifa skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dubai, United Arab Emirates — Palm Jumeirah aerial",
+      "keywords": [
+        "Dubai",
+        "United Arab Emirates",
+        "Palm Jumeirah aerial",
+        "Luxury",
+        "City Break"
+      ],
+      "unsplashQuery": "Dubai Palm Jumeirah aerial",
+      "pexelsQuery": "Dubai Palm Jumeirah aerial",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dubai, United Arab Emirates — desert dune safari",
+      "keywords": [
+        "Dubai",
+        "United Arab Emirates",
+        "desert dune safari",
+        "Luxury",
+        "City Break"
+      ],
+      "unsplashQuery": "Dubai desert dune safari",
+      "pexelsQuery": "Dubai desert dune safari",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dubai, United Arab Emirates — Dubai Marina night lights",
+      "keywords": [
+        "Dubai",
+        "United Arab Emirates",
+        "Dubai Marina night lights",
+        "Luxury",
+        "City Break"
+      ],
+      "unsplashQuery": "Dubai Dubai Marina night lights",
+      "pexelsQuery": "Dubai Dubai Marina night lights",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dubai, United Arab Emirates — Burj Khalifa (At the Top observation deck)",
+      "keywords": [
+        "Dubai",
+        "United Arab Emirates",
+        "Burj Khalifa (At the Top observation deck)",
+        "Luxury",
+        "City Break"
+      ],
+      "unsplashQuery": "Dubai Burj Khalifa (At the Top observation deck)",
+      "pexelsQuery": "Dubai Burj Khalifa (At the Top observation deck)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dubai, United Arab Emirates — Dubai Mall Aquarium & Underwater Zoo",
+      "keywords": [
+        "Dubai",
+        "United Arab Emirates",
+        "Dubai Mall Aquarium & Underwater Zoo",
+        "Luxury",
+        "City Break"
+      ],
+      "unsplashQuery": "Dubai Dubai Mall Aquarium & Underwater Zoo",
+      "pexelsQuery": "Dubai Dubai Mall Aquarium & Underwater Zoo",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dubai, United Arab Emirates — Desert safari with dune bashing & BBQ dinner",
+      "keywords": [
+        "Dubai",
+        "United Arab Emirates",
+        "Desert safari with dune bashing & BBQ dinner",
+        "Luxury",
+        "City Break"
+      ],
+      "unsplashQuery": "Dubai Desert safari with dune bashing & BBQ dinner",
+      "pexelsQuery": "Dubai Desert safari with dune bashing & BBQ dinner",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dubai, United Arab Emirates — Palm Jumeirah / Atlantis Aquaventure Waterpark",
+      "keywords": [
+        "Dubai",
+        "United Arab Emirates",
+        "Palm Jumeirah / Atlantis Aquaventure Waterpark",
+        "Luxury",
+        "City Break"
+      ],
+      "unsplashQuery": "Dubai Palm Jumeirah / Atlantis Aquaventure Waterpark",
+      "pexelsQuery": "Dubai Palm Jumeirah / Atlantis Aquaventure Waterpark",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-dubai-3-1",
+      "author": "Isabella Dubois",
+      "country": "Brazil",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-07",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Dubai Fountain show (standard viewing) and Jumeirah Beach. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-2",
+      "author": "Arjun Patel",
+      "country": "Netherlands",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-20",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a couple trip and it was well paced. Al Fahidi Historical Neighbourhood in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-3",
+      "author": "Marco Nguyen",
+      "country": "UAE",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-02-09",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Ski Dubai and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-4",
+      "author": "Mia Johnson",
+      "country": "United Kingdom",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-17",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Dubai Mall Aquarium & Underwater Zoo and Dubai Fountain show viewing (VIP boardwalk). Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-dubai-3-5",
+      "author": "James Brown",
+      "country": "Italy",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-08-22",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Dubai was fantastic from start to finish. The hotel was clean and well located, and the guided visit to La Mer beachfront district was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-6",
+      "author": "Fatima Nguyen",
+      "country": "Spain",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-09",
+      "title": "So many hidden gems included",
+      "body": "Burj Al Arab exterior viewpoint alone was worth the trip, but combined with Global Village (seasonal) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-7",
+      "author": "James Johnson",
+      "country": "Japan",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-06-23",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Dubai was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Dubai Fountain show (standard viewing) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-8",
+      "author": "Elena Ivanov",
+      "country": "United Kingdom",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-26",
+      "title": "Loved every moment",
+      "body": "We added a couple of optional activities beyond Dubai Mall Aquarium & Underwater Zoo and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-9",
+      "author": "Priya Johnson",
+      "country": "South Korea",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-05",
+      "title": "Loved every moment",
+      "body": "Booked this as a solo trip and it was well paced. Dhow dinner cruise on Dubai Creek/Marina in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-10",
+      "author": "Tom Ibrahim",
+      "country": "United Kingdom",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-04",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Dubai Mall Aquarium & Underwater Zoo and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-11",
+      "author": "Liam Novak",
+      "country": "Germany",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-10",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Dubai was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Dubai Frame was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-12",
+      "author": "Mia Patel",
+      "country": "South Africa",
+      "rating": 4.4,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-08",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Jumeirah Beach and Dubai Fountain show (standard viewing). Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-13",
+      "author": "Ethan Patel",
+      "country": "Mexico",
+      "rating": 4.4,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-25",
+      "title": "Highly recommend this package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Kite Beach and Jumeirah Beach. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-dubai-3-14",
+      "author": "David Sharma",
+      "country": "Australia",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-12-20",
+      "title": "Loved every moment",
+      "body": "Dubai is stunning and this package covered the essentials well, especially Desert safari with dune bashing & BBQ dinner. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-dubai-3-15",
+      "author": "Nadia Larsen",
+      "country": "Brazil",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-26",
+      "title": "Loved every moment",
+      "body": "Dubai is stunning and this package covered the essentials well, especially Jumeirah Beach. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-16",
+      "author": "Lucas Novak",
+      "country": "New Zealand",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-22",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Dubai Marina Walk and Kite Beach. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-17",
+      "author": "James Müller",
+      "country": "India",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-04-17",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Dubai was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Dubai Fountain show viewing (VIP boardwalk) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dubai-3-18",
+      "author": "David Williams",
+      "country": "Mexico",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-04-03",
+      "title": "Luxury without the hassle",
+      "body": "Dubai is stunning and this package covered the essentials well, especially Kite Beach. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-dubai-3-19",
+      "author": "Ethan Costa",
+      "country": "Netherlands",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2025-01-08",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Al Fahidi Historical Neighbourhood and Kite Beach. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-dubai-3-20",
+      "author": "Wei Fernandez",
+      "country": "Canada",
+      "rating": 4.1,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-18",
+      "title": "Great for families with kids",
+      "body": "Booked this as a group trip and it was well paced. Desert safari with dune bashing & BBQ dinner in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Dubai Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 18,
+      "neighborhood": "The Dubai Mall"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Dubai Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "Mall of the Emirates"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Dubai Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 63,
+      "neighborhood": "Gold Souk"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Dubai Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 81,
+      "neighborhood": "Ibn Battuta Mall"
+    },
+    {
+      "tier": "Resort",
+      "name": "Dubai Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 175,
+      "neighborhood": "City Walk"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Dubai Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 378,
+      "neighborhood": "White Dubai nightclub"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Dubai Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 450,
+      "neighborhood": "Zero Gravity beach club"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        872,
+        1385
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        876,
+        1392
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        472,
+        749
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        456,
+        724
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        426,
+        676
+      ],
+      "estimatedFlightHours": 7.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        388,
+        617
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        485,
+        771
+      ],
+      "estimatedFlightHours": 8.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        450,
+        714
+      ],
+      "estimatedFlightHours": 7.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        421,
+        668
+      ],
+      "estimatedFlightHours": 7.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        947,
+        1504
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1102,
+        1751
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        235,
+        374
+      ],
+      "estimatedFlightHours": 3.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        649,
+        1031
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        567,
+        900
+      ],
+      "estimatedFlightHours": 9.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        498,
+        791
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        429,
+        682
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        476,
+        756
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        552,
+        876
+      ],
+      "estimatedFlightHours": 9.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        575,
+        914
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        483,
+        767
+      ],
+      "estimatedFlightHours": 8.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        139,
+        221
+      ],
+      "estimatedFlightHours": 1.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        104,
+        165
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        139,
+        220
+      ],
+      "estimatedFlightHours": 1.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        541,
+        859
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        960,
+        1524
+      ],
+      "estimatedFlightHours": 17.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Dubai International Airport (DXB)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1112,
+        1766
+      ],
+      "estimatedFlightHours": 20.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Burj Khalifa (At the Top observation deck)",
+    "Dubai Mall Aquarium & Underwater Zoo",
+    "Desert safari with dune bashing & BBQ dinner",
+    "Palm Jumeirah / Atlantis Aquaventure Waterpark",
+    "Dubai Frame",
+    "Museum of the Future",
+    "Dubai Fountain show viewing (VIP boardwalk)",
+    "Ski Dubai",
+    "Global Village (seasonal)",
+    "Dhow dinner cruise on Dubai Creek/Marina",
+    "Dubai Fountain show (standard viewing)",
+    "Jumeirah Beach",
+    "Dubai Marina Walk",
+    "Al Fahidi Historical Neighbourhood",
+    "Dubai Creek & abra boat crossing",
+    "Gold Souk & Spice Souk",
+    "Kite Beach",
+    "La Mer beachfront district",
+    "Burj Al Arab exterior viewpoint",
+    "Abu Dhabi (Sheikh Zayed Grand Mosque, Louvre Abu Dhabi)",
+    "Hatta mountain region",
+    "Sharjah",
+    "Al Ain oasis city",
+    "Etihad Museum",
+    "Dubai Museum (Al Fahidi Fort)",
+    "Zabeel Park",
+    "Al Barsha Pond Park",
+    "Safa Park",
+    "La Mer Beach",
+    "Burj Khalifa and Dubai Fountain",
+    "Palm Jumeirah aerial view",
+    "Museum of the Future façade",
+    "Burj Al Arab from Jumeirah Beach"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Burj Khalifa (At the Top observation deck)",
+      "priceUSD": 45
+    },
+    {
+      "name": "Dubai Mall Aquarium & Underwater Zoo",
+      "priceUSD": 35
+    },
+    {
+      "name": "Desert safari with dune bashing & BBQ dinner",
+      "priceUSD": 65
+    },
+    {
+      "name": "Palm Jumeirah / Atlantis Aquaventure Waterpark",
+      "priceUSD": 85
+    },
+    {
+      "name": "Dubai Frame",
+      "priceUSD": 16
+    },
+    {
+      "name": "Museum of the Future",
+      "priceUSD": 40
+    },
+    {
+      "name": "Dubai Fountain show viewing (VIP boardwalk)",
+      "priceUSD": 10
+    },
+    {
+      "name": "Ski Dubai",
+      "priceUSD": 55
+    },
+    {
+      "name": "Global Village (seasonal)",
+      "priceUSD": 4
+    },
+    {
+      "name": "Dhow dinner cruise on Dubai Creek/Marina",
+      "priceUSD": 50
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Dubai Fountain show (standard viewing)",
+    "Jumeirah Beach",
+    "Dubai Marina Walk",
+    "Al Fahidi Historical Neighbourhood",
+    "Dubai Creek & abra boat crossing",
+    "Gold Souk & Spice Souk",
+    "Kite Beach",
+    "La Mer beachfront district",
+    "Burj Al Arab exterior viewpoint"
+  ],
+  "museums": [
+    "Museum of the Future",
+    "Etihad Museum",
+    "Dubai Museum (Al Fahidi Fort)"
+  ],
+  "parks": [
+    "Zabeel Park",
+    "Al Barsha Pond Park",
+    "Safa Park"
+  ],
+  "beaches": [
+    "Jumeirah Beach",
+    "Kite Beach",
+    "La Mer Beach"
+  ],
+  "dayTrips": [
+    "Abu Dhabi (Sheikh Zayed Grand Mosque, Louvre Abu Dhabi)",
+    "Hatta mountain region",
+    "Sharjah",
+    "Al Ain oasis city"
+  ],
+  "fromPriceUSD": 1557,
+  "seo": {
+    "title": "Dubai 3-Day Luxury Escape | Flights, Hotels & Tours Included",
+    "slug": "dubai-3-day-package",
+    "keywords": [
+      "Dubai",
+      "United Arab Emirates",
+      "Dubai, United Arab Emirates",
+      "Middle East",
+      "Dubai tour package",
+      "Dubai vacation package",
+      "Dubai holiday package",
+      "things to do in Dubai",
+      "best time to visit Dubai",
+      "Dubai itinerary",
+      "3 day Dubai itinerary",
+      "Dubai flights and hotels",
+      "Dubai all inclusive package",
+      "cheap Dubai package",
+      "luxury Dubai package"
+    ],
+    "canonicalUrl": "/packages/dubai-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Dubai Package",
+        "url": "/packages/dubai-2-day-package"
+      },
+      {
+        "title": "5-Day Dubai Package",
+        "url": "/packages/dubai-5-day-package"
+      },
+      {
+        "title": "Singapore 3-Day City Break",
+        "url": "/packages/singapore-3-day-package"
+      },
+      {
+        "title": "Bangkok 3-Day City Break",
+        "url": "/packages/bangkok-3-day-package"
+      },
+      {
+        "title": "Las Vegas 3-Day Nightlife Getaway",
+        "url": "/packages/las-vegas-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Dubai — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dubai"
+      },
+      {
+        "title": "Dubai — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Dubai"
+      }
+    ]
+  }
+}
