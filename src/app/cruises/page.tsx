@@ -4,9 +4,13 @@ import CruiseSearch from '@/components/search/CruiseSearch';
 import { HERO_COPY } from '@/lib/nav';
 
 export const metadata: Metadata = {
-  title: 'Cruise Search — Ocean Voyages & Cabin Classes',
-  description: 'Browse cruise itineraries, ports of call, and cabin classes, then book with a real travel consultant.',
+  title: 'Cruise Packages — Ocean Voyages & Cabin Classes',
+  description: 'Browse cruise packages, itineraries, ports of call, and cabin classes for domestic and international sailings, then book with a real travel consultant.',
   alternates: { canonical: '/cruises' },
+  openGraph: {
+    title: 'Cruise Packages — Ocean Voyages & Cabin Classes | Ticketing-Info',
+    description: 'Browse cruise packages, itineraries, ports of call, and cabin classes, then book with a real travel consultant.',
+  },
 };
 
 export default function CruisesPage() {

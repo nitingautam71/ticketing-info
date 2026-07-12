@@ -6,6 +6,7 @@ import { usePathname } from 'next/navigation';
 import { Plane, Bot, Phone, MessageCircle } from 'lucide-react';
 import { MAIN_NAV, HERO_ROUTES } from '@/lib/nav';
 import { telLink, whatsappLink, businessPhoneDisplay } from '@/lib/whatsapp';
+import { trackEvent } from '@/lib/analytics';
 
 export default function Header() {
   const pathname = usePathname();
@@ -69,6 +70,7 @@ export default function Header() {
             href={whatsappLink("Hi! I'd like help planning a trip.")}
             target="_blank"
             rel="noopener noreferrer"
+            onClick={() => trackEvent('whatsapp_click', { source: 'header', page: pathname })}
             className="w-8 h-8 rounded-full flex items-center justify-center glass-soft text-emerald-400 hover:bg-white/15 transition-all"
             title="Chat on WhatsApp"
           >
@@ -77,6 +79,7 @@ export default function Header() {
 
           <a
             href={telLink()}
+            onClick={() => trackEvent('call_click', { source: 'header', page: pathname })}
             className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-bold bg-emerald-500 text-neutral-950 hover:bg-emerald-400 transition-all shadow-lg shadow-emerald-500/30 cursor-pointer"
           >
             <Phone className="w-3.5 h-3.5" />

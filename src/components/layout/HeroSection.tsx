@@ -1,3 +1,5 @@
+import Link from 'next/link';
+import { ArrowRight, Compass } from 'lucide-react';
 import { HeroVideo } from './HeroVideo';
 
 export default function HeroSection({ eyebrow, title, sub }: { eyebrow: string; title: string; sub: string }) {
@@ -15,6 +17,21 @@ export default function HeroSection({ eyebrow, title, sub }: { eyebrow: string; 
           {title}
         </h1>
         <p className="rise rise-2 text-neutral-100 text-sm md:text-base mt-5 max-w-xl [text-shadow:0_1px_12px_rgba(0,0,0,0.5)]">{sub}</p>
+
+        <div className="rise rise-2 flex flex-wrap gap-3 mt-7">
+          <Link
+            href="/get-quote"
+            className="inline-flex items-center gap-2 bg-emerald-500 hover:bg-emerald-400 text-neutral-950 text-sm font-bold px-6 py-3.5 rounded-full transition-colors shadow-lg shadow-emerald-500/30 cursor-pointer"
+          >
+            Get Free Quote <ArrowRight className="w-4 h-4" />
+          </Link>
+          <Link
+            href="/ai-planner"
+            className="inline-flex items-center gap-2 glass-soft hover:bg-white/15 text-white text-sm font-bold px-6 py-3.5 rounded-full transition-all cursor-pointer"
+          >
+            <Compass className="w-4 h-4" /> Plan My Trip
+          </Link>
+        </div>
       </div>
     </section>
   );

@@ -3,9 +3,13 @@ import Link from 'next/link';
 import { prisma } from '@/lib/db';
 
 export const metadata: Metadata = {
-  title: 'Travel Guides & Stories',
-  description: 'Destination guides, travel tips, and stories from the Ticketing-Info team.',
+  title: 'Travel Guides & Stories — Flights, Trains, Visas & Packages',
+  description: 'Destination guides, flight and train ticket tips, visa requirement updates, and tour package ideas from the Ticketing-Info team.',
   alternates: { canonical: '/blog' },
+  openGraph: {
+    title: 'Travel Guides & Stories | Ticketing-Info',
+    description: 'Destination guides, flight and train ticket tips, visa requirement updates, and tour package ideas from the Ticketing-Info team.',
+  },
 };
 
 export const dynamic = 'force-dynamic';

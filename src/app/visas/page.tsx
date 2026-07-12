@@ -4,9 +4,14 @@ import VisaCheck from '@/components/search/VisaCheck';
 import { HERO_COPY } from '@/lib/nav';
 
 export const metadata: Metadata = {
-  title: 'Visa Checker — Instant Entry Requirements',
-  description: 'Check visa requirements, processing time, and fees for your passport and destination, then get help from a real travel consultant.',
+  title: 'Visa Assistance — Check Requirements & Apply with Experts',
+  description:
+    'Get visa assistance for Indian and international passports. Check entry requirements, processing time, and fees, then apply with help from a real travel consultant.',
   alternates: { canonical: '/visas' },
+  openGraph: {
+    title: 'Visa Assistance — Check Requirements & Apply with Experts | Ticketing-Info',
+    description: 'Get visa assistance for Indian and international passports. Check entry requirements, processing time, and fees for your destination.',
+  },
 };
 
 export default function VisasPage() {

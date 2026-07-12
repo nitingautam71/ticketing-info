@@ -19,6 +19,8 @@ export default function Footer() {
 
         <div className="flex flex-wrap gap-6 justify-center text-[10px] font-bold text-neutral-300 uppercase tracking-widest">
           <span>&copy; {year} Ticketing-Info</span>
+          <Link href="/faq" className="hover:text-white transition-colors">FAQs</Link>
+          <Link href="/blog" className="hover:text-white transition-colors">Blog</Link>
           <Link href="/legal/privacy" className="hover:text-white transition-colors">Privacy Policy</Link>
           <Link href="/legal/terms" className="hover:text-white transition-colors">Terms of Service</Link>
           <Link href="/contact" className="hover:text-white transition-colors">Support</Link>

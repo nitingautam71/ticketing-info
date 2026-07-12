@@ -4,9 +4,14 @@ import PackageSearch from '@/components/search/PackageSearch';
 import { HERO_COPY } from '@/lib/nav';
 
 export const metadata: Metadata = {
-  title: 'Vacation Packages — Flights, Hotels, Transfers & Tours Bundled',
-  description: 'Browse all-inclusive vacation packages combining flights, hotels, transfers, tours, and insurance, then book with a real travel consultant.',
+  title: 'Tour Packages — Domestic & International Vacation Deals',
+  description:
+    'Browse tour packages for domestic and international trips — flights, hotels, transfers, sightseeing, and insurance bundled by our travel consultants.',
   alternates: { canonical: '/packages' },
+  openGraph: {
+    title: 'Tour Packages — Domestic & International Vacation Deals | Ticketing-Info',
+    description: 'Browse tour packages combining flights, hotels, transfers, tours, and insurance, then book with a real travel consultant.',
+  },
 };
 
 export default function PackagesPage() {

@@ -1,5 +1,10 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { LayoutDashboard, Users, UserCog, CheckSquare, BookOpen, Mail, LogOut, Star, HelpCircle, Newspaper, Settings, IdCard } from 'lucide-react';
+
+export const metadata: Metadata = {
+  robots: { index: false, follow: false },
+};
 
 const ADMIN_NAV = [
   { href: '/admin', label: 'Dashboard', icon: LayoutDashboard },

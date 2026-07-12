@@ -1,15 +1,17 @@
 'use client';
 
 import { useState } from 'react';
-import { Send, CheckCircle2 } from 'lucide-react';
+import { useRouter } from 'next/navigation';
+import { Send } from 'lucide-react';
+import { trackEvent } from '@/lib/analytics';
 
 export default function ContactForm() {
+  const router = useRouter();
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
   const [subject, setSubject] = useState('');
   const [message, setMessage] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
-  const [isSubmitted, setIsSubmitted] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -23,23 +25,13 @@ export default function ContactForm() {
         body: JSON.stringify({ name, email, subject, message }),
       });
       if (!res.ok) throw new Error('Failed');
-      setIsSubmitted(true);
+      trackEvent('generate_lead', { method: 'contact_form' });
+      router.push('/thank-you?type=contact');
     } catch {
       setError('Something went wrong. Please email or call us directly instead.');
-    } finally {
       setIsSubmitting(false);
     }
   };
-
-  if (isSubmitted) {
-    return (
-      <div className="flex flex-col items-center justify-center py-12 text-center space-y-3">
-        <CheckCircle2 className="w-10 h-10 text-emerald-400" />
-        <h3 className="text-lg font-bold text-white">Message sent</h3>
-        <p className="text-neutral-400 text-sm max-w-sm">We&apos;ll get back to you shortly.</p>
-      </div>
-    );
-  }
 
   return (
     <form onSubmit={handleSubmit} className="space-y-4">

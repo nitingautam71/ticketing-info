@@ -4,9 +4,13 @@ import CarSearch from '@/components/search/CarSearch';
 import { HERO_COPY } from '@/lib/nav';
 
 export const metadata: Metadata = {
-  title: 'Car Rental Search — Airport & City Pickup',
-  description: 'Search car rentals with airport and city pickup, compare categories and providers, then book with a real travel consultant.',
+  title: 'Car Rental Booking — Airport & City Pickup',
+  description: 'Book car rentals with airport and city pickup for domestic and international trips. Compare categories and providers, then book with a real travel consultant.',
   alternates: { canonical: '/cars' },
+  openGraph: {
+    title: 'Car Rental Booking — Airport & City Pickup | Ticketing-Info',
+    description: 'Book car rentals with airport and city pickup, compare categories and providers, then book with a real travel consultant.',
+  },
 };
 
 export default function CarsPage() {
