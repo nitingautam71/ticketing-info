@@ -1,0 +1,1675 @@
+{
+  "id": "PKG-niagara-falls-10D",
+  "slug": "niagara-falls-10-day-package",
+  "destinationSlug": "niagara-falls",
+  "destinationName": "Niagara Falls",
+  "country": "Canada",
+  "region": "Ontario",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Niagara Falls 10-Day Nature Retreat",
+  "metaTitle": "Niagara Falls 10-Day Nature Retreat | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Niagara Falls, Canada: round-trip flights, hotel, breakfast, transfers, and guided tours including Hornblower Niagara Cruises and Journey Behind the Falls. Prices from $1335 per person (estimate).",
+  "highlights": [
+    "Hornblower Niagara Cruises",
+    "Journey Behind the Falls",
+    "Queen Victoria Park",
+    "Sunset dinner overlooking Horseshoe Falls",
+    "Niagara-on-the-Lake wine region"
+  ],
+  "overview": "Spend 10 days discovering Niagara Falls, Canada — Humid continental climate with warm summers (Jun-Aug) and cold, snowy winters (Dec-Feb) when the falls partially freeze into dramatic ice formations. June to August for warm weather and full water flow, or September-October for fall foliage with thinner crowds. This itinerary blends Hornblower Niagara Cruises, Journey Behind the Falls, Queen Victoria Park with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Hornblower Niagara Cruises, Journey Behind the Falls, Queen Victoria Park",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Niagara Falls",
+      "description": "Land at Toronto Pearson International Airport (nearest gateway) (YYZ) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Hornblower Niagara Cruises — Boat tour to the base of the falls. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Hornblower Niagara Cruises"
+      ],
+      "overnight": "Niagara Falls"
+    },
+    {
+      "day": 2,
+      "title": "Niagara Falls: Journey Behind the Falls & Niagara SkyWheel",
+      "description": "Morning visit to Journey Behind the Falls — Tunnels leading to viewing portals behind Horseshoe Falls. In the afternoon, continue to Niagara SkyWheel — 175-foot observation wheel on Clifton Hill. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Journey Behind the Falls",
+        "Niagara SkyWheel"
+      ],
+      "overnight": "Niagara Falls"
+    },
+    {
+      "day": 3,
+      "title": "Niagara Falls: Niagara's Fury 4D experience & Whirlpool Aero Car",
+      "description": "Morning visit to Niagara's Fury 4D experience — Simulated ride recreating the falls' formation. In the afternoon, continue to Whirlpool Aero Car — Cable car over the Niagara Whirlpool rapids. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Niagara's Fury 4D experience",
+        "Whirlpool Aero Car"
+      ],
+      "overnight": "Niagara Falls"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Niagara-on-the-Lake wine region",
+      "description": "Full-day excursion to Niagara-on-the-Lake wine region, a popular side trip from Niagara Falls. Return to Niagara Falls in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Niagara-on-the-Lake wine region",
+        "Free evening"
+      ],
+      "overnight": "Niagara Falls"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Niagara Glen nature trails — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Niagara Glen nature trails"
+      ],
+      "overnight": "Niagara Falls"
+    },
+    {
+      "day": 6,
+      "title": "Niagara Falls: Skylon Tower observation deck & Niagara Parks Butterfly Conservatory",
+      "description": "Morning visit to Skylon Tower observation deck — Panoramic tower views of both falls. In the afternoon, continue to Niagara Parks Butterfly Conservatory — Tropical conservatory with thousands of butterflies. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Skylon Tower observation deck",
+        "Niagara Parks Butterfly Conservatory"
+      ],
+      "overnight": "Niagara Falls"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Toronto",
+      "description": "Full-day excursion to Toronto, a popular side trip from Niagara Falls. Return to Niagara Falls in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Toronto",
+        "Free evening"
+      ],
+      "overnight": "Niagara Falls"
+    },
+    {
+      "day": 8,
+      "title": "Niagara Falls: Niagara-on-the-Lake wine tour & Great Gorge Adventure boardwalk",
+      "description": "Morning visit to Niagara-on-the-Lake wine tour — Guided tasting tour of the nearby wine region. In the afternoon, continue to Great Gorge Adventure boardwalk — Boardwalk beside the Niagara River rapids. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Niagara-on-the-Lake wine tour",
+        "Great Gorge Adventure boardwalk"
+      ],
+      "overnight": "Niagara Falls"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Dufferin Islands — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Dufferin Islands"
+      ],
+      "overnight": "Niagara Falls"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Old Fort Erie tour or some souvenir shopping — before your private transfer to YYZ for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Hornblower Cruises and Journey Behind the Falls tickets online to skip queues in peak summer",
+    "Visit the falls illuminated at night for a completely different experience",
+    "Carry your passport for any cross-border side trips to the US side",
+    "The Canadian side offers the best panoramic views of Horseshoe Falls",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "A waterproof poncho or rain jacket for boat tours and misty viewpoints",
+    "Warm layers for winter visits when the falls partially freeze",
+    "Comfortable walking shoes for the Niagara Parkway",
+    "A change of clothes for Journey Behind the Falls or the Hornblower cruise"
+  ],
+  "thingsToDo": [
+    "Hornblower Niagara Cruises",
+    "Journey Behind the Falls",
+    "Niagara SkyWheel",
+    "Niagara's Fury 4D experience",
+    "Whirlpool Aero Car",
+    "Skylon Tower observation deck",
+    "Niagara Parks Butterfly Conservatory",
+    "Niagara-on-the-Lake wine tour",
+    "Great Gorge Adventure boardwalk",
+    "Old Fort Erie tour",
+    "Queen Victoria Park",
+    "Table Rock viewpoint",
+    "Niagara Parkway scenic drive",
+    "Dufferin Islands",
+    "Floral Clock",
+    "Niagara Glen nature trails",
+    "Whitewater jet boat tours on the Niagara River",
+    "WildPlay zip-lining to the falls",
+    "Cycling the Niagara River Recreation Trail",
+    "Clifton Hill entertainment district"
+  ],
+  "thingsToAvoid": [
+    "Overpaying for Clifton Hill's tourist-trap attractions without checking reviews first",
+    "Standing too close to unprotected viewpoint edges for photos",
+    "Underestimating how cold and windy the mist zone gets even in summer",
+    "Crossing the US-Canada border without proper documentation"
+  ],
+  "topRestaurants": [
+    "Watermark Restaurant — Falls-view fine dining ($$$)",
+    "AG Restaurant (Sheraton) — International, falls-view ($$$)",
+    "Elements on the Falls — Canadian ($$)",
+    "Ristorante Giardino — Italian ($$$)",
+    "The Keg Steakhouse — Steakhouse ($$$)",
+    "Napoli Ristorante — Italian ($$)",
+    "Weinkeller Restaurant (Niagara-on-the-Lake) — German-Canadian ($$$)",
+    "Rainforest Cafe — American family dining ($$)"
+  ],
+  "topCafes": [
+    "Symposium Cafe Niagara Falls",
+    "Willow Cakes & Pastries",
+    "Tim Hortons",
+    "Balls Falls Cafe"
+  ],
+  "shoppingAreas": [
+    "Clifton Hill souvenir shops",
+    "Niagara-on-the-Lake boutique streets",
+    "Outlet Collection at Niagara",
+    "Bird Kingdom gift shop"
+  ],
+  "nightlife": [
+    "Rainbow Bridge illuminated falls at night",
+    "Fallsview Casino Resort",
+    "Q Casino Niagara Falls",
+    "Konica Minolta Tower nightlife"
+  ],
+  "instagramSpots": [
+    "Horseshoe Falls from Table Rock",
+    "Journey Behind the Falls viewing deck",
+    "Illuminated falls at night",
+    "Niagara SkyWheel with falls backdrop",
+    "Whirlpool Rapids viewpoint"
+  ],
+  "hiddenGems": [
+    "Niagara Glen nature trails",
+    "Dufferin Islands",
+    "Whirlpool State Park (US side)",
+    "Niagara-on-the-Lake historic town"
+  ],
+  "familyActivities": [
+    "Hornblower Niagara Cruises",
+    "Niagara Parks Butterfly Conservatory",
+    "Clifton Hill entertainment district",
+    "Bird Kingdom indoor aviary"
+  ],
+  "adventureActivities": [
+    "Whitewater jet boat tours on the Niagara River",
+    "WildPlay zip-lining to the falls",
+    "Great Gorge Adventure boardwalk",
+    "Cycling the Niagara River Recreation Trail"
+  ],
+  "luxuryExperiences": [
+    "Falls-view suite at the Fallsview Casino Resort",
+    "Private helicopter tour over the falls",
+    "Niagara-on-the-Lake private wine estate tasting",
+    "Fine dining at a falls-view restaurant"
+  ],
+  "honeymoonExperiences": [
+    "Sunset dinner overlooking Horseshoe Falls",
+    "Private illumination and fireworks viewing",
+    "Couples spa at a falls-view resort",
+    "Romantic helicopter flight over the falls"
+  ],
+  "budgetExperiences": [
+    "Free falls viewing at Queen Victoria Park and Table Rock",
+    "Self-guided Niagara Parkway walk",
+    "Free nightly illumination of the falls",
+    "Dufferin Islands nature walk"
+  ],
+  "estimatedDailyBudgetUSD": [
+    75,
+    160,
+    300,
+    600
+  ],
+  "safetyRating": 5,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 75,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": -2,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": -1,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 5,
+      "crowd": "Low"
+    },
+    {
+      "month": "Apr",
+      "highC": 12,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 24,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 22,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 15,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 8,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 1,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Winter Festival of Lights",
+      "timing": "November to January"
+    },
+    {
+      "name": "Niagara Icewine Festival (nearby wine region)",
+      "timing": "January"
+    },
+    {
+      "name": "Canada Day celebrations",
+      "timing": "July 1"
+    },
+    {
+      "name": "Niagara Falls New Year's Eve fireworks",
+      "timing": "December 31"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Tipping 15-18% is standard at Canadian restaurants.",
+    "Queue politely for attraction entries, especially in peak summer.",
+    "Wear waterproof rain gear for boat tours — you will get soaked.",
+    "Respect the shared US-Canada border town culture.",
+    "Carry ID or a passport for any cross-border day trips."
+  ],
+  "localTransportGuide": "The WEGO bus system connects the falls, Clifton Hill, and Niagara-on-the-Lake affordably and frequently in peak season. Walking is easy along the Niagara Parkway falls-view stretch, while a rental car is useful for wine region day trips.",
+  "bestTimeToVisit": "June to August for warm weather and full water flow, or September-October for fall foliage with thinner crowds.",
+  "weather": "Humid continental climate with warm summers (Jun-Aug) and cold, snowy winters (Dec-Feb) when the falls partially freeze into dramatic ice formations.",
+  "visaInformation": "Canada requires an eTA for visa-exempt air travelers; crossing the land border from the US requires a valid passport (or NEXUS card) for all travelers, while some other nationalities need a full visitor visa.",
+  "currency": "CAD",
+  "languages": [
+    "English",
+    "French"
+  ],
+  "timeZone": "EST (UTC-5)",
+  "averageFlightTime": "~13.8h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Niagara Falls?",
+      "answer": "Canada requires an eTA for visa-exempt air travelers; crossing the land border from the US requires a valid passport (or NEXUS card) for all travelers, while some other nationalities need a full visitor visa."
+    },
+    {
+      "question": "What is the best time to visit Niagara Falls?",
+      "answer": "June to August for warm weather and full water flow, or September-October for fall foliage with thinner crowds. Humid continental climate with warm summers (Jun-Aug) and cold, snowy winters (Dec-Feb) when the falls partially freeze into dramatic ice formations."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Niagara Falls safe for tourists?",
+      "answer": "Niagara Falls is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Niagara Falls?",
+      "answer": "The local currency is CAD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Niagara Falls is one of our most-booked honeymoon destinations, especially the Sunset dinner overlooking Horseshoe Falls experience. It also works well for families — highlights include Hornblower Niagara Cruises."
+    }
+  ],
+  "categories": [
+    "Nature",
+    "Family",
+    "Romantic",
+    "Honeymoon",
+    "Road Trip",
+    "Winter",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Niagara Falls",
+    "Canada",
+    "Niagara Falls, Canada",
+    "Ontario",
+    "Niagara Falls tour package",
+    "Niagara Falls vacation package",
+    "Niagara Falls holiday package",
+    "things to do in Niagara Falls",
+    "best time to visit Niagara Falls",
+    "Niagara Falls itinerary",
+    "10 day Niagara Falls itinerary",
+    "Niagara Falls flights and hotels",
+    "Niagara Falls all inclusive package",
+    "cheap Niagara Falls package",
+    "luxury Niagara Falls package",
+    "Niagara Falls honeymoon package",
+    "Niagara Falls family vacation",
+    "Niagara Falls solo trip",
+    "Niagara Falls group tour",
+    "Niagara Falls weekend getaway",
+    "Niagara Falls guided tour",
+    "YYZ flights",
+    "Niagara Falls travel guide",
+    "book Niagara Falls trip online",
+    "Niagara Falls trip cost",
+    "Niagara Falls packages 10 days",
+    "Niagara Falls nature",
+    "Niagara Falls family",
+    "Niagara Falls romantic",
+    "Niagara Falls honeymoon",
+    "Niagara Falls road trip",
+    "Niagara Falls winter",
+    "Niagara Falls bucket list",
+    "Hornblower Niagara Cruises",
+    "Journey Behind the Falls",
+    "Niagara SkyWheel",
+    "Niagara's Fury 4D experience",
+    "Whirlpool Aero Car",
+    "Skylon Tower observation deck",
+    "Niagara Parks Butterfly Conservatory",
+    "Niagara-on-the-Lake wine tour",
+    "Great Gorge Adventure boardwalk",
+    "Old Fort Erie tour",
+    "Queen Victoria Park",
+    "Table Rock viewpoint",
+    "Niagara Parkway scenic drive",
+    "Dufferin Islands",
+    "Floral Clock",
+    "Niagara Glen nature trails",
+    "Watermark Restaurant"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Niagara Falls, Canada — Horseshoe Falls aerial mist",
+      "keywords": [
+        "Niagara Falls",
+        "Canada",
+        "Horseshoe Falls aerial mist",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Niagara Falls Horseshoe Falls aerial mist",
+      "pexelsQuery": "Niagara Falls Horseshoe Falls aerial mist",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Niagara Falls, Canada — Horseshoe Falls aerial mist",
+      "keywords": [
+        "Niagara Falls",
+        "Canada",
+        "Horseshoe Falls aerial mist",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Niagara Falls Horseshoe Falls aerial mist",
+      "pexelsQuery": "Niagara Falls Horseshoe Falls aerial mist",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Niagara Falls, Canada — Niagara Falls illuminated night",
+      "keywords": [
+        "Niagara Falls",
+        "Canada",
+        "Niagara Falls illuminated night",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Niagara Falls Niagara Falls illuminated night",
+      "pexelsQuery": "Niagara Falls Niagara Falls illuminated night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Niagara Falls, Canada — Journey Behind the Falls",
+      "keywords": [
+        "Niagara Falls",
+        "Canada",
+        "Journey Behind the Falls",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Niagara Falls Journey Behind the Falls",
+      "pexelsQuery": "Niagara Falls Journey Behind the Falls",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Niagara Falls, Canada — Horseshoe Falls aerial mist",
+      "keywords": [
+        "Niagara Falls",
+        "Canada",
+        "Horseshoe Falls aerial mist",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Niagara Falls Horseshoe Falls aerial mist",
+      "pexelsQuery": "Niagara Falls Horseshoe Falls aerial mist",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Niagara Falls, Canada — Niagara Falls illuminated night",
+      "keywords": [
+        "Niagara Falls",
+        "Canada",
+        "Niagara Falls illuminated night",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Niagara Falls Niagara Falls illuminated night",
+      "pexelsQuery": "Niagara Falls Niagara Falls illuminated night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Niagara Falls, Canada — Journey Behind the Falls",
+      "keywords": [
+        "Niagara Falls",
+        "Canada",
+        "Journey Behind the Falls",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Niagara Falls Journey Behind the Falls",
+      "pexelsQuery": "Niagara Falls Journey Behind the Falls",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Niagara Falls, Canada — Niagara Parkway autumn",
+      "keywords": [
+        "Niagara Falls",
+        "Canada",
+        "Niagara Parkway autumn",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Niagara Falls Niagara Parkway autumn",
+      "pexelsQuery": "Niagara Falls Niagara Parkway autumn",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Niagara Falls, Canada — Hornblower Niagara Cruises",
+      "keywords": [
+        "Niagara Falls",
+        "Canada",
+        "Hornblower Niagara Cruises",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Niagara Falls Hornblower Niagara Cruises",
+      "pexelsQuery": "Niagara Falls Hornblower Niagara Cruises",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Niagara Falls, Canada — Niagara SkyWheel",
+      "keywords": [
+        "Niagara Falls",
+        "Canada",
+        "Niagara SkyWheel",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Niagara Falls Niagara SkyWheel",
+      "pexelsQuery": "Niagara Falls Niagara SkyWheel",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Niagara Falls, Canada — Niagara's Fury 4D experience",
+      "keywords": [
+        "Niagara Falls",
+        "Canada",
+        "Niagara's Fury 4D experience",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Niagara Falls Niagara's Fury 4D experience",
+      "pexelsQuery": "Niagara Falls Niagara's Fury 4D experience",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Niagara Falls, Canada — Horseshoe Falls from Table Rock",
+      "keywords": [
+        "Niagara Falls",
+        "Canada",
+        "Horseshoe Falls from Table Rock",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Niagara Falls Horseshoe Falls from Table Rock",
+      "pexelsQuery": "Niagara Falls Horseshoe Falls from Table Rock",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-niagara-falls-10-1",
+      "author": "David Dubois",
+      "country": "Brazil",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-05-11",
+      "title": "Highly recommend this package",
+      "body": "Niagara Falls is stunning and this package covered the essentials well, especially Old Fort Erie tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-2",
+      "author": "Isabella Tanaka",
+      "country": "South Africa",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 5,
+      "safetyRating": 4,
+      "date": "2026-05-09",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Queen Victoria Park and Niagara Glen nature trails. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-niagara-falls-10-3",
+      "author": "Elena Patel",
+      "country": "UAE",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-01-10",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Skylon Tower observation deck and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-4",
+      "author": "Priya Ibrahim",
+      "country": "Spain",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-15",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a group trip and it was well paced. Niagara Glen nature trails in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-5",
+      "author": "Arjun Sharma",
+      "country": "South Korea",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-29",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a solo trip and it was well paced. Niagara-on-the-Lake wine tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-6",
+      "author": "Priya Larsen",
+      "country": "Australia",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-22",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a couple trip and it was well paced. Niagara SkyWheel in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-7",
+      "author": "Noah Novak",
+      "country": "Mexico",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-06-24",
+      "title": "Exceeded our expectations",
+      "body": "Our trip to Niagara Falls was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Floral Clock was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-8",
+      "author": "Chen Santos",
+      "country": "UAE",
+      "rating": 4.1,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-02-22",
+      "title": "Great for families with kids",
+      "body": "Booked this as a group trip and it was well paced. Skylon Tower observation deck in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-9",
+      "author": "Mohammed Smith",
+      "country": "Netherlands",
+      "rating": 3.9,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 3.5,
+      "date": "2026-06-12",
+      "title": "Solid mid-range package",
+      "body": "Table Rock viewpoint alone was worth the trip, but combined with Niagara-on-the-Lake wine tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-niagara-falls-10-10",
+      "author": "Sarah Rossi",
+      "country": "Saudi Arabia",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-10-19",
+      "title": "Unforgettable trip!",
+      "body": "Niagara Falls is stunning and this package covered the essentials well, especially Dufferin Islands. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-11",
+      "author": "Liam Santos",
+      "country": "Italy",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-05-25",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Niagara Falls was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Niagara Glen nature trails was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-12",
+      "author": "Liam Silva",
+      "country": "Canada",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-02-24",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Niagara Falls was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Niagara SkyWheel was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-13",
+      "author": "Wei Santos",
+      "country": "Netherlands",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-20",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a solo trip and it was well paced. Table Rock viewpoint in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-14",
+      "author": "Chen Wang",
+      "country": "Italy",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-01-10",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a couple trip and it was well paced. Floral Clock in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-15",
+      "author": "Emma Patel",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-05-14",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Niagara Falls was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Skylon Tower observation deck was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-16",
+      "author": "Isabella Kowalski",
+      "country": "Saudi Arabia",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-03-13",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Dufferin Islands and Whirlpool Aero Car. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-17",
+      "author": "Marco Botha",
+      "country": "Italy",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-03-12",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Floral Clock and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-18",
+      "author": "Hiroshi Santos",
+      "country": "Brazil",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-05-19",
+      "title": "Unforgettable trip!",
+      "body": "Great Gorge Adventure boardwalk alone was worth the trip, but combined with Great Gorge Adventure boardwalk this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-niagara-falls-10-19",
+      "author": "Wei Khan",
+      "country": "South Korea",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-03-14",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a family of 4 trip and it was well paced. Niagara-on-the-Lake wine tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-niagara-falls-10-20",
+      "author": "Fatima van Dijk",
+      "country": "Netherlands",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-11",
+      "title": "Highly recommend this package",
+      "body": "Table Rock viewpoint alone was worth the trip, but combined with Floral Clock this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Niagara Falls Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 17,
+      "neighborhood": "Clifton Hill souvenir shops"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Niagara Falls Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 30,
+      "neighborhood": "Niagara-on-the-Lake boutique streets"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Niagara Falls Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 56,
+      "neighborhood": "Outlet Collection at Niagara"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Niagara Falls Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 72,
+      "neighborhood": "Bird Kingdom gift shop"
+    },
+    {
+      "tier": "Resort",
+      "name": "Niagara Falls Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 150,
+      "neighborhood": "Rainbow Bridge illuminated falls at night"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Niagara Falls Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 252,
+      "neighborhood": "Fallsview Casino Resort"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Niagara Falls Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 300,
+      "neighborhood": "Q Casino Niagara Falls"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        112,
+        178
+      ],
+      "estimatedFlightHours": 1.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        490,
+        779
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        511,
+        811
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        536,
+        851
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        589,
+        936
+      ],
+      "estimatedFlightHours": 10.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        513,
+        814
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        510,
+        810
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        546,
+        867
+      ],
+      "estimatedFlightHours": 9.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1203,
+        1910
+      ],
+      "estimatedFlightHours": 21.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1080,
+        1716
+      ],
+      "estimatedFlightHours": 19.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        921,
+        1462
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        830,
+        1318
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        847,
+        1346
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1165,
+        1850
+      ],
+      "estimatedFlightHours": 21.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1066,
+        1693
+      ],
+      "estimatedFlightHours": 19.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1151,
+        1828
+      ],
+      "estimatedFlightHours": 20.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1223,
+        1943
+      ],
+      "estimatedFlightHours": 22.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1036,
+        1646
+      ],
+      "estimatedFlightHours": 18.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1087,
+        1727
+      ],
+      "estimatedFlightHours": 19.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        878,
+        1395
+      ],
+      "estimatedFlightHours": 15.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        847,
+        1345
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        863,
+        1370
+      ],
+      "estimatedFlightHours": 15.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        822,
+        1305
+      ],
+      "estimatedFlightHours": 14.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1038,
+        1648
+      ],
+      "estimatedFlightHours": 18.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        663,
+        1053
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (nearest gateway) (YYZ)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        310,
+        493
+      ],
+      "estimatedFlightHours": 5.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Hornblower Niagara Cruises",
+    "Journey Behind the Falls",
+    "Niagara SkyWheel",
+    "Niagara's Fury 4D experience",
+    "Whirlpool Aero Car",
+    "Skylon Tower observation deck",
+    "Niagara Parks Butterfly Conservatory",
+    "Niagara-on-the-Lake wine tour",
+    "Great Gorge Adventure boardwalk",
+    "Old Fort Erie tour",
+    "Queen Victoria Park",
+    "Table Rock viewpoint",
+    "Niagara Parkway scenic drive",
+    "Dufferin Islands",
+    "Floral Clock",
+    "Niagara Glen nature trails",
+    "Niagara-on-the-Lake wine region",
+    "Toronto",
+    "Buffalo (US side)",
+    "Welland Canal (Thorold locks)",
+    "Niagara Falls History Museum",
+    "Niagara Glen Nature Reserve",
+    "Whirlpool State Park",
+    "Horseshoe Falls from Table Rock",
+    "Journey Behind the Falls viewing deck",
+    "Illuminated falls at night",
+    "Niagara SkyWheel with falls backdrop",
+    "Whirlpool Rapids viewpoint"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Hornblower Niagara Cruises",
+      "priceUSD": 30
+    },
+    {
+      "name": "Journey Behind the Falls",
+      "priceUSD": 23
+    },
+    {
+      "name": "Niagara SkyWheel",
+      "priceUSD": 17
+    },
+    {
+      "name": "Niagara's Fury 4D experience",
+      "priceUSD": 18
+    },
+    {
+      "name": "Whirlpool Aero Car",
+      "priceUSD": 18
+    },
+    {
+      "name": "Skylon Tower observation deck",
+      "priceUSD": 18
+    },
+    {
+      "name": "Niagara Parks Butterfly Conservatory",
+      "priceUSD": 18
+    },
+    {
+      "name": "Niagara-on-the-Lake wine tour",
+      "priceUSD": 80
+    },
+    {
+      "name": "Great Gorge Adventure boardwalk",
+      "priceUSD": 17
+    },
+    {
+      "name": "Old Fort Erie tour",
+      "priceUSD": 12
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Queen Victoria Park",
+    "Table Rock viewpoint",
+    "Niagara Parkway scenic drive",
+    "Dufferin Islands",
+    "Floral Clock",
+    "Niagara Glen nature trails"
+  ],
+  "museums": [
+    "Niagara Falls History Museum",
+    "Niagara Parks Butterfly Conservatory"
+  ],
+  "parks": [
+    "Queen Victoria Park",
+    "Niagara Glen Nature Reserve",
+    "Dufferin Islands",
+    "Whirlpool State Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Niagara-on-the-Lake wine region",
+    "Toronto",
+    "Buffalo (US side)",
+    "Welland Canal (Thorold locks)"
+  ],
+  "fromPriceUSD": 1335,
+  "seo": {
+    "title": "Niagara Falls 10-Day Nature Retreat | Flights, Hotels & Tours Included",
+    "slug": "niagara-falls-10-day-package",
+    "keywords": [
+      "Niagara Falls",
+      "Canada",
+      "Niagara Falls, Canada",
+      "Ontario",
+      "Niagara Falls tour package",
+      "Niagara Falls vacation package",
+      "Niagara Falls holiday package",
+      "things to do in Niagara Falls",
+      "best time to visit Niagara Falls",
+      "Niagara Falls itinerary",
+      "10 day Niagara Falls itinerary",
+      "Niagara Falls flights and hotels",
+      "Niagara Falls all inclusive package",
+      "cheap Niagara Falls package",
+      "luxury Niagara Falls package"
+    ],
+    "canonicalUrl": "/packages/niagara-falls-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Niagara Falls Package",
+        "url": "/packages/niagara-falls-7-day-package"
+      },
+      {
+        "title": "14-Day Niagara Falls Package",
+        "url": "/packages/niagara-falls-14-day-package"
+      },
+      {
+        "title": "Reykjavik 10-Day Nature Retreat",
+        "url": "/packages/reykjavik-10-day-package"
+      },
+      {
+        "title": "Queenstown 10-Day Adventure Tour",
+        "url": "/packages/queenstown-10-day-package"
+      },
+      {
+        "title": "Banff 10-Day Nature Retreat",
+        "url": "/packages/banff-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Niagara Falls — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Niagara_Falls"
+      },
+      {
+        "title": "Niagara Falls — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Niagara_Falls"
+      }
+    ]
+  }
+}

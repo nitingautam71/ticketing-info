@@ -1,0 +1,1691 @@
+{
+  "id": "PKG-swiss-alps-10D",
+  "slug": "swiss-alps-10-day-package",
+  "destinationSlug": "swiss-alps",
+  "destinationName": "Swiss Alps",
+  "country": "Switzerland",
+  "region": "Central Europe",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Swiss Alps 10-Day Adventure Tour",
+  "metaTitle": "Swiss Alps 10-Day Adventure Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Swiss Alps, Switzerland: round-trip flights, hotel, breakfast, transfers, and guided tours including Jungfraujoch \"Top of Europe\" and Schilthorn (Piz Gloria) cable car. Prices from $2281 per person (estimate).",
+  "highlights": [
+    "Jungfraujoch \"Top of Europe\"",
+    "Schilthorn (Piz Gloria) cable car",
+    "Interlaken town center & Höhematte park",
+    "Paragliding over Interlaken",
+    "Private helicopter scenic flight over the Matterhorn",
+    "Sunrise cable car to Jungfraujoch",
+    "Bern (Swiss capital)"
+  ],
+  "overview": "Spend 10 days discovering Swiss Alps, Switzerland — Alpine climate that varies sharply with altitude — valley towns like Interlaken see mild summers (highs 23°C) and cold, snowy winters (highs 2°C), while high peaks stay snow-covered year-round. June to September for hiking, alpine lakes and cable-car access to high trails; December to March for skiing in Zermatt, Interlaken and Jungfrau resorts. This itinerary blends Jungfraujoch \"Top of Europe\", Schilthorn (Piz Gloria) cable car, Interlaken town center & Höhematte park with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Jungfraujoch \"Top of Europe\", Schilthorn (Piz Gloria) cable car, Interlaken town center & Höhematte park",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Swiss Alps",
+      "description": "Land at Zurich Airport (ZRH) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Jungfraujoch \"Top of Europe\" — Highest railway station in Europe with glacier views. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Jungfraujoch \"Top of Europe\""
+      ],
+      "overnight": "Swiss Alps"
+    },
+    {
+      "day": 2,
+      "title": "Swiss Alps: Schilthorn (Piz Gloria) cable car & Matterhorn Glacier Paradise (Zermatt)",
+      "description": "Morning visit to Schilthorn (Piz Gloria) cable car — Revolving restaurant and 360-degree Alpine panorama. In the afternoon, continue to Matterhorn Glacier Paradise (Zermatt) — Highest cable car station in Europe near the Matterhorn. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Schilthorn (Piz Gloria) cable car",
+        "Matterhorn Glacier Paradise (Zermatt)"
+      ],
+      "overnight": "Swiss Alps"
+    },
+    {
+      "day": 3,
+      "title": "Swiss Alps: Gornergrat Railway & Trümmelbach Falls",
+      "description": "Morning visit to Gornergrat Railway — Cogwheel train with Matterhorn views. In the afternoon, continue to Trümmelbach Falls — Glacier waterfalls inside the mountain. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Gornergrat Railway",
+        "Trümmelbach Falls"
+      ],
+      "overnight": "Swiss Alps"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Bern (Swiss capital)",
+      "description": "Full-day excursion to Bern (Swiss capital), a popular side trip from Swiss Alps. Return to Swiss Alps in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Bern (Swiss capital)",
+        "Free evening"
+      ],
+      "overnight": "Swiss Alps"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Gelmersee reservoir via funicular — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Gelmersee reservoir via funicular"
+      ],
+      "overnight": "Swiss Alps"
+    },
+    {
+      "day": 6,
+      "title": "Swiss Alps: Harder Kulm funicular & Lake Brienz boat cruise",
+      "description": "Morning visit to Harder Kulm funicular — Viewpoint above Interlaken over both lakes. In the afternoon, continue to Lake Brienz boat cruise — Scenic turquoise-lake steamboat ride. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Harder Kulm funicular",
+        "Lake Brienz boat cruise"
+      ],
+      "overnight": "Swiss Alps"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Lucerne",
+      "description": "Full-day excursion to Lucerne, a popular side trip from Swiss Alps. Return to Swiss Alps in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Lucerne",
+        "Free evening"
+      ],
+      "overnight": "Swiss Alps"
+    },
+    {
+      "day": 8,
+      "title": "Swiss Alps: Grindelwald First cliff walk & zipline & Lake Thun boat cruise",
+      "description": "Morning visit to Grindelwald First cliff walk & zipline — Cliffside walkway and First Flyer zipline. In the afternoon, continue to Lake Thun boat cruise — Lakeside castles and mountain backdrop cruise. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Grindelwald First cliff walk & zipline",
+        "Lake Thun boat cruise"
+      ],
+      "overnight": "Swiss Alps"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Trift Bridge suspension crossing — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Trift Bridge suspension crossing"
+      ],
+      "overnight": "Swiss Alps"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Gelmerbahn funicular or some souvenir shopping — before your private transfer to ZRH for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Buy Jungfraujoch and Gornergrat tickets in the morning for the clearest mountain visibility.",
+    "A Swiss Travel Pass often pays for itself with 2-3 train/cable-car excursions.",
+    "Check webcams for summit weather before paying for high-altitude excursions — clouds can obscure views.",
+    "Book mountain restaurants or huts in advance during peak hiking season (July-August).",
+    "ATMs and cards are widely accepted, but small mountain kiosks may prefer cash (CHF).",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "Layered clothing for sharp temperature swings between valley and summit",
+    "Sturdy hiking boots for alpine trails",
+    "Sunglasses and high-SPF sunscreen (UV is stronger at altitude)",
+    "A warm jacket even in summer for cable-car summits"
+  ],
+  "thingsToDo": [
+    "Jungfraujoch \"Top of Europe\"",
+    "Schilthorn (Piz Gloria) cable car",
+    "Matterhorn Glacier Paradise (Zermatt)",
+    "Gornergrat Railway",
+    "Trümmelbach Falls",
+    "Harder Kulm funicular",
+    "Lake Brienz boat cruise",
+    "Grindelwald First cliff walk & zipline",
+    "Lake Thun boat cruise",
+    "Gelmerbahn funicular",
+    "Interlaken town center & Höhematte park",
+    "Zermatt village car-free streets",
+    "Lake Brienz shoreline",
+    "Lauterbrunnen Valley",
+    "Staubbach Falls",
+    "Bachalpsee hike view",
+    "Männlichen viewpoint hike",
+    "Matterhorn viewpoint (Zermatt village)",
+    "Paragliding over Interlaken",
+    "Canyoning in Lauterbrunnen Valley"
+  ],
+  "thingsToAvoid": [
+    "Underestimating alpine weather — conditions can change from sun to snow within an hour at altitude.",
+    "Skipping travel insurance with mountain rescue coverage for hiking/skiing trips.",
+    "Assuming euros are accepted everywhere — Switzerland uses Swiss francs, and euro change-back rates are poor.",
+    "Hiking marked trails without proper footwear — steep alpine paths can be slippery.",
+    "Booking same-day Jungfraujoch tickets in peak season without checking capacity — trains can sell out."
+  ],
+  "topRestaurants": [
+    "Restaurant Schuh — Swiss ($$$)",
+    "Husi Kebab & Pizza — Quick Bites ($)",
+    "Restaurant Bäregg — Alpine Swiss ($$)",
+    "Whymper-Stube — Swiss Fondue ($$$)",
+    "Restaurant Français Victoria-Jungfrau — Fine Dining French-Swiss ($$$$)",
+    "Gasthaus Waldrand — Traditional Swiss ($$)",
+    "Chez Vrony (Zermatt) — Alpine Farm-to-table ($$$)",
+    "Restaurant Schwendi — Swiss Mountain Fare ($$)"
+  ],
+  "topCafes": [
+    "Café Schober Interlaken",
+    "Elfenau Café",
+    "Grampi's Café",
+    "Hanselmann Confiserie",
+    "Café du Pont"
+  ],
+  "shoppingAreas": [
+    "Höheweg promenade Interlaken",
+    "Zermatt Bahnhofstrasse",
+    "Swiss watch boutiques",
+    "Local cheese and chocolate shops"
+  ],
+  "nightlife": [
+    "Buddy's Pub Interlaken",
+    "Husi Bar",
+    "Papa Joe's Interlaken",
+    "Broken Bar Zermatt"
+  ],
+  "instagramSpots": [
+    "Bachalpsee alpine lake reflection",
+    "Matterhorn from Zermatt village",
+    "Lauterbrunnen waterfall valley",
+    "Harder Kulm viewpoint",
+    "Lake Brienz turquoise waters"
+  ],
+  "hiddenGems": [
+    "Gelmersee reservoir via funicular",
+    "Trift Bridge suspension crossing",
+    "Iseltwald village on Lake Brienz",
+    "Schynige Platte alpine botanical garden"
+  ],
+  "familyActivities": [
+    "Grindelwald First cliff walk",
+    "St. Beatus Caves near Lake Thun",
+    "Interlaken mini-golf and lake swimming",
+    "Ballenberg open-air museum"
+  ],
+  "adventureActivities": [
+    "Paragliding over Interlaken",
+    "Canyoning in Lauterbrunnen Valley",
+    "Via ferrata climbing routes",
+    "Skiing/snowboarding in Zermatt or Jungfrau region"
+  ],
+  "luxuryExperiences": [
+    "Private helicopter scenic flight over the Matterhorn",
+    "Stay at a 5-star chalet resort with spa",
+    "First-class Glacier Express panoramic train journey",
+    "Michelin dining with alpine views"
+  ],
+  "honeymoonExperiences": [
+    "Sunrise cable car to Jungfraujoch",
+    "Private chalet stay with Matterhorn views",
+    "Romantic Lake Brienz sunset cruise",
+    "Couples spa in a mountain resort"
+  ],
+  "budgetExperiences": [
+    "Free hikes around Lauterbrunnen Valley",
+    "Picnic at Höhematte park in Interlaken",
+    "View the Matterhorn for free from Zermatt village",
+    "Swim in Lake Brienz or Lake Thun"
+  ],
+  "estimatedDailyBudgetUSD": [
+    100,
+    210,
+    380,
+    750
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 60,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 2,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 4,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 8,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 13,
+      "crowd": "Low"
+    },
+    {
+      "month": "May",
+      "highC": 17,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 13,
+      "crowd": "Low"
+    },
+    {
+      "month": "Nov",
+      "highC": 7,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 3,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Unspunnenfest (alpine folk festival)",
+      "timing": "Held periodically in September, Interlaken"
+    },
+    {
+      "name": "Zermatt Unplugged music festival",
+      "timing": "April"
+    },
+    {
+      "name": "Fondue season / Alpabzug (cattle descent)",
+      "timing": "September"
+    },
+    {
+      "name": "Lauberhorn Ski World Cup",
+      "timing": "January, Wengen"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "117",
+    "ambulance": "144",
+    "fire": "118"
+  },
+  "localEtiquette": [
+    "Punctuality is highly valued — trains and appointments run precisely on schedule.",
+    "Greet with a firm handshake and formal address until invited to use first names.",
+    "Keep noise down in residential areas, especially on Sundays when many activities (like mowing lawns) are discouraged.",
+    "Recycling and waste sorting are taken seriously — follow posted bin instructions at accommodations.",
+    "Hiking trail etiquette: yield to uphill walkers and close gates behind you in farmland."
+  ],
+  "localTransportGuide": "The Swiss rail network is punctual and scenic — a Swiss Travel Pass covers trains, buses, boats and many cable cars region-wide. Zermatt itself is car-free, reached by a connecting train, and postbuses fill in mountain villages not served by rail.",
+  "bestTimeToVisit": "June to September for hiking, alpine lakes and cable-car access to high trails; December to March for skiing in Zermatt, Interlaken and Jungfrau resorts.",
+  "weather": "Alpine climate that varies sharply with altitude — valley towns like Interlaken see mild summers (highs 23°C) and cold, snowy winters (highs 2°C), while high peaks stay snow-covered year-round.",
+  "visaInformation": "Switzerland is part of the Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities should check Schengen short-stay visa requirements in advance.",
+  "currency": "CHF",
+  "languages": [
+    "German",
+    "French",
+    "Italian"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~9.9h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Zurich Airport (ZRH)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Swiss Alps?",
+      "answer": "Switzerland is part of the Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities should check Schengen short-stay visa requirements in advance."
+    },
+    {
+      "question": "What is the best time to visit Swiss Alps?",
+      "answer": "June to September for hiking, alpine lakes and cable-car access to high trails; December to March for skiing in Zermatt, Interlaken and Jungfrau resorts. Alpine climate that varies sharply with altitude — valley towns like Interlaken see mild summers (highs 23°C) and cold, snowy winters (highs 2°C), while high peaks stay snow-covered year-round."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Swiss Alps safe for tourists?",
+      "answer": "Swiss Alps is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Swiss Alps?",
+      "answer": "The local currency is CHF. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Swiss Alps is one of our most-booked honeymoon destinations, especially the Sunrise cable car to Jungfraujoch experience."
+    }
+  ],
+  "categories": [
+    "Adventure",
+    "Nature",
+    "Luxury",
+    "Winter",
+    "Honeymoon",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Swiss Alps",
+    "Switzerland",
+    "Swiss Alps, Switzerland",
+    "Central Europe",
+    "Swiss Alps tour package",
+    "Swiss Alps vacation package",
+    "Swiss Alps holiday package",
+    "things to do in Swiss Alps",
+    "best time to visit Swiss Alps",
+    "Swiss Alps itinerary",
+    "10 day Swiss Alps itinerary",
+    "Swiss Alps flights and hotels",
+    "Swiss Alps all inclusive package",
+    "cheap Swiss Alps package",
+    "luxury Swiss Alps package",
+    "Swiss Alps honeymoon package",
+    "Swiss Alps family vacation",
+    "Swiss Alps solo trip",
+    "Swiss Alps group tour",
+    "Swiss Alps weekend getaway",
+    "Swiss Alps guided tour",
+    "ZRH flights",
+    "Swiss Alps travel guide",
+    "book Swiss Alps trip online",
+    "Swiss Alps trip cost",
+    "Swiss Alps packages 10 days",
+    "Swiss Alps adventure",
+    "Swiss Alps nature",
+    "Swiss Alps luxury",
+    "Swiss Alps winter",
+    "Swiss Alps honeymoon",
+    "Swiss Alps bucket list",
+    "Jungfraujoch \"Top of Europe\"",
+    "Schilthorn (Piz Gloria) cable car",
+    "Matterhorn Glacier Paradise (Zermatt)",
+    "Gornergrat Railway",
+    "Trümmelbach Falls",
+    "Harder Kulm funicular",
+    "Lake Brienz boat cruise",
+    "Grindelwald First cliff walk & zipline",
+    "Lake Thun boat cruise",
+    "Gelmerbahn funicular",
+    "Interlaken town center & Höhematte park",
+    "Zermatt village car-free streets",
+    "Lake Brienz shoreline",
+    "Lauterbrunnen Valley",
+    "Staubbach Falls",
+    "Bachalpsee hike view",
+    "Männlichen viewpoint hike",
+    "Matterhorn viewpoint (Zermatt village)"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Swiss Alps, Switzerland — Matterhorn peak Zermatt",
+      "keywords": [
+        "Swiss Alps",
+        "Switzerland",
+        "Matterhorn peak Zermatt",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Swiss Alps Matterhorn peak Zermatt",
+      "pexelsQuery": "Swiss Alps Matterhorn peak Zermatt",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Swiss Alps, Switzerland — Matterhorn peak Zermatt",
+      "keywords": [
+        "Swiss Alps",
+        "Switzerland",
+        "Matterhorn peak Zermatt",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Swiss Alps Matterhorn peak Zermatt",
+      "pexelsQuery": "Swiss Alps Matterhorn peak Zermatt",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Swiss Alps, Switzerland — Jungfraujoch glacier",
+      "keywords": [
+        "Swiss Alps",
+        "Switzerland",
+        "Jungfraujoch glacier",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Swiss Alps Jungfraujoch glacier",
+      "pexelsQuery": "Swiss Alps Jungfraujoch glacier",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Swiss Alps, Switzerland — Lauterbrunnen waterfalls",
+      "keywords": [
+        "Swiss Alps",
+        "Switzerland",
+        "Lauterbrunnen waterfalls",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Swiss Alps Lauterbrunnen waterfalls",
+      "pexelsQuery": "Swiss Alps Lauterbrunnen waterfalls",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Swiss Alps, Switzerland — Matterhorn peak Zermatt",
+      "keywords": [
+        "Swiss Alps",
+        "Switzerland",
+        "Matterhorn peak Zermatt",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Swiss Alps Matterhorn peak Zermatt",
+      "pexelsQuery": "Swiss Alps Matterhorn peak Zermatt",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Swiss Alps, Switzerland — Jungfraujoch glacier",
+      "keywords": [
+        "Swiss Alps",
+        "Switzerland",
+        "Jungfraujoch glacier",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Swiss Alps Jungfraujoch glacier",
+      "pexelsQuery": "Swiss Alps Jungfraujoch glacier",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Swiss Alps, Switzerland — Lauterbrunnen waterfalls",
+      "keywords": [
+        "Swiss Alps",
+        "Switzerland",
+        "Lauterbrunnen waterfalls",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Swiss Alps Lauterbrunnen waterfalls",
+      "pexelsQuery": "Swiss Alps Lauterbrunnen waterfalls",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Swiss Alps, Switzerland — alpine lake reflection",
+      "keywords": [
+        "Swiss Alps",
+        "Switzerland",
+        "alpine lake reflection",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Swiss Alps alpine lake reflection",
+      "pexelsQuery": "Swiss Alps alpine lake reflection",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Swiss Alps, Switzerland — Jungfraujoch \"Top of Europe\"",
+      "keywords": [
+        "Swiss Alps",
+        "Switzerland",
+        "Jungfraujoch \"Top of Europe\"",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Swiss Alps Jungfraujoch \"Top of Europe\"",
+      "pexelsQuery": "Swiss Alps Jungfraujoch \"Top of Europe\"",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Swiss Alps, Switzerland — Schilthorn (Piz Gloria) cable car",
+      "keywords": [
+        "Swiss Alps",
+        "Switzerland",
+        "Schilthorn (Piz Gloria) cable car",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Swiss Alps Schilthorn (Piz Gloria) cable car",
+      "pexelsQuery": "Swiss Alps Schilthorn (Piz Gloria) cable car",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Swiss Alps, Switzerland — Matterhorn Glacier Paradise (Zermatt)",
+      "keywords": [
+        "Swiss Alps",
+        "Switzerland",
+        "Matterhorn Glacier Paradise (Zermatt)",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Swiss Alps Matterhorn Glacier Paradise (Zermatt)",
+      "pexelsQuery": "Swiss Alps Matterhorn Glacier Paradise (Zermatt)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Swiss Alps, Switzerland — Gornergrat Railway",
+      "keywords": [
+        "Swiss Alps",
+        "Switzerland",
+        "Gornergrat Railway",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Swiss Alps Gornergrat Railway",
+      "pexelsQuery": "Swiss Alps Gornergrat Railway",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-swiss-alps-10-1",
+      "author": "Yuki Williams",
+      "country": "Australia",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-10-19",
+      "title": "Unforgettable trip!",
+      "body": "Matterhorn Glacier Paradise (Zermatt) alone was worth the trip, but combined with Grindelwald First cliff walk & zipline this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-2",
+      "author": "Daniel Nguyen",
+      "country": "UAE",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-01-05",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Lake Brienz boat cruise and Lake Brienz boat cruise. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-3",
+      "author": "Noah Andersen",
+      "country": "Brazil",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-11-13",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Swiss Alps was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Interlaken town center & Höhematte park was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-4",
+      "author": "Arjun Williams",
+      "country": "Mexico",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-27",
+      "title": "Worth every penny",
+      "body": "Booked this as a group trip and it was well paced. Bachalpsee hike view in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-5",
+      "author": "Elena Cohen",
+      "country": "India",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-03-28",
+      "title": "A little rushed but still wonderful",
+      "body": "We added a couple of optional activities beyond Harder Kulm funicular and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-swiss-alps-10-6",
+      "author": "Lukas Khan",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-06",
+      "title": "Luxury without the hassle",
+      "body": "Swiss Alps is stunning and this package covered the essentials well, especially Lauterbrunnen Valley. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-7",
+      "author": "Yuki Smith",
+      "country": "Japan",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-01-04",
+      "title": "Beautiful destination, well organized",
+      "body": "Gelmerbahn funicular alone was worth the trip, but combined with Männlichen viewpoint hike this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-8",
+      "author": "Hiroshi Santos",
+      "country": "Brazil",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 3.5,
+      "date": "2025-09-09",
+      "title": "Beautiful destination, well organized",
+      "body": "Interlaken town center & Höhematte park alone was worth the trip, but combined with Trümmelbach Falls this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-swiss-alps-10-9",
+      "author": "Tom Larsen",
+      "country": "Australia",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-06-01",
+      "title": "A little rushed but still wonderful",
+      "body": "We added a couple of optional activities beyond Gornergrat Railway and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-10",
+      "author": "Sarah Brown",
+      "country": "United States",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-05-20",
+      "title": "Consultant made it effortless",
+      "body": "Swiss Alps is stunning and this package covered the essentials well, especially Jungfraujoch \"Top of Europe\". The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-11",
+      "author": "Sofia Brown",
+      "country": "Brazil",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-01",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a family of 4 trip and it was well paced. Interlaken town center & Höhematte park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-swiss-alps-10-12",
+      "author": "Mia Ivanov",
+      "country": "Australia",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-02-27",
+      "title": "A little rushed but still wonderful",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Gornergrat Railway and Zermatt village car-free streets. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-13",
+      "author": "Grace Nguyen",
+      "country": "South Africa",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-02-14",
+      "title": "Worth every penny",
+      "body": "We added a couple of optional activities beyond Zermatt village car-free streets and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-14",
+      "author": "Lucas Garcia",
+      "country": "United States",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-05",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Jungfraujoch \"Top of Europe\" and Gornergrat Railway. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-15",
+      "author": "James Khan",
+      "country": "Australia",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-05-25",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Swiss Alps was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Matterhorn Glacier Paradise (Zermatt) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-16",
+      "author": "Lukas Smith",
+      "country": "UAE",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-02",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Swiss Alps is stunning and this package covered the essentials well, especially Lake Brienz boat cruise. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-swiss-alps-10-17",
+      "author": "Anna Fernandez",
+      "country": "UAE",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-08-16",
+      "title": "Worth every penny",
+      "body": "Swiss Alps is stunning and this package covered the essentials well, especially Grindelwald First cliff walk & zipline. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-18",
+      "author": "Priya Dubois",
+      "country": "United Kingdom",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-03-03",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a couple trip and it was well paced. Schilthorn (Piz Gloria) cable car in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-swiss-alps-10-19",
+      "author": "Anna Patel",
+      "country": "Italy",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-08-30",
+      "title": "Solid mid-range package",
+      "body": "Swiss Alps is stunning and this package covered the essentials well, especially Männlichen viewpoint hike. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-swiss-alps-10-20",
+      "author": "Hiroshi Smith",
+      "country": "United States",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-02-19",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Jungfraujoch \"Top of Europe\" alone was worth the trip, but combined with Matterhorn viewpoint (Zermatt village) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.4,
+    "transportation": 4.4,
+    "activities": 4.5,
+    "value": 4.3,
+    "cleanliness": 4.4,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Swiss Alps Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 22,
+      "neighborhood": "Höheweg promenade Interlaken"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Swiss Alps Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 40,
+      "neighborhood": "Zermatt Bahnhofstrasse"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Swiss Alps Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 74,
+      "neighborhood": "Swiss watch boutiques"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Swiss Alps Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 95,
+      "neighborhood": "Local cheese and chocolate shops"
+    },
+    {
+      "tier": "Resort",
+      "name": "Swiss Alps Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 190,
+      "neighborhood": "Buddy's Pub Interlaken"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Swiss Alps Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 315,
+      "neighborhood": "Husi Bar"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Swiss Alps Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 375,
+      "neighborhood": "Papa Joe's Interlaken"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        532,
+        845
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        545,
+        865
+      ],
+      "estimatedFlightHours": 9.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        133,
+        212
+      ],
+      "estimatedFlightHours": 1.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        111,
+        177
+      ],
+      "estimatedFlightHours": 1.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        105,
+        166
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        123,
+        196
+      ],
+      "estimatedFlightHours": 1.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        161,
+        255
+      ],
+      "estimatedFlightHours": 2.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        125,
+        198
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1278,
+        2030
+      ],
+      "estimatedFlightHours": 23.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1412,
+        2242
+      ],
+      "estimatedFlightHours": 25.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        525,
+        834
+      ],
+      "estimatedFlightHours": 9.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        775,
+        1231
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        717,
+        1138
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        825,
+        1310
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        734,
+        1165
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        802,
+        1274
+      ],
+      "estimatedFlightHours": 14.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        885,
+        1405
+      ],
+      "estimatedFlightHours": 15.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        836,
+        1327
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        784,
+        1245
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        423,
+        672
+      ],
+      "estimatedFlightHours": 7.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        381,
+        605
+      ],
+      "estimatedFlightHours": 6.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        403,
+        640
+      ],
+      "estimatedFlightHours": 6.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        362,
+        575
+      ],
+      "estimatedFlightHours": 6.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        680,
+        1080
+      ],
+      "estimatedFlightHours": 12.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        765,
+        1215
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        775,
+        1231
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Jungfraujoch \"Top of Europe\"",
+    "Schilthorn (Piz Gloria) cable car",
+    "Matterhorn Glacier Paradise (Zermatt)",
+    "Gornergrat Railway",
+    "Trümmelbach Falls",
+    "Harder Kulm funicular",
+    "Lake Brienz boat cruise",
+    "Grindelwald First cliff walk & zipline",
+    "Lake Thun boat cruise",
+    "Gelmerbahn funicular",
+    "Interlaken town center & Höhematte park",
+    "Zermatt village car-free streets",
+    "Lake Brienz shoreline",
+    "Lauterbrunnen Valley",
+    "Staubbach Falls",
+    "Bachalpsee hike view",
+    "Männlichen viewpoint hike",
+    "Matterhorn viewpoint (Zermatt village)",
+    "Bern (Swiss capital)",
+    "Lucerne",
+    "Lauterbrunnen and Mürren",
+    "Zermatt and the Matterhorn",
+    "Ballenberg Open-Air Museum",
+    "Matterhorn Museum Zermatlantis",
+    "Swiss Alpine Museum (Bern day trip)",
+    "Höhematte Park Interlaken",
+    "Lauterbrunnen Valley nature area",
+    "Lake Thun lido beach",
+    "Lake Brienz lakeside beach",
+    "Bachalpsee alpine lake reflection",
+    "Matterhorn from Zermatt village",
+    "Lauterbrunnen waterfall valley",
+    "Harder Kulm viewpoint",
+    "Lake Brienz turquoise waters"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Jungfraujoch \"Top of Europe\"",
+      "priceUSD": 230
+    },
+    {
+      "name": "Schilthorn (Piz Gloria) cable car",
+      "priceUSD": 110
+    },
+    {
+      "name": "Matterhorn Glacier Paradise (Zermatt)",
+      "priceUSD": 130
+    },
+    {
+      "name": "Gornergrat Railway",
+      "priceUSD": 100
+    },
+    {
+      "name": "Trümmelbach Falls",
+      "priceUSD": 14
+    },
+    {
+      "name": "Harder Kulm funicular",
+      "priceUSD": 38
+    },
+    {
+      "name": "Lake Brienz boat cruise",
+      "priceUSD": 45
+    },
+    {
+      "name": "Grindelwald First cliff walk & zipline",
+      "priceUSD": 75
+    },
+    {
+      "name": "Lake Thun boat cruise",
+      "priceUSD": 40
+    },
+    {
+      "name": "Gelmerbahn funicular",
+      "priceUSD": 32
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Interlaken town center & Höhematte park",
+    "Zermatt village car-free streets",
+    "Lake Brienz shoreline",
+    "Lauterbrunnen Valley",
+    "Staubbach Falls",
+    "Bachalpsee hike view",
+    "Männlichen viewpoint hike",
+    "Matterhorn viewpoint (Zermatt village)"
+  ],
+  "museums": [
+    "Ballenberg Open-Air Museum",
+    "Matterhorn Museum Zermatlantis",
+    "Swiss Alpine Museum (Bern day trip)"
+  ],
+  "parks": [
+    "Höhematte Park Interlaken",
+    "Lauterbrunnen Valley nature area"
+  ],
+  "beaches": [
+    "Lake Thun lido beach",
+    "Lake Brienz lakeside beach"
+  ],
+  "dayTrips": [
+    "Bern (Swiss capital)",
+    "Lucerne",
+    "Lauterbrunnen and Mürren",
+    "Zermatt and the Matterhorn"
+  ],
+  "fromPriceUSD": 2281,
+  "seo": {
+    "title": "Swiss Alps 10-Day Adventure Tour | Flights, Hotels & Tours Included",
+    "slug": "swiss-alps-10-day-package",
+    "keywords": [
+      "Swiss Alps",
+      "Switzerland",
+      "Swiss Alps, Switzerland",
+      "Central Europe",
+      "Swiss Alps tour package",
+      "Swiss Alps vacation package",
+      "Swiss Alps holiday package",
+      "things to do in Swiss Alps",
+      "best time to visit Swiss Alps",
+      "Swiss Alps itinerary",
+      "10 day Swiss Alps itinerary",
+      "Swiss Alps flights and hotels",
+      "Swiss Alps all inclusive package",
+      "cheap Swiss Alps package",
+      "luxury Swiss Alps package"
+    ],
+    "canonicalUrl": "/packages/swiss-alps-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Swiss Alps Package",
+        "url": "/packages/swiss-alps-7-day-package"
+      },
+      {
+        "title": "14-Day Swiss Alps Package",
+        "url": "/packages/swiss-alps-14-day-package"
+      },
+      {
+        "title": "Reykjavik 10-Day Nature Retreat",
+        "url": "/packages/reykjavik-10-day-package"
+      },
+      {
+        "title": "Queenstown 10-Day Adventure Tour",
+        "url": "/packages/queenstown-10-day-package"
+      },
+      {
+        "title": "Fiji 10-Day Beach Getaway",
+        "url": "/packages/fiji-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Swiss Alps — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Swiss_Alps"
+      },
+      {
+        "title": "Swiss Alps — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Swiss_Alps"
+      }
+    ]
+  }
+}

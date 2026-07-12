@@ -1,0 +1,1691 @@
+{
+  "id": "PKG-bali-10D",
+  "slug": "bali-10-day-package",
+  "destinationSlug": "bali",
+  "destinationName": "Bali",
+  "country": "Indonesia",
+  "region": "Southeast Asia",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Bali 10-Day Beach Getaway",
+  "metaTitle": "Bali 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Bali, Indonesia: round-trip flights, hotel, breakfast, transfers, and guided tours including Tanah Lot Temple and Uluwatu Temple & Kecak Fire Dance. Prices from $2121 per person (estimate).",
+  "highlights": [
+    "Tanah Lot Temple",
+    "Uluwatu Temple & Kecak Fire Dance",
+    "Kuta Beach",
+    "Mount Batur sunrise trek",
+    "Private pool villa stay in Ubud",
+    "Nusa Penida island"
+  ],
+  "overview": "Spend 10 days discovering Bali, Indonesia — Tropical climate with warm temperatures year-round (highs 29-32°C); wet season runs roughly November to March with afternoon downpours, dry season April to October is sunnier. April to October (dry season) offers sunny days and lower humidity, ideal for beaches, hiking and temple visits; July-August is peak crowds and pricing. This itinerary blends Tanah Lot Temple, Uluwatu Temple & Kecak Fire Dance, Kuta Beach with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Tanah Lot Temple, Uluwatu Temple & Kecak Fire Dance, Kuta Beach",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Bali",
+      "description": "Land at Ngurah Rai International Airport (DPS) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Tanah Lot Temple — Iconic sea temple perched on an offshore rock. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Tanah Lot Temple"
+      ],
+      "overnight": "Bali"
+    },
+    {
+      "day": 2,
+      "title": "Bali: Uluwatu Temple & Kecak Fire Dance & Tegallalang Rice Terraces",
+      "description": "Morning visit to Uluwatu Temple & Kecak Fire Dance — Clifftop temple with evening traditional dance performance. In the afternoon, continue to Tegallalang Rice Terraces — Iconic stepped emerald rice paddies near Ubud. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Uluwatu Temple & Kecak Fire Dance",
+        "Tegallalang Rice Terraces"
+      ],
+      "overnight": "Bali"
+    },
+    {
+      "day": 3,
+      "title": "Bali: Ubud Monkey Forest & Mount Batur sunrise trek",
+      "description": "Morning visit to Ubud Monkey Forest — Sacred sanctuary with hundreds of long-tailed macaques. In the afternoon, continue to Mount Batur sunrise trek — Guided pre-dawn volcano hike with summit sunrise views. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Ubud Monkey Forest",
+        "Mount Batur sunrise trek"
+      ],
+      "overnight": "Bali"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Nusa Penida island",
+      "description": "Full-day excursion to Nusa Penida island, a popular side trip from Bali. Return to Bali in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Nusa Penida island",
+        "Free evening"
+      ],
+      "overnight": "Bali"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Sidemen Valley rice fields — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Sidemen Valley rice fields"
+      ],
+      "overnight": "Bali"
+    },
+    {
+      "day": 6,
+      "title": "Bali: Tirta Empul Water Temple & Waterbom Bali",
+      "description": "Morning visit to Tirta Empul Water Temple — Holy spring temple for ritual purification bathing. In the afternoon, continue to Waterbom Bali — Award-winning waterpark in Kuta. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Tirta Empul Water Temple",
+        "Waterbom Bali"
+      ],
+      "overnight": "Bali"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Mount Batur sunrise trek",
+      "description": "Full-day excursion to Mount Batur sunrise trek, a popular side trip from Bali. Return to Bali in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Mount Batur sunrise trek",
+        "Free evening"
+      ],
+      "overnight": "Bali"
+    },
+    {
+      "day": 8,
+      "title": "Bali: Bali Swing Ubud & Nusa Penida day tour",
+      "description": "Morning visit to Bali Swing Ubud — Jungle swing and photo attraction over a ravine. In the afternoon, continue to Nusa Penida day tour — Boat trip to see Kelingking Beach and dramatic cliffs. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Bali Swing Ubud",
+        "Nusa Penida day tour"
+      ],
+      "overnight": "Bali"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Munduk waterfalls and coffee plantations — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Munduk waterfalls and coffee plantations"
+      ],
+      "overnight": "Bali"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to White water rafting, Ayung River or some souvenir shopping — before your private transfer to DPS for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Hire a private driver for full-day sightseeing — it's affordable and removes the stress of navigating chaotic traffic.",
+    "Visit Tegallalang and Lempuyang early morning to avoid both crowds and midday heat.",
+    "Carry a stash of small IDR bills for temple donations, parking and street food.",
+    "Check Nyepi (Day of Silence) dates if traveling in March — the entire island shuts down, including the airport, for 24 hours.",
+    "Negotiate scooter/car rental prices and always wear a helmet — traffic enforcement and accident risk are real.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "A sarong for temple visits (some temples provide one, but bringing your own helps)",
+    "Reef-safe sunscreen and rash guard for surfing/snorkeling",
+    "Light, breathable clothing for humidity",
+    "A light rain jacket for wet season showers"
+  ],
+  "thingsToDo": [
+    "Tanah Lot Temple",
+    "Uluwatu Temple & Kecak Fire Dance",
+    "Tegallalang Rice Terraces",
+    "Ubud Monkey Forest",
+    "Mount Batur sunrise trek",
+    "Tirta Empul Water Temple",
+    "Waterbom Bali",
+    "Bali Swing Ubud",
+    "Nusa Penida day tour",
+    "White water rafting, Ayung River",
+    "Kuta Beach",
+    "Seminyak Beach",
+    "Ubud town center",
+    "Campuhan Ridge Walk",
+    "Sekumpul Waterfall viewpoint (small entry may apply)",
+    "Canggu rice fields and surf beaches",
+    "Jatiluwih Rice Terraces (UNESCO)",
+    "Lempuyang Temple \"Gate of Heaven\" (small donation)",
+    "White water rafting on the Ayung River",
+    "Surfing lessons in Canggu or Kuta"
+  ],
+  "thingsToAvoid": [
+    "Renting a scooter without prior riding experience — Bali's traffic is chaotic and accidents among tourists are common.",
+    "Drinking tap water — stick to bottled or filtered water throughout the island.",
+    "Disrespecting temple dress codes — sarongs are mandatory at most sites, not optional.",
+    "The \"closed road/temple\" taxi scam redirecting you to a commission-paying shop — verify independently.",
+    "Swimming at Kuta or Uluwatu beaches during high surf without checking flag warnings — currents can be dangerous."
+  ],
+  "topRestaurants": [
+    "Locavore — Modern Indonesian Fine Dining ($$$$)",
+    "Bebek Bengil (Dirty Duck Diner) — Balinese ($$)",
+    "Warung Babi Guling Ibu Oka — Balinese Roast Pork ($)",
+    "Métis Restaurant — French-Mediterranean ($$$)",
+    "Naughty Nuri's Warung — BBQ Ribs / Indonesian ($$)",
+    "Mama San — Pan-Asian ($$$)",
+    "Warung Sopa — Healthy Indonesian ($$)",
+    "Sardine Bali — Seafood, rice-field views ($$$)"
+  ],
+  "topCafes": [
+    "Seniman Coffee Studio",
+    "Revolver Espresso",
+    "Crate Café Canggu",
+    "Alchemy Bali",
+    "Kynd Community"
+  ],
+  "shoppingAreas": [
+    "Ubud Art Market",
+    "Seminyak boutiques",
+    "Sukawati Art Market",
+    "Beachwalk Shopping Center"
+  ],
+  "nightlife": [
+    "Potato Head Beach Club",
+    "Sky Garden Kuta",
+    "La Favela Seminyak",
+    "Old Man's, Canggu"
+  ],
+  "instagramSpots": [
+    "Tegallalang rice terraces",
+    "Lempuyang \"Gate of Heaven\"",
+    "Tanah Lot at sunset",
+    "Kelingking Beach, Nusa Penida",
+    "Bali Swing jungle views"
+  ],
+  "hiddenGems": [
+    "Sidemen Valley rice fields",
+    "Munduk waterfalls and coffee plantations",
+    "Amed black sand diving village",
+    "Sekumpul Waterfall"
+  ],
+  "familyActivities": [
+    "Waterbom Bali waterpark",
+    "Bali Safari and Marine Park",
+    "Ubud Monkey Forest",
+    "Turtle conservation visit at Serangan Island"
+  ],
+  "adventureActivities": [
+    "Mount Batur sunrise trek",
+    "White water rafting on the Ayung River",
+    "Surfing lessons in Canggu or Kuta",
+    "Scuba diving/snorkeling around Nusa Penida"
+  ],
+  "luxuryExperiences": [
+    "Private villa with an infinity pool in Ubud or Uluwatu",
+    "Fine dining tasting menu at Locavore",
+    "Private yacht day trip to Nusa Penida",
+    "Spa retreat at a jungle wellness resort"
+  ],
+  "honeymoonExperiences": [
+    "Private pool villa stay in Ubud",
+    "Sunset dinner at a clifftop Uluwatu restaurant",
+    "Couples spa and flower bath ritual",
+    "Private sunrise trek up Mount Batur together"
+  ],
+  "budgetExperiences": [
+    "Free surf and sunset at Kuta or Canggu Beach",
+    "Warung (local eatery) meals for a few dollars",
+    "Campuhan Ridge Walk for free jungle views",
+    "Ubud town temple and market wandering"
+  ],
+  "estimatedDailyBudgetUSD": [
+    30,
+    65,
+    140,
+    320
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 45,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Feb",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 30,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 30,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 31,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Nyepi (Balinese Day of Silence)",
+      "timing": "March (Balinese Saka New Year)"
+    },
+    {
+      "name": "Galungan & Kuningan",
+      "timing": "Every 210 days per the Balinese pawukon calendar"
+    },
+    {
+      "name": "Bali Arts Festival",
+      "timing": "June to July"
+    },
+    {
+      "name": "Ubud Writers & Readers Festival",
+      "timing": "October"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "110",
+    "ambulance": "118",
+    "fire": "113"
+  },
+  "localEtiquette": [
+    "Dress modestly and wear a sarong/sash when entering Hindu temples.",
+    "Never touch someone's head, including children's — it's considered the most sacred body part.",
+    "Use your right hand for giving, receiving, and eating.",
+    "Step around, not over, offerings (canang sari) placed on the ground.",
+    "Remove shoes before entering homes and some temple areas."
+  ],
+  "localTransportGuide": "Renting a scooter is the most common way to get around Bali's traffic, though hiring a private driver for the day is a safer, affordable option for longer trips between regions. Ride-hailing apps like Gojek and Grab work well in southern tourist hubs but are restricted in some traditional areas.",
+  "bestTimeToVisit": "April to October (dry season) offers sunny days and lower humidity, ideal for beaches, hiking and temple visits; July-August is peak crowds and pricing.",
+  "weather": "Tropical climate with warm temperatures year-round (highs 29-32°C); wet season runs roughly November to March with afternoon downpours, dry season April to October is sunnier.",
+  "visaInformation": "Most nationalities including the US, UK, Canada, Australia and EU citizens can obtain a Visa on Arrival (typically valid 30 days, extendable once) for a fee paid on entry. Verify current requirements against your specific passport before travel.",
+  "currency": "IDR",
+  "languages": [
+    "Indonesian",
+    "Balinese"
+  ],
+  "timeZone": "WITA (UTC+8)",
+  "averageFlightTime": "~12.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Ngurah Rai International Airport (DPS)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Bali?",
+      "answer": "Most nationalities including the US, UK, Canada, Australia and EU citizens can obtain a Visa on Arrival (typically valid 30 days, extendable once) for a fee paid on entry. Verify current requirements against your specific passport before travel."
+    },
+    {
+      "question": "What is the best time to visit Bali?",
+      "answer": "April to October (dry season) offers sunny days and lower humidity, ideal for beaches, hiking and temple visits; July-August is peak crowds and pricing. Tropical climate with warm temperatures year-round (highs 29-32°C); wet season runs roughly November to March with afternoon downpours, dry season April to October is sunnier."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Bali safe for tourists?",
+      "answer": "Bali is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Bali?",
+      "answer": "The local currency is IDR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Bali is one of our most-booked honeymoon destinations, especially the Private pool villa stay in Ubud experience."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Honeymoon",
+    "Nature",
+    "Adventure",
+    "Culture",
+    "Romantic",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Bali",
+    "Indonesia",
+    "Bali, Indonesia",
+    "Southeast Asia",
+    "Bali tour package",
+    "Bali vacation package",
+    "Bali holiday package",
+    "things to do in Bali",
+    "best time to visit Bali",
+    "Bali itinerary",
+    "10 day Bali itinerary",
+    "Bali flights and hotels",
+    "Bali all inclusive package",
+    "cheap Bali package",
+    "luxury Bali package",
+    "Bali honeymoon package",
+    "Bali family vacation",
+    "Bali solo trip",
+    "Bali group tour",
+    "Bali weekend getaway",
+    "Bali guided tour",
+    "DPS flights",
+    "Bali travel guide",
+    "book Bali trip online",
+    "Bali trip cost",
+    "Bali packages 10 days",
+    "Bali beach",
+    "Bali honeymoon",
+    "Bali nature",
+    "Bali adventure",
+    "Bali culture",
+    "Bali romantic",
+    "Bali bucket list",
+    "Tanah Lot Temple",
+    "Uluwatu Temple & Kecak Fire Dance",
+    "Tegallalang Rice Terraces",
+    "Ubud Monkey Forest",
+    "Mount Batur sunrise trek",
+    "Tirta Empul Water Temple",
+    "Waterbom Bali",
+    "Bali Swing Ubud",
+    "Nusa Penida day tour",
+    "White water rafting, Ayung River",
+    "Kuta Beach",
+    "Seminyak Beach",
+    "Ubud town center",
+    "Campuhan Ridge Walk",
+    "Sekumpul Waterfall viewpoint (small entry may apply)",
+    "Canggu rice fields and surf beaches",
+    "Jatiluwih Rice Terraces (UNESCO)"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Bali, Indonesia — Tegallalang rice terraces",
+      "keywords": [
+        "Bali",
+        "Indonesia",
+        "Tegallalang rice terraces",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Bali Tegallalang rice terraces",
+      "pexelsQuery": "Bali Tegallalang rice terraces",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Bali, Indonesia — Tegallalang rice terraces",
+      "keywords": [
+        "Bali",
+        "Indonesia",
+        "Tegallalang rice terraces",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Bali Tegallalang rice terraces",
+      "pexelsQuery": "Bali Tegallalang rice terraces",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Bali, Indonesia — Uluwatu clifftop temple",
+      "keywords": [
+        "Bali",
+        "Indonesia",
+        "Uluwatu clifftop temple",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Bali Uluwatu clifftop temple",
+      "pexelsQuery": "Bali Uluwatu clifftop temple",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Bali, Indonesia — Bali infinity pool jungle",
+      "keywords": [
+        "Bali",
+        "Indonesia",
+        "Bali infinity pool jungle",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Bali Bali infinity pool jungle",
+      "pexelsQuery": "Bali Bali infinity pool jungle",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Bali, Indonesia — Tegallalang rice terraces",
+      "keywords": [
+        "Bali",
+        "Indonesia",
+        "Tegallalang rice terraces",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Bali Tegallalang rice terraces",
+      "pexelsQuery": "Bali Tegallalang rice terraces",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bali, Indonesia — Uluwatu clifftop temple",
+      "keywords": [
+        "Bali",
+        "Indonesia",
+        "Uluwatu clifftop temple",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Bali Uluwatu clifftop temple",
+      "pexelsQuery": "Bali Uluwatu clifftop temple",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bali, Indonesia — Bali infinity pool jungle",
+      "keywords": [
+        "Bali",
+        "Indonesia",
+        "Bali infinity pool jungle",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Bali Bali infinity pool jungle",
+      "pexelsQuery": "Bali Bali infinity pool jungle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bali, Indonesia — Kelingking Beach cliff",
+      "keywords": [
+        "Bali",
+        "Indonesia",
+        "Kelingking Beach cliff",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Bali Kelingking Beach cliff",
+      "pexelsQuery": "Bali Kelingking Beach cliff",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bali, Indonesia — Tanah Lot Temple",
+      "keywords": [
+        "Bali",
+        "Indonesia",
+        "Tanah Lot Temple",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Bali Tanah Lot Temple",
+      "pexelsQuery": "Bali Tanah Lot Temple",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bali, Indonesia — Uluwatu Temple & Kecak Fire Dance",
+      "keywords": [
+        "Bali",
+        "Indonesia",
+        "Uluwatu Temple & Kecak Fire Dance",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Bali Uluwatu Temple & Kecak Fire Dance",
+      "pexelsQuery": "Bali Uluwatu Temple & Kecak Fire Dance",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bali, Indonesia — Ubud Monkey Forest",
+      "keywords": [
+        "Bali",
+        "Indonesia",
+        "Ubud Monkey Forest",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Bali Ubud Monkey Forest",
+      "pexelsQuery": "Bali Ubud Monkey Forest",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bali, Indonesia — Lempuyang \"Gate of Heaven\"",
+      "keywords": [
+        "Bali",
+        "Indonesia",
+        "Lempuyang \"Gate of Heaven\"",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Bali Lempuyang \"Gate of Heaven\"",
+      "pexelsQuery": "Bali Lempuyang \"Gate of Heaven\"",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-bali-10-1",
+      "author": "Olivia Tanaka",
+      "country": "UAE",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-04-30",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Bali was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Waterbom Bali was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-2",
+      "author": "Mohammed Williams",
+      "country": "Germany",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-05-21",
+      "title": "Consultant made it effortless",
+      "body": "Mount Batur sunrise trek alone was worth the trip, but combined with Tirta Empul Water Temple this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-3",
+      "author": "Ava Ibrahim",
+      "country": "United Kingdom",
+      "rating": 3.9,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-16",
+      "title": "Adventure of a lifetime",
+      "body": "Tanah Lot Temple alone was worth the trip, but combined with Campuhan Ridge Walk this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-4",
+      "author": "Liam Costa",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-12-24",
+      "title": "Exceeded our expectations",
+      "body": "Our trip to Bali was fantastic from start to finish. The hotel was clean and well located, and the guided visit to White water rafting, Ayung River was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-5",
+      "author": "Tom Brown",
+      "country": "Brazil",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-08-11",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond White water rafting, Ayung River and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-bali-10-6",
+      "author": "Tom Santos",
+      "country": "France",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-01-06",
+      "title": "Perfect for our honeymoon",
+      "body": "We added a couple of optional activities beyond Mount Batur sunrise trek and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-7",
+      "author": "Omar Brown",
+      "country": "Japan",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-04-01",
+      "title": "A little rushed but still wonderful",
+      "body": "We added a couple of optional activities beyond White water rafting, Ayung River and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-8",
+      "author": "Sarah Tanaka",
+      "country": "Japan",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-04-30",
+      "title": "Best vacation we've had",
+      "body": "Bali is stunning and this package covered the essentials well, especially White water rafting, Ayung River. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-9",
+      "author": "Daniel Novak",
+      "country": "Australia",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-03-05",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Ubud Monkey Forest and Uluwatu Temple & Kecak Fire Dance. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-10",
+      "author": "Ethan Silva",
+      "country": "India",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-10-11",
+      "title": "Perfect for our honeymoon",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Waterbom Bali and Tirta Empul Water Temple. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-11",
+      "author": "Anna Ibrahim",
+      "country": "Saudi Arabia",
+      "rating": 4.6,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-11",
+      "title": "Would book again in a heartbeat",
+      "body": "Bali is stunning and this package covered the essentials well, especially Canggu rice fields and surf beaches. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-12",
+      "author": "Daniel Müller",
+      "country": "India",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2026-02-05",
+      "title": "Highly recommend this package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Tirta Empul Water Temple and White water rafting, Ayung River. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-bali-10-13",
+      "author": "Tom Khan",
+      "country": "India",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-07-12",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Tirta Empul Water Temple and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-bali-10-14",
+      "author": "Lukas Dubois",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-06-29",
+      "title": "Consultant made it effortless",
+      "body": "Bali is stunning and this package covered the essentials well, especially Campuhan Ridge Walk. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-15",
+      "author": "Hiroshi van Dijk",
+      "country": "South Korea",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-26",
+      "title": "Would book again in a heartbeat",
+      "body": "Nusa Penida day tour alone was worth the trip, but combined with Kuta Beach this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-16",
+      "author": "Marco Rossi",
+      "country": "Germany",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-18",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Ubud Monkey Forest and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-17",
+      "author": "Marco Brown",
+      "country": "Saudi Arabia",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-12-20",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Canggu rice fields and surf beaches and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-bali-10-18",
+      "author": "Chen Fernandez",
+      "country": "South Africa",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-09-23",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a couple trip and it was well paced. Seminyak Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-19",
+      "author": "Arjun Cohen",
+      "country": "Mexico",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-06-25",
+      "title": "Great for families with kids",
+      "body": "Booked this as a family of 4 trip and it was well paced. Canggu rice fields and surf beaches in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bali-10-20",
+      "author": "Arjun Ibrahim",
+      "country": "Canada",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-12",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a group trip and it was well paced. Tegallalang Rice Terraces in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.4,
+    "hotel": 4.4,
+    "transportation": 4.4,
+    "activities": 4.4,
+    "value": 4.4,
+    "cleanliness": 4.3,
+    "safety": 4.6,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Bali Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 7,
+      "neighborhood": "Ubud Art Market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Bali Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 12,
+      "neighborhood": "Seminyak boutiques"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Bali Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 23,
+      "neighborhood": "Sukawati Art Market"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Bali Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 29,
+      "neighborhood": "Beachwalk Shopping Center"
+    },
+    {
+      "tier": "Resort",
+      "name": "Bali Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 70,
+      "neighborhood": "Potato Head Beach Club"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Bali Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 134,
+      "neighborhood": "Sky Garden Kuta"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Bali Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "La Favela Seminyak"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1255,
+        1993
+      ],
+      "estimatedFlightHours": 22.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1221,
+        1940
+      ],
+      "estimatedFlightHours": 22.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        977,
+        1551
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        970,
+        1540
+      ],
+      "estimatedFlightHours": 17.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        935,
+        1485
+      ],
+      "estimatedFlightHours": 16.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        920,
+        1461
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        1018,
+        1617
+      ],
+      "estimatedFlightHours": 18.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        951,
+        1511
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        938,
+        1490
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        413,
+        656
+      ],
+      "estimatedFlightHours": 7.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        565,
+        898
+      ],
+      "estimatedFlightHours": 9.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        494,
+        784
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        476,
+        756
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        456,
+        724
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        196,
+        311
+      ],
+      "estimatedFlightHours": 3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        289,
+        459
+      ],
+      "estimatedFlightHours": 4.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        218,
+        347
+      ],
+      "estimatedFlightHours": 3.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        145,
+        230
+      ],
+      "estimatedFlightHours": 2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        267,
+        424
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        245,
+        389
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        616,
+        979
+      ],
+      "estimatedFlightHours": 10.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        674,
+        1071
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        642,
+        1019
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        677,
+        1075
+      ],
+      "estimatedFlightHours": 12,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        749,
+        1189
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1229,
+        1952
+      ],
+      "estimatedFlightHours": 22.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Ngurah Rai International Airport (DPS)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1242,
+        1972
+      ],
+      "estimatedFlightHours": 22.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Tanah Lot Temple",
+    "Uluwatu Temple & Kecak Fire Dance",
+    "Tegallalang Rice Terraces",
+    "Ubud Monkey Forest",
+    "Mount Batur sunrise trek",
+    "Tirta Empul Water Temple",
+    "Waterbom Bali",
+    "Bali Swing Ubud",
+    "Nusa Penida day tour",
+    "White water rafting, Ayung River",
+    "Kuta Beach",
+    "Seminyak Beach",
+    "Ubud town center",
+    "Campuhan Ridge Walk",
+    "Sekumpul Waterfall viewpoint (small entry may apply)",
+    "Canggu rice fields and surf beaches",
+    "Jatiluwih Rice Terraces (UNESCO)",
+    "Lempuyang Temple \"Gate of Heaven\" (small donation)",
+    "Nusa Penida island",
+    "Ubud and central rice terraces",
+    "Amed and Tulamben (diving)",
+    "Museum Puri Lukisan (Ubud)",
+    "Agung Rai Museum of Art (ARMA)",
+    "Bali Museum, Denpasar",
+    "Bali Botanic Garden (Bedugul)",
+    "West Bali National Park",
+    "Nusa Dua Beach",
+    "Kelingking Beach (Nusa Penida)",
+    "Lempuyang \"Gate of Heaven\"",
+    "Tanah Lot at sunset",
+    "Kelingking Beach, Nusa Penida",
+    "Bali Swing jungle views"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Tanah Lot Temple",
+      "priceUSD": 4
+    },
+    {
+      "name": "Uluwatu Temple & Kecak Fire Dance",
+      "priceUSD": 7
+    },
+    {
+      "name": "Tegallalang Rice Terraces",
+      "priceUSD": 2
+    },
+    {
+      "name": "Ubud Monkey Forest",
+      "priceUSD": 6
+    },
+    {
+      "name": "Mount Batur sunrise trek",
+      "priceUSD": 45
+    },
+    {
+      "name": "Tirta Empul Water Temple",
+      "priceUSD": 3
+    },
+    {
+      "name": "Waterbom Bali",
+      "priceUSD": 45
+    },
+    {
+      "name": "Bali Swing Ubud",
+      "priceUSD": 25
+    },
+    {
+      "name": "Nusa Penida day tour",
+      "priceUSD": 55
+    },
+    {
+      "name": "White water rafting, Ayung River",
+      "priceUSD": 35
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Kuta Beach",
+    "Seminyak Beach",
+    "Ubud town center",
+    "Campuhan Ridge Walk",
+    "Sekumpul Waterfall viewpoint (small entry may apply)",
+    "Canggu rice fields and surf beaches",
+    "Jatiluwih Rice Terraces (UNESCO)",
+    "Lempuyang Temple \"Gate of Heaven\" (small donation)"
+  ],
+  "museums": [
+    "Museum Puri Lukisan (Ubud)",
+    "Agung Rai Museum of Art (ARMA)",
+    "Bali Museum, Denpasar"
+  ],
+  "parks": [
+    "Ubud Monkey Forest",
+    "Bali Botanic Garden (Bedugul)",
+    "West Bali National Park"
+  ],
+  "beaches": [
+    "Kuta Beach",
+    "Seminyak Beach",
+    "Nusa Dua Beach",
+    "Kelingking Beach (Nusa Penida)"
+  ],
+  "dayTrips": [
+    "Nusa Penida island",
+    "Mount Batur sunrise trek",
+    "Ubud and central rice terraces",
+    "Amed and Tulamben (diving)"
+  ],
+  "fromPriceUSD": 2121,
+  "seo": {
+    "title": "Bali 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "bali-10-day-package",
+    "keywords": [
+      "Bali",
+      "Indonesia",
+      "Bali, Indonesia",
+      "Southeast Asia",
+      "Bali tour package",
+      "Bali vacation package",
+      "Bali holiday package",
+      "things to do in Bali",
+      "best time to visit Bali",
+      "Bali itinerary",
+      "10 day Bali itinerary",
+      "Bali flights and hotels",
+      "Bali all inclusive package",
+      "cheap Bali package",
+      "luxury Bali package"
+    ],
+    "canonicalUrl": "/packages/bali-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Bali Package",
+        "url": "/packages/bali-7-day-package"
+      },
+      {
+        "title": "14-Day Bali Package",
+        "url": "/packages/bali-14-day-package"
+      },
+      {
+        "title": "Cappadocia 10-Day Adventure Tour",
+        "url": "/packages/cappadocia-10-day-package"
+      },
+      {
+        "title": "Fiji 10-Day Beach Getaway",
+        "url": "/packages/fiji-10-day-package"
+      },
+      {
+        "title": "Mauritius 10-Day Beach Getaway",
+        "url": "/packages/mauritius-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Bali — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bali"
+      },
+      {
+        "title": "Bali — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Bali"
+      }
+    ]
+  }
+}

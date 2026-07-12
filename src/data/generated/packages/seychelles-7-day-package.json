@@ -1,0 +1,1632 @@
+{
+  "id": "PKG-seychelles-7D",
+  "slug": "seychelles-7-day-package",
+  "destinationSlug": "seychelles",
+  "destinationName": "Seychelles",
+  "country": "Seychelles",
+  "region": "Indian Ocean",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Seychelles 7-Day Beach Getaway",
+  "metaTitle": "Seychelles 7-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Seychelles, Seychelles: round-trip flights, hotel, breakfast, transfers, and guided tours including Vallée de Mai Nature Reserve and Curieuse Island tortoise & mangrove excursion. Prices from $2851 per person (estimate).",
+  "highlights": [
+    "Vallée de Mai Nature Reserve",
+    "Curieuse Island tortoise & mangrove excursion",
+    "Victoria Market (Sir Selwyn Selwyn-Clarke Market)",
+    "Private island resort stay (North Island or Fregate)",
+    "Private beach picnic on Anse Lazio",
+    "Praslin Island"
+  ],
+  "overview": "Spend 7 days discovering Seychelles, Seychelles — Tropical climate with consistent warmth year-round (26-31°C); the northwest monsoon (Dec-Mar) brings more rain, and the southeast monsoon (May-Sep) brings cooler, breezier, drier conditions. April-May and October-November shoulder seasons for calm seas, mild trade winds, and the best diving visibility. This itinerary blends Vallée de Mai Nature Reserve, Curieuse Island tortoise & mangrove excursion, Victoria Market (Sir Selwyn Selwyn-Clarke Market) with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Vallée de Mai Nature Reserve, Curieuse Island tortoise & mangrove excursion, Victoria Market (Sir Selwyn Selwyn-Clarke Market)",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Seychelles",
+      "description": "Land at Seychelles International Airport (SEZ) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Vallée de Mai Nature Reserve — UNESCO-listed forest of endemic coco de mer palms. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Vallée de Mai Nature Reserve"
+      ],
+      "overnight": "Seychelles"
+    },
+    {
+      "day": 2,
+      "title": "Seychelles: Curieuse Island tortoise & mangrove excursion & Sainte Anne Marine National Park boat tour",
+      "description": "Morning visit to Curieuse Island tortoise & mangrove excursion — Boat trip to see giant Aldabra tortoises. In the afternoon, continue to Sainte Anne Marine National Park boat tour — Glass-bottom boat and snorkeling in the marine park. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Curieuse Island tortoise & mangrove excursion",
+        "Sainte Anne Marine National Park boat tour"
+      ],
+      "overnight": "Seychelles"
+    },
+    {
+      "day": 3,
+      "title": "Seychelles: Morne Seychellois National Park guided hike & Seychelles National Botanical Gardens",
+      "description": "Morning visit to Morne Seychellois National Park guided hike — Rainforest trails across Mahé's highest peaks. In the afternoon, continue to Seychelles National Botanical Gardens — Historic gardens with giant tortoises in Victoria. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Morne Seychellois National Park guided hike",
+        "Seychelles National Botanical Gardens"
+      ],
+      "overnight": "Seychelles"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Praslin Island",
+      "description": "Full-day excursion to Praslin Island, a popular side trip from Seychelles. Return to Seychelles in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Praslin Island",
+        "Free evening"
+      ],
+      "overnight": "Seychelles"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Anse Georgette hidden beach — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Anse Georgette hidden beach"
+      ],
+      "overnight": "Seychelles"
+    },
+    {
+      "day": 6,
+      "title": "Seychelles: La Digue bike & ox-cart island tour & Aride Island Nature Reserve seabird tour",
+      "description": "Morning visit to La Digue bike & ox-cart island tour — Guided tour of the car-free island. In the afternoon, continue to Aride Island Nature Reserve seabird tour — Boat trip to a protected seabird sanctuary. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "La Digue bike & ox-cart island tour",
+        "Aride Island Nature Reserve seabird tour"
+      ],
+      "overnight": "Seychelles"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Glass-bottom boat at Anse Volbert or some souvenir shopping — before your private transfer to SEZ for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book the Cat Cocos ferry between islands in advance during peak season",
+    "Rent a bicycle on La Digue rather than relying on the few available taxis",
+    "Bring cash for small vendors and markets, as resorts take cards but rural areas often don't",
+    "Most beaches have no facilities, so bring your own water and supplies",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Reef-safe sunscreen, essential to protect the coral reefs",
+    "Lightweight breathable clothing plus a light rain jacket",
+    "Sturdy sandals for granite boulder beach terrain",
+    "A dry bag for inter-island boat transfers"
+  ],
+  "thingsToDo": [
+    "Vallée de Mai Nature Reserve",
+    "Curieuse Island tortoise & mangrove excursion",
+    "Sainte Anne Marine National Park boat tour",
+    "Morne Seychellois National Park guided hike",
+    "Seychelles National Botanical Gardens",
+    "La Digue bike & ox-cart island tour",
+    "Aride Island Nature Reserve seabird tour",
+    "Glass-bottom boat at Anse Volbert",
+    "Mission Lodge Ruins tour",
+    "Kreol Institute cultural visit",
+    "Victoria Market (Sir Selwyn Selwyn-Clarke Market)",
+    "Anse Lazio",
+    "Anse Source d'Argent",
+    "Beau Vallon beach",
+    "Victoria's clock tower (Little Ben)",
+    "Mission Lodge viewpoint",
+    "Diving at Shark Bank",
+    "Hiking Morne Seychellois National Park",
+    "Kayaking around La Digue",
+    "Big-game fishing charters"
+  ],
+  "thingsToAvoid": [
+    "Touching or collecting coco de mer nuts, which are protected",
+    "Swimming in unmarked areas with strong currents",
+    "Underestimating dining costs — groceries and imported goods are pricey",
+    "Missing the last inter-island ferry, which can strand you overnight"
+  ],
+  "topRestaurants": [
+    "Marie Antoinette Restaurant — Traditional Creole ($$)",
+    "Boat House Restaurant — Creole seafood buffet ($$$)",
+    "Latanier Restaurant — Fine dining Creole-French ($$$$)",
+    "Le Chevalier Bay — Seafood and Creole ($$)",
+    "Le Fondue — International ($$$)",
+    "Bravo Beach Bar — Casual beachfront grill ($$)",
+    "La Plage Beach Restaurant — Seafood and grill ($$)",
+    "Chez Batista — Creole seafood ($$)"
+  ],
+  "topCafes": [
+    "Marie Antoinette Cafe",
+    "Beau Vallon beachfront cafes",
+    "Deepam's Cafe",
+    "Le Kreolor"
+  ],
+  "shoppingAreas": [
+    "Victoria Market",
+    "Eden Plaza Mall",
+    "Camion Hall Craft Market",
+    "La Digue local boutiques"
+  ],
+  "nightlife": [
+    "Katiolo Nightclub",
+    "Beau Vallon beach bars",
+    "Boat House bar",
+    "Resort tiki bars"
+  ],
+  "instagramSpots": [
+    "Anse Source d'Argent granite boulders",
+    "Anse Lazio turquoise cove",
+    "Vallée de Mai coco de mer palms",
+    "La Digue ox-cart road",
+    "Mission Lodge viewpoint at sunset"
+  ],
+  "hiddenGems": [
+    "Anse Georgette hidden beach",
+    "Curieuse Island giant tortoises",
+    "Silhouette Island",
+    "Bird Island"
+  ],
+  "familyActivities": [
+    "Curieuse Island tortoise excursion",
+    "Glass-bottom boat tour",
+    "La Digue cycling",
+    "Beau Vallon beach day"
+  ],
+  "adventureActivities": [
+    "Diving at Shark Bank",
+    "Hiking Morne Seychellois National Park",
+    "Kayaking around La Digue",
+    "Big-game fishing charters"
+  ],
+  "luxuryExperiences": [
+    "Private island resort stay (North Island or Fregate)",
+    "Private yacht charter between islands",
+    "Spa retreat overlooking the Indian Ocean",
+    "Seaplane transfer between islands"
+  ],
+  "honeymoonExperiences": [
+    "Private beach picnic on Anse Lazio",
+    "Sunset catamaran cruise",
+    "Couples spa on a private deck",
+    "Secluded overwater villa stay"
+  ],
+  "budgetExperiences": [
+    "Free public beach at Beau Vallon",
+    "Self-guided Victoria Market walk",
+    "Bike around La Digue",
+    "Snorkel from public beach access points"
+  ],
+  "estimatedDailyBudgetUSD": [
+    130,
+    280,
+    550,
+    1300
+  ],
+  "safetyRating": 5,
+  "internetRating": 3,
+  "publicTransportRating": 2,
+  "walkingScore": 25,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 30,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 30,
+      "crowd": "Low"
+    },
+    {
+      "month": "Apr",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 28,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Aug",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 28,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 30,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Carnaval International de Victoria",
+      "timing": "April"
+    },
+    {
+      "name": "SUBIOS Underwater Festival",
+      "timing": "April or May"
+    },
+    {
+      "name": "La Digue Festival",
+      "timing": "August"
+    },
+    {
+      "name": "Festival Kreol",
+      "timing": "October"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "999",
+    "ambulance": "151",
+    "fire": "999"
+  },
+  "localEtiquette": [
+    "Greet with \"Bonzour\" (Creole) before starting a conversation or transaction.",
+    "Dress modestly away from beach and resort areas.",
+    "Never touch or collect coco de mer nuts or disturb giant tortoises — both are protected.",
+    "A tip of around 10% is appreciated in restaurants, though not obligatory.",
+    "Ask permission before photographing local residents."
+  ],
+  "localTransportGuide": "Inter-island travel relies on Cat Cocos ferries between Mahé, Praslin, and La Digue, or short domestic flights. On La Digue, bicycles and ox-carts remain the traditional way to get around since cars are limited; Mahé and Praslin have taxis and rental cars.",
+  "bestTimeToVisit": "April-May and October-November shoulder seasons for calm seas, mild trade winds, and the best diving visibility.",
+  "weather": "Tropical climate with consistent warmth year-round (26-31°C); the northwest monsoon (Dec-Mar) brings more rain, and the southeast monsoon (May-Sep) brings cooler, breezier, drier conditions.",
+  "visaInformation": "Seychelles is visa-free for virtually all nationalities for tourism, typically for up to three months, provided visitors hold a valid passport, a return or onward ticket, proof of accommodation, and sufficient funds — a free visitor's permit is issued on arrival.",
+  "currency": "SCR",
+  "languages": [
+    "Seychellois Creole",
+    "English",
+    "French"
+  ],
+  "timeZone": "UTC+4",
+  "averageFlightTime": "~11.1h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Seychelles International Airport (SEZ)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Seychelles?",
+      "answer": "Seychelles is visa-free for virtually all nationalities for tourism, typically for up to three months, provided visitors hold a valid passport, a return or onward ticket, proof of accommodation, and sufficient funds — a free visitor's permit is issued on arrival."
+    },
+    {
+      "question": "What is the best time to visit Seychelles?",
+      "answer": "April-May and October-November shoulder seasons for calm seas, mild trade winds, and the best diving visibility. Tropical climate with consistent warmth year-round (26-31°C); the northwest monsoon (Dec-Mar) brings more rain, and the southeast monsoon (May-Sep) brings cooler, breezier, drier conditions."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Seychelles safe for tourists?",
+      "answer": "Seychelles is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Seychelles?",
+      "answer": "The local currency is SCR. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Seychelles is one of our most-booked honeymoon destinations, especially the Private beach picnic on Anse Lazio experience."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Honeymoon",
+    "Luxury",
+    "Nature",
+    "Romantic"
+  ],
+  "aiTags": [
+    "Seychelles",
+    "Seychelles, Seychelles",
+    "Indian Ocean",
+    "Seychelles tour package",
+    "Seychelles vacation package",
+    "Seychelles holiday package",
+    "things to do in Seychelles",
+    "best time to visit Seychelles",
+    "Seychelles itinerary",
+    "7 day Seychelles itinerary",
+    "Seychelles flights and hotels",
+    "Seychelles all inclusive package",
+    "cheap Seychelles package",
+    "luxury Seychelles package",
+    "Seychelles honeymoon package",
+    "Seychelles family vacation",
+    "Seychelles solo trip",
+    "Seychelles group tour",
+    "Seychelles weekend getaway",
+    "Seychelles guided tour",
+    "SEZ flights",
+    "Seychelles travel guide",
+    "book Seychelles trip online",
+    "Seychelles trip cost",
+    "Seychelles packages 7 days",
+    "Seychelles beach",
+    "Seychelles honeymoon",
+    "Seychelles luxury",
+    "Seychelles nature",
+    "Seychelles romantic",
+    "Vallée de Mai Nature Reserve",
+    "Curieuse Island tortoise & mangrove excursion",
+    "Sainte Anne Marine National Park boat tour",
+    "Morne Seychellois National Park guided hike",
+    "Seychelles National Botanical Gardens",
+    "La Digue bike & ox-cart island tour",
+    "Aride Island Nature Reserve seabird tour",
+    "Glass-bottom boat at Anse Volbert",
+    "Mission Lodge Ruins tour",
+    "Kreol Institute cultural visit",
+    "Victoria Market (Sir Selwyn Selwyn-Clarke Market)",
+    "Anse Lazio",
+    "Anse Source d'Argent",
+    "Beau Vallon beach",
+    "Victoria's clock tower (Little Ben)",
+    "Mission Lodge viewpoint",
+    "Marie Antoinette Restaurant",
+    "Boat House Restaurant",
+    "Latanier Restaurant",
+    "Le Chevalier Bay"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Seychelles, Seychelles — Anse Source d'Argent granite boulders",
+      "keywords": [
+        "Seychelles",
+        "Anse Source d'Argent granite boulders",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Seychelles Anse Source d'Argent granite boulders",
+      "pexelsQuery": "Seychelles Anse Source d'Argent granite boulders",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Seychelles, Seychelles — Anse Source d'Argent granite boulders",
+      "keywords": [
+        "Seychelles",
+        "Anse Source d'Argent granite boulders",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Seychelles Anse Source d'Argent granite boulders",
+      "pexelsQuery": "Seychelles Anse Source d'Argent granite boulders",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Seychelles, Seychelles — Seychelles overwater villa",
+      "keywords": [
+        "Seychelles",
+        "Seychelles overwater villa",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Seychelles Seychelles overwater villa",
+      "pexelsQuery": "Seychelles Seychelles overwater villa",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Seychelles, Seychelles — Vallee de Mai coco de mer",
+      "keywords": [
+        "Seychelles",
+        "Vallee de Mai coco de mer",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Seychelles Vallee de Mai coco de mer",
+      "pexelsQuery": "Seychelles Vallee de Mai coco de mer",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Seychelles, Seychelles — Anse Source d'Argent granite boulders",
+      "keywords": [
+        "Seychelles",
+        "Anse Source d'Argent granite boulders",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Seychelles Anse Source d'Argent granite boulders",
+      "pexelsQuery": "Seychelles Anse Source d'Argent granite boulders",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seychelles, Seychelles — Seychelles overwater villa",
+      "keywords": [
+        "Seychelles",
+        "Seychelles overwater villa",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Seychelles Seychelles overwater villa",
+      "pexelsQuery": "Seychelles Seychelles overwater villa",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seychelles, Seychelles — Vallee de Mai coco de mer",
+      "keywords": [
+        "Seychelles",
+        "Vallee de Mai coco de mer",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Seychelles Vallee de Mai coco de mer",
+      "pexelsQuery": "Seychelles Vallee de Mai coco de mer",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seychelles, Seychelles — La Digue beach ox-cart",
+      "keywords": [
+        "Seychelles",
+        "La Digue beach ox-cart",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Seychelles La Digue beach ox-cart",
+      "pexelsQuery": "Seychelles La Digue beach ox-cart",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seychelles, Seychelles — Vallée de Mai Nature Reserve",
+      "keywords": [
+        "Seychelles",
+        "Vallée de Mai Nature Reserve",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Seychelles Vallée de Mai Nature Reserve",
+      "pexelsQuery": "Seychelles Vallée de Mai Nature Reserve",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seychelles, Seychelles — Curieuse Island tortoise & mangrove excursion",
+      "keywords": [
+        "Seychelles",
+        "Curieuse Island tortoise & mangrove excursion",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Seychelles Curieuse Island tortoise & mangrove excursion",
+      "pexelsQuery": "Seychelles Curieuse Island tortoise & mangrove excursion",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seychelles, Seychelles — Sainte Anne Marine National Park boat tour",
+      "keywords": [
+        "Seychelles",
+        "Sainte Anne Marine National Park boat tour",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Seychelles Sainte Anne Marine National Park boat tour",
+      "pexelsQuery": "Seychelles Sainte Anne Marine National Park boat tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seychelles, Seychelles — Morne Seychellois National Park guided hike",
+      "keywords": [
+        "Seychelles",
+        "Morne Seychellois National Park guided hike",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Seychelles Morne Seychellois National Park guided hike",
+      "pexelsQuery": "Seychelles Morne Seychellois National Park guided hike",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-seychelles-7-1",
+      "author": "Olivia Novak",
+      "country": "Germany",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-04-17",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Seychelles was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Morne Seychellois National Park guided hike was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seychelles-7-2",
+      "author": "Ethan Novak",
+      "country": "France",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-11",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Seychelles National Botanical Gardens and Curieuse Island tortoise & mangrove excursion. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seychelles-7-3",
+      "author": "Daniel Santos",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-10",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Mission Lodge Ruins tour and Victoria Market (Sir Selwyn Selwyn-Clarke Market). Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seychelles-7-4",
+      "author": "Fatima Nguyen",
+      "country": "India",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-06",
+      "title": "So many hidden gems included",
+      "body": "La Digue bike & ox-cart island tour alone was worth the trip, but combined with Mission Lodge viewpoint this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seychelles-7-5",
+      "author": "Lucas Nguyen",
+      "country": "South Korea",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-11",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Glass-bottom boat at Anse Volbert and La Digue bike & ox-cart island tour. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seychelles-7-6",
+      "author": "Mohammed Fernandez",
+      "country": "Spain",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-11-21",
+      "title": "So many hidden gems included",
+      "body": "Mission Lodge viewpoint alone was worth the trip, but combined with Vallée de Mai Nature Reserve this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seychelles-7-7",
+      "author": "Sofia Silva",
+      "country": "Japan",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-02-09",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a family of 4 trip and it was well paced. Mission Lodge Ruins tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seychelles-7-8",
+      "author": "Chen Nguyen",
+      "country": "France",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-13",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a group trip and it was well paced. Seychelles National Botanical Gardens in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seychelles-7-9",
+      "author": "Omar Khan",
+      "country": "Saudi Arabia",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-04-08",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Beau Vallon beach and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seychelles-7-10",
+      "author": "James Smith",
+      "country": "Australia",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-11",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Seychelles was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Sainte Anne Marine National Park boat tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seychelles-7-11",
+      "author": "Nadia Wang",
+      "country": "Netherlands",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-04-11",
+      "title": "Great for families with kids",
+      "body": "Seychelles is stunning and this package covered the essentials well, especially Anse Lazio. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seychelles-7-12",
+      "author": "Liam Smith",
+      "country": "United Kingdom",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-06-23",
+      "title": "Five stars, will return",
+      "body": "Our trip to Seychelles was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Curieuse Island tortoise & mangrove excursion was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seychelles-7-13",
+      "author": "Anna Ivanov",
+      "country": "Japan",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-10-08",
+      "title": "Would book again in a heartbeat",
+      "body": "Seychelles is stunning and this package covered the essentials well, especially Mission Lodge Ruins tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seychelles-7-14",
+      "author": "Ava Novak",
+      "country": "United States",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-07",
+      "title": "So many hidden gems included",
+      "body": "Vallée de Mai Nature Reserve alone was worth the trip, but combined with Curieuse Island tortoise & mangrove excursion this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seychelles-7-15",
+      "author": "Marco Nguyen",
+      "country": "Netherlands",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-03-16",
+      "title": "Loved every moment",
+      "body": "We added a couple of optional activities beyond Anse Lazio and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seychelles-7-16",
+      "author": "Fatima Andersen",
+      "country": "Brazil",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-01-02",
+      "title": "Five stars, will return",
+      "body": "Kreol Institute cultural visit alone was worth the trip, but combined with Mission Lodge Ruins tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seychelles-7-17",
+      "author": "Anna Cohen",
+      "country": "Japan",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-11-06",
+      "title": "Beautiful destination, well organized",
+      "body": "Seychelles is stunning and this package covered the essentials well, especially Mission Lodge Ruins tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seychelles-7-18",
+      "author": "Sarah Botha",
+      "country": "Australia",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-11-07",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Seychelles is stunning and this package covered the essentials well, especially Sainte Anne Marine National Park boat tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seychelles-7-19",
+      "author": "Arjun Botha",
+      "country": "Switzerland",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-01-26",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a family of 4 trip and it was well paced. Anse Source d'Argent in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seychelles-7-20",
+      "author": "Wei Sharma",
+      "country": "Saudi Arabia",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-28",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a group trip and it was well paced. Beau Vallon beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.3,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Seychelles Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 29,
+      "neighborhood": "Victoria Market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Seychelles Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 52,
+      "neighborhood": "Eden Plaza Mall"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Seychelles Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 98,
+      "neighborhood": "Camion Hall Craft Market"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Seychelles Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 126,
+      "neighborhood": "La Digue local boutiques"
+    },
+    {
+      "tier": "Resort",
+      "name": "Seychelles Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 275,
+      "neighborhood": "Katiolo Nightclub"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Seychelles Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 546,
+      "neighborhood": "Beau Vallon beach bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Seychelles Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 650,
+      "neighborhood": "Boat House bar"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1058,
+        1681
+      ],
+      "estimatedFlightHours": 19.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1076,
+        1709
+      ],
+      "estimatedFlightHours": 19.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        666,
+        1057
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        643,
+        1022
+      ],
+      "estimatedFlightHours": 11.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        623,
+        990
+      ],
+      "estimatedFlightHours": 11,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        565,
+        898
+      ],
+      "estimatedFlightHours": 9.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        642,
+        1019
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        649,
+        1030
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        609,
+        968
+      ],
+      "estimatedFlightHours": 10.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        817,
+        1297
+      ],
+      "estimatedFlightHours": 14.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        960,
+        1524
+      ],
+      "estimatedFlightHours": 17.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        393,
+        624
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        784,
+        1245
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        706,
+        1122
+      ],
+      "estimatedFlightHours": 12.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        468,
+        743
+      ],
+      "estimatedFlightHours": 8.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        465,
+        738
+      ],
+      "estimatedFlightHours": 8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        452,
+        718
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        487,
+        774
+      ],
+      "estimatedFlightHours": 8.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        621,
+        986
+      ],
+      "estimatedFlightHours": 10.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        504,
+        801
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        316,
+        502
+      ],
+      "estimatedFlightHours": 5.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        322,
+        512
+      ],
+      "estimatedFlightHours": 5.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        320,
+        508
+      ],
+      "estimatedFlightHours": 5.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        356,
+        566
+      ],
+      "estimatedFlightHours": 6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        349,
+        555
+      ],
+      "estimatedFlightHours": 5.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        873,
+        1386
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Seychelles International Airport (SEZ)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1291,
+        2051
+      ],
+      "estimatedFlightHours": 23.5,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Vallée de Mai Nature Reserve",
+    "Curieuse Island tortoise & mangrove excursion",
+    "Sainte Anne Marine National Park boat tour",
+    "Morne Seychellois National Park guided hike",
+    "Seychelles National Botanical Gardens",
+    "La Digue bike & ox-cart island tour",
+    "Aride Island Nature Reserve seabird tour",
+    "Glass-bottom boat at Anse Volbert",
+    "Mission Lodge Ruins tour",
+    "Kreol Institute cultural visit",
+    "Victoria Market (Sir Selwyn Selwyn-Clarke Market)",
+    "Anse Lazio",
+    "Anse Source d'Argent",
+    "Beau Vallon beach",
+    "Victoria's clock tower (Little Ben)",
+    "Mission Lodge viewpoint",
+    "Praslin Island",
+    "La Digue Island",
+    "Curieuse Island",
+    "Sainte Anne Marine Park islands",
+    "Seychelles National History Museum",
+    "Natural History Museum Victoria",
+    "Morne Seychellois National Park",
+    "Sainte Anne Marine National Park",
+    "Beau Vallon",
+    "Anse Georgette",
+    "Anse Source d'Argent granite boulders",
+    "Anse Lazio turquoise cove",
+    "Vallée de Mai coco de mer palms",
+    "La Digue ox-cart road",
+    "Mission Lodge viewpoint at sunset"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Vallée de Mai Nature Reserve",
+      "priceUSD": 30
+    },
+    {
+      "name": "Curieuse Island tortoise & mangrove excursion",
+      "priceUSD": 60
+    },
+    {
+      "name": "Sainte Anne Marine National Park boat tour",
+      "priceUSD": 85
+    },
+    {
+      "name": "Morne Seychellois National Park guided hike",
+      "priceUSD": 25
+    },
+    {
+      "name": "Seychelles National Botanical Gardens",
+      "priceUSD": 10
+    },
+    {
+      "name": "La Digue bike & ox-cart island tour",
+      "priceUSD": 20
+    },
+    {
+      "name": "Aride Island Nature Reserve seabird tour",
+      "priceUSD": 90
+    },
+    {
+      "name": "Glass-bottom boat at Anse Volbert",
+      "priceUSD": 40
+    },
+    {
+      "name": "Mission Lodge Ruins tour",
+      "priceUSD": 15
+    },
+    {
+      "name": "Kreol Institute cultural visit",
+      "priceUSD": 10
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Victoria Market (Sir Selwyn Selwyn-Clarke Market)",
+    "Anse Lazio",
+    "Anse Source d'Argent",
+    "Beau Vallon beach",
+    "Victoria's clock tower (Little Ben)",
+    "Mission Lodge viewpoint"
+  ],
+  "museums": [
+    "Seychelles National History Museum",
+    "Natural History Museum Victoria"
+  ],
+  "parks": [
+    "Morne Seychellois National Park",
+    "Vallée de Mai Nature Reserve",
+    "Sainte Anne Marine National Park"
+  ],
+  "beaches": [
+    "Anse Lazio",
+    "Anse Source d'Argent",
+    "Beau Vallon",
+    "Anse Georgette"
+  ],
+  "dayTrips": [
+    "Praslin Island",
+    "La Digue Island",
+    "Curieuse Island",
+    "Sainte Anne Marine Park islands"
+  ],
+  "fromPriceUSD": 2851,
+  "seo": {
+    "title": "Seychelles 7-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "seychelles-7-day-package",
+    "keywords": [
+      "Seychelles",
+      "Seychelles, Seychelles",
+      "Indian Ocean",
+      "Seychelles tour package",
+      "Seychelles vacation package",
+      "Seychelles holiday package",
+      "things to do in Seychelles",
+      "best time to visit Seychelles",
+      "Seychelles itinerary",
+      "7 day Seychelles itinerary",
+      "Seychelles flights and hotels",
+      "Seychelles all inclusive package",
+      "cheap Seychelles package",
+      "luxury Seychelles package",
+      "Seychelles honeymoon package"
+    ],
+    "canonicalUrl": "/packages/seychelles-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Seychelles Package",
+        "url": "/packages/seychelles-5-day-package"
+      },
+      {
+        "title": "10-Day Seychelles Package",
+        "url": "/packages/seychelles-10-day-package"
+      },
+      {
+        "title": "Maldives 7-Day Beach Getaway",
+        "url": "/packages/maldives-7-day-package"
+      },
+      {
+        "title": "Fiji 7-Day Beach Getaway",
+        "url": "/packages/fiji-7-day-package"
+      },
+      {
+        "title": "Mauritius 7-Day Beach Getaway",
+        "url": "/packages/mauritius-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Seychelles — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seychelles"
+      },
+      {
+        "title": "Seychelles — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Seychelles"
+      }
+    ]
+  }
+}

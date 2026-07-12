@@ -12,7 +12,10 @@
     "test": "vitest run",
     "postinstall": "prisma generate",
     "db:push": "prisma db push",
-    "db:seed": "tsx prisma/seed.ts"
+    "db:seed": "tsx prisma/seed.ts",
+    "db:seed:packages": "tsx prisma/seed-packages.ts",
+    "generate:packages": "tsx scripts/generate-packages.ts",
+    "generate:packages-sql": "tsx scripts/generate-sql-seed.ts"
   },
   "dependencies": {
     "@google/genai": "^2.11.0",

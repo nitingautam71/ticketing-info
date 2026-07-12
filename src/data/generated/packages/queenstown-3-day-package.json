@@ -1,0 +1,1586 @@
+{
+  "id": "PKG-queenstown-3D",
+  "slug": "queenstown-3-day-package",
+  "destinationSlug": "queenstown",
+  "destinationName": "Queenstown",
+  "country": "New Zealand",
+  "region": "Oceania",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Queenstown 3-Day Adventure Tour",
+  "metaTitle": "Queenstown 3-Day Adventure Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Queenstown, New Zealand: round-trip flights, hotel, breakfast, transfers, and guided tours including Skyline Gondola & Luge and Kawarau Bridge Bungy. Prices from $1937 per person (estimate).",
+  "highlights": [
+    "Skyline Gondola & Luge",
+    "Kawarau Bridge Bungy",
+    "Queenstown Gardens",
+    "Bungy jumping at Kawarau Bridge",
+    "Sunset TSS Earnslaw steamship cruise",
+    "Milford Sound"
+  ],
+  "overview": "Spend 3 days discovering Queenstown, New Zealand — Alpine climate with cold, snowy winters (Jun-Aug) suited to skiing, and mild, long-daylight summers (Dec-Feb) suited to hiking and adventure sports; seasons are reversed from the Northern Hemisphere. June to September for ski season, or December to February for summer hiking, bungy jumping and long daylight hours. This itinerary blends Skyline Gondola & Luge, Kawarau Bridge Bungy, Queenstown Gardens with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Skyline Gondola & Luge, Kawarau Bridge Bungy, Queenstown Gardens",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Queenstown",
+      "description": "Land at Queenstown Airport (ZQN) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Skyline Gondola & Luge — Cable car with panoramic views and luge track. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Skyline Gondola & Luge"
+      ],
+      "overnight": "Queenstown"
+    },
+    {
+      "day": 2,
+      "title": "Queenstown: Kawarau Bridge Bungy & Shotover Jet",
+      "description": "Morning visit to Kawarau Bridge Bungy — The original commercial bungy jump site. In the afternoon, continue to Shotover Jet — High-speed jet boat through Shotover Canyon. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Kawarau Bridge Bungy",
+        "Shotover Jet"
+      ],
+      "overnight": "Queenstown"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Nevis Bungy or some souvenir shopping — before your private transfer to ZQN for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book bungy, jet boat, and skydive activities in advance during peak season",
+    "Milford Sound involves a long drive — consider flying in or staying overnight",
+    "Check mountain weather forecasts before any hike, as conditions change fast",
+    "Sort your NZeTA and levy payment online before you fly",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Layered thermal clothing for rapid alpine weather changes",
+    "A waterproof, windproof jacket",
+    "Sturdy hiking or ski boots depending on season",
+    "Sunglasses and high-SPF sunscreen for intense alpine UV"
+  ],
+  "thingsToDo": [
+    "Skyline Gondola & Luge",
+    "Kawarau Bridge Bungy",
+    "Shotover Jet",
+    "Nevis Bungy",
+    "Milford Sound day cruise (from Queenstown)",
+    "TSS Earnslaw steamship cruise",
+    "Queenstown Ziptrek Ecotours",
+    "Skydive Queenstown",
+    "Gibbston Valley wine tour",
+    "Routeburn Track guided day walk",
+    "Queenstown Gardens",
+    "Lake Wakatipu waterfront",
+    "Arrowtown",
+    "Lake Hayes walkway",
+    "Queenstown Hill Time Walk",
+    "Bob's Peak lookout track",
+    "Frankton Track",
+    "Bungy jumping at Kawarau Bridge",
+    "Shotover Jet boating",
+    "Skiing at Coronet Peak or The Remarkables"
+  ],
+  "thingsToAvoid": [
+    "Underestimating how quickly alpine weather can turn on exposed trails",
+    "Driving unfamiliar mountain roads at night without chains in winter",
+    "Skipping travel insurance that covers adventure sports",
+    "Overpacking your day with activities and no weather-delay buffer"
+  ],
+  "topRestaurants": [
+    "Fergburger — Gourmet burgers ($)",
+    "Rata — Modern New Zealand by chef Josh Emett ($$$)",
+    "Botswana Butchery — Steak and seafood ($$$)",
+    "The Bunker — Modern fine dining ($$$)",
+    "Amisfield Winery Restaurant — New Zealand degustation ($$$)",
+    "Yonder — Cafe and modern eatery ($$)",
+    "Winnies Pizza — Pizza and bar ($$)",
+    "Fergbaker — Bakery ($)"
+  ],
+  "topCafes": [
+    "Vudu Cafe",
+    "Patagonia Chocolates",
+    "Bespoke Kitchen",
+    "Bean There Coffee"
+  ],
+  "shoppingAreas": [
+    "Queenstown CBD boutiques",
+    "Remarkables Market",
+    "O'Connells Shopping Centre",
+    "Arrowtown galleries"
+  ],
+  "nightlife": [
+    "World Bar",
+    "Below Zero Ice Bar",
+    "The Winery",
+    "Pub on Wharf"
+  ],
+  "instagramSpots": [
+    "Lake Wakatipu with The Remarkables backdrop",
+    "Skyline Gondola viewpoint",
+    "Queenstown Gardens lakeside",
+    "Arrowtown in autumn colors",
+    "Bob's Peak at sunset"
+  ],
+  "hiddenGems": [
+    "Moke Lake",
+    "Glenorchy Lord of the Rings filming locations",
+    "Bob's Cove walkway",
+    "Diamond Lake near Wanaka"
+  ],
+  "familyActivities": [
+    "Skyline Luge",
+    "TSS Earnslaw steamship cruise",
+    "Kiwi Birdlife Park",
+    "Queenstown Gardens disc golf and playgrounds"
+  ],
+  "adventureActivities": [
+    "Bungy jumping at Kawarau Bridge",
+    "Shotover Jet boating",
+    "Skiing at Coronet Peak or The Remarkables",
+    "Skydiving over Lake Wakatipu"
+  ],
+  "luxuryExperiences": [
+    "Helicopter tour with a glacier picnic landing",
+    "Private Gibbston Valley wine tour",
+    "Luxury lodge stay overlooking Lake Wakatipu",
+    "Degustation dinner at Amisfield"
+  ],
+  "honeymoonExperiences": [
+    "Sunset TSS Earnslaw steamship cruise",
+    "Private helicopter flight over Milford Sound",
+    "Couples spa retreat with mountain views",
+    "Romantic dinner at Rata"
+  ],
+  "budgetExperiences": [
+    "Free walk through Queenstown Gardens",
+    "Hike Queenstown Hill for panoramic views",
+    "Wander historic Arrowtown",
+    "Fergburger lakeside picnic"
+  ],
+  "estimatedDailyBudgetUSD": [
+    80,
+    170,
+    320,
+    700
+  ],
+  "safetyRating": 5,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 75,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 22,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 15,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 11,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 8,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 7,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 9,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 12,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 15,
+      "crowd": "Low"
+    },
+    {
+      "month": "Nov",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 20,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Queenstown Winter Festival",
+      "timing": "June"
+    },
+    {
+      "name": "Gibbston Valley Wine & Food Festival",
+      "timing": "March"
+    },
+    {
+      "name": "Queenstown Bike Festival",
+      "timing": "March"
+    },
+    {
+      "name": "Lake Wanaka Festival of Colour (nearby, biennial)",
+      "timing": "April"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "111",
+    "ambulance": "111",
+    "fire": "111"
+  },
+  "localEtiquette": [
+    "Respect Māori culture, language, and any protocols at cultural sites.",
+    "Tipping is not customary but is welcomed for outstanding service.",
+    "Sign intentions books before remote backcountry hikes for safety tracking.",
+    "Follow Leave No Trace principles in national parks and alpine areas.",
+    "Queue politely for gondolas, jet boats, and adventure activity check-ins."
+  ],
+  "localTransportGuide": "Central Queenstown is walkable, but a rental car or the Orbus public bus network is useful for reaching Glenorchy, Arrowtown, and the ski fields. Shuttle services connect Queenstown Airport to accommodation, and ride-share apps operate in town.",
+  "bestTimeToVisit": "June to September for ski season, or December to February for summer hiking, bungy jumping and long daylight hours.",
+  "weather": "Alpine climate with cold, snowy winters (Jun-Aug) suited to skiing, and mild, long-daylight summers (Dec-Feb) suited to hiking and adventure sports; seasons are reversed from the Northern Hemisphere.",
+  "visaInformation": "Most visa-waiver nationalities (US, UK, EU, Canada) must apply online for an NZeTA (New Zealand Electronic Travel Authority) before arrival and pay the International Visitor Conservation and Tourism Levy; Australian citizens are exempt.",
+  "currency": "NZD",
+  "languages": [
+    "English",
+    "Māori"
+  ],
+  "timeZone": "NZST (UTC+12)",
+  "averageFlightTime": "~17.6h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Queenstown Airport (ZQN)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Queenstown?",
+      "answer": "Most visa-waiver nationalities (US, UK, EU, Canada) must apply online for an NZeTA (New Zealand Electronic Travel Authority) before arrival and pay the International Visitor Conservation and Tourism Levy; Australian citizens are exempt."
+    },
+    {
+      "question": "What is the best time to visit Queenstown?",
+      "answer": "June to September for ski season, or December to February for summer hiking, bungy jumping and long daylight hours. Alpine climate with cold, snowy winters (Jun-Aug) suited to skiing, and mild, long-daylight summers (Dec-Feb) suited to hiking and adventure sports; seasons are reversed from the Northern Hemisphere."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Queenstown safe for tourists?",
+      "answer": "Queenstown is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Queenstown?",
+      "answer": "The local currency is NZD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Queenstown is one of our most-booked honeymoon destinations, especially the Sunset TSS Earnslaw steamship cruise experience."
+    }
+  ],
+  "categories": [
+    "Adventure",
+    "Nature",
+    "Honeymoon",
+    "Winter",
+    "Bucket List",
+    "Romantic",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Queenstown",
+    "New Zealand",
+    "Queenstown, New Zealand",
+    "Oceania",
+    "Queenstown tour package",
+    "Queenstown vacation package",
+    "Queenstown holiday package",
+    "things to do in Queenstown",
+    "best time to visit Queenstown",
+    "Queenstown itinerary",
+    "3 day Queenstown itinerary",
+    "Queenstown flights and hotels",
+    "Queenstown all inclusive package",
+    "cheap Queenstown package",
+    "luxury Queenstown package",
+    "Queenstown honeymoon package",
+    "Queenstown family vacation",
+    "Queenstown solo trip",
+    "Queenstown group tour",
+    "Queenstown weekend getaway",
+    "Queenstown guided tour",
+    "ZQN flights",
+    "Queenstown travel guide",
+    "book Queenstown trip online",
+    "Queenstown trip cost",
+    "Queenstown packages 3 days",
+    "Queenstown adventure",
+    "Queenstown nature",
+    "Queenstown honeymoon",
+    "Queenstown winter",
+    "Queenstown bucket list",
+    "Queenstown romantic",
+    "Skyline Gondola & Luge",
+    "Kawarau Bridge Bungy",
+    "Shotover Jet",
+    "Nevis Bungy",
+    "Milford Sound day cruise (from Queenstown)",
+    "TSS Earnslaw steamship cruise",
+    "Queenstown Ziptrek Ecotours",
+    "Skydive Queenstown",
+    "Gibbston Valley wine tour",
+    "Routeburn Track guided day walk",
+    "Queenstown Gardens",
+    "Lake Wakatipu waterfront",
+    "Arrowtown",
+    "Lake Hayes walkway",
+    "Queenstown Hill Time Walk",
+    "Bob's Peak lookout track",
+    "Frankton Track",
+    "Fergburger"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Queenstown, New Zealand — Queenstown Lake Wakatipu Remarkables",
+      "keywords": [
+        "Queenstown",
+        "New Zealand",
+        "Queenstown Lake Wakatipu Remarkables",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Queenstown Queenstown Lake Wakatipu Remarkables",
+      "pexelsQuery": "Queenstown Queenstown Lake Wakatipu Remarkables",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Queenstown, New Zealand — Queenstown Lake Wakatipu Remarkables",
+      "keywords": [
+        "Queenstown",
+        "New Zealand",
+        "Queenstown Lake Wakatipu Remarkables",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Queenstown Queenstown Lake Wakatipu Remarkables",
+      "pexelsQuery": "Queenstown Queenstown Lake Wakatipu Remarkables",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Queenstown, New Zealand — bungy jumping Kawarau Bridge",
+      "keywords": [
+        "Queenstown",
+        "New Zealand",
+        "bungy jumping Kawarau Bridge",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Queenstown bungy jumping Kawarau Bridge",
+      "pexelsQuery": "Queenstown bungy jumping Kawarau Bridge",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Queenstown, New Zealand — Skyline Gondola Queenstown view",
+      "keywords": [
+        "Queenstown",
+        "New Zealand",
+        "Skyline Gondola Queenstown view",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Queenstown Skyline Gondola Queenstown view",
+      "pexelsQuery": "Queenstown Skyline Gondola Queenstown view",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Queenstown, New Zealand — Queenstown Lake Wakatipu Remarkables",
+      "keywords": [
+        "Queenstown",
+        "New Zealand",
+        "Queenstown Lake Wakatipu Remarkables",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Queenstown Queenstown Lake Wakatipu Remarkables",
+      "pexelsQuery": "Queenstown Queenstown Lake Wakatipu Remarkables",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Queenstown, New Zealand — bungy jumping Kawarau Bridge",
+      "keywords": [
+        "Queenstown",
+        "New Zealand",
+        "bungy jumping Kawarau Bridge",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Queenstown bungy jumping Kawarau Bridge",
+      "pexelsQuery": "Queenstown bungy jumping Kawarau Bridge",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Queenstown, New Zealand — Skyline Gondola Queenstown view",
+      "keywords": [
+        "Queenstown",
+        "New Zealand",
+        "Skyline Gondola Queenstown view",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Queenstown Skyline Gondola Queenstown view",
+      "pexelsQuery": "Queenstown Skyline Gondola Queenstown view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Queenstown, New Zealand — Milford Sound cruise",
+      "keywords": [
+        "Queenstown",
+        "New Zealand",
+        "Milford Sound cruise",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Queenstown Milford Sound cruise",
+      "pexelsQuery": "Queenstown Milford Sound cruise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Queenstown, New Zealand — Skyline Gondola & Luge",
+      "keywords": [
+        "Queenstown",
+        "New Zealand",
+        "Skyline Gondola & Luge",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Queenstown Skyline Gondola & Luge",
+      "pexelsQuery": "Queenstown Skyline Gondola & Luge",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Queenstown, New Zealand — Kawarau Bridge Bungy",
+      "keywords": [
+        "Queenstown",
+        "New Zealand",
+        "Kawarau Bridge Bungy",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Queenstown Kawarau Bridge Bungy",
+      "pexelsQuery": "Queenstown Kawarau Bridge Bungy",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Queenstown, New Zealand — Shotover Jet",
+      "keywords": [
+        "Queenstown",
+        "New Zealand",
+        "Shotover Jet",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Queenstown Shotover Jet",
+      "pexelsQuery": "Queenstown Shotover Jet",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Queenstown, New Zealand — Nevis Bungy",
+      "keywords": [
+        "Queenstown",
+        "New Zealand",
+        "Nevis Bungy",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Queenstown Nevis Bungy",
+      "pexelsQuery": "Queenstown Nevis Bungy",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-queenstown-3-1",
+      "author": "Isabella Fernandez",
+      "country": "Spain",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-18",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Frankton Track and Queenstown Hill Time Walk. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-queenstown-3-2",
+      "author": "Mia Dubois",
+      "country": "Canada",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-17",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Shotover Jet and Queenstown Gardens. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-3",
+      "author": "Ava Costa",
+      "country": "Canada",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-10-01",
+      "title": "Beautiful destination, well organized",
+      "body": "Shotover Jet alone was worth the trip, but combined with Skydive Queenstown this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-queenstown-3-4",
+      "author": "Marco van Dijk",
+      "country": "Italy",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-05-12",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond Bob's Peak lookout track and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-5",
+      "author": "Olivia Smith",
+      "country": "Netherlands",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-06-20",
+      "title": "Great value for money",
+      "body": "Our trip to Queenstown was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Arrowtown was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-6",
+      "author": "Noah Rossi",
+      "country": "Netherlands",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-12-07",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Queenstown was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Arrowtown was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-7",
+      "author": "Hiroshi Santos",
+      "country": "South Korea",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-09",
+      "title": "Consultant made it effortless",
+      "body": "Skydive Queenstown alone was worth the trip, but combined with Shotover Jet this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-8",
+      "author": "Ava Smith",
+      "country": "Mexico",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-31",
+      "title": "Luxury without the hassle",
+      "body": "Queenstown Hill Time Walk alone was worth the trip, but combined with Nevis Bungy this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-9",
+      "author": "Isabella Dubois",
+      "country": "Switzerland",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-05-03",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Lake Hayes walkway and Milford Sound day cruise (from Queenstown). Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-10",
+      "author": "Yuki Tanaka",
+      "country": "Spain",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-26",
+      "title": "Consultant made it effortless",
+      "body": "Frankton Track alone was worth the trip, but combined with Routeburn Track guided day walk this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-11",
+      "author": "Emma Sharma",
+      "country": "Brazil",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-25",
+      "title": "Great value for money",
+      "body": "Our trip to Queenstown was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Queenstown Gardens was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-12",
+      "author": "Liam Smith",
+      "country": "Saudi Arabia",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-20",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Queenstown was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Queenstown Hill Time Walk was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-queenstown-3-13",
+      "author": "Mia Larsen",
+      "country": "India",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-13",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to TSS Earnslaw steamship cruise and TSS Earnslaw steamship cruise. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-14",
+      "author": "Liam Ivanov",
+      "country": "Australia",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-05-07",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Queenstown was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Nevis Bungy was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-15",
+      "author": "Omar Tanaka",
+      "country": "Germany",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-05-30",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Nevis Bungy and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-16",
+      "author": "David Müller",
+      "country": "France",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-05-18",
+      "title": "Smooth from start to finish",
+      "body": "Queenstown is stunning and this package covered the essentials well, especially Milford Sound day cruise (from Queenstown). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-queenstown-3-17",
+      "author": "James Kim",
+      "country": "United Kingdom",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-05-03",
+      "title": "Highly recommend this package",
+      "body": "Our trip to Queenstown was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kawarau Bridge Bungy was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-18",
+      "author": "Isabella Santos",
+      "country": "United Kingdom",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4,
+      "date": "2026-01-28",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Kawarau Bridge Bungy and TSS Earnslaw steamship cruise. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-19",
+      "author": "Sofia Williams",
+      "country": "South Africa",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-16",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a family of 4 trip and it was well paced. Queenstown Gardens in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-queenstown-3-20",
+      "author": "Mia Sharma",
+      "country": "Australia",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-21",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Shotover Jet and Bob's Peak lookout track. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.1,
+    "value": 4.1,
+    "cleanliness": 4.3,
+    "safety": 4.1,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Queenstown Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Queenstown CBD boutiques"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Queenstown Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "Remarkables Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Queenstown Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 59,
+      "neighborhood": "O'Connells Shopping Centre"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Queenstown Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 77,
+      "neighborhood": "Arrowtown galleries"
+    },
+    {
+      "tier": "Resort",
+      "name": "Queenstown Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "World Bar"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Queenstown Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 294,
+      "neighborhood": "Below Zero Ice Bar"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Queenstown Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 350,
+      "neighborhood": "The Winery"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1161,
+        1844
+      ],
+      "estimatedFlightHours": 21.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1143,
+        1816
+      ],
+      "estimatedFlightHours": 20.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        1443,
+        2292
+      ],
+      "estimatedFlightHours": 26.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1442,
+        2290
+      ],
+      "estimatedFlightHours": 26.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        1407,
+        2234
+      ],
+      "estimatedFlightHours": 25.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1382,
+        2195
+      ],
+      "estimatedFlightHours": 25.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        1465,
+        2326
+      ],
+      "estimatedFlightHours": 26.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1419,
+        2253
+      ],
+      "estimatedFlightHours": 25.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1411,
+        2241
+      ],
+      "estimatedFlightHours": 25.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        217,
+        344
+      ],
+      "estimatedFlightHours": 3.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        152,
+        242
+      ],
+      "estimatedFlightHours": 2.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        966,
+        1535
+      ],
+      "estimatedFlightHours": 17.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        758,
+        1204
+      ],
+      "estimatedFlightHours": 13.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        806,
+        1280
+      ],
+      "estimatedFlightHours": 14.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        667,
+        1060
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        759,
+        1206
+      ],
+      "estimatedFlightHours": 13.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        689,
+        1095
+      ],
+      "estimatedFlightHours": 12.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        606,
+        963
+      ],
+      "estimatedFlightHours": 10.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        668,
+        1061
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        711,
+        1129
+      ],
+      "estimatedFlightHours": 12.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1070,
+        1700
+      ],
+      "estimatedFlightHours": 19.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1117,
+        1774
+      ],
+      "estimatedFlightHours": 20.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1092,
+        1735
+      ],
+      "estimatedFlightHours": 19.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1132,
+        1798
+      ],
+      "estimatedFlightHours": 20.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        881,
+        1400
+      ],
+      "estimatedFlightHours": 15.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        914,
+        1451
+      ],
+      "estimatedFlightHours": 16.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Queenstown Airport (ZQN)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        921,
+        1463
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Skyline Gondola & Luge",
+    "Kawarau Bridge Bungy",
+    "Shotover Jet",
+    "Nevis Bungy",
+    "Milford Sound day cruise (from Queenstown)",
+    "TSS Earnslaw steamship cruise",
+    "Queenstown Ziptrek Ecotours",
+    "Skydive Queenstown",
+    "Gibbston Valley wine tour",
+    "Routeburn Track guided day walk",
+    "Queenstown Gardens",
+    "Lake Wakatipu waterfront",
+    "Arrowtown",
+    "Lake Hayes walkway",
+    "Queenstown Hill Time Walk",
+    "Bob's Peak lookout track",
+    "Frankton Track",
+    "Milford Sound",
+    "Glenorchy",
+    "Wanaka",
+    "Kiwi Birdlife Park",
+    "Lakes District Museum (Arrowtown)",
+    "Fiordland National Park",
+    "Mount Aspiring National Park",
+    "Lake Wakatipu with The Remarkables backdrop",
+    "Skyline Gondola viewpoint",
+    "Queenstown Gardens lakeside",
+    "Arrowtown in autumn colors",
+    "Bob's Peak at sunset"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Skyline Gondola & Luge",
+      "priceUSD": 45
+    },
+    {
+      "name": "Kawarau Bridge Bungy",
+      "priceUSD": 205
+    },
+    {
+      "name": "Shotover Jet",
+      "priceUSD": 140
+    },
+    {
+      "name": "Nevis Bungy",
+      "priceUSD": 275
+    },
+    {
+      "name": "Milford Sound day cruise (from Queenstown)",
+      "priceUSD": 260
+    },
+    {
+      "name": "TSS Earnslaw steamship cruise",
+      "priceUSD": 90
+    },
+    {
+      "name": "Queenstown Ziptrek Ecotours",
+      "priceUSD": 130
+    },
+    {
+      "name": "Skydive Queenstown",
+      "priceUSD": 330
+    },
+    {
+      "name": "Gibbston Valley wine tour",
+      "priceUSD": 60
+    },
+    {
+      "name": "Routeburn Track guided day walk",
+      "priceUSD": 150
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Queenstown Gardens",
+    "Lake Wakatipu waterfront",
+    "Arrowtown",
+    "Lake Hayes walkway",
+    "Queenstown Hill Time Walk",
+    "Bob's Peak lookout track",
+    "Frankton Track"
+  ],
+  "museums": [
+    "Kiwi Birdlife Park",
+    "Lakes District Museum (Arrowtown)"
+  ],
+  "parks": [
+    "Queenstown Gardens",
+    "Fiordland National Park",
+    "Mount Aspiring National Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Milford Sound",
+    "Glenorchy",
+    "Arrowtown",
+    "Wanaka"
+  ],
+  "fromPriceUSD": 1937,
+  "seo": {
+    "title": "Queenstown 3-Day Adventure Tour | Flights, Hotels & Tours Included",
+    "slug": "queenstown-3-day-package",
+    "keywords": [
+      "Queenstown",
+      "New Zealand",
+      "Queenstown, New Zealand",
+      "Oceania",
+      "Queenstown tour package",
+      "Queenstown vacation package",
+      "Queenstown holiday package",
+      "things to do in Queenstown",
+      "best time to visit Queenstown",
+      "Queenstown itinerary",
+      "3 day Queenstown itinerary",
+      "Queenstown flights and hotels",
+      "Queenstown all inclusive package",
+      "cheap Queenstown package",
+      "luxury Queenstown package"
+    ],
+    "canonicalUrl": "/packages/queenstown-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Queenstown Package",
+        "url": "/packages/queenstown-2-day-package"
+      },
+      {
+        "title": "5-Day Queenstown Package",
+        "url": "/packages/queenstown-5-day-package"
+      },
+      {
+        "title": "Reykjavik 3-Day Nature Retreat",
+        "url": "/packages/reykjavik-3-day-package"
+      },
+      {
+        "title": "Banff 3-Day Nature Retreat",
+        "url": "/packages/banff-3-day-package"
+      },
+      {
+        "title": "Swiss Alps 3-Day Adventure Tour",
+        "url": "/packages/swiss-alps-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Queenstown — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Queenstown"
+      },
+      {
+        "title": "Queenstown — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Queenstown"
+      }
+    ]
+  }
+}

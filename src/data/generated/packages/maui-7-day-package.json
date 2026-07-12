@@ -1,0 +1,1652 @@
+{
+  "id": "PKG-maui-7D",
+  "slug": "maui-7-day-package",
+  "destinationSlug": "maui",
+  "destinationName": "Maui",
+  "country": "United States",
+  "region": "Hawaii",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Maui 7-Day Beach Getaway",
+  "metaTitle": "Maui 7-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Maui, United States: round-trip flights, hotel, breakfast, transfers, and guided tours including Road to Hana guided tour and Haleakalā National Park sunrise entry. Prices from $2313 per person (estimate).",
+  "highlights": [
+    "Road to Hana guided tour",
+    "Haleakalā National Park sunrise entry",
+    "Baldwin Beach Park",
+    "Snorkeling and diving at Molokini Crater",
+    "Oceanfront suite at the Four Seasons Wailea",
+    "Private sunset dinner on the beach",
+    "Road to Hana"
+  ],
+  "overview": "Spend 7 days discovering Maui, United States — Tropical climate with warm temperatures year-round; a drier season (Apr-Oct) and a slightly wetter, cooler season (Nov-Mar), with conditions varying sharply between the windward and leeward coasts and by elevation. April-May and September-October shoulder seasons for good weather, lower prices, and thinner crowds. This itinerary blends Road to Hana guided tour, Haleakalā National Park sunrise entry, Baldwin Beach Park with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Road to Hana guided tour, Haleakalā National Park sunrise entry, Baldwin Beach Park",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Maui",
+      "description": "Land at Kahului Airport (OGG) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Road to Hana guided tour — Guided version of the famous scenic drive. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Road to Hana guided tour"
+      ],
+      "overnight": "Maui"
+    },
+    {
+      "day": 2,
+      "title": "Maui: Haleakalā National Park sunrise entry & Old Lahaina Luau",
+      "description": "Morning visit to Haleakalā National Park sunrise entry — Reserved sunrise viewing atop the volcano summit. In the afternoon, continue to Old Lahaina Luau — Traditional Hawaiian feast and dance performance. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Haleakalā National Park sunrise entry",
+        "Old Lahaina Luau"
+      ],
+      "overnight": "Maui"
+    },
+    {
+      "day": 3,
+      "title": "Maui: Maui Ocean Center & Molokini Crater snorkeling boat trip",
+      "description": "Morning visit to Maui Ocean Center — Aquarium focused on Hawaiian reef life. In the afternoon, continue to Molokini Crater snorkeling boat trip — Boat snorkel excursion to a crescent-shaped crater reef. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Maui Ocean Center",
+        "Molokini Crater snorkeling boat trip"
+      ],
+      "overnight": "Maui"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Road to Hana",
+      "description": "Full-day excursion to Road to Hana, a popular side trip from Maui. Return to Maui in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Road to Hana",
+        "Free evening"
+      ],
+      "overnight": "Maui"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Wai'anapanapa State Park black sand beach — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Wai'anapanapa State Park black sand beach"
+      ],
+      "overnight": "Maui"
+    },
+    {
+      "day": 6,
+      "title": "Maui: Whale watching cruise (winter season) & Skyline Eco-Adventures zipline",
+      "description": "Morning visit to Whale watching cruise (winter season) — Humpback whale watching boat tour. In the afternoon, continue to Skyline Eco-Adventures zipline — Canopy zipline tour in upcountry Maui. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Whale watching cruise (winter season)",
+        "Skyline Eco-Adventures zipline"
+      ],
+      "overnight": "Maui"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Iao Valley State Park or some souvenir shopping — before your private transfer to OGG for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Haleakalā sunrise viewing reservations online in advance — a permit system limits entry",
+    "Fill up on gas before starting the Road to Hana, as stations are scarce",
+    "Start the Road to Hana early to avoid oncoming tour traffic on narrow one-lane bridges",
+    "Respect \"kapu\" (forbidden/off-limits) signs at sacred and private sites",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Reef-safe, mineral-based sunscreen, required by Hawaii law near reefs",
+    "Lightweight breathable clothing plus a warm layer for the chilly Haleakalā summit sunrise",
+    "Water shoes for rocky snorkel entries",
+    "A reusable water bottle for long Road to Hana drives"
+  ],
+  "thingsToDo": [
+    "Road to Hana guided tour",
+    "Haleakalā National Park sunrise entry",
+    "Old Lahaina Luau",
+    "Maui Ocean Center",
+    "Molokini Crater snorkeling boat trip",
+    "Whale watching cruise (winter season)",
+    "Skyline Eco-Adventures zipline",
+    "Iao Valley State Park",
+    "Sunrise bike ride down Haleakalā",
+    "Surf lesson group class",
+    "Baldwin Beach Park",
+    "Ho'okipa Beach lookout",
+    "Wailea Beach Path",
+    "Lahaina Historic District",
+    "Twin Falls",
+    "Makena Beach (\"Big Beach\")",
+    "Kapalua Coastal Trail",
+    "Snorkeling and diving at Molokini Crater",
+    "Sunrise bike descent from Haleakalā summit",
+    "Surfing at Ho'okipa Beach"
+  ],
+  "thingsToAvoid": [
+    "Removing lava rocks or sand from beaches — considered bad luck and culturally disrespectful",
+    "Swimming at unpatrolled beaches with strong shore breaks or currents",
+    "Driving the Road to Hana too fast on blind curves",
+    "Using non-reef-safe sunscreen, which is restricted by Hawaii state law"
+  ],
+  "topRestaurants": [
+    "Mama's Fish House — Oceanfront seafood ($$$$)",
+    "Merriman's Kapalua — Hawaii regional cuisine ($$$$)",
+    "Leoda's Kitchen and Pie Shop — Bakery and casual American ($)",
+    "Paia Fish Market — Fresh fish tacos and plates ($$)",
+    "Star Noodle — Asian fusion noodles ($$)",
+    "Duo Steak and Seafood — Steak and seafood ($$$)",
+    "Cafe des Amis — Crepes and Indian-inspired wraps ($)",
+    "Ono Organic Farms roadside stand — Fresh tropical fruit ($)"
+  ],
+  "topCafes": [
+    "Maui Coffee Roasters",
+    "Wow-Wow Lemonade Paia",
+    "Coconut Glen's (Hana)",
+    "Cafe Mambo"
+  ],
+  "shoppingAreas": [
+    "Whalers Village Kaanapali",
+    "Front Street Lahaina",
+    "Maui Swap Meet",
+    "Paia Town boutiques"
+  ],
+  "nightlife": [
+    "Kaanapali Beach sunset luau shows",
+    "Fleetwood's on Front St",
+    "Monkeypod Kitchen happy hour",
+    "Mulligans on the Blue"
+  ],
+  "instagramSpots": [
+    "Road to Hana waterfalls",
+    "Haleakalā sunrise crater view",
+    "Wailea coastline at sunset",
+    "Iao Needle viewpoint",
+    "Ho'okipa Beach sea turtles"
+  ],
+  "hiddenGems": [
+    "Wai'anapanapa State Park black sand beach",
+    "Kula lavender farms upcountry",
+    "Olowalu snorkeling reef",
+    "Waimoku Falls in Kipahulu"
+  ],
+  "familyActivities": [
+    "Maui Ocean Center aquarium",
+    "Whale watching cruise (winter season)",
+    "Skyline Eco-Adventures zipline",
+    "Surfing lessons at Lahaina"
+  ],
+  "adventureActivities": [
+    "Snorkeling and diving at Molokini Crater",
+    "Sunrise bike descent from Haleakalā summit",
+    "Surfing at Ho'okipa Beach",
+    "Ziplining through upcountry Maui"
+  ],
+  "luxuryExperiences": [
+    "Oceanfront suite at the Four Seasons Wailea",
+    "Private helicopter tour over the Hana coastline and volcano",
+    "Private catamaran sunset sail",
+    "Couples spa overlooking the Pacific"
+  ],
+  "honeymoonExperiences": [
+    "Private sunset dinner on the beach",
+    "Couples snorkel trip to Molokini",
+    "Secluded oceanfront resort stay",
+    "Sunrise picnic atop Haleakalā"
+  ],
+  "budgetExperiences": [
+    "Free snorkeling at public beaches like Kapalua Bay",
+    "Self-drive Road to Hana with free roadside stops",
+    "Baldwin Beach Park for a free beach day",
+    "Iao Valley State Park short hike"
+  ],
+  "estimatedDailyBudgetUSD": [
+    130,
+    250,
+    480,
+    950
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 2,
+  "walkingScore": 30,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 27,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 28,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 31,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 27,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Maui Whale Festival",
+      "timing": "January to March"
+    },
+    {
+      "name": "Maui Film Festival",
+      "timing": "June"
+    },
+    {
+      "name": "Aloha Festivals",
+      "timing": "September"
+    },
+    {
+      "name": "Ka Hula Piko (statewide Hawaiian culture celebration)",
+      "timing": "May"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Remove shoes before entering a home.",
+    "Respect \"aloha\" and \"mālama 'āina\" — caring for the land — in how you treat nature.",
+    "Never take lava rocks or sand from beaches; it's considered bad luck and disrespectful.",
+    "Yield to Hawaiian cultural practices at sacred sites (heiau).",
+    "Use only reef-safe, mineral-based sunscreen, required by Hawaii state law near reefs."
+  ],
+  "localTransportGuide": "A rental car is essential on Maui, as public transportation (the Maui Bus) is limited and doesn't reach most resort areas or the Road to Hana. Roads can be narrow and winding, especially en route to Hana, so allow a full day for the round trip.",
+  "bestTimeToVisit": "April-May and September-October shoulder seasons for good weather, lower prices, and thinner crowds.",
+  "weather": "Tropical climate with warm temperatures year-round; a drier season (Apr-Oct) and a slightly wetter, cooler season (Nov-Mar), with conditions varying sharply between the windward and leeward coasts and by elevation.",
+  "visaInformation": "Travelers from Visa Waiver Program countries need an approved ESTA before flying, valid for stays up to 90 days; other nationalities require a B-2 tourist visa. Hawaii is a US state, so standard US entry rules apply.",
+  "currency": "USD",
+  "languages": [
+    "English",
+    "Hawaiian"
+  ],
+  "timeZone": "HST (UTC-10)",
+  "averageFlightTime": "~15.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Kahului Airport (OGG)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Maui?",
+      "answer": "Travelers from Visa Waiver Program countries need an approved ESTA before flying, valid for stays up to 90 days; other nationalities require a B-2 tourist visa. Hawaii is a US state, so standard US entry rules apply."
+    },
+    {
+      "question": "What is the best time to visit Maui?",
+      "answer": "April-May and September-October shoulder seasons for good weather, lower prices, and thinner crowds. Tropical climate with warm temperatures year-round; a drier season (Apr-Oct) and a slightly wetter, cooler season (Nov-Mar), with conditions varying sharply between the windward and leeward coasts and by elevation."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Maui safe for tourists?",
+      "answer": "Maui is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Maui?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Maui is one of our most-booked honeymoon destinations, especially the Private sunset dinner on the beach experience."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Honeymoon",
+    "Luxury",
+    "Nature",
+    "Adventure",
+    "Romantic"
+  ],
+  "aiTags": [
+    "Maui",
+    "United States",
+    "Maui, United States",
+    "Hawaii",
+    "Maui tour package",
+    "Maui vacation package",
+    "Maui holiday package",
+    "things to do in Maui",
+    "best time to visit Maui",
+    "Maui itinerary",
+    "7 day Maui itinerary",
+    "Maui flights and hotels",
+    "Maui all inclusive package",
+    "cheap Maui package",
+    "luxury Maui package",
+    "Maui honeymoon package",
+    "Maui family vacation",
+    "Maui solo trip",
+    "Maui group tour",
+    "Maui weekend getaway",
+    "Maui guided tour",
+    "OGG flights",
+    "Maui travel guide",
+    "book Maui trip online",
+    "Maui trip cost",
+    "Maui packages 7 days",
+    "Maui beach",
+    "Maui honeymoon",
+    "Maui luxury",
+    "Maui nature",
+    "Maui adventure",
+    "Maui romantic",
+    "Road to Hana guided tour",
+    "Haleakalā National Park sunrise entry",
+    "Old Lahaina Luau",
+    "Maui Ocean Center",
+    "Molokini Crater snorkeling boat trip",
+    "Whale watching cruise (winter season)",
+    "Skyline Eco-Adventures zipline",
+    "Iao Valley State Park",
+    "Sunrise bike ride down Haleakalā",
+    "Surf lesson group class",
+    "Baldwin Beach Park",
+    "Ho'okipa Beach lookout",
+    "Wailea Beach Path",
+    "Lahaina Historic District",
+    "Twin Falls",
+    "Makena Beach (\"Big Beach\")",
+    "Kapalua Coastal Trail",
+    "Mama's Fish House"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Maui, United States — Road to Hana waterfall",
+      "keywords": [
+        "Maui",
+        "United States",
+        "Road to Hana waterfall",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Maui Road to Hana waterfall",
+      "pexelsQuery": "Maui Road to Hana waterfall",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Maui, United States — Road to Hana waterfall",
+      "keywords": [
+        "Maui",
+        "United States",
+        "Road to Hana waterfall",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Maui Road to Hana waterfall",
+      "pexelsQuery": "Maui Road to Hana waterfall",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Maui, United States — Haleakala sunrise crater",
+      "keywords": [
+        "Maui",
+        "United States",
+        "Haleakala sunrise crater",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Maui Haleakala sunrise crater",
+      "pexelsQuery": "Maui Haleakala sunrise crater",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Maui, United States — Wailea Beach sunset",
+      "keywords": [
+        "Maui",
+        "United States",
+        "Wailea Beach sunset",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Maui Wailea Beach sunset",
+      "pexelsQuery": "Maui Wailea Beach sunset",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Maui, United States — Road to Hana waterfall",
+      "keywords": [
+        "Maui",
+        "United States",
+        "Road to Hana waterfall",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Maui Road to Hana waterfall",
+      "pexelsQuery": "Maui Road to Hana waterfall",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Maui, United States — Haleakala sunrise crater",
+      "keywords": [
+        "Maui",
+        "United States",
+        "Haleakala sunrise crater",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Maui Haleakala sunrise crater",
+      "pexelsQuery": "Maui Haleakala sunrise crater",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Maui, United States — Wailea Beach sunset",
+      "keywords": [
+        "Maui",
+        "United States",
+        "Wailea Beach sunset",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Maui Wailea Beach sunset",
+      "pexelsQuery": "Maui Wailea Beach sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Maui, United States — Molokini Crater snorkeling",
+      "keywords": [
+        "Maui",
+        "United States",
+        "Molokini Crater snorkeling",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Maui Molokini Crater snorkeling",
+      "pexelsQuery": "Maui Molokini Crater snorkeling",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Maui, United States — Road to Hana guided tour",
+      "keywords": [
+        "Maui",
+        "United States",
+        "Road to Hana guided tour",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Maui Road to Hana guided tour",
+      "pexelsQuery": "Maui Road to Hana guided tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Maui, United States — Haleakalā National Park sunrise entry",
+      "keywords": [
+        "Maui",
+        "United States",
+        "Haleakalā National Park sunrise entry",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Maui Haleakalā National Park sunrise entry",
+      "pexelsQuery": "Maui Haleakalā National Park sunrise entry",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Maui, United States — Old Lahaina Luau",
+      "keywords": [
+        "Maui",
+        "United States",
+        "Old Lahaina Luau",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Maui Old Lahaina Luau",
+      "pexelsQuery": "Maui Old Lahaina Luau",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Maui, United States — Maui Ocean Center",
+      "keywords": [
+        "Maui",
+        "United States",
+        "Maui Ocean Center",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Maui Maui Ocean Center",
+      "pexelsQuery": "Maui Maui Ocean Center",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-maui-7-1",
+      "author": "Sarah Silva",
+      "country": "Saudi Arabia",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-06-28",
+      "title": "Consultant made it effortless",
+      "body": "Maui is stunning and this package covered the essentials well, especially Twin Falls. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-2",
+      "author": "Mohammed Fernandez",
+      "country": "Japan",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-04-16",
+      "title": "Five stars, will return",
+      "body": "Sunrise bike ride down Haleakalā alone was worth the trip, but combined with Road to Hana guided tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-maui-7-3",
+      "author": "David Patel",
+      "country": "UAE",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-11-21",
+      "title": "Unforgettable trip!",
+      "body": "Maui is stunning and this package covered the essentials well, especially Skyline Eco-Adventures zipline. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-4",
+      "author": "Ava Garcia",
+      "country": "New Zealand",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-18",
+      "title": "Loved every moment",
+      "body": "Ho'okipa Beach lookout alone was worth the trip, but combined with Twin Falls this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-5",
+      "author": "Ava Kowalski",
+      "country": "United States",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-06-26",
+      "title": "Unforgettable trip!",
+      "body": "Road to Hana guided tour alone was worth the trip, but combined with Surf lesson group class this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-6",
+      "author": "Wei Müller",
+      "country": "India",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-15",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a couple trip and it was well paced. Whale watching cruise (winter season) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-maui-7-7",
+      "author": "David Brown",
+      "country": "Japan",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-18",
+      "title": "Great for families with kids",
+      "body": "Maui is stunning and this package covered the essentials well, especially Sunrise bike ride down Haleakalā. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-8",
+      "author": "Grace Silva",
+      "country": "South Africa",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-04",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Baldwin Beach Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-9",
+      "author": "Mia Rossi",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-30",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Maui Ocean Center and Maui Ocean Center. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-maui-7-10",
+      "author": "Isabella Andersen",
+      "country": "Brazil",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-03-29",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Surf lesson group class and Baldwin Beach Park. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-11",
+      "author": "Daniel van Dijk",
+      "country": "South Korea",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2025-04-20",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Sunrise bike ride down Haleakalā and Kapalua Coastal Trail. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-12",
+      "author": "Tom Silva",
+      "country": "Brazil",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-05-23",
+      "title": "Loved every moment",
+      "body": "We added a couple of optional activities beyond Surf lesson group class and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-13",
+      "author": "Wei Santos",
+      "country": "Switzerland",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-10",
+      "title": "Worth every penny",
+      "body": "Booked this as a solo trip and it was well paced. Lahaina Historic District in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-14",
+      "author": "Nadia Ivanov",
+      "country": "Germany",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-11-22",
+      "title": "Beautiful destination, well organized",
+      "body": "Maui is stunning and this package covered the essentials well, especially Maui Ocean Center. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-15",
+      "author": "Wei Müller",
+      "country": "Switzerland",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-03-28",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a family of 4 trip and it was well paced. Lahaina Historic District in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-16",
+      "author": "Olivia Tanaka",
+      "country": "Singapore",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-09",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Maui was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Skyline Eco-Adventures zipline was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-17",
+      "author": "Anna Andersen",
+      "country": "United States",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2026-05-05",
+      "title": "Unforgettable trip!",
+      "body": "Maui is stunning and this package covered the essentials well, especially Road to Hana guided tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-18",
+      "author": "Lucas Larsen",
+      "country": "Brazil",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-18",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Surf lesson group class and Ho'okipa Beach lookout. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-19",
+      "author": "Grace Rossi",
+      "country": "Italy",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-04-09",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Kapalua Coastal Trail and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-maui-7-20",
+      "author": "Sofia Dubois",
+      "country": "Italy",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-07-25",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a group trip and it was well paced. Makena Beach (\"Big Beach\") in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.5,
+    "hotel": 4.3,
+    "transportation": 4.4,
+    "activities": 4.4,
+    "value": 4.4,
+    "cleanliness": 4.4,
+    "safety": 4.5,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Maui Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 29,
+      "neighborhood": "Whalers Village Kaanapali"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Maui Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 52,
+      "neighborhood": "Front Street Lahaina"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Maui Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 88,
+      "neighborhood": "Maui Swap Meet"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Maui Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 113,
+      "neighborhood": "Paia Town boutiques"
+    },
+    {
+      "tier": "Resort",
+      "name": "Maui Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 240,
+      "neighborhood": "Kaanapali Beach sunset luau shows"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Maui Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 399,
+      "neighborhood": "Fleetwood's on Front St"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Maui Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 475,
+      "neighborhood": "Monkeypod Kitchen happy hour"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        647,
+        1027
+      ],
+      "estimatedFlightHours": 11.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        611,
+        971
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        918,
+        1458
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        943,
+        1497
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        943,
+        1497
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1012,
+        1608
+      ],
+      "estimatedFlightHours": 18.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        990,
+        1573
+      ],
+      "estimatedFlightHours": 17.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        921,
+        1462
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        964,
+        1531
+      ],
+      "estimatedFlightHours": 17.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        672,
+        1067
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        589,
+        936
+      ],
+      "estimatedFlightHours": 10.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        949,
+        1507
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        537,
+        853
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        616,
+        979
+      ],
+      "estimatedFlightHours": 10.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        870,
+        1381
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        856,
+        1359
+      ],
+      "estimatedFlightHours": 15.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        881,
+        1399
+      ],
+      "estimatedFlightHours": 15.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        869,
+        1380
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        705,
+        1119
+      ],
+      "estimatedFlightHours": 12.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        821,
+        1304
+      ],
+      "estimatedFlightHours": 14.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1079,
+        1713
+      ],
+      "estimatedFlightHours": 19.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1115,
+        1771
+      ],
+      "estimatedFlightHours": 20.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1093,
+        1736
+      ],
+      "estimatedFlightHours": 19.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1078,
+        1712
+      ],
+      "estimatedFlightHours": 19.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1469,
+        2333
+      ],
+      "estimatedFlightHours": 26.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1005,
+        1596
+      ],
+      "estimatedFlightHours": 18.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Kahului Airport (OGG)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        506,
+        803
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Road to Hana guided tour",
+    "Haleakalā National Park sunrise entry",
+    "Old Lahaina Luau",
+    "Maui Ocean Center",
+    "Molokini Crater snorkeling boat trip",
+    "Whale watching cruise (winter season)",
+    "Skyline Eco-Adventures zipline",
+    "Iao Valley State Park",
+    "Sunrise bike ride down Haleakalā",
+    "Surf lesson group class",
+    "Baldwin Beach Park",
+    "Ho'okipa Beach lookout",
+    "Wailea Beach Path",
+    "Lahaina Historic District",
+    "Twin Falls",
+    "Makena Beach (\"Big Beach\")",
+    "Kapalua Coastal Trail",
+    "Road to Hana",
+    "Haleakalā National Park sunrise",
+    "Molokini Crater snorkel trip",
+    "Iao Valley",
+    "Bailey House Museum",
+    "Hana Cultural Center",
+    "Haleakalā National Park",
+    "Wai'anapanapa State Park",
+    "Kepaniwai Heritage Gardens",
+    "Kaanapali Beach",
+    "Wailea Beach",
+    "Makena (\"Big\") Beach",
+    "Baldwin Beach",
+    "Road to Hana waterfalls",
+    "Haleakalā sunrise crater view",
+    "Wailea coastline at sunset",
+    "Iao Needle viewpoint",
+    "Ho'okipa Beach sea turtles"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Road to Hana guided tour",
+      "priceUSD": 150
+    },
+    {
+      "name": "Haleakalā National Park sunrise entry",
+      "priceUSD": 30
+    },
+    {
+      "name": "Old Lahaina Luau",
+      "priceUSD": 130
+    },
+    {
+      "name": "Maui Ocean Center",
+      "priceUSD": 40
+    },
+    {
+      "name": "Molokini Crater snorkeling boat trip",
+      "priceUSD": 130
+    },
+    {
+      "name": "Whale watching cruise (winter season)",
+      "priceUSD": 70
+    },
+    {
+      "name": "Skyline Eco-Adventures zipline",
+      "priceUSD": 130
+    },
+    {
+      "name": "Iao Valley State Park",
+      "priceUSD": 5
+    },
+    {
+      "name": "Sunrise bike ride down Haleakalā",
+      "priceUSD": 200
+    },
+    {
+      "name": "Surf lesson group class",
+      "priceUSD": 80
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Baldwin Beach Park",
+    "Ho'okipa Beach lookout",
+    "Wailea Beach Path",
+    "Lahaina Historic District",
+    "Twin Falls",
+    "Makena Beach (\"Big Beach\")",
+    "Kapalua Coastal Trail"
+  ],
+  "museums": [
+    "Maui Ocean Center",
+    "Bailey House Museum",
+    "Hana Cultural Center"
+  ],
+  "parks": [
+    "Haleakalā National Park",
+    "Iao Valley State Park",
+    "Wai'anapanapa State Park",
+    "Kepaniwai Heritage Gardens"
+  ],
+  "beaches": [
+    "Kaanapali Beach",
+    "Wailea Beach",
+    "Makena (\"Big\") Beach",
+    "Baldwin Beach"
+  ],
+  "dayTrips": [
+    "Road to Hana",
+    "Haleakalā National Park sunrise",
+    "Molokini Crater snorkel trip",
+    "Iao Valley"
+  ],
+  "fromPriceUSD": 2313,
+  "seo": {
+    "title": "Maui 7-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "maui-7-day-package",
+    "keywords": [
+      "Maui",
+      "United States",
+      "Maui, United States",
+      "Hawaii",
+      "Maui tour package",
+      "Maui vacation package",
+      "Maui holiday package",
+      "things to do in Maui",
+      "best time to visit Maui",
+      "Maui itinerary",
+      "7 day Maui itinerary",
+      "Maui flights and hotels",
+      "Maui all inclusive package",
+      "cheap Maui package",
+      "luxury Maui package"
+    ],
+    "canonicalUrl": "/packages/maui-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Maui Package",
+        "url": "/packages/maui-5-day-package"
+      },
+      {
+        "title": "10-Day Maui Package",
+        "url": "/packages/maui-10-day-package"
+      },
+      {
+        "title": "Fiji 7-Day Beach Getaway",
+        "url": "/packages/fiji-7-day-package"
+      },
+      {
+        "title": "Mauritius 7-Day Beach Getaway",
+        "url": "/packages/mauritius-7-day-package"
+      },
+      {
+        "title": "Maldives 7-Day Beach Getaway",
+        "url": "/packages/maldives-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Maui — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maui"
+      },
+      {
+        "title": "Maui — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Maui"
+      }
+    ]
+  }
+}

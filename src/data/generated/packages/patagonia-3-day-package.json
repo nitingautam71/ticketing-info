@@ -1,0 +1,1576 @@
+{
+  "id": "PKG-patagonia-3D",
+  "slug": "patagonia-3-day-package",
+  "destinationSlug": "patagonia",
+  "destinationName": "Patagonia",
+  "country": "Argentina",
+  "region": "Patagonia",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Patagonia 3-Day Nature Retreat",
+  "metaTitle": "Patagonia 3-Day Nature Retreat | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Patagonia, Argentina: round-trip flights, hotel, breakfast, transfers, and guided tours including Perito Moreno Glacier boardwalk park entry and Perito Moreno mini-trekking. Prices from $1472 per person (estimate).",
+  "highlights": [
+    "Perito Moreno Glacier boardwalk park entry",
+    "Perito Moreno mini-trekking",
+    "Los Glaciares National Park (El Chaltén sector)",
+    "Perito Moreno mini-trekking with crampons",
+    "Perito Moreno Glacier"
+  ],
+  "overview": "Spend 3 days discovering Patagonia, Argentina — Cold, windy, sub-polar climate; summer highs around 18-20°C (Dec-Feb) with long daylight hours, and winter highs near 2-5°C (Jun-Aug) with strong winds, limited daylight, and reduced tourist services. December to February, the Southern Hemisphere summer, for the best weather for glacier trekking and hiking; the region is far south and effectively winds down in winter. This itinerary blends Perito Moreno Glacier boardwalk park entry, Perito Moreno mini-trekking, Los Glaciares National Park (El Chaltén sector) with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Perito Moreno Glacier boardwalk park entry, Perito Moreno mini-trekking, Los Glaciares National Park (El Chaltén sector)",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Patagonia",
+      "description": "Land at Comandante Armando Tola International Airport (El Calafate) (FTE) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Perito Moreno Glacier boardwalk park entry — Los Glaciares National Park viewing platforms. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Perito Moreno Glacier boardwalk park entry"
+      ],
+      "overnight": "Patagonia"
+    },
+    {
+      "day": 2,
+      "title": "Patagonia: Perito Moreno mini-trekking & Nautical safari boat to the glacier face",
+      "description": "Morning visit to Perito Moreno mini-trekking — Guided ice-trekking with crampons on the glacier. In the afternoon, continue to Nautical safari boat to the glacier face — Close-up boat approach to the ice wall. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Perito Moreno mini-trekking",
+        "Nautical safari boat to the glacier face"
+      ],
+      "overnight": "Patagonia"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Fitz Roy guided trekking tour (El Chaltén) or some souvenir shopping — before your private transfer to FTE for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Perito Moreno mini-trekking and Fitz Roy guides well ahead in peak summer (Dec-Feb)",
+    "Pack for extreme wind — Patagonia is famous for it",
+    "Most El Chaltén trails are free and self-guided, with no permit needed for day hikes",
+    "Expect reduced services and hours in the off-season (May-Sep)",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Heavy-duty windproof and waterproof outer layers, even in summer",
+    "Sturdy waterproof hiking boots",
+    "Sunglasses and high-SPF sunscreen for the thin ozone layer at this latitude",
+    "Thermal base layers for sudden temperature drops"
+  ],
+  "thingsToDo": [
+    "Perito Moreno Glacier boardwalk park entry",
+    "Perito Moreno mini-trekking",
+    "Nautical safari boat to the glacier face",
+    "Fitz Roy guided trekking tour (El Chaltén)",
+    "Glaciarium Ice Museum",
+    "Upsala Glacier boat excursion",
+    "Laguna Nimez Nature Reserve",
+    "El Calafate Historical Interpretation Center",
+    "Torres del Paine day trip (Chile)",
+    "Estancia gaucho day tour",
+    "Los Glaciares National Park (El Chaltén sector)",
+    "Fitz Roy base trail views",
+    "Avenida del Libertador",
+    "El Calafate lakefront promenade",
+    "Mirador de los Cóndores",
+    "Laguna Nimez viewpoint",
+    "Perito Moreno mini-trekking with crampons",
+    "Multi-day Fitz Roy trekking in El Chaltén",
+    "Ice climbing on the glacier",
+    "Kayaking near Upsala Glacier icebergs"
+  ],
+  "thingsToAvoid": [
+    "Underestimating Patagonian wind on exposed trails and viewpoints",
+    "Hiking Fitz Roy or Torres del Paine circuits without checking weather and daylight windows",
+    "Traveling in deep winter when many tours and roads run reduced service",
+    "Skipping layers — temperatures swing fast between sun and shade"
+  ],
+  "topRestaurants": [
+    "La Tablita — Patagonian steakhouse ($$$)",
+    "Isabel Cocina al Disco — Argentine home-style ($$)",
+    "Mi Rancho — Traditional Patagonian ($$)",
+    "La Zaina — Argentine grill ($$)",
+    "Pura Vida El Calafate — Home-style Argentine ($$)",
+    "Casimiro Biguá Parrilla — Parrilla (grill) ($$$)",
+    "Olivia Café & Deli — Cafe and light bites ($)",
+    "Viva la Pepa (El Chaltén) — Argentine casual ($$)"
+  ],
+  "topCafes": [
+    "Casablanca Café",
+    "Olivia Café & Deli",
+    "Kau Kaleshen",
+    "Rústica Café (El Chaltén)"
+  ],
+  "shoppingAreas": [
+    "Avenida del Libertador craft shops",
+    "Patagonian wool and leather stores",
+    "Local calafate-berry chocolate shops"
+  ],
+  "nightlife": [
+    "La Zorra Brewpub",
+    "Shackleton Lounge",
+    "Libertador Avenue bars"
+  ],
+  "instagramSpots": [
+    "Perito Moreno Glacier face",
+    "Fitz Roy reflected in Laguna de los Tres",
+    "Lago Argentino turquoise waters",
+    "Laguna Nimez flamingos",
+    "Glaciarium ice-blue architecture"
+  ],
+  "hiddenGems": [
+    "Laguna Torre trek in El Chaltén",
+    "Estancia Cristina remote ranch",
+    "Walichu Caves ancient rock art",
+    "Punta Bandera viewpoint"
+  ],
+  "familyActivities": [
+    "Glaciarium interactive ice museum",
+    "Laguna Nimez Nature Reserve birdwatching",
+    "Perito Moreno boardwalk viewing",
+    "Estancia sheep-shearing demonstration"
+  ],
+  "adventureActivities": [
+    "Perito Moreno mini-trekking with crampons",
+    "Multi-day Fitz Roy trekking in El Chaltén",
+    "Ice climbing on the glacier",
+    "Kayaking near Upsala Glacier icebergs"
+  ],
+  "luxuryExperiences": [
+    "Stay at a luxury estancia lodge with all-inclusive excursions",
+    "Private glacier boat charter",
+    "Fine Patagonian lamb tasting menu",
+    "Private guided helicopter flight over Fitz Roy"
+  ],
+  "honeymoonExperiences": [
+    "Sunset boat cruise to Perito Moreno Glacier",
+    "Private estancia dinner under the stars",
+    "Couples ice-trekking on the glacier",
+    "Secluded lodge stay overlooking Lago Argentino"
+  ],
+  "budgetExperiences": [
+    "Free self-guided hikes around El Chaltén",
+    "Laguna Nimez self-guided walk",
+    "Wander El Calafate's free lakefront promenade",
+    "Budget hostel-based day hikes toward Fitz Roy"
+  ],
+  "estimatedDailyBudgetUSD": [
+    80,
+    170,
+    320,
+    650
+  ],
+  "safetyRating": 5,
+  "internetRating": 2,
+  "publicTransportRating": 2,
+  "walkingScore": 40,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 20,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 11,
+      "crowd": "Low"
+    },
+    {
+      "month": "May",
+      "highC": 7,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 4,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 3,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 5,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 9,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 13,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 17,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 19,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Fiesta Nacional del Lago Argentino",
+      "timing": "February, El Calafate"
+    },
+    {
+      "name": "Día de la Tradición (Gaucho Heritage Day)",
+      "timing": "November 10"
+    },
+    {
+      "name": "Semana de Santa Cruz provincial celebrations",
+      "timing": "May"
+    },
+    {
+      "name": "Marcha Blanca winter torchlight festival (broader Patagonia)",
+      "timing": "August"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "101",
+    "ambulance": "107",
+    "fire": "100"
+  },
+  "localEtiquette": [
+    "A single cheek kiss is a common greeting, even among new acquaintances.",
+    "Tipping around 10% is appreciated in restaurants.",
+    "Follow Leave No Trace principles in national parks.",
+    "Dress in warm layers regardless of the season — weather shifts fast.",
+    "If offered mate (a shared herbal tea), accept it as a social gesture."
+  ],
+  "localTransportGuide": "El Calafate itself is small and walkable, but reaching Perito Moreno Glacier (80km) or El Chaltén (215km) requires a rental car, an organized bus tour, or the regular Chaltén Travel shuttle bus. Distances in Patagonia are vast, so build significant travel time into any itinerary.",
+  "bestTimeToVisit": "December to February, the Southern Hemisphere summer, for the best weather for glacier trekking and hiking; the region is far south and effectively winds down in winter.",
+  "weather": "Cold, windy, sub-polar climate; summer highs around 18-20°C (Dec-Feb) with long daylight hours, and winter highs near 2-5°C (Jun-Aug) with strong winds, limited daylight, and reduced tourist services.",
+  "visaInformation": "Argentina allows visa-free tourist entry for up to 90 days for most Western passport holders (US, UK, EU, Canada, Australia); no advance visa is needed for most nationalities for short tourist stays.",
+  "currency": "ARS",
+  "languages": [
+    "Spanish"
+  ],
+  "timeZone": "ART (UTC-3)",
+  "averageFlightTime": "~18.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Patagonia?",
+      "answer": "Argentina allows visa-free tourist entry for up to 90 days for most Western passport holders (US, UK, EU, Canada, Australia); no advance visa is needed for most nationalities for short tourist stays."
+    },
+    {
+      "question": "What is the best time to visit Patagonia?",
+      "answer": "December to February, the Southern Hemisphere summer, for the best weather for glacier trekking and hiking; the region is far south and effectively winds down in winter. Cold, windy, sub-polar climate; summer highs around 18-20°C (Dec-Feb) with long daylight hours, and winter highs near 2-5°C (Jun-Aug) with strong winds, limited daylight, and reduced tourist services."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Patagonia safe for tourists?",
+      "answer": "Patagonia is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Patagonia?",
+      "answer": "The local currency is ARS. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Nature",
+    "Adventure",
+    "Bucket List",
+    "Winter",
+    "Summer",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Patagonia",
+    "Argentina",
+    "Patagonia, Argentina",
+    "Patagonia tour package",
+    "Patagonia vacation package",
+    "Patagonia holiday package",
+    "things to do in Patagonia",
+    "best time to visit Patagonia",
+    "Patagonia itinerary",
+    "3 day Patagonia itinerary",
+    "Patagonia flights and hotels",
+    "Patagonia all inclusive package",
+    "cheap Patagonia package",
+    "luxury Patagonia package",
+    "Patagonia honeymoon package",
+    "Patagonia family vacation",
+    "Patagonia solo trip",
+    "Patagonia group tour",
+    "Patagonia weekend getaway",
+    "Patagonia guided tour",
+    "FTE flights",
+    "Patagonia travel guide",
+    "book Patagonia trip online",
+    "Patagonia trip cost",
+    "Patagonia packages 3 days",
+    "Patagonia nature",
+    "Patagonia adventure",
+    "Patagonia bucket list",
+    "Patagonia winter",
+    "Patagonia summer",
+    "Perito Moreno Glacier boardwalk park entry",
+    "Perito Moreno mini-trekking",
+    "Nautical safari boat to the glacier face",
+    "Fitz Roy guided trekking tour (El Chaltén)",
+    "Glaciarium Ice Museum",
+    "Upsala Glacier boat excursion",
+    "Laguna Nimez Nature Reserve",
+    "El Calafate Historical Interpretation Center",
+    "Torres del Paine day trip (Chile)",
+    "Estancia gaucho day tour",
+    "Los Glaciares National Park (El Chaltén sector)",
+    "Fitz Roy base trail views",
+    "Avenida del Libertador",
+    "El Calafate lakefront promenade",
+    "Mirador de los Cóndores",
+    "Laguna Nimez viewpoint",
+    "La Tablita",
+    "Isabel Cocina al Disco",
+    "Mi Rancho",
+    "La Zaina"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Patagonia, Argentina — Perito Moreno Glacier ice wall",
+      "keywords": [
+        "Patagonia",
+        "Argentina",
+        "Perito Moreno Glacier ice wall",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Patagonia Perito Moreno Glacier ice wall",
+      "pexelsQuery": "Patagonia Perito Moreno Glacier ice wall",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Patagonia, Argentina — Perito Moreno Glacier ice wall",
+      "keywords": [
+        "Patagonia",
+        "Argentina",
+        "Perito Moreno Glacier ice wall",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Patagonia Perito Moreno Glacier ice wall",
+      "pexelsQuery": "Patagonia Perito Moreno Glacier ice wall",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Patagonia, Argentina — Fitz Roy Laguna de los Tres reflection",
+      "keywords": [
+        "Patagonia",
+        "Argentina",
+        "Fitz Roy Laguna de los Tres reflection",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Patagonia Fitz Roy Laguna de los Tres reflection",
+      "pexelsQuery": "Patagonia Fitz Roy Laguna de los Tres reflection",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Patagonia, Argentina — Patagonia turquoise lake mountains",
+      "keywords": [
+        "Patagonia",
+        "Argentina",
+        "Patagonia turquoise lake mountains",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Patagonia Patagonia turquoise lake mountains",
+      "pexelsQuery": "Patagonia Patagonia turquoise lake mountains",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Patagonia, Argentina — Perito Moreno Glacier ice wall",
+      "keywords": [
+        "Patagonia",
+        "Argentina",
+        "Perito Moreno Glacier ice wall",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Patagonia Perito Moreno Glacier ice wall",
+      "pexelsQuery": "Patagonia Perito Moreno Glacier ice wall",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Patagonia, Argentina — Fitz Roy Laguna de los Tres reflection",
+      "keywords": [
+        "Patagonia",
+        "Argentina",
+        "Fitz Roy Laguna de los Tres reflection",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Patagonia Fitz Roy Laguna de los Tres reflection",
+      "pexelsQuery": "Patagonia Fitz Roy Laguna de los Tres reflection",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Patagonia, Argentina — Patagonia turquoise lake mountains",
+      "keywords": [
+        "Patagonia",
+        "Argentina",
+        "Patagonia turquoise lake mountains",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Patagonia Patagonia turquoise lake mountains",
+      "pexelsQuery": "Patagonia Patagonia turquoise lake mountains",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Patagonia, Argentina — El Chaltén trekking trail",
+      "keywords": [
+        "Patagonia",
+        "Argentina",
+        "El Chaltén trekking trail",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Patagonia El Chaltén trekking trail",
+      "pexelsQuery": "Patagonia El Chaltén trekking trail",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Patagonia, Argentina — Perito Moreno Glacier boardwalk park entry",
+      "keywords": [
+        "Patagonia",
+        "Argentina",
+        "Perito Moreno Glacier boardwalk park entry",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Patagonia Perito Moreno Glacier boardwalk park entry",
+      "pexelsQuery": "Patagonia Perito Moreno Glacier boardwalk park entry",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Patagonia, Argentina — Perito Moreno mini-trekking",
+      "keywords": [
+        "Patagonia",
+        "Argentina",
+        "Perito Moreno mini-trekking",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Patagonia Perito Moreno mini-trekking",
+      "pexelsQuery": "Patagonia Perito Moreno mini-trekking",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Patagonia, Argentina — Nautical safari boat to the glacier face",
+      "keywords": [
+        "Patagonia",
+        "Argentina",
+        "Nautical safari boat to the glacier face",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Patagonia Nautical safari boat to the glacier face",
+      "pexelsQuery": "Patagonia Nautical safari boat to the glacier face",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Patagonia, Argentina — Fitz Roy guided trekking tour (El Chaltén)",
+      "keywords": [
+        "Patagonia",
+        "Argentina",
+        "Fitz Roy guided trekking tour (El Chaltén)",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Patagonia Fitz Roy guided trekking tour (El Chaltén)",
+      "pexelsQuery": "Patagonia Fitz Roy guided trekking tour (El Chaltén)",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-patagonia-3-1",
+      "author": "Liam Kim",
+      "country": "India",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-06-21",
+      "title": "Loved every moment",
+      "body": "Our trip to Patagonia was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Glaciarium Ice Museum was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-patagonia-3-2",
+      "author": "Lucas Sharma",
+      "country": "Brazil",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-20",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Torres del Paine day trip (Chile) and Mirador de los Cóndores. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-3",
+      "author": "Daniel Williams",
+      "country": "Australia",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-29",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Fitz Roy guided trekking tour (El Chaltén) and Los Glaciares National Park (El Chaltén sector). Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-patagonia-3-4",
+      "author": "Ava Costa",
+      "country": "Switzerland",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-05-25",
+      "title": "Five stars, will return",
+      "body": "Avenida del Libertador alone was worth the trip, but combined with Los Glaciares National Park (El Chaltén sector) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-5",
+      "author": "Priya Silva",
+      "country": "United Kingdom",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-08-31",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a solo trip and it was well paced. Perito Moreno mini-trekking in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-6",
+      "author": "Yuki Williams",
+      "country": "Singapore",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-17",
+      "title": "Unforgettable trip!",
+      "body": "El Calafate Historical Interpretation Center alone was worth the trip, but combined with Torres del Paine day trip (Chile) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-7",
+      "author": "Hiroshi Cohen",
+      "country": "Japan",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-27",
+      "title": "Unforgettable trip!",
+      "body": "Torres del Paine day trip (Chile) alone was worth the trip, but combined with Upsala Glacier boat excursion this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-8",
+      "author": "Mohammed Andersen",
+      "country": "Mexico",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-23",
+      "title": "Smooth from start to finish",
+      "body": "Mirador de los Cóndores alone was worth the trip, but combined with Fitz Roy base trail views this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-9",
+      "author": "Priya Brown",
+      "country": "UAE",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-07-14",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a solo trip and it was well paced. Upsala Glacier boat excursion in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-10",
+      "author": "Arjun Novak",
+      "country": "Singapore",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-04-23",
+      "title": "Worth every penny",
+      "body": "Booked this as a couple trip and it was well paced. Laguna Nimez Nature Reserve in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-patagonia-3-11",
+      "author": "Wei Dubois",
+      "country": "India",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-19",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a family of 4 trip and it was well paced. Upsala Glacier boat excursion in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-patagonia-3-12",
+      "author": "Fatima Ivanov",
+      "country": "Japan",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-04-02",
+      "title": "So many hidden gems included",
+      "body": "Torres del Paine day trip (Chile) alone was worth the trip, but combined with Nautical safari boat to the glacier face this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-13",
+      "author": "Mia Garcia",
+      "country": "UAE",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4,
+      "date": "2025-06-28",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Laguna Nimez Nature Reserve and Los Glaciares National Park (El Chaltén sector). Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-patagonia-3-14",
+      "author": "Sofia Wang",
+      "country": "Germany",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-01",
+      "title": "Five stars, will return",
+      "body": "Booked this as a couple trip and it was well paced. Fitz Roy guided trekking tour (El Chaltén) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-15",
+      "author": "Omar Rossi",
+      "country": "Switzerland",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-28",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Avenida del Libertador and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-patagonia-3-16",
+      "author": "Yuki Patel",
+      "country": "UAE",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-07",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Laguna Nimez Nature Reserve alone was worth the trip, but combined with El Calafate lakefront promenade this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-17",
+      "author": "Fatima Costa",
+      "country": "Japan",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-02",
+      "title": "Great for families with kids",
+      "body": "Torres del Paine day trip (Chile) alone was worth the trip, but combined with Laguna Nimez Nature Reserve this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-18",
+      "author": "Lukas Cohen",
+      "country": "France",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-12-04",
+      "title": "Five stars, will return",
+      "body": "Patagonia is stunning and this package covered the essentials well, especially Glaciarium Ice Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-19",
+      "author": "Chen Santos",
+      "country": "Brazil",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-02",
+      "title": "Loved every moment",
+      "body": "Booked this as a family of 4 trip and it was well paced. Estancia gaucho day tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-patagonia-3-20",
+      "author": "Omar Nguyen",
+      "country": "South Korea",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-01",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond El Calafate Historical Interpretation Center and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.1,
+    "transportation": 4.2,
+    "activities": 4.2,
+    "value": 4.3,
+    "cleanliness": 4.2,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Patagonia Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Avenida del Libertador craft shops"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Patagonia Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "Patagonian wool and leather stores"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Patagonia Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 59,
+      "neighborhood": "Local calafate-berry chocolate shops"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Patagonia Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 77,
+      "neighborhood": "La Zorra Brewpub"
+    },
+    {
+      "tier": "Resort",
+      "name": "Patagonia Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "Shackleton Lounge"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Patagonia Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 273,
+      "neighborhood": "Libertador Avenue bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Patagonia Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 325,
+      "neighborhood": "Casablanca Café"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        808,
+        1284
+      ],
+      "estimatedFlightHours": 14.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        833,
+        1323
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        1030,
+        1636
+      ],
+      "estimatedFlightHours": 18.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1024,
+        1627
+      ],
+      "estimatedFlightHours": 18.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        1055,
+        1675
+      ],
+      "estimatedFlightHours": 19.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1025,
+        1628
+      ],
+      "estimatedFlightHours": 18.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        950,
+        1509
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1053,
+        1673
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1040,
+        1651
+      ],
+      "estimatedFlightHours": 18.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        779,
+        1238
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        677,
+        1076
+      ],
+      "estimatedFlightHours": 12,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1268,
+        2014
+      ],
+      "estimatedFlightHours": 23.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        1304,
+        2071
+      ],
+      "estimatedFlightHours": 23.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1372,
+        2179
+      ],
+      "estimatedFlightHours": 25,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1128,
+        1791
+      ],
+      "estimatedFlightHours": 20.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1225,
+        1945
+      ],
+      "estimatedFlightHours": 22.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1142,
+        1813
+      ],
+      "estimatedFlightHours": 20.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1068,
+        1697
+      ],
+      "estimatedFlightHours": 19.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1223,
+        1943
+      ],
+      "estimatedFlightHours": 22.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1205,
+        1914
+      ],
+      "estimatedFlightHours": 21.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1143,
+        1816
+      ],
+      "estimatedFlightHours": 20.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1097,
+        1743
+      ],
+      "estimatedFlightHours": 19.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1125,
+        1787
+      ],
+      "estimatedFlightHours": 20.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1130,
+        1794
+      ],
+      "estimatedFlightHours": 20.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        689,
+        1095
+      ],
+      "estimatedFlightHours": 12.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        344,
+        547
+      ],
+      "estimatedFlightHours": 5.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Comandante Armando Tola International Airport (El Calafate) (FTE)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        668,
+        1061
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Perito Moreno Glacier boardwalk park entry",
+    "Perito Moreno mini-trekking",
+    "Nautical safari boat to the glacier face",
+    "Fitz Roy guided trekking tour (El Chaltén)",
+    "Glaciarium Ice Museum",
+    "Upsala Glacier boat excursion",
+    "Laguna Nimez Nature Reserve",
+    "El Calafate Historical Interpretation Center",
+    "Torres del Paine day trip (Chile)",
+    "Estancia gaucho day tour",
+    "Los Glaciares National Park (El Chaltén sector)",
+    "Fitz Roy base trail views",
+    "Avenida del Libertador",
+    "El Calafate lakefront promenade",
+    "Mirador de los Cóndores",
+    "Laguna Nimez viewpoint",
+    "Perito Moreno Glacier",
+    "El Chaltén and Fitz Roy",
+    "Torres del Paine National Park (Chile)",
+    "Estancia Cristina boat and hike",
+    "Los Glaciares National Park",
+    "Perito Moreno Glacier face",
+    "Fitz Roy reflected in Laguna de los Tres",
+    "Lago Argentino turquoise waters",
+    "Laguna Nimez flamingos",
+    "Glaciarium ice-blue architecture"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Perito Moreno Glacier boardwalk park entry",
+      "priceUSD": 30
+    },
+    {
+      "name": "Perito Moreno mini-trekking",
+      "priceUSD": 220
+    },
+    {
+      "name": "Nautical safari boat to the glacier face",
+      "priceUSD": 60
+    },
+    {
+      "name": "Fitz Roy guided trekking tour (El Chaltén)",
+      "priceUSD": 90
+    },
+    {
+      "name": "Glaciarium Ice Museum",
+      "priceUSD": 20
+    },
+    {
+      "name": "Upsala Glacier boat excursion",
+      "priceUSD": 150
+    },
+    {
+      "name": "Laguna Nimez Nature Reserve",
+      "priceUSD": 8
+    },
+    {
+      "name": "El Calafate Historical Interpretation Center",
+      "priceUSD": 5
+    },
+    {
+      "name": "Torres del Paine day trip (Chile)",
+      "priceUSD": 150
+    },
+    {
+      "name": "Estancia gaucho day tour",
+      "priceUSD": 80
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Los Glaciares National Park (El Chaltén sector)",
+    "Fitz Roy base trail views",
+    "Avenida del Libertador",
+    "El Calafate lakefront promenade",
+    "Mirador de los Cóndores",
+    "Laguna Nimez viewpoint"
+  ],
+  "museums": [
+    "Glaciarium Ice Museum",
+    "El Calafate Historical Interpretation Center"
+  ],
+  "parks": [
+    "Los Glaciares National Park",
+    "Laguna Nimez Nature Reserve"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Perito Moreno Glacier",
+    "El Chaltén and Fitz Roy",
+    "Torres del Paine National Park (Chile)",
+    "Estancia Cristina boat and hike"
+  ],
+  "fromPriceUSD": 1472,
+  "seo": {
+    "title": "Patagonia 3-Day Nature Retreat | Flights, Hotels & Tours Included",
+    "slug": "patagonia-3-day-package",
+    "keywords": [
+      "Patagonia",
+      "Argentina",
+      "Patagonia, Argentina",
+      "Patagonia tour package",
+      "Patagonia vacation package",
+      "Patagonia holiday package",
+      "things to do in Patagonia",
+      "best time to visit Patagonia",
+      "Patagonia itinerary",
+      "3 day Patagonia itinerary",
+      "Patagonia flights and hotels",
+      "Patagonia all inclusive package",
+      "cheap Patagonia package",
+      "luxury Patagonia package",
+      "Patagonia honeymoon package"
+    ],
+    "canonicalUrl": "/packages/patagonia-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Patagonia Package",
+        "url": "/packages/patagonia-2-day-package"
+      },
+      {
+        "title": "5-Day Patagonia Package",
+        "url": "/packages/patagonia-5-day-package"
+      },
+      {
+        "title": "Swiss Alps 3-Day Adventure Tour",
+        "url": "/packages/swiss-alps-3-day-package"
+      },
+      {
+        "title": "Reykjavik 3-Day Nature Retreat",
+        "url": "/packages/reykjavik-3-day-package"
+      },
+      {
+        "title": "Queenstown 3-Day Adventure Tour",
+        "url": "/packages/queenstown-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Patagonia — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Patagonia"
+      },
+      {
+        "title": "Patagonia — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Patagonia"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1574 @@
+{
+  "id": "PKG-ho-chi-minh-city-2D",
+  "slug": "ho-chi-minh-city-2-day-package",
+  "destinationSlug": "ho-chi-minh-city",
+  "destinationName": "Ho Chi Minh City",
+  "country": "Vietnam",
+  "region": "Southeast Asia",
+  "durationDays": 2,
+  "durationNights": 1,
+  "title": "Ho Chi Minh City 2-Day City Break",
+  "metaTitle": "Ho Chi Minh City 2-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 2-day trip to Ho Chi Minh City, Vietnam: round-trip flights, hotel, breakfast, transfers, and guided tours including War Remnants Museum and Cu Chi Tunnels. Prices from $1534 per person (estimate).",
+  "highlights": [
+    "War Remnants Museum",
+    "Cu Chi Tunnels",
+    "Ben Thanh Market"
+  ],
+  "overview": "Spend 2 days discovering Ho Chi Minh City, Vietnam — Tropical climate with a hot dry season (Dec-Apr) and a hot, humid wet season (May-Nov) featuring intense but short afternoon downpours. December to April, the dry season, for sunny days and lower humidity. This itinerary blends War Remnants Museum, Cu Chi Tunnels, Ben Thanh Market with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "1 night accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including War Remnants Museum, Cu Chi Tunnels, Ben Thanh Market",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Ho Chi Minh City",
+      "description": "Land at Tan Son Nhat International Airport (SGN) and take your included private transfer to your hotel. With limited time on the ground, head straight out to War Remnants Museum — Museum documenting the Vietnam War. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "War Remnants Museum"
+      ],
+      "overnight": "Ho Chi Minh City"
+    },
+    {
+      "day": 2,
+      "title": "Ho Chi Minh City Highlights & Departure",
+      "description": "Start early with a visit to Cu Chi Tunnels — Historic Viet Cong tunnel network, day trip. Grab a last taste of local life before your private transfer to SGN for your onward flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Cu Chi Tunnels",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Use Grab for transparent, upfront pricing on rides and food delivery",
+    "Cross streets slowly and predictably — don't stop suddenly in traffic",
+    "Visit the Cu Chi Tunnels early morning to avoid heat and tour-bus crowds",
+    "Carry small VND bills for street food and market stalls",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Lightweight, breathable clothing for year-round heat and humidity",
+    "A compact rain poncho for sudden wet-season downpours",
+    "Sunscreen and a hat for intense midday sun",
+    "Modest clothing for temple and pagoda visits"
+  ],
+  "thingsToDo": [
+    "War Remnants Museum",
+    "Cu Chi Tunnels",
+    "Independence Palace (Reunification Palace)",
+    "Bitexco Financial Tower Skydeck",
+    "Landmark 81 Skyview",
+    "Jade Emperor Pagoda",
+    "Fito Museum",
+    "Mekong Delta day tour",
+    "Suoi Tien Amusement Park",
+    "Saigon Opera House show",
+    "Ben Thanh Market",
+    "Notre-Dame Cathedral Basilica of Saigon",
+    "Saigon Central Post Office",
+    "Bui Vien Walking Street",
+    "Nguyen Hue Walking Street",
+    "Cholon (Chinatown)",
+    "Turtle Lake",
+    "Thu Thiem Bridge riverside",
+    "Cu Chi Tunnels crawl-through experience",
+    "Mekong Delta cycling tour"
+  ],
+  "thingsToAvoid": [
+    "Unmetered \"taxi\" scams near Ben Thanh Market — use Grab or Vinasun/Mai Linh",
+    "Walking valuables loosely on your shoulder near motorbikes (bag-snatching risk)",
+    "Drinking tap water — use bottled or filtered water",
+    "Overpaying for cyclo rides without agreeing a price first"
+  ],
+  "topRestaurants": [
+    "Pho Hoa Pasteur — Vietnamese pho ($)",
+    "Banh Xeo 46A — Vietnamese savory pancakes ($)",
+    "Cuc Gach Quan — Traditional Vietnamese home-style ($$)",
+    "Quan Bui — Modern Vietnamese ($$)",
+    "Anan Saigon — Modern Vietnamese street food ($$$)",
+    "Ben Thanh Street Food Market — Vietnamese street food stalls ($)",
+    "Nha Hang Ngon — Vietnamese food court-style restaurant ($$)",
+    "The Deck Saigon — Riverside international dining ($$$)"
+  ],
+  "topCafes": [
+    "Cong Ca Phe (coconut coffee chain)",
+    "The Cafe Apartment (42 Nguyen Hue)",
+    "L'Usine District 1",
+    "Loading T Cafe",
+    "Weasel Coffee"
+  ],
+  "shoppingAreas": [
+    "Ben Thanh Market",
+    "Dong Khoi Street boutiques",
+    "Saigon Square",
+    "An Dong Plaza (Cholon)"
+  ],
+  "nightlife": [
+    "Bui Vien Walking Street",
+    "Chill Skybar (Bitexco)",
+    "District 1 rooftop bars",
+    "Apocalypse Now nightclub"
+  ],
+  "instagramSpots": [
+    "The Cafe Apartment balcony views",
+    "Notre-Dame Cathedral facade",
+    "Bitexco Skydeck at sunset",
+    "Cholon lantern-lit streets",
+    "Landmark 81 skyline"
+  ],
+  "hiddenGems": [
+    "Thi Nghe Canal walk",
+    "Binh Tay Market in Cholon",
+    "Turtle Lake local cafes",
+    "Saigon Skydeck at dawn before crowds"
+  ],
+  "familyActivities": [
+    "Suoi Tien Amusement Park",
+    "Saigon Zoo and Botanical Gardens",
+    "Landmark 81 Skyview",
+    "Mekong Delta family boat tour"
+  ],
+  "adventureActivities": [
+    "Cu Chi Tunnels crawl-through experience",
+    "Mekong Delta cycling tour",
+    "Motorbike food tour through District 4",
+    "Can Gio Mangrove Forest kayaking"
+  ],
+  "luxuryExperiences": [
+    "Suite stay at Park Hyatt Saigon",
+    "Private Mekong Delta luxury boat charter",
+    "Fine dining tasting menu at Anan Saigon",
+    "Tailored ao dai and suit fitting"
+  ],
+  "honeymoonExperiences": [
+    "Sunset cocktails at a rooftop skybar",
+    "Private candlelit dinner on the Saigon River",
+    "Couples spa treatment at a colonial-era hotel",
+    "Cyclo tour through the Old French Quarter at dusk"
+  ],
+  "budgetExperiences": [
+    "Street food crawl around Ben Thanh Market",
+    "Coconut coffee at Cong Ca Phe",
+    "Free walk through the Old French Quarter",
+    "Bui Vien Street people-watching over a cheap beer"
+  ],
+  "estimatedDailyBudgetUSD": [
+    22,
+    55,
+    120,
+    260
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 65,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 32,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 33,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 34,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 35,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 34,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 31,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Tet (Vietnamese Lunar New Year)",
+      "timing": "Late January or February"
+    },
+    {
+      "name": "Reunification Day",
+      "timing": "April 30"
+    },
+    {
+      "name": "Mid-Autumn Festival",
+      "timing": "September or October (lunar calendar)"
+    },
+    {
+      "name": "Saigon Outcast street art & music events",
+      "timing": "Year-round, peak Nov-Mar"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "113",
+    "ambulance": "115",
+    "fire": "114"
+  },
+  "localEtiquette": [
+    "Dress modestly at temples and pagodas, covering shoulders and knees.",
+    "Use both hands to pass items or money, especially to older people.",
+    "Bargain politely and with a smile at markets; aggressive haggling is frowned upon.",
+    "Remove shoes when entering someone's home or certain guesthouses.",
+    "Avoid public displays of anger, which causes loss of face for both parties."
+  ],
+  "localTransportGuide": "Grab is the easiest way to get around for both cars and motorbike taxis, with fixed upfront fares. The Ben Thanh–Suoi Tien metro line (Line 1) now connects downtown to the eastern suburbs; crossing streets on foot requires walking steadily so motorbikes can flow around you.",
+  "bestTimeToVisit": "December to April, the dry season, for sunny days and lower humidity.",
+  "weather": "Tropical climate with a hot dry season (Dec-Apr) and a hot, humid wet season (May-Nov) featuring intense but short afternoon downpours.",
+  "visaInformation": "Vietnam requires an e-Visa for most nationalities, obtainable online in advance for stays up to 90 days; some countries have short-stay visa-exempt arrangements. Apply for the e-Visa several days before travel to avoid airport delays.",
+  "currency": "VND",
+  "languages": [
+    "Vietnamese"
+  ],
+  "timeZone": "ICT (UTC+7)",
+  "averageFlightTime": "~10.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Tan Son Nhat International Airport (SGN)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Ho Chi Minh City?",
+      "answer": "Vietnam requires an e-Visa for most nationalities, obtainable online in advance for stays up to 90 days; some countries have short-stay visa-exempt arrangements. Apply for the e-Visa several days before travel to avoid airport delays."
+    },
+    {
+      "question": "What is the best time to visit Ho Chi Minh City?",
+      "answer": "December to April, the dry season, for sunny days and lower humidity. Tropical climate with a hot dry season (Dec-Apr) and a hot, humid wet season (May-Nov) featuring intense but short afternoon downpours."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Ho Chi Minh City safe for tourists?",
+      "answer": "Ho Chi Minh City is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Ho Chi Minh City?",
+      "answer": "The local currency is VND. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "History",
+    "Food",
+    "Culture",
+    "Nightlife",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Ho Chi Minh City",
+    "Vietnam",
+    "Ho Chi Minh City, Vietnam",
+    "Southeast Asia",
+    "Ho Chi Minh City tour package",
+    "Ho Chi Minh City vacation package",
+    "Ho Chi Minh City holiday package",
+    "things to do in Ho Chi Minh City",
+    "best time to visit Ho Chi Minh City",
+    "Ho Chi Minh City itinerary",
+    "2 day Ho Chi Minh City itinerary",
+    "Ho Chi Minh City flights and hotels",
+    "Ho Chi Minh City all inclusive package",
+    "cheap Ho Chi Minh City package",
+    "luxury Ho Chi Minh City package",
+    "Ho Chi Minh City honeymoon package",
+    "Ho Chi Minh City family vacation",
+    "Ho Chi Minh City solo trip",
+    "Ho Chi Minh City group tour",
+    "Ho Chi Minh City weekend getaway",
+    "Ho Chi Minh City guided tour",
+    "SGN flights",
+    "Ho Chi Minh City travel guide",
+    "book Ho Chi Minh City trip online",
+    "Ho Chi Minh City trip cost",
+    "Ho Chi Minh City packages 2 days",
+    "Ho Chi Minh City city break",
+    "Ho Chi Minh City history",
+    "Ho Chi Minh City food",
+    "Ho Chi Minh City culture",
+    "Ho Chi Minh City nightlife",
+    "War Remnants Museum",
+    "Cu Chi Tunnels",
+    "Independence Palace (Reunification Palace)",
+    "Bitexco Financial Tower Skydeck",
+    "Landmark 81 Skyview",
+    "Jade Emperor Pagoda",
+    "Fito Museum",
+    "Mekong Delta day tour",
+    "Suoi Tien Amusement Park",
+    "Saigon Opera House show",
+    "Ben Thanh Market",
+    "Notre-Dame Cathedral Basilica of Saigon",
+    "Saigon Central Post Office",
+    "Bui Vien Walking Street",
+    "Nguyen Hue Walking Street",
+    "Cholon (Chinatown)",
+    "Turtle Lake",
+    "Thu Thiem Bridge riverside",
+    "Pho Hoa Pasteur"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Ho Chi Minh City, Vietnam — Ben Thanh Market Saigon",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Vietnam",
+        "Ben Thanh Market Saigon",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Ho Chi Minh City Ben Thanh Market Saigon",
+      "pexelsQuery": "Ho Chi Minh City Ben Thanh Market Saigon",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Ho Chi Minh City, Vietnam — Ben Thanh Market Saigon",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Vietnam",
+        "Ben Thanh Market Saigon",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Ho Chi Minh City Ben Thanh Market Saigon",
+      "pexelsQuery": "Ho Chi Minh City Ben Thanh Market Saigon",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Ho Chi Minh City, Vietnam — Bitexco Tower skyline",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Vietnam",
+        "Bitexco Tower skyline",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Ho Chi Minh City Bitexco Tower skyline",
+      "pexelsQuery": "Ho Chi Minh City Bitexco Tower skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Ho Chi Minh City, Vietnam — Notre-Dame Cathedral Saigon",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Vietnam",
+        "Notre-Dame Cathedral Saigon",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Ho Chi Minh City Notre-Dame Cathedral Saigon",
+      "pexelsQuery": "Ho Chi Minh City Notre-Dame Cathedral Saigon",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Ho Chi Minh City, Vietnam — Ben Thanh Market Saigon",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Vietnam",
+        "Ben Thanh Market Saigon",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Ho Chi Minh City Ben Thanh Market Saigon",
+      "pexelsQuery": "Ho Chi Minh City Ben Thanh Market Saigon",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ho Chi Minh City, Vietnam — Bitexco Tower skyline",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Vietnam",
+        "Bitexco Tower skyline",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Ho Chi Minh City Bitexco Tower skyline",
+      "pexelsQuery": "Ho Chi Minh City Bitexco Tower skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ho Chi Minh City, Vietnam — Notre-Dame Cathedral Saigon",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Vietnam",
+        "Notre-Dame Cathedral Saigon",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Ho Chi Minh City Notre-Dame Cathedral Saigon",
+      "pexelsQuery": "Ho Chi Minh City Notre-Dame Cathedral Saigon",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ho Chi Minh City, Vietnam — Cu Chi Tunnels jungle",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Vietnam",
+        "Cu Chi Tunnels jungle",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Ho Chi Minh City Cu Chi Tunnels jungle",
+      "pexelsQuery": "Ho Chi Minh City Cu Chi Tunnels jungle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ho Chi Minh City, Vietnam — War Remnants Museum",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Vietnam",
+        "War Remnants Museum",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Ho Chi Minh City War Remnants Museum",
+      "pexelsQuery": "Ho Chi Minh City War Remnants Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ho Chi Minh City, Vietnam — Cu Chi Tunnels",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Vietnam",
+        "Cu Chi Tunnels",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Ho Chi Minh City Cu Chi Tunnels",
+      "pexelsQuery": "Ho Chi Minh City Cu Chi Tunnels",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ho Chi Minh City, Vietnam — Independence Palace (Reunification Palace)",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Vietnam",
+        "Independence Palace (Reunification Palace)",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Ho Chi Minh City Independence Palace (Reunification Palace)",
+      "pexelsQuery": "Ho Chi Minh City Independence Palace (Reunification Palace)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ho Chi Minh City, Vietnam — Bitexco Financial Tower Skydeck",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Vietnam",
+        "Bitexco Financial Tower Skydeck",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Ho Chi Minh City Bitexco Financial Tower Skydeck",
+      "pexelsQuery": "Ho Chi Minh City Bitexco Financial Tower Skydeck",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-ho-chi-minh-city-2-1",
+      "author": "James Costa",
+      "country": "Germany",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-01-13",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Ho Chi Minh City was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Bitexco Financial Tower Skydeck was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-2",
+      "author": "Ethan Costa",
+      "country": "Singapore",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-19",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Mekong Delta day tour and Notre-Dame Cathedral Basilica of Saigon. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-3",
+      "author": "Omar Müller",
+      "country": "Australia",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-01-23",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond Independence Palace (Reunification Palace) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-4",
+      "author": "Priya Cohen",
+      "country": "South Africa",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-05",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a group trip and it was well paced. Notre-Dame Cathedral Basilica of Saigon in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-5",
+      "author": "Arjun Fernandez",
+      "country": "Italy",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-01-21",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a solo trip and it was well paced. Turtle Lake in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-6",
+      "author": "Isabella Patel",
+      "country": "India",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-02-17",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Fito Museum and Cu Chi Tunnels. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-7",
+      "author": "Omar Novak",
+      "country": "India",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-03-13",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Fito Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-8",
+      "author": "Mia Patel",
+      "country": "Australia",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-29",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Bitexco Financial Tower Skydeck and Bitexco Financial Tower Skydeck. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-9",
+      "author": "Wei Kim",
+      "country": "United States",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-15",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a solo trip and it was well paced. War Remnants Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-10",
+      "author": "Ethan Smith",
+      "country": "United Kingdom",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-04-19",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to War Remnants Museum and Bitexco Financial Tower Skydeck. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-11",
+      "author": "Lucas Sharma",
+      "country": "UAE",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-01",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Fito Museum and Ben Thanh Market. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-12",
+      "author": "Mia Garcia",
+      "country": "France",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-01-23",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Landmark 81 Skyview and Bitexco Financial Tower Skydeck. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-13",
+      "author": "Priya Rossi",
+      "country": "South Africa",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-15",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a solo trip and it was well paced. Notre-Dame Cathedral Basilica of Saigon in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-14",
+      "author": "Anna Ibrahim",
+      "country": "United States",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-01",
+      "title": "Loved every moment",
+      "body": "Ho Chi Minh City is stunning and this package covered the essentials well, especially War Remnants Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-15",
+      "author": "Grace Tanaka",
+      "country": "Australia",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-08-15",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Independence Palace (Reunification Palace) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-16",
+      "author": "Ava Kowalski",
+      "country": "South Africa",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-06-18",
+      "title": "Consultant made it effortless",
+      "body": "Notre-Dame Cathedral Basilica of Saigon alone was worth the trip, but combined with Fito Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-17",
+      "author": "Anna Patel",
+      "country": "UAE",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-28",
+      "title": "Smooth from start to finish",
+      "body": "Ho Chi Minh City is stunning and this package covered the essentials well, especially Fito Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-18",
+      "author": "Nadia Johnson",
+      "country": "United States",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-11-23",
+      "title": "A little rushed but still wonderful",
+      "body": "Ho Chi Minh City is stunning and this package covered the essentials well, especially War Remnants Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-19",
+      "author": "Mohammed Khan",
+      "country": "South Korea",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-07-02",
+      "title": "Five stars, will return",
+      "body": "Suoi Tien Amusement Park alone was worth the trip, but combined with Turtle Lake this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ho-chi-minh-city-2-20",
+      "author": "Sarah Smith",
+      "country": "South Korea",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-23",
+      "title": "Loved every moment",
+      "body": "Ho Chi Minh City is stunning and this package covered the essentials well, especially Suoi Tien Amusement Park. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.4,
+    "hotel": 4.3,
+    "transportation": 4.4,
+    "activities": 4.4,
+    "value": 4.4,
+    "cleanliness": 4.4,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Ho Chi Minh City Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 5,
+      "neighborhood": "Ben Thanh Market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Ho Chi Minh City Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 9,
+      "neighborhood": "Dong Khoi Street boutiques"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Ho Chi Minh City Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 19,
+      "neighborhood": "Saigon Square"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Ho Chi Minh City Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 25,
+      "neighborhood": "An Dong Plaza (Cholon)"
+    },
+    {
+      "tier": "Resort",
+      "name": "Ho Chi Minh City Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 60,
+      "neighborhood": "Bui Vien Walking Street"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Ho Chi Minh City Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 109,
+      "neighborhood": "Chill Skybar (Bitexco)"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Ho Chi Minh City Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 130,
+      "neighborhood": "District 1 rooftop bars"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1108,
+        1760
+      ],
+      "estimatedFlightHours": 20.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1083,
+        1720
+      ],
+      "estimatedFlightHours": 19.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        813,
+        1291
+      ],
+      "estimatedFlightHours": 14.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        808,
+        1283
+      ],
+      "estimatedFlightHours": 14.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        774,
+        1229
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        766,
+        1216
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        864,
+        1372
+      ],
+      "estimatedFlightHours": 15.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        787,
+        1250
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        779,
+        1237
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        571,
+        907
+      ],
+      "estimatedFlightHours": 10,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        717,
+        1138
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        340,
+        540
+      ],
+      "estimatedFlightHours": 5.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        388,
+        617
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        337,
+        535
+      ],
+      "estimatedFlightHours": 5.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        156,
+        247
+      ],
+      "estimatedFlightHours": 2.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        130,
+        207
+      ],
+      "estimatedFlightHours": 1.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        150,
+        238
+      ],
+      "estimatedFlightHours": 2.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        213,
+        339
+      ],
+      "estimatedFlightHours": 3.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        193,
+        306
+      ],
+      "estimatedFlightHours": 2.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        483,
+        767
+      ],
+      "estimatedFlightHours": 8.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        545,
+        865
+      ],
+      "estimatedFlightHours": 9.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        510,
+        810
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        538,
+        855
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        757,
+        1203
+      ],
+      "estimatedFlightHours": 13.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1294,
+        2055
+      ],
+      "estimatedFlightHours": 23.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Tan Son Nhat International Airport (SGN)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1205,
+        1914
+      ],
+      "estimatedFlightHours": 21.9,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "War Remnants Museum",
+    "Cu Chi Tunnels",
+    "Independence Palace (Reunification Palace)",
+    "Bitexco Financial Tower Skydeck",
+    "Landmark 81 Skyview",
+    "Jade Emperor Pagoda",
+    "Fito Museum",
+    "Mekong Delta day tour",
+    "Suoi Tien Amusement Park",
+    "Saigon Opera House show",
+    "Ben Thanh Market",
+    "Notre-Dame Cathedral Basilica of Saigon",
+    "Saigon Central Post Office",
+    "Bui Vien Walking Street",
+    "Nguyen Hue Walking Street",
+    "Cholon (Chinatown)",
+    "Turtle Lake",
+    "Thu Thiem Bridge riverside",
+    "Mekong Delta (My Tho or Ben Tre)",
+    "Vung Tau beach town",
+    "Cao Dai Temple at Tay Ninh",
+    "Independence Palace",
+    "Ho Chi Minh City Museum",
+    "Tao Dan Park",
+    "September 23 Park",
+    "30/4 Park",
+    "The Cafe Apartment balcony views",
+    "Notre-Dame Cathedral facade",
+    "Bitexco Skydeck at sunset",
+    "Cholon lantern-lit streets",
+    "Landmark 81 skyline"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "War Remnants Museum",
+      "priceUSD": 1.6
+    },
+    {
+      "name": "Cu Chi Tunnels",
+      "priceUSD": 12
+    },
+    {
+      "name": "Independence Palace (Reunification Palace)",
+      "priceUSD": 2
+    },
+    {
+      "name": "Bitexco Financial Tower Skydeck",
+      "priceUSD": 12
+    },
+    {
+      "name": "Landmark 81 Skyview",
+      "priceUSD": 15
+    },
+    {
+      "name": "Jade Emperor Pagoda",
+      "priceUSD": 1
+    },
+    {
+      "name": "Fito Museum",
+      "priceUSD": 4
+    },
+    {
+      "name": "Mekong Delta day tour",
+      "priceUSD": 35
+    },
+    {
+      "name": "Suoi Tien Amusement Park",
+      "priceUSD": 10
+    },
+    {
+      "name": "Saigon Opera House show",
+      "priceUSD": 30
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Ben Thanh Market",
+    "Notre-Dame Cathedral Basilica of Saigon",
+    "Saigon Central Post Office",
+    "Bui Vien Walking Street",
+    "Nguyen Hue Walking Street",
+    "Cholon (Chinatown)",
+    "Turtle Lake",
+    "Thu Thiem Bridge riverside"
+  ],
+  "museums": [
+    "War Remnants Museum",
+    "Independence Palace",
+    "Fito Museum",
+    "Ho Chi Minh City Museum"
+  ],
+  "parks": [
+    "Tao Dan Park",
+    "September 23 Park",
+    "30/4 Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Cu Chi Tunnels",
+    "Mekong Delta (My Tho or Ben Tre)",
+    "Vung Tau beach town",
+    "Cao Dai Temple at Tay Ninh"
+  ],
+  "fromPriceUSD": 1534,
+  "seo": {
+    "title": "Ho Chi Minh City 2-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "ho-chi-minh-city-2-day-package",
+    "keywords": [
+      "Ho Chi Minh City",
+      "Vietnam",
+      "Ho Chi Minh City, Vietnam",
+      "Southeast Asia",
+      "Ho Chi Minh City tour package",
+      "Ho Chi Minh City vacation package",
+      "Ho Chi Minh City holiday package",
+      "things to do in Ho Chi Minh City",
+      "best time to visit Ho Chi Minh City",
+      "Ho Chi Minh City itinerary",
+      "2 day Ho Chi Minh City itinerary",
+      "Ho Chi Minh City flights and hotels",
+      "Ho Chi Minh City all inclusive package",
+      "cheap Ho Chi Minh City package",
+      "luxury Ho Chi Minh City package"
+    ],
+    "canonicalUrl": "/packages/ho-chi-minh-city-2-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Ho Chi Minh City Package",
+        "url": "/packages/ho-chi-minh-city-3-day-package"
+      },
+      {
+        "title": "5-Day Ho Chi Minh City Package",
+        "url": "/packages/ho-chi-minh-city-5-day-package"
+      },
+      {
+        "title": "London 2-Day City Break",
+        "url": "/packages/london-2-day-package"
+      },
+      {
+        "title": "Lisbon 2-Day City Break",
+        "url": "/packages/lisbon-2-day-package"
+      },
+      {
+        "title": "Seoul 2-Day City Break",
+        "url": "/packages/seoul-2-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Ho Chi Minh City — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City"
+      },
+      {
+        "title": "Ho Chi Minh City — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Ho_Chi_Minh_City"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1600 @@
+{
+  "id": "PKG-rome-3D",
+  "slug": "rome-3-day-package",
+  "destinationSlug": "rome",
+  "destinationName": "Rome",
+  "country": "Italy",
+  "region": "Southern Europe",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Rome 3-Day City Break",
+  "metaTitle": "Rome 3-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Rome, Italy: round-trip flights, hotel, breakfast, transfers, and guided tours including Colosseum and Roman Forum & Palatine Hill. Prices from $1089 per person (estimate).",
+  "highlights": [
+    "Colosseum",
+    "Roman Forum & Palatine Hill",
+    "Trevi Fountain",
+    "Pompeii and Mount Vesuvius"
+  ],
+  "overview": "Spend 3 days discovering Rome, Italy — Mediterranean climate with mild, rainy winters (highs 12°C) and hot, dry summers (highs 31°C); August can be uncomfortably hot for walking tours. April to June and September to October bring warm, pleasant weather and thinner crowds than the peak summer heat. This itinerary blends Colosseum, Roman Forum & Palatine Hill, Trevi Fountain with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Colosseum, Roman Forum & Palatine Hill, Trevi Fountain",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Rome",
+      "description": "Land at Leonardo da Vinci–Fiumicino Airport (FCO) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Colosseum — Ancient Roman gladiatorial amphitheater. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Colosseum"
+      ],
+      "overnight": "Rome"
+    },
+    {
+      "day": 2,
+      "title": "Rome: Roman Forum & Palatine Hill & Vatican Museums & Sistine Chapel",
+      "description": "Morning visit to Roman Forum & Palatine Hill — Ruins of ancient Rome's civic center. In the afternoon, continue to Vatican Museums & Sistine Chapel — Michelangelo's ceiling and papal art collections. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Roman Forum & Palatine Hill",
+        "Vatican Museums & Sistine Chapel"
+      ],
+      "overnight": "Rome"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to St. Peter's Basilica dome climb or some souvenir shopping — before your private transfer to FCO for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Colosseum and Vatican Museum tickets online well ahead to skip multi-hour queues.",
+    "Fiumicino Airport's Leonardo Express train runs directly to Termini Station in 32 minutes.",
+    "Many top sites like the Pantheon and Trevi Fountain are free — budget for skip-the-line tours instead.",
+    "Restaurants near major landmarks are often tourist traps — walk a few blocks for better, cheaper food.",
+    "Validate paper transit tickets before boarding buses/trams to avoid fines.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Modest clothing covering shoulders/knees for church visits",
+    "Sturdy shoes for cobblestone streets",
+    "Sun hat and water bottle for summer heat",
+    "A light scarf/shawl for women visiting religious sites"
+  ],
+  "thingsToDo": [
+    "Colosseum",
+    "Roman Forum & Palatine Hill",
+    "Vatican Museums & Sistine Chapel",
+    "St. Peter's Basilica dome climb",
+    "Borghese Gallery",
+    "Castel Sant'Angelo",
+    "Domus Aurea",
+    "Capitoline Museums",
+    "Baths of Caracalla",
+    "Catacombs of San Callisto",
+    "Trevi Fountain",
+    "Pantheon",
+    "Piazza Navona",
+    "Spanish Steps",
+    "Trastevere neighborhood",
+    "Campo de' Fiori",
+    "Janiculum Hill viewpoint",
+    "Piazza del Popolo",
+    "Appian Way (Via Appia Antica)",
+    "Underground Rome catacomb tours"
+  ],
+  "thingsToAvoid": [
+    "Unofficial \"gladiators\" charging for photos near the Colosseum — tips are expected and often excessive.",
+    "Restaurants with picture-menus and aggressive touts right by tourist sites.",
+    "Fake or scalped skip-the-line tickets sold by street vendors — buy only from official sources.",
+    "Ordering cappuccino after a meal — locals only drink it in the morning.",
+    "Pickpockets on crowded routes like Bus 64 (Termini to Vatican)."
+  ],
+  "topRestaurants": [
+    "Roscioli — Roman Trattoria ($$$)",
+    "Da Enzo al 29 — Roman Traditional ($$)",
+    "Armando al Pantheon — Roman Classic ($$$)",
+    "Pizzarium Bonci — Pizza al Taglio ($)",
+    "La Pergola — Fine Dining Italian ($$$$)",
+    "Trattoria Monti — Marche Regional ($$$)",
+    "Gelateria Giolitti — Gelato ($)",
+    "Antico Arco — Modern Italian ($$$)",
+    "Supplizio — Roman Street Food ($)"
+  ],
+  "topCafes": [
+    "Sant'Eustachio Il Caffè",
+    "Caffè Greco",
+    "Tazza d'Oro",
+    "Faro Caffè Specialty",
+    "Roscioli Caffè"
+  ],
+  "shoppingAreas": [
+    "Via del Corso",
+    "Via Condotti (luxury)",
+    "Campo de' Fiori market",
+    "Porta Portese flea market",
+    "Via Cola di Rienzo"
+  ],
+  "nightlife": [
+    "Trastevere bar scene",
+    "Rooftop bar at Hotel Locarno",
+    "Ai Tre Scalini wine bar",
+    "Freni e Frizioni cocktail bar",
+    "Testaccio club district"
+  ],
+  "instagramSpots": [
+    "Trevi Fountain at dawn",
+    "Colosseum interior arches",
+    "Spanish Steps",
+    "Aventine Keyhole (Giardino degli Aranci)",
+    "Trastevere alleyways"
+  ],
+  "hiddenGems": [
+    "Aventine Keyhole view of St. Peter's dome",
+    "Quartiere Coppedè architecture",
+    "Centrale Montemartini museum",
+    "Testaccio Market for local food"
+  ],
+  "familyActivities": [
+    "Explora Children's Museum",
+    "Villa Borghese park and paddle boats",
+    "Bioparco di Roma zoo",
+    "Time Elevator Rome show"
+  ],
+  "adventureActivities": [
+    "Underground Rome catacomb tours",
+    "Cycling the Appian Way",
+    "Segway city tours",
+    "Climbing St. Peter's dome stairs"
+  ],
+  "luxuryExperiences": [
+    "Private after-hours Vatican Museums tour",
+    "Michelin dining at La Pergola",
+    "Private chauffeured Vespa sidecar tour",
+    "Exclusive Colosseum underground/arena floor access"
+  ],
+  "honeymoonExperiences": [
+    "Sunset dinner at Aventine Hill overlooking the city",
+    "Private candlelit trattoria dinner in Trastevere",
+    "Romantic horse-drawn carriage ride",
+    "Couples cooking class making fresh pasta"
+  ],
+  "budgetExperiences": [
+    "Free entry to the Pantheon and Trevi Fountain",
+    "Pizza al taglio street food crawl",
+    "Free viewpoint from Janiculum Hill",
+    "Wander Trastevere at golden hour"
+  ],
+  "estimatedDailyBudgetUSD": [
+    65,
+    140,
+    250,
+    500
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 82,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 12,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 13,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 15,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 18,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jun",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 31,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 13,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Natale di Roma (Rome's Birthday)",
+      "timing": "April 21"
+    },
+    {
+      "name": "Estate Romana (Roman Summer festival series)",
+      "timing": "June to September"
+    },
+    {
+      "name": "Festa de' Noantri",
+      "timing": "Mid-to-late July, Trastevere"
+    },
+    {
+      "name": "Christmas markets at Piazza Navona",
+      "timing": "December"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115"
+  },
+  "localEtiquette": [
+    "Dress modestly (shoulders and knees covered) when visiting churches and the Vatican.",
+    "Cappuccino is a breakfast drink — ordering one after 11am or with a meal marks you as a tourist.",
+    "Don't sit on monument steps or fountains where signs prohibit it — fines are enforced.",
+    "Greet with \"Buongiorno\" or \"Buonasera\" when entering shops and restaurants.",
+    "Tipping is not obligatory; rounding up or leaving a small amount for good service is fine."
+  ],
+  "localTransportGuide": "Rome's metro has just two main lines (A and B) so it doesn't reach every corner — buses and trams fill the gaps but can be slow in traffic. Walking is often fastest in the compact historic center; ATAC tickets work across metro, bus and tram.",
+  "bestTimeToVisit": "April to June and September to October bring warm, pleasant weather and thinner crowds than the peak summer heat.",
+  "weather": "Mediterranean climate with mild, rainy winters (highs 12°C) and hot, dry summers (highs 31°C); August can be uncomfortably hot for walking tours.",
+  "visaInformation": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities should check Schengen short-stay visa requirements in advance.",
+  "currency": "EUR",
+  "languages": [
+    "Italian"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~9.9h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Rome?",
+      "answer": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities should check Schengen short-stay visa requirements in advance."
+    },
+    {
+      "question": "What is the best time to visit Rome?",
+      "answer": "April to June and September to October bring warm, pleasant weather and thinner crowds than the peak summer heat. Mediterranean climate with mild, rainy winters (highs 12°C) and hot, dry summers (highs 31°C); August can be uncomfortably hot for walking tours."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Rome safe for tourists?",
+      "answer": "Rome is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Rome?",
+      "answer": "The local currency is EUR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "History",
+    "Culture",
+    "Food",
+    "Bucket List",
+    "Romantic",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Rome",
+    "Italy",
+    "Rome, Italy",
+    "Southern Europe",
+    "Rome tour package",
+    "Rome vacation package",
+    "Rome holiday package",
+    "things to do in Rome",
+    "best time to visit Rome",
+    "Rome itinerary",
+    "3 day Rome itinerary",
+    "Rome flights and hotels",
+    "Rome all inclusive package",
+    "cheap Rome package",
+    "luxury Rome package",
+    "Rome honeymoon package",
+    "Rome family vacation",
+    "Rome solo trip",
+    "Rome group tour",
+    "Rome weekend getaway",
+    "Rome guided tour",
+    "FCO flights",
+    "Rome travel guide",
+    "book Rome trip online",
+    "Rome trip cost",
+    "Rome packages 3 days",
+    "Rome city break",
+    "Rome history",
+    "Rome culture",
+    "Rome food",
+    "Rome bucket list",
+    "Rome romantic",
+    "Colosseum",
+    "Roman Forum & Palatine Hill",
+    "Vatican Museums & Sistine Chapel",
+    "St. Peter's Basilica dome climb",
+    "Borghese Gallery",
+    "Castel Sant'Angelo",
+    "Domus Aurea",
+    "Capitoline Museums",
+    "Baths of Caracalla",
+    "Catacombs of San Callisto",
+    "Trevi Fountain",
+    "Pantheon",
+    "Piazza Navona",
+    "Spanish Steps",
+    "Trastevere neighborhood",
+    "Campo de' Fiori",
+    "Janiculum Hill viewpoint",
+    "Piazza del Popolo"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Rome, Italy — Colosseum ancient ruins",
+      "keywords": [
+        "Rome",
+        "Italy",
+        "Colosseum ancient ruins",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Rome Colosseum ancient ruins",
+      "pexelsQuery": "Rome Colosseum ancient ruins",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Rome, Italy — Colosseum ancient ruins",
+      "keywords": [
+        "Rome",
+        "Italy",
+        "Colosseum ancient ruins",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Rome Colosseum ancient ruins",
+      "pexelsQuery": "Rome Colosseum ancient ruins",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Rome, Italy — Trevi Fountain",
+      "keywords": [
+        "Rome",
+        "Italy",
+        "Trevi Fountain",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Rome Trevi Fountain",
+      "pexelsQuery": "Rome Trevi Fountain",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Rome, Italy — Vatican St Peters dome",
+      "keywords": [
+        "Rome",
+        "Italy",
+        "Vatican St Peters dome",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Rome Vatican St Peters dome",
+      "pexelsQuery": "Rome Vatican St Peters dome",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Rome, Italy — Colosseum ancient ruins",
+      "keywords": [
+        "Rome",
+        "Italy",
+        "Colosseum ancient ruins",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Rome Colosseum ancient ruins",
+      "pexelsQuery": "Rome Colosseum ancient ruins",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rome, Italy — Trevi Fountain",
+      "keywords": [
+        "Rome",
+        "Italy",
+        "Trevi Fountain",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Rome Trevi Fountain",
+      "pexelsQuery": "Rome Trevi Fountain",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rome, Italy — Vatican St Peters dome",
+      "keywords": [
+        "Rome",
+        "Italy",
+        "Vatican St Peters dome",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Rome Vatican St Peters dome",
+      "pexelsQuery": "Rome Vatican St Peters dome",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rome, Italy — Roman Forum sunset",
+      "keywords": [
+        "Rome",
+        "Italy",
+        "Roman Forum sunset",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Rome Roman Forum sunset",
+      "pexelsQuery": "Rome Roman Forum sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rome, Italy — Colosseum",
+      "keywords": [
+        "Rome",
+        "Italy",
+        "Colosseum",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Rome Colosseum",
+      "pexelsQuery": "Rome Colosseum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rome, Italy — Roman Forum & Palatine Hill",
+      "keywords": [
+        "Rome",
+        "Italy",
+        "Roman Forum & Palatine Hill",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Rome Roman Forum & Palatine Hill",
+      "pexelsQuery": "Rome Roman Forum & Palatine Hill",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rome, Italy — Vatican Museums & Sistine Chapel",
+      "keywords": [
+        "Rome",
+        "Italy",
+        "Vatican Museums & Sistine Chapel",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Rome Vatican Museums & Sistine Chapel",
+      "pexelsQuery": "Rome Vatican Museums & Sistine Chapel",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Rome, Italy — St. Peter's Basilica dome climb",
+      "keywords": [
+        "Rome",
+        "Italy",
+        "St. Peter's Basilica dome climb",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Rome St. Peter's Basilica dome climb",
+      "pexelsQuery": "Rome St. Peter's Basilica dome climb",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-rome-3-1",
+      "author": "Isabella Nguyen",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-02-11",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Catacombs of San Callisto and St. Peter's Basilica dome climb. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-rome-3-2",
+      "author": "Sofia Smith",
+      "country": "Spain",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-05",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a couple trip and it was well paced. Appian Way (Via Appia Antica) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-rome-3-3",
+      "author": "Tom Kowalski",
+      "country": "South Korea",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-01-17",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Catacombs of San Callisto and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-4",
+      "author": "Yuki Kowalski",
+      "country": "South Africa",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-07",
+      "title": "Great value for money",
+      "body": "Piazza Navona alone was worth the trip, but combined with Pantheon this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-5",
+      "author": "Wei Khan",
+      "country": "Singapore",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-13",
+      "title": "Smooth from start to finish",
+      "body": "Booked this as a solo trip and it was well paced. Capitoline Museums in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-6",
+      "author": "Daniel Rossi",
+      "country": "Spain",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-06-20",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Appian Way (Via Appia Antica) and Domus Aurea. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-rome-3-7",
+      "author": "Tom Khan",
+      "country": "South Korea",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-22",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Catacombs of San Callisto and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-8",
+      "author": "Wei Larsen",
+      "country": "Canada",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-10-05",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a group trip and it was well paced. Vatican Museums & Sistine Chapel in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-9",
+      "author": "Ethan Andersen",
+      "country": "India",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-11",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Domus Aurea and Campo de' Fiori. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-rome-3-10",
+      "author": "James Tanaka",
+      "country": "Spain",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-09",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Rome was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Appian Way (Via Appia Antica) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-11",
+      "author": "Priya van Dijk",
+      "country": "India",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-18",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a family of 4 trip and it was well paced. Domus Aurea in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-12",
+      "author": "David Smith",
+      "country": "United States",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-01-19",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Rome is stunning and this package covered the essentials well, especially Colosseum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-rome-3-13",
+      "author": "Anna Novak",
+      "country": "Italy",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-20",
+      "title": "Worth every penny",
+      "body": "Rome is stunning and this package covered the essentials well, especially Piazza del Popolo. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-14",
+      "author": "Ethan Silva",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-27",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Borghese Gallery and St. Peter's Basilica dome climb. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-15",
+      "author": "Nadia Nguyen",
+      "country": "Canada",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-25",
+      "title": "Great for families with kids",
+      "body": "Rome is stunning and this package covered the essentials well, especially Vatican Museums & Sistine Chapel. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-16",
+      "author": "Chen Garcia",
+      "country": "France",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-12",
+      "title": "Great for families with kids",
+      "body": "Booked this as a group trip and it was well paced. Borghese Gallery in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-17",
+      "author": "Hiroshi Wang",
+      "country": "South Korea",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-05",
+      "title": "Highly recommend this package",
+      "body": "Baths of Caracalla alone was worth the trip, but combined with Capitoline Museums this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-18",
+      "author": "Lucas Cohen",
+      "country": "UAE",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-03",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Capitoline Museums and Piazza Navona. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-19",
+      "author": "Anna Sharma",
+      "country": "India",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-11",
+      "title": "Beautiful destination, well organized",
+      "body": "Rome is stunning and this package covered the essentials well, especially Domus Aurea. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-rome-3-20",
+      "author": "Noah Wang",
+      "country": "India",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-30",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Rome was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Domus Aurea was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.4,
+    "hotel": 4.5,
+    "transportation": 4.4,
+    "activities": 4.4,
+    "value": 4.4,
+    "cleanliness": 4.4,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Rome Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 14,
+      "neighborhood": "Via del Corso"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Rome Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 26,
+      "neighborhood": "Via Condotti (luxury)"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Rome Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 49,
+      "neighborhood": "Campo de' Fiori market"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Rome Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 63,
+      "neighborhood": "Porta Portese flea market"
+    },
+    {
+      "tier": "Resort",
+      "name": "Rome Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 125,
+      "neighborhood": "Via Cola di Rienzo"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Rome Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 210,
+      "neighborhood": "Trastevere bar scene"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Rome Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 250,
+      "neighborhood": "Rooftop bar at Hotel Locarno"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        575,
+        913
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        588,
+        934
+      ],
+      "estimatedFlightHours": 10.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        180,
+        286
+      ],
+      "estimatedFlightHours": 2.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        156,
+        248
+      ],
+      "estimatedFlightHours": 2.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        146,
+        232
+      ],
+      "estimatedFlightHours": 2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        175,
+        278
+      ],
+      "estimatedFlightHours": 2.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        170,
+        270
+      ],
+      "estimatedFlightHours": 2.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        126,
+        200
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1255,
+        1994
+      ],
+      "estimatedFlightHours": 22.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1405,
+        2232
+      ],
+      "estimatedFlightHours": 25.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        504,
+        801
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        788,
+        1251
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        724,
+        1150
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        800,
+        1270
+      ],
+      "estimatedFlightHours": 14.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        714,
+        1134
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        778,
+        1235
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        859,
+        1364
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        827,
+        1314
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        766,
+        1216
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        388,
+        617
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        342,
+        543
+      ],
+      "estimatedFlightHours": 5.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        366,
+        582
+      ],
+      "estimatedFlightHours": 6.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        326,
+        518
+      ],
+      "estimatedFlightHours": 5.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        636,
+        1010
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        762,
+        1210
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Leonardo da Vinci–Fiumicino Airport (FCO)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        816,
+        1296
+      ],
+      "estimatedFlightHours": 14.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Colosseum",
+    "Roman Forum & Palatine Hill",
+    "Vatican Museums & Sistine Chapel",
+    "St. Peter's Basilica dome climb",
+    "Borghese Gallery",
+    "Castel Sant'Angelo",
+    "Domus Aurea",
+    "Capitoline Museums",
+    "Baths of Caracalla",
+    "Catacombs of San Callisto",
+    "Trevi Fountain",
+    "Pantheon",
+    "Piazza Navona",
+    "Spanish Steps",
+    "Trastevere neighborhood",
+    "Campo de' Fiori",
+    "Janiculum Hill viewpoint",
+    "Piazza del Popolo",
+    "Appian Way (Via Appia Antica)",
+    "Pompeii and Mount Vesuvius",
+    "Tivoli (Villa d'Este & Hadrian's Villa)",
+    "Ostia Antica ruins",
+    "Orvieto hill town",
+    "Vatican Museums",
+    "Palazzo Altemps",
+    "Villa Borghese",
+    "Villa Doria Pamphili",
+    "Giardino degli Aranci",
+    "Ostia Beach (day trip)",
+    "Trevi Fountain at dawn",
+    "Colosseum interior arches",
+    "Aventine Keyhole (Giardino degli Aranci)",
+    "Trastevere alleyways"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Colosseum",
+      "priceUSD": 18
+    },
+    {
+      "name": "Roman Forum & Palatine Hill",
+      "priceUSD": 18
+    },
+    {
+      "name": "Vatican Museums & Sistine Chapel",
+      "priceUSD": 21
+    },
+    {
+      "name": "St. Peter's Basilica dome climb",
+      "priceUSD": 10
+    },
+    {
+      "name": "Borghese Gallery",
+      "priceUSD": 15
+    },
+    {
+      "name": "Castel Sant'Angelo",
+      "priceUSD": 14
+    },
+    {
+      "name": "Domus Aurea",
+      "priceUSD": 18
+    },
+    {
+      "name": "Capitoline Museums",
+      "priceUSD": 17
+    },
+    {
+      "name": "Baths of Caracalla",
+      "priceUSD": 10
+    },
+    {
+      "name": "Catacombs of San Callisto",
+      "priceUSD": 10
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Trevi Fountain",
+    "Pantheon",
+    "Piazza Navona",
+    "Spanish Steps",
+    "Trastevere neighborhood",
+    "Campo de' Fiori",
+    "Janiculum Hill viewpoint",
+    "Piazza del Popolo",
+    "Appian Way (Via Appia Antica)"
+  ],
+  "museums": [
+    "Vatican Museums",
+    "Capitoline Museums",
+    "Borghese Gallery",
+    "Palazzo Altemps"
+  ],
+  "parks": [
+    "Villa Borghese",
+    "Villa Doria Pamphili",
+    "Giardino degli Aranci"
+  ],
+  "beaches": [
+    "Ostia Beach (day trip)"
+  ],
+  "dayTrips": [
+    "Pompeii and Mount Vesuvius",
+    "Tivoli (Villa d'Este & Hadrian's Villa)",
+    "Ostia Antica ruins",
+    "Orvieto hill town"
+  ],
+  "fromPriceUSD": 1089,
+  "seo": {
+    "title": "Rome 3-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "rome-3-day-package",
+    "keywords": [
+      "Rome",
+      "Italy",
+      "Rome, Italy",
+      "Southern Europe",
+      "Rome tour package",
+      "Rome vacation package",
+      "Rome holiday package",
+      "things to do in Rome",
+      "best time to visit Rome",
+      "Rome itinerary",
+      "3 day Rome itinerary",
+      "Rome flights and hotels",
+      "Rome all inclusive package",
+      "cheap Rome package",
+      "luxury Rome package"
+    ],
+    "canonicalUrl": "/packages/rome-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Rome Package",
+        "url": "/packages/rome-2-day-package"
+      },
+      {
+        "title": "5-Day Rome Package",
+        "url": "/packages/rome-5-day-package"
+      },
+      {
+        "title": "Florence 3-Day Cultural Tour",
+        "url": "/packages/florence-3-day-package"
+      },
+      {
+        "title": "Paris 3-Day City Break",
+        "url": "/packages/paris-3-day-package"
+      },
+      {
+        "title": "Venice 3-Day Romantic Getaway",
+        "url": "/packages/venice-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Rome — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rome"
+      },
+      {
+        "title": "Rome — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Rome"
+      }
+    ]
+  }
+}

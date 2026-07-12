@@ -1,0 +1,1570 @@
+{
+  "id": "PKG-las-vegas-2D",
+  "slug": "las-vegas-2-day-package",
+  "destinationSlug": "las-vegas",
+  "destinationName": "Las Vegas",
+  "country": "United States",
+  "region": "North America",
+  "durationDays": 2,
+  "durationNights": 1,
+  "title": "Las Vegas 2-Day Nightlife Getaway",
+  "metaTitle": "Las Vegas 2-Day Nightlife Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 2-day trip to Las Vegas, United States: round-trip flights, hotel, breakfast, transfers, and guided tours including High Roller Observation Wheel and The Sphere show. Prices from $750 per person (estimate).",
+  "highlights": [
+    "High Roller Observation Wheel",
+    "The Sphere show",
+    "Fountains of Bellagio",
+    "Red Rock Canyon rock climbing and hiking",
+    "High-roller suite at The Wynn or Bellagio",
+    "Hoover Dam"
+  ],
+  "overview": "Spend 2 days discovering Las Vegas, United States — Hot desert climate with scorching, dry summers (Jun-Sep, often above 40°C) and mild winters (Dec-Feb) with cool nights; humidity and rainfall are low year-round. March to May and September to November for warm days without the extreme summer desert heat. This itinerary blends High Roller Observation Wheel, The Sphere show, Fountains of Bellagio with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "1 night accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including High Roller Observation Wheel, The Sphere show, Fountains of Bellagio",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Las Vegas",
+      "description": "Land at Harry Reid International Airport (LAS) and take your included private transfer to your hotel. With limited time on the ground, head straight out to High Roller Observation Wheel — 550-foot Strip observation wheel. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "High Roller Observation Wheel"
+      ],
+      "overnight": "Las Vegas"
+    },
+    {
+      "day": 2,
+      "title": "Las Vegas Highlights & Departure",
+      "description": "Start early with a visit to The Sphere show — Immersive show inside the iconic Sphere venue. Grab a last taste of local life before your private transfer to LAS for your onward flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "The Sphere show",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book shows and restaurant reservations in advance, especially for headliner residencies",
+    "Budget extra for mandatory resort fees added to hotel bills",
+    "Set a gambling budget beforehand and treat any winnings as a bonus",
+    "Use the pedestrian bridges rather than crossing the Strip at street level",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Sunscreen and a hat for intense desert sun",
+    "Comfortable shoes for walking long casino resort distances",
+    "A light jacket for cool desert nights and heavily air-conditioned interiors",
+    "Smart-casual outfits for nightclub and fine-dining dress codes"
+  ],
+  "thingsToDo": [
+    "High Roller Observation Wheel",
+    "The Sphere show",
+    "Neon Museum",
+    "Mob Museum",
+    "Eiffel Tower Viewing Deck (Paris Las Vegas)",
+    "Titanic Exhibition (Luxor)",
+    "Stratosphere Tower thrill rides",
+    "Cirque du Soleil \"O\" (Bellagio)",
+    "Red Rock Canyon scenic drive entry",
+    "Hoover Dam guided tour",
+    "Fountains of Bellagio",
+    "Fremont Street Experience",
+    "The Venetian canal walk",
+    "Wynn Esplanade floral displays",
+    "Welcome to Fabulous Las Vegas sign",
+    "Bellagio Conservatory & Botanical Garden",
+    "Red Rock Canyon rock climbing and hiking",
+    "SlotZilla zip-line on Fremont Street",
+    "Grand Canyon helicopter day trip",
+    "ATV desert tours"
+  ],
+  "thingsToAvoid": [
+    "Accepting flyers or \"free\" show tickets from Strip promoters, which often lead to timeshare pitches",
+    "Underestimating resort fees and parking charges not shown in the room rate",
+    "Walking the entire Strip in flip-flops in summer heat",
+    "Drinking too much without hydrating in the dry desert air"
+  ],
+  "topRestaurants": [
+    "Joël Robuchon — French fine dining ($$$$)",
+    "Gordon Ramsay Hell's Kitchen — Modern American ($$$)",
+    "Lotus of Siam — Thai ($$)",
+    "In-N-Out Burger — American fast food ($)",
+    "Bacchanal Buffet (Caesars Palace) — International buffet ($$$)",
+    "Hash House A Go Go — American comfort food ($$)",
+    "Raku — Japanese robatayaki ($$$)",
+    "Peppermill Restaurant — American diner and lounge ($$)"
+  ],
+  "topCafes": [
+    "Grand Lux Cafe",
+    "PublicUs",
+    "Vesta Coffee Roasters",
+    "Sambalatte"
+  ],
+  "shoppingAreas": [
+    "The Forum Shops at Caesars",
+    "Fashion Show Mall",
+    "Grand Canal Shoppes",
+    "Las Vegas North Premium Outlets"
+  ],
+  "nightlife": [
+    "Omnia Nightclub (Caesars Palace)",
+    "XS Nightclub (Encore)",
+    "Fremont Street Experience bars",
+    "Chandelier Bar (Cosmopolitan)"
+  ],
+  "instagramSpots": [
+    "Bellagio Fountains at night",
+    "Welcome to Fabulous Las Vegas sign",
+    "Fremont Street Experience light canopy",
+    "The Sphere exterior",
+    "High Roller wheel at sunset"
+  ],
+  "hiddenGems": [
+    "Neon Museum \"boneyard\"",
+    "Pinball Hall of Fame",
+    "Seven Magic Mountains art installation",
+    "Springs Preserve"
+  ],
+  "familyActivities": [
+    "Shark Reef Aquarium (Mandalay Bay)",
+    "Adventuredome (Circus Circus)",
+    "Discovery Children's Museum",
+    "Hoover Dam day tour"
+  ],
+  "adventureActivities": [
+    "Red Rock Canyon rock climbing and hiking",
+    "SlotZilla zip-line on Fremont Street",
+    "Grand Canyon helicopter day trip",
+    "ATV desert tours"
+  ],
+  "luxuryExperiences": [
+    "High-roller suite at The Wynn or Bellagio",
+    "Private helicopter tour of the Strip at night",
+    "VIP table service at Omnia Nightclub",
+    "Tasting menu at Joël Robuchon"
+  ],
+  "honeymoonExperiences": [
+    "Sunset dinner at the Eiffel Tower Restaurant",
+    "Couples spa day at a Strip resort",
+    "Private Bellagio Conservatory photo session",
+    "Romantic gondola ride at The Venetian"
+  ],
+  "budgetExperiences": [
+    "Free Bellagio Fountains show",
+    "Fremont Street Experience nightly light show",
+    "Browsing casino interiors and architecture for free",
+    "Happy hour and buffet deals"
+  ],
+  "estimatedDailyBudgetUSD": [
+    85,
+    190,
+    380,
+    800
+  ],
+  "safetyRating": 4,
+  "internetRating": 5,
+  "publicTransportRating": 3,
+  "walkingScore": 55,
+  "accessibilityRating": 5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 14,
+      "crowd": "High"
+    },
+    {
+      "month": "Feb",
+      "highC": 17,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 38,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 41,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 40,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 35,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 14,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "CES (Consumer Electronics Show)",
+      "timing": "January"
+    },
+    {
+      "name": "Electric Daisy Carnival (EDC)",
+      "timing": "May"
+    },
+    {
+      "name": "National Finals Rodeo",
+      "timing": "December"
+    },
+    {
+      "name": "Las Vegas Great Italian Festival",
+      "timing": "October"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Tipping is expected everywhere — dealers, bartenders, valet, and housekeeping (15-20%).",
+    "Smoking is still permitted on many casino floors.",
+    "Dress codes apply at upscale nightclubs and restaurants.",
+    "The gambling age is strictly 21+, enforced with ID checks.",
+    "Photography is often restricted inside casinos."
+  ],
+  "localTransportGuide": "The Las Vegas Monorail connects several Strip resorts quickly, and the Strip itself is walkable via pedestrian bridges, though distances between casino entrances can be deceptively long. Uber, Lyft, and taxis are the most reliable way to reach Downtown, the airport, or day-trip departure points.",
+  "bestTimeToVisit": "March to May and September to November for warm days without the extreme summer desert heat.",
+  "weather": "Hot desert climate with scorching, dry summers (Jun-Sep, often above 40°C) and mild winters (Dec-Feb) with cool nights; humidity and rainfall are low year-round.",
+  "visaInformation": "Travelers from Visa Waiver Program countries need an approved ESTA before flying, valid for stays up to 90 days; other nationalities require a B-2 tourist visa.",
+  "currency": "USD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "PST (UTC-8)",
+  "averageFlightTime": "~15.1h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Harry Reid International Airport (LAS)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Las Vegas?",
+      "answer": "Travelers from Visa Waiver Program countries need an approved ESTA before flying, valid for stays up to 90 days; other nationalities require a B-2 tourist visa."
+    },
+    {
+      "question": "What is the best time to visit Las Vegas?",
+      "answer": "March to May and September to November for warm days without the extreme summer desert heat. Hot desert climate with scorching, dry summers (Jun-Sep, often above 40°C) and mild winters (Dec-Feb) with cool nights; humidity and rainfall are low year-round."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Las Vegas safe for tourists?",
+      "answer": "Las Vegas is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Las Vegas?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Nightlife",
+    "City Break",
+    "Luxury",
+    "Adventure",
+    "Bucket List",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Las Vegas",
+    "United States",
+    "Las Vegas, United States",
+    "North America",
+    "Las Vegas tour package",
+    "Las Vegas vacation package",
+    "Las Vegas holiday package",
+    "things to do in Las Vegas",
+    "best time to visit Las Vegas",
+    "Las Vegas itinerary",
+    "2 day Las Vegas itinerary",
+    "Las Vegas flights and hotels",
+    "Las Vegas all inclusive package",
+    "cheap Las Vegas package",
+    "luxury Las Vegas package",
+    "Las Vegas honeymoon package",
+    "Las Vegas family vacation",
+    "Las Vegas solo trip",
+    "Las Vegas group tour",
+    "Las Vegas weekend getaway",
+    "Las Vegas guided tour",
+    "LAS flights",
+    "Las Vegas travel guide",
+    "book Las Vegas trip online",
+    "Las Vegas trip cost",
+    "Las Vegas packages 2 days",
+    "Las Vegas nightlife",
+    "Las Vegas city break",
+    "Las Vegas luxury",
+    "Las Vegas adventure",
+    "Las Vegas bucket list",
+    "High Roller Observation Wheel",
+    "The Sphere show",
+    "Neon Museum",
+    "Mob Museum",
+    "Eiffel Tower Viewing Deck (Paris Las Vegas)",
+    "Titanic Exhibition (Luxor)",
+    "Stratosphere Tower thrill rides",
+    "Cirque du Soleil \"O\" (Bellagio)",
+    "Red Rock Canyon scenic drive entry",
+    "Hoover Dam guided tour",
+    "Fountains of Bellagio",
+    "Fremont Street Experience",
+    "The Venetian canal walk",
+    "Wynn Esplanade floral displays",
+    "Welcome to Fabulous Las Vegas sign",
+    "Bellagio Conservatory & Botanical Garden",
+    "Joël Robuchon",
+    "Gordon Ramsay Hell's Kitchen",
+    "Lotus of Siam"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Las Vegas, United States — Las Vegas Strip neon night",
+      "keywords": [
+        "Las Vegas",
+        "United States",
+        "Las Vegas Strip neon night",
+        "Nightlife",
+        "City Break"
+      ],
+      "unsplashQuery": "Las Vegas Las Vegas Strip neon night",
+      "pexelsQuery": "Las Vegas Las Vegas Strip neon night",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Las Vegas, United States — Las Vegas Strip neon night",
+      "keywords": [
+        "Las Vegas",
+        "United States",
+        "Las Vegas Strip neon night",
+        "Nightlife",
+        "City Break"
+      ],
+      "unsplashQuery": "Las Vegas Las Vegas Strip neon night",
+      "pexelsQuery": "Las Vegas Las Vegas Strip neon night",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Las Vegas, United States — Bellagio Fountains show",
+      "keywords": [
+        "Las Vegas",
+        "United States",
+        "Bellagio Fountains show",
+        "Nightlife",
+        "City Break"
+      ],
+      "unsplashQuery": "Las Vegas Bellagio Fountains show",
+      "pexelsQuery": "Las Vegas Bellagio Fountains show",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Las Vegas, United States — Welcome to Fabulous Las Vegas sign",
+      "keywords": [
+        "Las Vegas",
+        "United States",
+        "Welcome to Fabulous Las Vegas sign",
+        "Nightlife",
+        "City Break"
+      ],
+      "unsplashQuery": "Las Vegas Welcome to Fabulous Las Vegas sign",
+      "pexelsQuery": "Las Vegas Welcome to Fabulous Las Vegas sign",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Las Vegas, United States — Las Vegas Strip neon night",
+      "keywords": [
+        "Las Vegas",
+        "United States",
+        "Las Vegas Strip neon night",
+        "Nightlife",
+        "City Break"
+      ],
+      "unsplashQuery": "Las Vegas Las Vegas Strip neon night",
+      "pexelsQuery": "Las Vegas Las Vegas Strip neon night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Las Vegas, United States — Bellagio Fountains show",
+      "keywords": [
+        "Las Vegas",
+        "United States",
+        "Bellagio Fountains show",
+        "Nightlife",
+        "City Break"
+      ],
+      "unsplashQuery": "Las Vegas Bellagio Fountains show",
+      "pexelsQuery": "Las Vegas Bellagio Fountains show",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Las Vegas, United States — Welcome to Fabulous Las Vegas sign",
+      "keywords": [
+        "Las Vegas",
+        "United States",
+        "Welcome to Fabulous Las Vegas sign",
+        "Nightlife",
+        "City Break"
+      ],
+      "unsplashQuery": "Las Vegas Welcome to Fabulous Las Vegas sign",
+      "pexelsQuery": "Las Vegas Welcome to Fabulous Las Vegas sign",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Las Vegas, United States — Red Rock Canyon desert",
+      "keywords": [
+        "Las Vegas",
+        "United States",
+        "Red Rock Canyon desert",
+        "Nightlife",
+        "City Break"
+      ],
+      "unsplashQuery": "Las Vegas Red Rock Canyon desert",
+      "pexelsQuery": "Las Vegas Red Rock Canyon desert",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Las Vegas, United States — High Roller Observation Wheel",
+      "keywords": [
+        "Las Vegas",
+        "United States",
+        "High Roller Observation Wheel",
+        "Nightlife",
+        "City Break"
+      ],
+      "unsplashQuery": "Las Vegas High Roller Observation Wheel",
+      "pexelsQuery": "Las Vegas High Roller Observation Wheel",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Las Vegas, United States — The Sphere show",
+      "keywords": [
+        "Las Vegas",
+        "United States",
+        "The Sphere show",
+        "Nightlife",
+        "City Break"
+      ],
+      "unsplashQuery": "Las Vegas The Sphere show",
+      "pexelsQuery": "Las Vegas The Sphere show",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Las Vegas, United States — Neon Museum",
+      "keywords": [
+        "Las Vegas",
+        "United States",
+        "Neon Museum",
+        "Nightlife",
+        "City Break"
+      ],
+      "unsplashQuery": "Las Vegas Neon Museum",
+      "pexelsQuery": "Las Vegas Neon Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Las Vegas, United States — Mob Museum",
+      "keywords": [
+        "Las Vegas",
+        "United States",
+        "Mob Museum",
+        "Nightlife",
+        "City Break"
+      ],
+      "unsplashQuery": "Las Vegas Mob Museum",
+      "pexelsQuery": "Las Vegas Mob Museum",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-las-vegas-2-1",
+      "author": "Sarah Costa",
+      "country": "Italy",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-04-27",
+      "title": "Perfect for our honeymoon",
+      "body": "Las Vegas is stunning and this package covered the essentials well, especially Welcome to Fabulous Las Vegas sign. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-2",
+      "author": "Mohammed Larsen",
+      "country": "UAE",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-04-18",
+      "title": "Great value for money",
+      "body": "Titanic Exhibition (Luxor) alone was worth the trip, but combined with Neon Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-3",
+      "author": "Priya Kowalski",
+      "country": "Germany",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-03",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a family of 4 trip and it was well paced. Mob Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-las-vegas-2-4",
+      "author": "Daniel Costa",
+      "country": "Germany",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-05-03",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Mob Museum and Neon Museum. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-5",
+      "author": "Mohammed Ibrahim",
+      "country": "Spain",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-07",
+      "title": "Beautiful destination, well organized",
+      "body": "Bellagio Conservatory & Botanical Garden alone was worth the trip, but combined with Titanic Exhibition (Luxor) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-6",
+      "author": "Elena Kim",
+      "country": "Germany",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-17",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Mob Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-las-vegas-2-7",
+      "author": "David Williams",
+      "country": "South Africa",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-18",
+      "title": "Five stars, will return",
+      "body": "Las Vegas is stunning and this package covered the essentials well, especially Hoover Dam guided tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-8",
+      "author": "Anna Dubois",
+      "country": "United States",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-06-10",
+      "title": "So many hidden gems included",
+      "body": "Las Vegas is stunning and this package covered the essentials well, especially High Roller Observation Wheel. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-las-vegas-2-9",
+      "author": "Omar Wang",
+      "country": "Saudi Arabia",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-08-09",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond The Venetian canal walk and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-10",
+      "author": "Chen van Dijk",
+      "country": "Switzerland",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-23",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a couple trip and it was well paced. The Venetian canal walk in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-11",
+      "author": "Anna Silva",
+      "country": "Italy",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-21",
+      "title": "Great value for money",
+      "body": "Las Vegas is stunning and this package covered the essentials well, especially Welcome to Fabulous Las Vegas sign. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-las-vegas-2-12",
+      "author": "Sarah Wang",
+      "country": "Germany",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-01-16",
+      "title": "Luxury without the hassle",
+      "body": "Las Vegas is stunning and this package covered the essentials well, especially Mob Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-las-vegas-2-13",
+      "author": "Lukas Dubois",
+      "country": "UAE",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-01-17",
+      "title": "Great value for money",
+      "body": "Las Vegas is stunning and this package covered the essentials well, especially Titanic Exhibition (Luxor). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-14",
+      "author": "Olivia Rossi",
+      "country": "New Zealand",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-19",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Las Vegas was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Fountains of Bellagio was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-15",
+      "author": "Elena Cohen",
+      "country": "Canada",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-03-07",
+      "title": "Consultant made it effortless",
+      "body": "We added a couple of optional activities beyond Neon Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-16",
+      "author": "Omar Larsen",
+      "country": "Mexico",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-12-15",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Wynn Esplanade floral displays and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-17",
+      "author": "Anna Kim",
+      "country": "New Zealand",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-02",
+      "title": "Consultant made it effortless",
+      "body": "Las Vegas is stunning and this package covered the essentials well, especially Fountains of Bellagio. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-18",
+      "author": "Wei Silva",
+      "country": "Mexico",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-05-12",
+      "title": "Worth every penny",
+      "body": "Booked this as a couple trip and it was well paced. Welcome to Fabulous Las Vegas sign in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-19",
+      "author": "Sarah Brown",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-01-13",
+      "title": "Best vacation we've had",
+      "body": "Las Vegas is stunning and this package covered the essentials well, especially Fremont Street Experience. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-las-vegas-2-20",
+      "author": "Yuki Larsen",
+      "country": "Japan",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-16",
+      "title": "A little rushed but still wonderful",
+      "body": "Red Rock Canyon scenic drive entry alone was worth the trip, but combined with Mob Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.4,
+    "hotel": 4.4,
+    "transportation": 4.3,
+    "activities": 4.4,
+    "value": 4.4,
+    "cleanliness": 4.5,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Las Vegas Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 19,
+      "neighborhood": "The Forum Shops at Caesars"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Las Vegas Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 34,
+      "neighborhood": "Fashion Show Mall"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Las Vegas Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 67,
+      "neighborhood": "Grand Canal Shoppes"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Las Vegas Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 86,
+      "neighborhood": "Las Vegas North Premium Outlets"
+    },
+    {
+      "tier": "Resort",
+      "name": "Las Vegas Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 190,
+      "neighborhood": "Omnia Nightclub (Caesars Palace)"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Las Vegas Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 336,
+      "neighborhood": "XS Nightclub (Encore)"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Las Vegas Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 400,
+      "neighborhood": "Fremont Street Experience bars"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        336,
+        533
+      ],
+      "estimatedFlightHours": 5.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        303,
+        481
+      ],
+      "estimatedFlightHours": 5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        683,
+        1085
+      ],
+      "estimatedFlightHours": 12.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        707,
+        1123
+      ],
+      "estimatedFlightHours": 12.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        723,
+        1149
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        787,
+        1250
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        727,
+        1154
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        697,
+        1107
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        739,
+        1173
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        975,
+        1548
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        861,
+        1368
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        994,
+        1578
+      ],
+      "estimatedFlightHours": 17.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        720,
+        1143
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        772,
+        1226
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1103,
+        1752
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1039,
+        1650
+      ],
+      "estimatedFlightHours": 18.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1103,
+        1752
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1131,
+        1797
+      ],
+      "estimatedFlightHours": 20.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        933,
+        1482
+      ],
+      "estimatedFlightHours": 16.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1030,
+        1636
+      ],
+      "estimatedFlightHours": 18.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1024,
+        1627
+      ],
+      "estimatedFlightHours": 18.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1014,
+        1611
+      ],
+      "estimatedFlightHours": 18.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1018,
+        1617
+      ],
+      "estimatedFlightHours": 18.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        981,
+        1558
+      ],
+      "estimatedFlightHours": 17.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1259,
+        1999
+      ],
+      "estimatedFlightHours": 22.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        783,
+        1243
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Harry Reid International Airport (LAS)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        252,
+        401
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "High Roller Observation Wheel",
+    "The Sphere show",
+    "Neon Museum",
+    "Mob Museum",
+    "Eiffel Tower Viewing Deck (Paris Las Vegas)",
+    "Titanic Exhibition (Luxor)",
+    "Stratosphere Tower thrill rides",
+    "Cirque du Soleil \"O\" (Bellagio)",
+    "Red Rock Canyon scenic drive entry",
+    "Hoover Dam guided tour",
+    "Fountains of Bellagio",
+    "Fremont Street Experience",
+    "The Venetian canal walk",
+    "Wynn Esplanade floral displays",
+    "Welcome to Fabulous Las Vegas sign",
+    "Bellagio Conservatory & Botanical Garden",
+    "Hoover Dam",
+    "Grand Canyon (West or South Rim)",
+    "Red Rock Canyon",
+    "Valley of Fire State Park",
+    "National Atomic Testing Museum",
+    "Red Rock Canyon National Conservation Area",
+    "Springs Preserve",
+    "Sunset Park",
+    "Bellagio Fountains at night",
+    "Fremont Street Experience light canopy",
+    "The Sphere exterior",
+    "High Roller wheel at sunset"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "High Roller Observation Wheel",
+      "priceUSD": 30
+    },
+    {
+      "name": "The Sphere show",
+      "priceUSD": 150
+    },
+    {
+      "name": "Neon Museum",
+      "priceUSD": 20
+    },
+    {
+      "name": "Mob Museum",
+      "priceUSD": 30
+    },
+    {
+      "name": "Eiffel Tower Viewing Deck (Paris Las Vegas)",
+      "priceUSD": 25
+    },
+    {
+      "name": "Titanic Exhibition (Luxor)",
+      "priceUSD": 32
+    },
+    {
+      "name": "Stratosphere Tower thrill rides",
+      "priceUSD": 20
+    },
+    {
+      "name": "Cirque du Soleil \"O\" (Bellagio)",
+      "priceUSD": 150
+    },
+    {
+      "name": "Red Rock Canyon scenic drive entry",
+      "priceUSD": 20
+    },
+    {
+      "name": "Hoover Dam guided tour",
+      "priceUSD": 30
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Fountains of Bellagio",
+    "Fremont Street Experience",
+    "The Venetian canal walk",
+    "Wynn Esplanade floral displays",
+    "Welcome to Fabulous Las Vegas sign",
+    "Bellagio Conservatory & Botanical Garden"
+  ],
+  "museums": [
+    "Neon Museum",
+    "Mob Museum",
+    "National Atomic Testing Museum"
+  ],
+  "parks": [
+    "Red Rock Canyon National Conservation Area",
+    "Springs Preserve",
+    "Sunset Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Hoover Dam",
+    "Grand Canyon (West or South Rim)",
+    "Red Rock Canyon",
+    "Valley of Fire State Park"
+  ],
+  "fromPriceUSD": 750,
+  "seo": {
+    "title": "Las Vegas 2-Day Nightlife Getaway | Flights, Hotels & Tours Included",
+    "slug": "las-vegas-2-day-package",
+    "keywords": [
+      "Las Vegas",
+      "United States",
+      "Las Vegas, United States",
+      "North America",
+      "Las Vegas tour package",
+      "Las Vegas vacation package",
+      "Las Vegas holiday package",
+      "things to do in Las Vegas",
+      "best time to visit Las Vegas",
+      "Las Vegas itinerary",
+      "2 day Las Vegas itinerary",
+      "Las Vegas flights and hotels",
+      "Las Vegas all inclusive package",
+      "cheap Las Vegas package",
+      "luxury Las Vegas package"
+    ],
+    "canonicalUrl": "/packages/las-vegas-2-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Las Vegas Package",
+        "url": "/packages/las-vegas-3-day-package"
+      },
+      {
+        "title": "5-Day Las Vegas Package",
+        "url": "/packages/las-vegas-5-day-package"
+      },
+      {
+        "title": "Dubai 2-Day Luxury Escape",
+        "url": "/packages/dubai-2-day-package"
+      },
+      {
+        "title": "Rio de Janeiro 2-Day Beach Getaway",
+        "url": "/packages/rio-de-janeiro-2-day-package"
+      },
+      {
+        "title": "Swiss Alps 2-Day Adventure Tour",
+        "url": "/packages/swiss-alps-2-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Las Vegas — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Las_Vegas"
+      },
+      {
+        "title": "Las Vegas — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Las_Vegas"
+      }
+    ]
+  }
+}

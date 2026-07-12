@@ -1,0 +1,1735 @@
+{
+  "id": "PKG-cancun-14D",
+  "slug": "cancun-14-day-package",
+  "destinationSlug": "cancun",
+  "destinationName": "Cancun",
+  "country": "Mexico",
+  "region": "Yucatán Peninsula",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Cancun 14-Day Beach Getaway",
+  "metaTitle": "Cancun 14-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Cancun, Mexico: round-trip flights, hotel, breakfast, transfers, and guided tours including Chichen Itza day trip and Xcaret eco-archaeological park. Prices from $1762 per person (estimate).",
+  "highlights": [
+    "Chichen Itza day trip",
+    "Xcaret eco-archaeological park",
+    "Playa Delfines",
+    "Snorkeling the Underwater Museum (MUSA)",
+    "Private beach dinner at sunset",
+    "Chichen Itza"
+  ],
+  "overview": "Spend 14 days discovering Cancun, Mexico — Tropical climate with a hot, humid wet season carrying hurricane risk (Jun-Nov) and a warm, drier season (Dec-Apr). December to April for dry, sunny weather with lower humidity and reduced hurricane risk. This itinerary blends Chichen Itza day trip, Xcaret eco-archaeological park, Playa Delfines with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Chichen Itza day trip, Xcaret eco-archaeological park, Playa Delfines",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Cancun",
+      "description": "Land at Cancún International Airport (CUN) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Chichen Itza day trip — UNESCO Maya pyramid complex, guided tour. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Chichen Itza day trip"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 2,
+      "title": "Cancun: Xcaret eco-archaeological park & Xel-Há all-inclusive water park",
+      "description": "Morning visit to Xcaret eco-archaeological park — Cultural and nature park with underground rivers. In the afternoon, continue to Xel-Há all-inclusive water park — Natural lagoon snorkeling and water activities. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Xcaret eco-archaeological park",
+        "Xel-Há all-inclusive water park"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 3,
+      "title": "Cancun: Isla Mujeres ferry & snorkel tour & Underwater Museum of Art (MUSA) tour",
+      "description": "Morning visit to Isla Mujeres ferry & snorkel tour — Day trip to the nearby island. In the afternoon, continue to Underwater Museum of Art (MUSA) tour — Snorkel or dive among submerged sculptures. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Isla Mujeres ferry & snorkel tour",
+        "Underwater Museum of Art (MUSA) tour"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Chichen Itza",
+      "description": "Full-day excursion to Chichen Itza, a popular side trip from Cancun. Return to Cancun in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Chichen Itza",
+        "Free evening"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Cenote Azul — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Cenote Azul"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 6,
+      "title": "Cancun: Tulum ruins day trip & Coco Bongo show",
+      "description": "Morning visit to Tulum ruins day trip — Clifftop Maya ruins overlooking the Caribbean. In the afternoon, continue to Coco Bongo show — High-energy acrobatic dinner show and club. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Tulum ruins day trip",
+        "Coco Bongo show"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Tulum ruins",
+      "description": "Full-day excursion to Tulum ruins, a popular side trip from Cancun. Return to Cancun in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Tulum ruins",
+        "Free evening"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 8,
+      "title": "Cancun: Xplor adventure park & Rio Secreto underground river tour",
+      "description": "Morning visit to Xplor adventure park — Zip-lines, rafts, and underground rivers. In the afternoon, continue to Rio Secreto underground river tour — Guided swim through a hidden cave river system. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Xplor adventure park",
+        "Rio Secreto underground river tour"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Punta Sur cliffside park (Isla Mujeres) — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Punta Sur cliffside park (Isla Mujeres)"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Isla Mujeres",
+      "description": "Full-day excursion to Isla Mujeres, a popular side trip from Cancun. Return to Cancun in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Isla Mujeres",
+        "Free evening"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 11,
+      "title": "Cancun: El Rey Maya ruins & Playa Delfines",
+      "description": "Morning visit to El Rey Maya ruins — Small ruin site within the Hotel Zone. In the afternoon, continue to Playa Delfines — Iconic public beach with the \"Cancun\" sign. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "El Rey Maya ruins",
+        "Playa Delfines"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 12,
+      "title": "Cancun: Mercado 28 & Malecón Tajamar boardwalk",
+      "description": "Morning visit to Mercado 28 — Local market for crafts and souvenirs. In the afternoon, continue to Malecón Tajamar boardwalk — Lagoon-side walking path. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Mercado 28",
+        "Malecón Tajamar boardwalk"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include El Rey ruins within the Hotel Zone — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "El Rey ruins within the Hotel Zone"
+      ],
+      "overnight": "Cancun"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Playa Las Perlas or some souvenir shopping — before your private transfer to CUN for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Agree on taxi fares before getting in, as they don't use meters",
+    "Book Chichen Itza tours early morning to beat both heat and tour-bus crowds",
+    "Only use reef-safe (mineral, oxybenzone-free) sunscreen at cenotes and eco-parks, as it's often required",
+    "Stick to bottled water outside all-inclusive resorts",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Reef-safe sunscreen, mandatory at many eco-parks and cenotes",
+    "Lightweight breathable clothing",
+    "Swimwear and water shoes for cenotes and reefs",
+    "Insect repellent for jungle day trips"
+  ],
+  "thingsToDo": [
+    "Chichen Itza day trip",
+    "Xcaret eco-archaeological park",
+    "Xel-Há all-inclusive water park",
+    "Isla Mujeres ferry & snorkel tour",
+    "Underwater Museum of Art (MUSA) tour",
+    "Tulum ruins day trip",
+    "Coco Bongo show",
+    "Xplor adventure park",
+    "Rio Secreto underground river tour",
+    "El Rey Maya ruins",
+    "Playa Delfines",
+    "Mercado 28",
+    "Malecón Tajamar boardwalk",
+    "Playa Las Perlas",
+    "Isla Mujeres downtown streets",
+    "Punta Cancún viewpoint",
+    "Snorkeling the Underwater Museum (MUSA)",
+    "Cenote diving",
+    "Xplor zipline and underground rivers",
+    "Kiteboarding in the lagoon"
+  ],
+  "thingsToAvoid": [
+    "Swimming during red or black flag warnings due to strong currents and occasional sargassum seaweed",
+    "Timeshare pitch invitations disguised as \"free tours\" or discounted excursions",
+    "Overpaying unmetered taxis without agreeing a fare first",
+    "Traveling during peak hurricane season (Aug-Oct) without flexible plans"
+  ],
+  "topRestaurants": [
+    "La Habichuela — Yucatecan and Mexican ($$$)",
+    "Puerto Madero — Argentine steak and seafood ($$$$)",
+    "Cocina 89 — Modern Mexican ($$)",
+    "Los de Pescado — Fish tacos ($)",
+    "El Fish Fritanga — Seafood ($)",
+    "Casa Rolandi — Italian-Swiss ($$$)",
+    "La Parrilla — Mexican grill ($$)",
+    "Marisco's Chuy — Seafood ($)"
+  ],
+  "topCafes": [
+    "Ah Cacao Chocolate Cafe",
+    "Cafe de Talleres",
+    "La Casa del Café",
+    "Cielito Querido Café"
+  ],
+  "shoppingAreas": [
+    "La Isla Shopping Village",
+    "Mercado 28",
+    "Kukulcan Plaza",
+    "Coco Bongo shopping strip Hotel Zone"
+  ],
+  "nightlife": [
+    "Coco Bongo",
+    "The City Nightclub",
+    "Mandala Beach Club",
+    "Party Center Hotel Zone"
+  ],
+  "instagramSpots": [
+    "Playa Delfines viewpoint",
+    "MUSA underwater sculptures",
+    "Chichen Itza El Castillo pyramid",
+    "Isla Mujeres turquoise water",
+    "Tulum cliffside ruins"
+  ],
+  "hiddenGems": [
+    "Cenote Azul",
+    "Punta Sur cliffside park (Isla Mujeres)",
+    "El Rey ruins within the Hotel Zone",
+    "Laguna Nichupté kayaking"
+  ],
+  "familyActivities": [
+    "Xcaret eco-park",
+    "Xel-Há water park",
+    "Isla Mujeres ferry day trip",
+    "Interactive Aquarium Cancun"
+  ],
+  "adventureActivities": [
+    "Snorkeling the Underwater Museum (MUSA)",
+    "Cenote diving",
+    "Xplor zipline and underground rivers",
+    "Kiteboarding in the lagoon"
+  ],
+  "luxuryExperiences": [
+    "All-inclusive suite at a five-star Hotel Zone resort",
+    "Private yacht charter to Isla Mujeres",
+    "Private guided Chichen Itza tour with a gourmet lunch",
+    "Couples spa with cenote-inspired treatments"
+  ],
+  "honeymoonExperiences": [
+    "Private beach dinner at sunset",
+    "Catamaran sailing to Isla Mujeres",
+    "Couples cenote swim",
+    "Swim-up suite stay at a luxury resort"
+  ],
+  "budgetExperiences": [
+    "Free public beach at Playa Delfines",
+    "Mercado 28 for local food and crafts",
+    "Self-guided visit to the El Rey ruins",
+    "ADO bus day trip to Playa del Carmen"
+  ],
+  "estimatedDailyBudgetUSD": [
+    65,
+    150,
+    300,
+    650
+  ],
+  "safetyRating": 3,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 40,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 28,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 30,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Apr",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 33,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 33,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 30,
+      "crowd": "Low"
+    },
+    {
+      "month": "Nov",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 28,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Cancun Carnival",
+      "timing": "February or March"
+    },
+    {
+      "name": "Cancun Jazz Festival",
+      "timing": "May"
+    },
+    {
+      "name": "Day of the Dead",
+      "timing": "November 1-2"
+    },
+    {
+      "name": "Riviera Maya Wine & Food Festival",
+      "timing": "November"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Tipping 10-15% is expected at restaurants and for hotel staff.",
+    "Greet with a handshake; a warm, personable tone is valued.",
+    "Dress modestly when leaving the resort zone into local towns.",
+    "Haggling is common at markets but not appropriate in fixed-price stores.",
+    "Expect a slower pace outside the tourist zones — plan accordingly."
+  ],
+  "localTransportGuide": "The R-1/R-2 public buses run cheaply and frequently along the Hotel Zone strip to downtown Cancun; taxis should be agreed on a fare before departure since they're unmetered. ADO long-distance buses are a comfortable, affordable way to reach Tulum, Playa del Carmen, or Chichen Itza.",
+  "bestTimeToVisit": "December to April for dry, sunny weather with lower humidity and reduced hurricane risk.",
+  "weather": "Tropical climate with a hot, humid wet season carrying hurricane risk (Jun-Nov) and a warm, drier season (Dec-Apr).",
+  "visaInformation": "Mexico allows visa-free tourist entry for many nationalities (US, UK, EU, Canada, Australia) for stays up to 180 days; a tourist card (FMM) is issued on arrival or included with the airfare for most visitors flying in.",
+  "currency": "MXN",
+  "languages": [
+    "Spanish"
+  ],
+  "timeZone": "EST (UTC-5)",
+  "averageFlightTime": "~15.9h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Cancún International Airport (CUN)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Cancun?",
+      "answer": "Mexico allows visa-free tourist entry for many nationalities (US, UK, EU, Canada, Australia) for stays up to 180 days; a tourist card (FMM) is issued on arrival or included with the airfare for most visitors flying in."
+    },
+    {
+      "question": "What is the best time to visit Cancun?",
+      "answer": "December to April for dry, sunny weather with lower humidity and reduced hurricane risk. Tropical climate with a hot, humid wet season carrying hurricane risk (Jun-Nov) and a warm, drier season (Dec-Apr)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Cancun safe for tourists?",
+      "answer": "Cancun is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Cancun?",
+      "answer": "The local currency is MXN. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Cancun is one of our most-booked honeymoon destinations, especially the Private beach dinner at sunset experience. It also works well for families — highlights include Xcaret eco-park."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Honeymoon",
+    "Family",
+    "Nightlife",
+    "Adventure",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Cancun",
+    "Mexico",
+    "Cancun, Mexico",
+    "Yucatán Peninsula",
+    "Cancun tour package",
+    "Cancun vacation package",
+    "Cancun holiday package",
+    "things to do in Cancun",
+    "best time to visit Cancun",
+    "Cancun itinerary",
+    "14 day Cancun itinerary",
+    "Cancun flights and hotels",
+    "Cancun all inclusive package",
+    "cheap Cancun package",
+    "luxury Cancun package",
+    "Cancun honeymoon package",
+    "Cancun family vacation",
+    "Cancun solo trip",
+    "Cancun group tour",
+    "Cancun weekend getaway",
+    "Cancun guided tour",
+    "CUN flights",
+    "Cancun travel guide",
+    "book Cancun trip online",
+    "Cancun trip cost",
+    "Cancun packages 14 days",
+    "Cancun beach",
+    "Cancun honeymoon",
+    "Cancun family",
+    "Cancun nightlife",
+    "Cancun adventure",
+    "Cancun bucket list",
+    "Chichen Itza day trip",
+    "Xcaret eco-archaeological park",
+    "Xel-Há all-inclusive water park",
+    "Isla Mujeres ferry & snorkel tour",
+    "Underwater Museum of Art (MUSA) tour",
+    "Tulum ruins day trip",
+    "Coco Bongo show",
+    "Xplor adventure park",
+    "Rio Secreto underground river tour",
+    "El Rey Maya ruins",
+    "Playa Delfines",
+    "Mercado 28",
+    "Malecón Tajamar boardwalk",
+    "Playa Las Perlas",
+    "Isla Mujeres downtown streets",
+    "Punta Cancún viewpoint",
+    "La Habichuela",
+    "Puerto Madero"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Cancun, Mexico — Cancun turquoise beach aerial",
+      "keywords": [
+        "Cancun",
+        "Mexico",
+        "Cancun turquoise beach aerial",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Cancun Cancun turquoise beach aerial",
+      "pexelsQuery": "Cancun Cancun turquoise beach aerial",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Cancun, Mexico — Cancun turquoise beach aerial",
+      "keywords": [
+        "Cancun",
+        "Mexico",
+        "Cancun turquoise beach aerial",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Cancun Cancun turquoise beach aerial",
+      "pexelsQuery": "Cancun Cancun turquoise beach aerial",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Cancun, Mexico — Chichen Itza pyramid",
+      "keywords": [
+        "Cancun",
+        "Mexico",
+        "Chichen Itza pyramid",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Cancun Chichen Itza pyramid",
+      "pexelsQuery": "Cancun Chichen Itza pyramid",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Cancun, Mexico — Isla Mujeres catamaran",
+      "keywords": [
+        "Cancun",
+        "Mexico",
+        "Isla Mujeres catamaran",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Cancun Isla Mujeres catamaran",
+      "pexelsQuery": "Cancun Isla Mujeres catamaran",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Cancun, Mexico — Cancun turquoise beach aerial",
+      "keywords": [
+        "Cancun",
+        "Mexico",
+        "Cancun turquoise beach aerial",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Cancun Cancun turquoise beach aerial",
+      "pexelsQuery": "Cancun Cancun turquoise beach aerial",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cancun, Mexico — Chichen Itza pyramid",
+      "keywords": [
+        "Cancun",
+        "Mexico",
+        "Chichen Itza pyramid",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Cancun Chichen Itza pyramid",
+      "pexelsQuery": "Cancun Chichen Itza pyramid",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cancun, Mexico — Isla Mujeres catamaran",
+      "keywords": [
+        "Cancun",
+        "Mexico",
+        "Isla Mujeres catamaran",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Cancun Isla Mujeres catamaran",
+      "pexelsQuery": "Cancun Isla Mujeres catamaran",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cancun, Mexico — cenote diving Riviera Maya",
+      "keywords": [
+        "Cancun",
+        "Mexico",
+        "cenote diving Riviera Maya",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Cancun cenote diving Riviera Maya",
+      "pexelsQuery": "Cancun cenote diving Riviera Maya",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cancun, Mexico — Chichen Itza day trip",
+      "keywords": [
+        "Cancun",
+        "Mexico",
+        "Chichen Itza day trip",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Cancun Chichen Itza day trip",
+      "pexelsQuery": "Cancun Chichen Itza day trip",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cancun, Mexico — Xcaret eco-archaeological park",
+      "keywords": [
+        "Cancun",
+        "Mexico",
+        "Xcaret eco-archaeological park",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Cancun Xcaret eco-archaeological park",
+      "pexelsQuery": "Cancun Xcaret eco-archaeological park",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cancun, Mexico — Xel-Há all-inclusive water park",
+      "keywords": [
+        "Cancun",
+        "Mexico",
+        "Xel-Há all-inclusive water park",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Cancun Xel-Há all-inclusive water park",
+      "pexelsQuery": "Cancun Xel-Há all-inclusive water park",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cancun, Mexico — Isla Mujeres ferry & snorkel tour",
+      "keywords": [
+        "Cancun",
+        "Mexico",
+        "Isla Mujeres ferry & snorkel tour",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Cancun Isla Mujeres ferry & snorkel tour",
+      "pexelsQuery": "Cancun Isla Mujeres ferry & snorkel tour",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-cancun-14-1",
+      "author": "Daniel Santos",
+      "country": "Brazil",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-24",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Rio Secreto underground river tour and Malecón Tajamar boardwalk. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-cancun-14-2",
+      "author": "Hiroshi Novak",
+      "country": "United Kingdom",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-23",
+      "title": "Smooth from start to finish",
+      "body": "Xcaret eco-archaeological park alone was worth the trip, but combined with Tulum ruins day trip this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-3",
+      "author": "Anna Ivanov",
+      "country": "Germany",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-09-21",
+      "title": "Five stars, will return",
+      "body": "Cancun is stunning and this package covered the essentials well, especially Isla Mujeres ferry & snorkel tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-4",
+      "author": "Liam Nguyen",
+      "country": "Switzerland",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-12-19",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Cancun was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Malecón Tajamar boardwalk was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-5",
+      "author": "Fatima van Dijk",
+      "country": "Netherlands",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-01-21",
+      "title": "Exceeded our expectations",
+      "body": "Mercado 28 alone was worth the trip, but combined with Isla Mujeres ferry & snorkel tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-6",
+      "author": "Emma Silva",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-05-30",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Cancun was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Rio Secreto underground river tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-7",
+      "author": "Lukas Sharma",
+      "country": "South Korea",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-04-16",
+      "title": "Exceeded our expectations",
+      "body": "Cancun is stunning and this package covered the essentials well, especially Xplor adventure park. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-cancun-14-8",
+      "author": "Olivia Williams",
+      "country": "France",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-16",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Cancun was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Underwater Museum of Art (MUSA) tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-9",
+      "author": "Emma Sharma",
+      "country": "South Africa",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-02-26",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Cancun was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Playa Delfines was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-10",
+      "author": "Liam Tanaka",
+      "country": "Singapore",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-02-24",
+      "title": "Exceeded our expectations",
+      "body": "Our trip to Cancun was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Coco Bongo show was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-cancun-14-11",
+      "author": "Wei Tanaka",
+      "country": "Saudi Arabia",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 3.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-07",
+      "title": "Loved every moment",
+      "body": "Booked this as a family of 4 trip and it was well paced. Playa Las Perlas in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-12",
+      "author": "Mohammed Cohen",
+      "country": "Spain",
+      "rating": 3.9,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-06",
+      "title": "Unforgettable trip!",
+      "body": "Punta Cancún viewpoint alone was worth the trip, but combined with Malecón Tajamar boardwalk this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-cancun-14-13",
+      "author": "Priya Dubois",
+      "country": "Brazil",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-03",
+      "title": "Worth every penny",
+      "body": "Booked this as a solo trip and it was well paced. El Rey Maya ruins in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-14",
+      "author": "Nadia Silva",
+      "country": "France",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-04-27",
+      "title": "Great value for money",
+      "body": "Cancun is stunning and this package covered the essentials well, especially Underwater Museum of Art (MUSA) tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-15",
+      "author": "Ava Cohen",
+      "country": "Italy",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-04-24",
+      "title": "Highly recommend this package",
+      "body": "Punta Cancún viewpoint alone was worth the trip, but combined with El Rey Maya ruins this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-16",
+      "author": "Mia Patel",
+      "country": "Japan",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-02",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Rio Secreto underground river tour and Xcaret eco-archaeological park. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-17",
+      "author": "Lukas Sharma",
+      "country": "Japan",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-31",
+      "title": "Consultant made it effortless",
+      "body": "Cancun is stunning and this package covered the essentials well, especially Rio Secreto underground river tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-18",
+      "author": "David Sharma",
+      "country": "Spain",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-02-03",
+      "title": "Perfect for our honeymoon",
+      "body": "Cancun is stunning and this package covered the essentials well, especially Punta Cancún viewpoint. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-19",
+      "author": "James Müller",
+      "country": "Switzerland",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-09-06",
+      "title": "Five stars, will return",
+      "body": "Our trip to Cancun was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Malecón Tajamar boardwalk was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cancun-14-20",
+      "author": "Lucas Smith",
+      "country": "Spain",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-03",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Punta Cancún viewpoint and Isla Mujeres downtown streets. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.1,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.2,
+    "value": 4.1,
+    "cleanliness": 4.2,
+    "safety": 4.1,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Cancun Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 14,
+      "neighborhood": "La Isla Shopping Village"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Cancun Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 26,
+      "neighborhood": "Mercado 28"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Cancun Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 53,
+      "neighborhood": "Kukulcan Plaza"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Cancun Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 68,
+      "neighborhood": "Coco Bongo shopping strip Hotel Zone"
+    },
+    {
+      "tier": "Resort",
+      "name": "Cancun Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 150,
+      "neighborhood": "Coco Bongo"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Cancun Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 273,
+      "neighborhood": "The City Nightclub"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Cancun Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 325,
+      "neighborhood": "Mandala Beach Club"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        257,
+        408
+      ],
+      "estimatedFlightHours": 4.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        264,
+        420
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        652,
+        1035
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        669,
+        1062
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        698,
+        1108
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        740,
+        1176
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        650,
+        1033
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        674,
+        1071
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        704,
+        1118
+      ],
+      "estimatedFlightHours": 12.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1102,
+        1750
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        952,
+        1512
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1104,
+        1754
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        945,
+        1501
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        986,
+        1566
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1323,
+        2102
+      ],
+      "estimatedFlightHours": 24.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1236,
+        1963
+      ],
+      "estimatedFlightHours": 22.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1316,
+        2090
+      ],
+      "estimatedFlightHours": 24,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1362,
+        2163
+      ],
+      "estimatedFlightHours": 24.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1161,
+        1844
+      ],
+      "estimatedFlightHours": 21.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1244,
+        1976
+      ],
+      "estimatedFlightHours": 22.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1047,
+        1663
+      ],
+      "estimatedFlightHours": 18.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1006,
+        1597
+      ],
+      "estimatedFlightHours": 18.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1028,
+        1632
+      ],
+      "estimatedFlightHours": 18.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        987,
+        1567
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1047,
+        1663
+      ],
+      "estimatedFlightHours": 18.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        554,
+        880
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Cancún International Airport (CUN)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        170,
+        270
+      ],
+      "estimatedFlightHours": 2.5,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Chichen Itza day trip",
+    "Xcaret eco-archaeological park",
+    "Xel-Há all-inclusive water park",
+    "Isla Mujeres ferry & snorkel tour",
+    "Underwater Museum of Art (MUSA) tour",
+    "Tulum ruins day trip",
+    "Coco Bongo show",
+    "Xplor adventure park",
+    "Rio Secreto underground river tour",
+    "El Rey Maya ruins",
+    "Playa Delfines",
+    "Mercado 28",
+    "Malecón Tajamar boardwalk",
+    "Playa Las Perlas",
+    "Isla Mujeres downtown streets",
+    "Punta Cancún viewpoint",
+    "Chichen Itza",
+    "Tulum ruins",
+    "Isla Mujeres",
+    "Cenotes of the Riviera Maya",
+    "Museo Maya de Cancún",
+    "Underwater Museum of Art (MUSA)",
+    "Xcaret Park",
+    "Parque Las Palapas",
+    "Laguna Nichupté",
+    "Playa Tortugas",
+    "Isla Mujeres beaches",
+    "Playa Delfines viewpoint",
+    "MUSA underwater sculptures",
+    "Chichen Itza El Castillo pyramid",
+    "Isla Mujeres turquoise water",
+    "Tulum cliffside ruins"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Chichen Itza day trip",
+      "priceUSD": 120
+    },
+    {
+      "name": "Xcaret eco-archaeological park",
+      "priceUSD": 130
+    },
+    {
+      "name": "Xel-Há all-inclusive water park",
+      "priceUSD": 110
+    },
+    {
+      "name": "Isla Mujeres ferry & snorkel tour",
+      "priceUSD": 50
+    },
+    {
+      "name": "Underwater Museum of Art (MUSA) tour",
+      "priceUSD": 70
+    },
+    {
+      "name": "Tulum ruins day trip",
+      "priceUSD": 90
+    },
+    {
+      "name": "Coco Bongo show",
+      "priceUSD": 90
+    },
+    {
+      "name": "Xplor adventure park",
+      "priceUSD": 150
+    },
+    {
+      "name": "Rio Secreto underground river tour",
+      "priceUSD": 100
+    },
+    {
+      "name": "El Rey Maya ruins",
+      "priceUSD": 4
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Playa Delfines",
+    "Mercado 28",
+    "Malecón Tajamar boardwalk",
+    "Playa Las Perlas",
+    "Isla Mujeres downtown streets",
+    "Punta Cancún viewpoint"
+  ],
+  "museums": [
+    "Museo Maya de Cancún",
+    "Underwater Museum of Art (MUSA)"
+  ],
+  "parks": [
+    "Xcaret Park",
+    "Parque Las Palapas",
+    "Laguna Nichupté"
+  ],
+  "beaches": [
+    "Playa Delfines",
+    "Playa Tortugas",
+    "Playa Las Perlas",
+    "Isla Mujeres beaches"
+  ],
+  "dayTrips": [
+    "Chichen Itza",
+    "Tulum ruins",
+    "Isla Mujeres",
+    "Cenotes of the Riviera Maya"
+  ],
+  "fromPriceUSD": 1762,
+  "seo": {
+    "title": "Cancun 14-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "cancun-14-day-package",
+    "keywords": [
+      "Cancun",
+      "Mexico",
+      "Cancun, Mexico",
+      "Yucatán Peninsula",
+      "Cancun tour package",
+      "Cancun vacation package",
+      "Cancun holiday package",
+      "things to do in Cancun",
+      "best time to visit Cancun",
+      "Cancun itinerary",
+      "14 day Cancun itinerary",
+      "Cancun flights and hotels",
+      "Cancun all inclusive package",
+      "cheap Cancun package",
+      "luxury Cancun package"
+    ],
+    "canonicalUrl": "/packages/cancun-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Cancun Package",
+        "url": "/packages/cancun-10-day-package"
+      },
+      {
+        "title": "7-Day Cancun Package",
+        "url": "/packages/cancun-7-day-package"
+      },
+      {
+        "title": "Phuket 14-Day Beach Getaway",
+        "url": "/packages/phuket-14-day-package"
+      },
+      {
+        "title": "Costa Rica 14-Day Nature Retreat",
+        "url": "/packages/costa-rica-14-day-package"
+      },
+      {
+        "title": "Goa 14-Day Beach Getaway",
+        "url": "/packages/goa-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Cancun — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cancun"
+      },
+      {
+        "title": "Cancun — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Cancun"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1681 @@
+{
+  "id": "PKG-hanoi-10D",
+  "slug": "hanoi-10-day-package",
+  "destinationSlug": "hanoi",
+  "destinationName": "Hanoi",
+  "country": "Vietnam",
+  "region": "Southeast Asia",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Hanoi 10-Day City Break",
+  "metaTitle": "Hanoi 10-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Hanoi, Vietnam: round-trip flights, hotel, breakfast, transfers, and guided tours including Ho Chi Minh Mausoleum Complex and Temple of Literature. Prices from $1744 per person (estimate).",
+  "highlights": [
+    "Ho Chi Minh Mausoleum Complex",
+    "Temple of Literature",
+    "Hoan Kiem Lake",
+    "Halong Bay kayaking day trip",
+    "Halong Bay"
+  ],
+  "overview": "Spend 10 days discovering Hanoi, Vietnam — Humid subtropical climate with hot, rainy summers (May-Sep) and cool, damp, often overcast winters (Dec-Feb) with a persistent drizzle called \"mua phun.\" October to December for cool, dry weather with clear skies. This itinerary blends Ho Chi Minh Mausoleum Complex, Temple of Literature, Hoan Kiem Lake with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Ho Chi Minh Mausoleum Complex, Temple of Literature, Hoan Kiem Lake",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Hanoi",
+      "description": "Land at Noi Bai International Airport (HAN) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Ho Chi Minh Mausoleum Complex — Includes the museum and stilt house. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Ho Chi Minh Mausoleum Complex"
+      ],
+      "overnight": "Hanoi"
+    },
+    {
+      "day": 2,
+      "title": "Hanoi: Temple of Literature & Hoa Lo Prison Museum",
+      "description": "Morning visit to Temple of Literature — Vietnam's first national university, 11th century. In the afternoon, continue to Hoa Lo Prison Museum — Former colonial-era prison, later \"Hanoi Hilton\". Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Temple of Literature",
+        "Hoa Lo Prison Museum"
+      ],
+      "overnight": "Hanoi"
+    },
+    {
+      "day": 3,
+      "title": "Hanoi: Vietnam Museum of Ethnology & Thang Long Water Puppet Theatre",
+      "description": "Morning visit to Vietnam Museum of Ethnology — Exhibits on Vietnam's 54 ethnic groups. In the afternoon, continue to Thang Long Water Puppet Theatre — Traditional Vietnamese water puppetry show. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Vietnam Museum of Ethnology",
+        "Thang Long Water Puppet Theatre"
+      ],
+      "overnight": "Hanoi"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Halong Bay",
+      "description": "Full-day excursion to Halong Bay, a popular side trip from Hanoi. Return to Hanoi in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Halong Bay",
+        "Free evening"
+      ],
+      "overnight": "Hanoi"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Phung Hung mural street — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Phung Hung mural street"
+      ],
+      "overnight": "Hanoi"
+    },
+    {
+      "day": 6,
+      "title": "Hanoi: Imperial Citadel of Thang Long & Bat Trang Pottery Village tour",
+      "description": "Morning visit to Imperial Citadel of Thang Long — UNESCO archaeological and royal site. In the afternoon, continue to Bat Trang Pottery Village tour — Hands-on ceramics village outside the city. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Imperial Citadel of Thang Long",
+        "Bat Trang Pottery Village tour"
+      ],
+      "overnight": "Hanoi"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Ninh Binh (Trang An and Tam Coc)",
+      "description": "Full-day excursion to Ninh Binh (Trang An and Tam Coc), a popular side trip from Hanoi. Return to Hanoi in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Ninh Binh (Trang An and Tam Coc)",
+        "Free evening"
+      ],
+      "overnight": "Hanoi"
+    },
+    {
+      "day": 8,
+      "title": "Hanoi: Halong Bay day cruise (from Hanoi) & Ninh Binh (Trang An) boat tour",
+      "description": "Morning visit to Halong Bay day cruise (from Hanoi) — Full-day boat trip to the UNESCO bay. In the afternoon, continue to Ninh Binh (Trang An) boat tour — Limestone karst river tour, day trip from Hanoi. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Halong Bay day cruise (from Hanoi)",
+        "Ninh Binh (Trang An) boat tour"
+      ],
+      "overnight": "Hanoi"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Ngoc Ha flower village — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Ngoc Ha flower village"
+      ],
+      "overnight": "Hanoi"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Train Street cafe entry or some souvenir shopping — before your private transfer to HAN for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Download the Grab app before arrival for transport and food",
+    "Learn to cross the street confidently in a steady stream — traffic flows around pedestrians",
+    "Book Halong Bay cruises through reputable operators, not the cheapest street offer",
+    "Carry small VND notes for street food stalls and markets",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Light, breathable clothing plus a rain jacket for humid, unpredictable weather",
+    "A scarf or shawl for temple visits requiring covered shoulders",
+    "Comfortable closed shoes for uneven Old Quarter sidewalks",
+    "Motion sickness remedies for winding road trips to Sapa or Halong Bay"
+  ],
+  "thingsToDo": [
+    "Ho Chi Minh Mausoleum Complex",
+    "Temple of Literature",
+    "Hoa Lo Prison Museum",
+    "Vietnam Museum of Ethnology",
+    "Thang Long Water Puppet Theatre",
+    "Imperial Citadel of Thang Long",
+    "Bat Trang Pottery Village tour",
+    "Halong Bay day cruise (from Hanoi)",
+    "Ninh Binh (Trang An) boat tour",
+    "Train Street cafe entry",
+    "Hoan Kiem Lake",
+    "Old Quarter",
+    "St. Joseph's Cathedral",
+    "Dong Xuan Market",
+    "West Lake (Ho Tay)",
+    "Long Bien Bridge",
+    "Tran Quoc Pagoda",
+    "Train Street",
+    "Halong Bay kayaking day trip",
+    "Ninh Binh cycling and cave tours"
+  ],
+  "thingsToAvoid": [
+    "Cheap unlicensed Halong Bay cruise operators with poor safety records",
+    "Overpaying taxis without a meter — use Grab or Mai Linh/Taxi Group",
+    "Drinking tap water — stick to bottled or boiled water",
+    "Crossing multi-lane traffic hesitantly, which increases accident risk"
+  ],
+  "topRestaurants": [
+    "Pho Gia Truyen — Vietnamese pho ($)",
+    "Bun Cha Huong Lien — Bun cha (grilled pork noodles) ($)",
+    "Cha Ca La Vong — Turmeric fish (cha ca), Hanoi specialty ($$)",
+    "Banh Mi 25 — Vietnamese banh mi sandwiches ($)",
+    "Quan An Ngon — Vietnamese street food collective ($$)",
+    "La Badiane — French-Vietnamese fine dining ($$$)",
+    "Highway4 — Northern Vietnamese cuisine ($$)",
+    "Xoi Yen — Sticky rice (xoi) street stall ($)"
+  ],
+  "topCafes": [
+    "Train Street cafes",
+    "Cafe Giang (egg coffee)",
+    "Old Quarter coffee alleys",
+    "Hidden Gem Coffee",
+    "Loading T Cafe"
+  ],
+  "shoppingAreas": [
+    "Old Quarter 36 Streets",
+    "Dong Xuan Market",
+    "Hang Gai silk street",
+    "Weekend Night Market Hoan Kiem"
+  ],
+  "nightlife": [
+    "Ta Hien \"Beer Street\"",
+    "Bia Hoi corner (Old Quarter)",
+    "Hoan Kiem Lake night walking street",
+    "Tay Ho (West Lake) bars"
+  ],
+  "instagramSpots": [
+    "Train Street with a passing train",
+    "Hoan Kiem Lake at sunrise",
+    "Long Bien Bridge at sunset",
+    "Old Quarter tangled overhead wires",
+    "Tran Quoc Pagoda on West Lake"
+  ],
+  "hiddenGems": [
+    "Phung Hung mural street",
+    "Ngoc Ha flower village",
+    "Duong Lam ancient village day trip",
+    "Bat Trang pottery village"
+  ],
+  "familyActivities": [
+    "Thang Long Water Puppet Theatre",
+    "Vietnam Museum of Ethnology grounds",
+    "Hanoi Zoo (Thu Le Park)",
+    "Bat Trang pottery hands-on workshop"
+  ],
+  "adventureActivities": [
+    "Halong Bay kayaking day trip",
+    "Ninh Binh cycling and cave tours",
+    "Motorbike street food tour",
+    "Ba Vi National Park trekking"
+  ],
+  "luxuryExperiences": [
+    "Overnight luxury cruise on Halong Bay",
+    "Suite stay at Sofitel Legend Metropole Hanoi",
+    "Private tailored ao dai fitting",
+    "Fine-dining tasting menu at La Badiane"
+  ],
+  "honeymoonExperiences": [
+    "Private Halong Bay overnight junk cruise",
+    "Sunset cyclo ride through the Old Quarter",
+    "Couples spa at a colonial-era hotel",
+    "Candlelit dinner overlooking Hoan Kiem Lake"
+  ],
+  "budgetExperiences": [
+    "Street food crawl through the Old Quarter",
+    "Egg coffee at Cafe Giang",
+    "Free walk around Hoan Kiem Lake",
+    "Bia Hoi (fresh local beer) on plastic stools"
+  ],
+  "estimatedDailyBudgetUSD": [
+    25,
+    60,
+    130,
+    280
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 70,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Feb",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 22,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 26,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 33,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 20,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Tet (Vietnamese Lunar New Year)",
+      "timing": "Late January or February"
+    },
+    {
+      "name": "Hanoi Mid-Autumn Festival",
+      "timing": "September or October (lunar calendar)"
+    },
+    {
+      "name": "Perfume Pagoda Festival",
+      "timing": "February to April"
+    },
+    {
+      "name": "Hanoi Flower Festival",
+      "timing": "Late December to early January"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "113",
+    "ambulance": "115",
+    "fire": "114"
+  },
+  "localEtiquette": [
+    "Dress modestly when visiting temples and pagodas, covering shoulders and knees.",
+    "Use both hands to give or receive items, especially with elders.",
+    "Avoid pointing your feet at people, statues, or altars when seated.",
+    "Bargaining is expected at markets but should stay good-natured.",
+    "Do not touch anyone on the head, considered the most sacred body part."
+  ],
+  "localTransportGuide": "Grab (ride-hailing and food delivery app) is the easiest way to get around and avoids taxi haggling; the Old Quarter is best explored on foot despite chaotic traffic. Motorbike taxis (xe om) are fast for short hops but require confidence crossing Hanoi's traffic flow.",
+  "bestTimeToVisit": "October to December for cool, dry weather with clear skies.",
+  "weather": "Humid subtropical climate with hot, rainy summers (May-Sep) and cool, damp, often overcast winters (Dec-Feb) with a persistent drizzle called \"mua phun.\"",
+  "visaInformation": "Vietnam requires an e-Visa for most nationalities, obtainable online in advance for stays up to 90 days; a handful of countries (including several in Southeast Asia and parts of Western Europe) have visa-exempt arrangements for shorter stays. Apply for the e-Visa at least a few days before travel.",
+  "currency": "VND",
+  "languages": [
+    "Vietnamese"
+  ],
+  "timeZone": "ICT (UTC+7)",
+  "averageFlightTime": "~10.4h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Noi Bai International Airport (HAN)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Hanoi?",
+      "answer": "Vietnam requires an e-Visa for most nationalities, obtainable online in advance for stays up to 90 days; a handful of countries (including several in Southeast Asia and parts of Western Europe) have visa-exempt arrangements for shorter stays. Apply for the e-Visa at least a few days before travel."
+    },
+    {
+      "question": "What is the best time to visit Hanoi?",
+      "answer": "October to December for cool, dry weather with clear skies. Humid subtropical climate with hot, rainy summers (May-Sep) and cool, damp, often overcast winters (Dec-Feb) with a persistent drizzle called \"mua phun.\""
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Hanoi safe for tourists?",
+      "answer": "Hanoi is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Hanoi?",
+      "answer": "The local currency is VND. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "History",
+    "Food",
+    "Adventure",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Hanoi",
+    "Vietnam",
+    "Hanoi, Vietnam",
+    "Southeast Asia",
+    "Hanoi tour package",
+    "Hanoi vacation package",
+    "Hanoi holiday package",
+    "things to do in Hanoi",
+    "best time to visit Hanoi",
+    "Hanoi itinerary",
+    "10 day Hanoi itinerary",
+    "Hanoi flights and hotels",
+    "Hanoi all inclusive package",
+    "cheap Hanoi package",
+    "luxury Hanoi package",
+    "Hanoi honeymoon package",
+    "Hanoi family vacation",
+    "Hanoi solo trip",
+    "Hanoi group tour",
+    "Hanoi weekend getaway",
+    "Hanoi guided tour",
+    "HAN flights",
+    "Hanoi travel guide",
+    "book Hanoi trip online",
+    "Hanoi trip cost",
+    "Hanoi packages 10 days",
+    "Hanoi city break",
+    "Hanoi culture",
+    "Hanoi history",
+    "Hanoi food",
+    "Hanoi adventure",
+    "Hanoi bucket list",
+    "Ho Chi Minh Mausoleum Complex",
+    "Temple of Literature",
+    "Hoa Lo Prison Museum",
+    "Vietnam Museum of Ethnology",
+    "Thang Long Water Puppet Theatre",
+    "Imperial Citadel of Thang Long",
+    "Bat Trang Pottery Village tour",
+    "Halong Bay day cruise (from Hanoi)",
+    "Ninh Binh (Trang An) boat tour",
+    "Train Street cafe entry",
+    "Hoan Kiem Lake",
+    "Old Quarter",
+    "St. Joseph's Cathedral",
+    "Dong Xuan Market",
+    "West Lake (Ho Tay)",
+    "Long Bien Bridge",
+    "Tran Quoc Pagoda",
+    "Train Street"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Hanoi, Vietnam — Hanoi Old Quarter street food",
+      "keywords": [
+        "Hanoi",
+        "Vietnam",
+        "Hanoi Old Quarter street food",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Hanoi Hanoi Old Quarter street food",
+      "pexelsQuery": "Hanoi Hanoi Old Quarter street food",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Hanoi, Vietnam — Hanoi Old Quarter street food",
+      "keywords": [
+        "Hanoi",
+        "Vietnam",
+        "Hanoi Old Quarter street food",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Hanoi Hanoi Old Quarter street food",
+      "pexelsQuery": "Hanoi Hanoi Old Quarter street food",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Hanoi, Vietnam — Train Street Hanoi",
+      "keywords": [
+        "Hanoi",
+        "Vietnam",
+        "Train Street Hanoi",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Hanoi Train Street Hanoi",
+      "pexelsQuery": "Hanoi Train Street Hanoi",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Hanoi, Vietnam — Hoan Kiem Lake sunrise",
+      "keywords": [
+        "Hanoi",
+        "Vietnam",
+        "Hoan Kiem Lake sunrise",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Hanoi Hoan Kiem Lake sunrise",
+      "pexelsQuery": "Hanoi Hoan Kiem Lake sunrise",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Hanoi, Vietnam — Hanoi Old Quarter street food",
+      "keywords": [
+        "Hanoi",
+        "Vietnam",
+        "Hanoi Old Quarter street food",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Hanoi Hanoi Old Quarter street food",
+      "pexelsQuery": "Hanoi Hanoi Old Quarter street food",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hanoi, Vietnam — Train Street Hanoi",
+      "keywords": [
+        "Hanoi",
+        "Vietnam",
+        "Train Street Hanoi",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Hanoi Train Street Hanoi",
+      "pexelsQuery": "Hanoi Train Street Hanoi",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hanoi, Vietnam — Hoan Kiem Lake sunrise",
+      "keywords": [
+        "Hanoi",
+        "Vietnam",
+        "Hoan Kiem Lake sunrise",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Hanoi Hoan Kiem Lake sunrise",
+      "pexelsQuery": "Hanoi Hoan Kiem Lake sunrise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hanoi, Vietnam — Halong Bay junk boat",
+      "keywords": [
+        "Hanoi",
+        "Vietnam",
+        "Halong Bay junk boat",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Hanoi Halong Bay junk boat",
+      "pexelsQuery": "Hanoi Halong Bay junk boat",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hanoi, Vietnam — Ho Chi Minh Mausoleum Complex",
+      "keywords": [
+        "Hanoi",
+        "Vietnam",
+        "Ho Chi Minh Mausoleum Complex",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Hanoi Ho Chi Minh Mausoleum Complex",
+      "pexelsQuery": "Hanoi Ho Chi Minh Mausoleum Complex",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hanoi, Vietnam — Temple of Literature",
+      "keywords": [
+        "Hanoi",
+        "Vietnam",
+        "Temple of Literature",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Hanoi Temple of Literature",
+      "pexelsQuery": "Hanoi Temple of Literature",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hanoi, Vietnam — Hoa Lo Prison Museum",
+      "keywords": [
+        "Hanoi",
+        "Vietnam",
+        "Hoa Lo Prison Museum",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Hanoi Hoa Lo Prison Museum",
+      "pexelsQuery": "Hanoi Hoa Lo Prison Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Hanoi, Vietnam — Vietnam Museum of Ethnology",
+      "keywords": [
+        "Hanoi",
+        "Vietnam",
+        "Vietnam Museum of Ethnology",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Hanoi Vietnam Museum of Ethnology",
+      "pexelsQuery": "Hanoi Vietnam Museum of Ethnology",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-hanoi-10-1",
+      "author": "Tom Patel",
+      "country": "Japan",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-08-06",
+      "title": "Five stars, will return",
+      "body": "We added a couple of optional activities beyond Train Street cafe entry and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-2",
+      "author": "Hiroshi Larsen",
+      "country": "Spain",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-20",
+      "title": "Worth every penny",
+      "body": "Train Street alone was worth the trip, but combined with Ninh Binh (Trang An) boat tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-hanoi-10-3",
+      "author": "Fatima Brown",
+      "country": "France",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-05-30",
+      "title": "Exceeded our expectations",
+      "body": "Thang Long Water Puppet Theatre alone was worth the trip, but combined with Hoa Lo Prison Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-4",
+      "author": "Anna Botha",
+      "country": "Italy",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-03",
+      "title": "Five stars, will return",
+      "body": "Hanoi is stunning and this package covered the essentials well, especially Tran Quoc Pagoda. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-5",
+      "author": "Isabella Costa",
+      "country": "Australia",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2026-06-03",
+      "title": "Perfect for our honeymoon",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Hoa Lo Prison Museum and Tran Quoc Pagoda. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-6",
+      "author": "Mohammed Patel",
+      "country": "Singapore",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-09-13",
+      "title": "Beautiful destination, well organized",
+      "body": "Ninh Binh (Trang An) boat tour alone was worth the trip, but combined with Vietnam Museum of Ethnology this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-7",
+      "author": "Ava Tanaka",
+      "country": "Spain",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-23",
+      "title": "Perfect for our honeymoon",
+      "body": "Train Street alone was worth the trip, but combined with Temple of Literature this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-hanoi-10-8",
+      "author": "Ethan Botha",
+      "country": "Netherlands",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-05",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to St. Joseph's Cathedral and Dong Xuan Market. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-9",
+      "author": "Priya Wang",
+      "country": "Saudi Arabia",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-18",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a solo trip and it was well paced. West Lake (Ho Tay) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-10",
+      "author": "Isabella Fernandez",
+      "country": "South Korea",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-29",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Ninh Binh (Trang An) boat tour and Bat Trang Pottery Village tour. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-11",
+      "author": "Olivia Wang",
+      "country": "Italy",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-04",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Hanoi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Tran Quoc Pagoda was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-hanoi-10-12",
+      "author": "Fatima Kowalski",
+      "country": "Singapore",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-25",
+      "title": "Highly recommend this package",
+      "body": "Halong Bay day cruise (from Hanoi) alone was worth the trip, but combined with Imperial Citadel of Thang Long this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-hanoi-10-13",
+      "author": "Noah Müller",
+      "country": "Singapore",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-04-18",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Hanoi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Halong Bay day cruise (from Hanoi) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-hanoi-10-14",
+      "author": "Tom Ivanov",
+      "country": "Brazil",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-20",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Hoan Kiem Lake and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-15",
+      "author": "James Santos",
+      "country": "France",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-04-20",
+      "title": "Great for families with kids",
+      "body": "Our trip to Hanoi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Imperial Citadel of Thang Long was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-16",
+      "author": "Daniel Kowalski",
+      "country": "Mexico",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-08-03",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Tran Quoc Pagoda and Dong Xuan Market. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-hanoi-10-17",
+      "author": "Arjun Johnson",
+      "country": "South Africa",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-06-18",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a solo trip and it was well paced. Old Quarter in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-18",
+      "author": "Marco Novak",
+      "country": "Australia",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-03-05",
+      "title": "Perfect for our honeymoon",
+      "body": "We added a couple of optional activities beyond Vietnam Museum of Ethnology and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-19",
+      "author": "Isabella Silva",
+      "country": "Spain",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-12-27",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Train Street and Imperial Citadel of Thang Long. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-hanoi-10-20",
+      "author": "Mohammed Ivanov",
+      "country": "Switzerland",
+      "rating": 3.9,
+      "foodRating": 4.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-06-23",
+      "title": "A little rushed but still wonderful",
+      "body": "Dong Xuan Market alone was worth the trip, but combined with Hoa Lo Prison Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.2,
+    "transportation": 4.3,
+    "activities": 4.2,
+    "value": 4.2,
+    "cleanliness": 4.2,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Hanoi Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 6,
+      "neighborhood": "Old Quarter 36 Streets"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Hanoi Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 10,
+      "neighborhood": "Dong Xuan Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Hanoi Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 21,
+      "neighborhood": "Hang Gai silk street"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Hanoi Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 27,
+      "neighborhood": "Weekend Night Market Hoan Kiem"
+    },
+    {
+      "tier": "Resort",
+      "name": "Hanoi Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 65,
+      "neighborhood": "Ta Hien \"Beer Street\""
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Hanoi Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 118,
+      "neighborhood": "Bia Hoi corner (Old Quarter)"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Hanoi Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 140,
+      "neighborhood": "Hoan Kiem Lake night walking street"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1027,
+        1631
+      ],
+      "estimatedFlightHours": 18.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1001,
+        1590
+      ],
+      "estimatedFlightHours": 18.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        744,
+        1181
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        741,
+        1177
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        706,
+        1122
+      ],
+      "estimatedFlightHours": 12.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        707,
+        1123
+      ],
+      "estimatedFlightHours": 12.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        802,
+        1273
+      ],
+      "estimatedFlightHours": 14.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        718,
+        1141
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        715,
+        1135
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        638,
+        1013
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        775,
+        1231
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        293,
+        466
+      ],
+      "estimatedFlightHours": 4.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        341,
+        541
+      ],
+      "estimatedFlightHours": 5.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        275,
+        436
+      ],
+      "estimatedFlightHours": 4.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        235,
+        374
+      ],
+      "estimatedFlightHours": 3.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        148,
+        235
+      ],
+      "estimatedFlightHours": 2.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        224,
+        355
+      ],
+      "estimatedFlightHours": 3.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        296,
+        470
+      ],
+      "estimatedFlightHours": 4.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        203,
+        323
+      ],
+      "estimatedFlightHours": 3.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        159,
+        252
+      ],
+      "estimatedFlightHours": 2.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        450,
+        714
+      ],
+      "estimatedFlightHours": 7.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        512,
+        813
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        476,
+        756
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        498,
+        791
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        791,
+        1256
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1318,
+        2093
+      ],
+      "estimatedFlightHours": 24,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Noi Bai International Airport (HAN)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1143,
+        1816
+      ],
+      "estimatedFlightHours": 20.7,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Ho Chi Minh Mausoleum Complex",
+    "Temple of Literature",
+    "Hoa Lo Prison Museum",
+    "Vietnam Museum of Ethnology",
+    "Thang Long Water Puppet Theatre",
+    "Imperial Citadel of Thang Long",
+    "Bat Trang Pottery Village tour",
+    "Halong Bay day cruise (from Hanoi)",
+    "Ninh Binh (Trang An) boat tour",
+    "Train Street cafe entry",
+    "Hoan Kiem Lake",
+    "Old Quarter",
+    "St. Joseph's Cathedral",
+    "Dong Xuan Market",
+    "West Lake (Ho Tay)",
+    "Long Bien Bridge",
+    "Tran Quoc Pagoda",
+    "Train Street",
+    "Halong Bay",
+    "Ninh Binh (Trang An and Tam Coc)",
+    "Sapa rice terraces",
+    "Duong Lam ancient village",
+    "Vietnam Military History Museum",
+    "Vietnam Women's Museum",
+    "Thong Nhat (Unification) Park",
+    "West Lake promenade",
+    "Thu Le Park",
+    "Train Street with a passing train",
+    "Hoan Kiem Lake at sunrise",
+    "Long Bien Bridge at sunset",
+    "Old Quarter tangled overhead wires",
+    "Tran Quoc Pagoda on West Lake"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Ho Chi Minh Mausoleum Complex",
+      "priceUSD": 2
+    },
+    {
+      "name": "Temple of Literature",
+      "priceUSD": 1
+    },
+    {
+      "name": "Hoa Lo Prison Museum",
+      "priceUSD": 1.5
+    },
+    {
+      "name": "Vietnam Museum of Ethnology",
+      "priceUSD": 1.5
+    },
+    {
+      "name": "Thang Long Water Puppet Theatre",
+      "priceUSD": 8
+    },
+    {
+      "name": "Imperial Citadel of Thang Long",
+      "priceUSD": 1.5
+    },
+    {
+      "name": "Bat Trang Pottery Village tour",
+      "priceUSD": 15
+    },
+    {
+      "name": "Halong Bay day cruise (from Hanoi)",
+      "priceUSD": 65
+    },
+    {
+      "name": "Ninh Binh (Trang An) boat tour",
+      "priceUSD": 45
+    },
+    {
+      "name": "Train Street cafe entry",
+      "priceUSD": 3
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Hoan Kiem Lake",
+    "Old Quarter",
+    "St. Joseph's Cathedral",
+    "Dong Xuan Market",
+    "West Lake (Ho Tay)",
+    "Long Bien Bridge",
+    "Tran Quoc Pagoda",
+    "Train Street"
+  ],
+  "museums": [
+    "Vietnam Museum of Ethnology",
+    "Hoa Lo Prison Museum",
+    "Vietnam Military History Museum",
+    "Vietnam Women's Museum"
+  ],
+  "parks": [
+    "Thong Nhat (Unification) Park",
+    "West Lake promenade",
+    "Thu Le Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Halong Bay",
+    "Ninh Binh (Trang An and Tam Coc)",
+    "Sapa rice terraces",
+    "Duong Lam ancient village"
+  ],
+  "fromPriceUSD": 1744,
+  "seo": {
+    "title": "Hanoi 10-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "hanoi-10-day-package",
+    "keywords": [
+      "Hanoi",
+      "Vietnam",
+      "Hanoi, Vietnam",
+      "Southeast Asia",
+      "Hanoi tour package",
+      "Hanoi vacation package",
+      "Hanoi holiday package",
+      "things to do in Hanoi",
+      "best time to visit Hanoi",
+      "Hanoi itinerary",
+      "10 day Hanoi itinerary",
+      "Hanoi flights and hotels",
+      "Hanoi all inclusive package",
+      "cheap Hanoi package",
+      "luxury Hanoi package"
+    ],
+    "canonicalUrl": "/packages/hanoi-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Hanoi Package",
+        "url": "/packages/hanoi-7-day-package"
+      },
+      {
+        "title": "14-Day Hanoi Package",
+        "url": "/packages/hanoi-14-day-package"
+      },
+      {
+        "title": "Paris 10-Day City Break",
+        "url": "/packages/paris-10-day-package"
+      },
+      {
+        "title": "London 10-Day City Break",
+        "url": "/packages/london-10-day-package"
+      },
+      {
+        "title": "Rome 10-Day City Break",
+        "url": "/packages/rome-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Hanoi — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hanoi"
+      },
+      {
+        "title": "Hanoi — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Hanoi"
+      }
+    ]
+  }
+}

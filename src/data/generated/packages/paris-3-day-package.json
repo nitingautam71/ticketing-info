@@ -1,0 +1,1600 @@
+{
+  "id": "PKG-paris-3D",
+  "slug": "paris-3-day-package",
+  "destinationSlug": "paris",
+  "destinationName": "Paris",
+  "country": "France",
+  "region": "Western Europe",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Paris 3-Day City Break",
+  "metaTitle": "Paris 3-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Paris, France: round-trip flights, hotel, breakfast, transfers, and guided tours including Eiffel Tower (summit access) and Louvre Museum. Prices from $1042 per person (estimate).",
+  "highlights": [
+    "Eiffel Tower (summit access)",
+    "Louvre Museum",
+    "Notre-Dame Cathedral exterior",
+    "Sunset champagne cruise on the Seine",
+    "Palace of Versailles"
+  ],
+  "overview": "Spend 3 days discovering Paris, France — Temperate oceanic climate with mild, damp winters (highs 7-8°C) and warm summers (highs 24-25°C); rain is possible year-round so pack a compact umbrella regardless of season. April to June and September to October offer mild weather, blooming parks and thinner crowds than peak summer. This itinerary blends Eiffel Tower (summit access), Louvre Museum, Notre-Dame Cathedral exterior with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Eiffel Tower (summit access), Louvre Museum, Notre-Dame Cathedral exterior",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Paris",
+      "description": "Land at Charles de Gaulle Airport (CDG) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Eiffel Tower (summit access) — Iconic iron tower with panoramic city views. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Eiffel Tower (summit access)"
+      ],
+      "overnight": "Paris"
+    },
+    {
+      "day": 2,
+      "title": "Paris: Louvre Museum & Palace of Versailles",
+      "description": "Morning visit to Louvre Museum — Home to the Mona Lisa and Venus de Milo. In the afternoon, continue to Palace of Versailles — Opulent royal palace and gardens outside Paris. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Louvre Museum",
+        "Palace of Versailles"
+      ],
+      "overnight": "Paris"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Musée d'Orsay or some souvenir shopping — before your private transfer to CDG for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Buy Louvre and Versailles tickets online in advance to skip long queue times.",
+    "Many museums are free on the first Sunday of the month from October to March.",
+    "Avoid dining right on the Champs-Élysées — walk a few streets over for better value and quality.",
+    "The Paris Museum Pass can save money if visiting 3+ major sites in a few days.",
+    "Metro line 1 and RER B (airport line) are known pickpocket hotspots — keep bags zipped and in front.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Comfortable walking shoes for cobblestones",
+    "A compact umbrella for year-round rain",
+    "A smart-casual outfit for nicer restaurants",
+    "Layered clothing for changeable weather"
+  ],
+  "thingsToDo": [
+    "Eiffel Tower (summit access)",
+    "Louvre Museum",
+    "Palace of Versailles",
+    "Musée d'Orsay",
+    "Sainte-Chapelle",
+    "Arc de Triomphe rooftop",
+    "Catacombs of Paris",
+    "Centre Pompidou",
+    "Seine River Cruise (Bateaux-Mouches)",
+    "Musée Rodin",
+    "Disneyland Paris",
+    "Notre-Dame Cathedral exterior",
+    "Sacré-Cœur Basilica",
+    "Montmartre streets",
+    "Luxembourg Gardens",
+    "Le Marais district",
+    "Champs-Élysées",
+    "Pont Alexandre III",
+    "Père Lachaise Cemetery",
+    "Canal Saint-Martin"
+  ],
+  "thingsToAvoid": [
+    "The \"gold ring\" and \"friendship bracelet\" scams near Sacré-Cœur and the Eiffel Tower.",
+    "Unofficial ticket sellers outside major attractions — buy only from official websites.",
+    "Petition-signature scams (often a distraction for pickpocketing) near tourist landmarks.",
+    "Restaurants directly facing major monuments — usually overpriced and mediocre.",
+    "Walking distracted with a phone out near Châtelet-Les Halles or Barbès at night."
+  ],
+  "topRestaurants": [
+    "Le Comptoir du Relais — French Bistro ($$$)",
+    "L'As du Fallafel — Middle Eastern ($)",
+    "Septime — Modern French ($$$$)",
+    "Chez L'Ami Jean — Basque-French ($$$)",
+    "Bouillon Chartier — Traditional French ($)",
+    "Le Cinq — Haute French ($$$$)",
+    "Breizh Café — Crêperie ($$)",
+    "Chez Janou — Provençal ($$)",
+    "Frenchie — Modern Bistro ($$$)"
+  ],
+  "topCafes": [
+    "Café de Flore",
+    "Les Deux Magots",
+    "Angelina (rue de Rivoli)",
+    "Café de la Paix",
+    "Ten Belles",
+    "Café Kitsuné"
+  ],
+  "shoppingAreas": [
+    "Champs-Élysées",
+    "Le Marais boutiques",
+    "Galeries Lafayette",
+    "Rue Saint-Honoré",
+    "Marché aux Puces de Saint-Ouen"
+  ],
+  "nightlife": [
+    "Le Perchoir rooftop bar",
+    "Moulin Rouge",
+    "Rex Club",
+    "Le Comptoir Général",
+    "Harry's New York Bar"
+  ],
+  "instagramSpots": [
+    "Trocadéro Eiffel Tower view",
+    "Rue Crémieux colorful houses",
+    "Pont Alexandre III",
+    "Montmartre staircases",
+    "Palais Royal columns"
+  ],
+  "hiddenGems": [
+    "Marché des Enfants Rouges covered market",
+    "La Petite Ceinture abandoned railway",
+    "Musée de la Vie Romantique",
+    "Passage des Panoramas covered arcade"
+  ],
+  "familyActivities": [
+    "Jardin d'Acclimatation amusement park",
+    "Cité des Sciences et de l'Industrie",
+    "Disneyland Paris",
+    "Ménagerie du Jardin des Plantes zoo"
+  ],
+  "adventureActivities": [
+    "Seine kayaking tours",
+    "Bike tours through Bois de Vincennes",
+    "Climbing Eiffel Tower stairs",
+    "Hot air balloon at Parc André-Citroën"
+  ],
+  "luxuryExperiences": [
+    "Private Louvre after-hours tour",
+    "Michelin-starred dining at Le Cinq",
+    "Seine dinner cruise on a private yacht",
+    "Champagne tasting in Ritz Paris bar"
+  ],
+  "honeymoonExperiences": [
+    "Sunset champagne cruise on the Seine",
+    "Private evening Eiffel Tower dinner at Le Jules Verne",
+    "Romantic stroll through Montmartre at dusk",
+    "Couples spa at a Palace hotel"
+  ],
+  "budgetExperiences": [
+    "Free entry to Notre-Dame exterior and Sacré-Cœur",
+    "Picnic in Luxembourg Gardens",
+    "Free first-Sunday museum entries (off-season)",
+    "Wander Le Marais and Canal Saint-Martin"
+  ],
+  "estimatedDailyBudgetUSD": [
+    75,
+    160,
+    280,
+    550
+  ],
+  "safetyRating": 4,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 88,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 7,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 8,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 12,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 15,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 25,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 10,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 7,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Fête de la Musique",
+      "timing": "June 21 (Summer Solstice)"
+    },
+    {
+      "name": "Bastille Day (Fête Nationale)",
+      "timing": "July 14"
+    },
+    {
+      "name": "Nuit Blanche",
+      "timing": "First Saturday of October"
+    },
+    {
+      "name": "Paris Fashion Week",
+      "timing": "Late February/March and September/October"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18"
+  },
+  "localEtiquette": [
+    "Always greet shopkeepers and waitstaff with \"Bonjour\" before starting a conversation, even in English.",
+    "Keep your voice down on public transport and in restaurants — loud conversation is considered impolite.",
+    "Dress reasonably smart; athleisure and flip-flops mark tourists and can draw less attentive service.",
+    "Tipping is not mandatory since service is included (service compris), but rounding up or leaving small change for good service is appreciated.",
+    "Say \"Bonjour\" and \"Merci, au revoir\" when entering and leaving small shops — silence is read as rude."
+  ],
+  "localTransportGuide": "The Métro is fast, cheap and covers the whole city — buy a Navigo Easy card and load individual tickets or day passes. RATP and Citymapper apps give real-time routing; taxis and Uber are widely available but can be slow in traffic.",
+  "bestTimeToVisit": "April to June and September to October offer mild weather, blooming parks and thinner crowds than peak summer.",
+  "weather": "Temperate oceanic climate with mild, damp winters (highs 7-8°C) and warm summers (highs 24-25°C); rain is possible year-round so pack a compact umbrella regardless of season.",
+  "visaInformation": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities should check Schengen short-stay visa requirements well in advance; a Schengen visa issued by any member state covers France.",
+  "currency": "EUR",
+  "languages": [
+    "French"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~10.1h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Charles de Gaulle Airport (CDG)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Paris?",
+      "answer": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities should check Schengen short-stay visa requirements well in advance; a Schengen visa issued by any member state covers France."
+    },
+    {
+      "question": "What is the best time to visit Paris?",
+      "answer": "April to June and September to October offer mild weather, blooming parks and thinner crowds than peak summer. Temperate oceanic climate with mild, damp winters (highs 7-8°C) and warm summers (highs 24-25°C); rain is possible year-round so pack a compact umbrella regardless of season."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Paris safe for tourists?",
+      "answer": "Paris is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Paris?",
+      "answer": "The local currency is EUR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Paris is one of our most-booked honeymoon destinations, especially the Sunset champagne cruise on the Seine experience."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Romantic",
+    "Honeymoon",
+    "History",
+    "Food",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Paris",
+    "France",
+    "Paris, France",
+    "Western Europe",
+    "Paris tour package",
+    "Paris vacation package",
+    "Paris holiday package",
+    "things to do in Paris",
+    "best time to visit Paris",
+    "Paris itinerary",
+    "3 day Paris itinerary",
+    "Paris flights and hotels",
+    "Paris all inclusive package",
+    "cheap Paris package",
+    "luxury Paris package",
+    "Paris honeymoon package",
+    "Paris family vacation",
+    "Paris solo trip",
+    "Paris group tour",
+    "Paris weekend getaway",
+    "Paris guided tour",
+    "CDG flights",
+    "Paris travel guide",
+    "book Paris trip online",
+    "Paris trip cost",
+    "Paris packages 3 days",
+    "Paris city break",
+    "Paris culture",
+    "Paris romantic",
+    "Paris honeymoon",
+    "Paris history",
+    "Paris food",
+    "Eiffel Tower (summit access)",
+    "Louvre Museum",
+    "Palace of Versailles",
+    "Musée d'Orsay",
+    "Sainte-Chapelle",
+    "Arc de Triomphe rooftop",
+    "Catacombs of Paris",
+    "Centre Pompidou",
+    "Seine River Cruise (Bateaux-Mouches)",
+    "Musée Rodin",
+    "Disneyland Paris",
+    "Notre-Dame Cathedral exterior",
+    "Sacré-Cœur Basilica",
+    "Montmartre streets",
+    "Luxembourg Gardens",
+    "Le Marais district",
+    "Champs-Élysées",
+    "Pont Alexandre III"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Paris, France — Eiffel Tower sunset",
+      "keywords": [
+        "Paris",
+        "France",
+        "Eiffel Tower sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Paris Eiffel Tower sunset",
+      "pexelsQuery": "Paris Eiffel Tower sunset",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Paris, France — Eiffel Tower sunset",
+      "keywords": [
+        "Paris",
+        "France",
+        "Eiffel Tower sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Paris Eiffel Tower sunset",
+      "pexelsQuery": "Paris Eiffel Tower sunset",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Paris, France — Seine river cruise",
+      "keywords": [
+        "Paris",
+        "France",
+        "Seine river cruise",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Paris Seine river cruise",
+      "pexelsQuery": "Paris Seine river cruise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Paris, France — Louvre pyramid",
+      "keywords": [
+        "Paris",
+        "France",
+        "Louvre pyramid",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Paris Louvre pyramid",
+      "pexelsQuery": "Paris Louvre pyramid",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Paris, France — Eiffel Tower sunset",
+      "keywords": [
+        "Paris",
+        "France",
+        "Eiffel Tower sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Paris Eiffel Tower sunset",
+      "pexelsQuery": "Paris Eiffel Tower sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Paris, France — Seine river cruise",
+      "keywords": [
+        "Paris",
+        "France",
+        "Seine river cruise",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Paris Seine river cruise",
+      "pexelsQuery": "Paris Seine river cruise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Paris, France — Louvre pyramid",
+      "keywords": [
+        "Paris",
+        "France",
+        "Louvre pyramid",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Paris Louvre pyramid",
+      "pexelsQuery": "Paris Louvre pyramid",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Paris, France — Montmartre cobblestone streets",
+      "keywords": [
+        "Paris",
+        "France",
+        "Montmartre cobblestone streets",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Paris Montmartre cobblestone streets",
+      "pexelsQuery": "Paris Montmartre cobblestone streets",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Paris, France — Eiffel Tower (summit access)",
+      "keywords": [
+        "Paris",
+        "France",
+        "Eiffel Tower (summit access)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Paris Eiffel Tower (summit access)",
+      "pexelsQuery": "Paris Eiffel Tower (summit access)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Paris, France — Louvre Museum",
+      "keywords": [
+        "Paris",
+        "France",
+        "Louvre Museum",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Paris Louvre Museum",
+      "pexelsQuery": "Paris Louvre Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Paris, France — Palace of Versailles",
+      "keywords": [
+        "Paris",
+        "France",
+        "Palace of Versailles",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Paris Palace of Versailles",
+      "pexelsQuery": "Paris Palace of Versailles",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Paris, France — Musée d'Orsay",
+      "keywords": [
+        "Paris",
+        "France",
+        "Musée d'Orsay",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Paris Musée d'Orsay",
+      "pexelsQuery": "Paris Musée d'Orsay",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-paris-3-1",
+      "author": "Yuki Garcia",
+      "country": "New Zealand",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-01-29",
+      "title": "Best vacation we've had",
+      "body": "Montmartre streets alone was worth the trip, but combined with Musée d'Orsay this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-2",
+      "author": "Nadia Wang",
+      "country": "Italy",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-05-17",
+      "title": "Highly recommend this package",
+      "body": "Paris is stunning and this package covered the essentials well, especially Père Lachaise Cemetery. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-3",
+      "author": "Marco Sharma",
+      "country": "Netherlands",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-09-18",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Luxembourg Gardens and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-4",
+      "author": "David Cohen",
+      "country": "United Kingdom",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-27",
+      "title": "Great for families with kids",
+      "body": "Paris is stunning and this package covered the essentials well, especially Louvre Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-5",
+      "author": "Chen Silva",
+      "country": "Singapore",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-27",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a solo trip and it was well paced. Seine River Cruise (Bateaux-Mouches) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-6",
+      "author": "Priya Fernandez",
+      "country": "Singapore",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-06-25",
+      "title": "Loved every moment",
+      "body": "Booked this as a couple trip and it was well paced. Seine River Cruise (Bateaux-Mouches) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-7",
+      "author": "Isabella Rossi",
+      "country": "Spain",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-12-19",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Canal Saint-Martin and Louvre Museum. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-8",
+      "author": "David Smith",
+      "country": "South Africa",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-06-01",
+      "title": "Best vacation we've had",
+      "body": "Paris is stunning and this package covered the essentials well, especially Sacré-Cœur Basilica. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-paris-3-9",
+      "author": "Lukas Patel",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-05-27",
+      "title": "Beautiful destination, well organized",
+      "body": "Paris is stunning and this package covered the essentials well, especially Luxembourg Gardens. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-10",
+      "author": "Anna Santos",
+      "country": "Switzerland",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-03",
+      "title": "Exceeded our expectations",
+      "body": "Paris is stunning and this package covered the essentials well, especially Le Marais district. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-11",
+      "author": "Emma Johnson",
+      "country": "South Africa",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-05-12",
+      "title": "Great for families with kids",
+      "body": "Our trip to Paris was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Sacré-Cœur Basilica was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-12",
+      "author": "Olivia Botha",
+      "country": "Singapore",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-24",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Paris was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Seine River Cruise (Bateaux-Mouches) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-paris-3-13",
+      "author": "Hiroshi Nguyen",
+      "country": "Canada",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-09-20",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Palace of Versailles alone was worth the trip, but combined with Montmartre streets this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-14",
+      "author": "James Brown",
+      "country": "Canada",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-06-21",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Paris was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Palace of Versailles was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-15",
+      "author": "Liam Rossi",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-27",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Paris was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Centre Pompidou was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-16",
+      "author": "Isabella Ivanov",
+      "country": "UAE",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-01",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Centre Pompidou and Pont Alexandre III. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-17",
+      "author": "Fatima Brown",
+      "country": "Switzerland",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-16",
+      "title": "Great for families with kids",
+      "body": "Le Marais district alone was worth the trip, but combined with Sainte-Chapelle this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-paris-3-18",
+      "author": "Tom Wang",
+      "country": "South Korea",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-12-14",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Musée Rodin and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-19",
+      "author": "Noah Nguyen",
+      "country": "Netherlands",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-02-10",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Paris was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Luxembourg Gardens was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-paris-3-20",
+      "author": "Wei Sharma",
+      "country": "United Kingdom",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-05-05",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a group trip and it was well paced. Louvre Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.2,
+    "hotel": 4.3,
+    "transportation": 4.2,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.3,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Paris Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 17,
+      "neighborhood": "Champs-Élysées"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Paris Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 30,
+      "neighborhood": "Le Marais boutiques"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Paris Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 56,
+      "neighborhood": "Galeries Lafayette"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Paris Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 72,
+      "neighborhood": "Rue Saint-Honoré"
+    },
+    {
+      "tier": "Resort",
+      "name": "Paris Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 140,
+      "neighborhood": "Marché aux Puces de Saint-Ouen"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Paris Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 231,
+      "neighborhood": "Le Perchoir rooftop bar"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Paris Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 275,
+      "neighborhood": "Moulin Rouge"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        498,
+        791
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        510,
+        810
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        101,
+        161
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        111,
+        177
+      ],
+      "estimatedFlightHours": 1.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        156,
+        248
+      ],
+      "estimatedFlightHours": 2.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        153,
+        243
+      ],
+      "estimatedFlightHours": 2.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        108,
+        171
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        111,
+        177
+      ],
+      "estimatedFlightHours": 1.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1302,
+        2068
+      ],
+      "estimatedFlightHours": 23.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1416,
+        2249
+      ],
+      "estimatedFlightHours": 25.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        553,
+        878
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        779,
+        1237
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        724,
+        1150
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        852,
+        1353
+      ],
+      "estimatedFlightHours": 15.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        759,
+        1206
+      ],
+      "estimatedFlightHours": 13.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        830,
+        1318
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        914,
+        1451
+      ],
+      "estimatedFlightHours": 16.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        853,
+        1354
+      ],
+      "estimatedFlightHours": 15.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        808,
+        1283
+      ],
+      "estimatedFlightHours": 14.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        456,
+        724
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        415,
+        659
+      ],
+      "estimatedFlightHours": 7.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        436,
+        693
+      ],
+      "estimatedFlightHours": 7.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        394,
+        626
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        707,
+        1123
+      ],
+      "estimatedFlightHours": 12.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        756,
+        1200
+      ],
+      "estimatedFlightHours": 13.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Charles de Gaulle Airport (CDG)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        741,
+        1177
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Eiffel Tower (summit access)",
+    "Louvre Museum",
+    "Palace of Versailles",
+    "Musée d'Orsay",
+    "Sainte-Chapelle",
+    "Arc de Triomphe rooftop",
+    "Catacombs of Paris",
+    "Centre Pompidou",
+    "Seine River Cruise (Bateaux-Mouches)",
+    "Musée Rodin",
+    "Disneyland Paris",
+    "Notre-Dame Cathedral exterior",
+    "Sacré-Cœur Basilica",
+    "Montmartre streets",
+    "Luxembourg Gardens",
+    "Le Marais district",
+    "Champs-Élysées",
+    "Pont Alexandre III",
+    "Père Lachaise Cemetery",
+    "Canal Saint-Martin",
+    "Giverny (Monet's Garden)",
+    "Château de Fontainebleau",
+    "Tuileries Garden",
+    "Bois de Boulogne",
+    "Parc des Buttes-Chaumont",
+    "Trocadéro Eiffel Tower view",
+    "Rue Crémieux colorful houses",
+    "Montmartre staircases",
+    "Palais Royal columns"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Eiffel Tower (summit access)",
+      "priceUSD": 30
+    },
+    {
+      "name": "Louvre Museum",
+      "priceUSD": 22
+    },
+    {
+      "name": "Palace of Versailles",
+      "priceUSD": 21
+    },
+    {
+      "name": "Musée d'Orsay",
+      "priceUSD": 17
+    },
+    {
+      "name": "Sainte-Chapelle",
+      "priceUSD": 13
+    },
+    {
+      "name": "Arc de Triomphe rooftop",
+      "priceUSD": 14
+    },
+    {
+      "name": "Catacombs of Paris",
+      "priceUSD": 16
+    },
+    {
+      "name": "Centre Pompidou",
+      "priceUSD": 16
+    },
+    {
+      "name": "Seine River Cruise (Bateaux-Mouches)",
+      "priceUSD": 18
+    },
+    {
+      "name": "Musée Rodin",
+      "priceUSD": 14
+    },
+    {
+      "name": "Disneyland Paris",
+      "priceUSD": 65
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Notre-Dame Cathedral exterior",
+    "Sacré-Cœur Basilica",
+    "Montmartre streets",
+    "Luxembourg Gardens",
+    "Le Marais district",
+    "Champs-Élysées",
+    "Pont Alexandre III",
+    "Père Lachaise Cemetery",
+    "Canal Saint-Martin"
+  ],
+  "museums": [
+    "Louvre Museum",
+    "Musée d'Orsay",
+    "Centre Pompidou",
+    "Musée Rodin"
+  ],
+  "parks": [
+    "Luxembourg Gardens",
+    "Tuileries Garden",
+    "Bois de Boulogne",
+    "Parc des Buttes-Chaumont"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Palace of Versailles",
+    "Giverny (Monet's Garden)",
+    "Disneyland Paris",
+    "Château de Fontainebleau"
+  ],
+  "fromPriceUSD": 1042,
+  "seo": {
+    "title": "Paris 3-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "paris-3-day-package",
+    "keywords": [
+      "Paris",
+      "France",
+      "Paris, France",
+      "Western Europe",
+      "Paris tour package",
+      "Paris vacation package",
+      "Paris holiday package",
+      "things to do in Paris",
+      "best time to visit Paris",
+      "Paris itinerary",
+      "3 day Paris itinerary",
+      "Paris flights and hotels",
+      "Paris all inclusive package",
+      "cheap Paris package",
+      "luxury Paris package"
+    ],
+    "canonicalUrl": "/packages/paris-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Paris Package",
+        "url": "/packages/paris-2-day-package"
+      },
+      {
+        "title": "5-Day Paris Package",
+        "url": "/packages/paris-5-day-package"
+      },
+      {
+        "title": "Rome 3-Day City Break",
+        "url": "/packages/rome-3-day-package"
+      },
+      {
+        "title": "Venice 3-Day Romantic Getaway",
+        "url": "/packages/venice-3-day-package"
+      },
+      {
+        "title": "Florence 3-Day Cultural Tour",
+        "url": "/packages/florence-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Paris — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Paris"
+      },
+      {
+        "title": "Paris — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Paris"
+      }
+    ]
+  }
+}

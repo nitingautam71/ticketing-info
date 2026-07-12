@@ -1,0 +1,1738 @@
+{
+  "id": "PKG-goa-14D",
+  "slug": "goa-14-day-package",
+  "destinationSlug": "goa",
+  "destinationName": "Goa",
+  "country": "India",
+  "region": "South Asia",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Goa 14-Day Beach Getaway",
+  "metaTitle": "Goa 14-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Goa, India: round-trip flights, hotel, breakfast, transfers, and guided tours including Dudhsagar Waterfalls jeep safari and Spice plantation tour with traditional lunch. Prices from $1813 per person (estimate).",
+  "highlights": [
+    "Dudhsagar Waterfalls jeep safari",
+    "Spice plantation tour with traditional lunch",
+    "Baga Beach",
+    "Scuba diving at Grand Island",
+    "Sunset cruise on the Mandovi River",
+    "Dudhsagar Waterfalls"
+  ],
+  "overview": "Spend 14 days discovering Goa, India — Tropical climate with a hot, humid monsoon season (Jun-Sep) bringing heavy rainfall, and a warm, dry winter season (Nov-Feb) that is peak tourist season. November to February for cool, dry, sunny weather ideal for beaches and sightseeing. This itinerary blends Dudhsagar Waterfalls jeep safari, Spice plantation tour with traditional lunch, Baga Beach with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Dudhsagar Waterfalls jeep safari, Spice plantation tour with traditional lunch, Baga Beach",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Goa",
+      "description": "Land at Manohar International Airport / Dabolim Airport (GOI) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Dudhsagar Waterfalls jeep safari — Off-road trip to one of India's tallest waterfalls. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Dudhsagar Waterfalls jeep safari"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 2,
+      "title": "Goa: Spice plantation tour with traditional lunch & Big Foot Museum & crafts village",
+      "description": "Morning visit to Spice plantation tour with traditional lunch — Guided walk through a working spice farm. In the afternoon, continue to Big Foot Museum & crafts village — Goan rural life museum and craft demonstrations. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Spice plantation tour with traditional lunch",
+        "Big Foot Museum & crafts village"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 3,
+      "title": "Goa: Casino cruise on the Mandovi River & Grand Island scuba diving trip",
+      "description": "Morning visit to Casino cruise on the Mandovi River — Floating casino boat experience. In the afternoon, continue to Grand Island scuba diving trip — Boat trip with beginner scuba diving. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Casino cruise on the Mandovi River",
+        "Grand Island scuba diving trip"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Dudhsagar Waterfalls",
+      "description": "Full-day excursion to Dudhsagar Waterfalls, a popular side trip from Goa. Return to Goa in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Dudhsagar Waterfalls",
+        "Free evening"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Butterfly Beach — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Butterfly Beach"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 6,
+      "title": "Goa: Butterfly Beach boat trip & Goa State Museum",
+      "description": "Morning visit to Butterfly Beach boat trip — Boat excursion to a secluded cove. In the afternoon, continue to Goa State Museum — Regional art, sculpture, and history collection. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Butterfly Beach boat trip",
+        "Goa State Museum"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Old Goa churches",
+      "description": "Full-day excursion to Old Goa churches, a popular side trip from Goa. Return to Goa in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Old Goa churches",
+        "Free evening"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 8,
+      "title": "Goa: Naval Aviation Museum & Basilica of Bom Jesus",
+      "description": "Morning visit to Naval Aviation Museum — Indian Navy aircraft and aviation history. In the afternoon, continue to Basilica of Bom Jesus — UNESCO baroque church holding relics of St. Francis Xavier. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Naval Aviation Museum",
+        "Basilica of Bom Jesus"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Cotigao Wildlife Sanctuary — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Cotigao Wildlife Sanctuary"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Divar Island",
+      "description": "Full-day excursion to Divar Island, a popular side trip from Goa. Return to Goa in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Divar Island",
+        "Free evening"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 11,
+      "title": "Goa: Fort Aguada lighthouse & Baga Beach",
+      "description": "Morning visit to Fort Aguada lighthouse — 17th-century Portuguese fort and lighthouse. In the afternoon, continue to Baga Beach — Popular North Goa beach with water sports. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Fort Aguada lighthouse",
+        "Baga Beach"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 12,
+      "title": "Goa: Anjuna Flea Market & Chapora Fort ruins",
+      "description": "Morning visit to Anjuna Flea Market — Famous Wednesday market of crafts and clothing. In the afternoon, continue to Chapora Fort ruins — Hilltop fort overlooking the coast. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Anjuna Flea Market",
+        "Chapora Fort ruins"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Divar Island — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Divar Island"
+      ],
+      "overnight": "Goa"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Se Cathedral exterior or some souvenir shopping — before your private transfer to GOI for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Rent a scooter for easy beach-hopping, but wear a helmet and carry an international license",
+    "Visit North Goa for nightlife and South Goa for quieter, upscale beaches",
+    "Avoid the monsoon season (Jun-Sep) for swimming due to rough seas",
+    "Bargain at flea markets but stay respectful",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Lightweight breathable clothing for year-round heat",
+    "Modest cover-up clothing for temple and church visits",
+    "Reef-safe sunscreen for beach days",
+    "Insect repellent for evenings near paddy fields and forests"
+  ],
+  "thingsToDo": [
+    "Dudhsagar Waterfalls jeep safari",
+    "Spice plantation tour with traditional lunch",
+    "Big Foot Museum & crafts village",
+    "Casino cruise on the Mandovi River",
+    "Grand Island scuba diving trip",
+    "Butterfly Beach boat trip",
+    "Goa State Museum",
+    "Naval Aviation Museum",
+    "Basilica of Bom Jesus",
+    "Fort Aguada lighthouse",
+    "Baga Beach",
+    "Anjuna Flea Market",
+    "Chapora Fort ruins",
+    "Se Cathedral exterior",
+    "Fontainhas Latin Quarter",
+    "Palolem Beach",
+    "Arambol Beach",
+    "Scuba diving at Grand Island",
+    "Parasailing at Baga Beach",
+    "Trekking to Dudhsagar Waterfalls"
+  ],
+  "thingsToAvoid": [
+    "Swimming during monsoon season when rip currents are dangerous and lifeguard coverage drops",
+    "Riding a scooter without a helmet or license — police checks are common",
+    "Public nudity or topless sunbathing, which is illegal",
+    "Overpaying unlicensed taxi drivers — negotiate or use ride apps"
+  ],
+  "topRestaurants": [
+    "Fisherman's Wharf — Goan seafood ($$)",
+    "Vinayak Family Restaurant — Goan seafood thali ($)",
+    "Gunpowder — South Indian and Goan ($$)",
+    "Martin's Corner — Traditional Goan ($$)",
+    "Curlie's Beach Shack (Anjuna) — Goan and international ($$)",
+    "Britto's (Baga Beach) — Goan seafood ($$)",
+    "Souza Lobo (Calangute) — Goan seafood ($$)",
+    "Ritz Classic — Goan-Portuguese ($)"
+  ],
+  "topCafes": [
+    "Cafe Chocolatti",
+    "Artjuna Cafe",
+    "Bean Me Up",
+    "Baba Au Rhum"
+  ],
+  "shoppingAreas": [
+    "Anjuna Flea Market",
+    "Mapusa Municipal Market",
+    "Saturday Night Market Arpora",
+    "18th June Road Panaji"
+  ],
+  "nightlife": [
+    "Tito's Lane Baga",
+    "Curlie's Anjuna",
+    "Sunburn Festival grounds",
+    "Cafe Mambo's"
+  ],
+  "instagramSpots": [
+    "Fort Aguada lighthouse",
+    "Chapora Fort at sunset",
+    "Palolem Beach crescent bay",
+    "Fontainhas colorful Portuguese houses",
+    "Dudhsagar Waterfalls"
+  ],
+  "hiddenGems": [
+    "Butterfly Beach",
+    "Cotigao Wildlife Sanctuary",
+    "Divar Island",
+    "Cabo de Rama Fort"
+  ],
+  "familyActivities": [
+    "Big Foot Museum & crafts village",
+    "Spice plantation tour",
+    "Dudhsagar Waterfalls trip",
+    "Naval Aviation Museum"
+  ],
+  "adventureActivities": [
+    "Scuba diving at Grand Island",
+    "Parasailing at Baga Beach",
+    "Trekking to Dudhsagar Waterfalls",
+    "Kayaking in the backwaters"
+  ],
+  "luxuryExperiences": [
+    "Beachfront villa stay at a five-star South Goa resort",
+    "Private yacht cruise on the Mandovi River",
+    "Ayurvedic spa retreat",
+    "Private candlelit dinner on the beach"
+  ],
+  "honeymoonExperiences": [
+    "Sunset cruise on the Mandovi River",
+    "Private beach dinner in South Goa",
+    "Couples Ayurvedic spa treatment",
+    "Secluded stay in a Palolem beach villa"
+  ],
+  "budgetExperiences": [
+    "Free beach days at Baga or Calangute",
+    "Anjuna Flea Market browsing",
+    "Self-guided Fontainhas walking tour",
+    "Budget guesthouse-hopping between beach towns"
+  ],
+  "estimatedDailyBudgetUSD": [
+    22,
+    60,
+    140,
+    320
+  ],
+  "safetyRating": 3,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 40,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 32,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 33,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 33,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 33,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 29,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 29,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 30,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 33,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 32,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Goa Carnival",
+      "timing": "February"
+    },
+    {
+      "name": "Shigmo Festival (Hindu spring festival)",
+      "timing": "March"
+    },
+    {
+      "name": "Feast of St. Francis Xavier (Old Goa)",
+      "timing": "December 3"
+    },
+    {
+      "name": "Sunburn Festival (electronic music)",
+      "timing": "December"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "108",
+    "fire": "101"
+  },
+  "localEtiquette": [
+    "Dress modestly away from beaches, especially at temples and churches (cover shoulders and knees).",
+    "Remove shoes before entering temples and some traditional homes.",
+    "Nudity and topless sunbathing are illegal and culturally offensive.",
+    "Bargain politely at markets rather than aggressively.",
+    "Respect Goa's blended Hindu-Catholic-Portuguese heritage in dress and conduct at religious sites."
+  ],
+  "localTransportGuide": "Renting a scooter or motorbike is the most popular way to get around Goa's beach towns, though an international driving permit and helmet are strongly advised. Uber and Ola operate in the main towns, and hired taxis are common for day trips to further-flung sights like Dudhsagar Falls.",
+  "bestTimeToVisit": "November to February for cool, dry, sunny weather ideal for beaches and sightseeing.",
+  "weather": "Tropical climate with a hot, humid monsoon season (Jun-Sep) bringing heavy rainfall, and a warm, dry winter season (Nov-Feb) that is peak tourist season.",
+  "visaInformation": "India requires an e-Visa for most foreign nationalities (excluding SAARC countries under separate arrangements), applied for online before arrival and typically valid for stays of 30-90 days depending on the category; the passport must have at least six months' validity.",
+  "currency": "INR",
+  "languages": [
+    "Konkani",
+    "English",
+    "Hindi"
+  ],
+  "timeZone": "IST (UTC+5:30)",
+  "averageFlightTime": "~9.9h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Goa?",
+      "answer": "India requires an e-Visa for most foreign nationalities (excluding SAARC countries under separate arrangements), applied for online before arrival and typically valid for stays of 30-90 days depending on the category; the passport must have at least six months' validity."
+    },
+    {
+      "question": "What is the best time to visit Goa?",
+      "answer": "November to February for cool, dry, sunny weather ideal for beaches and sightseeing. Tropical climate with a hot, humid monsoon season (Jun-Sep) bringing heavy rainfall, and a warm, dry winter season (Nov-Feb) that is peak tourist season."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Goa safe for tourists?",
+      "answer": "Goa is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Goa?",
+      "answer": "The local currency is INR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Goa is one of our most-booked honeymoon destinations, especially the Sunset cruise on the Mandovi River experience."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Nightlife",
+    "Culture",
+    "History",
+    "Honeymoon",
+    "Adventure",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Goa",
+    "India",
+    "Goa, India",
+    "South Asia",
+    "Goa tour package",
+    "Goa vacation package",
+    "Goa holiday package",
+    "things to do in Goa",
+    "best time to visit Goa",
+    "Goa itinerary",
+    "14 day Goa itinerary",
+    "Goa flights and hotels",
+    "Goa all inclusive package",
+    "cheap Goa package",
+    "luxury Goa package",
+    "Goa honeymoon package",
+    "Goa family vacation",
+    "Goa solo trip",
+    "Goa group tour",
+    "Goa weekend getaway",
+    "Goa guided tour",
+    "GOI flights",
+    "Goa travel guide",
+    "book Goa trip online",
+    "Goa trip cost",
+    "Goa packages 14 days",
+    "Goa beach",
+    "Goa nightlife",
+    "Goa culture",
+    "Goa history",
+    "Goa honeymoon",
+    "Goa adventure",
+    "Goa bucket list",
+    "Dudhsagar Waterfalls jeep safari",
+    "Spice plantation tour with traditional lunch",
+    "Big Foot Museum & crafts village",
+    "Casino cruise on the Mandovi River",
+    "Grand Island scuba diving trip",
+    "Butterfly Beach boat trip",
+    "Goa State Museum",
+    "Naval Aviation Museum",
+    "Basilica of Bom Jesus",
+    "Fort Aguada lighthouse",
+    "Baga Beach",
+    "Anjuna Flea Market",
+    "Chapora Fort ruins",
+    "Se Cathedral exterior",
+    "Fontainhas Latin Quarter",
+    "Palolem Beach",
+    "Arambol Beach"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Goa, India — Goa beach sunset palm trees",
+      "keywords": [
+        "Goa",
+        "India",
+        "Goa beach sunset palm trees",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Goa Goa beach sunset palm trees",
+      "pexelsQuery": "Goa Goa beach sunset palm trees",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Goa, India — Goa beach sunset palm trees",
+      "keywords": [
+        "Goa",
+        "India",
+        "Goa beach sunset palm trees",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Goa Goa beach sunset palm trees",
+      "pexelsQuery": "Goa Goa beach sunset palm trees",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Goa, India — Fort Aguada lighthouse",
+      "keywords": [
+        "Goa",
+        "India",
+        "Fort Aguada lighthouse",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Goa Fort Aguada lighthouse",
+      "pexelsQuery": "Goa Fort Aguada lighthouse",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Goa, India — Palolem Beach crescent bay",
+      "keywords": [
+        "Goa",
+        "India",
+        "Palolem Beach crescent bay",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Goa Palolem Beach crescent bay",
+      "pexelsQuery": "Goa Palolem Beach crescent bay",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Goa, India — Goa beach sunset palm trees",
+      "keywords": [
+        "Goa",
+        "India",
+        "Goa beach sunset palm trees",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Goa Goa beach sunset palm trees",
+      "pexelsQuery": "Goa Goa beach sunset palm trees",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Goa, India — Fort Aguada lighthouse",
+      "keywords": [
+        "Goa",
+        "India",
+        "Fort Aguada lighthouse",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Goa Fort Aguada lighthouse",
+      "pexelsQuery": "Goa Fort Aguada lighthouse",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Goa, India — Palolem Beach crescent bay",
+      "keywords": [
+        "Goa",
+        "India",
+        "Palolem Beach crescent bay",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Goa Palolem Beach crescent bay",
+      "pexelsQuery": "Goa Palolem Beach crescent bay",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Goa, India — Fontainhas Portuguese houses",
+      "keywords": [
+        "Goa",
+        "India",
+        "Fontainhas Portuguese houses",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Goa Fontainhas Portuguese houses",
+      "pexelsQuery": "Goa Fontainhas Portuguese houses",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Goa, India — Dudhsagar Waterfalls jeep safari",
+      "keywords": [
+        "Goa",
+        "India",
+        "Dudhsagar Waterfalls jeep safari",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Goa Dudhsagar Waterfalls jeep safari",
+      "pexelsQuery": "Goa Dudhsagar Waterfalls jeep safari",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Goa, India — Spice plantation tour with traditional lunch",
+      "keywords": [
+        "Goa",
+        "India",
+        "Spice plantation tour with traditional lunch",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Goa Spice plantation tour with traditional lunch",
+      "pexelsQuery": "Goa Spice plantation tour with traditional lunch",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Goa, India — Big Foot Museum & crafts village",
+      "keywords": [
+        "Goa",
+        "India",
+        "Big Foot Museum & crafts village",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Goa Big Foot Museum & crafts village",
+      "pexelsQuery": "Goa Big Foot Museum & crafts village",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Goa, India — Casino cruise on the Mandovi River",
+      "keywords": [
+        "Goa",
+        "India",
+        "Casino cruise on the Mandovi River",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Goa Casino cruise on the Mandovi River",
+      "pexelsQuery": "Goa Casino cruise on the Mandovi River",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-goa-14-1",
+      "author": "Noah Patel",
+      "country": "United States",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-01-10",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Goa was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Dudhsagar Waterfalls jeep safari was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-2",
+      "author": "Sofia Cohen",
+      "country": "Saudi Arabia",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-19",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a couple trip and it was well paced. Fontainhas Latin Quarter in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-3",
+      "author": "Wei Costa",
+      "country": "United States",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-15",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a family of 4 trip and it was well paced. Dudhsagar Waterfalls jeep safari in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-4",
+      "author": "Sarah Patel",
+      "country": "Netherlands",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-04",
+      "title": "Highly recommend this package",
+      "body": "Goa is stunning and this package covered the essentials well, especially Chapora Fort ruins. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-5",
+      "author": "Yuki van Dijk",
+      "country": "New Zealand",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-04-20",
+      "title": "Perfect for our honeymoon",
+      "body": "Anjuna Flea Market alone was worth the trip, but combined with Casino cruise on the Mandovi River this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-6",
+      "author": "Mia Larsen",
+      "country": "Brazil",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-02-13",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Fort Aguada lighthouse and Anjuna Flea Market. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-goa-14-7",
+      "author": "Emma Kowalski",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-04-04",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Goa was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Goa State Museum was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-8",
+      "author": "Yuki Ivanov",
+      "country": "New Zealand",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-04-30",
+      "title": "A little rushed but still wonderful",
+      "body": "Anjuna Flea Market alone was worth the trip, but combined with Big Foot Museum & crafts village this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-9",
+      "author": "Emma Brown",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-06-01",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Goa was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Basilica of Bom Jesus was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-10",
+      "author": "Wei Nguyen",
+      "country": "Spain",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-02-21",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a couple trip and it was well paced. Arambol Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-11",
+      "author": "Ethan Khan",
+      "country": "South Korea",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-01-07",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Naval Aviation Museum and Butterfly Beach boat trip. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-12",
+      "author": "Emma Cohen",
+      "country": "India",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-01-20",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Goa was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Butterfly Beach boat trip was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-13",
+      "author": "Sarah Müller",
+      "country": "United Kingdom",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-09-10",
+      "title": "So many hidden gems included",
+      "body": "Goa is stunning and this package covered the essentials well, especially Spice plantation tour with traditional lunch. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-goa-14-14",
+      "author": "Elena Dubois",
+      "country": "Italy",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-08-29",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Palolem Beach and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-15",
+      "author": "Nadia Andersen",
+      "country": "Brazil",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-02-19",
+      "title": "Best vacation we've had",
+      "body": "Goa is stunning and this package covered the essentials well, especially Fort Aguada lighthouse. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-16",
+      "author": "Arjun Santos",
+      "country": "UAE",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-19",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a group trip and it was well paced. Goa State Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-17",
+      "author": "David van Dijk",
+      "country": "Saudi Arabia",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-08-27",
+      "title": "A little rushed but still wonderful",
+      "body": "Goa is stunning and this package covered the essentials well, especially Se Cathedral exterior. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-18",
+      "author": "Tom Fernandez",
+      "country": "Australia",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-12",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Casino cruise on the Mandovi River and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-19",
+      "author": "Lucas Patel",
+      "country": "Japan",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-12-12",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Basilica of Bom Jesus and Goa State Museum. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-goa-14-20",
+      "author": "Sarah Brown",
+      "country": "Japan",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-07",
+      "title": "Exceeded our expectations",
+      "body": "Goa is stunning and this package covered the essentials well, especially Fort Aguada lighthouse. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.4,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Goa Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 5,
+      "neighborhood": "Anjuna Flea Market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Goa Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 9,
+      "neighborhood": "Mapusa Municipal Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Goa Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 21,
+      "neighborhood": "Saturday Night Market Arpora"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Goa Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 27,
+      "neighborhood": "18th June Road Panaji"
+    },
+    {
+      "tier": "Resort",
+      "name": "Goa Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 70,
+      "neighborhood": "Tito's Lane Baga"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Goa Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 134,
+      "neighborhood": "Curlie's Anjuna"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Goa Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "Sunburn Festival grounds"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1014,
+        1611
+      ],
+      "estimatedFlightHours": 18.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1011,
+        1605
+      ],
+      "estimatedFlightHours": 18.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        626,
+        994
+      ],
+      "estimatedFlightHours": 11,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        611,
+        971
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        580,
+        921
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        549,
+        872
+      ],
+      "estimatedFlightHours": 9.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        647,
+        1027
+      ],
+      "estimatedFlightHours": 11.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        601,
+        954
+      ],
+      "estimatedFlightHours": 10.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        577,
+        917
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        785,
+        1246
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        940,
+        1493
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        186,
+        296
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        570,
+        905
+      ],
+      "estimatedFlightHours": 10,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        490,
+        779
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        337,
+        536
+      ],
+      "estimatedFlightHours": 5.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        282,
+        448
+      ],
+      "estimatedFlightHours": 4.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        315,
+        501
+      ],
+      "estimatedFlightHours": 5.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        389,
+        618
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        439,
+        698
+      ],
+      "estimatedFlightHours": 7.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        333,
+        529
+      ],
+      "estimatedFlightHours": 5.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        239,
+        379
+      ],
+      "estimatedFlightHours": 3.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        297,
+        471
+      ],
+      "estimatedFlightHours": 4.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        264,
+        420
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        301,
+        478
+      ],
+      "estimatedFlightHours": 4.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        567,
+        900
+      ],
+      "estimatedFlightHours": 9.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1072,
+        1702
+      ],
+      "estimatedFlightHours": 19.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Manohar International Airport / Dabolim Airport (GOI)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1238,
+        1967
+      ],
+      "estimatedFlightHours": 22.5,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Dudhsagar Waterfalls jeep safari",
+    "Spice plantation tour with traditional lunch",
+    "Big Foot Museum & crafts village",
+    "Casino cruise on the Mandovi River",
+    "Grand Island scuba diving trip",
+    "Butterfly Beach boat trip",
+    "Goa State Museum",
+    "Naval Aviation Museum",
+    "Basilica of Bom Jesus",
+    "Fort Aguada lighthouse",
+    "Baga Beach",
+    "Anjuna Flea Market",
+    "Chapora Fort ruins",
+    "Se Cathedral exterior",
+    "Fontainhas Latin Quarter",
+    "Palolem Beach",
+    "Arambol Beach",
+    "Dudhsagar Waterfalls",
+    "Old Goa churches",
+    "Divar Island",
+    "Chapora Fort and Vagator",
+    "Big Foot Museum",
+    "Cotigao Wildlife Sanctuary",
+    "Bhagwan Mahavir Wildlife Sanctuary",
+    "Salim Ali Bird Sanctuary",
+    "Anjuna Beach",
+    "Calangute Beach",
+    "Chapora Fort at sunset",
+    "Palolem Beach crescent bay",
+    "Fontainhas colorful Portuguese houses"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Dudhsagar Waterfalls jeep safari",
+      "priceUSD": 35
+    },
+    {
+      "name": "Spice plantation tour with traditional lunch",
+      "priceUSD": 20
+    },
+    {
+      "name": "Big Foot Museum & crafts village",
+      "priceUSD": 5
+    },
+    {
+      "name": "Casino cruise on the Mandovi River",
+      "priceUSD": 30
+    },
+    {
+      "name": "Grand Island scuba diving trip",
+      "priceUSD": 60
+    },
+    {
+      "name": "Butterfly Beach boat trip",
+      "priceUSD": 25
+    },
+    {
+      "name": "Goa State Museum",
+      "priceUSD": 2
+    },
+    {
+      "name": "Naval Aviation Museum",
+      "priceUSD": 2
+    },
+    {
+      "name": "Basilica of Bom Jesus",
+      "priceUSD": 1
+    },
+    {
+      "name": "Fort Aguada lighthouse",
+      "priceUSD": 2
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Baga Beach",
+    "Anjuna Flea Market",
+    "Chapora Fort ruins",
+    "Se Cathedral exterior",
+    "Fontainhas Latin Quarter",
+    "Palolem Beach",
+    "Arambol Beach"
+  ],
+  "museums": [
+    "Goa State Museum",
+    "Big Foot Museum",
+    "Naval Aviation Museum"
+  ],
+  "parks": [
+    "Cotigao Wildlife Sanctuary",
+    "Bhagwan Mahavir Wildlife Sanctuary",
+    "Salim Ali Bird Sanctuary"
+  ],
+  "beaches": [
+    "Baga Beach",
+    "Palolem Beach",
+    "Anjuna Beach",
+    "Calangute Beach"
+  ],
+  "dayTrips": [
+    "Dudhsagar Waterfalls",
+    "Old Goa churches",
+    "Divar Island",
+    "Chapora Fort and Vagator"
+  ],
+  "fromPriceUSD": 1813,
+  "seo": {
+    "title": "Goa 14-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "goa-14-day-package",
+    "keywords": [
+      "Goa",
+      "India",
+      "Goa, India",
+      "South Asia",
+      "Goa tour package",
+      "Goa vacation package",
+      "Goa holiday package",
+      "things to do in Goa",
+      "best time to visit Goa",
+      "Goa itinerary",
+      "14 day Goa itinerary",
+      "Goa flights and hotels",
+      "Goa all inclusive package",
+      "cheap Goa package",
+      "luxury Goa package"
+    ],
+    "canonicalUrl": "/packages/goa-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Goa Package",
+        "url": "/packages/goa-10-day-package"
+      },
+      {
+        "title": "7-Day Goa Package",
+        "url": "/packages/goa-7-day-package"
+      },
+      {
+        "title": "Bali 14-Day Beach Getaway",
+        "url": "/packages/bali-14-day-package"
+      },
+      {
+        "title": "Phuket 14-Day Beach Getaway",
+        "url": "/packages/phuket-14-day-package"
+      },
+      {
+        "title": "Rio de Janeiro 14-Day Beach Getaway",
+        "url": "/packages/rio-de-janeiro-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Goa — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Goa"
+      },
+      {
+        "title": "Goa — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Goa"
+      }
+    ]
+  }
+}
