@@ -152,6 +152,7 @@ if (errors.length > 0) {
 
 const prTitle = draft.region ? `[${draft.region}] ${draft.title}` : draft.title;
 writeFileSync(path.join(RUNNER_TEMP, 'blog-title.txt'), prTitle);
+writeFileSync(path.join(RUNNER_TEMP, 'blog-draft-path.txt'), draftPath);
 
 const prBody = [
   `## Daily travel news post - ${TODAY}`,
