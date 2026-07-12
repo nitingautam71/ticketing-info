@@ -106,10 +106,13 @@ if (errors.length > 0) {
   fail(`Draft ${draftPath} failed validation:\n- ${errors.join('\n- ')}`);
 }
 
-writeFileSync(path.join(RUNNER_TEMP, 'blog-title.txt'), draft.title);
+const prTitle = draft.region ? `[${draft.region}] ${draft.title}` : draft.title;
+writeFileSync(path.join(RUNNER_TEMP, 'blog-title.txt'), prTitle);
 
 const prBody = [
   `## Daily travel news post - ${TODAY}`,
+  '',
+  `**Region:** ${draft.region || '(not set)'}`,
   '',
   `**Title:** ${draft.title}`,
   '',
