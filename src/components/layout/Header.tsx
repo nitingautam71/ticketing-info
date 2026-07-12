@@ -20,6 +20,32 @@ export default function Header() {
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
+  const isLandingPage = pathname?.startsWith('/lp/');
+
+  if (isLandingPage) {
+    return (
+      <header className="fixed top-0 inset-x-0 z-50 px-4 md:px-8 h-16 flex items-center justify-between glass shadow-2xl shadow-black/40">
+        <div className="flex items-center gap-2.5">
+          <div className="w-8 h-8 bg-neutral-900 border border-white/10 rounded-lg flex items-center justify-center shadow-lg shadow-black/30">
+            <Plane className="w-5 h-5 text-amber-400 rotate-45" />
+          </div>
+          <span className="text-lg font-extrabold tracking-tight">
+            <span className="text-white">Ticketing-</span>
+            <span className="text-amber-400">info</span>
+          </span>
+        </div>
+        <a
+          href={telLink()}
+          onClick={() => trackEvent('call_click', { source: 'lp_header', page: pathname })}
+          className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-bold bg-emerald-500 text-neutral-950 hover:bg-emerald-400 transition-all shadow-lg shadow-emerald-500/30 cursor-pointer"
+        >
+          <Phone className="w-3.5 h-3.5" />
+          <span>{businessPhoneDisplay() || 'Call Now'}</span>
+        </a>
+      </header>
+    );
+  }
+
   return (
     <>
       <header

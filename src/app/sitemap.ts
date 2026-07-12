@@ -26,6 +26,7 @@ const LANDING_PAGE_ROUTES = [
   '/trains/senior-citizen-train-ticket-discount',
 ];
 
+export const dynamic = 'force-dynamic';
 export const revalidate = 3600;
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
