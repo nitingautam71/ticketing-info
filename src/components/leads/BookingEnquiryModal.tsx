@@ -4,8 +4,10 @@ import { useState } from 'react';
 import { X, Phone, MessageCircle, Send, CheckCircle2, ShieldCheck } from 'lucide-react';
 import type { BookingEnquiryItem } from '@/lib/types';
 import { telLink, whatsappLink, businessPhoneDisplay } from '@/lib/whatsapp';
+import { trackEvent } from '@/lib/analytics';
 
 function pingLead(item: BookingEnquiryItem, contactMethod: 'call' | 'whatsapp') {
+  trackEvent(contactMethod === 'whatsapp' ? 'whatsapp_click' : 'call_click', { source: 'booking_modal', vertical: item.vertical });
   fetch('/api/leads', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -59,6 +61,7 @@ export default function BookingEnquiryModal({ item, onClose }: { item: BookingEn
         }),
       });
       if (!res.ok) throw new Error('Failed to submit enquiry');
+      trackEvent('generate_lead', { method: 'booking_enquiry', vertical: item.vertical });
       setIsSubmitted(true);
     } catch {
       setError('Something went wrong submitting your enquiry. Please call or WhatsApp us directly instead.');
