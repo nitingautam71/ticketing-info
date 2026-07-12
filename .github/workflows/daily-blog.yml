@@ -56,10 +56,12 @@ jobs:
       - name: Generate blog post draft with Claude Code
         id: claude
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Uses the Claude Pro/Max subscription (via `claude setup-token`), not
+          # ANTHROPIC_API_KEY pay-as-you-go billing. --bare is NOT used here because
+          # it forces API-key-only auth and would refuse this token entirely.
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
           claude -p \
-            --bare \
             --output-format json \
             --allowedTools Read Glob Grep WebSearch WebFetch Write \
             --max-budget-usd 3 \
