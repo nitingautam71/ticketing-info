@@ -27,7 +27,7 @@ export default function ContactPage() {
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         <div className="space-y-4">
-          <ContactChannelLink href={telLink()} event="call_click" className="flex items-center gap-4 bg-neutral-900 border border-neutral-800 hover:border-emerald-500/40 rounded-2xl p-5 transition-colors">
+          <ContactChannelLink href={telLink()} event="click_to_call" className="flex items-center gap-4 bg-neutral-900 border border-neutral-800 hover:border-emerald-500/40 rounded-2xl p-5 transition-colors">
             <div className="w-11 h-11 rounded-xl bg-emerald-950/60 border border-emerald-500/30 flex items-center justify-center text-emerald-400 shrink-0">
               <Phone className="w-5 h-5" />
             </div>

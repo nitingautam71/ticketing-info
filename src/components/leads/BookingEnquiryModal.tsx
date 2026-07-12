@@ -7,7 +7,7 @@ import { telLink, whatsappLink, businessPhoneDisplay } from '@/lib/whatsapp';
 import { trackEvent } from '@/lib/analytics';
 
 function pingLead(item: BookingEnquiryItem, contactMethod: 'call' | 'whatsapp') {
-  trackEvent(contactMethod === 'whatsapp' ? 'whatsapp_click' : 'call_click', { source: 'booking_modal', vertical: item.vertical });
+  trackEvent(contactMethod === 'whatsapp' ? 'whatsapp_click' : 'click_to_call', { source: 'booking_modal', vertical: item.vertical });
   fetch('/api/leads', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },

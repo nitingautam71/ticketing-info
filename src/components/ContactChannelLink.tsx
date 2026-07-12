@@ -13,7 +13,7 @@ export default function ContactChannelLink({
   href: string;
   target?: string;
   rel?: string;
-  event: 'call_click' | 'whatsapp_click';
+  event: 'click_to_call' | 'whatsapp_click';
   className?: string;
   children: React.ReactNode;
 }) {
