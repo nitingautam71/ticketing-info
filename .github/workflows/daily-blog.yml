@@ -112,14 +112,30 @@ jobs:
             --body-file "$RUNNER_TEMP/blog-body.md"
 
       # No human review gate, by explicit request: the PR above exists only as a
-      # git history / audit trail record, not a review checkpoint. Merging it here
-      # immediately fires publish-blog-on-merge.yml, which publishes the post live.
+      # git history / audit trail record, not a review checkpoint.
       - name: Auto-merge pull request
+        id: automerge
         if: steps.pr.outcome == 'success'
         env:
           GH_TOKEN: ${{ github.token }}
           TODAY: ${{ steps.date.outputs.today }}
         run: gh pr merge "blog-drafts/$TODAY" --merge --delete-branch
+
+      # publish-blog-on-merge.yml does NOT fire for this merge: GitHub's anti-recursion
+      # protection means a merge performed with the default GITHUB_TOKEN (as above)
+      # never triggers other workflows, only merges done with a real user credential
+      # do (confirmed: it fired correctly for a manually-merged PR, but never ran at
+      # all for this auto-merge step). So this step publishes directly instead of
+      # relying on that trigger.
+      - name: Publish auto-merged post live
+        if: steps.automerge.outcome == 'success'
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          TODAY: ${{ steps.date.outputs.today }}
+        run: |
+          export DRAFT_FILES=$(ls content/blog-drafts/"$TODAY"-*.json)
+          node scripts/blog/publish-draft.mjs
 
       - name: Dry-run summary
         if: >
