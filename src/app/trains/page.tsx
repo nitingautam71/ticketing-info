@@ -4,9 +4,14 @@ import TrainSearch from '@/components/search/TrainSearch';
 import { HERO_COPY } from '@/lib/nav';
 
 export const metadata: Metadata = {
-  title: 'Train Search — High-Speed Rail Routes',
-  description: 'Search high-speed rail and scenic train routes, then book with a real travel consultant.',
+  title: 'Train Tickets — Domestic Rail & Scenic Routes',
+  description:
+    'Book train tickets for domestic rail journeys and scenic international routes, including senior citizen and family fare options, then book with a real travel consultant.',
   alternates: { canonical: '/trains' },
+  openGraph: {
+    title: 'Train Tickets — Domestic Rail & Scenic Routes | Ticketing-Info',
+    description: 'Book train tickets for domestic rail journeys and scenic international routes, then book with a real travel consultant.',
+  },
 };
 
 export default function TrainsPage() {

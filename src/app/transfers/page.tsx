@@ -4,9 +4,13 @@ import TransferSearch from '@/components/search/TransferSearch';
 import { HERO_COPY } from '@/lib/nav';
 
 export const metadata: Metadata = {
-  title: 'Airport Transfers — Private, Shared & Luxury',
-  description: 'Book private, shared, luxury, van, and bus airport transfers, then confirm with a real travel consultant.',
+  title: 'Airport Transfers — Private, Shared & Luxury Rides',
+  description: 'Book private, shared, luxury, van, and bus airport transfers worldwide, then confirm with a real travel consultant.',
   alternates: { canonical: '/transfers' },
+  openGraph: {
+    title: 'Airport Transfers — Private, Shared & Luxury Rides | Ticketing-Info',
+    description: 'Book private, shared, luxury, van, and bus airport transfers, then confirm with a real travel consultant.',
+  },
 };
 
 export default function TransfersPage() {

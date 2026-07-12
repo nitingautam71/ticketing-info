@@ -4,9 +4,15 @@ import FlightSearch from '@/components/search/FlightSearch';
 import { HERO_COPY } from '@/lib/nav';
 
 export const metadata: Metadata = {
-  title: 'Flight Search — Compare Fares & Book with a Consultant',
-  description: 'Search flights across hundreds of routes and cabin classes. Compare fares, stops, and baggage, then book with a real travel consultant.',
+  title: 'Flight Tickets — Domestic & International Fares Compared',
+  description:
+    'Book flight tickets for domestic and international travel. Compare fares, stops, and baggage across hundreds of routes and cabin classes, then book with a real travel consultant.',
   alternates: { canonical: '/flights' },
+  openGraph: {
+    title: 'Flight Tickets — Domestic & International Fares Compared | Ticketing-Info',
+    description:
+      'Book flight tickets for domestic and international travel. Compare fares, stops, and baggage across hundreds of routes, then book with a real travel consultant.',
+  },
 };
 
 export default function FlightsPage() {

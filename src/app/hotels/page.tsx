@@ -4,9 +4,14 @@ import HotelSearch from '@/components/search/HotelSearch';
 import { HERO_COPY } from '@/lib/nav';
 
 export const metadata: Metadata = {
-  title: 'Hotel Search — Compare Stays & Book with a Consultant',
-  description: 'Search hotels worldwide, compare ratings, amenities, and room types, then book with a real travel consultant.',
+  title: 'Hotel Booking — Compare Stays Worldwide',
+  description:
+    'Book hotels worldwide for domestic and international trips. Compare ratings, amenities, and room types, then book with a real travel consultant.',
   alternates: { canonical: '/hotels' },
+  openGraph: {
+    title: 'Hotel Booking — Compare Stays Worldwide | Ticketing-Info',
+    description: 'Book hotels worldwide for domestic and international trips. Compare ratings, amenities, and room types, then book with a real travel consultant.',
+  },
 };
 
 export default function HotelsPage() {

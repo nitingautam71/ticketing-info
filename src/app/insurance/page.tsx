@@ -5,8 +5,12 @@ import { HERO_COPY } from '@/lib/nav';
 
 export const metadata: Metadata = {
   title: 'Travel Insurance — Medical, Cancellation & Baggage Cover',
-  description: 'Compare travel insurance tiers covering medical emergencies, trip cancellation, and lost baggage, then purchase with a real travel consultant.',
+  description: 'Compare travel insurance tiers for domestic and international trips covering medical emergencies, trip cancellation, and lost baggage, then purchase with a real travel consultant.',
   alternates: { canonical: '/insurance' },
+  openGraph: {
+    title: 'Travel Insurance — Medical, Cancellation & Baggage Cover | Ticketing-Info',
+    description: 'Compare travel insurance tiers covering medical emergencies, trip cancellation, and lost baggage, then purchase with a real travel consultant.',
+  },
 };
 
 export default function InsurancePage() {

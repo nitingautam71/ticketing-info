@@ -1,12 +1,18 @@
 import type { Metadata } from 'next';
 import { Phone, MessageCircle, Mail } from 'lucide-react';
 import ContactForm from '@/components/ContactForm';
+import ContactChannelLink from '@/components/ContactChannelLink';
 import { telLink, whatsappLink, businessPhoneDisplay } from '@/lib/whatsapp';
 
 export const metadata: Metadata = {
-  title: 'Contact Us',
-  description: 'Get in touch by phone, WhatsApp, or message — our travel consultants respond fast.',
+  title: 'Contact Us — Flight, Train & Visa Booking Support',
+  description:
+    'Get in touch about flight tickets, train tickets, tour packages, or visa assistance by phone, WhatsApp, or message — our travel consultants respond fast.',
   alternates: { canonical: '/contact' },
+  openGraph: {
+    title: 'Contact Us — Flight, Train & Visa Booking Support | Ticketing-Info',
+    description: 'Get in touch about flight tickets, train tickets, tour packages, or visa assistance by phone, WhatsApp, or message.',
+  },
 };
 
 export default function ContactPage() {
@@ -21,7 +27,7 @@ export default function ContactPage() {
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         <div className="space-y-4">
-          <a href={telLink()} className="flex items-center gap-4 bg-neutral-900 border border-neutral-800 hover:border-emerald-500/40 rounded-2xl p-5 transition-colors">
+          <ContactChannelLink href={telLink()} event="call_click" className="flex items-center gap-4 bg-neutral-900 border border-neutral-800 hover:border-emerald-500/40 rounded-2xl p-5 transition-colors">
             <div className="w-11 h-11 rounded-xl bg-emerald-950/60 border border-emerald-500/30 flex items-center justify-center text-emerald-400 shrink-0">
               <Phone className="w-5 h-5" />
             </div>
@@ -29,9 +35,15 @@ export default function ContactPage() {
               <p className="text-sm font-bold text-white">Call Us</p>
               <p className="text-xs text-neutral-400">{businessPhoneDisplay() || 'Add your business phone number'}</p>
             </div>
-          </a>
+          </ContactChannelLink>
 
-          <a href={whatsappLink("Hi! I'd like to get in touch.")} target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 bg-neutral-900 border border-neutral-800 hover:border-emerald-500/40 rounded-2xl p-5 transition-colors">
+          <ContactChannelLink
+            href={whatsappLink("Hi! I'd like to get in touch.")}
+            target="_blank"
+            rel="noopener noreferrer"
+            event="whatsapp_click"
+            className="flex items-center gap-4 bg-neutral-900 border border-neutral-800 hover:border-emerald-500/40 rounded-2xl p-5 transition-colors"
+          >
             <div className="w-11 h-11 rounded-xl bg-emerald-950/60 border border-emerald-500/30 flex items-center justify-center text-emerald-400 shrink-0">
               <MessageCircle className="w-5 h-5" />
             </div>
@@ -39,7 +51,7 @@ export default function ContactPage() {
               <p className="text-sm font-bold text-white">WhatsApp</p>
               <p className="text-xs text-neutral-400">Fastest way to reach us during business hours</p>
             </div>
-          </a>
+          </ContactChannelLink>
 
           {email && (
             <a href={`mailto:${email}`} className="flex items-center gap-4 bg-neutral-900 border border-neutral-800 hover:border-emerald-500/40 rounded-2xl p-5 transition-colors">
