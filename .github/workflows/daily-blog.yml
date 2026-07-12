@@ -132,9 +132,8 @@ jobs:
         env:
           SITE_URL: ${{ vars.SITE_URL }}
           ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
-          TODAY: ${{ steps.date.outputs.today }}
         run: |
-          export DRAFT_FILES=$(ls content/blog-drafts/"$TODAY"-*.json)
+          export DRAFT_FILES=$(cat "$RUNNER_TEMP/blog-draft-path.txt")
           node scripts/blog/publish-draft.mjs
 
       - name: Dry-run summary
