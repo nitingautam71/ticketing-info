@@ -9,7 +9,7 @@ export default function ThankYouActions() {
     <div className="grid grid-cols-2 gap-3 w-full max-w-sm">
       <a
         href={telLink()}
-        onClick={() => trackEvent('call_click', { source: 'thank_you' })}
+        onClick={() => trackEvent('click_to_call', { source: 'thank_you' })}
         className="flex items-center justify-center gap-2 bg-neutral-900 border border-neutral-800 text-white text-sm font-bold py-3 rounded-xl"
       >
         <Phone className="w-4 h-4 text-emerald-400" /> Call {businessPhoneDisplay()}

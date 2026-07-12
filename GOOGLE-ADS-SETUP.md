@@ -105,33 +105,58 @@ conversion), which you can see once GA4/Ads conversion tracking (below) is live.
 - Once you have 15-30 conversions on a campaign, consider switching that campaign's bidding to **Maximize
   Conversions** (or Target CPA once you know a realistic cost-per-lead number).
 
-## 6. Creating conversion actions + where the IDs go
+## 6. Creating conversion actions
 
-1. Google Ads → **Tools & Settings → Conversions → + New conversion action → Website**.
-2. Create **three** conversion actions: "Lead Form Submission" (primary), "Click to Call", "WhatsApp Click".
-   For each: category "Submit lead form" / "Contact" as appropriate, value "Don't use a value" (or set one
-   once you know average booking value), count "One" (don't count duplicate submits from the same visit).
-3. For each conversion action, open it and copy two things: the **Conversion ID** (shared across your whole
-   account, format `AW-123456789`) and that action's unique **Conversion Label**.
-4. Set these in Vercel (Project Settings → Environment Variables), matching `.env.example`:
-   - `NEXT_PUBLIC_GOOGLE_ADS_ID` = your `AW-XXXXXXXXX` conversion ID (same value for all three).
-   - `NEXT_PUBLIC_GOOGLE_ADS_LABEL_LEAD` = the label from "Lead Form Submission".
-   - `NEXT_PUBLIC_GOOGLE_ADS_LABEL_CALL` = the label from "Click to Call".
-   - `NEXT_PUBLIC_GOOGLE_ADS_LABEL_WHATSAPP` = the label from "WhatsApp Click".
-5. Redeploy (env var changes need a new build to take effect — same as the GA4 setup). Once live:
-   - The lead-form conversion fires once, on `/lp/thank-you` after a successful submission.
-   - Call/WhatsApp conversions fire immediately on click, from every `/lp/*` page (inline buttons + the
-     mobile sticky bar).
-6. Verify with Google Ads' own **Tag Assistant** or the **Google Tag Manager/Ads "Preview"** tool, or check
-   **Google Ads → Conversions** for a "Recording conversions" status a few hours after your first real test
-   submission — don't just trust that the code shipped; confirm a conversion actually recorded.
+Two ways to wire this up — pick based on how your account is set up. If your Google Ads account has its GA4
+property already linked (**Admin → Product Links** shows it), the GA4-import method below is simpler and is
+what this project's conversion actions actually use in practice.
+
+### GA4-import method (used for this account — no env vars needed)
+
+1. Google Ads → **Goals → Conversions → + New conversion action → Website**.
+2. On the source screen, keep **only "Conversions on a website" checked** — uncheck "Conversions from phone
+   calls" (that's Google's call-forwarding-number tracking, which this project doesn't use; click/WhatsApp
+   tracking here is plain link-click events instead).
+3. Category: **"Submit lead form"** for the lead conversion, **"Contact"** for Click-to-Call and WhatsApp.
+4. Each one prompts you to link a Google Analytics event as the trigger:
+   - **Lead Form Submission**: "Create without code" → data stream your site → Event type **"Page load"** →
+     URL contains `/lp/thank-you`. This needs no matching code — the redirect to that page after a
+     successful form submit is the trigger.
+   - **Click to Call** / **WhatsApp Click**: name the event exactly `click_to_call` / `whatsapp_click` (the
+     site's code already sends GA4 events with these exact names on every click) — the specific "how to
+     detect it" wizard option you pick barely matters here, since the real detection comes from the site
+     firing that named event directly, not from the wizard's own trigger config.
+5. Set **Count: "One"** on each (don't count duplicate submits from the same visit).
+6. **No Vercel env vars needed for this method** — Google Ads picks these up automatically through the
+   linked GA4 property once the event names/URLs match. The `NEXT_PUBLIC_GOOGLE_ADS_*` vars in
+   `.env.example` exist for the alternative method below, in case you ever set up a fresh account without a
+   GA4 link and need it.
+
+### Alternative: standalone Ads tag method (if GA4 isn't linked)
+
+If your Ads account has no GA4 link, choose **"Install the tag yourself"** during conversion-action setup
+instead of linking a GA4 event. That reveals a **Conversion ID** (`AW-123456789`) and a unique **Conversion
+Label** per action. Set those in Vercel (Project Settings → Environment Variables):
+- `NEXT_PUBLIC_GOOGLE_ADS_ID` = the `AW-XXXXXXXXX` ID (same value for all three actions)
+- `NEXT_PUBLIC_GOOGLE_ADS_LABEL_LEAD` / `_LABEL_CALL` / `_LABEL_WHATSAPP` = each action's label
+
+The site's `trackConversion()` helper (`src/lib/analytics.ts`) already fires this way if those env vars are
+set — it's dormant (no-ops safely) as long as they're unset, which is the current state.
+
+### Verifying either method
+
+Submit one real test lead through a `/lp/*` form and click both the Call and WhatsApp buttons on a real
+phone. A few hours later, check **Google Ads → Goals → Conversions** for each action's status — it should
+move off "No recent conversions." Don't assume the setup works just because the code shipped; confirm a
+conversion actually recorded before spending real budget.
 
 ## Pre-launch checklist
 
 - [ ] Replace all placeholder phone/WhatsApp numbers — confirm `NEXT_PUBLIC_BUSINESS_PHONE` and
       `NEXT_PUBLIC_WHATSAPP_NUMBER` are your real numbers in Vercel production (same vars the rest of the
       site already uses).
-- [ ] Set all four `NEXT_PUBLIC_GOOGLE_ADS_*` env vars from step 6 above and redeploy.
+- [x] Conversion actions created via the GA4-import method — no env vars needed for this account (see §6).
+      Only set the `NEXT_PUBLIC_GOOGLE_ADS_*` env vars if you switch to the standalone-tag method later.
 - [ ] Submit one real test lead through each of the 4 `/lp/*` forms and confirm it appears in `/admin/leads`
       with `source: google_ads` and the right `theme`/UTM values in its payload.
 - [ ] Click Call and WhatsApp on each landing page from a real phone and confirm the dialer/WhatsApp opens.

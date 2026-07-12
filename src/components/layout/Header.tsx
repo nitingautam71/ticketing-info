@@ -36,7 +36,7 @@ export default function Header() {
         </div>
         <a
           href={telLink()}
-          onClick={() => trackEvent('call_click', { source: 'lp_header', page: pathname })}
+          onClick={() => trackEvent('click_to_call', { source: 'lp_header', page: pathname })}
           className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-bold bg-emerald-500 text-neutral-950 hover:bg-emerald-400 transition-all shadow-lg shadow-emerald-500/30 cursor-pointer"
         >
           <Phone className="w-3.5 h-3.5" />
@@ -105,7 +105,7 @@ export default function Header() {
 
           <a
             href={telLink()}
-            onClick={() => trackEvent('call_click', { source: 'header', page: pathname })}
+            onClick={() => trackEvent('click_to_call', { source: 'header', page: pathname })}
             className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-bold bg-emerald-500 text-neutral-950 hover:bg-emerald-400 transition-all shadow-lg shadow-emerald-500/30 cursor-pointer"
           >
             <Phone className="w-3.5 h-3.5" />

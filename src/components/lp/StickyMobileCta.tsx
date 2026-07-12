@@ -6,7 +6,7 @@ import { trackEvent, trackConversion } from '@/lib/analytics';
 
 export default function StickyMobileCta({ theme, whatsappMessage }: { theme: string; whatsappMessage: string }) {
   const onCall = () => {
-    trackEvent('call_click', { source: 'lp_sticky_bar', theme });
+    trackEvent('click_to_call', { source: 'lp_sticky_bar', theme });
     trackConversion(process.env.NEXT_PUBLIC_GOOGLE_ADS_LABEL_CALL, { theme });
   };
   const onWhatsapp = () => {
