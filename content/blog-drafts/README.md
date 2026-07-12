@@ -15,11 +15,28 @@ here has no effect on the site by itself.
    `/api/admin/blog` endpoint to create the post live with `published: true`. That's the only
    step that touches production, and it now happens automatically, same-day, with no manual step.
 
+## Regional rotation
+
+One post per day means region coverage has to be forced, not left to chance - a model
+searching freely will gravitate toward whatever's easiest to find that day. `build-prompt.mjs`
+picks a fixed region for each date, cycling through:
+
+1. India
+2. United States
+3. Europe
+4. Asia-Pacific (excluding India)
+5. Middle East & global travel hubs
+
+... then repeats. The cycle is a pure function of the date (`scripts/blog/build-prompt.mjs`,
+`regionForDate`), so it's deterministic and doesn't depend on what ran before. Over any 5-day
+window the blog gets at least one post per region.
+
 ## File shape
 
 ```json
 {
   "date": "2026-07-12",
+  "region": "India",
   "slug": "irctc-tatkal-booking-rules-change",
   "title": "SEO title, under ~70 characters",
   "excerpt": "Meta description / card teaser, under ~155 characters",
