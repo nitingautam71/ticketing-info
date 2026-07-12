@@ -5,12 +5,24 @@ import { MapPin, Star, Bot, Send } from 'lucide-react';
 import HeroSection from '@/components/layout/HeroSection';
 import { BandVideo } from '@/components/layout/HeroVideo';
 import { HERO_COPY } from '@/lib/nav';
+import { prisma } from '@/lib/db';
+import TestimonialsSection from '@/components/TestimonialsSection';
+import QuoteForm from '@/components/QuoteForm';
+import JsonLd from '@/components/seo/JsonLd';
+import { travelAgencyJsonLdWithRatings } from '@/lib/structuredData';
+
+export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
-  title: 'Ticketing-Info — Flights, Hotels, Cruises, Cars & Vacation Packages',
+  title: 'Flight Tickets, Train Tickets, Tour Packages & Visa Assistance',
   description:
-    'Search flights, hotels, cruises, car rentals, vacation packages, and airport transfers, then book with a real travel consultant by call, WhatsApp, or enquiry form.',
+    'Book flight tickets, train tickets, hotels, cruises, tour packages, and visa assistance for domestic Indian and international travel. Compare prices and book with a real travel consultant by call, WhatsApp, or enquiry form.',
   alternates: { canonical: '/' },
+  openGraph: {
+    title: 'Ticketing-Info — Flight Tickets, Train Tickets, Tour Packages & Visa Assistance',
+    description:
+      'Book flight tickets, train tickets, hotels, cruises, tour packages, and visa assistance for domestic Indian and international travel. Compare prices and book with a real travel consultant.',
+  },
 };
 
 const TRENDING = [
@@ -29,12 +41,39 @@ const EXPERIENCES = [
   { name: 'Culture & history', desc: 'Old streets, living stories', img: 'https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1200&q=80' },
 ];
 
-export default function HomePage() {
+export default async function HomePage() {
   const hero = HERO_COPY['/'];
+  const testimonials = await prisma.testimonial.findMany({
+    where: { published: true },
+    orderBy: { createdAt: 'desc' },
+    take: 6,
+  });
 
   return (
     <div className="flex-1 flex flex-col">
+      <JsonLd data={travelAgencyJsonLdWithRatings(testimonials)} />
       <HeroSection eyebrow={hero.eyebrow} title={hero.title} sub={hero.sub} />
+
+      <section className="max-w-7xl w-full mx-auto px-4 md:px-8 py-14">
+        <div className="grid grid-cols-1 lg:grid-cols-[1.1fr_0.9fr] gap-8 lg:gap-12 items-start">
+          <div>
+            <p className="text-emerald-400 text-[10px] font-black tracking-[0.3em] uppercase mb-2">Get started</p>
+            <h2 className="font-display text-3xl md:text-4xl text-white font-medium mb-3">Get a free travel quote</h2>
+            <p className="text-neutral-400 text-sm max-w-md mb-6">
+              Tell us about your flight tickets, train tickets, hotel, tour package, or visa assistance needs — a travel consultant will
+              get back to you shortly. No payment required.
+            </p>
+            <div className="hidden lg:flex flex-col gap-3 text-xs text-neutral-400">
+              <span>✓ Real travel consultants, not a chatbot</span>
+              <span>✓ Free quote, no obligation</span>
+              <span>✓ Domestic Indian &amp; international travel</span>
+            </div>
+          </div>
+          <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-6">
+            <QuoteForm />
+          </div>
+        </div>
+      </section>
 
       <section className="max-w-7xl w-full mx-auto px-4 md:px-8 py-14">
         <div className="flex items-end justify-between mb-8">
@@ -172,6 +211,8 @@ export default function HomePage() {
           ))}
         </div>
       </section>
+
+      <TestimonialsSection testimonials={testimonials} />
     </div>
   );
 }
