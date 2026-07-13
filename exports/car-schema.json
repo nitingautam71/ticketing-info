@@ -1,0 +1,64 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CarRentalListing",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "companyName": {
+      "type": "string"
+    },
+    "brand": {
+      "type": "string"
+    },
+    "model": {
+      "type": "string"
+    },
+    "year": {
+      "type": "integer"
+    },
+    "category": {
+      "type": "string"
+    },
+    "transmission": {
+      "type": "string"
+    },
+    "fuelType": {
+      "type": "string"
+    },
+    "seats": {
+      "type": "integer"
+    },
+    "locationName": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "fromPricePerDayUSD": {
+      "type": "number"
+    },
+    "ratingOverall": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "id",
+    "slug",
+    "title",
+    "companyName",
+    "brand",
+    "model",
+    "category",
+    "locationName",
+    "country",
+    "fromPricePerDayUSD"
+  ]
+}

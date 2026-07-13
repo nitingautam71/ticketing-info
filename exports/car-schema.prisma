@@ -1,0 +1,81 @@
+// Standalone Prisma Schema for Car Rental Vertical
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model RentalCompany {
+  id               String   @id
+  name             String
+  slug             String   @unique
+  tier             String
+  commissionRate   Float
+  hqCountry        String
+  logoUrl          String?
+  description      String
+  keySellingPoints String[]
+  listings         CarListing[]
+}
+
+model VehicleModel {
+  id           String  @id
+  brand        String
+  model        String
+  year         Int
+  category     String
+  transmission String
+  fuelType     String
+  engine       String
+  horsepower   Int
+  driveType    String
+  doors        Int
+  seats        Int
+  fuelEconomy  String
+  rangeKm      Int
+  priceIndex   Float
+  listings     CarListing[]
+}
+
+model RentalLocation {
+  id                 String  @id
+  name               String
+  slug               String  @unique
+  type               String
+  city               String
+  country            String
+  countryCode        String
+  region             String
+  lat                Float
+  lon                Float
+  currency           String
+  airportCode        String?
+  costIndex          Float
+  oneWaySupported    Boolean
+  crossBorderAllowed Boolean
+  listings           CarListing[]
+}
+
+model CarListing {
+  id                 String  @id
+  slug               String  @unique
+  title              String
+  companyId          String
+  vehicleId          String
+  locationId         String
+  color              String
+  mileageKm          Int
+  fromPricePerDayUSD Float
+  ratingOverall      Float
+  reviewCount        Int
+  policies           Json
+  insuranceOptions   Json
+  aiSearchTags       String[]
+  company            RentalCompany  @relation(fields: [companyId], references: [id])
+  vehicle            VehicleModel   @relation(fields: [vehicleId], references: [id])
+  location           RentalLocation @relation(fields: [locationId], references: [id])
+}
