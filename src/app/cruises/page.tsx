@@ -122,7 +122,7 @@ export default async function CruisesPage({ searchParams }: CruisesPageProps) {
                 <Ship className="w-12 h-12 text-slate-300 dark:text-slate-700 mx-auto mb-4" />
                 <h4 className="font-bold text-slate-950 dark:text-slate-100">No Cruises Found</h4>
                 <p className="text-sm text-slate-500 max-w-xs mx-auto mt-2">
-                  We couldn't find any voyages matching your exact filters. Try adjusting or clearing search terms.
+                  We couldn&apos;t find any voyages matching your exact filters. Try adjusting or clearing search terms.
                 </p>
                 <Link
                   href="/cruises"

@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { useRouter, usePathname, useSearchParams } from 'next/navigation';
 import { SlidersHorizontal, RefreshCw } from 'lucide-react';
 import type { CruiseFacets } from '@/lib/providers/cruises';
@@ -27,10 +27,15 @@ export default function CruiseFilters({ facets }: CruiseFiltersProps) {
 
   const [minPrice, setMinPrice] = useState(searchParams.get('minPrice') ?? '');
   const [maxPrice, setMaxPrice] = useState(searchParams.get('maxPrice') ?? '');
-  useEffect(() => {
+  // Adjust the locally-editable price inputs when the URL params change from outside
+  // this component (Reset All, browser back/forward) — done during render, per React's
+  // guidance, instead of useEffect+setState which would cause an extra render pass.
+  const [syncedParams, setSyncedParams] = useState(searchParams.toString());
+  if (searchParams.toString() !== syncedParams) {
+    setSyncedParams(searchParams.toString());
     setMinPrice(searchParams.get('minPrice') ?? '');
     setMaxPrice(searchParams.get('maxPrice') ?? '');
-  }, [searchParams]);
+  }
 
   function pushParams(next: URLSearchParams) {
     next.delete('page'); // any filter change resets pagination to page 1

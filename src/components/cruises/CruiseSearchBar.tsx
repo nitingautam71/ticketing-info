@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { useRouter, usePathname, useSearchParams } from 'next/navigation';
 import { Search } from 'lucide-react';
 
@@ -10,9 +10,15 @@ export default function CruiseSearchBar() {
   const searchParams = useSearchParams();
   const [value, setValue] = useState(searchParams.get('q') ?? '');
 
-  useEffect(() => {
-    setValue(searchParams.get('q') ?? '');
-  }, [searchParams]);
+  // Adjust the locally-editable value when ?q changes from outside this component
+  // (Reset All, browser back/forward) — done during render, per React's guidance,
+  // instead of useEffect+setState which would cause an extra render pass.
+  const [syncedQ, setSyncedQ] = useState(searchParams.get('q') ?? '');
+  const currentQ = searchParams.get('q') ?? '';
+  if (currentQ !== syncedQ) {
+    setSyncedQ(currentQ);
+    setValue(currentQ);
+  }
 
   function commit() {
     const next = new URLSearchParams(searchParams.toString());

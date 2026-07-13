@@ -79,7 +79,7 @@ export default function OnboardExperience({ experience, dining }: OnboardExperie
               <div>
                 <span className="text-xs font-semibold text-slate-400 block mb-1">Broadway-caliber Theater Production</span>
                 <p className="text-sm font-bold text-slate-750 dark:text-slate-200">
-                  🎭 Featured Show: "{experience.broadwayShows[0]}"
+                  🎭 Featured Show: &ldquo;{experience.broadwayShows[0]}&rdquo;
                 </p>
               </div>
             )}
