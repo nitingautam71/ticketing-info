@@ -1,0 +1,2981 @@
+{
+  "id": "PKG-CRUISE-REGENT-SEVEN-SEAS-SEVEN-SEAS-EXPLORER-60-NIGHT-60N-WORLD-CRUISE-CIRCUMNAVIGATION-CRUISE",
+  "slug": "regent-seven-seas-seven-seas-explorer-60-night-60n-world-cruise-circumnavigation-cruise",
+  "title": "60-Night Grand World Cruise Circumnavigation",
+  "cruiseName": "60-Night Grand World Cruise Circumnavigation",
+  "cruiseLineId": "regent-seven-seas",
+  "cruiseLineName": "Regent Seven Seas Cruises",
+  "shipId": "seven-seas-explorer",
+  "shipName": "Seven Seas Explorer",
+  "shipSpecs": {
+    "name": "Seven Seas Explorer",
+    "shipClass": "Explorer Class",
+    "launchYear": 2016,
+    "passengerCapacity": 750,
+    "crewSize": 552,
+    "tonnage": 56000,
+    "lengthMeters": 224,
+    "decks": 10,
+    "totalCabins": 375,
+    "maxOccupancy": 750,
+    "averageAge": 10,
+    "rating": 4.9
+  },
+  "categories": [
+    "Luxury Cruises",
+    "Small Ship Cruises",
+    "World Cruises"
+  ],
+  "destination": "World Cruises",
+  "departurePortId": "southampton",
+  "departurePortName": "Port of Southampton",
+  "arrivalPortId": "southampton",
+  "arrivalPortName": "Port of Southampton",
+  "durationNights": 60,
+  "embarkationTime": "12:00 PM - 03:30 PM",
+  "disembarkationTime": "07:00 AM - 09:30 AM",
+  "seaDays": 18,
+  "portDays": 43,
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "Embarkation",
+      "departureTime": "05:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Embarkation champagne reception",
+        "World cruise briefing with the Captain",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Grill Room"
+      ],
+      "eveningEntertainment": [
+        "Bon Voyage Gala Show"
+      ]
+    },
+    {
+      "day": 2,
+      "portName": "Cruising at Sea (Atlantic Crossing)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 1200,
+      "activities": [
+        "Enrichment lecture series begins",
+        "Ballroom dance classes",
+        "Trivia and bridge tournaments"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Grill",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "West End style theater production"
+      ]
+    },
+    {
+      "day": 3,
+      "portId": "los-angeles-port",
+      "portName": "Los Angeles",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 8900,
+      "activities": [
+        "Day trip to Hollywood and the Walk of Fame",
+        "Explore Santa Monica Pier",
+        "Visit the Getty Center"
+      ],
+      "suggestedExcursions": [
+        "Hollywood & Beverly Hills Tour",
+        "Santa Monica Pier Excursion"
+      ],
+      "diningRecommendations": [
+        "Republique (Hollywood)",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Guest lecturer series on Pacific history"
+      ]
+    },
+    {
+      "day": 4,
+      "portId": "honolulu",
+      "portName": "Honolulu",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 4100,
+      "activities": [
+        "Relax on Waikiki Beach",
+        "Climb Diamond Head Crater",
+        "Visit Pearl Harbor"
+      ],
+      "suggestedExcursions": [
+        "Pearl Harbor & Diamond Head Tour",
+        "Waikiki Beach & Honolulu City Tour"
+      ],
+      "diningRecommendations": [
+        "Duke's Waikiki",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Traditional luau on deck"
+      ]
+    },
+    {
+      "day": 5,
+      "portName": "Cruising at Sea (Pacific Crossing)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 3600,
+      "activities": [
+        "International Date Line crossing ceremony",
+        "Culinary masterclasses",
+        "Guest lecturer series on Pacific exploration"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Polynesian cultural show"
+      ]
+    },
+    {
+      "day": 6,
+      "portId": "auckland-port",
+      "portName": "Auckland",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 3900,
+      "activities": [
+        "Ride the Sky Tower observation deck",
+        "Explore Waiheke Island wineries",
+        "Visit the Auckland War Memorial Museum"
+      ],
+      "suggestedExcursions": [
+        "Waiheke Island Wine Tour",
+        "Auckland City Highlights Tour"
+      ],
+      "diningRecommendations": [
+        "The Grove",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Māori cultural performance"
+      ]
+    },
+    {
+      "day": 7,
+      "portId": "sydney-port",
+      "portName": "Sydney",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 2150,
+      "activities": [
+        "Tour the Sydney Opera House",
+        "Walk the Sydney Harbour Bridge",
+        "Relax at Bondi Beach"
+      ],
+      "suggestedExcursions": [
+        "Sydney Opera House & Harbour Bridge Tour",
+        "Bondi to Coogee Coastal Walk"
+      ],
+      "diningRecommendations": [
+        "Quay",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 8,
+      "portName": "Cruising at Sea (Indian Ocean Crossing)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 4200,
+      "activities": [
+        "Guest lecturer series on Indian Ocean trade routes",
+        "Deck sports tournaments",
+        "Spa relaxation days"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Seafood Restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Casino gala night"
+      ]
+    },
+    {
+      "day": 9,
+      "portId": "singapore-port",
+      "portName": "Singapore",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 6300,
+      "activities": [
+        "Explore Gardens by the Bay",
+        "Visit Sentosa Island",
+        "Food tour of Chinatown hawker stalls"
+      ],
+      "suggestedExcursions": [
+        "Gardens by the Bay & Marina Bay Tour",
+        "Singapore Food & Culture Walking Tour"
+      ],
+      "diningRecommendations": [
+        "Liao Fan Hawker Chan",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 10,
+      "portId": "mumbai-port",
+      "portName": "Mumbai",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 3900,
+      "activities": [
+        "Visit the Gateway of India",
+        "Tour Elephanta Caves",
+        "Explore Crawford Market"
+      ],
+      "suggestedExcursions": [
+        "Gateway of India & Elephanta Caves Tour",
+        "Mumbai Heritage City Tour"
+      ],
+      "diningRecommendations": [
+        "Trishna",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Bollywood dance performance"
+      ]
+    },
+    {
+      "day": 11,
+      "portId": "dubai-port",
+      "portName": "Dubai",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 1900,
+      "activities": [
+        "Ride to the top of the Burj Khalifa",
+        "Desert safari and dune bashing",
+        "Explore the historic Al Fahidi district"
+      ],
+      "suggestedExcursions": [
+        "Burj Khalifa & Dubai Mall Tour",
+        "Desert Safari & Dune Bashing Adventure"
+      ],
+      "diningRecommendations": [
+        "Pierchic",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 12,
+      "portName": "Suez Canal Transit",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 2400,
+      "activities": [
+        "Daylight transit of the Suez Canal",
+        "Canal engineering lecture on deck",
+        "Photograph passing container ships and desert scenery"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Deck lunch buffet",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Suez Canal history lecture"
+      ]
+    },
+    {
+      "day": 13,
+      "portId": "piraeus",
+      "portName": "Athens (Piraeus)",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 890,
+      "activities": [
+        "Climb the Acropolis to see the Parthenon",
+        "Explore the Acropolis Museum",
+        "Walk through the Plaka district"
+      ],
+      "suggestedExcursions": [
+        "Acropolis & Plaka Guided Tour",
+        "Ancient Agora Walking Tour"
+      ],
+      "diningRecommendations": [
+        "Strofi Tavern",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Greek folklore dance show on deck"
+      ]
+    },
+    {
+      "day": 14,
+      "portId": "barcelona",
+      "portName": "Barcelona",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 1750,
+      "activities": [
+        "Visit La Sagrada Família",
+        "Walk the Gothic Quarter",
+        "Explore Park Güell"
+      ],
+      "suggestedExcursions": [
+        "Sagrada Família & Gaudí Architecture Tour",
+        "Gothic Quarter Walking Tour"
+      ],
+      "diningRecommendations": [
+        "El Nacional",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Flamenco performance"
+      ]
+    },
+    {
+      "day": 15,
+      "portName": "Cruising at Sea (Atlantic Return)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 1900,
+      "activities": [
+        "World cruise farewell lecture series",
+        "Final culinary masterclasses",
+        "Circumnavigation certificate ceremony"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Grand Gala Show"
+      ]
+    },
+    {
+      "day": 16,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 200,
+      "activities": [
+        "Farewell breakfast",
+        "Circumnavigation medallion presentation",
+        "Disembark and departure transfers"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 17,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "Embarkation",
+      "departureTime": "05:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Embarkation champagne reception",
+        "World cruise briefing with the Captain",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Grill Room"
+      ],
+      "eveningEntertainment": [
+        "Bon Voyage Gala Show"
+      ]
+    },
+    {
+      "day": 18,
+      "portName": "Cruising at Sea (Atlantic Crossing)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 1200,
+      "activities": [
+        "Enrichment lecture series begins",
+        "Ballroom dance classes",
+        "Trivia and bridge tournaments"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Grill",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "West End style theater production"
+      ]
+    },
+    {
+      "day": 19,
+      "portId": "los-angeles-port",
+      "portName": "Los Angeles",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 8900,
+      "activities": [
+        "Day trip to Hollywood and the Walk of Fame",
+        "Explore Santa Monica Pier",
+        "Visit the Getty Center"
+      ],
+      "suggestedExcursions": [
+        "Hollywood & Beverly Hills Tour",
+        "Santa Monica Pier Excursion"
+      ],
+      "diningRecommendations": [
+        "Republique (Hollywood)",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Guest lecturer series on Pacific history"
+      ]
+    },
+    {
+      "day": 20,
+      "portId": "honolulu",
+      "portName": "Honolulu",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 4100,
+      "activities": [
+        "Relax on Waikiki Beach",
+        "Climb Diamond Head Crater",
+        "Visit Pearl Harbor"
+      ],
+      "suggestedExcursions": [
+        "Pearl Harbor & Diamond Head Tour",
+        "Waikiki Beach & Honolulu City Tour"
+      ],
+      "diningRecommendations": [
+        "Duke's Waikiki",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Traditional luau on deck"
+      ]
+    },
+    {
+      "day": 21,
+      "portName": "Cruising at Sea (Pacific Crossing)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 3600,
+      "activities": [
+        "International Date Line crossing ceremony",
+        "Culinary masterclasses",
+        "Guest lecturer series on Pacific exploration"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Polynesian cultural show"
+      ]
+    },
+    {
+      "day": 22,
+      "portId": "auckland-port",
+      "portName": "Auckland",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 3900,
+      "activities": [
+        "Ride the Sky Tower observation deck",
+        "Explore Waiheke Island wineries",
+        "Visit the Auckland War Memorial Museum"
+      ],
+      "suggestedExcursions": [
+        "Waiheke Island Wine Tour",
+        "Auckland City Highlights Tour"
+      ],
+      "diningRecommendations": [
+        "The Grove",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Māori cultural performance"
+      ]
+    },
+    {
+      "day": 23,
+      "portId": "sydney-port",
+      "portName": "Sydney",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 2150,
+      "activities": [
+        "Tour the Sydney Opera House",
+        "Walk the Sydney Harbour Bridge",
+        "Relax at Bondi Beach"
+      ],
+      "suggestedExcursions": [
+        "Sydney Opera House & Harbour Bridge Tour",
+        "Bondi to Coogee Coastal Walk"
+      ],
+      "diningRecommendations": [
+        "Quay",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 24,
+      "portName": "Cruising at Sea (Indian Ocean Crossing)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 4200,
+      "activities": [
+        "Guest lecturer series on Indian Ocean trade routes",
+        "Deck sports tournaments",
+        "Spa relaxation days"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Seafood Restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Casino gala night"
+      ]
+    },
+    {
+      "day": 25,
+      "portId": "singapore-port",
+      "portName": "Singapore",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 6300,
+      "activities": [
+        "Explore Gardens by the Bay",
+        "Visit Sentosa Island",
+        "Food tour of Chinatown hawker stalls"
+      ],
+      "suggestedExcursions": [
+        "Gardens by the Bay & Marina Bay Tour",
+        "Singapore Food & Culture Walking Tour"
+      ],
+      "diningRecommendations": [
+        "Liao Fan Hawker Chan",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 26,
+      "portId": "mumbai-port",
+      "portName": "Mumbai",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 3900,
+      "activities": [
+        "Visit the Gateway of India",
+        "Tour Elephanta Caves",
+        "Explore Crawford Market"
+      ],
+      "suggestedExcursions": [
+        "Gateway of India & Elephanta Caves Tour",
+        "Mumbai Heritage City Tour"
+      ],
+      "diningRecommendations": [
+        "Trishna",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Bollywood dance performance"
+      ]
+    },
+    {
+      "day": 27,
+      "portId": "dubai-port",
+      "portName": "Dubai",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 1900,
+      "activities": [
+        "Ride to the top of the Burj Khalifa",
+        "Desert safari and dune bashing",
+        "Explore the historic Al Fahidi district"
+      ],
+      "suggestedExcursions": [
+        "Burj Khalifa & Dubai Mall Tour",
+        "Desert Safari & Dune Bashing Adventure"
+      ],
+      "diningRecommendations": [
+        "Pierchic",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 28,
+      "portName": "Suez Canal Transit",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 2400,
+      "activities": [
+        "Daylight transit of the Suez Canal",
+        "Canal engineering lecture on deck",
+        "Photograph passing container ships and desert scenery"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Deck lunch buffet",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Suez Canal history lecture"
+      ]
+    },
+    {
+      "day": 29,
+      "portId": "piraeus",
+      "portName": "Athens (Piraeus)",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 890,
+      "activities": [
+        "Climb the Acropolis to see the Parthenon",
+        "Explore the Acropolis Museum",
+        "Walk through the Plaka district"
+      ],
+      "suggestedExcursions": [
+        "Acropolis & Plaka Guided Tour",
+        "Ancient Agora Walking Tour"
+      ],
+      "diningRecommendations": [
+        "Strofi Tavern",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Greek folklore dance show on deck"
+      ]
+    },
+    {
+      "day": 30,
+      "portId": "barcelona",
+      "portName": "Barcelona",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 1750,
+      "activities": [
+        "Visit La Sagrada Família",
+        "Walk the Gothic Quarter",
+        "Explore Park Güell"
+      ],
+      "suggestedExcursions": [
+        "Sagrada Família & Gaudí Architecture Tour",
+        "Gothic Quarter Walking Tour"
+      ],
+      "diningRecommendations": [
+        "El Nacional",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Flamenco performance"
+      ]
+    },
+    {
+      "day": 31,
+      "portName": "Cruising at Sea (Atlantic Return)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 1900,
+      "activities": [
+        "World cruise farewell lecture series",
+        "Final culinary masterclasses",
+        "Circumnavigation certificate ceremony"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Grand Gala Show"
+      ]
+    },
+    {
+      "day": 32,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 200,
+      "activities": [
+        "Farewell breakfast",
+        "Circumnavigation medallion presentation",
+        "Disembark and departure transfers"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 33,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "Embarkation",
+      "departureTime": "05:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Embarkation champagne reception",
+        "World cruise briefing with the Captain",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Grill Room"
+      ],
+      "eveningEntertainment": [
+        "Bon Voyage Gala Show"
+      ]
+    },
+    {
+      "day": 34,
+      "portName": "Cruising at Sea (Atlantic Crossing)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 1200,
+      "activities": [
+        "Enrichment lecture series begins",
+        "Ballroom dance classes",
+        "Trivia and bridge tournaments"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Grill",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "West End style theater production"
+      ]
+    },
+    {
+      "day": 35,
+      "portId": "los-angeles-port",
+      "portName": "Los Angeles",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 8900,
+      "activities": [
+        "Day trip to Hollywood and the Walk of Fame",
+        "Explore Santa Monica Pier",
+        "Visit the Getty Center"
+      ],
+      "suggestedExcursions": [
+        "Hollywood & Beverly Hills Tour",
+        "Santa Monica Pier Excursion"
+      ],
+      "diningRecommendations": [
+        "Republique (Hollywood)",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Guest lecturer series on Pacific history"
+      ]
+    },
+    {
+      "day": 36,
+      "portId": "honolulu",
+      "portName": "Honolulu",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 4100,
+      "activities": [
+        "Relax on Waikiki Beach",
+        "Climb Diamond Head Crater",
+        "Visit Pearl Harbor"
+      ],
+      "suggestedExcursions": [
+        "Pearl Harbor & Diamond Head Tour",
+        "Waikiki Beach & Honolulu City Tour"
+      ],
+      "diningRecommendations": [
+        "Duke's Waikiki",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Traditional luau on deck"
+      ]
+    },
+    {
+      "day": 37,
+      "portName": "Cruising at Sea (Pacific Crossing)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 3600,
+      "activities": [
+        "International Date Line crossing ceremony",
+        "Culinary masterclasses",
+        "Guest lecturer series on Pacific exploration"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Polynesian cultural show"
+      ]
+    },
+    {
+      "day": 38,
+      "portId": "auckland-port",
+      "portName": "Auckland",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 3900,
+      "activities": [
+        "Ride the Sky Tower observation deck",
+        "Explore Waiheke Island wineries",
+        "Visit the Auckland War Memorial Museum"
+      ],
+      "suggestedExcursions": [
+        "Waiheke Island Wine Tour",
+        "Auckland City Highlights Tour"
+      ],
+      "diningRecommendations": [
+        "The Grove",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Māori cultural performance"
+      ]
+    },
+    {
+      "day": 39,
+      "portId": "sydney-port",
+      "portName": "Sydney",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 2150,
+      "activities": [
+        "Tour the Sydney Opera House",
+        "Walk the Sydney Harbour Bridge",
+        "Relax at Bondi Beach"
+      ],
+      "suggestedExcursions": [
+        "Sydney Opera House & Harbour Bridge Tour",
+        "Bondi to Coogee Coastal Walk"
+      ],
+      "diningRecommendations": [
+        "Quay",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 40,
+      "portName": "Cruising at Sea (Indian Ocean Crossing)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 4200,
+      "activities": [
+        "Guest lecturer series on Indian Ocean trade routes",
+        "Deck sports tournaments",
+        "Spa relaxation days"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Seafood Restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Casino gala night"
+      ]
+    },
+    {
+      "day": 41,
+      "portId": "singapore-port",
+      "portName": "Singapore",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 6300,
+      "activities": [
+        "Explore Gardens by the Bay",
+        "Visit Sentosa Island",
+        "Food tour of Chinatown hawker stalls"
+      ],
+      "suggestedExcursions": [
+        "Gardens by the Bay & Marina Bay Tour",
+        "Singapore Food & Culture Walking Tour"
+      ],
+      "diningRecommendations": [
+        "Liao Fan Hawker Chan",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 42,
+      "portId": "mumbai-port",
+      "portName": "Mumbai",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 3900,
+      "activities": [
+        "Visit the Gateway of India",
+        "Tour Elephanta Caves",
+        "Explore Crawford Market"
+      ],
+      "suggestedExcursions": [
+        "Gateway of India & Elephanta Caves Tour",
+        "Mumbai Heritage City Tour"
+      ],
+      "diningRecommendations": [
+        "Trishna",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Bollywood dance performance"
+      ]
+    },
+    {
+      "day": 43,
+      "portId": "dubai-port",
+      "portName": "Dubai",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 1900,
+      "activities": [
+        "Ride to the top of the Burj Khalifa",
+        "Desert safari and dune bashing",
+        "Explore the historic Al Fahidi district"
+      ],
+      "suggestedExcursions": [
+        "Burj Khalifa & Dubai Mall Tour",
+        "Desert Safari & Dune Bashing Adventure"
+      ],
+      "diningRecommendations": [
+        "Pierchic",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 44,
+      "portName": "Suez Canal Transit",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 2400,
+      "activities": [
+        "Daylight transit of the Suez Canal",
+        "Canal engineering lecture on deck",
+        "Photograph passing container ships and desert scenery"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Deck lunch buffet",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Suez Canal history lecture"
+      ]
+    },
+    {
+      "day": 45,
+      "portId": "piraeus",
+      "portName": "Athens (Piraeus)",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 890,
+      "activities": [
+        "Climb the Acropolis to see the Parthenon",
+        "Explore the Acropolis Museum",
+        "Walk through the Plaka district"
+      ],
+      "suggestedExcursions": [
+        "Acropolis & Plaka Guided Tour",
+        "Ancient Agora Walking Tour"
+      ],
+      "diningRecommendations": [
+        "Strofi Tavern",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Greek folklore dance show on deck"
+      ]
+    },
+    {
+      "day": 46,
+      "portId": "barcelona",
+      "portName": "Barcelona",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 1750,
+      "activities": [
+        "Visit La Sagrada Família",
+        "Walk the Gothic Quarter",
+        "Explore Park Güell"
+      ],
+      "suggestedExcursions": [
+        "Sagrada Família & Gaudí Architecture Tour",
+        "Gothic Quarter Walking Tour"
+      ],
+      "diningRecommendations": [
+        "El Nacional",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Flamenco performance"
+      ]
+    },
+    {
+      "day": 47,
+      "portName": "Cruising at Sea (Atlantic Return)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 1900,
+      "activities": [
+        "World cruise farewell lecture series",
+        "Final culinary masterclasses",
+        "Circumnavigation certificate ceremony"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Grand Gala Show"
+      ]
+    },
+    {
+      "day": 48,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 200,
+      "activities": [
+        "Farewell breakfast",
+        "Circumnavigation medallion presentation",
+        "Disembark and departure transfers"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 49,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "Embarkation",
+      "departureTime": "05:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Embarkation champagne reception",
+        "World cruise briefing with the Captain",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Grill Room"
+      ],
+      "eveningEntertainment": [
+        "Bon Voyage Gala Show"
+      ]
+    },
+    {
+      "day": 50,
+      "portName": "Cruising at Sea (Atlantic Crossing)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 1200,
+      "activities": [
+        "Enrichment lecture series begins",
+        "Ballroom dance classes",
+        "Trivia and bridge tournaments"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Grill",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "West End style theater production"
+      ]
+    },
+    {
+      "day": 51,
+      "portId": "los-angeles-port",
+      "portName": "Los Angeles",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 8900,
+      "activities": [
+        "Day trip to Hollywood and the Walk of Fame",
+        "Explore Santa Monica Pier",
+        "Visit the Getty Center"
+      ],
+      "suggestedExcursions": [
+        "Hollywood & Beverly Hills Tour",
+        "Santa Monica Pier Excursion"
+      ],
+      "diningRecommendations": [
+        "Republique (Hollywood)",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Guest lecturer series on Pacific history"
+      ]
+    },
+    {
+      "day": 52,
+      "portId": "honolulu",
+      "portName": "Honolulu",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 4100,
+      "activities": [
+        "Relax on Waikiki Beach",
+        "Climb Diamond Head Crater",
+        "Visit Pearl Harbor"
+      ],
+      "suggestedExcursions": [
+        "Pearl Harbor & Diamond Head Tour",
+        "Waikiki Beach & Honolulu City Tour"
+      ],
+      "diningRecommendations": [
+        "Duke's Waikiki",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Traditional luau on deck"
+      ]
+    },
+    {
+      "day": 53,
+      "portName": "Cruising at Sea (Pacific Crossing)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 3600,
+      "activities": [
+        "International Date Line crossing ceremony",
+        "Culinary masterclasses",
+        "Guest lecturer series on Pacific exploration"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Polynesian cultural show"
+      ]
+    },
+    {
+      "day": 54,
+      "portId": "auckland-port",
+      "portName": "Auckland",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 3900,
+      "activities": [
+        "Ride the Sky Tower observation deck",
+        "Explore Waiheke Island wineries",
+        "Visit the Auckland War Memorial Museum"
+      ],
+      "suggestedExcursions": [
+        "Waiheke Island Wine Tour",
+        "Auckland City Highlights Tour"
+      ],
+      "diningRecommendations": [
+        "The Grove",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Māori cultural performance"
+      ]
+    },
+    {
+      "day": 55,
+      "portId": "sydney-port",
+      "portName": "Sydney",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 2150,
+      "activities": [
+        "Tour the Sydney Opera House",
+        "Walk the Sydney Harbour Bridge",
+        "Relax at Bondi Beach"
+      ],
+      "suggestedExcursions": [
+        "Sydney Opera House & Harbour Bridge Tour",
+        "Bondi to Coogee Coastal Walk"
+      ],
+      "diningRecommendations": [
+        "Quay",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 56,
+      "portName": "Cruising at Sea (Indian Ocean Crossing)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 4200,
+      "activities": [
+        "Guest lecturer series on Indian Ocean trade routes",
+        "Deck sports tournaments",
+        "Spa relaxation days"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Seafood Restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Casino gala night"
+      ]
+    },
+    {
+      "day": 57,
+      "portId": "singapore-port",
+      "portName": "Singapore",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 6300,
+      "activities": [
+        "Explore Gardens by the Bay",
+        "Visit Sentosa Island",
+        "Food tour of Chinatown hawker stalls"
+      ],
+      "suggestedExcursions": [
+        "Gardens by the Bay & Marina Bay Tour",
+        "Singapore Food & Culture Walking Tour"
+      ],
+      "diningRecommendations": [
+        "Liao Fan Hawker Chan",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 58,
+      "portId": "mumbai-port",
+      "portName": "Mumbai",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 3900,
+      "activities": [
+        "Visit the Gateway of India",
+        "Tour Elephanta Caves",
+        "Explore Crawford Market"
+      ],
+      "suggestedExcursions": [
+        "Gateway of India & Elephanta Caves Tour",
+        "Mumbai Heritage City Tour"
+      ],
+      "diningRecommendations": [
+        "Trishna",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Bollywood dance performance"
+      ]
+    },
+    {
+      "day": 59,
+      "portId": "dubai-port",
+      "portName": "Dubai",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 1900,
+      "activities": [
+        "Ride to the top of the Burj Khalifa",
+        "Desert safari and dune bashing",
+        "Explore the historic Al Fahidi district"
+      ],
+      "suggestedExcursions": [
+        "Burj Khalifa & Dubai Mall Tour",
+        "Desert Safari & Dune Bashing Adventure"
+      ],
+      "diningRecommendations": [
+        "Pierchic",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 60,
+      "portName": "Suez Canal Transit",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 2400,
+      "activities": [
+        "Daylight transit of the Suez Canal",
+        "Canal engineering lecture on deck",
+        "Photograph passing container ships and desert scenery"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Deck lunch buffet",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Suez Canal history lecture"
+      ]
+    },
+    {
+      "day": 61,
+      "portId": "piraeus",
+      "portName": "Athens (Piraeus)",
+      "arrivalTime": "Disembarkation",
+      "departureTime": "Disembarkation",
+      "distanceKm": 890,
+      "activities": [
+        "Climb the Acropolis to see the Parthenon",
+        "Explore the Acropolis Museum",
+        "Walk through the Plaka district"
+      ],
+      "suggestedExcursions": [
+        "Acropolis & Plaka Guided Tour",
+        "Ancient Agora Walking Tour"
+      ],
+      "diningRecommendations": [
+        "Strofi Tavern",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Greek folklore dance show on deck"
+      ]
+    }
+  ],
+  "shoreExcursions": [
+    {
+      "id": "EXC-southampton-0",
+      "name": "Scenic Route of Southampton",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 215,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--atlantic-crossing--1",
+      "name": "Best of Cruising at Sea (Atlantic Crossing)",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Cruising at Sea (Atlantic Crossing). This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-los-angeles-2",
+      "name": "Secrets of Los Angeles",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 253,
+      "description": "A wonderful half-day tours exploring the sights of Los Angeles. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-honolulu-3",
+      "name": "Secrets of Honolulu",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 234,
+      "description": "A wonderful half-day tours exploring the sights of Honolulu. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--pacific-crossing--4",
+      "name": "Secrets of Cruising at Sea (Pacific Crossing)",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 233,
+      "description": "A wonderful half-day tours exploring the sights of Cruising at Sea (Pacific Crossing). This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-auckland-5",
+      "name": "Discover Auckland",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 138,
+      "description": "A wonderful full-day tours exploring the sights of Auckland. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-sydney-6",
+      "name": "Highlights of Sydney",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 92,
+      "description": "A wonderful full-day tours exploring the sights of Sydney. This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--indian-ocean-crossing--7",
+      "name": "Scenic Route of Cruising at Sea (Indian Ocean Crossing)",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 201,
+      "description": "A wonderful half-day tours exploring the sights of Cruising at Sea (Indian Ocean Crossing). This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-singapore-8",
+      "name": "Adventure in Singapore",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 174,
+      "description": "A wonderful half-day tours exploring the sights of Singapore. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-mumbai-9",
+      "name": "Highlights of Mumbai",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 114,
+      "description": "A wonderful full-day tours exploring the sights of Mumbai. This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-dubai-10",
+      "name": "Discover Dubai",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 122,
+      "description": "A wonderful full-day tours exploring the sights of Dubai. This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-suez-canal-transit-11",
+      "name": "Best of Suez Canal Transit",
+      "type": "Paid Excursions",
+      "duration": "Full-Day Tours",
+      "priceUSD": 70,
+      "description": "A wonderful full-day tours exploring the sights of Suez Canal Transit. This paid excursions covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-athens--piraeus--12",
+      "name": "Secrets of Athens (Piraeus)",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 245,
+      "description": "A wonderful half-day tours exploring the sights of Athens (Piraeus). This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-barcelona-13",
+      "name": "Best of Barcelona",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Barcelona. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--atlantic-return--14",
+      "name": "Adventure in Cruising at Sea (Atlantic Return)",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 180,
+      "description": "A wonderful half-day tours exploring the sights of Cruising at Sea (Atlantic Return). This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-15",
+      "name": "Secrets of Southampton",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 261,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-16",
+      "name": "Discover Southampton",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 151,
+      "description": "A wonderful full-day tours exploring the sights of Southampton. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--atlantic-crossing--17",
+      "name": "Best of Cruising at Sea (Atlantic Crossing)",
+      "type": "Paid Excursions",
+      "duration": "Full-Day Tours",
+      "priceUSD": 70,
+      "description": "A wonderful full-day tours exploring the sights of Cruising at Sea (Atlantic Crossing). This paid excursions covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-los-angeles-18",
+      "name": "Best of Los Angeles",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Los Angeles. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-honolulu-19",
+      "name": "Scenic Route of Honolulu",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 217,
+      "description": "A wonderful half-day tours exploring the sights of Honolulu. This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--pacific-crossing--20",
+      "name": "Adventure in Cruising at Sea (Pacific Crossing)",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 191,
+      "description": "A wonderful half-day tours exploring the sights of Cruising at Sea (Pacific Crossing). This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-auckland-21",
+      "name": "Highlights of Auckland",
+      "type": "Paid Excursions",
+      "duration": "Full-Day Tours",
+      "priceUSD": 88,
+      "description": "A wonderful full-day tours exploring the sights of Auckland. This paid excursions covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-sydney-22",
+      "name": "Secrets of Sydney",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 258,
+      "description": "A wonderful half-day tours exploring the sights of Sydney. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--indian-ocean-crossing--23",
+      "name": "Secrets of Cruising at Sea (Indian Ocean Crossing)",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 233,
+      "description": "A wonderful half-day tours exploring the sights of Cruising at Sea (Indian Ocean Crossing). This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-singapore-24",
+      "name": "Adventure in Singapore",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 157,
+      "description": "A wonderful half-day tours exploring the sights of Singapore. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-mumbai-25",
+      "name": "Best of Mumbai",
+      "type": "Paid Excursions",
+      "duration": "Full-Day Tours",
+      "priceUSD": 72,
+      "description": "A wonderful full-day tours exploring the sights of Mumbai. This paid excursions covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-dubai-26",
+      "name": "Discover Dubai",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 140,
+      "description": "A wonderful full-day tours exploring the sights of Dubai. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-suez-canal-transit-27",
+      "name": "Highlights of Suez Canal Transit",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 101,
+      "description": "A wonderful full-day tours exploring the sights of Suez Canal Transit. This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-athens--piraeus--28",
+      "name": "Secrets of Athens (Piraeus)",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 232,
+      "description": "A wonderful half-day tours exploring the sights of Athens (Piraeus). This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-barcelona-29",
+      "name": "Secrets of Barcelona",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 258,
+      "description": "A wonderful half-day tours exploring the sights of Barcelona. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--atlantic-return--30",
+      "name": "Adventure in Cruising at Sea (Atlantic Return)",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 187,
+      "description": "A wonderful half-day tours exploring the sights of Cruising at Sea (Atlantic Return). This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-31",
+      "name": "Discover Southampton",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 148,
+      "description": "A wonderful full-day tours exploring the sights of Southampton. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-32",
+      "name": "Discover Southampton",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 148,
+      "description": "A wonderful full-day tours exploring the sights of Southampton. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--atlantic-crossing--33",
+      "name": "Highlights of Cruising at Sea (Atlantic Crossing)",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 106,
+      "description": "A wonderful full-day tours exploring the sights of Cruising at Sea (Atlantic Crossing). This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-los-angeles-34",
+      "name": "Scenic Route of Los Angeles",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 195,
+      "description": "A wonderful half-day tours exploring the sights of Los Angeles. This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-honolulu-35",
+      "name": "Highlights of Honolulu",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 111,
+      "description": "A wonderful full-day tours exploring the sights of Honolulu. This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--pacific-crossing--36",
+      "name": "Scenic Route of Cruising at Sea (Pacific Crossing)",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 207,
+      "description": "A wonderful half-day tours exploring the sights of Cruising at Sea (Pacific Crossing). This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-auckland-37",
+      "name": "Scenic Route of Auckland",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 223,
+      "description": "A wonderful half-day tours exploring the sights of Auckland. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-sydney-38",
+      "name": "Scenic Route of Sydney",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 219,
+      "description": "A wonderful half-day tours exploring the sights of Sydney. This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--indian-ocean-crossing--39",
+      "name": "Adventure in Cruising at Sea (Indian Ocean Crossing)",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 159,
+      "description": "A wonderful half-day tours exploring the sights of Cruising at Sea (Indian Ocean Crossing). This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-singapore-40",
+      "name": "Discover Singapore",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 130,
+      "description": "A wonderful full-day tours exploring the sights of Singapore. This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-mumbai-41",
+      "name": "Discover Mumbai",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 151,
+      "description": "A wonderful full-day tours exploring the sights of Mumbai. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-dubai-42",
+      "name": "Highlights of Dubai",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 92,
+      "description": "A wonderful full-day tours exploring the sights of Dubai. This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-suez-canal-transit-43",
+      "name": "Highlights of Suez Canal Transit",
+      "type": "Paid Excursions",
+      "duration": "Full-Day Tours",
+      "priceUSD": 82,
+      "description": "A wonderful full-day tours exploring the sights of Suez Canal Transit. This paid excursions covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-athens--piraeus--44",
+      "name": "Secrets of Athens (Piraeus)",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 261,
+      "description": "A wonderful half-day tours exploring the sights of Athens (Piraeus). This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-barcelona-45",
+      "name": "Secrets of Barcelona",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 231,
+      "description": "A wonderful half-day tours exploring the sights of Barcelona. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--atlantic-return--46",
+      "name": "Adventure in Cruising at Sea (Atlantic Return)",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 160,
+      "description": "A wonderful half-day tours exploring the sights of Cruising at Sea (Atlantic Return). This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-47",
+      "name": "Secrets of Southampton",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 255,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-48",
+      "name": "Adventure in Southampton",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 162,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--atlantic-crossing--49",
+      "name": "Scenic Route of Cruising at Sea (Atlantic Crossing)",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 193,
+      "description": "A wonderful half-day tours exploring the sights of Cruising at Sea (Atlantic Crossing). This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-los-angeles-50",
+      "name": "Adventure in Los Angeles",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 159,
+      "description": "A wonderful half-day tours exploring the sights of Los Angeles. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-honolulu-51",
+      "name": "Best of Honolulu",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Honolulu. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--pacific-crossing--52",
+      "name": "Adventure in Cruising at Sea (Pacific Crossing)",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 184,
+      "description": "A wonderful half-day tours exploring the sights of Cruising at Sea (Pacific Crossing). This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-auckland-53",
+      "name": "Adventure in Auckland",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 175,
+      "description": "A wonderful half-day tours exploring the sights of Auckland. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-sydney-54",
+      "name": "Scenic Route of Sydney",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 193,
+      "description": "A wonderful half-day tours exploring the sights of Sydney. This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-at-sea--indian-ocean-crossing--55",
+      "name": "Highlights of Cruising at Sea (Indian Ocean Crossing)",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 95,
+      "description": "A wonderful full-day tours exploring the sights of Cruising at Sea (Indian Ocean Crossing). This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-singapore-56",
+      "name": "Best of Singapore",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Singapore. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-mumbai-57",
+      "name": "Highlights of Mumbai",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 94,
+      "description": "A wonderful full-day tours exploring the sights of Mumbai. This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-dubai-58",
+      "name": "Adventure in Dubai",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 182,
+      "description": "A wonderful half-day tours exploring the sights of Dubai. This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-suez-canal-transit-59",
+      "name": "Secrets of Suez Canal Transit",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 234,
+      "description": "A wonderful half-day tours exploring the sights of Suez Canal Transit. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-athens--piraeus--60",
+      "name": "Adventure in Athens (Piraeus)",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 158,
+      "description": "A wonderful half-day tours exploring the sights of Athens (Piraeus). This nature tours covers main landmarks, guided by a local historian."
+    }
+  ],
+  "onboardExperience": {
+    "restaurants": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "specialtyDining": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "bars": [
+      "Schooner Piano Bar",
+      "Pool Bar",
+      "Sunset Lounge"
+    ],
+    "lounges": [
+      "Viking Crown Lounge",
+      "Explorer's Lounge"
+    ],
+    "pools": 2,
+    "waterParks": false,
+    "casino": true,
+    "spa": true,
+    "fitnessCenter": true,
+    "kidsClub": true,
+    "teenClub": false,
+    "theater": true,
+    "broadwayShows": [
+      "Six"
+    ],
+    "comedy": true,
+    "nightclubs": true,
+    "shopping": [
+      "Boutique Gift Shop"
+    ],
+    "artGallery": true,
+    "sportsFeatures": [
+      "Fitness jogging track",
+      "Shuffleboard"
+    ],
+    "movieTheater": true,
+    "library": true,
+    "businessCenter": true,
+    "medicalCenter": true,
+    "weddingChapel": true
+  },
+  "dining": {
+    "complimentary": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "buffets": [
+      "Lido Buffet",
+      "Windjammer Café"
+    ],
+    "specialty": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "chefsTable": true,
+    "roomService": "24-hour complimentary room service available (late-night service fee may apply on some tiers)",
+    "dietaryOptions": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": false,
+      "kosher": false,
+      "glutenFree": true
+    },
+    "kidsMenu": true
+  },
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Luxury cruise ship Seven Seas Explorer sailing in World Cruises",
+      "keywords": [
+        "Seven Seas Explorer",
+        "World Cruises",
+        "cruise ship"
+      ],
+      "unsplashQuery": "cruise ship world cruises",
+      "pexelsQuery": "cruise ship world cruises"
+    },
+    {
+      "role": "ship",
+      "altText": "Seven Seas Explorer cruise ship deck view and design",
+      "keywords": [
+        "Seven Seas Explorer",
+        "exterior",
+        "cruise deck"
+      ],
+      "unsplashQuery": "cruise ship deck",
+      "pexelsQuery": "cruise ship exterior"
+    },
+    {
+      "role": "cabin",
+      "altText": "Balcony stateroom cabin on board Seven Seas Explorer",
+      "keywords": [
+        "cruise cabin",
+        "stateroom",
+        "balcony room"
+      ],
+      "unsplashQuery": "cruise cabin",
+      "pexelsQuery": "hotel room balcony view"
+    },
+    {
+      "role": "restaurant",
+      "altText": "Gourmet fine dining restaurant onboard cruise ship",
+      "keywords": [
+        "cruise dining",
+        "restaurant",
+        "fine dining"
+      ],
+      "unsplashQuery": "fine dining restaurant",
+      "pexelsQuery": "luxury restaurant"
+    },
+    {
+      "role": "pool",
+      "altText": "Main resort-style swimming pool on the ship deck",
+      "keywords": [
+        "cruise pool",
+        "swimming pool",
+        "deck pools"
+      ],
+      "unsplashQuery": "cruise ship pool",
+      "pexelsQuery": "resort pool"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-1",
+      "author": "Guest Traveler 1",
+      "country": "Germany",
+      "date": "2026-07-08",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-2",
+      "author": "Guest Traveler 2",
+      "country": "Singapore",
+      "date": "2026-07-03",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-3",
+      "author": "Guest Traveler 3",
+      "country": "United Kingdom",
+      "date": "2026-06-28",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-4",
+      "author": "Guest Traveler 4",
+      "country": "Germany",
+      "date": "2026-06-23",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-5",
+      "author": "Guest Traveler 5",
+      "country": "Germany",
+      "date": "2026-06-18",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-6",
+      "author": "Guest Traveler 6",
+      "country": "Canada",
+      "date": "2026-06-13",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-7",
+      "author": "Guest Traveler 7",
+      "country": "United States",
+      "date": "2026-06-08",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 3.5,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 3.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-8",
+      "author": "Guest Traveler 8",
+      "country": "Australia",
+      "date": "2026-06-03",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-9",
+      "author": "Guest Traveler 9",
+      "country": "United States",
+      "date": "2026-05-29",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-10",
+      "author": "Guest Traveler 10",
+      "country": "United States",
+      "date": "2026-05-24",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 3.5,
+        "value": 3.5,
+        "internet": 3.5,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-11",
+      "author": "Guest Traveler 11",
+      "country": "Germany",
+      "date": "2026-05-19",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-12",
+      "author": "Guest Traveler 12",
+      "country": "Canada",
+      "date": "2026-05-14",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-13",
+      "author": "Guest Traveler 13",
+      "country": "Australia",
+      "date": "2026-05-09",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-14",
+      "author": "Guest Traveler 14",
+      "country": "Singapore",
+      "date": "2026-05-04",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-15",
+      "author": "Guest Traveler 15",
+      "country": "United States",
+      "date": "2026-04-29",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 3.5,
+        "dining": 3.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-16",
+      "author": "Guest Traveler 16",
+      "country": "Singapore",
+      "date": "2026-04-24",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-17",
+      "author": "Guest Traveler 17",
+      "country": "Canada",
+      "date": "2026-04-19",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-18",
+      "author": "Guest Traveler 18",
+      "country": "Singapore",
+      "date": "2026-04-14",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-19",
+      "author": "Guest Traveler 19",
+      "country": "United Kingdom",
+      "date": "2026-04-09",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-20",
+      "author": "Guest Traveler 20",
+      "country": "Canada",
+      "date": "2026-04-04",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-21",
+      "author": "Guest Traveler 21",
+      "country": "United Kingdom",
+      "date": "2026-03-30",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-22",
+      "author": "Guest Traveler 22",
+      "country": "United States",
+      "date": "2026-03-25",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 3.5,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-23",
+      "author": "Guest Traveler 23",
+      "country": "United Kingdom",
+      "date": "2026-03-20",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-24",
+      "author": "Guest Traveler 24",
+      "country": "Germany",
+      "date": "2026-03-15",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-25",
+      "author": "Guest Traveler 25",
+      "country": "United Kingdom",
+      "date": "2026-03-10",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-26",
+      "author": "Guest Traveler 26",
+      "country": "United Kingdom",
+      "date": "2026-03-05",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-27",
+      "author": "Guest Traveler 27",
+      "country": "United Kingdom",
+      "date": "2026-02-28",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-28",
+      "author": "Guest Traveler 28",
+      "country": "Singapore",
+      "date": "2026-02-23",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-29",
+      "author": "Guest Traveler 29",
+      "country": "United Kingdom",
+      "date": "2026-02-18",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 3.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-60-night-grand-world-cruise-circumnavigation-30",
+      "author": "Guest Traveler 30",
+      "country": "Australia",
+      "date": "2026-02-13",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 60-Night Grand World Cruise Circumnavigation and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    }
+  ],
+  "seo": {
+    "title": "60-Night Grand World Cruise Circumnavigation | Seven Seas Explorer | Regent Seven Seas Cruises",
+    "slug": "regent-seven-seas-seven-seas-explorer-60-night-60n-world-cruise-circumnavigation-cruise",
+    "metaDescription": "Book a 60-night World Cruises cruise onboard Seven Seas Explorer of Regent Seven Seas Cruises. Visiting Southampton, Cruising at Sea (Atlantic Crossing), Los Angeles. Standard & luxury cabins available. Get a quote today.",
+    "keywords": [
+      "World Cruises cruise",
+      "Regent Seven Seas Cruises packages",
+      "Seven Seas Explorer staterooms",
+      "60 day cruise deals",
+      "cruise vacation"
+    ],
+    "canonicalUrl": "/cruises/regent-seven-seas-seven-seas-explorer-60-night-60n-world-cruise-circumnavigation-cruise",
+    "openGraph": {
+      "title": "60-Night Grand World Cruise Circumnavigation - Regent Seven Seas Cruises",
+      "description": "Book a 60-night World Cruises cruise onboard Seven Seas Explorer of Regent Seven Seas Cruises. Visiting Southampton, Cruising at Sea (Atlantic Crossing), Los Angeles. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/seven-seas-explorer-hero.jpg",
+      "type": "website"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "title": "60-Night Grand World Cruise Circumnavigation - Regent Seven Seas Cruises",
+      "description": "Book a 60-night World Cruises cruise onboard Seven Seas Explorer of Regent Seven Seas Cruises. Visiting Southampton, Cruising at Sea (Atlantic Crossing), Los Angeles. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/seven-seas-explorer-hero.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "60-Night Grand World Cruise Circumnavigation",
+      "description": "Book a 60-night World Cruises cruise onboard Seven Seas Explorer of Regent Seven Seas Cruises. Visiting Southampton, Cruising at Sea (Atlantic Crossing), Los Angeles. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/seven-seas-explorer-hero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "17776",
+        "highPrice": "71104",
+        "offerCount": "10",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Interior Cabin",
+            "price": "17776",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ocean View",
+            "price": "22075",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Balcony Cabin",
+            "price": "28095",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Junior Suite",
+            "price": "36694",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Suite",
+            "price": "48733",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Suite",
+            "price": "72808",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Owner's Suite",
+            "price": "112363",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Family Cabin",
+            "price": "34114",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Accessible Cabin",
+            "price": "19495",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Solo Cabin",
+            "price": "15195",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "reviewCount": "30"
+      }
+    }
+  },
+  "aiSearchTags": [
+    "world cruises cruise",
+    "regent seven seas cruises",
+    "seven seas explorer",
+    "60 night cruise",
+    "port of southampton departure",
+    "port of southampton arrival",
+    "family friendly cruise",
+    "ocean cruise",
+    "luxury cruise",
+    "balcony cabin available",
+    "all inclusive options",
+    "kids club onboard",
+    "specialty dining included",
+    "shore excursions available",
+    "visit southampton",
+    "visit cruising at sea (atlantic crossing)",
+    "visit los angeles",
+    "visit honolulu",
+    "visit cruising at sea (pacific crossing)",
+    "visit auckland",
+    "visit sydney",
+    "visit cruising at sea (indian ocean crossing)",
+    "visit singapore",
+    "visit mumbai",
+    "visit dubai",
+    "visit suez canal transit",
+    "visit athens (piraeus)",
+    "visit barcelona",
+    "visit cruising at sea (atlantic return)",
+    "visit southampton",
+    "visit southampton",
+    "visit cruising at sea (atlantic crossing)",
+    "visit los angeles",
+    "visit honolulu",
+    "visit cruising at sea (pacific crossing)",
+    "visit auckland",
+    "visit sydney",
+    "visit cruising at sea (indian ocean crossing)",
+    "visit singapore",
+    "visit mumbai",
+    "visit dubai",
+    "visit suez canal transit",
+    "visit athens (piraeus)",
+    "visit barcelona",
+    "visit cruising at sea (atlantic return)",
+    "visit southampton",
+    "visit southampton",
+    "visit cruising at sea (atlantic crossing)",
+    "visit los angeles",
+    "visit honolulu",
+    "visit cruising at sea (pacific crossing)",
+    "visit auckland",
+    "visit sydney",
+    "visit cruising at sea (indian ocean crossing)",
+    "visit singapore",
+    "visit mumbai",
+    "visit dubai",
+    "visit suez canal transit",
+    "visit athens (piraeus)",
+    "visit barcelona",
+    "visit cruising at sea (atlantic return)",
+    "visit southampton",
+    "visit southampton",
+    "visit cruising at sea (atlantic crossing)",
+    "visit los angeles",
+    "visit honolulu",
+    "visit cruising at sea (pacific crossing)",
+    "visit auckland",
+    "visit sydney",
+    "visit cruising at sea (indian ocean crossing)",
+    "visit singapore",
+    "visit mumbai",
+    "visit dubai",
+    "visit suez canal transit",
+    "visit athens (piraeus)",
+    "eat at pinnacle grill steakhouse",
+    "eat at tuscan grille italian",
+    "onboard fitness jogging track",
+    "onboard shuffleboard"
+  ],
+  "filters": {
+    "cruiseLine": [
+      "Regent Seven Seas Cruises"
+    ],
+    "ship": [
+      "Seven Seas Explorer"
+    ],
+    "shipClass": [
+      "Explorer Class"
+    ],
+    "destination": [
+      "World Cruises"
+    ],
+    "departurePort": [
+      "Port of Southampton"
+    ],
+    "arrivalPort": [
+      "Port of Southampton"
+    ],
+    "cabinType": [
+      "Interior Cabin",
+      "Ocean View",
+      "Balcony Cabin",
+      "Suite"
+    ],
+    "duration": [
+      "15+ Nights"
+    ],
+    "budget": [
+      "Premium"
+    ],
+    "luxury": true,
+    "family": true,
+    "adultsOnly": false,
+    "accessible": true,
+    "petFriendly": false,
+    "riverCruise": false,
+    "oceanCruise": true,
+    "expedition": false,
+    "season": [
+      "Summer",
+      "Winter"
+    ],
+    "month": [
+      "January",
+      "May"
+    ],
+    "schoolHolidays": true,
+    "christmas": true,
+    "newYear": true,
+    "summer": true,
+    "winter": false,
+    "spring": false,
+    "autumn": false,
+    "visaRequired": false,
+    "noVisa": false,
+    "wheelchairAccessible": true,
+    "internetIncluded": true,
+    "drinksIncluded": true,
+    "flightsIncluded": true,
+    "transfersIncluded": true
+  },
+  "ratings": {
+    "overall": 4.4,
+    "cabin": 4.3,
+    "dining": 4.4,
+    "entertainment": 4.4,
+    "service": 4.4,
+    "excursion": 4.3,
+    "cleanliness": 4.5,
+    "value": 4.4,
+    "internet": 4.3,
+    "family": 4.4,
+    "luxury": 4.4,
+    "reviewCount": 30
+  },
+  "fromPriceUSD": 17776
+}

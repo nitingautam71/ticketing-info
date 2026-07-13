@@ -1,0 +1,1479 @@
+{
+  "id": "PKG-CRUISE-HURTIGRUTEN-MS-ROALD-AMUNDSEN-12-NIGHT-7N-KOREA-JAPAN-EXPLORER-CRUISE",
+  "slug": "hurtigruten-ms-roald-amundsen-12-night-7n-korea-japan-explorer-cruise",
+  "title": "12-Night South Korea & Japan Explorer",
+  "cruiseName": "12-Night South Korea & Japan Explorer",
+  "cruiseLineId": "hurtigruten",
+  "cruiseLineName": "Hurtigruten",
+  "shipId": "ms-roald-amundsen",
+  "shipName": "MS Roald Amundsen",
+  "shipSpecs": {
+    "name": "MS Roald Amundsen",
+    "shipClass": "Polar Hybrid Class",
+    "launchYear": 2019,
+    "passengerCapacity": 530,
+    "crewSize": 150,
+    "tonnage": 20889,
+    "lengthMeters": 140,
+    "decks": 9,
+    "totalCabins": 265,
+    "maxOccupancy": 530,
+    "averageAge": 7,
+    "rating": 4.7
+  },
+  "categories": [
+    "Expedition Cruises",
+    "Seasonal Cruises"
+  ],
+  "destination": "South Korea",
+  "departurePortId": "busan-port",
+  "departurePortName": "Busan International Passenger Terminal",
+  "arrivalPortId": "busan-port",
+  "arrivalPortName": "Busan International Passenger Terminal",
+  "durationNights": 12,
+  "embarkationTime": "12:00 PM - 03:30 PM",
+  "disembarkationTime": "07:00 AM - 09:30 AM",
+  "seaDays": 4,
+  "portDays": 9,
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "portId": "busan-port",
+      "portName": "Busan",
+      "arrivalTime": "Embarkation",
+      "departureTime": "06:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Browse Jagalchi Fish Market before boarding",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Korean BBQ station"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Show"
+      ]
+    },
+    {
+      "day": 2,
+      "portName": "Jeju Island",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 290,
+      "activities": [
+        "Hike the Seongsan Ilchulbong volcanic crater",
+        "Visit a traditional Haenyeo (female diver) village",
+        "Explore Manjanggul lava tube cave"
+      ],
+      "suggestedExcursions": [
+        "Seongsan Ilchulbong Sunrise Peak Tour",
+        "Jeju Island Highlights & Waterfalls Tour"
+      ],
+      "diningRecommendations": [
+        "Jeju black pork restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Korean traditional drum performance"
+      ]
+    },
+    {
+      "day": 3,
+      "portName": "Fukuoka",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 210,
+      "activities": [
+        "Visit Dazaifu Tenmangu Shrine",
+        "Sample Hakata ramen at Yatai food stalls",
+        "Explore Fukuoka Castle ruins"
+      ],
+      "suggestedExcursions": [
+        "Dazaifu Shrine & Hakata Old Town Tour",
+        "Fukuoka Yatai Food Stall Tour"
+      ],
+      "diningRecommendations": [
+        "Hakata Yatai ramen stalls",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Japanese taiko drum performance"
+      ]
+    },
+    {
+      "day": 4,
+      "portName": "Nagasaki",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "05:00 PM",
+      "distanceKm": 160,
+      "activities": [
+        "Visit the Atomic Bomb Museum and Peace Park",
+        "Explore Glover Garden colonial houses",
+        "Ride the Nagasaki Ropeway to Mount Inasa"
+      ],
+      "suggestedExcursions": [
+        "Peace Park & Atomic Bomb Museum Tour",
+        "Glover Garden & Dutch Slopes Walking Tour"
+      ],
+      "diningRecommendations": [
+        "Shikairo (Champon noodle originator)",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Peace and history reflection lecture"
+      ]
+    },
+    {
+      "day": 5,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 340,
+      "activities": [
+        "Korean cooking demonstration",
+        "K-pop dance class",
+        "Ginseng tasting seminar"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Korean BBQ",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "K-pop tribute show"
+      ]
+    },
+    {
+      "day": 6,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 260,
+      "activities": [
+        "Farewell packing",
+        "Trivia contest",
+        "Spa treatments"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Gala Show"
+      ]
+    },
+    {
+      "day": 7,
+      "portId": "busan-port",
+      "portName": "Busan",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 0,
+      "activities": [
+        "Final breakfast",
+        "Customs & departure transfers"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 8,
+      "portId": "busan-port",
+      "portName": "Busan",
+      "arrivalTime": "Embarkation",
+      "departureTime": "06:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Browse Jagalchi Fish Market before boarding",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Korean BBQ station"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Show"
+      ]
+    },
+    {
+      "day": 9,
+      "portName": "Jeju Island",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 290,
+      "activities": [
+        "Hike the Seongsan Ilchulbong volcanic crater",
+        "Visit a traditional Haenyeo (female diver) village",
+        "Explore Manjanggul lava tube cave"
+      ],
+      "suggestedExcursions": [
+        "Seongsan Ilchulbong Sunrise Peak Tour",
+        "Jeju Island Highlights & Waterfalls Tour"
+      ],
+      "diningRecommendations": [
+        "Jeju black pork restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Korean traditional drum performance"
+      ]
+    },
+    {
+      "day": 10,
+      "portName": "Fukuoka",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 210,
+      "activities": [
+        "Visit Dazaifu Tenmangu Shrine",
+        "Sample Hakata ramen at Yatai food stalls",
+        "Explore Fukuoka Castle ruins"
+      ],
+      "suggestedExcursions": [
+        "Dazaifu Shrine & Hakata Old Town Tour",
+        "Fukuoka Yatai Food Stall Tour"
+      ],
+      "diningRecommendations": [
+        "Hakata Yatai ramen stalls",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Japanese taiko drum performance"
+      ]
+    },
+    {
+      "day": 11,
+      "portName": "Nagasaki",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "05:00 PM",
+      "distanceKm": 160,
+      "activities": [
+        "Visit the Atomic Bomb Museum and Peace Park",
+        "Explore Glover Garden colonial houses",
+        "Ride the Nagasaki Ropeway to Mount Inasa"
+      ],
+      "suggestedExcursions": [
+        "Peace Park & Atomic Bomb Museum Tour",
+        "Glover Garden & Dutch Slopes Walking Tour"
+      ],
+      "diningRecommendations": [
+        "Shikairo (Champon noodle originator)",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Peace and history reflection lecture"
+      ]
+    },
+    {
+      "day": 12,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 340,
+      "activities": [
+        "Korean cooking demonstration",
+        "K-pop dance class",
+        "Ginseng tasting seminar"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Korean BBQ",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "K-pop tribute show"
+      ]
+    },
+    {
+      "day": 13,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "Disembarkation",
+      "departureTime": "Disembarkation",
+      "distanceKm": 260,
+      "activities": [
+        "Farewell packing",
+        "Trivia contest",
+        "Spa treatments"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Gala Show"
+      ]
+    }
+  ],
+  "shoreExcursions": [
+    {
+      "id": "EXC-busan-0",
+      "name": "Secrets of Busan",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 234,
+      "description": "A wonderful half-day tours exploring the sights of Busan. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-jeju-island-1",
+      "name": "Secrets of Jeju Island",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 263,
+      "description": "A wonderful half-day tours exploring the sights of Jeju Island. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-fukuoka-2",
+      "name": "Best of Fukuoka",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Fukuoka. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-nagasaki-3",
+      "name": "Scenic Route of Nagasaki",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 218,
+      "description": "A wonderful half-day tours exploring the sights of Nagasaki. This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-busan-4",
+      "name": "Best of Busan",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Busan. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-busan-5",
+      "name": "Discover Busan",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 119,
+      "description": "A wonderful full-day tours exploring the sights of Busan. This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-jeju-island-6",
+      "name": "Discover Jeju Island",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 143,
+      "description": "A wonderful full-day tours exploring the sights of Jeju Island. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-fukuoka-7",
+      "name": "Highlights of Fukuoka",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 101,
+      "description": "A wonderful full-day tours exploring the sights of Fukuoka. This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-nagasaki-8",
+      "name": "Highlights of Nagasaki",
+      "type": "Paid Excursions",
+      "duration": "Full-Day Tours",
+      "priceUSD": 85,
+      "description": "A wonderful full-day tours exploring the sights of Nagasaki. This paid excursions covers main landmarks, guided by a local historian."
+    }
+  ],
+  "onboardExperience": {
+    "restaurants": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "specialtyDining": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian",
+      "Jacques French Bistro",
+      "Red Ginger Pan-Asian"
+    ],
+    "bars": [
+      "Schooner Piano Bar",
+      "Pool Bar",
+      "Sunset Lounge"
+    ],
+    "lounges": [
+      "Viking Crown Lounge",
+      "Explorer's Lounge"
+    ],
+    "pools": 1,
+    "waterParks": false,
+    "casino": false,
+    "spa": true,
+    "fitnessCenter": true,
+    "kidsClub": false,
+    "teenClub": false,
+    "theater": false,
+    "broadwayShows": [],
+    "comedy": false,
+    "nightclubs": false,
+    "shopping": [
+      "Boutique Gift Shop"
+    ],
+    "artGallery": false,
+    "sportsFeatures": [
+      "Fitness jogging track",
+      "Shuffleboard"
+    ],
+    "movieTheater": false,
+    "library": true,
+    "businessCenter": true,
+    "medicalCenter": true,
+    "weddingChapel": false
+  },
+  "dining": {
+    "complimentary": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "buffets": [
+      "Lido Buffet",
+      "Windjammer Café"
+    ],
+    "specialty": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian",
+      "Jacques French Bistro",
+      "Red Ginger Pan-Asian"
+    ],
+    "chefsTable": false,
+    "roomService": "24-hour complimentary room service available (late-night service fee may apply on some tiers)",
+    "dietaryOptions": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": false,
+      "kosher": false,
+      "glutenFree": true
+    },
+    "kidsMenu": true
+  },
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Luxury cruise ship MS Roald Amundsen sailing in South Korea",
+      "keywords": [
+        "MS Roald Amundsen",
+        "South Korea",
+        "cruise ship"
+      ],
+      "unsplashQuery": "cruise ship south korea",
+      "pexelsQuery": "cruise ship south korea"
+    },
+    {
+      "role": "ship",
+      "altText": "MS Roald Amundsen cruise ship deck view and design",
+      "keywords": [
+        "MS Roald Amundsen",
+        "exterior",
+        "cruise deck"
+      ],
+      "unsplashQuery": "cruise ship deck",
+      "pexelsQuery": "cruise ship exterior"
+    },
+    {
+      "role": "cabin",
+      "altText": "Balcony stateroom cabin on board MS Roald Amundsen",
+      "keywords": [
+        "cruise cabin",
+        "stateroom",
+        "balcony room"
+      ],
+      "unsplashQuery": "cruise cabin",
+      "pexelsQuery": "hotel room balcony view"
+    },
+    {
+      "role": "restaurant",
+      "altText": "Gourmet fine dining restaurant onboard cruise ship",
+      "keywords": [
+        "cruise dining",
+        "restaurant",
+        "fine dining"
+      ],
+      "unsplashQuery": "fine dining restaurant",
+      "pexelsQuery": "luxury restaurant"
+    },
+    {
+      "role": "pool",
+      "altText": "Main resort-style swimming pool on the ship deck",
+      "keywords": [
+        "cruise pool",
+        "swimming pool",
+        "deck pools"
+      ],
+      "unsplashQuery": "cruise ship pool",
+      "pexelsQuery": "resort pool"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-1",
+      "author": "Guest Traveler 1",
+      "country": "Germany",
+      "date": "2026-07-08",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-2",
+      "author": "Guest Traveler 2",
+      "country": "Canada",
+      "date": "2026-07-03",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-3",
+      "author": "Guest Traveler 3",
+      "country": "United States",
+      "date": "2026-06-28",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 3.5,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 4,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-4",
+      "author": "Guest Traveler 4",
+      "country": "Australia",
+      "date": "2026-06-23",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-5",
+      "author": "Guest Traveler 5",
+      "country": "Australia",
+      "date": "2026-06-18",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-6",
+      "author": "Guest Traveler 6",
+      "country": "United States",
+      "date": "2026-06-13",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 3.5,
+        "dining": 3.5,
+        "entertainment": 4,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 3.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-7",
+      "author": "Guest Traveler 7",
+      "country": "United States",
+      "date": "2026-06-08",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 3.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 3.5,
+        "excursion": 3.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-8",
+      "author": "Guest Traveler 8",
+      "country": "Canada",
+      "date": "2026-06-03",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-9",
+      "author": "Guest Traveler 9",
+      "country": "Singapore",
+      "date": "2026-05-29",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-10",
+      "author": "Guest Traveler 10",
+      "country": "Australia",
+      "date": "2026-05-24",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-11",
+      "author": "Guest Traveler 11",
+      "country": "Australia",
+      "date": "2026-05-19",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-12",
+      "author": "Guest Traveler 12",
+      "country": "Germany",
+      "date": "2026-05-14",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-13",
+      "author": "Guest Traveler 13",
+      "country": "Australia",
+      "date": "2026-05-09",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-14",
+      "author": "Guest Traveler 14",
+      "country": "Germany",
+      "date": "2026-05-04",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-15",
+      "author": "Guest Traveler 15",
+      "country": "Australia",
+      "date": "2026-04-29",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-16",
+      "author": "Guest Traveler 16",
+      "country": "United Kingdom",
+      "date": "2026-04-24",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-17",
+      "author": "Guest Traveler 17",
+      "country": "Germany",
+      "date": "2026-04-19",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-18",
+      "author": "Guest Traveler 18",
+      "country": "Australia",
+      "date": "2026-04-14",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-19",
+      "author": "Guest Traveler 19",
+      "country": "United Kingdom",
+      "date": "2026-04-09",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-20",
+      "author": "Guest Traveler 20",
+      "country": "United States",
+      "date": "2026-04-04",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 3.5,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 3.5,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-21",
+      "author": "Guest Traveler 21",
+      "country": "United Kingdom",
+      "date": "2026-03-30",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-22",
+      "author": "Guest Traveler 22",
+      "country": "Singapore",
+      "date": "2026-03-25",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-23",
+      "author": "Guest Traveler 23",
+      "country": "Australia",
+      "date": "2026-03-20",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-24",
+      "author": "Guest Traveler 24",
+      "country": "United Kingdom",
+      "date": "2026-03-15",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-25",
+      "author": "Guest Traveler 25",
+      "country": "United States",
+      "date": "2026-03-10",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-26",
+      "author": "Guest Traveler 26",
+      "country": "United States",
+      "date": "2026-03-05",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 3.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-27",
+      "author": "Guest Traveler 27",
+      "country": "Australia",
+      "date": "2026-02-28",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-28",
+      "author": "Guest Traveler 28",
+      "country": "Singapore",
+      "date": "2026-02-23",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-29",
+      "author": "Guest Traveler 29",
+      "country": "United States",
+      "date": "2026-02-18",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-12-night-south-korea---japan-explorer-30",
+      "author": "Guest Traveler 30",
+      "country": "Germany",
+      "date": "2026-02-13",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 12-Night South Korea & Japan Explorer and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    }
+  ],
+  "seo": {
+    "title": "12-Night South Korea & Japan Explorer | MS Roald Amundsen | Hurtigruten",
+    "slug": "hurtigruten-ms-roald-amundsen-12-night-7n-korea-japan-explorer-cruise",
+    "metaDescription": "Book a 12-night South Korea cruise onboard MS Roald Amundsen of Hurtigruten. Visiting Busan, Jeju Island, Fukuoka. Standard & luxury cabins available. Get a quote today.",
+    "keywords": [
+      "South Korea cruise",
+      "Hurtigruten packages",
+      "MS Roald Amundsen staterooms",
+      "12 day cruise deals",
+      "cruise vacation"
+    ],
+    "canonicalUrl": "/cruises/hurtigruten-ms-roald-amundsen-12-night-7n-korea-japan-explorer-cruise",
+    "openGraph": {
+      "title": "12-Night South Korea & Japan Explorer - Hurtigruten",
+      "description": "Book a 12-night South Korea cruise onboard MS Roald Amundsen of Hurtigruten. Visiting Busan, Jeju Island, Fukuoka. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/ms-roald-amundsen-hero.jpg",
+      "type": "website"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "title": "12-Night South Korea & Japan Explorer - Hurtigruten",
+      "description": "Book a 12-night South Korea cruise onboard MS Roald Amundsen of Hurtigruten. Visiting Busan, Jeju Island, Fukuoka. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/ms-roald-amundsen-hero.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "12-Night South Korea & Japan Explorer",
+      "description": "Book a 12-night South Korea cruise onboard MS Roald Amundsen of Hurtigruten. Visiting Busan, Jeju Island, Fukuoka. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/ms-roald-amundsen-hero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "2653",
+        "highPrice": "10612",
+        "offerCount": "10",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Interior Cabin",
+            "price": "2653",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ocean View",
+            "price": "3227",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Balcony Cabin",
+            "price": "4028",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Junior Suite",
+            "price": "5207",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Suite",
+            "price": "6811",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Suite",
+            "price": "10023",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Owner's Suite",
+            "price": "15296",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Family Cabin",
+            "price": "4831",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Accessible Cabin",
+            "price": "2881",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Solo Cabin",
+            "price": "2308",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "reviewCount": "30"
+      }
+    }
+  },
+  "aiSearchTags": [
+    "south korea cruise",
+    "hurtigruten",
+    "ms roald amundsen",
+    "12 night cruise",
+    "busan international passenger terminal departure",
+    "busan international passenger terminal arrival",
+    "family friendly cruise",
+    "ocean cruise",
+    "affordable cruise",
+    "balcony cabin available",
+    "all inclusive options",
+    "kids club onboard",
+    "specialty dining included",
+    "shore excursions available",
+    "visit busan",
+    "visit jeju island",
+    "visit fukuoka",
+    "visit nagasaki",
+    "visit busan",
+    "visit busan",
+    "visit jeju island",
+    "visit fukuoka",
+    "visit nagasaki",
+    "eat at pinnacle grill steakhouse",
+    "eat at tuscan grille italian",
+    "eat at jacques french bistro",
+    "eat at red ginger pan-asian",
+    "onboard fitness jogging track",
+    "onboard shuffleboard",
+    "cruise discount tag 29",
+    "cruise discount tag 30",
+    "cruise discount tag 31",
+    "cruise discount tag 32",
+    "cruise discount tag 33",
+    "cruise discount tag 34",
+    "cruise discount tag 35",
+    "cruise discount tag 36",
+    "cruise discount tag 37",
+    "cruise discount tag 38",
+    "cruise discount tag 39",
+    "cruise discount tag 40",
+    "cruise discount tag 41",
+    "cruise discount tag 42",
+    "cruise discount tag 43",
+    "cruise discount tag 44",
+    "cruise discount tag 45",
+    "cruise discount tag 46",
+    "cruise discount tag 47",
+    "cruise discount tag 48",
+    "cruise discount tag 49",
+    "cruise discount tag 50",
+    "cruise discount tag 51",
+    "cruise discount tag 52",
+    "cruise discount tag 53",
+    "cruise discount tag 54",
+    "cruise discount tag 55",
+    "cruise discount tag 56",
+    "cruise discount tag 57",
+    "cruise discount tag 58",
+    "cruise discount tag 59",
+    "cruise discount tag 60",
+    "cruise discount tag 61",
+    "cruise discount tag 62",
+    "cruise discount tag 63",
+    "cruise discount tag 64",
+    "cruise discount tag 65",
+    "cruise discount tag 66",
+    "cruise discount tag 67",
+    "cruise discount tag 68",
+    "cruise discount tag 69",
+    "cruise discount tag 70",
+    "cruise discount tag 71",
+    "cruise discount tag 72",
+    "cruise discount tag 73",
+    "cruise discount tag 74"
+  ],
+  "filters": {
+    "cruiseLine": [
+      "Hurtigruten"
+    ],
+    "ship": [
+      "MS Roald Amundsen"
+    ],
+    "shipClass": [
+      "Polar Hybrid Class"
+    ],
+    "destination": [
+      "South Korea"
+    ],
+    "departurePort": [
+      "Busan International Passenger Terminal"
+    ],
+    "arrivalPort": [
+      "Busan International Passenger Terminal"
+    ],
+    "cabinType": [
+      "Interior Cabin",
+      "Ocean View",
+      "Balcony Cabin",
+      "Suite"
+    ],
+    "duration": [
+      "9-14 Nights"
+    ],
+    "budget": [
+      "Premium"
+    ],
+    "luxury": false,
+    "family": true,
+    "adultsOnly": false,
+    "accessible": true,
+    "petFriendly": false,
+    "riverCruise": false,
+    "oceanCruise": true,
+    "expedition": true,
+    "season": [
+      "Summer",
+      "Winter"
+    ],
+    "month": [
+      "January",
+      "May"
+    ],
+    "schoolHolidays": true,
+    "christmas": true,
+    "newYear": false,
+    "summer": true,
+    "winter": false,
+    "spring": false,
+    "autumn": false,
+    "visaRequired": false,
+    "noVisa": false,
+    "wheelchairAccessible": true,
+    "internetIncluded": false,
+    "drinksIncluded": false,
+    "flightsIncluded": false,
+    "transfersIncluded": false
+  },
+  "ratings": {
+    "overall": 4.4,
+    "cabin": 4.4,
+    "dining": 4.4,
+    "entertainment": 4.3,
+    "service": 4.4,
+    "excursion": 4.3,
+    "cleanliness": 4.5,
+    "value": 4.4,
+    "internet": 4.4,
+    "family": 4.4,
+    "luxury": 4.3,
+    "reviewCount": 30
+  },
+  "fromPriceUSD": 2653
+}

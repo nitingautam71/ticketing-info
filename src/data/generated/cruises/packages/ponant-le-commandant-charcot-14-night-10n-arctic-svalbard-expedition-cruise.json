@@ -1,0 +1,1562 @@
+{
+  "id": "PKG-CRUISE-PONANT-LE-COMMANDANT-CHARCOT-14-NIGHT-10N-ARCTIC-SVALBARD-EXPEDITION-CRUISE",
+  "slug": "ponant-le-commandant-charcot-14-night-10n-arctic-svalbard-expedition-cruise",
+  "title": "14-Night Arctic Svalbard Expedition",
+  "cruiseName": "14-Night Arctic Svalbard Expedition",
+  "cruiseLineId": "ponant",
+  "cruiseLineName": "Ponant",
+  "shipId": "le-commandant-charcot",
+  "shipName": "Le Commandant Charcot",
+  "shipSpecs": {
+    "name": "Le Commandant Charcot",
+    "shipClass": "Polar Expedition Class",
+    "launchYear": 2021,
+    "passengerCapacity": 270,
+    "crewSize": 187,
+    "tonnage": 31283,
+    "lengthMeters": 150,
+    "decks": 9,
+    "totalCabins": 135,
+    "maxOccupancy": 270,
+    "averageAge": 5,
+    "rating": 5
+  },
+  "categories": [
+    "Expedition Cruises",
+    "Luxury Cruises",
+    "Small Ship Cruises"
+  ],
+  "destination": "Arctic",
+  "departurePortId": "reykjavik-port",
+  "departurePortName": "Port of Reykjavík (Skarfabakki)",
+  "arrivalPortId": "reykjavik-port",
+  "arrivalPortName": "Port of Reykjavík (Skarfabakki)",
+  "durationNights": 14,
+  "embarkationTime": "12:00 PM - 03:30 PM",
+  "disembarkationTime": "07:00 AM - 09:30 AM",
+  "seaDays": 4,
+  "portDays": 11,
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "portId": "reykjavik-port",
+      "portName": "Reykjavik",
+      "arrivalTime": "Embarkation",
+      "departureTime": "06:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Expedition gear fitting",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Expedition lounge cafe"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Expedition Briefing"
+      ]
+    },
+    {
+      "day": 2,
+      "portName": "Cruising the Norwegian Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 920,
+      "activities": [
+        "Polar bear safety briefing",
+        "Arctic geology lecture",
+        "Seabird watching from the bridge"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Lounge hot soup station",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Arctic exploration history lecture"
+      ]
+    },
+    {
+      "day": 3,
+      "portName": "Longyearbyen (Svalbard)",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "05:00 PM",
+      "distanceKm": 480,
+      "activities": [
+        "Visit the Svalbard Museum",
+        "See the Global Seed Vault exterior",
+        "Optional dog-sledding on the tundra"
+      ],
+      "suggestedExcursions": [
+        "Svalbard Museum & Town Tour",
+        "Arctic Dog Sledding Excursion"
+      ],
+      "diningRecommendations": [
+        "Kroa Restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Polar bear ecology lecture"
+      ]
+    },
+    {
+      "day": 4,
+      "portName": "Ny-Ålesund",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "04:00 PM",
+      "distanceKm": 110,
+      "activities": [
+        "Visit the world's northernmost permanent settlement",
+        "Zodiac cruise among glacier fronts",
+        "Arctic tern and reindeer spotting"
+      ],
+      "suggestedExcursions": [
+        "Ny-Ålesund Research Station Landing",
+        "Kongsfjorden Glacier Zodiac Cruise"
+      ],
+      "diningRecommendations": [
+        "Expedition Galley hot lunch",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Climate research lecture by the expedition team"
+      ]
+    },
+    {
+      "day": 5,
+      "portName": "Polar Ice Edge",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "02:00 PM",
+      "distanceKm": 260,
+      "activities": [
+        "Scenic cruising along the polar pack ice",
+        "Wildlife watch for polar bears and walrus",
+        "Zodiac cruise among ice floes"
+      ],
+      "suggestedExcursions": [
+        "Polar Ice Edge Zodiac Wildlife Cruise"
+      ],
+      "diningRecommendations": [
+        "Expedition Galley hot lunch",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Midnight sun deck gathering (seasonal)"
+      ]
+    },
+    {
+      "day": 6,
+      "portName": "Fjortende Julibukta (Fourteenth of July Bay)",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "05:00 PM",
+      "distanceKm": 140,
+      "activities": [
+        "Landing beneath a dramatic tidewater glacier",
+        "Kittiwake seabird colony viewing",
+        "Arctic botany walk with a naturalist"
+      ],
+      "suggestedExcursions": [
+        "Glacier Front Zodiac Cruise",
+        "Arctic Tundra Nature Walk"
+      ],
+      "diningRecommendations": [
+        "Expedition Galley hot lunch",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Daily expedition team recap"
+      ]
+    },
+    {
+      "day": 7,
+      "portName": "Cruising the Norwegian Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 780,
+      "activities": [
+        "Photo editing workshop",
+        "Farewell packing",
+        "Whale watching from the bridge"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Lounge hot soup station",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Expedition team trivia night"
+      ]
+    },
+    {
+      "day": 8,
+      "portName": "Cruising the Norwegian Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 610,
+      "activities": [
+        "Certificate of Arctic Circle crossing ceremony",
+        "Final gear return",
+        "Spa treatments"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Lounge hot soup station",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Gala Dinner"
+      ]
+    },
+    {
+      "day": 9,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 320,
+      "activities": [
+        "Final packing",
+        "Onboard shopping specials",
+        "Farewell brunch prep"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Variety Show"
+      ]
+    },
+    {
+      "day": 10,
+      "portId": "reykjavik-port",
+      "portName": "Reykjavik",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 0,
+      "activities": [
+        "Final breakfast",
+        "Customs & departure transfers"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 11,
+      "portId": "reykjavik-port",
+      "portName": "Reykjavik",
+      "arrivalTime": "Embarkation",
+      "departureTime": "06:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Expedition gear fitting",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Expedition lounge cafe"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Expedition Briefing"
+      ]
+    },
+    {
+      "day": 12,
+      "portName": "Cruising the Norwegian Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 920,
+      "activities": [
+        "Polar bear safety briefing",
+        "Arctic geology lecture",
+        "Seabird watching from the bridge"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Lounge hot soup station",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Arctic exploration history lecture"
+      ]
+    },
+    {
+      "day": 13,
+      "portName": "Longyearbyen (Svalbard)",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "05:00 PM",
+      "distanceKm": 480,
+      "activities": [
+        "Visit the Svalbard Museum",
+        "See the Global Seed Vault exterior",
+        "Optional dog-sledding on the tundra"
+      ],
+      "suggestedExcursions": [
+        "Svalbard Museum & Town Tour",
+        "Arctic Dog Sledding Excursion"
+      ],
+      "diningRecommendations": [
+        "Kroa Restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Polar bear ecology lecture"
+      ]
+    },
+    {
+      "day": 14,
+      "portName": "Ny-Ålesund",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "04:00 PM",
+      "distanceKm": 110,
+      "activities": [
+        "Visit the world's northernmost permanent settlement",
+        "Zodiac cruise among glacier fronts",
+        "Arctic tern and reindeer spotting"
+      ],
+      "suggestedExcursions": [
+        "Ny-Ålesund Research Station Landing",
+        "Kongsfjorden Glacier Zodiac Cruise"
+      ],
+      "diningRecommendations": [
+        "Expedition Galley hot lunch",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Climate research lecture by the expedition team"
+      ]
+    },
+    {
+      "day": 15,
+      "portName": "Polar Ice Edge",
+      "arrivalTime": "Disembarkation",
+      "departureTime": "Disembarkation",
+      "distanceKm": 260,
+      "activities": [
+        "Scenic cruising along the polar pack ice",
+        "Wildlife watch for polar bears and walrus",
+        "Zodiac cruise among ice floes"
+      ],
+      "suggestedExcursions": [
+        "Polar Ice Edge Zodiac Wildlife Cruise"
+      ],
+      "diningRecommendations": [
+        "Expedition Galley hot lunch",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Midnight sun deck gathering (seasonal)"
+      ]
+    }
+  ],
+  "shoreExcursions": [
+    {
+      "id": "EXC-reykjavik-0",
+      "name": "Highlights of Reykjavik",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 93,
+      "description": "A wonderful full-day tours exploring the sights of Reykjavik. This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-the-norwegian-sea-1",
+      "name": "Best of Cruising the Norwegian Sea",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Cruising the Norwegian Sea. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-longyearbyen--svalbard--2",
+      "name": "Secrets of Longyearbyen (Svalbard)",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 229,
+      "description": "A wonderful half-day tours exploring the sights of Longyearbyen (Svalbard). This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-ny--lesund-3",
+      "name": "Scenic Route of Ny-Ålesund",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 209,
+      "description": "A wonderful half-day tours exploring the sights of Ny-Ålesund. This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-polar-ice-edge-4",
+      "name": "Best of Polar Ice Edge",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Polar Ice Edge. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-fjortende-julibukta--fourteenth-of-july-bay--5",
+      "name": "Highlights of Fjortende Julibukta (Fourteenth of July Bay)",
+      "type": "Paid Excursions",
+      "duration": "Full-Day Tours",
+      "priceUSD": 85,
+      "description": "A wonderful full-day tours exploring the sights of Fjortende Julibukta (Fourteenth of July Bay). This paid excursions covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-the-norwegian-sea-6",
+      "name": "Discover Cruising the Norwegian Sea",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 123,
+      "description": "A wonderful full-day tours exploring the sights of Cruising the Norwegian Sea. This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-the-norwegian-sea-7",
+      "name": "Discover Cruising the Norwegian Sea",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 135,
+      "description": "A wonderful full-day tours exploring the sights of Cruising the Norwegian Sea. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-reykjavik-8",
+      "name": "Secrets of Reykjavik",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 249,
+      "description": "A wonderful half-day tours exploring the sights of Reykjavik. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-reykjavik-9",
+      "name": "Adventure in Reykjavik",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 166,
+      "description": "A wonderful half-day tours exploring the sights of Reykjavik. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-the-norwegian-sea-10",
+      "name": "Discover Cruising the Norwegian Sea",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 151,
+      "description": "A wonderful full-day tours exploring the sights of Cruising the Norwegian Sea. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-longyearbyen--svalbard--11",
+      "name": "Scenic Route of Longyearbyen (Svalbard)",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 213,
+      "description": "A wonderful half-day tours exploring the sights of Longyearbyen (Svalbard). This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-ny--lesund-12",
+      "name": "Discover Ny-Ålesund",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 119,
+      "description": "A wonderful full-day tours exploring the sights of Ny-Ålesund. This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-polar-ice-edge-13",
+      "name": "Highlights of Polar Ice Edge",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 112,
+      "description": "A wonderful full-day tours exploring the sights of Polar Ice Edge. This luxury experiences covers main landmarks, guided by a local historian."
+    }
+  ],
+  "onboardExperience": {
+    "restaurants": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "specialtyDining": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian",
+      "Jacques French Bistro",
+      "Red Ginger Pan-Asian"
+    ],
+    "bars": [
+      "Schooner Piano Bar",
+      "Pool Bar",
+      "Sunset Lounge"
+    ],
+    "lounges": [
+      "Viking Crown Lounge",
+      "Explorer's Lounge"
+    ],
+    "pools": 1,
+    "waterParks": false,
+    "casino": false,
+    "spa": true,
+    "fitnessCenter": true,
+    "kidsClub": false,
+    "teenClub": false,
+    "theater": false,
+    "broadwayShows": [],
+    "comedy": false,
+    "nightclubs": false,
+    "shopping": [
+      "Boutique Gift Shop"
+    ],
+    "artGallery": false,
+    "sportsFeatures": [
+      "Fitness jogging track",
+      "Shuffleboard"
+    ],
+    "movieTheater": false,
+    "library": true,
+    "businessCenter": true,
+    "medicalCenter": true,
+    "weddingChapel": false
+  },
+  "dining": {
+    "complimentary": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "buffets": [
+      "Lido Buffet",
+      "Windjammer Café"
+    ],
+    "specialty": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian",
+      "Jacques French Bistro",
+      "Red Ginger Pan-Asian"
+    ],
+    "chefsTable": false,
+    "roomService": "24-hour complimentary room service available (late-night service fee may apply on some tiers)",
+    "dietaryOptions": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": false,
+      "kosher": false,
+      "glutenFree": true
+    },
+    "kidsMenu": true
+  },
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Luxury cruise ship Le Commandant Charcot sailing in Arctic",
+      "keywords": [
+        "Le Commandant Charcot",
+        "Arctic",
+        "cruise ship"
+      ],
+      "unsplashQuery": "cruise ship arctic",
+      "pexelsQuery": "cruise ship arctic"
+    },
+    {
+      "role": "ship",
+      "altText": "Le Commandant Charcot cruise ship deck view and design",
+      "keywords": [
+        "Le Commandant Charcot",
+        "exterior",
+        "cruise deck"
+      ],
+      "unsplashQuery": "cruise ship deck",
+      "pexelsQuery": "cruise ship exterior"
+    },
+    {
+      "role": "cabin",
+      "altText": "Balcony stateroom cabin on board Le Commandant Charcot",
+      "keywords": [
+        "cruise cabin",
+        "stateroom",
+        "balcony room"
+      ],
+      "unsplashQuery": "cruise cabin",
+      "pexelsQuery": "hotel room balcony view"
+    },
+    {
+      "role": "restaurant",
+      "altText": "Gourmet fine dining restaurant onboard cruise ship",
+      "keywords": [
+        "cruise dining",
+        "restaurant",
+        "fine dining"
+      ],
+      "unsplashQuery": "fine dining restaurant",
+      "pexelsQuery": "luxury restaurant"
+    },
+    {
+      "role": "pool",
+      "altText": "Main resort-style swimming pool on the ship deck",
+      "keywords": [
+        "cruise pool",
+        "swimming pool",
+        "deck pools"
+      ],
+      "unsplashQuery": "cruise ship pool",
+      "pexelsQuery": "resort pool"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-1",
+      "author": "Guest Traveler 1",
+      "country": "United States",
+      "date": "2026-07-08",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 3.5,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-2",
+      "author": "Guest Traveler 2",
+      "country": "Canada",
+      "date": "2026-07-03",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-3",
+      "author": "Guest Traveler 3",
+      "country": "Canada",
+      "date": "2026-06-28",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-4",
+      "author": "Guest Traveler 4",
+      "country": "Germany",
+      "date": "2026-06-23",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-5",
+      "author": "Guest Traveler 5",
+      "country": "United Kingdom",
+      "date": "2026-06-18",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-6",
+      "author": "Guest Traveler 6",
+      "country": "United Kingdom",
+      "date": "2026-06-13",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-7",
+      "author": "Guest Traveler 7",
+      "country": "Germany",
+      "date": "2026-06-08",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-8",
+      "author": "Guest Traveler 8",
+      "country": "Australia",
+      "date": "2026-06-03",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-9",
+      "author": "Guest Traveler 9",
+      "country": "Canada",
+      "date": "2026-05-29",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-10",
+      "author": "Guest Traveler 10",
+      "country": "Germany",
+      "date": "2026-05-24",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-11",
+      "author": "Guest Traveler 11",
+      "country": "United Kingdom",
+      "date": "2026-05-19",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-12",
+      "author": "Guest Traveler 12",
+      "country": "Singapore",
+      "date": "2026-05-14",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-13",
+      "author": "Guest Traveler 13",
+      "country": "Canada",
+      "date": "2026-05-09",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-14",
+      "author": "Guest Traveler 14",
+      "country": "Australia",
+      "date": "2026-05-04",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-15",
+      "author": "Guest Traveler 15",
+      "country": "Germany",
+      "date": "2026-04-29",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-16",
+      "author": "Guest Traveler 16",
+      "country": "Germany",
+      "date": "2026-04-24",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-17",
+      "author": "Guest Traveler 17",
+      "country": "Canada",
+      "date": "2026-04-19",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-18",
+      "author": "Guest Traveler 18",
+      "country": "United States",
+      "date": "2026-04-14",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 3.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-19",
+      "author": "Guest Traveler 19",
+      "country": "United Kingdom",
+      "date": "2026-04-09",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-20",
+      "author": "Guest Traveler 20",
+      "country": "United States",
+      "date": "2026-04-04",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-21",
+      "author": "Guest Traveler 21",
+      "country": "United Kingdom",
+      "date": "2026-03-30",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-22",
+      "author": "Guest Traveler 22",
+      "country": "Germany",
+      "date": "2026-03-25",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-23",
+      "author": "Guest Traveler 23",
+      "country": "United States",
+      "date": "2026-03-20",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 4,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-24",
+      "author": "Guest Traveler 24",
+      "country": "United Kingdom",
+      "date": "2026-03-15",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 3.5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 3.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-25",
+      "author": "Guest Traveler 25",
+      "country": "Singapore",
+      "date": "2026-03-10",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-26",
+      "author": "Guest Traveler 26",
+      "country": "Singapore",
+      "date": "2026-03-05",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-27",
+      "author": "Guest Traveler 27",
+      "country": "Singapore",
+      "date": "2026-02-28",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-28",
+      "author": "Guest Traveler 28",
+      "country": "Singapore",
+      "date": "2026-02-23",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-29",
+      "author": "Guest Traveler 29",
+      "country": "Australia",
+      "date": "2026-02-18",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4,
+        "internet": 5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-arctic-svalbard-expedition-30",
+      "author": "Guest Traveler 30",
+      "country": "United Kingdom",
+      "date": "2026-02-13",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Arctic Svalbard Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    }
+  ],
+  "seo": {
+    "title": "14-Night Arctic Svalbard Expedition | Le Commandant Charcot | Ponant",
+    "slug": "ponant-le-commandant-charcot-14-night-10n-arctic-svalbard-expedition-cruise",
+    "metaDescription": "Book a 14-night Arctic cruise onboard Le Commandant Charcot of Ponant. Visiting Reykjavik, Cruising the Norwegian Sea, Longyearbyen (Svalbard). Standard & luxury cabins available. Get a quote today.",
+    "keywords": [
+      "Arctic cruise",
+      "Ponant packages",
+      "Le Commandant Charcot staterooms",
+      "14 day cruise deals",
+      "cruise vacation"
+    ],
+    "canonicalUrl": "/cruises/ponant-le-commandant-charcot-14-night-10n-arctic-svalbard-expedition-cruise",
+    "openGraph": {
+      "title": "14-Night Arctic Svalbard Expedition - Ponant",
+      "description": "Book a 14-night Arctic cruise onboard Le Commandant Charcot of Ponant. Visiting Reykjavik, Cruising the Norwegian Sea, Longyearbyen (Svalbard). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/le-commandant-charcot-hero.jpg",
+      "type": "website"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "title": "14-Night Arctic Svalbard Expedition - Ponant",
+      "description": "Book a 14-night Arctic cruise onboard Le Commandant Charcot of Ponant. Visiting Reykjavik, Cruising the Norwegian Sea, Longyearbyen (Svalbard). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/le-commandant-charcot-hero.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "14-Night Arctic Svalbard Expedition",
+      "description": "Book a 14-night Arctic cruise onboard Le Commandant Charcot of Ponant. Visiting Reykjavik, Cruising the Norwegian Sea, Longyearbyen (Svalbard). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/le-commandant-charcot-hero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "4186",
+        "highPrice": "16744",
+        "offerCount": "10",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Interior Cabin",
+            "price": "4186",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ocean View",
+            "price": "5189",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Balcony Cabin",
+            "price": "6594",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Junior Suite",
+            "price": "8599",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Suite",
+            "price": "11409",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Suite",
+            "price": "17028",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Owner's Suite",
+            "price": "26256",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Family Cabin",
+            "price": "7998",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Accessible Cabin",
+            "price": "4586",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Solo Cabin",
+            "price": "3584",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "reviewCount": "30"
+      }
+    }
+  },
+  "aiSearchTags": [
+    "arctic cruise",
+    "ponant",
+    "le commandant charcot",
+    "14 night cruise",
+    "port of reykjavík (skarfabakki) departure",
+    "port of reykjavík (skarfabakki) arrival",
+    "family friendly cruise",
+    "ocean cruise",
+    "luxury cruise",
+    "balcony cabin available",
+    "all inclusive options",
+    "kids club onboard",
+    "specialty dining included",
+    "shore excursions available",
+    "visit reykjavik",
+    "visit cruising the norwegian sea",
+    "visit longyearbyen (svalbard)",
+    "visit ny-ålesund",
+    "visit polar ice edge",
+    "visit fjortende julibukta (fourteenth of july bay)",
+    "visit cruising the norwegian sea",
+    "visit cruising the norwegian sea",
+    "visit reykjavik",
+    "visit reykjavik",
+    "visit cruising the norwegian sea",
+    "visit longyearbyen (svalbard)",
+    "visit ny-ålesund",
+    "visit polar ice edge",
+    "eat at pinnacle grill steakhouse",
+    "eat at tuscan grille italian",
+    "eat at jacques french bistro",
+    "eat at red ginger pan-asian",
+    "onboard fitness jogging track",
+    "onboard shuffleboard",
+    "cruise discount tag 34",
+    "cruise discount tag 35",
+    "cruise discount tag 36",
+    "cruise discount tag 37",
+    "cruise discount tag 38",
+    "cruise discount tag 39",
+    "cruise discount tag 40",
+    "cruise discount tag 41",
+    "cruise discount tag 42",
+    "cruise discount tag 43",
+    "cruise discount tag 44",
+    "cruise discount tag 45",
+    "cruise discount tag 46",
+    "cruise discount tag 47",
+    "cruise discount tag 48",
+    "cruise discount tag 49",
+    "cruise discount tag 50",
+    "cruise discount tag 51",
+    "cruise discount tag 52",
+    "cruise discount tag 53",
+    "cruise discount tag 54",
+    "cruise discount tag 55",
+    "cruise discount tag 56",
+    "cruise discount tag 57",
+    "cruise discount tag 58",
+    "cruise discount tag 59",
+    "cruise discount tag 60",
+    "cruise discount tag 61",
+    "cruise discount tag 62",
+    "cruise discount tag 63",
+    "cruise discount tag 64",
+    "cruise discount tag 65",
+    "cruise discount tag 66",
+    "cruise discount tag 67",
+    "cruise discount tag 68",
+    "cruise discount tag 69",
+    "cruise discount tag 70",
+    "cruise discount tag 71",
+    "cruise discount tag 72",
+    "cruise discount tag 73",
+    "cruise discount tag 74"
+  ],
+  "filters": {
+    "cruiseLine": [
+      "Ponant"
+    ],
+    "ship": [
+      "Le Commandant Charcot"
+    ],
+    "shipClass": [
+      "Polar Expedition Class"
+    ],
+    "destination": [
+      "Arctic"
+    ],
+    "departurePort": [
+      "Port of Reykjavík (Skarfabakki)"
+    ],
+    "arrivalPort": [
+      "Port of Reykjavík (Skarfabakki)"
+    ],
+    "cabinType": [
+      "Interior Cabin",
+      "Ocean View",
+      "Balcony Cabin",
+      "Suite"
+    ],
+    "duration": [
+      "9-14 Nights"
+    ],
+    "budget": [
+      "Premium"
+    ],
+    "luxury": true,
+    "family": true,
+    "adultsOnly": false,
+    "accessible": true,
+    "petFriendly": false,
+    "riverCruise": false,
+    "oceanCruise": true,
+    "expedition": true,
+    "season": [
+      "Summer",
+      "Winter"
+    ],
+    "month": [
+      "March",
+      "July"
+    ],
+    "schoolHolidays": true,
+    "christmas": false,
+    "newYear": false,
+    "summer": true,
+    "winter": false,
+    "spring": false,
+    "autumn": false,
+    "visaRequired": false,
+    "noVisa": false,
+    "wheelchairAccessible": true,
+    "internetIncluded": true,
+    "drinksIncluded": true,
+    "flightsIncluded": true,
+    "transfersIncluded": true
+  },
+  "ratings": {
+    "overall": 4.4,
+    "cabin": 4.4,
+    "dining": 4.5,
+    "entertainment": 4.4,
+    "service": 4.4,
+    "excursion": 4.4,
+    "cleanliness": 4.4,
+    "value": 4.4,
+    "internet": 4.5,
+    "family": 4.5,
+    "luxury": 4.4,
+    "reviewCount": 30
+  },
+  "fromPriceUSD": 4186
+}

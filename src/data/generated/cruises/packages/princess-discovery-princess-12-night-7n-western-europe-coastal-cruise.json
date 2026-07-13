@@ -1,0 +1,1502 @@
+{
+  "id": "PKG-CRUISE-PRINCESS-DISCOVERY-PRINCESS-12-NIGHT-7N-WESTERN-EUROPE-COASTAL-CRUISE",
+  "slug": "princess-discovery-princess-12-night-7n-western-europe-coastal-cruise",
+  "title": "12-Night Western Europe Coastal Discovery",
+  "cruiseName": "12-Night Western Europe Coastal Discovery",
+  "cruiseLineId": "princess",
+  "cruiseLineName": "Princess Cruises",
+  "shipId": "discovery-princess",
+  "shipName": "Discovery Princess",
+  "shipSpecs": {
+    "name": "Discovery Princess",
+    "shipClass": "Royal Class",
+    "launchYear": 2022,
+    "passengerCapacity": 3660,
+    "crewSize": 1346,
+    "tonnage": 145000,
+    "lengthMeters": 330,
+    "decks": 19,
+    "totalCabins": 1830,
+    "maxOccupancy": 4610,
+    "averageAge": 4,
+    "rating": 4.6
+  },
+  "categories": [
+    "Ocean Cruises",
+    "Seasonal Cruises"
+  ],
+  "destination": "Western Europe",
+  "departurePortId": "southampton",
+  "departurePortName": "Port of Southampton",
+  "arrivalPortId": "southampton",
+  "arrivalPortName": "Port of Southampton",
+  "durationNights": 12,
+  "embarkationTime": "12:00 PM - 03:30 PM",
+  "disembarkationTime": "07:00 AM - 09:30 AM",
+  "seaDays": 4,
+  "portDays": 9,
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "Embarkation",
+      "departureTime": "05:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Ship orientation",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Wine bar tasting flight"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Show"
+      ]
+    },
+    {
+      "day": 2,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 540,
+      "activities": [
+        "Wine tasting seminar",
+        "Enrichment lecture on Iberian history",
+        "Deck yoga class"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Steakhouse",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Broadway-style musical production"
+      ]
+    },
+    {
+      "day": 3,
+      "portName": "Bordeaux (Le Verdon)",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 660,
+      "activities": [
+        "Tour a Médoc vineyard chateau",
+        "Explore the Cité du Vin museum",
+        "Stroll Place de la Bourse"
+      ],
+      "suggestedExcursions": [
+        "Médoc Vineyard & Wine Tasting Tour",
+        "Bordeaux City Highlights Tour"
+      ],
+      "diningRecommendations": [
+        "Le Bordeaux by Gordon Ramsay",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "French cabaret show"
+      ]
+    },
+    {
+      "day": 4,
+      "portName": "Bilbao",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 350,
+      "activities": [
+        "Tour the Guggenheim Museum Bilbao",
+        "Walk the Casco Viejo old quarter",
+        "Pintxos tasting crawl"
+      ],
+      "suggestedExcursions": [
+        "Guggenheim Museum Guided Tour",
+        "Basque Pintxos Food Walking Tour"
+      ],
+      "diningRecommendations": [
+        "Mercado de la Ribera stalls",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Flamenco-inspired dance performance"
+      ]
+    },
+    {
+      "day": 5,
+      "portName": "Lisbon",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "07:00 PM",
+      "distanceKm": 610,
+      "activities": [
+        "Ride historic Tram 28 through Alfama",
+        "Visit the Belém Tower and Jerónimos Monastery",
+        "Taste pastéis de nata"
+      ],
+      "suggestedExcursions": [
+        "Alfama & Belém Historic District Tour",
+        "Sintra Palaces Day Trip"
+      ],
+      "diningRecommendations": [
+        "Time Out Market Lisboa",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Live Fado music performance"
+      ]
+    },
+    {
+      "day": 6,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 900,
+      "activities": [
+        "Farewell packing",
+        "Culinary masterclass",
+        "Art auction"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Gala Show"
+      ]
+    },
+    {
+      "day": 7,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 480,
+      "activities": [
+        "Final breakfast",
+        "Customs & departure transfers"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 8,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "Embarkation",
+      "departureTime": "05:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Ship orientation",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Wine bar tasting flight"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Show"
+      ]
+    },
+    {
+      "day": 9,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 540,
+      "activities": [
+        "Wine tasting seminar",
+        "Enrichment lecture on Iberian history",
+        "Deck yoga class"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Steakhouse",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Broadway-style musical production"
+      ]
+    },
+    {
+      "day": 10,
+      "portName": "Bordeaux (Le Verdon)",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 660,
+      "activities": [
+        "Tour a Médoc vineyard chateau",
+        "Explore the Cité du Vin museum",
+        "Stroll Place de la Bourse"
+      ],
+      "suggestedExcursions": [
+        "Médoc Vineyard & Wine Tasting Tour",
+        "Bordeaux City Highlights Tour"
+      ],
+      "diningRecommendations": [
+        "Le Bordeaux by Gordon Ramsay",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "French cabaret show"
+      ]
+    },
+    {
+      "day": 11,
+      "portName": "Bilbao",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 350,
+      "activities": [
+        "Tour the Guggenheim Museum Bilbao",
+        "Walk the Casco Viejo old quarter",
+        "Pintxos tasting crawl"
+      ],
+      "suggestedExcursions": [
+        "Guggenheim Museum Guided Tour",
+        "Basque Pintxos Food Walking Tour"
+      ],
+      "diningRecommendations": [
+        "Mercado de la Ribera stalls",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Flamenco-inspired dance performance"
+      ]
+    },
+    {
+      "day": 12,
+      "portName": "Lisbon",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "07:00 PM",
+      "distanceKm": 610,
+      "activities": [
+        "Ride historic Tram 28 through Alfama",
+        "Visit the Belém Tower and Jerónimos Monastery",
+        "Taste pastéis de nata"
+      ],
+      "suggestedExcursions": [
+        "Alfama & Belém Historic District Tour",
+        "Sintra Palaces Day Trip"
+      ],
+      "diningRecommendations": [
+        "Time Out Market Lisboa",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Live Fado music performance"
+      ]
+    },
+    {
+      "day": 13,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "Disembarkation",
+      "departureTime": "Disembarkation",
+      "distanceKm": 900,
+      "activities": [
+        "Farewell packing",
+        "Culinary masterclass",
+        "Art auction"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Gala Show"
+      ]
+    }
+  ],
+  "shoreExcursions": [
+    {
+      "id": "EXC-southampton-0",
+      "name": "Scenic Route of Southampton",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 210,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-bordeaux--le-verdon--1",
+      "name": "Secrets of Bordeaux (Le Verdon)",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 248,
+      "description": "A wonderful half-day tours exploring the sights of Bordeaux (Le Verdon). This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-bilbao-2",
+      "name": "Secrets of Bilbao",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 242,
+      "description": "A wonderful half-day tours exploring the sights of Bilbao. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-lisbon-3",
+      "name": "Highlights of Lisbon",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 96,
+      "description": "A wonderful full-day tours exploring the sights of Lisbon. This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-4",
+      "name": "Secrets of Southampton",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 240,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-5",
+      "name": "Adventure in Southampton",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 173,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-bordeaux--le-verdon--6",
+      "name": "Adventure in Bordeaux (Le Verdon)",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 187,
+      "description": "A wonderful half-day tours exploring the sights of Bordeaux (Le Verdon). This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-bilbao-7",
+      "name": "Secrets of Bilbao",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 244,
+      "description": "A wonderful half-day tours exploring the sights of Bilbao. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-lisbon-8",
+      "name": "Highlights of Lisbon",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 95,
+      "description": "A wonderful full-day tours exploring the sights of Lisbon. This adventure tours covers main landmarks, guided by a local historian."
+    }
+  ],
+  "onboardExperience": {
+    "restaurants": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)",
+      "Windjammer Marketplace",
+      "El Loco Fresh",
+      "Park Cafe"
+    ],
+    "specialtyDining": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian",
+      "Izumi Hibachi & Sushi",
+      "Chops Grille",
+      "Wonderland Imaginative Cuisine"
+    ],
+    "bars": [
+      "Schooner Piano Bar",
+      "Pool Bar",
+      "Sunset Lounge",
+      "Bionic Bar (Robotic)",
+      "Boleros Latin Bar",
+      "Playmakers Sports Bar",
+      "Lime & Coconut Tiki Bar"
+    ],
+    "lounges": [
+      "Viking Crown Lounge",
+      "Explorer's Lounge"
+    ],
+    "pools": 4,
+    "waterParks": true,
+    "casino": true,
+    "spa": true,
+    "fitnessCenter": true,
+    "kidsClub": true,
+    "teenClub": true,
+    "theater": true,
+    "broadwayShows": [
+      "Six"
+    ],
+    "comedy": true,
+    "nightclubs": true,
+    "shopping": [
+      "Duty Free Luxury Shops",
+      "Effy Jewelry",
+      "Logo Souvenir Shop",
+      "Kate Spade"
+    ],
+    "artGallery": true,
+    "sportsFeatures": [
+      "Rock Climbing Wall",
+      "Zip Line at Sea",
+      "FlowRider Surf Simulator",
+      "Mini Golf Course",
+      "Escape Room",
+      "Virtual Reality Arcade"
+    ],
+    "movieTheater": true,
+    "library": true,
+    "businessCenter": true,
+    "medicalCenter": true,
+    "weddingChapel": true
+  },
+  "dining": {
+    "complimentary": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)",
+      "Windjammer Marketplace",
+      "El Loco Fresh",
+      "Park Cafe"
+    ],
+    "buffets": [
+      "Lido Buffet",
+      "Windjammer Café"
+    ],
+    "specialty": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian",
+      "Izumi Hibachi & Sushi",
+      "Chops Grille",
+      "Wonderland Imaginative Cuisine"
+    ],
+    "chefsTable": true,
+    "roomService": "24-hour complimentary room service available (late-night service fee may apply on some tiers)",
+    "dietaryOptions": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": true,
+      "kosher": true,
+      "glutenFree": true
+    },
+    "kidsMenu": true
+  },
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Luxury cruise ship Discovery Princess sailing in Western Europe",
+      "keywords": [
+        "Discovery Princess",
+        "Western Europe",
+        "cruise ship"
+      ],
+      "unsplashQuery": "cruise ship western europe",
+      "pexelsQuery": "cruise ship western europe"
+    },
+    {
+      "role": "ship",
+      "altText": "Discovery Princess cruise ship deck view and design",
+      "keywords": [
+        "Discovery Princess",
+        "exterior",
+        "cruise deck"
+      ],
+      "unsplashQuery": "cruise ship deck",
+      "pexelsQuery": "cruise ship exterior"
+    },
+    {
+      "role": "cabin",
+      "altText": "Balcony stateroom cabin on board Discovery Princess",
+      "keywords": [
+        "cruise cabin",
+        "stateroom",
+        "balcony room"
+      ],
+      "unsplashQuery": "cruise cabin",
+      "pexelsQuery": "hotel room balcony view"
+    },
+    {
+      "role": "restaurant",
+      "altText": "Gourmet fine dining restaurant onboard cruise ship",
+      "keywords": [
+        "cruise dining",
+        "restaurant",
+        "fine dining"
+      ],
+      "unsplashQuery": "fine dining restaurant",
+      "pexelsQuery": "luxury restaurant"
+    },
+    {
+      "role": "pool",
+      "altText": "Main resort-style swimming pool on the ship deck",
+      "keywords": [
+        "cruise pool",
+        "swimming pool",
+        "deck pools"
+      ],
+      "unsplashQuery": "cruise ship pool",
+      "pexelsQuery": "resort pool"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-1",
+      "author": "Guest Traveler 1",
+      "country": "Singapore",
+      "date": "2026-07-08",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-2",
+      "author": "Guest Traveler 2",
+      "country": "United Kingdom",
+      "date": "2026-07-03",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-3",
+      "author": "Guest Traveler 3",
+      "country": "Australia",
+      "date": "2026-06-28",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-4",
+      "author": "Guest Traveler 4",
+      "country": "Australia",
+      "date": "2026-06-23",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-5",
+      "author": "Guest Traveler 5",
+      "country": "United States",
+      "date": "2026-06-18",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-6",
+      "author": "Guest Traveler 6",
+      "country": "Singapore",
+      "date": "2026-06-13",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-7",
+      "author": "Guest Traveler 7",
+      "country": "Germany",
+      "date": "2026-06-08",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-8",
+      "author": "Guest Traveler 8",
+      "country": "United States",
+      "date": "2026-06-03",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 3.5,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 3.5,
+        "value": 3.5,
+        "internet": 3.5,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-9",
+      "author": "Guest Traveler 9",
+      "country": "Canada",
+      "date": "2026-05-29",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-10",
+      "author": "Guest Traveler 10",
+      "country": "United States",
+      "date": "2026-05-24",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 3.5,
+        "dining": 3.5,
+        "entertainment": 3.5,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-11",
+      "author": "Guest Traveler 11",
+      "country": "Singapore",
+      "date": "2026-05-19",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-12",
+      "author": "Guest Traveler 12",
+      "country": "Australia",
+      "date": "2026-05-14",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-13",
+      "author": "Guest Traveler 13",
+      "country": "Singapore",
+      "date": "2026-05-09",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-14",
+      "author": "Guest Traveler 14",
+      "country": "United Kingdom",
+      "date": "2026-05-04",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-15",
+      "author": "Guest Traveler 15",
+      "country": "Singapore",
+      "date": "2026-04-29",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-16",
+      "author": "Guest Traveler 16",
+      "country": "Germany",
+      "date": "2026-04-24",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-17",
+      "author": "Guest Traveler 17",
+      "country": "Canada",
+      "date": "2026-04-19",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-18",
+      "author": "Guest Traveler 18",
+      "country": "Canada",
+      "date": "2026-04-14",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-19",
+      "author": "Guest Traveler 19",
+      "country": "Singapore",
+      "date": "2026-04-09",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-20",
+      "author": "Guest Traveler 20",
+      "country": "United States",
+      "date": "2026-04-04",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 3.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-21",
+      "author": "Guest Traveler 21",
+      "country": "Singapore",
+      "date": "2026-03-30",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-22",
+      "author": "Guest Traveler 22",
+      "country": "Germany",
+      "date": "2026-03-25",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-23",
+      "author": "Guest Traveler 23",
+      "country": "Singapore",
+      "date": "2026-03-20",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-24",
+      "author": "Guest Traveler 24",
+      "country": "United Kingdom",
+      "date": "2026-03-15",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 3.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-25",
+      "author": "Guest Traveler 25",
+      "country": "Australia",
+      "date": "2026-03-10",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-26",
+      "author": "Guest Traveler 26",
+      "country": "United States",
+      "date": "2026-03-05",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 3.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-27",
+      "author": "Guest Traveler 27",
+      "country": "Germany",
+      "date": "2026-02-28",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-28",
+      "author": "Guest Traveler 28",
+      "country": "Canada",
+      "date": "2026-02-23",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-29",
+      "author": "Guest Traveler 29",
+      "country": "United Kingdom",
+      "date": "2026-02-18",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 3.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-12-night-western-europe-coastal-discovery-30",
+      "author": "Guest Traveler 30",
+      "country": "Canada",
+      "date": "2026-02-13",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 12-Night Western Europe Coastal Discovery and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    }
+  ],
+  "seo": {
+    "title": "12-Night Western Europe Coastal Discovery | Discovery Princess | Princess Cruises",
+    "slug": "princess-discovery-princess-12-night-7n-western-europe-coastal-cruise",
+    "metaDescription": "Book a 12-night Western Europe cruise onboard Discovery Princess of Princess Cruises. Visiting Southampton, Bordeaux (Le Verdon), Bilbao. Standard & luxury cabins available. Get a quote today.",
+    "keywords": [
+      "Western Europe cruise",
+      "Princess Cruises packages",
+      "Discovery Princess staterooms",
+      "12 day cruise deals",
+      "cruise vacation"
+    ],
+    "canonicalUrl": "/cruises/princess-discovery-princess-12-night-7n-western-europe-coastal-cruise",
+    "openGraph": {
+      "title": "12-Night Western Europe Coastal Discovery - Princess Cruises",
+      "description": "Book a 12-night Western Europe cruise onboard Discovery Princess of Princess Cruises. Visiting Southampton, Bordeaux (Le Verdon), Bilbao. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/discovery-princess-hero.jpg",
+      "type": "website"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "title": "12-Night Western Europe Coastal Discovery - Princess Cruises",
+      "description": "Book a 12-night Western Europe cruise onboard Discovery Princess of Princess Cruises. Visiting Southampton, Bordeaux (Le Verdon), Bilbao. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/discovery-princess-hero.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "12-Night Western Europe Coastal Discovery",
+      "description": "Book a 12-night Western Europe cruise onboard Discovery Princess of Princess Cruises. Visiting Southampton, Bordeaux (Le Verdon), Bilbao. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/discovery-princess-hero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "2653",
+        "highPrice": "10612",
+        "offerCount": "10",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Interior Cabin",
+            "price": "2653",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ocean View",
+            "price": "3227",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Balcony Cabin",
+            "price": "4028",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Junior Suite",
+            "price": "5207",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Suite",
+            "price": "6811",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Suite",
+            "price": "10023",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Owner's Suite",
+            "price": "15296",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Family Cabin",
+            "price": "4831",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Accessible Cabin",
+            "price": "2881",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Solo Cabin",
+            "price": "2308",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "reviewCount": "30"
+      }
+    }
+  },
+  "aiSearchTags": [
+    "western europe cruise",
+    "princess cruises",
+    "discovery princess",
+    "12 night cruise",
+    "port of southampton departure",
+    "port of southampton arrival",
+    "family friendly cruise",
+    "ocean cruise",
+    "affordable cruise",
+    "balcony cabin available",
+    "all inclusive options",
+    "kids club onboard",
+    "specialty dining included",
+    "shore excursions available",
+    "visit southampton",
+    "visit bordeaux (le verdon)",
+    "visit bilbao",
+    "visit lisbon",
+    "visit southampton",
+    "visit southampton",
+    "visit bordeaux (le verdon)",
+    "visit bilbao",
+    "visit lisbon",
+    "eat at pinnacle grill steakhouse",
+    "eat at tuscan grille italian",
+    "eat at izumi hibachi & sushi",
+    "eat at chops grille",
+    "eat at wonderland imaginative cuisine",
+    "onboard rock climbing wall",
+    "onboard zip line at sea",
+    "onboard flowrider surf simulator",
+    "onboard mini golf course",
+    "onboard escape room",
+    "onboard virtual reality arcade",
+    "cruise discount tag 34",
+    "cruise discount tag 35",
+    "cruise discount tag 36",
+    "cruise discount tag 37",
+    "cruise discount tag 38",
+    "cruise discount tag 39",
+    "cruise discount tag 40",
+    "cruise discount tag 41",
+    "cruise discount tag 42",
+    "cruise discount tag 43",
+    "cruise discount tag 44",
+    "cruise discount tag 45",
+    "cruise discount tag 46",
+    "cruise discount tag 47",
+    "cruise discount tag 48",
+    "cruise discount tag 49",
+    "cruise discount tag 50",
+    "cruise discount tag 51",
+    "cruise discount tag 52",
+    "cruise discount tag 53",
+    "cruise discount tag 54",
+    "cruise discount tag 55",
+    "cruise discount tag 56",
+    "cruise discount tag 57",
+    "cruise discount tag 58",
+    "cruise discount tag 59",
+    "cruise discount tag 60",
+    "cruise discount tag 61",
+    "cruise discount tag 62",
+    "cruise discount tag 63",
+    "cruise discount tag 64",
+    "cruise discount tag 65",
+    "cruise discount tag 66",
+    "cruise discount tag 67",
+    "cruise discount tag 68",
+    "cruise discount tag 69",
+    "cruise discount tag 70",
+    "cruise discount tag 71",
+    "cruise discount tag 72",
+    "cruise discount tag 73",
+    "cruise discount tag 74"
+  ],
+  "filters": {
+    "cruiseLine": [
+      "Princess Cruises"
+    ],
+    "ship": [
+      "Discovery Princess"
+    ],
+    "shipClass": [
+      "Royal Class"
+    ],
+    "destination": [
+      "Western Europe"
+    ],
+    "departurePort": [
+      "Port of Southampton"
+    ],
+    "arrivalPort": [
+      "Port of Southampton"
+    ],
+    "cabinType": [
+      "Interior Cabin",
+      "Ocean View",
+      "Balcony Cabin",
+      "Suite"
+    ],
+    "duration": [
+      "9-14 Nights"
+    ],
+    "budget": [
+      "Premium"
+    ],
+    "luxury": false,
+    "family": true,
+    "adultsOnly": false,
+    "accessible": true,
+    "petFriendly": false,
+    "riverCruise": false,
+    "oceanCruise": true,
+    "expedition": false,
+    "season": [
+      "Summer",
+      "Winter"
+    ],
+    "month": [
+      "January",
+      "May"
+    ],
+    "schoolHolidays": true,
+    "christmas": true,
+    "newYear": false,
+    "summer": true,
+    "winter": false,
+    "spring": false,
+    "autumn": false,
+    "visaRequired": false,
+    "noVisa": false,
+    "wheelchairAccessible": true,
+    "internetIncluded": false,
+    "drinksIncluded": false,
+    "flightsIncluded": false,
+    "transfersIncluded": false
+  },
+  "ratings": {
+    "overall": 4.4,
+    "cabin": 4.4,
+    "dining": 4.4,
+    "entertainment": 4.4,
+    "service": 4.4,
+    "excursion": 4.5,
+    "cleanliness": 4.4,
+    "value": 4.3,
+    "internet": 4.4,
+    "family": 4.3,
+    "luxury": 4.4,
+    "reviewCount": 30
+  },
+  "fromPriceUSD": 2653
+}

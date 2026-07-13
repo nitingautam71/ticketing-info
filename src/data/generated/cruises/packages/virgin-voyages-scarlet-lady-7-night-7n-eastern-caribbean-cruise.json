@@ -1,0 +1,1359 @@
+{
+  "id": "PKG-CRUISE-VIRGIN-VOYAGES-SCARLET-LADY-7-NIGHT-7N-EASTERN-CARIBBEAN-CRUISE",
+  "slug": "virgin-voyages-scarlet-lady-7-night-7n-eastern-caribbean-cruise",
+  "title": "7-Night Eastern Caribbean Escape",
+  "cruiseName": "7-Night Eastern Caribbean Escape",
+  "cruiseLineId": "virgin-voyages",
+  "cruiseLineName": "Virgin Voyages",
+  "shipId": "scarlet-lady",
+  "shipName": "Scarlet Lady",
+  "shipSpecs": {
+    "name": "Scarlet Lady",
+    "shipClass": "Lady Ships",
+    "launchYear": 2020,
+    "passengerCapacity": 2770,
+    "crewSize": 1160,
+    "tonnage": 110000,
+    "lengthMeters": 278,
+    "decks": 17,
+    "totalCabins": 1408,
+    "maxOccupancy": 2860,
+    "averageAge": 6,
+    "rating": 4.8
+  },
+  "categories": [
+    "Ocean Cruises",
+    "Adults-Only Cruises",
+    "Luxury Cruises"
+  ],
+  "destination": "Caribbean",
+  "departurePortId": "fort-lauderdale",
+  "departurePortName": "Port Everglades",
+  "arrivalPortId": "fort-lauderdale",
+  "arrivalPortName": "Port Everglades",
+  "durationNights": 7,
+  "embarkationTime": "12:00 PM - 03:30 PM",
+  "disembarkationTime": "07:00 AM - 09:30 AM",
+  "seaDays": 2,
+  "portDays": 6,
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "portId": "fort-lauderdale",
+      "portName": "Fort Lauderdale",
+      "arrivalTime": "Embarkation",
+      "departureTime": "04:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Embark and settle into cabins",
+        "Safety briefing",
+        "Sailaway deck party"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Specialty Italian Restaurant"
+      ],
+      "eveningEntertainment": [
+        "Acrobatic / Aerialist Theater Show"
+      ]
+    },
+    {
+      "day": 2,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 480,
+      "activities": [
+        "Relaxing by the pools",
+        "Onboard shopping specials",
+        "Mini-golf tournament"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Coastal Kitchen",
+        "Seafood Shack"
+      ],
+      "eveningEntertainment": [
+        "Comedy Night",
+        "Nightclub dancing"
+      ]
+    },
+    {
+      "day": 3,
+      "portName": "San Juan",
+      "arrivalTime": "02:00 PM",
+      "departureTime": "10:00 PM",
+      "distanceKm": 980,
+      "activities": [
+        "Tour historic El Morro Fort",
+        "Walk the cobblestone streets of Old San Juan",
+        "Salsa dancing lesson"
+      ],
+      "suggestedExcursions": [
+        "Old San Juan Walking Tour & El Morro Fort",
+        "El Yunque Rainforest Hiking Tour"
+      ],
+      "diningRecommendations": [
+        "Barrachina (birthplace of Piña Colada)",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Late night Salsa bar crawl",
+        "Movies on Deck"
+      ]
+    },
+    {
+      "day": 4,
+      "portName": "St. Thomas",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 120,
+      "activities": [
+        "Sunbathing at Magens Bay Beach",
+        "Ride tramway to Paradise Point",
+        "Duty-free shopping in Charlotte Amalie"
+      ],
+      "suggestedExcursions": [
+        "Magens Bay Beach Escape",
+        "St. Thomas Island Tour & Mountaintop"
+      ],
+      "diningRecommendations": [
+        "Gladys' Cafe",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Caribbean steel drum party on pool deck"
+      ]
+    },
+    {
+      "day": 5,
+      "portId": "nassau",
+      "portName": "Nassau",
+      "arrivalTime": "10:00 AM",
+      "departureTime": "07:00 PM",
+      "distanceKm": 850,
+      "activities": [
+        "Visit Atlantis Waterpark",
+        "Climb Queen's Staircase",
+        "Straw Market shopping"
+      ],
+      "suggestedExcursions": [
+        "Atlantis Aquaventure Day Pass",
+        "Pearl Island Beach Day & Lunch"
+      ],
+      "diningRecommendations": [
+        "Graycliff Chocolatier lunch",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "White-Hot Deck Party",
+        "Adult comedy night"
+      ]
+    },
+    {
+      "day": 6,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 310,
+      "activities": [
+        "Galley tour",
+        "Spa luxury massage",
+        "Bingo games",
+        "Packing bags"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Steakhouse",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Variety Show",
+        "Live Jazz in the lounge"
+      ]
+    },
+    {
+      "day": 7,
+      "portId": "fort-lauderdale",
+      "portName": "Fort Lauderdale",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 50,
+      "activities": [
+        "Final breakfast",
+        "Express walk-off departure"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Buffet breakfast"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 8,
+      "portId": "fort-lauderdale",
+      "portName": "Fort Lauderdale",
+      "arrivalTime": "Disembarkation",
+      "departureTime": "Disembarkation",
+      "distanceKm": 0,
+      "activities": [
+        "Embark and settle into cabins",
+        "Safety briefing",
+        "Sailaway deck party"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Specialty Italian Restaurant"
+      ],
+      "eveningEntertainment": [
+        "Acrobatic / Aerialist Theater Show"
+      ]
+    }
+  ],
+  "shoreExcursions": [
+    {
+      "id": "EXC-fort-lauderdale-0",
+      "name": "Best of Fort Lauderdale",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Fort Lauderdale. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-san-juan-1",
+      "name": "Adventure in San Juan",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 174,
+      "description": "A wonderful half-day tours exploring the sights of San Juan. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-st--thomas-2",
+      "name": "Discover St. Thomas",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 143,
+      "description": "A wonderful full-day tours exploring the sights of St. Thomas. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-nassau-3",
+      "name": "Secrets of Nassau",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 242,
+      "description": "A wonderful half-day tours exploring the sights of Nassau. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-fort-lauderdale-4",
+      "name": "Adventure in Fort Lauderdale",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 175,
+      "description": "A wonderful half-day tours exploring the sights of Fort Lauderdale. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-fort-lauderdale-5",
+      "name": "Secrets of Fort Lauderdale",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 245,
+      "description": "A wonderful half-day tours exploring the sights of Fort Lauderdale. This private tours covers main landmarks, guided by a local historian."
+    }
+  ],
+  "onboardExperience": {
+    "restaurants": [
+      "The Wake",
+      "Extra Virgin",
+      "Pink Agave",
+      "Gunbae Korean BBQ",
+      "The Galley Food Market"
+    ],
+    "specialtyDining": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "bars": [
+      "Schooner Piano Bar",
+      "Pool Bar",
+      "Sunset Lounge"
+    ],
+    "lounges": [
+      "Viking Crown Lounge",
+      "Explorer's Lounge"
+    ],
+    "pools": 2,
+    "waterParks": false,
+    "casino": true,
+    "spa": true,
+    "fitnessCenter": true,
+    "kidsClub": false,
+    "teenClub": false,
+    "theater": true,
+    "broadwayShows": [
+      "Hairspray"
+    ],
+    "comedy": true,
+    "nightclubs": true,
+    "shopping": [
+      "Boutique Gift Shop"
+    ],
+    "artGallery": true,
+    "sportsFeatures": [
+      "Fitness jogging track",
+      "Shuffleboard"
+    ],
+    "movieTheater": true,
+    "library": true,
+    "businessCenter": true,
+    "medicalCenter": true,
+    "weddingChapel": true
+  },
+  "dining": {
+    "complimentary": [
+      "The Wake",
+      "Extra Virgin",
+      "Pink Agave",
+      "Gunbae Korean BBQ",
+      "The Galley Food Market"
+    ],
+    "buffets": [
+      "Lido Buffet",
+      "Windjammer Café"
+    ],
+    "specialty": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "chefsTable": true,
+    "roomService": "24-hour complimentary room service available (late-night service fee may apply on some tiers)",
+    "dietaryOptions": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": true,
+      "kosher": true,
+      "glutenFree": true
+    },
+    "kidsMenu": false
+  },
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Luxury cruise ship Scarlet Lady sailing in Caribbean",
+      "keywords": [
+        "Scarlet Lady",
+        "Caribbean",
+        "cruise ship"
+      ],
+      "unsplashQuery": "cruise ship caribbean",
+      "pexelsQuery": "cruise ship caribbean"
+    },
+    {
+      "role": "ship",
+      "altText": "Scarlet Lady cruise ship deck view and design",
+      "keywords": [
+        "Scarlet Lady",
+        "exterior",
+        "cruise deck"
+      ],
+      "unsplashQuery": "cruise ship deck",
+      "pexelsQuery": "cruise ship exterior"
+    },
+    {
+      "role": "cabin",
+      "altText": "Balcony stateroom cabin on board Scarlet Lady",
+      "keywords": [
+        "cruise cabin",
+        "stateroom",
+        "balcony room"
+      ],
+      "unsplashQuery": "cruise cabin",
+      "pexelsQuery": "hotel room balcony view"
+    },
+    {
+      "role": "restaurant",
+      "altText": "Gourmet fine dining restaurant onboard cruise ship",
+      "keywords": [
+        "cruise dining",
+        "restaurant",
+        "fine dining"
+      ],
+      "unsplashQuery": "fine dining restaurant",
+      "pexelsQuery": "luxury restaurant"
+    },
+    {
+      "role": "pool",
+      "altText": "Main resort-style swimming pool on the ship deck",
+      "keywords": [
+        "cruise pool",
+        "swimming pool",
+        "deck pools"
+      ],
+      "unsplashQuery": "cruise ship pool",
+      "pexelsQuery": "resort pool"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-1",
+      "author": "Guest Traveler 1",
+      "country": "United States",
+      "date": "2026-07-08",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-2",
+      "author": "Guest Traveler 2",
+      "country": "Canada",
+      "date": "2026-07-03",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-3",
+      "author": "Guest Traveler 3",
+      "country": "Australia",
+      "date": "2026-06-28",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-4",
+      "author": "Guest Traveler 4",
+      "country": "United Kingdom",
+      "date": "2026-06-23",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-5",
+      "author": "Guest Traveler 5",
+      "country": "United Kingdom",
+      "date": "2026-06-18",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-6",
+      "author": "Guest Traveler 6",
+      "country": "Australia",
+      "date": "2026-06-13",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-7",
+      "author": "Guest Traveler 7",
+      "country": "Germany",
+      "date": "2026-06-08",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-8",
+      "author": "Guest Traveler 8",
+      "country": "Germany",
+      "date": "2026-06-03",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-9",
+      "author": "Guest Traveler 9",
+      "country": "Germany",
+      "date": "2026-05-29",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-10",
+      "author": "Guest Traveler 10",
+      "country": "Germany",
+      "date": "2026-05-24",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-11",
+      "author": "Guest Traveler 11",
+      "country": "Australia",
+      "date": "2026-05-19",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-12",
+      "author": "Guest Traveler 12",
+      "country": "United Kingdom",
+      "date": "2026-05-14",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-13",
+      "author": "Guest Traveler 13",
+      "country": "Australia",
+      "date": "2026-05-09",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-14",
+      "author": "Guest Traveler 14",
+      "country": "Australia",
+      "date": "2026-05-04",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-15",
+      "author": "Guest Traveler 15",
+      "country": "United States",
+      "date": "2026-04-29",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-16",
+      "author": "Guest Traveler 16",
+      "country": "Singapore",
+      "date": "2026-04-24",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-17",
+      "author": "Guest Traveler 17",
+      "country": "Australia",
+      "date": "2026-04-19",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-18",
+      "author": "Guest Traveler 18",
+      "country": "United Kingdom",
+      "date": "2026-04-14",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-19",
+      "author": "Guest Traveler 19",
+      "country": "Canada",
+      "date": "2026-04-09",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-20",
+      "author": "Guest Traveler 20",
+      "country": "Germany",
+      "date": "2026-04-04",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-21",
+      "author": "Guest Traveler 21",
+      "country": "Germany",
+      "date": "2026-03-30",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-22",
+      "author": "Guest Traveler 22",
+      "country": "Singapore",
+      "date": "2026-03-25",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-23",
+      "author": "Guest Traveler 23",
+      "country": "Germany",
+      "date": "2026-03-20",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-24",
+      "author": "Guest Traveler 24",
+      "country": "Australia",
+      "date": "2026-03-15",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-25",
+      "author": "Guest Traveler 25",
+      "country": "United States",
+      "date": "2026-03-10",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-26",
+      "author": "Guest Traveler 26",
+      "country": "Australia",
+      "date": "2026-03-05",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-27",
+      "author": "Guest Traveler 27",
+      "country": "Germany",
+      "date": "2026-02-28",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-28",
+      "author": "Guest Traveler 28",
+      "country": "Australia",
+      "date": "2026-02-23",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-29",
+      "author": "Guest Traveler 29",
+      "country": "Australia",
+      "date": "2026-02-18",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-eastern-caribbean-escape-30",
+      "author": "Guest Traveler 30",
+      "country": "United States",
+      "date": "2026-02-13",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 7-Night Eastern Caribbean Escape and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 3.5,
+        "dining": 3.5,
+        "entertainment": 3.5,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    }
+  ],
+  "seo": {
+    "title": "7-Night Eastern Caribbean Escape | Scarlet Lady | Virgin Voyages",
+    "slug": "virgin-voyages-scarlet-lady-7-night-7n-eastern-caribbean-cruise",
+    "metaDescription": "Book a 7-night Caribbean cruise onboard Scarlet Lady of Virgin Voyages. Visiting Fort Lauderdale, San Juan, St. Thomas. Standard & luxury cabins available. Get a quote today.",
+    "keywords": [
+      "Caribbean cruise",
+      "Virgin Voyages packages",
+      "Scarlet Lady staterooms",
+      "7 day cruise deals",
+      "cruise vacation"
+    ],
+    "canonicalUrl": "/cruises/virgin-voyages-scarlet-lady-7-night-7n-eastern-caribbean-cruise",
+    "openGraph": {
+      "title": "7-Night Eastern Caribbean Escape - Virgin Voyages",
+      "description": "Book a 7-night Caribbean cruise onboard Scarlet Lady of Virgin Voyages. Visiting Fort Lauderdale, San Juan, St. Thomas. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/scarlet-lady-hero.jpg",
+      "type": "website"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "title": "7-Night Eastern Caribbean Escape - Virgin Voyages",
+      "description": "Book a 7-night Caribbean cruise onboard Scarlet Lady of Virgin Voyages. Visiting Fort Lauderdale, San Juan, St. Thomas. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/scarlet-lady-hero.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "7-Night Eastern Caribbean Escape",
+      "description": "Book a 7-night Caribbean cruise onboard Scarlet Lady of Virgin Voyages. Visiting Fort Lauderdale, San Juan, St. Thomas. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/scarlet-lady-hero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "1568",
+        "highPrice": "6272",
+        "offerCount": "10",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Interior Cabin",
+            "price": "1568",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ocean View",
+            "price": "1902",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Balcony Cabin",
+            "price": "2370",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Junior Suite",
+            "price": "3059",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Suite",
+            "price": "3995",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Suite",
+            "price": "5869",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Owner's Suite",
+            "price": "8944",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Family Cabin",
+            "price": "2839",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Accessible Cabin",
+            "price": "1702",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Solo Cabin",
+            "price": "1368",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "reviewCount": "30"
+      }
+    }
+  },
+  "aiSearchTags": [
+    "caribbean cruise",
+    "virgin voyages",
+    "scarlet lady",
+    "7 night cruise",
+    "port everglades departure",
+    "port everglades arrival",
+    "adults only cruise",
+    "ocean cruise",
+    "affordable cruise",
+    "balcony cabin available",
+    "all inclusive options",
+    "kids club onboard",
+    "specialty dining included",
+    "shore excursions available",
+    "visit fort lauderdale",
+    "visit san juan",
+    "visit st. thomas",
+    "visit nassau",
+    "visit fort lauderdale",
+    "visit fort lauderdale",
+    "eat at pinnacle grill steakhouse",
+    "eat at tuscan grille italian",
+    "onboard fitness jogging track",
+    "onboard shuffleboard",
+    "cruise discount tag 24",
+    "cruise discount tag 25",
+    "cruise discount tag 26",
+    "cruise discount tag 27",
+    "cruise discount tag 28",
+    "cruise discount tag 29",
+    "cruise discount tag 30",
+    "cruise discount tag 31",
+    "cruise discount tag 32",
+    "cruise discount tag 33",
+    "cruise discount tag 34",
+    "cruise discount tag 35",
+    "cruise discount tag 36",
+    "cruise discount tag 37",
+    "cruise discount tag 38",
+    "cruise discount tag 39",
+    "cruise discount tag 40",
+    "cruise discount tag 41",
+    "cruise discount tag 42",
+    "cruise discount tag 43",
+    "cruise discount tag 44",
+    "cruise discount tag 45",
+    "cruise discount tag 46",
+    "cruise discount tag 47",
+    "cruise discount tag 48",
+    "cruise discount tag 49",
+    "cruise discount tag 50",
+    "cruise discount tag 51",
+    "cruise discount tag 52",
+    "cruise discount tag 53",
+    "cruise discount tag 54",
+    "cruise discount tag 55",
+    "cruise discount tag 56",
+    "cruise discount tag 57",
+    "cruise discount tag 58",
+    "cruise discount tag 59",
+    "cruise discount tag 60",
+    "cruise discount tag 61",
+    "cruise discount tag 62",
+    "cruise discount tag 63",
+    "cruise discount tag 64",
+    "cruise discount tag 65",
+    "cruise discount tag 66",
+    "cruise discount tag 67",
+    "cruise discount tag 68",
+    "cruise discount tag 69",
+    "cruise discount tag 70",
+    "cruise discount tag 71",
+    "cruise discount tag 72",
+    "cruise discount tag 73",
+    "cruise discount tag 74"
+  ],
+  "filters": {
+    "cruiseLine": [
+      "Virgin Voyages"
+    ],
+    "ship": [
+      "Scarlet Lady"
+    ],
+    "shipClass": [
+      "Lady Ships"
+    ],
+    "destination": [
+      "Caribbean"
+    ],
+    "departurePort": [
+      "Port Everglades"
+    ],
+    "arrivalPort": [
+      "Port Everglades"
+    ],
+    "cabinType": [
+      "Interior Cabin",
+      "Ocean View",
+      "Balcony Cabin",
+      "Suite"
+    ],
+    "duration": [
+      "5-8 Nights"
+    ],
+    "budget": [
+      "Mid-range"
+    ],
+    "luxury": false,
+    "family": false,
+    "adultsOnly": true,
+    "accessible": true,
+    "petFriendly": false,
+    "riverCruise": false,
+    "oceanCruise": true,
+    "expedition": false,
+    "season": [
+      "Summer",
+      "Winter"
+    ],
+    "month": [
+      "August",
+      "December"
+    ],
+    "schoolHolidays": false,
+    "christmas": false,
+    "newYear": false,
+    "summer": true,
+    "winter": false,
+    "spring": false,
+    "autumn": false,
+    "visaRequired": false,
+    "noVisa": true,
+    "wheelchairAccessible": true,
+    "internetIncluded": true,
+    "drinksIncluded": true,
+    "flightsIncluded": false,
+    "transfersIncluded": false
+  },
+  "ratings": {
+    "overall": 4.4,
+    "cabin": 4.4,
+    "dining": 4.6,
+    "entertainment": 4.4,
+    "service": 4.4,
+    "excursion": 4.5,
+    "cleanliness": 4.5,
+    "value": 4.5,
+    "internet": 4.5,
+    "family": 4.4,
+    "luxury": 4.4,
+    "reviewCount": 30
+  },
+  "fromPriceUSD": 1568
+}

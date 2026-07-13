@@ -1,0 +1,1242 @@
+{
+  "id": "PKG-CRUISE-REGENT-SEVEN-SEAS-SEVEN-SEAS-EXPLORER-3-NIGHT-10N-AFRICA-COASTAL-CRUISE",
+  "slug": "regent-seven-seas-seven-seas-explorer-3-night-10n-africa-coastal-cruise",
+  "title": "3-Night Southern Africa Coastal Voyage",
+  "cruiseName": "3-Night Southern Africa Coastal Voyage",
+  "cruiseLineId": "regent-seven-seas",
+  "cruiseLineName": "Regent Seven Seas Cruises",
+  "shipId": "seven-seas-explorer",
+  "shipName": "Seven Seas Explorer",
+  "shipSpecs": {
+    "name": "Seven Seas Explorer",
+    "shipClass": "Explorer Class",
+    "launchYear": 2016,
+    "passengerCapacity": 750,
+    "crewSize": 552,
+    "tonnage": 56000,
+    "lengthMeters": 224,
+    "decks": 10,
+    "totalCabins": 375,
+    "maxOccupancy": 750,
+    "averageAge": 10,
+    "rating": 4.9
+  },
+  "categories": [
+    "Luxury Cruises",
+    "Small Ship Cruises",
+    "World Cruises"
+  ],
+  "destination": "Africa",
+  "departurePortId": "cape-town-port",
+  "departurePortName": "Cape Town Cruise Terminal (V&A Waterfront)",
+  "arrivalPortId": "cape-town-port",
+  "arrivalPortName": "Cape Town Cruise Terminal (V&A Waterfront)",
+  "durationNights": 3,
+  "embarkationTime": "12:00 PM - 03:30 PM",
+  "disembarkationTime": "07:00 AM - 09:30 AM",
+  "seaDays": 1,
+  "portDays": 3,
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "portId": "cape-town-port",
+      "portName": "Cape Town",
+      "arrivalTime": "Embarkation",
+      "departureTime": "06:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Ride the cableway up Table Mountain before boarding",
+        "Cabin check-in",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Braai (BBQ) grill station"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Show"
+      ]
+    },
+    {
+      "day": 2,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 640,
+      "activities": [
+        "African wildlife documentary screening",
+        "South African wine tasting seminar",
+        "Deck games"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Grill",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "African drumming workshop"
+      ]
+    },
+    {
+      "day": 3,
+      "portName": "Walvis Bay (Namibia)",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 780,
+      "activities": [
+        "Dune 7 sandboarding excursion",
+        "Dolphin and seal cruise in Walvis Bay lagoon",
+        "Day trip to Sossusvlei red dunes"
+      ],
+      "suggestedExcursions": [
+        "Walvis Bay Dolphin & Seal Cruise",
+        "Namib Desert Dune Excursion"
+      ],
+      "diningRecommendations": [
+        "The Raft floating restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Namibian desert ecology lecture"
+      ]
+    },
+    {
+      "day": 4,
+      "portName": "Lüderitz (Namibia)",
+      "arrivalTime": "Disembarkation",
+      "departureTime": "Disembarkation",
+      "distanceKm": 340,
+      "activities": [
+        "Explore the Kolmanskop ghost town",
+        "Visit a penguin colony at Diaz Point",
+        "Tour German colonial architecture"
+      ],
+      "suggestedExcursions": [
+        "Kolmanskop Ghost Town Tour",
+        "Diaz Point Penguin Colony Excursion"
+      ],
+      "diningRecommendations": [
+        "Diaz Coffee Shop",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Colonial history lecture"
+      ]
+    }
+  ],
+  "shoreExcursions": [
+    {
+      "id": "EXC-cape-town-0",
+      "name": "Secrets of Cape Town",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 261,
+      "description": "A wonderful half-day tours exploring the sights of Cape Town. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-walvis-bay--namibia--1",
+      "name": "Secrets of Walvis Bay (Namibia)",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 252,
+      "description": "A wonderful half-day tours exploring the sights of Walvis Bay (Namibia). This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-l-deritz--namibia--2",
+      "name": "Secrets of Lüderitz (Namibia)",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 260,
+      "description": "A wonderful half-day tours exploring the sights of Lüderitz (Namibia). This private tours covers main landmarks, guided by a local historian."
+    }
+  ],
+  "onboardExperience": {
+    "restaurants": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "specialtyDining": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "bars": [
+      "Schooner Piano Bar",
+      "Pool Bar",
+      "Sunset Lounge"
+    ],
+    "lounges": [
+      "Viking Crown Lounge",
+      "Explorer's Lounge"
+    ],
+    "pools": 2,
+    "waterParks": false,
+    "casino": true,
+    "spa": true,
+    "fitnessCenter": true,
+    "kidsClub": true,
+    "teenClub": false,
+    "theater": true,
+    "broadwayShows": [
+      "Hamilton"
+    ],
+    "comedy": true,
+    "nightclubs": true,
+    "shopping": [
+      "Boutique Gift Shop"
+    ],
+    "artGallery": true,
+    "sportsFeatures": [
+      "Fitness jogging track",
+      "Shuffleboard"
+    ],
+    "movieTheater": true,
+    "library": true,
+    "businessCenter": true,
+    "medicalCenter": true,
+    "weddingChapel": true
+  },
+  "dining": {
+    "complimentary": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "buffets": [
+      "Lido Buffet",
+      "Windjammer Café"
+    ],
+    "specialty": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "chefsTable": true,
+    "roomService": "24-hour complimentary room service available (late-night service fee may apply on some tiers)",
+    "dietaryOptions": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": false,
+      "kosher": false,
+      "glutenFree": true
+    },
+    "kidsMenu": true
+  },
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Luxury cruise ship Seven Seas Explorer sailing in Africa",
+      "keywords": [
+        "Seven Seas Explorer",
+        "Africa",
+        "cruise ship"
+      ],
+      "unsplashQuery": "cruise ship africa",
+      "pexelsQuery": "cruise ship africa"
+    },
+    {
+      "role": "ship",
+      "altText": "Seven Seas Explorer cruise ship deck view and design",
+      "keywords": [
+        "Seven Seas Explorer",
+        "exterior",
+        "cruise deck"
+      ],
+      "unsplashQuery": "cruise ship deck",
+      "pexelsQuery": "cruise ship exterior"
+    },
+    {
+      "role": "cabin",
+      "altText": "Balcony stateroom cabin on board Seven Seas Explorer",
+      "keywords": [
+        "cruise cabin",
+        "stateroom",
+        "balcony room"
+      ],
+      "unsplashQuery": "cruise cabin",
+      "pexelsQuery": "hotel room balcony view"
+    },
+    {
+      "role": "restaurant",
+      "altText": "Gourmet fine dining restaurant onboard cruise ship",
+      "keywords": [
+        "cruise dining",
+        "restaurant",
+        "fine dining"
+      ],
+      "unsplashQuery": "fine dining restaurant",
+      "pexelsQuery": "luxury restaurant"
+    },
+    {
+      "role": "pool",
+      "altText": "Main resort-style swimming pool on the ship deck",
+      "keywords": [
+        "cruise pool",
+        "swimming pool",
+        "deck pools"
+      ],
+      "unsplashQuery": "cruise ship pool",
+      "pexelsQuery": "resort pool"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-1",
+      "author": "Guest Traveler 1",
+      "country": "Canada",
+      "date": "2026-07-08",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-2",
+      "author": "Guest Traveler 2",
+      "country": "Australia",
+      "date": "2026-07-03",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-3",
+      "author": "Guest Traveler 3",
+      "country": "United Kingdom",
+      "date": "2026-06-28",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-4",
+      "author": "Guest Traveler 4",
+      "country": "United States",
+      "date": "2026-06-23",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 3.5,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-5",
+      "author": "Guest Traveler 5",
+      "country": "Germany",
+      "date": "2026-06-18",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-6",
+      "author": "Guest Traveler 6",
+      "country": "Singapore",
+      "date": "2026-06-13",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-7",
+      "author": "Guest Traveler 7",
+      "country": "Australia",
+      "date": "2026-06-08",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-8",
+      "author": "Guest Traveler 8",
+      "country": "Canada",
+      "date": "2026-06-03",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-9",
+      "author": "Guest Traveler 9",
+      "country": "Germany",
+      "date": "2026-05-29",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-10",
+      "author": "Guest Traveler 10",
+      "country": "United States",
+      "date": "2026-05-24",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 3.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-11",
+      "author": "Guest Traveler 11",
+      "country": "United States",
+      "date": "2026-05-19",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-12",
+      "author": "Guest Traveler 12",
+      "country": "Singapore",
+      "date": "2026-05-14",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-13",
+      "author": "Guest Traveler 13",
+      "country": "Germany",
+      "date": "2026-05-09",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-14",
+      "author": "Guest Traveler 14",
+      "country": "Singapore",
+      "date": "2026-05-04",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-15",
+      "author": "Guest Traveler 15",
+      "country": "Germany",
+      "date": "2026-04-29",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-16",
+      "author": "Guest Traveler 16",
+      "country": "Australia",
+      "date": "2026-04-24",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-17",
+      "author": "Guest Traveler 17",
+      "country": "Australia",
+      "date": "2026-04-19",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-18",
+      "author": "Guest Traveler 18",
+      "country": "Australia",
+      "date": "2026-04-14",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-19",
+      "author": "Guest Traveler 19",
+      "country": "Canada",
+      "date": "2026-04-09",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-20",
+      "author": "Guest Traveler 20",
+      "country": "Canada",
+      "date": "2026-04-04",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-21",
+      "author": "Guest Traveler 21",
+      "country": "Canada",
+      "date": "2026-03-30",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-22",
+      "author": "Guest Traveler 22",
+      "country": "United Kingdom",
+      "date": "2026-03-25",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 3.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-23",
+      "author": "Guest Traveler 23",
+      "country": "United States",
+      "date": "2026-03-20",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-24",
+      "author": "Guest Traveler 24",
+      "country": "Canada",
+      "date": "2026-03-15",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-25",
+      "author": "Guest Traveler 25",
+      "country": "United States",
+      "date": "2026-03-10",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 3.5,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-26",
+      "author": "Guest Traveler 26",
+      "country": "Germany",
+      "date": "2026-03-05",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-27",
+      "author": "Guest Traveler 27",
+      "country": "Singapore",
+      "date": "2026-02-28",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-28",
+      "author": "Guest Traveler 28",
+      "country": "United Kingdom",
+      "date": "2026-02-23",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-29",
+      "author": "Guest Traveler 29",
+      "country": "Germany",
+      "date": "2026-02-18",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-southern-africa-coastal-voyage-30",
+      "author": "Guest Traveler 30",
+      "country": "Canada",
+      "date": "2026-02-13",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 3-Night Southern Africa Coastal Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    }
+  ],
+  "seo": {
+    "title": "3-Night Southern Africa Coastal Voyage | Seven Seas Explorer | Regent Seven Seas Cruises",
+    "slug": "regent-seven-seas-seven-seas-explorer-3-night-10n-africa-coastal-cruise",
+    "metaDescription": "Book a 3-night Africa cruise onboard Seven Seas Explorer of Regent Seven Seas Cruises. Visiting Cape Town, Walvis Bay (Namibia), Lüderitz (Namibia). Standard & luxury cabins available. Get a quote today.",
+    "keywords": [
+      "Africa cruise",
+      "Regent Seven Seas Cruises packages",
+      "Seven Seas Explorer staterooms",
+      "3 day cruise deals",
+      "cruise vacation"
+    ],
+    "canonicalUrl": "/cruises/regent-seven-seas-seven-seas-explorer-3-night-10n-africa-coastal-cruise",
+    "openGraph": {
+      "title": "3-Night Southern Africa Coastal Voyage - Regent Seven Seas Cruises",
+      "description": "Book a 3-night Africa cruise onboard Seven Seas Explorer of Regent Seven Seas Cruises. Visiting Cape Town, Walvis Bay (Namibia), Lüderitz (Namibia). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/seven-seas-explorer-hero.jpg",
+      "type": "website"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "title": "3-Night Southern Africa Coastal Voyage - Regent Seven Seas Cruises",
+      "description": "Book a 3-night Africa cruise onboard Seven Seas Explorer of Regent Seven Seas Cruises. Visiting Cape Town, Walvis Bay (Namibia), Lüderitz (Namibia). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/seven-seas-explorer-hero.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "3-Night Southern Africa Coastal Voyage",
+      "description": "Book a 3-night Africa cruise onboard Seven Seas Explorer of Regent Seven Seas Cruises. Visiting Cape Town, Walvis Bay (Namibia), Lüderitz (Namibia). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/seven-seas-explorer-hero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "937",
+        "highPrice": "3748",
+        "offerCount": "10",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Interior Cabin",
+            "price": "937",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ocean View",
+            "price": "1151",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Balcony Cabin",
+            "price": "1451",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Junior Suite",
+            "price": "1882",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Suite",
+            "price": "2483",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Suite",
+            "price": "3688",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Owner's Suite",
+            "price": "5665",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Family Cabin",
+            "price": "1752",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Accessible Cabin",
+            "price": "1021",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Solo Cabin",
+            "price": "807",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "reviewCount": "30"
+      }
+    }
+  },
+  "aiSearchTags": [
+    "africa cruise",
+    "regent seven seas cruises",
+    "seven seas explorer",
+    "3 night cruise",
+    "cape town cruise terminal (v&a waterfront) departure",
+    "cape town cruise terminal (v&a waterfront) arrival",
+    "family friendly cruise",
+    "ocean cruise",
+    "luxury cruise",
+    "balcony cabin available",
+    "all inclusive options",
+    "kids club onboard",
+    "specialty dining included",
+    "shore excursions available",
+    "visit cape town",
+    "visit walvis bay (namibia)",
+    "visit lüderitz (namibia)",
+    "eat at pinnacle grill steakhouse",
+    "eat at tuscan grille italian",
+    "onboard fitness jogging track",
+    "onboard shuffleboard",
+    "cruise discount tag 21",
+    "cruise discount tag 22",
+    "cruise discount tag 23",
+    "cruise discount tag 24",
+    "cruise discount tag 25",
+    "cruise discount tag 26",
+    "cruise discount tag 27",
+    "cruise discount tag 28",
+    "cruise discount tag 29",
+    "cruise discount tag 30",
+    "cruise discount tag 31",
+    "cruise discount tag 32",
+    "cruise discount tag 33",
+    "cruise discount tag 34",
+    "cruise discount tag 35",
+    "cruise discount tag 36",
+    "cruise discount tag 37",
+    "cruise discount tag 38",
+    "cruise discount tag 39",
+    "cruise discount tag 40",
+    "cruise discount tag 41",
+    "cruise discount tag 42",
+    "cruise discount tag 43",
+    "cruise discount tag 44",
+    "cruise discount tag 45",
+    "cruise discount tag 46",
+    "cruise discount tag 47",
+    "cruise discount tag 48",
+    "cruise discount tag 49",
+    "cruise discount tag 50",
+    "cruise discount tag 51",
+    "cruise discount tag 52",
+    "cruise discount tag 53",
+    "cruise discount tag 54",
+    "cruise discount tag 55",
+    "cruise discount tag 56",
+    "cruise discount tag 57",
+    "cruise discount tag 58",
+    "cruise discount tag 59",
+    "cruise discount tag 60",
+    "cruise discount tag 61",
+    "cruise discount tag 62",
+    "cruise discount tag 63",
+    "cruise discount tag 64",
+    "cruise discount tag 65",
+    "cruise discount tag 66",
+    "cruise discount tag 67",
+    "cruise discount tag 68",
+    "cruise discount tag 69",
+    "cruise discount tag 70",
+    "cruise discount tag 71",
+    "cruise discount tag 72",
+    "cruise discount tag 73",
+    "cruise discount tag 74"
+  ],
+  "filters": {
+    "cruiseLine": [
+      "Regent Seven Seas Cruises"
+    ],
+    "ship": [
+      "Seven Seas Explorer"
+    ],
+    "shipClass": [
+      "Explorer Class"
+    ],
+    "destination": [
+      "Africa"
+    ],
+    "departurePort": [
+      "Cape Town Cruise Terminal (V&A Waterfront)"
+    ],
+    "arrivalPort": [
+      "Cape Town Cruise Terminal (V&A Waterfront)"
+    ],
+    "cabinType": [
+      "Interior Cabin",
+      "Ocean View",
+      "Balcony Cabin",
+      "Suite"
+    ],
+    "duration": [
+      "2-4 Nights"
+    ],
+    "budget": [
+      "Mid-range"
+    ],
+    "luxury": true,
+    "family": true,
+    "adultsOnly": false,
+    "accessible": true,
+    "petFriendly": false,
+    "riverCruise": false,
+    "oceanCruise": true,
+    "expedition": false,
+    "season": [
+      "Summer",
+      "Winter"
+    ],
+    "month": [
+      "April",
+      "August"
+    ],
+    "schoolHolidays": true,
+    "christmas": false,
+    "newYear": false,
+    "summer": true,
+    "winter": false,
+    "spring": false,
+    "autumn": false,
+    "visaRequired": false,
+    "noVisa": false,
+    "wheelchairAccessible": true,
+    "internetIncluded": true,
+    "drinksIncluded": true,
+    "flightsIncluded": true,
+    "transfersIncluded": true
+  },
+  "ratings": {
+    "overall": 4.4,
+    "cabin": 4.4,
+    "dining": 4.3,
+    "entertainment": 4.4,
+    "service": 4.5,
+    "excursion": 4.4,
+    "cleanliness": 4.4,
+    "value": 4.4,
+    "internet": 4.4,
+    "family": 4.4,
+    "luxury": 4.4,
+    "reviewCount": 30
+  },
+  "fromPriceUSD": 937
+}

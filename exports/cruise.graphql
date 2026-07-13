@@ -1,0 +1,99 @@
+# Standalone GraphQL Schema for Cruise Vertical
+
+type CruiseLine {
+  id: ID!
+  name: String!
+  slug: String!
+  logoUrl: String
+  category: [String!]!
+  riverCruise: Boolean!
+  expeditionCruise: Boolean!
+  adultsOnly: Boolean!
+  luxuryLevel: String!
+  commissionRate: Float!
+  hqCountry: String!
+  description: String!
+  keySellingPoints: [String!]!
+}
+
+type ShipSpecs {
+  name: String!
+  shipClass: String
+  launchYear: Int!
+  lastRenovation: Int
+  passengerCapacity: Int!
+  crewSize: Int!
+  tonnage: Float!
+  lengthMeters: Float!
+  decks: Int!
+  totalCabins: Int!
+  maxOccupancy: Int!
+  averageAge: Float!
+  rating: Float!
+}
+
+type Ship {
+  id: ID!
+  cruiseLineId: ID!
+  cruiseLineName: String!
+  specs: ShipSpecs!
+  description: String!
+  features: [String!]!
+}
+
+type CruisePort {
+  id: ID!
+  name: String!
+  code: String!
+  city: String!
+  country: String!
+  countryCode: String!
+  region: String!
+  lat: Float!
+  lon: Float!
+  overview: String!
+  history: String
+  thingsToDo: [String!]!
+  topAttractions: [String!]!
+  restaurants: [String!]!
+  shopping: [String!]!
+  beaches: [String!]!
+  museums: [String!]!
+  walkingTours: [String!]!
+  transportation: String!
+  estimatedBudgetUSD: Float!
+  accessibility: String!
+  safety: String!
+  currency: String!
+  languages: [String!]!
+  timeZone: String!
+  visaSummary: String!
+}
+
+type Query {
+  cruiseLines: [CruiseLine!]!
+  ships(cruiseLineId: ID): [Ship!]!
+  ports(region: String): [CruisePort!]!
+  searchCruises(
+    destination: String
+    duration: String
+    cruiseLine: String
+    maxPrice: Float
+  ): [CruiseSearchResult!]!
+}
+
+type CruiseSearchResult {
+  id: ID!
+  slug: String!
+  title: String!
+  cruiseLineName: String!
+  shipName: String!
+  destination: String!
+  departurePortName: String!
+  arrivalPortName: String!
+  durationNights: Int!
+  categories: [String!]!
+  fromPriceUSD: Float!
+  ratingOverall: Float!
+  reviewCount: Int!
+}

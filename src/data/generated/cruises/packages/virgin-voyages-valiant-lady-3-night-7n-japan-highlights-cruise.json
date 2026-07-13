@@ -1,0 +1,1259 @@
+{
+  "id": "PKG-CRUISE-VIRGIN-VOYAGES-VALIANT-LADY-3-NIGHT-7N-JAPAN-HIGHLIGHTS-CRUISE",
+  "slug": "virgin-voyages-valiant-lady-3-night-7n-japan-highlights-cruise",
+  "title": "3-Night Japan Highlights Voyage",
+  "cruiseName": "3-Night Japan Highlights Voyage",
+  "cruiseLineId": "virgin-voyages",
+  "cruiseLineName": "Virgin Voyages",
+  "shipId": "valiant-lady",
+  "shipName": "Valiant Lady",
+  "shipSpecs": {
+    "name": "Valiant Lady",
+    "shipClass": "Lady Ships",
+    "launchYear": 2022,
+    "passengerCapacity": 2770,
+    "crewSize": 1160,
+    "tonnage": 110000,
+    "lengthMeters": 278,
+    "decks": 17,
+    "totalCabins": 1408,
+    "maxOccupancy": 2860,
+    "averageAge": 4,
+    "rating": 4.8
+  },
+  "categories": [
+    "Ocean Cruises",
+    "Adults-Only Cruises",
+    "Luxury Cruises"
+  ],
+  "destination": "Japan",
+  "departurePortId": "tokyo-port",
+  "departurePortName": "Tokyo International Cruise Terminal",
+  "arrivalPortId": "tokyo-port",
+  "arrivalPortName": "Tokyo International Cruise Terminal",
+  "durationNights": 3,
+  "embarkationTime": "12:00 PM - 03:30 PM",
+  "disembarkationTime": "07:00 AM - 09:30 AM",
+  "seaDays": 1,
+  "portDays": 3,
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "portId": "tokyo-port",
+      "portName": "Tokyo (Yokohama)",
+      "arrivalTime": "Embarkation",
+      "departureTime": "06:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Explore the Minato Mirai waterfront before boarding",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Sushi Bar"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Show"
+      ]
+    },
+    {
+      "day": 2,
+      "portName": "Shimizu (Mount Fuji)",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 140,
+      "activities": [
+        "View Mount Fuji from the Fujiyama viewpoint",
+        "Visit a traditional green tea plantation",
+        "Explore Miho no Matsubara pine grove"
+      ],
+      "suggestedExcursions": [
+        "Mount Fuji 5th Station & Tea Plantation Tour",
+        "Nihondaira Ropeway & Kunozan Shrine Tour"
+      ],
+      "diningRecommendations": [
+        "Sawayaka Ganso hamburger steak house",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Japanese taiko drum performance"
+      ]
+    },
+    {
+      "day": 3,
+      "portName": "Osaka (Kobe)",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 480,
+      "activities": [
+        "Visit Osaka Castle",
+        "Explore the Dotonbori entertainment district",
+        "Day trip to Nara's deer park"
+      ],
+      "suggestedExcursions": [
+        "Osaka Castle & Dotonbori Tour",
+        "Nara Deer Park & Todai-ji Temple Day Trip"
+      ],
+      "diningRecommendations": [
+        "Dotonbori street food stalls",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 4,
+      "portName": "Kyoto (via Osaka)",
+      "arrivalTime": "Disembarkation",
+      "departureTime": "Disembarkation",
+      "distanceKm": 0,
+      "activities": [
+        "Visit Fushimi Inari Shrine's torii gates",
+        "Explore the Arashiyama bamboo grove",
+        "Tour Kinkaku-ji (Golden Pavilion)"
+      ],
+      "suggestedExcursions": [
+        "Kyoto Full-Day Temples & Bamboo Grove Tour",
+        "Traditional Tea Ceremony Experience"
+      ],
+      "diningRecommendations": [
+        "Nishiki Market food stalls",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Geisha culture lecture"
+      ]
+    }
+  ],
+  "shoreExcursions": [
+    {
+      "id": "EXC-tokyo--yokohama--0",
+      "name": "Highlights of Tokyo (Yokohama)",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 93,
+      "description": "A wonderful full-day tours exploring the sights of Tokyo (Yokohama). This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-shimizu--mount-fuji--1",
+      "name": "Secrets of Shimizu (Mount Fuji)",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 262,
+      "description": "A wonderful half-day tours exploring the sights of Shimizu (Mount Fuji). This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-osaka--kobe--2",
+      "name": "Best of Osaka (Kobe)",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Osaka (Kobe). This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-kyoto--via-osaka--3",
+      "name": "Discover Kyoto (via Osaka)",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 120,
+      "description": "A wonderful full-day tours exploring the sights of Kyoto (via Osaka). This luxury experiences covers main landmarks, guided by a local historian."
+    }
+  ],
+  "onboardExperience": {
+    "restaurants": [
+      "The Wake",
+      "Extra Virgin",
+      "Pink Agave",
+      "Gunbae Korean BBQ",
+      "The Galley Food Market"
+    ],
+    "specialtyDining": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "bars": [
+      "Schooner Piano Bar",
+      "Pool Bar",
+      "Sunset Lounge"
+    ],
+    "lounges": [
+      "Viking Crown Lounge",
+      "Explorer's Lounge"
+    ],
+    "pools": 2,
+    "waterParks": false,
+    "casino": true,
+    "spa": true,
+    "fitnessCenter": true,
+    "kidsClub": false,
+    "teenClub": false,
+    "theater": true,
+    "broadwayShows": [
+      "Mamma Mia!"
+    ],
+    "comedy": true,
+    "nightclubs": true,
+    "shopping": [
+      "Boutique Gift Shop"
+    ],
+    "artGallery": true,
+    "sportsFeatures": [
+      "Fitness jogging track",
+      "Shuffleboard"
+    ],
+    "movieTheater": true,
+    "library": true,
+    "businessCenter": true,
+    "medicalCenter": true,
+    "weddingChapel": true
+  },
+  "dining": {
+    "complimentary": [
+      "The Wake",
+      "Extra Virgin",
+      "Pink Agave",
+      "Gunbae Korean BBQ",
+      "The Galley Food Market"
+    ],
+    "buffets": [
+      "Lido Buffet",
+      "Windjammer Café"
+    ],
+    "specialty": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "chefsTable": true,
+    "roomService": "24-hour complimentary room service available (late-night service fee may apply on some tiers)",
+    "dietaryOptions": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": true,
+      "kosher": true,
+      "glutenFree": true
+    },
+    "kidsMenu": false
+  },
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Luxury cruise ship Valiant Lady sailing in Japan",
+      "keywords": [
+        "Valiant Lady",
+        "Japan",
+        "cruise ship"
+      ],
+      "unsplashQuery": "cruise ship japan",
+      "pexelsQuery": "cruise ship japan"
+    },
+    {
+      "role": "ship",
+      "altText": "Valiant Lady cruise ship deck view and design",
+      "keywords": [
+        "Valiant Lady",
+        "exterior",
+        "cruise deck"
+      ],
+      "unsplashQuery": "cruise ship deck",
+      "pexelsQuery": "cruise ship exterior"
+    },
+    {
+      "role": "cabin",
+      "altText": "Balcony stateroom cabin on board Valiant Lady",
+      "keywords": [
+        "cruise cabin",
+        "stateroom",
+        "balcony room"
+      ],
+      "unsplashQuery": "cruise cabin",
+      "pexelsQuery": "hotel room balcony view"
+    },
+    {
+      "role": "restaurant",
+      "altText": "Gourmet fine dining restaurant onboard cruise ship",
+      "keywords": [
+        "cruise dining",
+        "restaurant",
+        "fine dining"
+      ],
+      "unsplashQuery": "fine dining restaurant",
+      "pexelsQuery": "luxury restaurant"
+    },
+    {
+      "role": "pool",
+      "altText": "Main resort-style swimming pool on the ship deck",
+      "keywords": [
+        "cruise pool",
+        "swimming pool",
+        "deck pools"
+      ],
+      "unsplashQuery": "cruise ship pool",
+      "pexelsQuery": "resort pool"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-3-night-japan-highlights-voyage-1",
+      "author": "Guest Traveler 1",
+      "country": "Canada",
+      "date": "2026-07-08",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-2",
+      "author": "Guest Traveler 2",
+      "country": "United States",
+      "date": "2026-07-03",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-3",
+      "author": "Guest Traveler 3",
+      "country": "United States",
+      "date": "2026-06-28",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 3.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-4",
+      "author": "Guest Traveler 4",
+      "country": "Singapore",
+      "date": "2026-06-23",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-5",
+      "author": "Guest Traveler 5",
+      "country": "United Kingdom",
+      "date": "2026-06-18",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-6",
+      "author": "Guest Traveler 6",
+      "country": "Singapore",
+      "date": "2026-06-13",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-7",
+      "author": "Guest Traveler 7",
+      "country": "Australia",
+      "date": "2026-06-08",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-8",
+      "author": "Guest Traveler 8",
+      "country": "Canada",
+      "date": "2026-06-03",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-9",
+      "author": "Guest Traveler 9",
+      "country": "Canada",
+      "date": "2026-05-29",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-10",
+      "author": "Guest Traveler 10",
+      "country": "Singapore",
+      "date": "2026-05-24",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-11",
+      "author": "Guest Traveler 11",
+      "country": "Germany",
+      "date": "2026-05-19",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-12",
+      "author": "Guest Traveler 12",
+      "country": "United States",
+      "date": "2026-05-14",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 3.5,
+        "dining": 3.5,
+        "entertainment": 3.5,
+        "service": 3.5,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-13",
+      "author": "Guest Traveler 13",
+      "country": "Singapore",
+      "date": "2026-05-09",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-14",
+      "author": "Guest Traveler 14",
+      "country": "Singapore",
+      "date": "2026-05-04",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-15",
+      "author": "Guest Traveler 15",
+      "country": "Germany",
+      "date": "2026-04-29",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-16",
+      "author": "Guest Traveler 16",
+      "country": "Australia",
+      "date": "2026-04-24",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-17",
+      "author": "Guest Traveler 17",
+      "country": "Canada",
+      "date": "2026-04-19",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-18",
+      "author": "Guest Traveler 18",
+      "country": "Singapore",
+      "date": "2026-04-14",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-19",
+      "author": "Guest Traveler 19",
+      "country": "Australia",
+      "date": "2026-04-09",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-20",
+      "author": "Guest Traveler 20",
+      "country": "United States",
+      "date": "2026-04-04",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 3.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-21",
+      "author": "Guest Traveler 21",
+      "country": "United Kingdom",
+      "date": "2026-03-30",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-22",
+      "author": "Guest Traveler 22",
+      "country": "Singapore",
+      "date": "2026-03-25",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-23",
+      "author": "Guest Traveler 23",
+      "country": "United Kingdom",
+      "date": "2026-03-20",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 3.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-24",
+      "author": "Guest Traveler 24",
+      "country": "Australia",
+      "date": "2026-03-15",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-25",
+      "author": "Guest Traveler 25",
+      "country": "United States",
+      "date": "2026-03-10",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-26",
+      "author": "Guest Traveler 26",
+      "country": "Germany",
+      "date": "2026-03-05",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-27",
+      "author": "Guest Traveler 27",
+      "country": "Singapore",
+      "date": "2026-02-28",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-28",
+      "author": "Guest Traveler 28",
+      "country": "United States",
+      "date": "2026-02-23",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-29",
+      "author": "Guest Traveler 29",
+      "country": "Singapore",
+      "date": "2026-02-18",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-3-night-japan-highlights-voyage-30",
+      "author": "Guest Traveler 30",
+      "country": "Germany",
+      "date": "2026-02-13",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 3-Night Japan Highlights Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    }
+  ],
+  "seo": {
+    "title": "3-Night Japan Highlights Voyage | Valiant Lady | Virgin Voyages",
+    "slug": "virgin-voyages-valiant-lady-3-night-7n-japan-highlights-cruise",
+    "metaDescription": "Book a 3-night Japan cruise onboard Valiant Lady of Virgin Voyages. Visiting Tokyo (Yokohama), Shimizu (Mount Fuji), Osaka (Kobe). Standard & luxury cabins available. Get a quote today.",
+    "keywords": [
+      "Japan cruise",
+      "Virgin Voyages packages",
+      "Valiant Lady staterooms",
+      "3 day cruise deals",
+      "cruise vacation"
+    ],
+    "canonicalUrl": "/cruises/virgin-voyages-valiant-lady-3-night-7n-japan-highlights-cruise",
+    "openGraph": {
+      "title": "3-Night Japan Highlights Voyage - Virgin Voyages",
+      "description": "Book a 3-night Japan cruise onboard Valiant Lady of Virgin Voyages. Visiting Tokyo (Yokohama), Shimizu (Mount Fuji), Osaka (Kobe). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/valiant-lady-hero.jpg",
+      "type": "website"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "title": "3-Night Japan Highlights Voyage - Virgin Voyages",
+      "description": "Book a 3-night Japan cruise onboard Valiant Lady of Virgin Voyages. Visiting Tokyo (Yokohama), Shimizu (Mount Fuji), Osaka (Kobe). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/valiant-lady-hero.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "3-Night Japan Highlights Voyage",
+      "description": "Book a 3-night Japan cruise onboard Valiant Lady of Virgin Voyages. Visiting Tokyo (Yokohama), Shimizu (Mount Fuji), Osaka (Kobe). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/valiant-lady-hero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "701",
+        "highPrice": "2804",
+        "offerCount": "10",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Interior Cabin",
+            "price": "701",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ocean View",
+            "price": "844",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Balcony Cabin",
+            "price": "1044",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Junior Suite",
+            "price": "1339",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Suite",
+            "price": "1742",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Suite",
+            "price": "2542",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Owner's Suite",
+            "price": "3861",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Family Cabin",
+            "price": "1245",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Accessible Cabin",
+            "price": "759",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Solo Cabin",
+            "price": "614",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "reviewCount": "30"
+      }
+    }
+  },
+  "aiSearchTags": [
+    "japan cruise",
+    "virgin voyages",
+    "valiant lady",
+    "3 night cruise",
+    "tokyo international cruise terminal departure",
+    "tokyo international cruise terminal arrival",
+    "adults only cruise",
+    "ocean cruise",
+    "affordable cruise",
+    "balcony cabin available",
+    "all inclusive options",
+    "kids club onboard",
+    "specialty dining included",
+    "shore excursions available",
+    "visit tokyo (yokohama)",
+    "visit shimizu (mount fuji)",
+    "visit osaka (kobe)",
+    "visit kyoto (via osaka)",
+    "eat at pinnacle grill steakhouse",
+    "eat at tuscan grille italian",
+    "onboard fitness jogging track",
+    "onboard shuffleboard",
+    "cruise discount tag 22",
+    "cruise discount tag 23",
+    "cruise discount tag 24",
+    "cruise discount tag 25",
+    "cruise discount tag 26",
+    "cruise discount tag 27",
+    "cruise discount tag 28",
+    "cruise discount tag 29",
+    "cruise discount tag 30",
+    "cruise discount tag 31",
+    "cruise discount tag 32",
+    "cruise discount tag 33",
+    "cruise discount tag 34",
+    "cruise discount tag 35",
+    "cruise discount tag 36",
+    "cruise discount tag 37",
+    "cruise discount tag 38",
+    "cruise discount tag 39",
+    "cruise discount tag 40",
+    "cruise discount tag 41",
+    "cruise discount tag 42",
+    "cruise discount tag 43",
+    "cruise discount tag 44",
+    "cruise discount tag 45",
+    "cruise discount tag 46",
+    "cruise discount tag 47",
+    "cruise discount tag 48",
+    "cruise discount tag 49",
+    "cruise discount tag 50",
+    "cruise discount tag 51",
+    "cruise discount tag 52",
+    "cruise discount tag 53",
+    "cruise discount tag 54",
+    "cruise discount tag 55",
+    "cruise discount tag 56",
+    "cruise discount tag 57",
+    "cruise discount tag 58",
+    "cruise discount tag 59",
+    "cruise discount tag 60",
+    "cruise discount tag 61",
+    "cruise discount tag 62",
+    "cruise discount tag 63",
+    "cruise discount tag 64",
+    "cruise discount tag 65",
+    "cruise discount tag 66",
+    "cruise discount tag 67",
+    "cruise discount tag 68",
+    "cruise discount tag 69",
+    "cruise discount tag 70",
+    "cruise discount tag 71",
+    "cruise discount tag 72",
+    "cruise discount tag 73",
+    "cruise discount tag 74"
+  ],
+  "filters": {
+    "cruiseLine": [
+      "Virgin Voyages"
+    ],
+    "ship": [
+      "Valiant Lady"
+    ],
+    "shipClass": [
+      "Lady Ships"
+    ],
+    "destination": [
+      "Japan"
+    ],
+    "departurePort": [
+      "Tokyo International Cruise Terminal"
+    ],
+    "arrivalPort": [
+      "Tokyo International Cruise Terminal"
+    ],
+    "cabinType": [
+      "Interior Cabin",
+      "Ocean View",
+      "Balcony Cabin",
+      "Suite"
+    ],
+    "duration": [
+      "2-4 Nights"
+    ],
+    "budget": [
+      "Mid-range"
+    ],
+    "luxury": false,
+    "family": false,
+    "adultsOnly": true,
+    "accessible": true,
+    "petFriendly": false,
+    "riverCruise": false,
+    "oceanCruise": true,
+    "expedition": false,
+    "season": [
+      "Summer",
+      "Winter"
+    ],
+    "month": [
+      "April",
+      "August"
+    ],
+    "schoolHolidays": false,
+    "christmas": false,
+    "newYear": false,
+    "summer": true,
+    "winter": false,
+    "spring": false,
+    "autumn": false,
+    "visaRequired": false,
+    "noVisa": false,
+    "wheelchairAccessible": true,
+    "internetIncluded": true,
+    "drinksIncluded": true,
+    "flightsIncluded": false,
+    "transfersIncluded": false
+  },
+  "ratings": {
+    "overall": 4.4,
+    "cabin": 4.5,
+    "dining": 4.4,
+    "entertainment": 4.4,
+    "service": 4.4,
+    "excursion": 4.4,
+    "cleanliness": 4.5,
+    "value": 4.5,
+    "internet": 4.5,
+    "family": 4.5,
+    "luxury": 4.4,
+    "reviewCount": 30
+  },
+  "fromPriceUSD": 701
+}

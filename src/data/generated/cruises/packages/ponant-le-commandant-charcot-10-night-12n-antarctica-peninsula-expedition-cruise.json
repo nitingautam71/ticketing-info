@@ -1,0 +1,1450 @@
+{
+  "id": "PKG-CRUISE-PONANT-LE-COMMANDANT-CHARCOT-10-NIGHT-12N-ANTARCTICA-PENINSULA-EXPEDITION-CRUISE",
+  "slug": "ponant-le-commandant-charcot-10-night-12n-antarctica-peninsula-expedition-cruise",
+  "title": "10-Night Antarctic Peninsula Expedition",
+  "cruiseName": "10-Night Antarctic Peninsula Expedition",
+  "cruiseLineId": "ponant",
+  "cruiseLineName": "Ponant",
+  "shipId": "le-commandant-charcot",
+  "shipName": "Le Commandant Charcot",
+  "shipSpecs": {
+    "name": "Le Commandant Charcot",
+    "shipClass": "Polar Expedition Class",
+    "launchYear": 2021,
+    "passengerCapacity": 270,
+    "crewSize": 187,
+    "tonnage": 31283,
+    "lengthMeters": 150,
+    "decks": 9,
+    "totalCabins": 135,
+    "maxOccupancy": 270,
+    "averageAge": 5,
+    "rating": 5
+  },
+  "categories": [
+    "Expedition Cruises",
+    "Luxury Cruises",
+    "Small Ship Cruises"
+  ],
+  "destination": "Antarctica",
+  "departurePortId": "ushuaia-port",
+  "departurePortName": "Port of Ushuaia",
+  "arrivalPortId": "ushuaia-port",
+  "arrivalPortName": "Port of Ushuaia",
+  "durationNights": 10,
+  "embarkationTime": "12:00 PM - 03:30 PM",
+  "disembarkationTime": "07:00 AM - 09:30 AM",
+  "seaDays": 3,
+  "portDays": 8,
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "portId": "ushuaia-port",
+      "portName": "Ushuaia",
+      "arrivalTime": "Embarkation",
+      "departureTime": "06:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Expedition gear fitting (parkas & boots)",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Expedition lounge cafe"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Expedition Briefing"
+      ]
+    },
+    {
+      "day": 2,
+      "portName": "Drake Passage (Southbound)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 480,
+      "activities": [
+        "Seabird and albatross watching from the bridge",
+        "Expedition team lectures on polar geology",
+        "Zodiac driving briefing"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Lounge hot soup station",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Antarctic wildlife documentary screening"
+      ]
+    },
+    {
+      "day": 3,
+      "portName": "Drake Passage (Southbound)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 460,
+      "activities": [
+        "Photography workshop for polar landscapes",
+        "Naturalist Q&A session",
+        "Biosecurity boot-cleaning briefing"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Lounge hot soup station",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Polar explorer history lecture (Shackleton)"
+      ]
+    },
+    {
+      "day": 4,
+      "portName": "Antarctic Sound",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 340,
+      "activities": [
+        "Zodiac cruise among tabular icebergs",
+        "Landing at an Adélie penguin rookery",
+        "Polar plunge (optional)"
+      ],
+      "suggestedExcursions": [
+        "Zodiac Iceberg Cruise",
+        "Penguin Rookery Landing"
+      ],
+      "diningRecommendations": [
+        "Expedition Galley hot lunch",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Daily recap with the expedition team"
+      ]
+    },
+    {
+      "day": 5,
+      "portName": "Paradise Bay",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 90,
+      "activities": [
+        "Zodiac cruise beneath towering glaciers",
+        "Landing at a research station",
+        "Kayaking among ice floes (optional)"
+      ],
+      "suggestedExcursions": [
+        "Paradise Bay Zodiac Cruise",
+        "Sea Kayaking Among Icebergs"
+      ],
+      "diningRecommendations": [
+        "Expedition Galley hot lunch",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Glaciology lecture by the expedition team"
+      ]
+    },
+    {
+      "day": 6,
+      "portName": "Deception Island",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "05:00 PM",
+      "distanceKm": 130,
+      "activities": [
+        "Sail into the flooded volcanic caldera",
+        "Landing at the abandoned whaling station",
+        "Optional polar plunge in geothermal waters"
+      ],
+      "suggestedExcursions": [
+        "Deception Island Volcanic Caldera Landing"
+      ],
+      "diningRecommendations": [
+        "Expedition Galley hot lunch",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Volcanic geology recap"
+      ]
+    },
+    {
+      "day": 7,
+      "portName": "Half Moon Island",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "05:00 PM",
+      "distanceKm": 60,
+      "activities": [
+        "Landing at a chinstrap penguin colony",
+        "Photography with expedition guides",
+        "Visit a historic Argentine research station"
+      ],
+      "suggestedExcursions": [
+        "Half Moon Island Penguin Colony Landing"
+      ],
+      "diningRecommendations": [
+        "Expedition Galley hot lunch",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell to Antarctica slideshow"
+      ]
+    },
+    {
+      "day": 8,
+      "portName": "Drake Passage (Northbound)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 470,
+      "activities": [
+        "Expedition team recap lectures",
+        "Photo editing workshop",
+        "Farewell packing"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Lounge hot soup station",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Expedition team trivia night"
+      ]
+    },
+    {
+      "day": 9,
+      "portName": "Drake Passage (Northbound)",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 450,
+      "activities": [
+        "Final gear return",
+        "Certificate of Antarctic crossing ceremony",
+        "Spa treatments"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Lounge hot soup station",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Gala Dinner"
+      ]
+    },
+    {
+      "day": 10,
+      "portId": "ushuaia-port",
+      "portName": "Ushuaia",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 0,
+      "activities": [
+        "Final breakfast",
+        "Customs & departure transfers"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 11,
+      "portId": "ushuaia-port",
+      "portName": "Ushuaia",
+      "arrivalTime": "Disembarkation",
+      "departureTime": "Disembarkation",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Expedition gear fitting (parkas & boots)",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Expedition lounge cafe"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Expedition Briefing"
+      ]
+    }
+  ],
+  "shoreExcursions": [
+    {
+      "id": "EXC-ushuaia-0",
+      "name": "Secrets of Ushuaia",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 231,
+      "description": "A wonderful half-day tours exploring the sights of Ushuaia. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-drake-passage--southbound--1",
+      "name": "Discover Drake Passage (Southbound)",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 127,
+      "description": "A wonderful full-day tours exploring the sights of Drake Passage (Southbound). This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-drake-passage--southbound--2",
+      "name": "Best of Drake Passage (Southbound)",
+      "type": "Paid Excursions",
+      "duration": "Full-Day Tours",
+      "priceUSD": 71,
+      "description": "A wonderful full-day tours exploring the sights of Drake Passage (Southbound). This paid excursions covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-antarctic-sound-3",
+      "name": "Discover Antarctic Sound",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 148,
+      "description": "A wonderful full-day tours exploring the sights of Antarctic Sound. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-paradise-bay-4",
+      "name": "Scenic Route of Paradise Bay",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 198,
+      "description": "A wonderful half-day tours exploring the sights of Paradise Bay. This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-deception-island-5",
+      "name": "Highlights of Deception Island",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 110,
+      "description": "A wonderful full-day tours exploring the sights of Deception Island. This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-half-moon-island-6",
+      "name": "Discover Half Moon Island",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 125,
+      "description": "A wonderful full-day tours exploring the sights of Half Moon Island. This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-drake-passage--northbound--7",
+      "name": "Secrets of Drake Passage (Northbound)",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 234,
+      "description": "A wonderful half-day tours exploring the sights of Drake Passage (Northbound). This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-drake-passage--northbound--8",
+      "name": "Adventure in Drake Passage (Northbound)",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 164,
+      "description": "A wonderful half-day tours exploring the sights of Drake Passage (Northbound). This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-ushuaia-9",
+      "name": "Secrets of Ushuaia",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 255,
+      "description": "A wonderful half-day tours exploring the sights of Ushuaia. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-ushuaia-10",
+      "name": "Secrets of Ushuaia",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 241,
+      "description": "A wonderful half-day tours exploring the sights of Ushuaia. This food tours covers main landmarks, guided by a local historian."
+    }
+  ],
+  "onboardExperience": {
+    "restaurants": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "specialtyDining": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian",
+      "Jacques French Bistro",
+      "Red Ginger Pan-Asian"
+    ],
+    "bars": [
+      "Schooner Piano Bar",
+      "Pool Bar",
+      "Sunset Lounge"
+    ],
+    "lounges": [
+      "Viking Crown Lounge",
+      "Explorer's Lounge"
+    ],
+    "pools": 1,
+    "waterParks": false,
+    "casino": false,
+    "spa": true,
+    "fitnessCenter": true,
+    "kidsClub": false,
+    "teenClub": false,
+    "theater": false,
+    "broadwayShows": [],
+    "comedy": false,
+    "nightclubs": false,
+    "shopping": [
+      "Boutique Gift Shop"
+    ],
+    "artGallery": false,
+    "sportsFeatures": [
+      "Fitness jogging track",
+      "Shuffleboard"
+    ],
+    "movieTheater": false,
+    "library": true,
+    "businessCenter": true,
+    "medicalCenter": true,
+    "weddingChapel": false
+  },
+  "dining": {
+    "complimentary": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "buffets": [
+      "Lido Buffet",
+      "Windjammer Café"
+    ],
+    "specialty": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian",
+      "Jacques French Bistro",
+      "Red Ginger Pan-Asian"
+    ],
+    "chefsTable": false,
+    "roomService": "24-hour complimentary room service available (late-night service fee may apply on some tiers)",
+    "dietaryOptions": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": false,
+      "kosher": false,
+      "glutenFree": true
+    },
+    "kidsMenu": true
+  },
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Luxury cruise ship Le Commandant Charcot sailing in Antarctica",
+      "keywords": [
+        "Le Commandant Charcot",
+        "Antarctica",
+        "cruise ship"
+      ],
+      "unsplashQuery": "cruise ship antarctica",
+      "pexelsQuery": "cruise ship antarctica"
+    },
+    {
+      "role": "ship",
+      "altText": "Le Commandant Charcot cruise ship deck view and design",
+      "keywords": [
+        "Le Commandant Charcot",
+        "exterior",
+        "cruise deck"
+      ],
+      "unsplashQuery": "cruise ship deck",
+      "pexelsQuery": "cruise ship exterior"
+    },
+    {
+      "role": "cabin",
+      "altText": "Balcony stateroom cabin on board Le Commandant Charcot",
+      "keywords": [
+        "cruise cabin",
+        "stateroom",
+        "balcony room"
+      ],
+      "unsplashQuery": "cruise cabin",
+      "pexelsQuery": "hotel room balcony view"
+    },
+    {
+      "role": "restaurant",
+      "altText": "Gourmet fine dining restaurant onboard cruise ship",
+      "keywords": [
+        "cruise dining",
+        "restaurant",
+        "fine dining"
+      ],
+      "unsplashQuery": "fine dining restaurant",
+      "pexelsQuery": "luxury restaurant"
+    },
+    {
+      "role": "pool",
+      "altText": "Main resort-style swimming pool on the ship deck",
+      "keywords": [
+        "cruise pool",
+        "swimming pool",
+        "deck pools"
+      ],
+      "unsplashQuery": "cruise ship pool",
+      "pexelsQuery": "resort pool"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-1",
+      "author": "Guest Traveler 1",
+      "country": "United Kingdom",
+      "date": "2026-07-08",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-2",
+      "author": "Guest Traveler 2",
+      "country": "United States",
+      "date": "2026-07-03",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-3",
+      "author": "Guest Traveler 3",
+      "country": "United States",
+      "date": "2026-06-28",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-4",
+      "author": "Guest Traveler 4",
+      "country": "United Kingdom",
+      "date": "2026-06-23",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 3.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-5",
+      "author": "Guest Traveler 5",
+      "country": "United States",
+      "date": "2026-06-18",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 3.5,
+        "service": 3.5,
+        "excursion": 3.5,
+        "cleanliness": 3.5,
+        "value": 3.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-6",
+      "author": "Guest Traveler 6",
+      "country": "United States",
+      "date": "2026-06-13",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-7",
+      "author": "Guest Traveler 7",
+      "country": "United States",
+      "date": "2026-06-08",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 3.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 3.5,
+        "family": 3.5,
+        "luxury": 4.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-8",
+      "author": "Guest Traveler 8",
+      "country": "Singapore",
+      "date": "2026-06-03",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-9",
+      "author": "Guest Traveler 9",
+      "country": "United Kingdom",
+      "date": "2026-05-29",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-10",
+      "author": "Guest Traveler 10",
+      "country": "Germany",
+      "date": "2026-05-24",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-11",
+      "author": "Guest Traveler 11",
+      "country": "Germany",
+      "date": "2026-05-19",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-12",
+      "author": "Guest Traveler 12",
+      "country": "Singapore",
+      "date": "2026-05-14",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-13",
+      "author": "Guest Traveler 13",
+      "country": "Singapore",
+      "date": "2026-05-09",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-14",
+      "author": "Guest Traveler 14",
+      "country": "United States",
+      "date": "2026-05-04",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-15",
+      "author": "Guest Traveler 15",
+      "country": "Singapore",
+      "date": "2026-04-29",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-16",
+      "author": "Guest Traveler 16",
+      "country": "United Kingdom",
+      "date": "2026-04-24",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 3.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-17",
+      "author": "Guest Traveler 17",
+      "country": "Germany",
+      "date": "2026-04-19",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-18",
+      "author": "Guest Traveler 18",
+      "country": "United States",
+      "date": "2026-04-14",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 3.5,
+        "cleanliness": 3.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-19",
+      "author": "Guest Traveler 19",
+      "country": "Singapore",
+      "date": "2026-04-09",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-20",
+      "author": "Guest Traveler 20",
+      "country": "Singapore",
+      "date": "2026-04-04",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-21",
+      "author": "Guest Traveler 21",
+      "country": "Singapore",
+      "date": "2026-03-30",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-22",
+      "author": "Guest Traveler 22",
+      "country": "Germany",
+      "date": "2026-03-25",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-23",
+      "author": "Guest Traveler 23",
+      "country": "Germany",
+      "date": "2026-03-20",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 5,
+        "dining": 4,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-24",
+      "author": "Guest Traveler 24",
+      "country": "United States",
+      "date": "2026-03-15",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 3.5,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-25",
+      "author": "Guest Traveler 25",
+      "country": "United Kingdom",
+      "date": "2026-03-10",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-26",
+      "author": "Guest Traveler 26",
+      "country": "Germany",
+      "date": "2026-03-05",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-27",
+      "author": "Guest Traveler 27",
+      "country": "United Kingdom",
+      "date": "2026-02-28",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-28",
+      "author": "Guest Traveler 28",
+      "country": "Germany",
+      "date": "2026-02-23",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-29",
+      "author": "Guest Traveler 29",
+      "country": "Germany",
+      "date": "2026-02-18",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-10-night-antarctic-peninsula-expedition-30",
+      "author": "Guest Traveler 30",
+      "country": "Canada",
+      "date": "2026-02-13",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 10-Night Antarctic Peninsula Expedition and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    }
+  ],
+  "seo": {
+    "title": "10-Night Antarctic Peninsula Expedition | Le Commandant Charcot | Ponant",
+    "slug": "ponant-le-commandant-charcot-10-night-12n-antarctica-peninsula-expedition-cruise",
+    "metaDescription": "Book a 10-night Antarctica cruise onboard Le Commandant Charcot of Ponant. Visiting Ushuaia, Drake Passage (Southbound), Drake Passage (Southbound). Standard & luxury cabins available. Get a quote today.",
+    "keywords": [
+      "Antarctica cruise",
+      "Ponant packages",
+      "Le Commandant Charcot staterooms",
+      "10 day cruise deals",
+      "cruise vacation"
+    ],
+    "canonicalUrl": "/cruises/ponant-le-commandant-charcot-10-night-12n-antarctica-peninsula-expedition-cruise",
+    "openGraph": {
+      "title": "10-Night Antarctic Peninsula Expedition - Ponant",
+      "description": "Book a 10-night Antarctica cruise onboard Le Commandant Charcot of Ponant. Visiting Ushuaia, Drake Passage (Southbound), Drake Passage (Southbound). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/le-commandant-charcot-hero.jpg",
+      "type": "website"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "title": "10-Night Antarctic Peninsula Expedition - Ponant",
+      "description": "Book a 10-night Antarctica cruise onboard Le Commandant Charcot of Ponant. Visiting Ushuaia, Drake Passage (Southbound), Drake Passage (Southbound). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/le-commandant-charcot-hero.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "10-Night Antarctic Peninsula Expedition",
+      "description": "Book a 10-night Antarctica cruise onboard Le Commandant Charcot of Ponant. Visiting Ushuaia, Drake Passage (Southbound), Drake Passage (Southbound). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/le-commandant-charcot-hero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "3004",
+        "highPrice": "12016",
+        "offerCount": "10",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Interior Cabin",
+            "price": "3004",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ocean View",
+            "price": "3721",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Balcony Cabin",
+            "price": "4725",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Junior Suite",
+            "price": "6157",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Suite",
+            "price": "8163",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Suite",
+            "price": "12177",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Owner's Suite",
+            "price": "18768",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Family Cabin",
+            "price": "5726",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Accessible Cabin",
+            "price": "3291",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Solo Cabin",
+            "price": "2574",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "reviewCount": "30"
+      }
+    }
+  },
+  "aiSearchTags": [
+    "antarctica cruise",
+    "ponant",
+    "le commandant charcot",
+    "10 night cruise",
+    "port of ushuaia departure",
+    "port of ushuaia arrival",
+    "family friendly cruise",
+    "ocean cruise",
+    "luxury cruise",
+    "balcony cabin available",
+    "all inclusive options",
+    "kids club onboard",
+    "specialty dining included",
+    "shore excursions available",
+    "visit ushuaia",
+    "visit drake passage (southbound)",
+    "visit drake passage (southbound)",
+    "visit antarctic sound",
+    "visit paradise bay",
+    "visit deception island",
+    "visit half moon island",
+    "visit drake passage (northbound)",
+    "visit drake passage (northbound)",
+    "visit ushuaia",
+    "visit ushuaia",
+    "eat at pinnacle grill steakhouse",
+    "eat at tuscan grille italian",
+    "eat at jacques french bistro",
+    "eat at red ginger pan-asian",
+    "onboard fitness jogging track",
+    "onboard shuffleboard",
+    "cruise discount tag 31",
+    "cruise discount tag 32",
+    "cruise discount tag 33",
+    "cruise discount tag 34",
+    "cruise discount tag 35",
+    "cruise discount tag 36",
+    "cruise discount tag 37",
+    "cruise discount tag 38",
+    "cruise discount tag 39",
+    "cruise discount tag 40",
+    "cruise discount tag 41",
+    "cruise discount tag 42",
+    "cruise discount tag 43",
+    "cruise discount tag 44",
+    "cruise discount tag 45",
+    "cruise discount tag 46",
+    "cruise discount tag 47",
+    "cruise discount tag 48",
+    "cruise discount tag 49",
+    "cruise discount tag 50",
+    "cruise discount tag 51",
+    "cruise discount tag 52",
+    "cruise discount tag 53",
+    "cruise discount tag 54",
+    "cruise discount tag 55",
+    "cruise discount tag 56",
+    "cruise discount tag 57",
+    "cruise discount tag 58",
+    "cruise discount tag 59",
+    "cruise discount tag 60",
+    "cruise discount tag 61",
+    "cruise discount tag 62",
+    "cruise discount tag 63",
+    "cruise discount tag 64",
+    "cruise discount tag 65",
+    "cruise discount tag 66",
+    "cruise discount tag 67",
+    "cruise discount tag 68",
+    "cruise discount tag 69",
+    "cruise discount tag 70",
+    "cruise discount tag 71",
+    "cruise discount tag 72",
+    "cruise discount tag 73",
+    "cruise discount tag 74"
+  ],
+  "filters": {
+    "cruiseLine": [
+      "Ponant"
+    ],
+    "ship": [
+      "Le Commandant Charcot"
+    ],
+    "shipClass": [
+      "Polar Expedition Class"
+    ],
+    "destination": [
+      "Antarctica"
+    ],
+    "departurePort": [
+      "Port of Ushuaia"
+    ],
+    "arrivalPort": [
+      "Port of Ushuaia"
+    ],
+    "cabinType": [
+      "Interior Cabin",
+      "Ocean View",
+      "Balcony Cabin",
+      "Suite"
+    ],
+    "duration": [
+      "9-14 Nights"
+    ],
+    "budget": [
+      "Premium"
+    ],
+    "luxury": true,
+    "family": true,
+    "adultsOnly": false,
+    "accessible": true,
+    "petFriendly": false,
+    "riverCruise": false,
+    "oceanCruise": true,
+    "expedition": true,
+    "season": [
+      "Summer",
+      "Winter"
+    ],
+    "month": [
+      "November",
+      "March"
+    ],
+    "schoolHolidays": true,
+    "christmas": false,
+    "newYear": true,
+    "summer": true,
+    "winter": false,
+    "spring": false,
+    "autumn": false,
+    "visaRequired": false,
+    "noVisa": false,
+    "wheelchairAccessible": true,
+    "internetIncluded": true,
+    "drinksIncluded": true,
+    "flightsIncluded": true,
+    "transfersIncluded": true
+  },
+  "ratings": {
+    "overall": 4.4,
+    "cabin": 4.5,
+    "dining": 4.3,
+    "entertainment": 4.4,
+    "service": 4.4,
+    "excursion": 4.4,
+    "cleanliness": 4.3,
+    "value": 4.4,
+    "internet": 4.4,
+    "family": 4.5,
+    "luxury": 4.5,
+    "reviewCount": 30
+  },
+  "fromPriceUSD": 3004
+}
