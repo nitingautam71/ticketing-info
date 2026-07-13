@@ -2,9 +2,18 @@ import { readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 import type { CruisePackage, CruiseSearchResult, CruisePricingBreakdown, CruiseTravelerType, CruisePricingTier, CruiseLine, Ship, CruisePort } from '@/lib/cruises/types';
 import { computeCruisePricing } from '@/lib/cruises/pricing';
-import { CRUISE_LINES_BY_ID } from '@/lib/cruises/cruise-lines';
+import { CRUISE_LINES, CRUISE_LINES_BY_ID } from '@/lib/cruises/cruise-lines';
 import { SHIPS_BY_ID } from '@/lib/cruises/ships';
 import { PORTS_BY_ID } from '@/lib/cruises/ports';
+
+const CRUISE_LINE_LOGO_BY_NAME: Record<string, string> = Object.fromEntries(
+  CRUISE_LINES.filter((l) => l.logoUrl).map((l) => [l.name, l.logoUrl as string])
+);
+
+/** CruiseSearchResult (the search-index shape) only carries the line's display name, not its id. */
+export function getCruiseLineLogoUrl(cruiseLineName: string): string | undefined {
+  return CRUISE_LINE_LOGO_BY_NAME[cruiseLineName];
+}
 
 const DATA_DIR = join(process.cwd(), 'src', 'data', 'generated', 'cruises');
 
@@ -15,8 +24,8 @@ const DATA_DIR = join(process.cwd(), 'src', 'data', 'generated', 'cruises');
 const IMAGE_POOLS = {
   river: [
     'https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?w=800&auto=format&fit=crop&q=60',
-    'https://images.unsplash.com/photo-1592850252902-63e5f13cd3ce?w=800&auto=format&fit=crop&q=60',
-    'https://images.unsplash.com/photo-1541411032641-cd3d3bf6c94a?w=800&auto=format&fit=crop&q=60',
+    'https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800&auto=format&fit=crop&q=60',
+    'https://images.unsplash.com/photo-1512100356356-de1b84283e18?w=800&auto=format&fit=crop&q=60',
   ],
   expedition: [
     'https://images.unsplash.com/photo-1478827387698-1527781a4887?w=800&auto=format&fit=crop&q=60',
@@ -32,7 +41,7 @@ const IMAGE_POOLS = {
   ocean: [
     'https://images.unsplash.com/photo-1599640842225-85d111c60e6b?w=800&auto=format&fit=crop&q=60',
     'https://images.unsplash.com/photo-1580541631950-7282082b53ce?w=800&auto=format&fit=crop&q=60',
-    'https://images.unsplash.com/photo-1580541631971-c8f5241f5e1b?w=800&auto=format&fit=crop&q=60',
+    'https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&auto=format&fit=crop&q=60',
     'https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=800&auto=format&fit=crop&q=60',
     'https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=800&auto=format&fit=crop&q=60',
   ],

@@ -2,13 +2,15 @@ import Image from 'next/image';
 import Link from 'next/link';
 import type { CruiseSearchResult } from '@/lib/cruises/types';
 import { Ship, MapPin, Calendar, Star } from 'lucide-react';
+import CruiseLineLogo from './CruiseLineLogo';
 
 interface CruiseCardProps {
   cruise: CruiseSearchResult;
   imageUrl: string;
+  logoUrl?: string;
 }
 
-export default function CruiseCard({ cruise, imageUrl }: CruiseCardProps) {
+export default function CruiseCard({ cruise, imageUrl, logoUrl }: CruiseCardProps) {
   return (
     <div className="bg-white dark:bg-slate-900 rounded-2xl overflow-hidden border border-slate-100 dark:border-slate-800/60 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col h-full group">
       {/* Image container */}
@@ -39,10 +41,8 @@ export default function CruiseCard({ cruise, imageUrl }: CruiseCardProps) {
       <div className="p-6 flex-1 flex flex-col justify-between">
         <div>
           {/* Cruise Line & Ship */}
-          <div className="flex items-center gap-2 text-xs text-blue-600 dark:text-blue-400 font-bold uppercase tracking-wider mb-2">
-            <span className="bg-blue-50 dark:bg-blue-900/30 px-2 py-0.5 rounded">
-              {cruise.cruiseLineName}
-            </span>
+          <div className="flex items-center gap-2 text-xs mb-2">
+            <CruiseLineLogo logoUrl={logoUrl} name={cruise.cruiseLineName} />
             <span className="flex items-center gap-1 text-slate-500 dark:text-slate-400 normal-case">
               <Ship className="w-3.5 h-3.5" />
               {cruise.shipName}
