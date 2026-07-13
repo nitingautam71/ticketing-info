@@ -1227,6 +1227,21 @@
       "isEstimate": true
     },
     {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Velana International Airport (MLE)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        498,
+        791
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
       "originMarket": "SG",
       "originAirport": "Singapore (major international gateway)",
       "destinationAirport": "Velana International Airport (MLE)",

@@ -1242,6 +1242,21 @@
       "isEstimate": true
     },
     {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Helsinki-Vantaa Airport (HEL)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        609,
+        968
+      ],
+      "estimatedFlightHours": 10.7,
+      "isEstimate": true
+    },
+    {
       "originMarket": "SG",
       "originAirport": "Singapore (major international gateway)",
       "destinationAirport": "Helsinki-Vantaa Airport (HEL)",

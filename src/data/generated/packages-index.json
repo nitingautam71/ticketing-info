@@ -52686,5 +52686,3209 @@
       "SkyJump/SkyWalk off the Sky Tower",
       "Waiheke Island"
     ]
+  },
+  {
+    "id": "PKG-macau-2D",
+    "slug": "macau-2-day-package",
+    "destinationSlug": "macau",
+    "destinationName": "Macau",
+    "country": "Macau SAR, China",
+    "region": "East Asia",
+    "durationDays": 2,
+    "durationNights": 1,
+    "title": "Macau 2-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Macau, Macau SAR, China — Ruins of St Paul's Macau",
+      "keywords": [
+        "Macau",
+        "Macau SAR, China",
+        "Ruins of St Paul's Macau",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Macau Ruins of St Paul's Macau",
+      "pexelsQuery": "Macau Ruins of St Paul's Macau",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Macau, Macau SAR, China — Ruins of St Paul's Macau",
+      "keywords": [
+        "Macau",
+        "Macau SAR, China",
+        "Ruins of St Paul's Macau",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Macau Ruins of St Paul's Macau",
+      "pexelsQuery": "Macau Ruins of St Paul's Macau",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Luxury",
+      "Culture",
+      "History",
+      "Food",
+      "Nightlife",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1529,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Macau Tower Skywalk & Bungy",
+      "House of Dancing Water show",
+      "Ruins of St. Paul's",
+      "Suite stay and private gaming room at a Cotai Strip resort",
+      "Hong Kong via high-speed ferry (1 hour)"
+    ]
+  },
+  {
+    "id": "PKG-macau-3D",
+    "slug": "macau-3-day-package",
+    "destinationSlug": "macau",
+    "destinationName": "Macau",
+    "country": "Macau SAR, China",
+    "region": "East Asia",
+    "durationDays": 3,
+    "durationNights": 2,
+    "title": "Macau 3-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Macau, Macau SAR, China — Ruins of St Paul's Macau",
+      "keywords": [
+        "Macau",
+        "Macau SAR, China",
+        "Ruins of St Paul's Macau",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Macau Ruins of St Paul's Macau",
+      "pexelsQuery": "Macau Ruins of St Paul's Macau",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Macau, Macau SAR, China — Ruins of St Paul's Macau",
+      "keywords": [
+        "Macau",
+        "Macau SAR, China",
+        "Ruins of St Paul's Macau",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Macau Ruins of St Paul's Macau",
+      "pexelsQuery": "Macau Ruins of St Paul's Macau",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Luxury",
+      "Culture",
+      "History",
+      "Food",
+      "Nightlife",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1614,
+    "ratingOverall": 4.2,
+    "reviewCount": 20,
+    "highlights": [
+      "Macau Tower Skywalk & Bungy",
+      "House of Dancing Water show",
+      "Ruins of St. Paul's",
+      "Suite stay and private gaming room at a Cotai Strip resort",
+      "Hong Kong via high-speed ferry (1 hour)"
+    ]
+  },
+  {
+    "id": "PKG-macau-5D",
+    "slug": "macau-5-day-package",
+    "destinationSlug": "macau",
+    "destinationName": "Macau",
+    "country": "Macau SAR, China",
+    "region": "East Asia",
+    "durationDays": 5,
+    "durationNights": 4,
+    "title": "Macau 5-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Macau, Macau SAR, China — Ruins of St Paul's Macau",
+      "keywords": [
+        "Macau",
+        "Macau SAR, China",
+        "Ruins of St Paul's Macau",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Macau Ruins of St Paul's Macau",
+      "pexelsQuery": "Macau Ruins of St Paul's Macau",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Macau, Macau SAR, China — Ruins of St Paul's Macau",
+      "keywords": [
+        "Macau",
+        "Macau SAR, China",
+        "Ruins of St Paul's Macau",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Macau Ruins of St Paul's Macau",
+      "pexelsQuery": "Macau Ruins of St Paul's Macau",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Luxury",
+      "Culture",
+      "History",
+      "Food",
+      "Nightlife"
+    ],
+    "fromPriceUSD": 1783,
+    "ratingOverall": 4.4,
+    "reviewCount": 20,
+    "highlights": [
+      "Macau Tower Skywalk & Bungy",
+      "House of Dancing Water show",
+      "Ruins of St. Paul's",
+      "Suite stay and private gaming room at a Cotai Strip resort",
+      "Hong Kong via high-speed ferry (1 hour)"
+    ]
+  },
+  {
+    "id": "PKG-macau-7D",
+    "slug": "macau-7-day-package",
+    "destinationSlug": "macau",
+    "destinationName": "Macau",
+    "country": "Macau SAR, China",
+    "region": "East Asia",
+    "durationDays": 7,
+    "durationNights": 6,
+    "title": "Macau 7-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Macau, Macau SAR, China — Ruins of St Paul's Macau",
+      "keywords": [
+        "Macau",
+        "Macau SAR, China",
+        "Ruins of St Paul's Macau",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Macau Ruins of St Paul's Macau",
+      "pexelsQuery": "Macau Ruins of St Paul's Macau",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Macau, Macau SAR, China — Ruins of St Paul's Macau",
+      "keywords": [
+        "Macau",
+        "Macau SAR, China",
+        "Ruins of St Paul's Macau",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Macau Ruins of St Paul's Macau",
+      "pexelsQuery": "Macau Ruins of St Paul's Macau",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Luxury",
+      "Culture",
+      "History",
+      "Food",
+      "Nightlife"
+    ],
+    "fromPriceUSD": 1949,
+    "ratingOverall": 4.5,
+    "reviewCount": 20,
+    "highlights": [
+      "Macau Tower Skywalk & Bungy",
+      "House of Dancing Water show",
+      "Ruins of St. Paul's",
+      "Suite stay and private gaming room at a Cotai Strip resort",
+      "Hong Kong via high-speed ferry (1 hour)"
+    ]
+  },
+  {
+    "id": "PKG-macau-10D",
+    "slug": "macau-10-day-package",
+    "destinationSlug": "macau",
+    "destinationName": "Macau",
+    "country": "Macau SAR, China",
+    "region": "East Asia",
+    "durationDays": 10,
+    "durationNights": 9,
+    "title": "Macau 10-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Macau, Macau SAR, China — Ruins of St Paul's Macau",
+      "keywords": [
+        "Macau",
+        "Macau SAR, China",
+        "Ruins of St Paul's Macau",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Macau Ruins of St Paul's Macau",
+      "pexelsQuery": "Macau Ruins of St Paul's Macau",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Macau, Macau SAR, China — Ruins of St Paul's Macau",
+      "keywords": [
+        "Macau",
+        "Macau SAR, China",
+        "Ruins of St Paul's Macau",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Macau Ruins of St Paul's Macau",
+      "pexelsQuery": "Macau Ruins of St Paul's Macau",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Luxury",
+      "Culture",
+      "History",
+      "Food",
+      "Nightlife",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 2202,
+    "ratingOverall": 4.4,
+    "reviewCount": 20,
+    "highlights": [
+      "Macau Tower Skywalk & Bungy",
+      "House of Dancing Water show",
+      "Ruins of St. Paul's",
+      "Suite stay and private gaming room at a Cotai Strip resort",
+      "Hong Kong via high-speed ferry (1 hour)"
+    ]
+  },
+  {
+    "id": "PKG-macau-14D",
+    "slug": "macau-14-day-package",
+    "destinationSlug": "macau",
+    "destinationName": "Macau",
+    "country": "Macau SAR, China",
+    "region": "East Asia",
+    "durationDays": 14,
+    "durationNights": 13,
+    "title": "Macau 14-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Macau, Macau SAR, China — Ruins of St Paul's Macau",
+      "keywords": [
+        "Macau",
+        "Macau SAR, China",
+        "Ruins of St Paul's Macau",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Macau Ruins of St Paul's Macau",
+      "pexelsQuery": "Macau Ruins of St Paul's Macau",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Macau, Macau SAR, China — Ruins of St Paul's Macau",
+      "keywords": [
+        "Macau",
+        "Macau SAR, China",
+        "Ruins of St Paul's Macau",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Macau Ruins of St Paul's Macau",
+      "pexelsQuery": "Macau Ruins of St Paul's Macau",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Luxury",
+      "Culture",
+      "History",
+      "Food",
+      "Nightlife",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 2536,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Macau Tower Skywalk & Bungy",
+      "House of Dancing Water show",
+      "Ruins of St. Paul's",
+      "Suite stay and private gaming room at a Cotai Strip resort",
+      "Hong Kong via high-speed ferry (1 hour)"
+    ]
+  },
+  {
+    "id": "PKG-mexico-city-2D",
+    "slug": "mexico-city-2-day-package",
+    "destinationSlug": "mexico-city",
+    "destinationName": "Mexico City",
+    "country": "Mexico",
+    "region": "North America",
+    "durationDays": 2,
+    "durationNights": 1,
+    "title": "Mexico City 2-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Culture",
+      "History",
+      "Food",
+      "Nightlife",
+      "Bucket List",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 546,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Teotihuacan pyramids day trip",
+      "Frida Kahlo Museum (Casa Azul)",
+      "Zócalo (Plaza de la Constitución)",
+      "Teotihuacan pyramids"
+    ]
+  },
+  {
+    "id": "PKG-mexico-city-3D",
+    "slug": "mexico-city-3-day-package",
+    "destinationSlug": "mexico-city",
+    "destinationName": "Mexico City",
+    "country": "Mexico",
+    "region": "North America",
+    "durationDays": 3,
+    "durationNights": 2,
+    "title": "Mexico City 3-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Culture",
+      "History",
+      "Food",
+      "Nightlife",
+      "Bucket List",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 601,
+    "ratingOverall": 4.2,
+    "reviewCount": 20,
+    "highlights": [
+      "Teotihuacan pyramids day trip",
+      "Frida Kahlo Museum (Casa Azul)",
+      "Zócalo (Plaza de la Constitución)",
+      "Teotihuacan pyramids"
+    ]
+  },
+  {
+    "id": "PKG-mexico-city-5D",
+    "slug": "mexico-city-5-day-package",
+    "destinationSlug": "mexico-city",
+    "destinationName": "Mexico City",
+    "country": "Mexico",
+    "region": "North America",
+    "durationDays": 5,
+    "durationNights": 4,
+    "title": "Mexico City 5-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Culture",
+      "History",
+      "Food",
+      "Nightlife",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 708,
+    "ratingOverall": 4.1,
+    "reviewCount": 20,
+    "highlights": [
+      "Teotihuacan pyramids day trip",
+      "Frida Kahlo Museum (Casa Azul)",
+      "Zócalo (Plaza de la Constitución)",
+      "Teotihuacan pyramids"
+    ]
+  },
+  {
+    "id": "PKG-mexico-city-7D",
+    "slug": "mexico-city-7-day-package",
+    "destinationSlug": "mexico-city",
+    "destinationName": "Mexico City",
+    "country": "Mexico",
+    "region": "North America",
+    "durationDays": 7,
+    "durationNights": 6,
+    "title": "Mexico City 7-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Culture",
+      "History",
+      "Food",
+      "Nightlife",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 813,
+    "ratingOverall": 4.4,
+    "reviewCount": 20,
+    "highlights": [
+      "Teotihuacan pyramids day trip",
+      "Frida Kahlo Museum (Casa Azul)",
+      "Zócalo (Plaza de la Constitución)",
+      "Teotihuacan pyramids"
+    ]
+  },
+  {
+    "id": "PKG-mexico-city-10D",
+    "slug": "mexico-city-10-day-package",
+    "destinationSlug": "mexico-city",
+    "destinationName": "Mexico City",
+    "country": "Mexico",
+    "region": "North America",
+    "durationDays": 10,
+    "durationNights": 9,
+    "title": "Mexico City 10-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Culture",
+      "History",
+      "Food",
+      "Nightlife",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 975,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Teotihuacan pyramids day trip",
+      "Frida Kahlo Museum (Casa Azul)",
+      "Zócalo (Plaza de la Constitución)",
+      "Teotihuacan pyramids"
+    ]
+  },
+  {
+    "id": "PKG-mexico-city-14D",
+    "slug": "mexico-city-14-day-package",
+    "destinationSlug": "mexico-city",
+    "destinationName": "Mexico City",
+    "country": "Mexico",
+    "region": "North America",
+    "durationDays": 14,
+    "durationNights": 13,
+    "title": "Mexico City 14-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Culture",
+      "History",
+      "Food",
+      "Nightlife",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 1188,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Teotihuacan pyramids day trip",
+      "Frida Kahlo Museum (Casa Azul)",
+      "Zócalo (Plaza de la Constitución)",
+      "Teotihuacan pyramids"
+    ]
+  },
+  {
+    "id": "PKG-sao-paulo-2D",
+    "slug": "sao-paulo-2-day-package",
+    "destinationSlug": "sao-paulo",
+    "destinationName": "São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "durationDays": 2,
+    "durationNights": 1,
+    "title": "São Paulo 2-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "São Paulo, Brazil — MASP museum red facade São Paulo",
+      "keywords": [
+        "São Paulo",
+        "Brazil",
+        "MASP museum red facade São Paulo",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "São Paulo MASP museum red facade São Paulo",
+      "pexelsQuery": "São Paulo MASP museum red facade São Paulo",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "São Paulo, Brazil — MASP museum red facade São Paulo",
+      "keywords": [
+        "São Paulo",
+        "Brazil",
+        "MASP museum red facade São Paulo",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "São Paulo MASP museum red facade São Paulo",
+      "pexelsQuery": "São Paulo MASP museum red facade São Paulo",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Culture",
+      "Food",
+      "Nightlife",
+      "Shopping",
+      "Bucket List",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 957,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "São Paulo Museum of Art (MASP)",
+      "Edifício Copan or Farol Santander viewpoint",
+      "Ibirapuera Park",
+      "Campos do Jordão mountain town"
+    ]
+  },
+  {
+    "id": "PKG-sao-paulo-3D",
+    "slug": "sao-paulo-3-day-package",
+    "destinationSlug": "sao-paulo",
+    "destinationName": "São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "durationDays": 3,
+    "durationNights": 2,
+    "title": "São Paulo 3-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "São Paulo, Brazil — MASP museum red facade São Paulo",
+      "keywords": [
+        "São Paulo",
+        "Brazil",
+        "MASP museum red facade São Paulo",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "São Paulo MASP museum red facade São Paulo",
+      "pexelsQuery": "São Paulo MASP museum red facade São Paulo",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "São Paulo, Brazil — MASP museum red facade São Paulo",
+      "keywords": [
+        "São Paulo",
+        "Brazil",
+        "MASP museum red facade São Paulo",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "São Paulo MASP museum red facade São Paulo",
+      "pexelsQuery": "São Paulo MASP museum red facade São Paulo",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Culture",
+      "Food",
+      "Nightlife",
+      "Shopping",
+      "Bucket List",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1010,
+    "ratingOverall": 4.2,
+    "reviewCount": 20,
+    "highlights": [
+      "São Paulo Museum of Art (MASP)",
+      "Edifício Copan or Farol Santander viewpoint",
+      "Ibirapuera Park",
+      "Campos do Jordão mountain town"
+    ]
+  },
+  {
+    "id": "PKG-sao-paulo-5D",
+    "slug": "sao-paulo-5-day-package",
+    "destinationSlug": "sao-paulo",
+    "destinationName": "São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "durationDays": 5,
+    "durationNights": 4,
+    "title": "São Paulo 5-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "São Paulo, Brazil — MASP museum red facade São Paulo",
+      "keywords": [
+        "São Paulo",
+        "Brazil",
+        "MASP museum red facade São Paulo",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "São Paulo MASP museum red facade São Paulo",
+      "pexelsQuery": "São Paulo MASP museum red facade São Paulo",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "São Paulo, Brazil — MASP museum red facade São Paulo",
+      "keywords": [
+        "São Paulo",
+        "Brazil",
+        "MASP museum red facade São Paulo",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "São Paulo MASP museum red facade São Paulo",
+      "pexelsQuery": "São Paulo MASP museum red facade São Paulo",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Culture",
+      "Food",
+      "Nightlife",
+      "Shopping",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 1118,
+    "ratingOverall": 4.2,
+    "reviewCount": 20,
+    "highlights": [
+      "São Paulo Museum of Art (MASP)",
+      "Edifício Copan or Farol Santander viewpoint",
+      "Ibirapuera Park",
+      "Campos do Jordão mountain town"
+    ]
+  },
+  {
+    "id": "PKG-sao-paulo-7D",
+    "slug": "sao-paulo-7-day-package",
+    "destinationSlug": "sao-paulo",
+    "destinationName": "São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "durationDays": 7,
+    "durationNights": 6,
+    "title": "São Paulo 7-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "São Paulo, Brazil — MASP museum red facade São Paulo",
+      "keywords": [
+        "São Paulo",
+        "Brazil",
+        "MASP museum red facade São Paulo",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "São Paulo MASP museum red facade São Paulo",
+      "pexelsQuery": "São Paulo MASP museum red facade São Paulo",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "São Paulo, Brazil — MASP museum red facade São Paulo",
+      "keywords": [
+        "São Paulo",
+        "Brazil",
+        "MASP museum red facade São Paulo",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "São Paulo MASP museum red facade São Paulo",
+      "pexelsQuery": "São Paulo MASP museum red facade São Paulo",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Culture",
+      "Food",
+      "Nightlife",
+      "Shopping",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 1222,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "São Paulo Museum of Art (MASP)",
+      "Edifício Copan or Farol Santander viewpoint",
+      "Ibirapuera Park",
+      "Campos do Jordão mountain town"
+    ]
+  },
+  {
+    "id": "PKG-sao-paulo-10D",
+    "slug": "sao-paulo-10-day-package",
+    "destinationSlug": "sao-paulo",
+    "destinationName": "São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "durationDays": 10,
+    "durationNights": 9,
+    "title": "São Paulo 10-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "São Paulo, Brazil — MASP museum red facade São Paulo",
+      "keywords": [
+        "São Paulo",
+        "Brazil",
+        "MASP museum red facade São Paulo",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "São Paulo MASP museum red facade São Paulo",
+      "pexelsQuery": "São Paulo MASP museum red facade São Paulo",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "São Paulo, Brazil — MASP museum red facade São Paulo",
+      "keywords": [
+        "São Paulo",
+        "Brazil",
+        "MASP museum red facade São Paulo",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "São Paulo MASP museum red facade São Paulo",
+      "pexelsQuery": "São Paulo MASP museum red facade São Paulo",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Culture",
+      "Food",
+      "Nightlife",
+      "Shopping",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 1384,
+    "ratingOverall": 4.2,
+    "reviewCount": 20,
+    "highlights": [
+      "São Paulo Museum of Art (MASP)",
+      "Edifício Copan or Farol Santander viewpoint",
+      "Ibirapuera Park",
+      "Campos do Jordão mountain town"
+    ]
+  },
+  {
+    "id": "PKG-sao-paulo-14D",
+    "slug": "sao-paulo-14-day-package",
+    "destinationSlug": "sao-paulo",
+    "destinationName": "São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "durationDays": 14,
+    "durationNights": 13,
+    "title": "São Paulo 14-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "São Paulo, Brazil — MASP museum red facade São Paulo",
+      "keywords": [
+        "São Paulo",
+        "Brazil",
+        "MASP museum red facade São Paulo",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "São Paulo MASP museum red facade São Paulo",
+      "pexelsQuery": "São Paulo MASP museum red facade São Paulo",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "São Paulo, Brazil — MASP museum red facade São Paulo",
+      "keywords": [
+        "São Paulo",
+        "Brazil",
+        "MASP museum red facade São Paulo",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "São Paulo MASP museum red facade São Paulo",
+      "pexelsQuery": "São Paulo MASP museum red facade São Paulo",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Culture",
+      "Food",
+      "Nightlife",
+      "Shopping",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 1597,
+    "ratingOverall": 4.5,
+    "reviewCount": 20,
+    "highlights": [
+      "São Paulo Museum of Art (MASP)",
+      "Edifício Copan or Farol Santander viewpoint",
+      "Ibirapuera Park",
+      "Campos do Jordão mountain town"
+    ]
+  },
+  {
+    "id": "PKG-jeju-island-2D",
+    "slug": "jeju-island-2-day-package",
+    "destinationSlug": "jeju-island",
+    "destinationName": "Jeju Island",
+    "country": "South Korea",
+    "region": "East Asia",
+    "durationDays": 2,
+    "durationNights": 1,
+    "title": "Jeju Island 2-Day Nature Retreat",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Nature",
+      "Adventure",
+      "Honeymoon",
+      "Beach",
+      "Family",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1335,
+    "ratingOverall": 4.2,
+    "reviewCount": 20,
+    "highlights": [
+      "Seongsan Ilchulbong (Sunrise Peak)",
+      "Manjanggul Lava Tube",
+      "Hallasan National Park trails",
+      "Hiking Hallasan to the summit crater lake",
+      "Sunrise hike up Seongsan Ilchulbong together",
+      "Udo Island (bike loop and peanut ice cream)"
+    ]
+  },
+  {
+    "id": "PKG-jeju-island-3D",
+    "slug": "jeju-island-3-day-package",
+    "destinationSlug": "jeju-island",
+    "destinationName": "Jeju Island",
+    "country": "South Korea",
+    "region": "East Asia",
+    "durationDays": 3,
+    "durationNights": 2,
+    "title": "Jeju Island 3-Day Nature Retreat",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Nature",
+      "Adventure",
+      "Honeymoon",
+      "Beach",
+      "Family",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1397,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Seongsan Ilchulbong (Sunrise Peak)",
+      "Manjanggul Lava Tube",
+      "Hallasan National Park trails",
+      "Hiking Hallasan to the summit crater lake",
+      "Sunrise hike up Seongsan Ilchulbong together",
+      "Udo Island (bike loop and peanut ice cream)"
+    ]
+  },
+  {
+    "id": "PKG-jeju-island-5D",
+    "slug": "jeju-island-5-day-package",
+    "destinationSlug": "jeju-island",
+    "destinationName": "Jeju Island",
+    "country": "South Korea",
+    "region": "East Asia",
+    "durationDays": 5,
+    "durationNights": 4,
+    "title": "Jeju Island 5-Day Nature Retreat",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Nature",
+      "Adventure",
+      "Honeymoon",
+      "Beach",
+      "Family"
+    ],
+    "fromPriceUSD": 1519,
+    "ratingOverall": 4.4,
+    "reviewCount": 20,
+    "highlights": [
+      "Seongsan Ilchulbong (Sunrise Peak)",
+      "Manjanggul Lava Tube",
+      "Hallasan National Park trails",
+      "Hiking Hallasan to the summit crater lake",
+      "Sunrise hike up Seongsan Ilchulbong together",
+      "Udo Island (bike loop and peanut ice cream)"
+    ]
+  },
+  {
+    "id": "PKG-jeju-island-7D",
+    "slug": "jeju-island-7-day-package",
+    "destinationSlug": "jeju-island",
+    "destinationName": "Jeju Island",
+    "country": "South Korea",
+    "region": "East Asia",
+    "durationDays": 7,
+    "durationNights": 6,
+    "title": "Jeju Island 7-Day Nature Retreat",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Nature",
+      "Adventure",
+      "Honeymoon",
+      "Beach",
+      "Family"
+    ],
+    "fromPriceUSD": 1640,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Seongsan Ilchulbong (Sunrise Peak)",
+      "Manjanggul Lava Tube",
+      "Hallasan National Park trails",
+      "Hiking Hallasan to the summit crater lake",
+      "Sunrise hike up Seongsan Ilchulbong together",
+      "Udo Island (bike loop and peanut ice cream)"
+    ]
+  },
+  {
+    "id": "PKG-jeju-island-10D",
+    "slug": "jeju-island-10-day-package",
+    "destinationSlug": "jeju-island",
+    "destinationName": "Jeju Island",
+    "country": "South Korea",
+    "region": "East Asia",
+    "durationDays": 10,
+    "durationNights": 9,
+    "title": "Jeju Island 10-Day Nature Retreat",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Nature",
+      "Adventure",
+      "Honeymoon",
+      "Beach",
+      "Family",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 1823,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Seongsan Ilchulbong (Sunrise Peak)",
+      "Manjanggul Lava Tube",
+      "Hallasan National Park trails",
+      "Hiking Hallasan to the summit crater lake",
+      "Sunrise hike up Seongsan Ilchulbong together",
+      "Udo Island (bike loop and peanut ice cream)"
+    ]
+  },
+  {
+    "id": "PKG-jeju-island-14D",
+    "slug": "jeju-island-14-day-package",
+    "destinationSlug": "jeju-island",
+    "destinationName": "Jeju Island",
+    "country": "South Korea",
+    "region": "East Asia",
+    "durationDays": 14,
+    "durationNights": 13,
+    "title": "Jeju Island 14-Day Nature Retreat",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Nature",
+      "Adventure",
+      "Honeymoon",
+      "Beach",
+      "Family",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 2066,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Seongsan Ilchulbong (Sunrise Peak)",
+      "Manjanggul Lava Tube",
+      "Hallasan National Park trails",
+      "Hiking Hallasan to the summit crater lake",
+      "Sunrise hike up Seongsan Ilchulbong together",
+      "Udo Island (bike loop and peanut ice cream)"
+    ]
+  },
+  {
+    "id": "PKG-alula-2D",
+    "slug": "alula-2-day-package",
+    "destinationSlug": "alula",
+    "destinationName": "AlUla",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "durationDays": 2,
+    "durationNights": 1,
+    "title": "AlUla 2-Day Bucket List Trip",
+    "heroImage": {
+      "role": "hero",
+      "altText": "AlUla, Saudi Arabia — Hegra Nabatean tombs AlUla",
+      "keywords": [
+        "AlUla",
+        "Saudi Arabia",
+        "Hegra Nabatean tombs AlUla",
+        "Bucket List",
+        "History"
+      ],
+      "unsplashQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "pexelsQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "AlUla, Saudi Arabia — Hegra Nabatean tombs AlUla",
+      "keywords": [
+        "AlUla",
+        "Saudi Arabia",
+        "Hegra Nabatean tombs AlUla",
+        "Bucket List",
+        "History"
+      ],
+      "unsplashQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "pexelsQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Bucket List",
+      "History",
+      "Culture",
+      "Adventure",
+      "Luxury",
+      "Romantic",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1244,
+    "ratingOverall": 4.1,
+    "reviewCount": 20,
+    "highlights": [
+      "Hegra (Mada'in Salih) guided tour",
+      "Maraya concert hall visit",
+      "Elephant Rock viewing area",
+      "Hot air ballooning over Hegra",
+      "Overnight desert camp stay under the stars",
+      "Madain Saleh extended Hegra tour"
+    ]
+  },
+  {
+    "id": "PKG-alula-3D",
+    "slug": "alula-3-day-package",
+    "destinationSlug": "alula",
+    "destinationName": "AlUla",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "durationDays": 3,
+    "durationNights": 2,
+    "title": "AlUla 3-Day Bucket List Trip",
+    "heroImage": {
+      "role": "hero",
+      "altText": "AlUla, Saudi Arabia — Hegra Nabatean tombs AlUla",
+      "keywords": [
+        "AlUla",
+        "Saudi Arabia",
+        "Hegra Nabatean tombs AlUla",
+        "Bucket List",
+        "History"
+      ],
+      "unsplashQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "pexelsQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "AlUla, Saudi Arabia — Hegra Nabatean tombs AlUla",
+      "keywords": [
+        "AlUla",
+        "Saudi Arabia",
+        "Hegra Nabatean tombs AlUla",
+        "Bucket List",
+        "History"
+      ],
+      "unsplashQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "pexelsQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Bucket List",
+      "History",
+      "Culture",
+      "Adventure",
+      "Luxury",
+      "Romantic",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1335,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Hegra (Mada'in Salih) guided tour",
+      "Maraya concert hall visit",
+      "Elephant Rock viewing area",
+      "Hot air ballooning over Hegra",
+      "Overnight desert camp stay under the stars",
+      "Madain Saleh extended Hegra tour"
+    ]
+  },
+  {
+    "id": "PKG-alula-5D",
+    "slug": "alula-5-day-package",
+    "destinationSlug": "alula",
+    "destinationName": "AlUla",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "durationDays": 5,
+    "durationNights": 4,
+    "title": "AlUla 5-Day Bucket List Trip",
+    "heroImage": {
+      "role": "hero",
+      "altText": "AlUla, Saudi Arabia — Hegra Nabatean tombs AlUla",
+      "keywords": [
+        "AlUla",
+        "Saudi Arabia",
+        "Hegra Nabatean tombs AlUla",
+        "Bucket List",
+        "History"
+      ],
+      "unsplashQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "pexelsQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "AlUla, Saudi Arabia — Hegra Nabatean tombs AlUla",
+      "keywords": [
+        "AlUla",
+        "Saudi Arabia",
+        "Hegra Nabatean tombs AlUla",
+        "Bucket List",
+        "History"
+      ],
+      "unsplashQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "pexelsQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Bucket List",
+      "History",
+      "Culture",
+      "Adventure",
+      "Luxury",
+      "Romantic"
+    ],
+    "fromPriceUSD": 1519,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Hegra (Mada'in Salih) guided tour",
+      "Maraya concert hall visit",
+      "Elephant Rock viewing area",
+      "Hot air ballooning over Hegra",
+      "Overnight desert camp stay under the stars",
+      "Madain Saleh extended Hegra tour"
+    ]
+  },
+  {
+    "id": "PKG-alula-7D",
+    "slug": "alula-7-day-package",
+    "destinationSlug": "alula",
+    "destinationName": "AlUla",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "durationDays": 7,
+    "durationNights": 6,
+    "title": "AlUla 7-Day Bucket List Trip",
+    "heroImage": {
+      "role": "hero",
+      "altText": "AlUla, Saudi Arabia — Hegra Nabatean tombs AlUla",
+      "keywords": [
+        "AlUla",
+        "Saudi Arabia",
+        "Hegra Nabatean tombs AlUla",
+        "Bucket List",
+        "History"
+      ],
+      "unsplashQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "pexelsQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "AlUla, Saudi Arabia — Hegra Nabatean tombs AlUla",
+      "keywords": [
+        "AlUla",
+        "Saudi Arabia",
+        "Hegra Nabatean tombs AlUla",
+        "Bucket List",
+        "History"
+      ],
+      "unsplashQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "pexelsQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Bucket List",
+      "History",
+      "Culture",
+      "Adventure",
+      "Luxury",
+      "Romantic"
+    ],
+    "fromPriceUSD": 1702,
+    "ratingOverall": 4.4,
+    "reviewCount": 20,
+    "highlights": [
+      "Hegra (Mada'in Salih) guided tour",
+      "Maraya concert hall visit",
+      "Elephant Rock viewing area",
+      "Hot air ballooning over Hegra",
+      "Overnight desert camp stay under the stars",
+      "Madain Saleh extended Hegra tour"
+    ]
+  },
+  {
+    "id": "PKG-alula-10D",
+    "slug": "alula-10-day-package",
+    "destinationSlug": "alula",
+    "destinationName": "AlUla",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "durationDays": 10,
+    "durationNights": 9,
+    "title": "AlUla 10-Day Bucket List Trip",
+    "heroImage": {
+      "role": "hero",
+      "altText": "AlUla, Saudi Arabia — Hegra Nabatean tombs AlUla",
+      "keywords": [
+        "AlUla",
+        "Saudi Arabia",
+        "Hegra Nabatean tombs AlUla",
+        "Bucket List",
+        "History"
+      ],
+      "unsplashQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "pexelsQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "AlUla, Saudi Arabia — Hegra Nabatean tombs AlUla",
+      "keywords": [
+        "AlUla",
+        "Saudi Arabia",
+        "Hegra Nabatean tombs AlUla",
+        "Bucket List",
+        "History"
+      ],
+      "unsplashQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "pexelsQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Bucket List",
+      "History",
+      "Culture",
+      "Adventure",
+      "Luxury",
+      "Romantic"
+    ],
+    "fromPriceUSD": 1975,
+    "ratingOverall": 4.4,
+    "reviewCount": 20,
+    "highlights": [
+      "Hegra (Mada'in Salih) guided tour",
+      "Maraya concert hall visit",
+      "Elephant Rock viewing area",
+      "Hot air ballooning over Hegra",
+      "Overnight desert camp stay under the stars",
+      "Madain Saleh extended Hegra tour"
+    ]
+  },
+  {
+    "id": "PKG-alula-14D",
+    "slug": "alula-14-day-package",
+    "destinationSlug": "alula",
+    "destinationName": "AlUla",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "durationDays": 14,
+    "durationNights": 13,
+    "title": "AlUla 14-Day Bucket List Trip",
+    "heroImage": {
+      "role": "hero",
+      "altText": "AlUla, Saudi Arabia — Hegra Nabatean tombs AlUla",
+      "keywords": [
+        "AlUla",
+        "Saudi Arabia",
+        "Hegra Nabatean tombs AlUla",
+        "Bucket List",
+        "History"
+      ],
+      "unsplashQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "pexelsQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "AlUla, Saudi Arabia — Hegra Nabatean tombs AlUla",
+      "keywords": [
+        "AlUla",
+        "Saudi Arabia",
+        "Hegra Nabatean tombs AlUla",
+        "Bucket List",
+        "History"
+      ],
+      "unsplashQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "pexelsQuery": "AlUla Hegra Nabatean tombs AlUla",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Bucket List",
+      "History",
+      "Culture",
+      "Adventure",
+      "Luxury",
+      "Romantic"
+    ],
+    "fromPriceUSD": 2343,
+    "ratingOverall": 4.2,
+    "reviewCount": 20,
+    "highlights": [
+      "Hegra (Mada'in Salih) guided tour",
+      "Maraya concert hall visit",
+      "Elephant Rock viewing area",
+      "Hot air ballooning over Hegra",
+      "Overnight desert camp stay under the stars",
+      "Madain Saleh extended Hegra tour"
+    ]
+  },
+  {
+    "id": "PKG-antalya-2D",
+    "slug": "antalya-2-day-package",
+    "destinationSlug": "antalya",
+    "destinationName": "Antalya",
+    "country": "Turkey",
+    "region": "Mediterranean",
+    "durationDays": 2,
+    "durationNights": 1,
+    "title": "Antalya 2-Day Beach Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Beach",
+      "History",
+      "Culture",
+      "Family",
+      "Adventure",
+      "Summer",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1013,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Aspendos Roman Theatre",
+      "Düden Waterfalls boat tour",
+      "Kaleiçi (old town) streets",
+      "Köprülü Canyon white-water rafting",
+      "Perge and Aspendos ancient cities"
+    ]
+  },
+  {
+    "id": "PKG-antalya-3D",
+    "slug": "antalya-3-day-package",
+    "destinationSlug": "antalya",
+    "destinationName": "Antalya",
+    "country": "Turkey",
+    "region": "Mediterranean",
+    "durationDays": 3,
+    "durationNights": 2,
+    "title": "Antalya 3-Day Beach Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Beach",
+      "History",
+      "Culture",
+      "Family",
+      "Adventure",
+      "Summer",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1058,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Aspendos Roman Theatre",
+      "Düden Waterfalls boat tour",
+      "Kaleiçi (old town) streets",
+      "Köprülü Canyon white-water rafting",
+      "Perge and Aspendos ancient cities"
+    ]
+  },
+  {
+    "id": "PKG-antalya-5D",
+    "slug": "antalya-5-day-package",
+    "destinationSlug": "antalya",
+    "destinationName": "Antalya",
+    "country": "Turkey",
+    "region": "Mediterranean",
+    "durationDays": 5,
+    "durationNights": 4,
+    "title": "Antalya 5-Day Beach Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Beach",
+      "History",
+      "Culture",
+      "Family",
+      "Adventure",
+      "Summer"
+    ],
+    "fromPriceUSD": 1150,
+    "ratingOverall": 4.5,
+    "reviewCount": 20,
+    "highlights": [
+      "Aspendos Roman Theatre",
+      "Düden Waterfalls boat tour",
+      "Kaleiçi (old town) streets",
+      "Köprülü Canyon white-water rafting",
+      "Perge and Aspendos ancient cities"
+    ]
+  },
+  {
+    "id": "PKG-antalya-7D",
+    "slug": "antalya-7-day-package",
+    "destinationSlug": "antalya",
+    "destinationName": "Antalya",
+    "country": "Turkey",
+    "region": "Mediterranean",
+    "durationDays": 7,
+    "durationNights": 6,
+    "title": "Antalya 7-Day Beach Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Beach",
+      "History",
+      "Culture",
+      "Family",
+      "Adventure",
+      "Summer"
+    ],
+    "fromPriceUSD": 1241,
+    "ratingOverall": 4.1,
+    "reviewCount": 20,
+    "highlights": [
+      "Aspendos Roman Theatre",
+      "Düden Waterfalls boat tour",
+      "Kaleiçi (old town) streets",
+      "Köprülü Canyon white-water rafting",
+      "Perge and Aspendos ancient cities"
+    ]
+  },
+  {
+    "id": "PKG-antalya-10D",
+    "slug": "antalya-10-day-package",
+    "destinationSlug": "antalya",
+    "destinationName": "Antalya",
+    "country": "Turkey",
+    "region": "Mediterranean",
+    "durationDays": 10,
+    "durationNights": 9,
+    "title": "Antalya 10-Day Beach Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Beach",
+      "History",
+      "Culture",
+      "Family",
+      "Adventure",
+      "Summer",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 1379,
+    "ratingOverall": 4.4,
+    "reviewCount": 20,
+    "highlights": [
+      "Aspendos Roman Theatre",
+      "Düden Waterfalls boat tour",
+      "Kaleiçi (old town) streets",
+      "Köprülü Canyon white-water rafting",
+      "Perge and Aspendos ancient cities"
+    ]
+  },
+  {
+    "id": "PKG-antalya-14D",
+    "slug": "antalya-14-day-package",
+    "destinationSlug": "antalya",
+    "destinationName": "Antalya",
+    "country": "Turkey",
+    "region": "Mediterranean",
+    "durationDays": 14,
+    "durationNights": 13,
+    "title": "Antalya 14-Day Beach Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Beach",
+      "History",
+      "Culture",
+      "Family",
+      "Adventure",
+      "Summer",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 1562,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Aspendos Roman Theatre",
+      "Düden Waterfalls boat tour",
+      "Kaleiçi (old town) streets",
+      "Köprülü Canyon white-water rafting",
+      "Perge and Aspendos ancient cities"
+    ]
+  },
+  {
+    "id": "PKG-kuala-lumpur-2D",
+    "slug": "kuala-lumpur-2-day-package",
+    "destinationSlug": "kuala-lumpur",
+    "destinationName": "Kuala Lumpur",
+    "country": "Malaysia",
+    "region": "Southeast Asia",
+    "durationDays": 2,
+    "durationNights": 1,
+    "title": "Kuala Lumpur 2-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Kuala Lumpur, Malaysia — Petronas Twin Towers sunset",
+      "keywords": [
+        "Kuala Lumpur",
+        "Malaysia",
+        "Petronas Twin Towers sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "pexelsQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Kuala Lumpur, Malaysia — Petronas Twin Towers sunset",
+      "keywords": [
+        "Kuala Lumpur",
+        "Malaysia",
+        "Petronas Twin Towers sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "pexelsQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Food",
+      "Culture",
+      "Shopping",
+      "Family",
+      "Nightlife",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1642,
+    "ratingOverall": 4.4,
+    "reviewCount": 20,
+    "highlights": [
+      "Petronas Twin Towers Skybridge & Observation Deck",
+      "Batu Caves temple complex",
+      "Batu Caves staircase and grounds",
+      "Batu Caves"
+    ]
+  },
+  {
+    "id": "PKG-kuala-lumpur-3D",
+    "slug": "kuala-lumpur-3-day-package",
+    "destinationSlug": "kuala-lumpur",
+    "destinationName": "Kuala Lumpur",
+    "country": "Malaysia",
+    "region": "Southeast Asia",
+    "durationDays": 3,
+    "durationNights": 2,
+    "title": "Kuala Lumpur 3-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Kuala Lumpur, Malaysia — Petronas Twin Towers sunset",
+      "keywords": [
+        "Kuala Lumpur",
+        "Malaysia",
+        "Petronas Twin Towers sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "pexelsQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Kuala Lumpur, Malaysia — Petronas Twin Towers sunset",
+      "keywords": [
+        "Kuala Lumpur",
+        "Malaysia",
+        "Petronas Twin Towers sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "pexelsQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Food",
+      "Culture",
+      "Shopping",
+      "Family",
+      "Nightlife",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1688,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Petronas Twin Towers Skybridge & Observation Deck",
+      "Batu Caves temple complex",
+      "Batu Caves staircase and grounds",
+      "Batu Caves"
+    ]
+  },
+  {
+    "id": "PKG-kuala-lumpur-5D",
+    "slug": "kuala-lumpur-5-day-package",
+    "destinationSlug": "kuala-lumpur",
+    "destinationName": "Kuala Lumpur",
+    "country": "Malaysia",
+    "region": "Southeast Asia",
+    "durationDays": 5,
+    "durationNights": 4,
+    "title": "Kuala Lumpur 5-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Kuala Lumpur, Malaysia — Petronas Twin Towers sunset",
+      "keywords": [
+        "Kuala Lumpur",
+        "Malaysia",
+        "Petronas Twin Towers sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "pexelsQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Kuala Lumpur, Malaysia — Petronas Twin Towers sunset",
+      "keywords": [
+        "Kuala Lumpur",
+        "Malaysia",
+        "Petronas Twin Towers sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "pexelsQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Food",
+      "Culture",
+      "Shopping",
+      "Family",
+      "Nightlife"
+    ],
+    "fromPriceUSD": 1780,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Petronas Twin Towers Skybridge & Observation Deck",
+      "Batu Caves temple complex",
+      "Batu Caves staircase and grounds",
+      "Batu Caves"
+    ]
+  },
+  {
+    "id": "PKG-kuala-lumpur-7D",
+    "slug": "kuala-lumpur-7-day-package",
+    "destinationSlug": "kuala-lumpur",
+    "destinationName": "Kuala Lumpur",
+    "country": "Malaysia",
+    "region": "Southeast Asia",
+    "durationDays": 7,
+    "durationNights": 6,
+    "title": "Kuala Lumpur 7-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Kuala Lumpur, Malaysia — Petronas Twin Towers sunset",
+      "keywords": [
+        "Kuala Lumpur",
+        "Malaysia",
+        "Petronas Twin Towers sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "pexelsQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Kuala Lumpur, Malaysia — Petronas Twin Towers sunset",
+      "keywords": [
+        "Kuala Lumpur",
+        "Malaysia",
+        "Petronas Twin Towers sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "pexelsQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Food",
+      "Culture",
+      "Shopping",
+      "Family",
+      "Nightlife"
+    ],
+    "fromPriceUSD": 1869,
+    "ratingOverall": 4.5,
+    "reviewCount": 20,
+    "highlights": [
+      "Petronas Twin Towers Skybridge & Observation Deck",
+      "Batu Caves temple complex",
+      "Batu Caves staircase and grounds",
+      "Batu Caves"
+    ]
+  },
+  {
+    "id": "PKG-kuala-lumpur-10D",
+    "slug": "kuala-lumpur-10-day-package",
+    "destinationSlug": "kuala-lumpur",
+    "destinationName": "Kuala Lumpur",
+    "country": "Malaysia",
+    "region": "Southeast Asia",
+    "durationDays": 10,
+    "durationNights": 9,
+    "title": "Kuala Lumpur 10-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Kuala Lumpur, Malaysia — Petronas Twin Towers sunset",
+      "keywords": [
+        "Kuala Lumpur",
+        "Malaysia",
+        "Petronas Twin Towers sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "pexelsQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Kuala Lumpur, Malaysia — Petronas Twin Towers sunset",
+      "keywords": [
+        "Kuala Lumpur",
+        "Malaysia",
+        "Petronas Twin Towers sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "pexelsQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Food",
+      "Culture",
+      "Shopping",
+      "Family",
+      "Nightlife",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 2008,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Petronas Twin Towers Skybridge & Observation Deck",
+      "Batu Caves temple complex",
+      "Batu Caves staircase and grounds",
+      "Batu Caves"
+    ]
+  },
+  {
+    "id": "PKG-kuala-lumpur-14D",
+    "slug": "kuala-lumpur-14-day-package",
+    "destinationSlug": "kuala-lumpur",
+    "destinationName": "Kuala Lumpur",
+    "country": "Malaysia",
+    "region": "Southeast Asia",
+    "durationDays": 14,
+    "durationNights": 13,
+    "title": "Kuala Lumpur 14-Day City Break",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Kuala Lumpur, Malaysia — Petronas Twin Towers sunset",
+      "keywords": [
+        "Kuala Lumpur",
+        "Malaysia",
+        "Petronas Twin Towers sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "pexelsQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Kuala Lumpur, Malaysia — Petronas Twin Towers sunset",
+      "keywords": [
+        "Kuala Lumpur",
+        "Malaysia",
+        "Petronas Twin Towers sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "pexelsQuery": "Kuala Lumpur Petronas Twin Towers sunset",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "City Break",
+      "Food",
+      "Culture",
+      "Shopping",
+      "Family",
+      "Nightlife",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 2190,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Petronas Twin Towers Skybridge & Observation Deck",
+      "Batu Caves temple complex",
+      "Batu Caves staircase and grounds",
+      "Batu Caves"
+    ]
+  },
+  {
+    "id": "PKG-sharm-el-sheikh-2D",
+    "slug": "sharm-el-sheikh-2-day-package",
+    "destinationSlug": "sharm-el-sheikh",
+    "destinationName": "Sharm El Sheikh",
+    "country": "Egypt",
+    "region": "Middle East",
+    "durationDays": 2,
+    "durationNights": 1,
+    "title": "Sharm El Sheikh 2-Day Beach Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Sharm El Sheikh, Egypt — Ras Mohammed coral reef diving",
+      "keywords": [
+        "Sharm El Sheikh",
+        "Egypt",
+        "Ras Mohammed coral reef diving",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "pexelsQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Sharm El Sheikh, Egypt — Ras Mohammed coral reef diving",
+      "keywords": [
+        "Sharm El Sheikh",
+        "Egypt",
+        "Ras Mohammed coral reef diving",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "pexelsQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Beach",
+      "Adventure",
+      "Honeymoon",
+      "Luxury",
+      "Family",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1119,
+    "ratingOverall": 4.4,
+    "reviewCount": 20,
+    "highlights": [
+      "Ras Mohammed National Park snorkeling/diving",
+      "Tiran Island snorkeling boat trip",
+      "Na'ama Bay promenade",
+      "Scuba diving Ras Mohammed and the SS Thistlegorm wreck",
+      "Private yacht snorkeling charter to Tiran Island",
+      "Sunset dinner cruise on the Red Sea",
+      "St. Catherine's Monastery & Mount Sinai sunrise hike"
+    ]
+  },
+  {
+    "id": "PKG-sharm-el-sheikh-3D",
+    "slug": "sharm-el-sheikh-3-day-package",
+    "destinationSlug": "sharm-el-sheikh",
+    "destinationName": "Sharm El Sheikh",
+    "country": "Egypt",
+    "region": "Middle East",
+    "durationDays": 3,
+    "durationNights": 2,
+    "title": "Sharm El Sheikh 3-Day Beach Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Sharm El Sheikh, Egypt — Ras Mohammed coral reef diving",
+      "keywords": [
+        "Sharm El Sheikh",
+        "Egypt",
+        "Ras Mohammed coral reef diving",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "pexelsQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Sharm El Sheikh, Egypt — Ras Mohammed coral reef diving",
+      "keywords": [
+        "Sharm El Sheikh",
+        "Egypt",
+        "Ras Mohammed coral reef diving",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "pexelsQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Beach",
+      "Adventure",
+      "Honeymoon",
+      "Luxury",
+      "Family",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 1173,
+    "ratingOverall": 4.4,
+    "reviewCount": 20,
+    "highlights": [
+      "Ras Mohammed National Park snorkeling/diving",
+      "Tiran Island snorkeling boat trip",
+      "Na'ama Bay promenade",
+      "Scuba diving Ras Mohammed and the SS Thistlegorm wreck",
+      "Private yacht snorkeling charter to Tiran Island",
+      "Sunset dinner cruise on the Red Sea",
+      "St. Catherine's Monastery & Mount Sinai sunrise hike"
+    ]
+  },
+  {
+    "id": "PKG-sharm-el-sheikh-5D",
+    "slug": "sharm-el-sheikh-5-day-package",
+    "destinationSlug": "sharm-el-sheikh",
+    "destinationName": "Sharm El Sheikh",
+    "country": "Egypt",
+    "region": "Middle East",
+    "durationDays": 5,
+    "durationNights": 4,
+    "title": "Sharm El Sheikh 5-Day Beach Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Sharm El Sheikh, Egypt — Ras Mohammed coral reef diving",
+      "keywords": [
+        "Sharm El Sheikh",
+        "Egypt",
+        "Ras Mohammed coral reef diving",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "pexelsQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Sharm El Sheikh, Egypt — Ras Mohammed coral reef diving",
+      "keywords": [
+        "Sharm El Sheikh",
+        "Egypt",
+        "Ras Mohammed coral reef diving",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "pexelsQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Beach",
+      "Adventure",
+      "Honeymoon",
+      "Luxury",
+      "Family"
+    ],
+    "fromPriceUSD": 1280,
+    "ratingOverall": 4.2,
+    "reviewCount": 20,
+    "highlights": [
+      "Ras Mohammed National Park snorkeling/diving",
+      "Tiran Island snorkeling boat trip",
+      "Na'ama Bay promenade",
+      "Scuba diving Ras Mohammed and the SS Thistlegorm wreck",
+      "Private yacht snorkeling charter to Tiran Island",
+      "Sunset dinner cruise on the Red Sea",
+      "St. Catherine's Monastery & Mount Sinai sunrise hike"
+    ]
+  },
+  {
+    "id": "PKG-sharm-el-sheikh-7D",
+    "slug": "sharm-el-sheikh-7-day-package",
+    "destinationSlug": "sharm-el-sheikh",
+    "destinationName": "Sharm El Sheikh",
+    "country": "Egypt",
+    "region": "Middle East",
+    "durationDays": 7,
+    "durationNights": 6,
+    "title": "Sharm El Sheikh 7-Day Beach Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Sharm El Sheikh, Egypt — Ras Mohammed coral reef diving",
+      "keywords": [
+        "Sharm El Sheikh",
+        "Egypt",
+        "Ras Mohammed coral reef diving",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "pexelsQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Sharm El Sheikh, Egypt — Ras Mohammed coral reef diving",
+      "keywords": [
+        "Sharm El Sheikh",
+        "Egypt",
+        "Ras Mohammed coral reef diving",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "pexelsQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Beach",
+      "Adventure",
+      "Honeymoon",
+      "Luxury",
+      "Family"
+    ],
+    "fromPriceUSD": 1385,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Ras Mohammed National Park snorkeling/diving",
+      "Tiran Island snorkeling boat trip",
+      "Na'ama Bay promenade",
+      "Scuba diving Ras Mohammed and the SS Thistlegorm wreck",
+      "Private yacht snorkeling charter to Tiran Island",
+      "Sunset dinner cruise on the Red Sea",
+      "St. Catherine's Monastery & Mount Sinai sunrise hike"
+    ]
+  },
+  {
+    "id": "PKG-sharm-el-sheikh-10D",
+    "slug": "sharm-el-sheikh-10-day-package",
+    "destinationSlug": "sharm-el-sheikh",
+    "destinationName": "Sharm El Sheikh",
+    "country": "Egypt",
+    "region": "Middle East",
+    "durationDays": 10,
+    "durationNights": 9,
+    "title": "Sharm El Sheikh 10-Day Beach Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Sharm El Sheikh, Egypt — Ras Mohammed coral reef diving",
+      "keywords": [
+        "Sharm El Sheikh",
+        "Egypt",
+        "Ras Mohammed coral reef diving",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "pexelsQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Sharm El Sheikh, Egypt — Ras Mohammed coral reef diving",
+      "keywords": [
+        "Sharm El Sheikh",
+        "Egypt",
+        "Ras Mohammed coral reef diving",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "pexelsQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Beach",
+      "Adventure",
+      "Honeymoon",
+      "Luxury",
+      "Family",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 1548,
+    "ratingOverall": 4.2,
+    "reviewCount": 20,
+    "highlights": [
+      "Ras Mohammed National Park snorkeling/diving",
+      "Tiran Island snorkeling boat trip",
+      "Na'ama Bay promenade",
+      "Scuba diving Ras Mohammed and the SS Thistlegorm wreck",
+      "Private yacht snorkeling charter to Tiran Island",
+      "Sunset dinner cruise on the Red Sea",
+      "St. Catherine's Monastery & Mount Sinai sunrise hike"
+    ]
+  },
+  {
+    "id": "PKG-sharm-el-sheikh-14D",
+    "slug": "sharm-el-sheikh-14-day-package",
+    "destinationSlug": "sharm-el-sheikh",
+    "destinationName": "Sharm El Sheikh",
+    "country": "Egypt",
+    "region": "Middle East",
+    "durationDays": 14,
+    "durationNights": 13,
+    "title": "Sharm El Sheikh 14-Day Beach Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Sharm El Sheikh, Egypt — Ras Mohammed coral reef diving",
+      "keywords": [
+        "Sharm El Sheikh",
+        "Egypt",
+        "Ras Mohammed coral reef diving",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "pexelsQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Sharm El Sheikh, Egypt — Ras Mohammed coral reef diving",
+      "keywords": [
+        "Sharm El Sheikh",
+        "Egypt",
+        "Ras Mohammed coral reef diving",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "pexelsQuery": "Sharm El Sheikh Ras Mohammed coral reef diving",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Beach",
+      "Adventure",
+      "Honeymoon",
+      "Luxury",
+      "Family",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 1760,
+    "ratingOverall": 4.4,
+    "reviewCount": 20,
+    "highlights": [
+      "Ras Mohammed National Park snorkeling/diving",
+      "Tiran Island snorkeling boat trip",
+      "Na'ama Bay promenade",
+      "Scuba diving Ras Mohammed and the SS Thistlegorm wreck",
+      "Private yacht snorkeling charter to Tiran Island",
+      "Sunset dinner cruise on the Red Sea",
+      "St. Catherine's Monastery & Mount Sinai sunrise hike"
+    ]
+  },
+  {
+    "id": "PKG-ibiza-2D",
+    "slug": "ibiza-2-day-package",
+    "destinationSlug": "ibiza",
+    "destinationName": "Ibiza",
+    "country": "Spain",
+    "region": "Mediterranean",
+    "durationDays": 2,
+    "durationNights": 1,
+    "title": "Ibiza 2-Day Nightlife Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Nightlife",
+      "Beach",
+      "Luxury",
+      "Romantic",
+      "Summer",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 854,
+    "ratingOverall": 4.2,
+    "reviewCount": 20,
+    "highlights": [
+      "Dalt Vila (walled old town) guided tour",
+      "Es Vedrà boat trip",
+      "Dalt Vila walls exterior walk",
+      "VIP table at Ushuaïa or Hï Ibiza",
+      "Formentera island (ferry from Ibiza Town)"
+    ]
+  },
+  {
+    "id": "PKG-ibiza-3D",
+    "slug": "ibiza-3-day-package",
+    "destinationSlug": "ibiza",
+    "destinationName": "Ibiza",
+    "country": "Spain",
+    "region": "Mediterranean",
+    "durationDays": 3,
+    "durationNights": 2,
+    "title": "Ibiza 3-Day Nightlife Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Nightlife",
+      "Beach",
+      "Luxury",
+      "Romantic",
+      "Summer",
+      "Weekend Getaway"
+    ],
+    "fromPriceUSD": 923,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Dalt Vila (walled old town) guided tour",
+      "Es Vedrà boat trip",
+      "Dalt Vila walls exterior walk",
+      "VIP table at Ushuaïa or Hï Ibiza",
+      "Formentera island (ferry from Ibiza Town)"
+    ]
+  },
+  {
+    "id": "PKG-ibiza-5D",
+    "slug": "ibiza-5-day-package",
+    "destinationSlug": "ibiza",
+    "destinationName": "Ibiza",
+    "country": "Spain",
+    "region": "Mediterranean",
+    "durationDays": 5,
+    "durationNights": 4,
+    "title": "Ibiza 5-Day Nightlife Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Nightlife",
+      "Beach",
+      "Luxury",
+      "Romantic",
+      "Summer"
+    ],
+    "fromPriceUSD": 1061,
+    "ratingOverall": 4.2,
+    "reviewCount": 20,
+    "highlights": [
+      "Dalt Vila (walled old town) guided tour",
+      "Es Vedrà boat trip",
+      "Dalt Vila walls exterior walk",
+      "VIP table at Ushuaïa or Hï Ibiza",
+      "Formentera island (ferry from Ibiza Town)"
+    ]
+  },
+  {
+    "id": "PKG-ibiza-7D",
+    "slug": "ibiza-7-day-package",
+    "destinationSlug": "ibiza",
+    "destinationName": "Ibiza",
+    "country": "Spain",
+    "region": "Mediterranean",
+    "durationDays": 7,
+    "durationNights": 6,
+    "title": "Ibiza 7-Day Nightlife Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Nightlife",
+      "Beach",
+      "Luxury",
+      "Romantic",
+      "Summer"
+    ],
+    "fromPriceUSD": 1199,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Dalt Vila (walled old town) guided tour",
+      "Es Vedrà boat trip",
+      "Dalt Vila walls exterior walk",
+      "VIP table at Ushuaïa or Hï Ibiza",
+      "Formentera island (ferry from Ibiza Town)"
+    ]
+  },
+  {
+    "id": "PKG-ibiza-10D",
+    "slug": "ibiza-10-day-package",
+    "destinationSlug": "ibiza",
+    "destinationName": "Ibiza",
+    "country": "Spain",
+    "region": "Mediterranean",
+    "durationDays": 10,
+    "durationNights": 9,
+    "title": "Ibiza 10-Day Nightlife Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Nightlife",
+      "Beach",
+      "Luxury",
+      "Romantic",
+      "Summer",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 1406,
+    "ratingOverall": 4.3,
+    "reviewCount": 20,
+    "highlights": [
+      "Dalt Vila (walled old town) guided tour",
+      "Es Vedrà boat trip",
+      "Dalt Vila walls exterior walk",
+      "VIP table at Ushuaïa or Hï Ibiza",
+      "Formentera island (ferry from Ibiza Town)"
+    ]
+  },
+  {
+    "id": "PKG-ibiza-14D",
+    "slug": "ibiza-14-day-package",
+    "destinationSlug": "ibiza",
+    "destinationName": "Ibiza",
+    "country": "Spain",
+    "region": "Mediterranean",
+    "durationDays": 14,
+    "durationNights": 13,
+    "title": "Ibiza 14-Day Nightlife Getaway",
+    "heroImage": {
+      "role": "hero",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 1600,
+      "height": 900
+    },
+    "thumbnail": {
+      "role": "thumbnail",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 400,
+      "height": 300
+    },
+    "categories": [
+      "Nightlife",
+      "Beach",
+      "Luxury",
+      "Romantic",
+      "Summer",
+      "Bucket List"
+    ],
+    "fromPriceUSD": 1678,
+    "ratingOverall": 4.4,
+    "reviewCount": 20,
+    "highlights": [
+      "Dalt Vila (walled old town) guided tour",
+      "Es Vedrà boat trip",
+      "Dalt Vila walls exterior walk",
+      "VIP table at Ushuaïa or Hï Ibiza",
+      "Formentera island (ferry from Ibiza Town)"
+    ]
   }
 ]

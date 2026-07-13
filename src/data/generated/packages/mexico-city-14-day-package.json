@@ -1,0 +1,1718 @@
+{
+  "id": "PKG-mexico-city-14D",
+  "slug": "mexico-city-14-day-package",
+  "destinationSlug": "mexico-city",
+  "destinationName": "Mexico City",
+  "country": "Mexico",
+  "region": "North America",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Mexico City 14-Day City Break",
+  "metaTitle": "Mexico City 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Mexico City, Mexico: round-trip flights, hotel, breakfast, transfers, and guided tours including Teotihuacan pyramids day trip and Frida Kahlo Museum (Casa Azul). Prices from $1188 per person (estimate).",
+  "highlights": [
+    "Teotihuacan pyramids day trip",
+    "Frida Kahlo Museum (Casa Azul)",
+    "Zócalo (Plaza de la Constitución)",
+    "Teotihuacan pyramids"
+  ],
+  "overview": "Spend 14 days discovering Mexico City, Mexico — Mild, spring-like climate year-round thanks to its 2,240m altitude — warm sunny days (18-25°C) with cool nights. The rainy season (June-September) brings brief, heavy afternoon downpours; December-February can be chilly at night. March to May and October to November offer warm, dry days with minimal rain, avoiding both the summer rainy season and the coolest winter nights at this high-altitude city. This itinerary blends Teotihuacan pyramids day trip, Frida Kahlo Museum (Casa Azul), Zócalo (Plaza de la Constitución) with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Teotihuacan pyramids day trip, Frida Kahlo Museum (Casa Azul), Zócalo (Plaza de la Constitución)",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Mexico City",
+      "description": "Land at Benito Juárez International Airport (MEX) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Teotihuacan pyramids day trip — Ancient Mesoamerican city with the Pyramid of the Sun and Moon. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Teotihuacan pyramids day trip"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 2,
+      "title": "Mexico City: Frida Kahlo Museum (Casa Azul) & Palacio de Bellas Artes",
+      "description": "Morning visit to Frida Kahlo Museum (Casa Azul) — The artist's vivid cobalt-blue family home in Coyoacán. In the afternoon, continue to Palacio de Bellas Artes — Art Nouveau/Art Deco palace with Diego Rivera murals. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Frida Kahlo Museum (Casa Azul)",
+        "Palacio de Bellas Artes"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 3,
+      "title": "Mexico City: Templo Mayor & Museum & Xochimilco trajinera boat ride",
+      "description": "Morning visit to Templo Mayor & Museum — Excavated Aztec temple ruins in the heart of the historic center. In the afternoon, continue to Xochimilco trajinera boat ride — Colorful gondola-style boats through Aztec-era floating gardens canals. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Templo Mayor & Museum",
+        "Xochimilco trajinera boat ride"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Teotihuacan pyramids",
+      "description": "Full-day excursion to Teotihuacan pyramids, a popular side trip from Mexico City. Return to Mexico City in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Teotihuacan pyramids",
+        "Free evening"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Museo Anahuacalli (Diego Rivera's volcanic-stone museum) — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Museo Anahuacalli (Diego Rivera's volcanic-stone museum)"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 6,
+      "title": "Mexico City: Chapultepec Castle & Zócalo (Plaza de la Constitución)",
+      "description": "Morning visit to Chapultepec Castle — Hilltop former imperial residence with city panoramas. In the afternoon, continue to Zócalo (Plaza de la Constitución) — One of the world's largest public squares, flanked by the Metropolitan Cathedral. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Chapultepec Castle",
+        "Zócalo (Plaza de la Constitución)"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Puebla colonial city",
+      "description": "Full-day excursion to Puebla colonial city, a popular side trip from Mexico City. Return to Mexico City in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Puebla colonial city",
+        "Free evening"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 8,
+      "title": "Mexico City: Bosque de Chapultepec & Coyoacán historic center",
+      "description": "Morning visit to Bosque de Chapultepec — Massive urban park, bigger than New York's Central Park. In the afternoon, continue to Coyoacán historic center — Cobblestone plazas, colonial architecture, and lively cafes. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Bosque de Chapultepec",
+        "Coyoacán historic center"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include San Ángel Saturday art market — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "San Ángel Saturday art market"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Xochimilco floating gardens",
+      "description": "Full-day excursion to Xochimilco floating gardens, a popular side trip from Mexico City. Return to Mexico City in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Xochimilco floating gardens",
+        "Free evening"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 11,
+      "title": "Mexico City: Paseo de la Reforma murals & Angel of Independence & Mercado de San Juan browsing",
+      "description": "Morning visit to Paseo de la Reforma murals & Angel of Independence — Grand boulevard lined with monuments and skyscrapers. In the afternoon, continue to Mercado de San Juan browsing — Gourmet market famous among chefs for exotic ingredients. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Paseo de la Reforma murals & Angel of Independence",
+        "Mercado de San Juan browsing"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 12,
+      "title": "Mexico City: Diego Rivera murals at the National Palace & Teotihuacan pyramids day trip",
+      "description": "Morning visit to Diego Rivera murals at the National Palace — Sweeping historical murals inside the seat of government. In the afternoon, continue to Teotihuacan pyramids day trip — Ancient Mesoamerican city with the Pyramid of the Sun and Moon. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Diego Rivera murals at the National Palace",
+        "Teotihuacan pyramids day trip"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Luis Barragán House (Pritzker-winning architecture) — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Luis Barragán House (Pritzker-winning architecture)"
+      ],
+      "overnight": "Mexico City"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Frida Kahlo Museum (Casa Azul) or some souvenir shopping — before your private transfer to MEX for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Use Uber or Didi rather than hailing street taxis, especially after dark.",
+    "The altitude (2,240m) can cause mild breathlessness for the first day or two — stay hydrated and pace yourself.",
+    "Sunday is when Paseo de la Reforma closes to cars for the Ciclovía — a great day to cycle or walk the boulevard.",
+    "Tap water isn't potable — stick to bottled or filtered water, widely available everywhere.",
+    "Visit Teotihuacan early morning to beat both the heat and tour-bus crowds.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Layers for warm days and cool nights at altitude",
+    "Comfortable walking shoes for cobblestone historic districts",
+    "Light rain jacket for the June-September wet season",
+    "Sunscreen — the high altitude means stronger UV exposure"
+  ],
+  "thingsToDo": [
+    "Teotihuacan pyramids day trip",
+    "Frida Kahlo Museum (Casa Azul)",
+    "Palacio de Bellas Artes",
+    "Templo Mayor & Museum",
+    "Xochimilco trajinera boat ride",
+    "Chapultepec Castle",
+    "Zócalo (Plaza de la Constitución)",
+    "Bosque de Chapultepec",
+    "Coyoacán historic center",
+    "Paseo de la Reforma murals & Angel of Independence",
+    "Mercado de San Juan browsing",
+    "Diego Rivera murals at the National Palace",
+    "Hot air balloon over Teotihuacan at sunrise",
+    "Hiking Ajusco or Desierto de los Leones",
+    "Cycling Paseo de la Reforma on Sunday closures (Ciclovía)",
+    "Lucha libre wrestling spectator night",
+    "Chapultepec Zoo",
+    "Papalote Museo del Niño",
+    "Xochimilco canal boat rides",
+    "Six Flags México"
+  ],
+  "thingsToAvoid": [
+    "Hailing unmarked taxis on the street — use a ride-hailing app instead.",
+    "Flashing expensive jewelry or phones openly in crowded markets or on the Metro.",
+    "Walking alone late at night outside well-lit, busy neighborhoods like La Roma, Condesa, or Polanco.",
+    "Drinking tap water or using it to brush teeth."
+  ],
+  "topRestaurants": [
+    "Pujol — Contemporary Mexican Fine Dining ($$$$)",
+    "El Cardenal — Traditional Mexican Breakfast & Comida ($$$)",
+    "Contramar — Coastal Mexican Seafood ($$$)",
+    "Tacos El Califa de León — Michelin-starred Street Taco Stand ($)",
+    "Café de Tacuba — Historic Traditional Mexican ($$)",
+    "Mercado Roma food stalls — Gourmet Mexican Street Food ($$)"
+  ],
+  "topCafes": [
+    "Café Avellaneda",
+    "Cardinal Casa de Café",
+    "Café La Habana",
+    "Buna Coffee Roasters"
+  ],
+  "shoppingAreas": [
+    "Mercado de la Ciudadela (crafts)",
+    "La Roma & Condesa boutiques",
+    "Mercado de San Juan (gourmet)",
+    "Zona Rosa"
+  ],
+  "nightlife": [
+    "Mezcalería Bosforo",
+    "La Roma craft cocktail bars",
+    "Zona Rosa clubs",
+    "Lucha libre wrestling nights at Arena México"
+  ],
+  "instagramSpots": [
+    "Frida Kahlo's blue-walled Casa Azul courtyard",
+    "Palacio de Bellas Artes dome",
+    "Xochimilco's colorful trajinera boats",
+    "Coyoacán's painted colonial streets"
+  ],
+  "hiddenGems": [
+    "Museo Anahuacalli (Diego Rivera's volcanic-stone museum)",
+    "San Ángel Saturday art market",
+    "Luis Barragán House (Pritzker-winning architecture)",
+    "La Roma's quiet residential jacaranda-lined streets in spring"
+  ],
+  "familyActivities": [
+    "Chapultepec Zoo",
+    "Papalote Museo del Niño",
+    "Xochimilco canal boat rides",
+    "Six Flags México"
+  ],
+  "adventureActivities": [
+    "Hot air balloon over Teotihuacan at sunrise",
+    "Hiking Ajusco or Desierto de los Leones",
+    "Cycling Paseo de la Reforma on Sunday closures (Ciclovía)",
+    "Lucha libre wrestling spectator night"
+  ],
+  "luxuryExperiences": [
+    "Tasting menu at Pujol or Quintonil",
+    "Private guided tour of Teotihuacan with archaeologist",
+    "Suite stay overlooking Chapultepec Park",
+    "Private mezcal tasting with a sommelier"
+  ],
+  "honeymoonExperiences": [
+    "Sunset trajinera cruise through Xochimilco with mariachi",
+    "Rooftop dinner in La Roma with skyline views",
+    "Private art tour of Frida Kahlo and Diego Rivera sites",
+    "Wine tasting day trip to Valle de Bravo"
+  ],
+  "budgetExperiences": [
+    "Street taco crawl across multiple stands for a few dollars each",
+    "Free entry to the Zócalo, Templo Mayor plaza, and murals at the National Palace",
+    "Sunday Ciclovía bike-friendly boulevard closures",
+    "Coyoacán market wandering and churros"
+  ],
+  "estimatedDailyBudgetUSD": [
+    35,
+    75,
+    160,
+    380
+  ],
+  "safetyRating": 3,
+  "internetRating": 4,
+  "publicTransportRating": 4,
+  "walkingScore": 70,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 21,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 23,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 25,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 26,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 24,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 23,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 23,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 22,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 22,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 21,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 20,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Día de los Muertos (Day of the Dead)",
+      "timing": "October 31 - November 2"
+    },
+    {
+      "name": "Independence Day (Grito de Dolores) celebrations",
+      "timing": "September 15-16"
+    },
+    {
+      "name": "Guelaguetza-influenced cultural festivals",
+      "timing": "July"
+    },
+    {
+      "name": "Christmas Posadas",
+      "timing": "December 16-24"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "A polite greeting (\"Buenos días/tardes\") before getting to business, even with shopkeepers or taxi drivers, is expected and appreciated.",
+    "Meals are social and unhurried — rushing through a restaurant meal is considered impolite.",
+    "Dress reasonably smart-casual; overly casual beachwear is out of place in this highland capital.",
+    "Bargaining is expected and welcomed at markets (mercados) but not in fixed-price shops or restaurants.",
+    "Public displays of frustration or raised voices are frowned upon — patience is valued in queues and traffic."
+  ],
+  "localTransportGuide": "The Metro is extremely cheap and extensive but very crowded at rush hour; the Metrobús (dedicated bus lanes along Reforma and Insurgentes) is a comfortable alternative. Ride-hailing apps (Uber, Didi) are the safest and most convenient option for tourists, especially at night — avoid hailing street taxis directly.",
+  "bestTimeToVisit": "March to May and October to November offer warm, dry days with minimal rain, avoiding both the summer rainy season and the coolest winter nights at this high-altitude city.",
+  "weather": "Mild, spring-like climate year-round thanks to its 2,240m altitude — warm sunny days (18-25°C) with cool nights. The rainy season (June-September) brings brief, heavy afternoon downpours; December-February can be chilly at night.",
+  "visaInformation": "US, Canadian, UK, EU, and Australian citizens can enter visa-free for tourism up to 180 days with a valid passport (an FMM tourist card, usually issued on arrival or included with airline check-in, is required). Verify current requirements against your specific passport before travel.",
+  "currency": "MXN",
+  "languages": [
+    "Spanish"
+  ],
+  "timeZone": "CST (UTC-6)",
+  "averageFlightTime": "~16.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Benito Juárez International Airport (MEX)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Mexico City?",
+      "answer": "US, Canadian, UK, EU, and Australian citizens can enter visa-free for tourism up to 180 days with a valid passport (an FMM tourist card, usually issued on arrival or included with airline check-in, is required). Verify current requirements against your specific passport before travel."
+    },
+    {
+      "question": "What is the best time to visit Mexico City?",
+      "answer": "March to May and October to November offer warm, dry days with minimal rain, avoiding both the summer rainy season and the coolest winter nights at this high-altitude city. Mild, spring-like climate year-round thanks to its 2,240m altitude — warm sunny days (18-25°C) with cool nights. The rainy season (June-September) brings brief, heavy afternoon downpours; December-February can be chilly at night."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Mexico City safe for tourists?",
+      "answer": "Mexico City is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Mexico City?",
+      "answer": "The local currency is MXN. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "History",
+    "Food",
+    "Nightlife",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Mexico City",
+    "Mexico",
+    "Mexico City, Mexico",
+    "North America",
+    "Mexico City tour package",
+    "Mexico City vacation package",
+    "Mexico City holiday package",
+    "things to do in Mexico City",
+    "best time to visit Mexico City",
+    "Mexico City itinerary",
+    "14 day Mexico City itinerary",
+    "Mexico City flights and hotels",
+    "Mexico City all inclusive package",
+    "cheap Mexico City package",
+    "luxury Mexico City package",
+    "Mexico City honeymoon package",
+    "Mexico City family vacation",
+    "Mexico City solo trip",
+    "Mexico City group tour",
+    "Mexico City weekend getaway",
+    "Mexico City guided tour",
+    "MEX flights",
+    "Mexico City travel guide",
+    "book Mexico City trip online",
+    "Mexico City trip cost",
+    "Mexico City packages 14 days",
+    "Mexico City city break",
+    "Mexico City culture",
+    "Mexico City history",
+    "Mexico City food",
+    "Mexico City nightlife",
+    "Mexico City bucket list",
+    "Teotihuacan pyramids day trip",
+    "Frida Kahlo Museum (Casa Azul)",
+    "Palacio de Bellas Artes",
+    "Templo Mayor & Museum",
+    "Xochimilco trajinera boat ride",
+    "Chapultepec Castle",
+    "Zócalo (Plaza de la Constitución)",
+    "Bosque de Chapultepec",
+    "Coyoacán historic center",
+    "Paseo de la Reforma murals & Angel of Independence",
+    "Mercado de San Juan browsing",
+    "Diego Rivera murals at the National Palace",
+    "Pujol",
+    "El Cardenal",
+    "Contramar",
+    "Tacos El Califa de León",
+    "Café de Tacuba",
+    "Frida Kahlo's blue-walled Casa Azul courtyard"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Mexico City, Mexico — Xochimilco colorful trajinera boats",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Xochimilco colorful trajinera boats",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Xochimilco colorful trajinera boats",
+      "pexelsQuery": "Mexico City Xochimilco colorful trajinera boats",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Mexico City, Mexico — Zócalo Mexico City cathedral",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Zócalo Mexico City cathedral",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Zócalo Mexico City cathedral",
+      "pexelsQuery": "Mexico City Zócalo Mexico City cathedral",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Mexico City, Mexico — Frida Kahlo Casa Azul courtyard",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Casa Azul courtyard",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "pexelsQuery": "Mexico City Frida Kahlo Casa Azul courtyard",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Mexico City, Mexico — Xochimilco colorful trajinera boats",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Xochimilco colorful trajinera boats",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Xochimilco colorful trajinera boats",
+      "pexelsQuery": "Mexico City Xochimilco colorful trajinera boats",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Mexico City, Mexico — Zócalo Mexico City cathedral",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Zócalo Mexico City cathedral",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Zócalo Mexico City cathedral",
+      "pexelsQuery": "Mexico City Zócalo Mexico City cathedral",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Mexico City, Mexico — Teotihuacan pyramids sunrise",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Teotihuacan pyramids sunrise",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Teotihuacan pyramids sunrise",
+      "pexelsQuery": "Mexico City Teotihuacan pyramids sunrise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Mexico City, Mexico — Teotihuacan pyramids day trip",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Teotihuacan pyramids day trip",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Teotihuacan pyramids day trip",
+      "pexelsQuery": "Mexico City Teotihuacan pyramids day trip",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Mexico City, Mexico — Frida Kahlo Museum (Casa Azul)",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Frida Kahlo Museum (Casa Azul)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Frida Kahlo Museum (Casa Azul)",
+      "pexelsQuery": "Mexico City Frida Kahlo Museum (Casa Azul)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Mexico City, Mexico — Palacio de Bellas Artes",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Palacio de Bellas Artes",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Palacio de Bellas Artes",
+      "pexelsQuery": "Mexico City Palacio de Bellas Artes",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Mexico City, Mexico — Templo Mayor & Museum",
+      "keywords": [
+        "Mexico City",
+        "Mexico",
+        "Templo Mayor & Museum",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Mexico City Templo Mayor & Museum",
+      "pexelsQuery": "Mexico City Templo Mayor & Museum",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-mexico-city-14-1",
+      "author": "Emma Müller",
+      "country": "Australia",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-06-18",
+      "title": "Highly recommend this package",
+      "body": "Our trip to Mexico City was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Frida Kahlo Museum (Casa Azul) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-2",
+      "author": "Noah Rossi",
+      "country": "Spain",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-01",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Mexico City was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Diego Rivera murals at the National Palace was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-3",
+      "author": "Noah Andersen",
+      "country": "UAE",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-02-16",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to Mexico City was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Xochimilco trajinera boat ride was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-mexico-city-14-4",
+      "author": "James Costa",
+      "country": "United States",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-01-18",
+      "title": "Worth every penny",
+      "body": "Our trip to Mexico City was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Teotihuacan pyramids day trip was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-5",
+      "author": "Nadia Ivanov",
+      "country": "Spain",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-07-27",
+      "title": "Exceeded our expectations",
+      "body": "Mexico City is stunning and this package covered the essentials well, especially Diego Rivera murals at the National Palace. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-6",
+      "author": "Tom Larsen",
+      "country": "United Kingdom",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-11-22",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Frida Kahlo Museum (Casa Azul) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-7",
+      "author": "Sofia Brown",
+      "country": "Italy",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-02",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a family of 4 trip and it was well paced. Mercado de San Juan browsing in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-mexico-city-14-8",
+      "author": "Grace Fernandez",
+      "country": "UAE",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-04-16",
+      "title": "Worth every penny",
+      "body": "We added a couple of optional activities beyond Xochimilco trajinera boat ride and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-9",
+      "author": "Olivia Patel",
+      "country": "United States",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-06",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Mexico City was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Teotihuacan pyramids day trip was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-10",
+      "author": "David Cohen",
+      "country": "Italy",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-02-11",
+      "title": "Great for families with kids",
+      "body": "Mexico City is stunning and this package covered the essentials well, especially Diego Rivera murals at the National Palace. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-11",
+      "author": "Lucas Brown",
+      "country": "Italy",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-12",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Mercado de San Juan browsing and Palacio de Bellas Artes. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-12",
+      "author": "Lukas Silva",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-18",
+      "title": "Unforgettable trip!",
+      "body": "Mexico City is stunning and this package covered the essentials well, especially Coyoacán historic center. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-13",
+      "author": "Ethan Williams",
+      "country": "Netherlands",
+      "rating": 4.4,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-08",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Coyoacán historic center and Xochimilco trajinera boat ride. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-mexico-city-14-14",
+      "author": "Wei Rossi",
+      "country": "Singapore",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-28",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a couple trip and it was well paced. Xochimilco trajinera boat ride in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-15",
+      "author": "Mia Santos",
+      "country": "Netherlands",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-17",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Coyoacán historic center and Diego Rivera murals at the National Palace. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-16",
+      "author": "Nadia Costa",
+      "country": "Switzerland",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-11-03",
+      "title": "Perfect for our honeymoon",
+      "body": "Mexico City is stunning and this package covered the essentials well, especially Paseo de la Reforma murals & Angel of Independence. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-mexico-city-14-17",
+      "author": "Marco Kim",
+      "country": "Switzerland",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-06-24",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Paseo de la Reforma murals & Angel of Independence and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-18",
+      "author": "Priya Kim",
+      "country": "New Zealand",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-13",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a couple trip and it was well paced. Bosque de Chapultepec in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-19",
+      "author": "Sarah Müller",
+      "country": "South Africa",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-11-28",
+      "title": "Perfect for our honeymoon",
+      "body": "Mexico City is stunning and this package covered the essentials well, especially Bosque de Chapultepec. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-mexico-city-14-20",
+      "author": "James Silva",
+      "country": "United Kingdom",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-03-07",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Mexico City was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Teotihuacan pyramids day trip was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.4,
+    "hotel": 4.3,
+    "transportation": 4.4,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.4,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Mexico City Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 8,
+      "neighborhood": "Mercado de la Ciudadela (crafts)"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Mexico City Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 14,
+      "neighborhood": "La Roma & Condesa boutiques"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Mexico City Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 26,
+      "neighborhood": "Mercado de San Juan (gourmet)"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Mexico City Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 34,
+      "neighborhood": "Zona Rosa"
+    },
+    {
+      "tier": "Resort",
+      "name": "Mexico City Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 80,
+      "neighborhood": "Mezcalería Bosforo"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Mexico City Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "La Roma craft cocktail bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Mexico City Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 190,
+      "neighborhood": "Zona Rosa clubs"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        320,
+        508
+      ],
+      "estimatedFlightHours": 5.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        312,
+        495
+      ],
+      "estimatedFlightHours": 5.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        722,
+        1146
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        741,
+        1177
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        768,
+        1219
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        816,
+        1296
+      ],
+      "estimatedFlightHours": 14.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        731,
+        1161
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        742,
+        1179
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        776,
+        1233
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1014,
+        1611
+      ],
+      "estimatedFlightHours": 18.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        868,
+        1378
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1136,
+        1804
+      ],
+      "estimatedFlightHours": 20.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        893,
+        1419
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        947,
+        1504
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1009,
+        1602
+      ],
+      "estimatedFlightHours": 18.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1277,
+        2028
+      ],
+      "estimatedFlightHours": 23.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1214,
+        1928
+      ],
+      "estimatedFlightHours": 22.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1278,
+        2029
+      ],
+      "estimatedFlightHours": 23.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1294,
+        2055
+      ],
+      "estimatedFlightHours": 23.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1104,
+        1754
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1205,
+        1914
+      ],
+      "estimatedFlightHours": 21.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1112,
+        1766
+      ],
+      "estimatedFlightHours": 20.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1079,
+        1713
+      ],
+      "estimatedFlightHours": 19.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1097,
+        1742
+      ],
+      "estimatedFlightHours": 19.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1055,
+        1675
+      ],
+      "estimatedFlightHours": 19.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1131,
+        1796
+      ],
+      "estimatedFlightHours": 20.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        614,
+        975
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Benito Juárez International Airport (MEX)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Teotihuacan pyramids day trip",
+    "Frida Kahlo Museum (Casa Azul)",
+    "Palacio de Bellas Artes",
+    "Templo Mayor & Museum",
+    "Xochimilco trajinera boat ride",
+    "Chapultepec Castle",
+    "Zócalo (Plaza de la Constitución)",
+    "Bosque de Chapultepec",
+    "Coyoacán historic center",
+    "Paseo de la Reforma murals & Angel of Independence",
+    "Mercado de San Juan browsing",
+    "Diego Rivera murals at the National Palace",
+    "Teotihuacan pyramids",
+    "Puebla colonial city",
+    "Xochimilco floating gardens",
+    "Valle de Bravo lake town",
+    "Frida Kahlo Museum",
+    "National Museum of Anthropology",
+    "Museo Soumaya",
+    "Parque México (La Roma)",
+    "Viveros de Coyoacán",
+    "Frida Kahlo's blue-walled Casa Azul courtyard",
+    "Palacio de Bellas Artes dome",
+    "Xochimilco's colorful trajinera boats",
+    "Coyoacán's painted colonial streets"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Teotihuacan pyramids day trip",
+      "priceUSD": 5
+    },
+    {
+      "name": "Frida Kahlo Museum (Casa Azul)",
+      "priceUSD": 18
+    },
+    {
+      "name": "Palacio de Bellas Artes",
+      "priceUSD": 5
+    },
+    {
+      "name": "Templo Mayor & Museum",
+      "priceUSD": 4
+    },
+    {
+      "name": "Xochimilco trajinera boat ride",
+      "priceUSD": 20
+    },
+    {
+      "name": "Chapultepec Castle",
+      "priceUSD": 5
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Zócalo (Plaza de la Constitución)",
+    "Bosque de Chapultepec",
+    "Coyoacán historic center",
+    "Paseo de la Reforma murals & Angel of Independence",
+    "Mercado de San Juan browsing",
+    "Diego Rivera murals at the National Palace"
+  ],
+  "museums": [
+    "Frida Kahlo Museum",
+    "National Museum of Anthropology",
+    "Museo Soumaya",
+    "Palacio de Bellas Artes"
+  ],
+  "parks": [
+    "Bosque de Chapultepec",
+    "Parque México (La Roma)",
+    "Viveros de Coyoacán"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Teotihuacan pyramids",
+    "Puebla colonial city",
+    "Xochimilco floating gardens",
+    "Valle de Bravo lake town"
+  ],
+  "fromPriceUSD": 1188,
+  "seo": {
+    "title": "Mexico City 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "mexico-city-14-day-package",
+    "keywords": [
+      "Mexico City",
+      "Mexico",
+      "Mexico City, Mexico",
+      "North America",
+      "Mexico City tour package",
+      "Mexico City vacation package",
+      "Mexico City holiday package",
+      "things to do in Mexico City",
+      "best time to visit Mexico City",
+      "Mexico City itinerary",
+      "14 day Mexico City itinerary",
+      "Mexico City flights and hotels",
+      "Mexico City all inclusive package",
+      "cheap Mexico City package",
+      "luxury Mexico City package"
+    ],
+    "canonicalUrl": "/packages/mexico-city-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Mexico City Package",
+        "url": "/packages/mexico-city-10-day-package"
+      },
+      {
+        "title": "7-Day Mexico City Package",
+        "url": "/packages/mexico-city-7-day-package"
+      },
+      {
+        "title": "London 14-Day City Break",
+        "url": "/packages/london-14-day-package"
+      },
+      {
+        "title": "Lisbon 14-Day City Break",
+        "url": "/packages/lisbon-14-day-package"
+      },
+      {
+        "title": "Seoul 14-Day City Break",
+        "url": "/packages/seoul-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Mexico City — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mexico_City"
+      },
+      {
+        "title": "Mexico City — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City"
+      }
+    ]
+  }
+}

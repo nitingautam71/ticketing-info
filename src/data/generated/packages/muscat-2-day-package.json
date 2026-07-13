@@ -1196,6 +1196,21 @@
       "isEstimate": true
     },
     {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        524,
+        833
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
       "originMarket": "SG",
       "originAirport": "Singapore (major international gateway)",
       "destinationAirport": "Muscat International Airport (MCT)",

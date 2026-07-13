@@ -3,13 +3,14 @@ import { notFound } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Ship, Anchor, Star, ArrowLeft, Shield } from 'lucide-react';
-import { getCruiseBySlug, getCruisePricing, getDisplayImageUrl } from '@/lib/providers/cruises';
+import { getCruiseBySlug, getCruisePricing, getDisplayImageUrl, getCruiseLineLogoUrl } from '@/lib/providers/cruises';
 import JsonLd from '@/components/seo/JsonLd';
 import CruisePricingWidget from '@/components/cruises/CruisePricingWidget';
 import ItineraryTimeline from '@/components/cruises/ItineraryTimeline';
 import OnboardExperience from '@/components/cruises/OnboardExperience';
 import ShoreExcursions from '@/components/cruises/ShoreExcursions';
 import CruiseReviews from '@/components/cruises/CruiseReviews';
+import CruiseLineLogo from '@/components/cruises/CruiseLineLogo';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -37,6 +38,7 @@ export default async function CruiseDetailPage({ params }: PageProps) {
 
   const initialPricing = getCruisePricing(pkg, 'US', 'couple', 'midRange');
   const heroImage = getDisplayImageUrl(pkg.slug, pkg.destination, pkg.categories);
+  const logoUrl = getCruiseLineLogoUrl(pkg.cruiseLineName);
   const jsonLd = { ...pkg.seo.jsonLd, image: heroImage };
 
   return (
@@ -75,6 +77,12 @@ export default async function CruiseDetailPage({ params }: PageProps) {
                 {pkg.destination}
               </span>
             </div>
+
+            {logoUrl && (
+              <div className="bg-white rounded-lg px-3 py-2 inline-block w-fit">
+                <CruiseLineLogo logoUrl={logoUrl} name={pkg.cruiseLineName} className="h-7 w-32" />
+              </div>
+            )}
 
             <h1 className="text-3xl md:text-5xl font-black text-white leading-tight max-w-4xl">{pkg.title}</h1>
 

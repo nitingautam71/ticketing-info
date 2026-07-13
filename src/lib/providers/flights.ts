@@ -67,14 +67,18 @@ interface FlightProvider {
   search(params: FlightSearchParams): Promise<Flight[]>;
 }
 
+// Real airline wordmarks, sourced from Wikimedia Commons (each verified to resolve) so
+// mock-provider results show actual brand logos instead of a plain letter-code badge —
+// this is independent of the live Sky Scrapper airlineLogoUrl (see SkyScrapperFlightProvider
+// below), which is used instead whenever RAPIDAPI_KEY is configured.
 const AIRLINES = [
-  { name: 'Delta Air Lines', logo: 'DL', bag: '1 Carry-on, 1 Checked bag free' },
-  { name: 'United Airlines', logo: 'UA', bag: '1 Carry-on, checked bag $30' },
-  { name: 'American Airlines', logo: 'AA', bag: '1 Carry-on, 1 Checked bag free' },
-  { name: 'British Airways', logo: 'BA', bag: '2 Checked bags free' },
-  { name: 'Singapore Airlines', logo: 'SQ', bag: '2 Checked bags free' },
-  { name: 'Emirates', logo: 'EK', bag: '2 Checked bags free' },
-  { name: 'Lufthansa', logo: 'LH', bag: '1 Checked bag free' },
+  { name: 'Delta Air Lines', logo: 'DL', bag: '1 Carry-on, 1 Checked bag free', logoUrl: 'https://en.wikipedia.org/wiki/Special:FilePath/Delta_logo.svg' },
+  { name: 'United Airlines', logo: 'UA', bag: '1 Carry-on, checked bag $30', logoUrl: 'https://en.wikipedia.org/wiki/Special:FilePath/United_Airlines_Logo.svg' },
+  { name: 'American Airlines', logo: 'AA', bag: '1 Carry-on, 1 Checked bag free', logoUrl: 'https://en.wikipedia.org/wiki/Special:FilePath/American_Airlines_logo_2013.svg' },
+  { name: 'British Airways', logo: 'BA', bag: '2 Checked bags free', logoUrl: 'https://en.wikipedia.org/wiki/Special:FilePath/British_Airways_Logo.svg' },
+  { name: 'Singapore Airlines', logo: 'SQ', bag: '2 Checked bags free', logoUrl: 'https://en.wikipedia.org/wiki/Special:FilePath/Singapore_Airlines_Logo_2.svg' },
+  { name: 'Emirates', logo: 'EK', bag: '2 Checked bags free', logoUrl: 'https://en.wikipedia.org/wiki/Special:FilePath/Emirates_Logo.svg' },
+  { name: 'Lufthansa', logo: 'LH', bag: '1 Checked bag free', logoUrl: 'https://en.wikipedia.org/wiki/Special:FilePath/Lufthansa_Logo_2018.svg' },
 ];
 
 const AIRPORTS: Record<string, string> = {
@@ -88,6 +92,54 @@ const AIRPORTS: Record<string, string> = {
   LAX: 'Los Angeles Intl',
   ORD: "Chicago O'Hare",
 };
+
+// Static fallback airport list so the departure/arrival typeahead still returns results
+// when RAPIDAPI_KEY is unset or the live Sky Scrapper lookup fails/rate-limits (mirrors
+// the POPULAR_DESTINATIONS fallback pattern in src/lib/providers/hotels.ts). Covers major
+// hubs across every region so most user queries resolve to something useful offline.
+const POPULAR_AIRPORTS: Array<{ code: string; name: string; subtitle: string }> = [
+  { code: 'JFK', name: 'New York John F. Kennedy', subtitle: 'New York, United States' },
+  { code: 'EWR', name: 'Newark Liberty', subtitle: 'Newark, United States' },
+  { code: 'LAX', name: 'Los Angeles Intl', subtitle: 'Los Angeles, United States' },
+  { code: 'SFO', name: 'San Francisco Intl', subtitle: 'San Francisco, United States' },
+  { code: 'ORD', name: "Chicago O'Hare", subtitle: 'Chicago, United States' },
+  { code: 'MIA', name: 'Miami Intl', subtitle: 'Miami, United States' },
+  { code: 'SEA', name: 'Seattle-Tacoma', subtitle: 'Seattle, United States' },
+  { code: 'YYZ', name: 'Toronto Pearson', subtitle: 'Toronto, Canada' },
+  { code: 'YVR', name: 'Vancouver Intl', subtitle: 'Vancouver, Canada' },
+  { code: 'LHR', name: 'London Heathrow', subtitle: 'London, United Kingdom' },
+  { code: 'LGW', name: 'London Gatwick', subtitle: 'London, United Kingdom' },
+  { code: 'CDG', name: 'Paris Charles de Gaulle', subtitle: 'Paris, France' },
+  { code: 'AMS', name: 'Amsterdam Schiphol', subtitle: 'Amsterdam, Netherlands' },
+  { code: 'FRA', name: 'Frankfurt Intl', subtitle: 'Frankfurt, Germany' },
+  { code: 'MUC', name: 'Munich Intl', subtitle: 'Munich, Germany' },
+  { code: 'MAD', name: 'Madrid Barajas', subtitle: 'Madrid, Spain' },
+  { code: 'BCN', name: 'Barcelona El Prat', subtitle: 'Barcelona, Spain' },
+  { code: 'FCO', name: 'Rome Fiumicino', subtitle: 'Rome, Italy' },
+  { code: 'IST', name: 'Istanbul Airport', subtitle: 'Istanbul, Turkey' },
+  { code: 'ZRH', name: 'Zurich Airport', subtitle: 'Zurich, Switzerland' },
+  { code: 'DXB', name: 'Dubai Intl', subtitle: 'Dubai, United Arab Emirates' },
+  { code: 'AUH', name: 'Abu Dhabi Intl', subtitle: 'Abu Dhabi, United Arab Emirates' },
+  { code: 'DOH', name: 'Hamad Intl', subtitle: 'Doha, Qatar' },
+  { code: 'DEL', name: 'Delhi Indira Gandhi', subtitle: 'New Delhi, India' },
+  { code: 'BOM', name: 'Mumbai Chhatrapati Shivaji', subtitle: 'Mumbai, India' },
+  { code: 'BLR', name: 'Bengaluru Kempegowda', subtitle: 'Bengaluru, India' },
+  { code: 'SIN', name: 'Singapore Changi', subtitle: 'Singapore' },
+  { code: 'HND', name: 'Tokyo Haneda', subtitle: 'Tokyo, Japan' },
+  { code: 'NRT', name: 'Tokyo Narita', subtitle: 'Tokyo, Japan' },
+  { code: 'ICN', name: 'Seoul Incheon', subtitle: 'Seoul, South Korea' },
+  { code: 'HKG', name: 'Hong Kong Intl', subtitle: 'Hong Kong' },
+  { code: 'PVG', name: 'Shanghai Pudong', subtitle: 'Shanghai, China' },
+  { code: 'BKK', name: 'Bangkok Suvarnabhumi', subtitle: 'Bangkok, Thailand' },
+  { code: 'KUL', name: 'Kuala Lumpur Intl', subtitle: 'Kuala Lumpur, Malaysia' },
+  { code: 'SYD', name: 'Sydney Kingsford Smith', subtitle: 'Sydney, Australia' },
+  { code: 'MEL', name: 'Melbourne Airport', subtitle: 'Melbourne, Australia' },
+  { code: 'AKL', name: 'Auckland Airport', subtitle: 'Auckland, New Zealand' },
+  { code: 'JNB', name: 'O.R. Tambo Intl', subtitle: 'Johannesburg, South Africa' },
+  { code: 'CPT', name: 'Cape Town Intl', subtitle: 'Cape Town, South Africa' },
+  { code: 'GRU', name: 'São Paulo Guarulhos', subtitle: 'São Paulo, Brazil' },
+  { code: 'MEX', name: 'Mexico City Intl', subtitle: 'Mexico City, Mexico' },
+];
 
 function formatClock12(hour: number, minute: number): string {
   const h = ((hour % 24) + 24) % 24;
@@ -178,6 +230,7 @@ class MockFlightProvider implements FlightProvider {
         id: `FL-${fCode}-${tCode}-${flNum}-${i}`,
         airline: airline.name,
         airlineLogo: airline.logo,
+        airlineLogoUrl: airline.logoUrl,
         flightNumber,
         departureAirport: fCode,
         arrivalAirport: tCode,
@@ -309,28 +362,45 @@ async function rapidApiGet<T extends { status: boolean }>(path: string, params: 
   throw lastError instanceof Error ? lastError : new Error('Sky Scrapper request failed');
 }
 
+function searchStaticAirports(query: string): Array<{ code: string; name: string; subtitle: string }> {
+  const q = query.trim().toLowerCase();
+  return POPULAR_AIRPORTS.filter(
+    (a) => a.code.toLowerCase().startsWith(q) || a.name.toLowerCase().includes(q) || a.subtitle.toLowerCase().includes(q)
+  ).slice(0, 8);
+}
+
 /** Airport-only suggestions for a free-text query — used by the search typeahead and by code resolution. */
 export async function searchAirports(query: string): Promise<Array<{ code: string; name: string; subtitle: string }>> {
-  if (!RAPIDAPI_KEY || query.trim().length < 2) return [];
+  if (query.trim().length < 2) return [];
+  if (!RAPIDAPI_KEY) return searchStaticAirports(query);
 
-  const json = await rapidApiGet<{
-    status: boolean;
-    data?: Array<{
-      presentation: { title: string; subtitle: string };
-      navigation: { relevantFlightParams: { skyId: string; flightPlaceType: string } };
-    }>;
-  }>('/api/v1/flights/searchAirport', { query: query.trim(), locale: 'en-US' });
+  try {
+    const json = await rapidApiGet<{
+      status: boolean;
+      data?: Array<{
+        presentation: { title: string; subtitle: string };
+        navigation: { relevantFlightParams: { skyId: string; flightPlaceType: string } };
+      }>;
+    }>('/api/v1/flights/searchAirport', { query: query.trim(), locale: 'en-US' });
 
-  const seen = new Set<string>();
-  return (json.data ?? [])
-    .filter((e) => e.navigation.relevantFlightParams.flightPlaceType === 'AIRPORT')
-    .map((e) => ({ code: e.navigation.relevantFlightParams.skyId, name: e.presentation.title, subtitle: e.presentation.subtitle }))
-    .filter((a) => {
-      if (seen.has(a.code)) return false;
-      seen.add(a.code);
-      return true;
-    })
-    .slice(0, 8);
+    const seen = new Set<string>();
+    const results = (json.data ?? [])
+      .filter((e) => e.navigation.relevantFlightParams.flightPlaceType === 'AIRPORT')
+      .map((e) => ({ code: e.navigation.relevantFlightParams.skyId, name: e.presentation.title, subtitle: e.presentation.subtitle }))
+      .filter((a) => {
+        if (seen.has(a.code)) return false;
+        seen.add(a.code);
+        return true;
+      })
+      .slice(0, 8);
+
+    // Live lookup succeeded but returned nothing useful (e.g. an obscure query) — fall
+    // back to the static list rather than showing an empty dropdown.
+    return results.length > 0 ? results : searchStaticAirports(query);
+  } catch (err) {
+    console.error('Live airport search failed, using static fallback', err);
+    return searchStaticAirports(query);
+  }
 }
 
 async function resolveAirport(code: string): Promise<{ skyId: string; entityId: string }> {

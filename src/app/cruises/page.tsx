@@ -6,7 +6,7 @@ import CruiseFilters from '@/components/cruises/CruiseFilters';
 import CruiseSearchBar from '@/components/cruises/CruiseSearchBar';
 import CruisePagination from '@/components/cruises/CruisePagination';
 import { HERO_COPY } from '@/lib/nav';
-import { searchCruises, getCruiseFacets, getDisplayImageUrl } from '@/lib/providers/cruises';
+import { searchCruises, getCruiseFacets, getDisplayImageUrl, getCruiseLineLogoUrl } from '@/lib/providers/cruises';
 import { Ship, LayoutGrid } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -112,7 +112,12 @@ export default async function CruisesPage({ searchParams }: CruisesPageProps) {
               <>
                 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
                   {results.map((cruise) => (
-                    <CruiseCard key={cruise.slug} cruise={cruise} imageUrl={getDisplayImageUrl(cruise.slug, cruise.destination, cruise.categories)} />
+                    <CruiseCard
+                      key={cruise.slug}
+                      cruise={cruise}
+                      imageUrl={getDisplayImageUrl(cruise.slug, cruise.destination, cruise.categories)}
+                      logoUrl={getCruiseLineLogoUrl(cruise.cruiseLineName)}
+                    />
                   ))}
                 </div>
                 <CruisePagination page={page} totalPages={totalPages} buildHref={buildHref} />

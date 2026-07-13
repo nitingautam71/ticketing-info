@@ -1237,6 +1237,21 @@
       "isEstimate": true
     },
     {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        830,
+        1319
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
       "originMarket": "SG",
       "originAirport": "Singapore (major international gateway)",
       "destinationAirport": "Los Angeles International Airport (LAX)",
@@ -1571,8 +1586,8 @@
         "url": "/packages/singapore-3-day-package"
       },
       {
-        "title": "London 3-Day City Break",
-        "url": "/packages/london-3-day-package"
+        "title": "Kuala Lumpur 3-Day City Break",
+        "url": "/packages/kuala-lumpur-3-day-package"
       }
     ],
     "externalLinks": [

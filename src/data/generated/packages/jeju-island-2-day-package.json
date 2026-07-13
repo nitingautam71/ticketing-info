@@ -1,0 +1,1569 @@
+{
+  "id": "PKG-jeju-island-2D",
+  "slug": "jeju-island-2-day-package",
+  "destinationSlug": "jeju-island",
+  "destinationName": "Jeju Island",
+  "country": "South Korea",
+  "region": "East Asia",
+  "durationDays": 2,
+  "durationNights": 1,
+  "title": "Jeju Island 2-Day Nature Retreat",
+  "metaTitle": "Jeju Island 2-Day Nature Retreat | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 2-day trip to Jeju Island, South Korea: round-trip flights, hotel, breakfast, transfers, and guided tours including Seongsan Ilchulbong (Sunrise Peak) and Manjanggul Lava Tube. Prices from $1335 per person (estimate).",
+  "highlights": [
+    "Seongsan Ilchulbong (Sunrise Peak)",
+    "Manjanggul Lava Tube",
+    "Hallasan National Park trails",
+    "Hiking Hallasan to the summit crater lake",
+    "Sunrise hike up Seongsan Ilchulbong together",
+    "Udo Island (bike loop and peanut ice cream)"
+  ],
+  "overview": "Spend 2 days discovering Jeju Island, South Korea — Temperate maritime climate — mild winters (rarely below 5°C), warm humid summers (June-August, highs around 29-31°C with a rainy season and occasional typhoons), and comfortable spring/autumn shoulder seasons famous for canola-flower and cherry-blossom blooms. May and September to October offer mild temperatures, blooming or fresh scenery, and lighter crowds than the peak Korean summer holiday season. This itinerary blends Seongsan Ilchulbong (Sunrise Peak), Manjanggul Lava Tube, Hallasan National Park trails with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "1 night accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Seongsan Ilchulbong (Sunrise Peak), Manjanggul Lava Tube, Hallasan National Park trails",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Jeju Island",
+      "description": "Land at Jeju International Airport (CJU) and take your included private transfer to your hotel. With limited time on the ground, head straight out to Seongsan Ilchulbong (Sunrise Peak) — UNESCO-listed volcanic tuff cone with sweeping sunrise views. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Seongsan Ilchulbong (Sunrise Peak)"
+      ],
+      "overnight": "Jeju Island"
+    },
+    {
+      "day": 2,
+      "title": "Jeju Island Highlights & Departure",
+      "description": "Start early with a visit to Manjanggul Lava Tube — One of the world's finest lava tube cave systems, walkable for 1km. Grab a last taste of local life before your private transfer to CJU for your onward flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Manjanggul Lava Tube",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Rent a car if possible — Jeju's best sights are spread across the island and public transit is limited outside the main towns.",
+    "Book Hallasan summit trail permits/timed slots in advance during peak season.",
+    "Try Jeju's famous black pork (heukdwaeji) — it's a genuinely distinct local specialty, not just a marketing label.",
+    "Seongsan Ilchulbong is best visited at sunrise both for the light and to avoid tour-bus crowds.",
+    "Download the Kakao Map app — Google Maps has limited functionality for driving directions in South Korea.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "Hiking shoes for Hallasan and Olle Trail sections",
+    "Windbreaker — coastal winds are strong year-round",
+    "Swimwear for summer beach visits",
+    "Rain gear for the June-July wet season"
+  ],
+  "thingsToDo": [
+    "Seongsan Ilchulbong (Sunrise Peak)",
+    "Manjanggul Lava Tube",
+    "Hallim Park",
+    "Jeju Loveland",
+    "Spirited Garden (Bonsai Garden)",
+    "Teddy Bear Museum",
+    "Hallasan National Park trails",
+    "Jeju Olle Trail sections",
+    "Yongduam Rock (Dragon Head Rock)",
+    "Jeju Haenyeo Museum grounds",
+    "Iho Tewoo Beach",
+    "Cheonjiyeon Waterfall",
+    "Hiking Hallasan to the summit crater lake",
+    "Scuba diving with Jeju's haenyeo dive sites",
+    "Olle Trail multi-day coastal hiking",
+    "Udo Island cycling loop",
+    "Jeju Shinhwa Theme Park",
+    "Hallim Park caves and gardens",
+    "Trick Eye Museum Jeju"
+  ],
+  "thingsToAvoid": [
+    "Relying solely on Google Maps for driving directions — use Kakao Map or Naver Map instead.",
+    "Treating haenyeo (traditional divers) demonstrations as a casual photo-op without respect for the tradition.",
+    "Visiting Seongsan Ilchulbong or the canola flower fields at midday in peak season, when tour buses crowd every viewpoint.",
+    "Underestimating Hallasan's summit hike — it's a genuine full-day, ~1,950m ascent requiring an early start."
+  ],
+  "topRestaurants": [
+    "Jeju black pork BBQ houses (Heukdwaeji Geori) — Korean BBQ ($$)",
+    "Myeongjin Jeonbok (abalone rice porridge) — Korean Seafood ($$)",
+    "Halmang Jip — Traditional Jeju Home Cooking ($$)",
+    "Dombegogi restaurants near Jungmun — Jeju Pork Specialty ($$)",
+    "Olle Market food stalls — Korean Street Food ($)",
+    "Seongsan seafood raw fish (hoe) restaurants — Fresh Raw Seafood ($$$)"
+  ],
+  "topCafes": [
+    "Café Momento",
+    "Monsant Café (oceanview)",
+    "Anthracite Coffee Jeju",
+    "Yuedam Café"
+  ],
+  "shoppingAreas": [
+    "Jeju Dongmun Market",
+    "Jungmun Tourist Complex duty-free",
+    "Lotte Duty Free Jeju",
+    "Olle Market"
+  ],
+  "nightlife": [
+    "Jeju City downtown bars (Chilsipni-ro)",
+    "Seogwipo Maeil Olle Market evening stalls",
+    "Hyatt Regency Jeju lounge",
+    "Jungmun resort strip bars"
+  ],
+  "instagramSpots": [
+    "Seongsan Ilchulbong sunrise silhouette",
+    "Iho Tewoo Beach lighthouse horses",
+    "Canola flower fields in spring",
+    "Yongduam Rock coastline at sunset"
+  ],
+  "hiddenGems": [
+    "Gimnyeong Maze Park",
+    "Sangumburi volcanic crater",
+    "Bijarim Forest's ancient nutmeg trees",
+    "Udo Island bike loop (a short ferry from Seongsan)"
+  ],
+  "familyActivities": [
+    "Teddy Bear Museum",
+    "Jeju Shinhwa Theme Park",
+    "Hallim Park caves and gardens",
+    "Trick Eye Museum Jeju"
+  ],
+  "adventureActivities": [
+    "Hiking Hallasan to the summit crater lake",
+    "Scuba diving with Jeju's haenyeo dive sites",
+    "Olle Trail multi-day coastal hiking",
+    "Udo Island cycling loop"
+  ],
+  "luxuryExperiences": [
+    "Suite stay at a Jungmun resort with ocean views",
+    "Private abalone and black pork tasting course",
+    "Helicopter tour over Hallasan and the coastline",
+    "Spa day at a resort onsen-style bathhouse"
+  ],
+  "honeymoonExperiences": [
+    "Sunrise hike up Seongsan Ilchulbong together",
+    "Private couples' photo shoot amid canola flower fields",
+    "Romantic dinner overlooking Jungmun coast",
+    "Udo Island day trip by bike and ferry"
+  ],
+  "budgetExperiences": [
+    "Olle Trail sections cost nothing beyond good shoes",
+    "Dongmun Market street food crawl",
+    "Free coastal viewpoints at Yongduam Rock and Iho Beach",
+    "Hallasan National Park hiking (entry is free)"
+  ],
+  "estimatedDailyBudgetUSD": [
+    40,
+    85,
+    180,
+    400
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 4,
+  "walkingScore": 55,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 8,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 9,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 12,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 17,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 20,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jun",
+      "highC": 24,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 29,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 30,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 26,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 15,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 10,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Jeju Fire Festival",
+      "timing": "March"
+    },
+    {
+      "name": "Jeju Canola Flower Festival",
+      "timing": "April"
+    },
+    {
+      "name": "Jeju Cherry Blossom Festival",
+      "timing": "Late March-early April"
+    },
+    {
+      "name": "Tamna Cultural Festival",
+      "timing": "October"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "112",
+    "ambulance": "119",
+    "fire": "119"
+  },
+  "localEtiquette": [
+    "Bowing is a common greeting alongside handshakes; a slight bow when greeting elders or service staff is appreciated.",
+    "Remove shoes before entering traditional guesthouses (hanok) and many homes.",
+    "Two hands (or supporting your forearm) should be used when giving or receiving items, especially with elders.",
+    "Haenyeo (Jeju's famous free-diving \"sea women\") are a source of local pride — treat their diving demonstrations respectfully, not as a photo prop.",
+    "Quiet, orderly queuing is the norm, including at popular photo spots."
+  ],
+  "localTransportGuide": "Renting a car is by far the most convenient way to explore Jeju's spread-out attractions, and an international driving permit is required. Public buses cover the main towns and attractions but run less frequently in rural areas. Taxis and ride-hailing (Kakao T) are reliable for shorter hops within Jeju City or Seogwipo.",
+  "bestTimeToVisit": "May and September to October offer mild temperatures, blooming or fresh scenery, and lighter crowds than the peak Korean summer holiday season.",
+  "weather": "Temperate maritime climate — mild winters (rarely below 5°C), warm humid summers (June-August, highs around 29-31°C with a rainy season and occasional typhoons), and comfortable spring/autumn shoulder seasons famous for canola-flower and cherry-blossom blooms.",
+  "visaInformation": "Most Western nationalities including the US, UK, Canada, Australia, and EU citizens can enter South Korea visa-free for 30-90 days for tourism (K-ETA pre-authorization required for many nationalities). Verify current requirements against your specific passport before travel.",
+  "currency": "KRW",
+  "languages": [
+    "Korean"
+  ],
+  "timeZone": "KST (UTC+9)",
+  "averageFlightTime": "~10.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Jeju International Airport (CJU)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Jeju Island?",
+      "answer": "Most Western nationalities including the US, UK, Canada, Australia, and EU citizens can enter South Korea visa-free for 30-90 days for tourism (K-ETA pre-authorization required for many nationalities). Verify current requirements against your specific passport before travel."
+    },
+    {
+      "question": "What is the best time to visit Jeju Island?",
+      "answer": "May and September to October offer mild temperatures, blooming or fresh scenery, and lighter crowds than the peak Korean summer holiday season. Temperate maritime climate — mild winters (rarely below 5°C), warm humid summers (June-August, highs around 29-31°C with a rainy season and occasional typhoons), and comfortable spring/autumn shoulder seasons famous for canola-flower and cherry-blossom blooms."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Jeju Island safe for tourists?",
+      "answer": "Jeju Island is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Jeju Island?",
+      "answer": "The local currency is KRW. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Jeju Island is one of our most-booked honeymoon destinations, especially the Sunrise hike up Seongsan Ilchulbong together experience. It also works well for families — highlights include Teddy Bear Museum."
+    }
+  ],
+  "categories": [
+    "Nature",
+    "Adventure",
+    "Honeymoon",
+    "Beach",
+    "Family",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Jeju Island",
+    "South Korea",
+    "Jeju Island, South Korea",
+    "East Asia",
+    "Jeju Island tour package",
+    "Jeju Island vacation package",
+    "Jeju Island holiday package",
+    "things to do in Jeju Island",
+    "best time to visit Jeju Island",
+    "Jeju Island itinerary",
+    "2 day Jeju Island itinerary",
+    "Jeju Island flights and hotels",
+    "Jeju Island all inclusive package",
+    "cheap Jeju Island package",
+    "luxury Jeju Island package",
+    "Jeju Island honeymoon package",
+    "Jeju Island family vacation",
+    "Jeju Island solo trip",
+    "Jeju Island group tour",
+    "Jeju Island weekend getaway",
+    "Jeju Island guided tour",
+    "CJU flights",
+    "Jeju Island travel guide",
+    "book Jeju Island trip online",
+    "Jeju Island trip cost",
+    "Jeju Island packages 2 days",
+    "Jeju Island nature",
+    "Jeju Island adventure",
+    "Jeju Island honeymoon",
+    "Jeju Island beach",
+    "Jeju Island family",
+    "Seongsan Ilchulbong (Sunrise Peak)",
+    "Manjanggul Lava Tube",
+    "Hallim Park",
+    "Jeju Loveland",
+    "Spirited Garden (Bonsai Garden)",
+    "Teddy Bear Museum",
+    "Hallasan National Park trails",
+    "Jeju Olle Trail sections",
+    "Yongduam Rock (Dragon Head Rock)",
+    "Jeju Haenyeo Museum grounds",
+    "Iho Tewoo Beach",
+    "Cheonjiyeon Waterfall",
+    "Jeju black pork BBQ houses (Heukdwaeji Geori)",
+    "Myeongjin Jeonbok (abalone rice porridge)",
+    "Halmang Jip",
+    "Dombegogi restaurants near Jungmun",
+    "Olle Market food stalls",
+    "Seongsan Ilchulbong sunrise silhouette",
+    "Iho Tewoo Beach lighthouse horses"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Jeju Island, South Korea — Jeju canola flower fields",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Jeju canola flower fields",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Jeju canola flower fields",
+      "pexelsQuery": "Jeju Island Jeju canola flower fields",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Jeju Island, South Korea — Hallasan volcano summit",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Hallasan volcano summit",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Hallasan volcano summit",
+      "pexelsQuery": "Jeju Island Hallasan volcano summit",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong sunrise Jeju",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong sunrise Jeju",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong sunrise Jeju",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jeju Island, South Korea — Jeju canola flower fields",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Jeju canola flower fields",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Jeju canola flower fields",
+      "pexelsQuery": "Jeju Island Jeju canola flower fields",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jeju Island, South Korea — Hallasan volcano summit",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Hallasan volcano summit",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Hallasan volcano summit",
+      "pexelsQuery": "Jeju Island Hallasan volcano summit",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jeju Island, South Korea — Udo Island coastline",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Udo Island coastline",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Udo Island coastline",
+      "pexelsQuery": "Jeju Island Udo Island coastline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jeju Island, South Korea — Seongsan Ilchulbong (Sunrise Peak)",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Seongsan Ilchulbong (Sunrise Peak)",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Seongsan Ilchulbong (Sunrise Peak)",
+      "pexelsQuery": "Jeju Island Seongsan Ilchulbong (Sunrise Peak)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jeju Island, South Korea — Manjanggul Lava Tube",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Manjanggul Lava Tube",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Manjanggul Lava Tube",
+      "pexelsQuery": "Jeju Island Manjanggul Lava Tube",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jeju Island, South Korea — Hallim Park",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Hallim Park",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Hallim Park",
+      "pexelsQuery": "Jeju Island Hallim Park",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jeju Island, South Korea — Jeju Loveland",
+      "keywords": [
+        "Jeju Island",
+        "South Korea",
+        "Jeju Loveland",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Jeju Island Jeju Loveland",
+      "pexelsQuery": "Jeju Island Jeju Loveland",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-jeju-island-2-1",
+      "author": "Sofia Patel",
+      "country": "France",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-19",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a solo trip and it was well paced. Jeju Loveland in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-2",
+      "author": "Olivia Fernandez",
+      "country": "United Kingdom",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-06-03",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Jeju Island was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Manjanggul Lava Tube was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-jeju-island-2-3",
+      "author": "Elena Botha",
+      "country": "Japan",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-04-08",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Hallasan National Park trails and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-4",
+      "author": "Anna Fernandez",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-02-28",
+      "title": "Loved every moment",
+      "body": "Jeju Island is stunning and this package covered the essentials well, especially Yongduam Rock (Dragon Head Rock). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-5",
+      "author": "Arjun Cohen",
+      "country": "South Korea",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-02-27",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a solo trip and it was well paced. Teddy Bear Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-jeju-island-2-6",
+      "author": "Daniel Johnson",
+      "country": "United States",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-03-14",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Seongsan Ilchulbong (Sunrise Peak) and Yongduam Rock (Dragon Head Rock). Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-7",
+      "author": "Noah Garcia",
+      "country": "Saudi Arabia",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-06-11",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Jeju Island was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Iho Tewoo Beach was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-jeju-island-2-8",
+      "author": "Sarah Smith",
+      "country": "Japan",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-03-21",
+      "title": "Best vacation we've had",
+      "body": "Jeju Island is stunning and this package covered the essentials well, especially Hallasan National Park trails. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-9",
+      "author": "Noah Rossi",
+      "country": "UAE",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-23",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Jeju Island was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Spirited Garden (Bonsai Garden) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-10",
+      "author": "Daniel Rossi",
+      "country": "UAE",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-27",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Spirited Garden (Bonsai Garden) and Hallim Park. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-jeju-island-2-11",
+      "author": "Mohammed Müller",
+      "country": "United States",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 3.5,
+      "date": "2026-02-09",
+      "title": "Five stars, will return",
+      "body": "Seongsan Ilchulbong (Sunrise Peak) alone was worth the trip, but combined with Iho Tewoo Beach this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-jeju-island-2-12",
+      "author": "Priya Kim",
+      "country": "South Korea",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-11-09",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a group trip and it was well paced. Teddy Bear Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-13",
+      "author": "Noah Patel",
+      "country": "Netherlands",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-05-22",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Jeju Island was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Yongduam Rock (Dragon Head Rock) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-14",
+      "author": "Sofia Johnson",
+      "country": "France",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-01-21",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a couple trip and it was well paced. Jeju Loveland in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-15",
+      "author": "Marco Rossi",
+      "country": "New Zealand",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-05-14",
+      "title": "Perfect for our honeymoon",
+      "body": "We added a couple of optional activities beyond Jeju Olle Trail sections and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-16",
+      "author": "Chen Costa",
+      "country": "Switzerland",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-28",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a group trip and it was well paced. Jeju Haenyeo Museum grounds in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-17",
+      "author": "Mia Santos",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-03-21",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Hallim Park and Seongsan Ilchulbong (Sunrise Peak). Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-18",
+      "author": "Mohammed Khan",
+      "country": "Netherlands",
+      "rating": 3.9,
+      "foodRating": 4.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-05-20",
+      "title": "Beautiful destination, well organized",
+      "body": "Yongduam Rock (Dragon Head Rock) alone was worth the trip, but combined with Yongduam Rock (Dragon Head Rock) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-19",
+      "author": "Olivia Sharma",
+      "country": "Australia",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-18",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Jeju Island was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Hallim Park was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jeju-island-2-20",
+      "author": "Wei Khan",
+      "country": "South Korea",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-19",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a group trip and it was well paced. Teddy Bear Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.2,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Jeju Island Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 9,
+      "neighborhood": "Jeju Dongmun Market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Jeju Island Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 16,
+      "neighborhood": "Jungmun Tourist Complex duty-free"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Jeju Island Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 30,
+      "neighborhood": "Lotte Duty Free Jeju"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Jeju Island Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 38,
+      "neighborhood": "Olle Market"
+    },
+    {
+      "tier": "Resort",
+      "name": "Jeju Island Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 90,
+      "neighborhood": "Jeju City downtown bars (Chilsipni-ro)"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Jeju Island Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 168,
+      "neighborhood": "Seogwipo Maeil Olle Market evening stalls"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Jeju Island Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 200,
+      "neighborhood": "Hyatt Regency Jeju lounge"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        907,
+        1440
+      ],
+      "estimatedFlightHours": 16.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        875,
+        1389
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        743,
+        1180
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        750,
+        1191
+      ],
+      "estimatedFlightHours": 13.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        719,
+        1142
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        746,
+        1185
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        824,
+        1308
+      ],
+      "estimatedFlightHours": 14.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        721,
+        1145
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        734,
+        1166
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        649,
+        1030
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        747,
+        1187
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        415,
+        659
+      ],
+      "estimatedFlightHours": 7.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        165,
+        262
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        110,
+        174
+      ],
+      "estimatedFlightHours": 1.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        116,
+        184
+      ],
+      "estimatedFlightHours": 1.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        386,
+        613
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        324,
+        514
+      ],
+      "estimatedFlightHours": 5.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        383,
+        609
+      ],
+      "estimatedFlightHours": 6.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        429,
+        682
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        234,
+        371
+      ],
+      "estimatedFlightHours": 3.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        310,
+        493
+      ],
+      "estimatedFlightHours": 5.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        570,
+        906
+      ],
+      "estimatedFlightHours": 10,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        628,
+        998
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        594,
+        944
+      ],
+      "estimatedFlightHours": 10.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        603,
+        957
+      ],
+      "estimatedFlightHours": 10.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        966,
+        1535
+      ],
+      "estimatedFlightHours": 17.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1430,
+        2271
+      ],
+      "estimatedFlightHours": 26.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Jeju International Airport (CJU)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        972,
+        1543
+      ],
+      "estimatedFlightHours": 17.5,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Seongsan Ilchulbong (Sunrise Peak)",
+    "Manjanggul Lava Tube",
+    "Hallim Park",
+    "Jeju Loveland",
+    "Spirited Garden (Bonsai Garden)",
+    "Teddy Bear Museum",
+    "Hallasan National Park trails",
+    "Jeju Olle Trail sections",
+    "Yongduam Rock (Dragon Head Rock)",
+    "Jeju Haenyeo Museum grounds",
+    "Iho Tewoo Beach",
+    "Cheonjiyeon Waterfall",
+    "Udo Island (bike loop and peanut ice cream)",
+    "Marado Island (Korea's southernmost point)",
+    "Seogwipo waterfalls circuit",
+    "Jeju Haenyeo Museum",
+    "Jeju National Museum",
+    "Trick Eye Museum",
+    "Hallasan National Park",
+    "Bijarim Forest",
+    "Hyeopjae Beach",
+    "Hamdeok Beach",
+    "Seongsan Ilchulbong sunrise silhouette",
+    "Iho Tewoo Beach lighthouse horses",
+    "Canola flower fields in spring",
+    "Yongduam Rock coastline at sunset"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Seongsan Ilchulbong (Sunrise Peak)",
+      "priceUSD": 4
+    },
+    {
+      "name": "Manjanggul Lava Tube",
+      "priceUSD": 4
+    },
+    {
+      "name": "Hallim Park",
+      "priceUSD": 11
+    },
+    {
+      "name": "Jeju Loveland",
+      "priceUSD": 12
+    },
+    {
+      "name": "Spirited Garden (Bonsai Garden)",
+      "priceUSD": 15
+    },
+    {
+      "name": "Teddy Bear Museum",
+      "priceUSD": 10
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Hallasan National Park trails",
+    "Jeju Olle Trail sections",
+    "Yongduam Rock (Dragon Head Rock)",
+    "Jeju Haenyeo Museum grounds",
+    "Iho Tewoo Beach",
+    "Cheonjiyeon Waterfall"
+  ],
+  "museums": [
+    "Jeju Haenyeo Museum",
+    "Jeju National Museum",
+    "Trick Eye Museum"
+  ],
+  "parks": [
+    "Hallasan National Park",
+    "Hallim Park",
+    "Bijarim Forest"
+  ],
+  "beaches": [
+    "Hyeopjae Beach",
+    "Iho Tewoo Beach",
+    "Hamdeok Beach"
+  ],
+  "dayTrips": [
+    "Udo Island (bike loop and peanut ice cream)",
+    "Marado Island (Korea's southernmost point)",
+    "Seogwipo waterfalls circuit"
+  ],
+  "fromPriceUSD": 1335,
+  "seo": {
+    "title": "Jeju Island 2-Day Nature Retreat | Flights, Hotels & Tours Included",
+    "slug": "jeju-island-2-day-package",
+    "keywords": [
+      "Jeju Island",
+      "South Korea",
+      "Jeju Island, South Korea",
+      "East Asia",
+      "Jeju Island tour package",
+      "Jeju Island vacation package",
+      "Jeju Island holiday package",
+      "things to do in Jeju Island",
+      "best time to visit Jeju Island",
+      "Jeju Island itinerary",
+      "2 day Jeju Island itinerary",
+      "Jeju Island flights and hotels",
+      "Jeju Island all inclusive package",
+      "cheap Jeju Island package",
+      "luxury Jeju Island package"
+    ],
+    "canonicalUrl": "/packages/jeju-island-2-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Jeju Island Package",
+        "url": "/packages/jeju-island-3-day-package"
+      },
+      {
+        "title": "5-Day Jeju Island Package",
+        "url": "/packages/jeju-island-5-day-package"
+      },
+      {
+        "title": "Phuket 2-Day Beach Getaway",
+        "url": "/packages/phuket-2-day-package"
+      },
+      {
+        "title": "Costa Rica 2-Day Nature Retreat",
+        "url": "/packages/costa-rica-2-day-package"
+      },
+      {
+        "title": "Andaman Islands 2-Day Beach Getaway",
+        "url": "/packages/andaman-islands-2-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Jeju Island — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jeju_Island"
+      },
+      {
+        "title": "Jeju Island — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Jeju_Island"
+      }
+    ]
+  }
+}

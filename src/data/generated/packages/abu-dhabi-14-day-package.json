@@ -1356,6 +1356,21 @@
       "isEstimate": true
     },
     {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        549,
+        872
+      ],
+      "estimatedFlightHours": 9.6,
+      "isEstimate": true
+    },
+    {
       "originMarket": "SG",
       "originAirport": "Singapore (major international gateway)",
       "destinationAirport": "Zayed International Airport (AUH)",

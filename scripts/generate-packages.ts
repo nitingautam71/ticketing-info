@@ -17,12 +17,13 @@ import { DESTINATIONS_C } from '../src/lib/packages/destinations-c';
 import { DESTINATIONS_D } from '../src/lib/packages/destinations-d';
 import { DESTINATIONS_E } from '../src/lib/packages/destinations-e';
 import { DESTINATIONS_F } from '../src/lib/packages/destinations-f';
+import { DESTINATIONS_G } from '../src/lib/packages/destinations-g';
 import { generatePackage } from '../src/lib/packages/generator';
 import type { DestinationFacts, TravelPackage } from '../src/lib/packages/types';
 
 const DURATIONS = [2, 3, 5, 7, 10, 14];
-const ALL_DESTINATIONS: DestinationFacts[] = [...DESTINATIONS_A, ...DESTINATIONS_B, ...DESTINATIONS_C, ...DESTINATIONS_D, ...DESTINATIONS_E, ...DESTINATIONS_F];
-const EXPECTED_DESTINATION_COUNT = 150;
+const ALL_DESTINATIONS: DestinationFacts[] = [...DESTINATIONS_A, ...DESTINATIONS_B, ...DESTINATIONS_C, ...DESTINATIONS_D, ...DESTINATIONS_E, ...DESTINATIONS_F, ...DESTINATIONS_G];
+const EXPECTED_DESTINATION_COUNT = 159;
 const EXPECTED_PACKAGE_COUNT = EXPECTED_DESTINATION_COUNT * DURATIONS.length;
 
 const OUT_ROOT = join(process.cwd(), 'src', 'data', 'generated');

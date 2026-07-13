@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import HeroSection from '@/components/layout/HeroSection';
 import PackageSearch from '@/components/search/PackageSearch';
+import FeaturedPackages from '@/components/packages/FeaturedPackages';
 import { HERO_COPY } from '@/lib/nav';
 
 export const metadata: Metadata = {
@@ -19,8 +20,9 @@ export default function PackagesPage() {
   return (
     <div className="flex-1 flex flex-col">
       <HeroSection eyebrow={hero.eyebrow} title={hero.title} sub={hero.sub} />
-      <div className="flex-1 max-w-7xl w-full mx-auto px-4 md:px-8 relative z-20 -mt-20 md:-mt-16 pb-16">
+      <div className="flex-1 max-w-7xl w-full mx-auto px-4 md:px-8 relative z-20 -mt-20 md:-mt-16 pb-16 space-y-12">
         <PackageSearch />
+        <FeaturedPackages />
       </div>
     </div>
   );
