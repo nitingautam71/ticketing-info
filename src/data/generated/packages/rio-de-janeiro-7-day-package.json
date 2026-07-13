@@ -361,7 +361,7 @@
     "Portuguese"
   ],
   "timeZone": "BRT (UTC-3)",
-  "averageFlightTime": "~16.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "averageFlightTime": "~16.9h from major hubs (estimate; varies by origin — see Suggested Flights)",
   "nearestAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
   "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
   "termsAndConditions": [
@@ -1283,6 +1283,21 @@
         2202
       ],
       "estimatedFlightHours": 25.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Rio de Janeiro–Galeão International Airport (GIG)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1394,
+        2214
+      ],
+      "estimatedFlightHours": 25.4,
       "isEstimate": true
     },
     {

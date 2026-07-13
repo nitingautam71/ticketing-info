@@ -1,0 +1,1720 @@
+{
+  "id": "PKG-ibiza-14D",
+  "slug": "ibiza-14-day-package",
+  "destinationSlug": "ibiza",
+  "destinationName": "Ibiza",
+  "country": "Spain",
+  "region": "Mediterranean",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Ibiza 14-Day Nightlife Getaway",
+  "metaTitle": "Ibiza 14-Day Nightlife Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Ibiza, Spain: round-trip flights, hotel, breakfast, transfers, and guided tours including Dalt Vila (walled old town) guided tour and Es Vedrà boat trip. Prices from $1678 per person (estimate).",
+  "highlights": [
+    "Dalt Vila (walled old town) guided tour",
+    "Es Vedrà boat trip",
+    "Dalt Vila walls exterior walk",
+    "VIP table at Ushuaïa or Hï Ibiza",
+    "Formentera island (ferry from Ibiza Town)"
+  ],
+  "overview": "Spend 14 days discovering Ibiza, Spain — Mediterranean climate — hot, dry summers (June-September, highs 28-31°C) perfect for the beach club season, and mild, quiet winters (December-February, highs around 15-16°C) when most clubs and many restaurants close entirely. June and September offer the island's famous nightlife and beach season with noticeably lower prices and crowds than the July-August peak. This itinerary blends Dalt Vila (walled old town) guided tour, Es Vedrà boat trip, Dalt Vila walls exterior walk with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Dalt Vila (walled old town) guided tour, Es Vedrà boat trip, Dalt Vila walls exterior walk",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Ibiza",
+      "description": "Land at Ibiza Airport (IBZ) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Dalt Vila (walled old town) guided tour — UNESCO World Heritage Renaissance-era fortress walls overlooking the harbor. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Dalt Vila (walled old town) guided tour"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 2,
+      "title": "Ibiza: Es Vedrà boat trip & Beach club day bed at Blue Marlin or Ushuaïa",
+      "description": "Morning visit to Es Vedrà boat trip — Circle the mystical uninhabited rock islet by boat, popular for sunset. In the afternoon, continue to Beach club day bed at Blue Marlin or Ushuaïa — Iconic sunset beach club experience with DJs and cocktails. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Es Vedrà boat trip",
+        "Beach club day bed at Blue Marlin or Ushuaïa"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 3,
+      "title": "Ibiza: Hippy Market at Las Dalias & Ibiza nightclub entry (Pacha, Amnesia, Hï Ibiza)",
+      "description": "Morning visit to Hippy Market at Las Dalias — Bohemian market of handmade crafts, jewelry, and clothing (entry free, budget for shopping). In the afternoon, continue to Ibiza nightclub entry (Pacha, Amnesia, Hï Ibiza) — World-famous superclubs that put Ibiza on the electronic music map. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Hippy Market at Las Dalias",
+        "Ibiza nightclub entry (Pacha, Amnesia, Hï Ibiza)"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Formentera island (ferry from Ibiza Town)",
+      "description": "Full-day excursion to Formentera island (ferry from Ibiza Town), a popular side trip from Ibiza. Return to Ibiza in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Formentera island (ferry from Ibiza Town)",
+        "Free evening"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Cala Xarraca's clay-mud coves — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Cala Xarraca's clay-mud coves"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 6,
+      "title": "Ibiza: Formentera day-trip ferry & Dalt Vila walls exterior walk",
+      "description": "Morning visit to Formentera day-trip ferry — Fast ferry to Ibiza's pristine, quieter sister island. In the afternoon, continue to Dalt Vila walls exterior walk — Wander the fortress ramparts and cathedral square for free. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Formentera day-trip ferry",
+        "Dalt Vila walls exterior walk"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Santa Gertrudis village",
+      "description": "Full-day excursion to Santa Gertrudis village, a popular side trip from Ibiza. Return to Ibiza in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Santa Gertrudis village",
+        "Free evening"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 8,
+      "title": "Ibiza: Cala Comte sunset viewpoint & Es Vedrà viewpoint from the cliffs",
+      "description": "Morning visit to Cala Comte sunset viewpoint — One of the island's most photographed sunset beaches. In the afternoon, continue to Es Vedrà viewpoint from the cliffs — See the famous rock islet without a boat trip. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Cala Comte sunset viewpoint",
+        "Es Vedrà viewpoint from the cliffs"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Santa Gertrudis's bohemian village square — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Santa Gertrudis's bohemian village square"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Es Vedrà and Cala d'Hort",
+      "description": "Full-day excursion to Es Vedrà and Cala d'Hort, a popular side trip from Ibiza. Return to Ibiza in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Es Vedrà and Cala d'Hort",
+        "Free evening"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 11,
+      "title": "Ibiza: Ibiza Town marina promenade & Dalt Vila (walled old town) guided tour",
+      "description": "Morning visit to Ibiza Town marina promenade — Yacht-lined harbor walk beneath Dalt Vila's walls. In the afternoon, continue to Dalt Vila (walled old town) guided tour — UNESCO World Heritage Renaissance-era fortress walls overlooking the harbor. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Ibiza Town marina promenade",
+        "Dalt Vila (walled old town) guided tour"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 12,
+      "title": "Ibiza: Es Vedrà boat trip & Beach club day bed at Blue Marlin or Ushuaïa",
+      "description": "Morning visit to Es Vedrà boat trip — Circle the mystical uninhabited rock islet by boat, popular for sunset. In the afternoon, continue to Beach club day bed at Blue Marlin or Ushuaïa — Iconic sunset beach club experience with DJs and cocktails. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Es Vedrà boat trip",
+        "Beach club day bed at Blue Marlin or Ushuaïa"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Es Portitxol tiny islet off Punta Galera — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Es Portitxol tiny islet off Punta Galera"
+      ],
+      "overnight": "Ibiza"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Hippy Market at Las Dalias or some souvenir shopping — before your private transfer to IBZ for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book superclub tickets (Pacha, Amnesia, Hï Ibiza) online in advance — door prices are higher and lines are long.",
+    "Rent a car or scooter to properly explore the island's beaches beyond Ibiza Town and San Antonio.",
+    "Visit in June or September for the same beach-club atmosphere at lower prices and crowds than peak summer.",
+    "Sunset at Café del Mar or Es Vedrà's viewpoint is a genuinely iconic, free experience — don't skip it.",
+    "Many clubs and restaurants close completely November through April — this is a summer-season island.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Stylish beach-to-club outfits — Ibiza's dress culture is part of the experience",
+    "Reef-safe sunscreen",
+    "A light jacket for cooler evenings, even in summer",
+    "Comfortable sandals for Dalt Vila's cobblestones"
+  ],
+  "thingsToDo": [
+    "Dalt Vila (walled old town) guided tour",
+    "Es Vedrà boat trip",
+    "Beach club day bed at Blue Marlin or Ushuaïa",
+    "Hippy Market at Las Dalias",
+    "Ibiza nightclub entry (Pacha, Amnesia, Hï Ibiza)",
+    "Formentera day-trip ferry",
+    "Dalt Vila walls exterior walk",
+    "Cala Comte sunset viewpoint",
+    "Es Vedrà viewpoint from the cliffs",
+    "Ibiza Town marina promenade",
+    "Jet skiing and parasailing at San Antonio Bay",
+    "Sea kayaking to hidden coves",
+    "Cycling the island's interior countryside",
+    "Scuba diving around Es Vedrà",
+    "Aguamar Water Park",
+    "Cala Bassa's calm shallow waters",
+    "Ibiza Town aquarium (Aquarium Cap Blanc)",
+    "Formentera cycling day trip"
+  ],
+  "thingsToAvoid": [
+    "Visiting outside May-October expecting nightlife or beach clubs to be open — most close for winter.",
+    "Skipping advance beach club/nightclub reservations in July-August, when top venues sell out.",
+    "Renting a scooter without proper licensing/insurance — enforcement has tightened in recent years.",
+    "Assuming taxis are cheap — short hops can be pricier than expected, especially late at night."
+  ],
+  "topRestaurants": [
+    "La Paloma — Mediterranean Organic Garden Restaurant ($$$)",
+    "Sa Punta — Traditional Ibizan Seafood ($$)",
+    "Ca n'Alfredo — Classic Ibizan (since 1934) ($$)",
+    "Amante Beach Club — Mediterranean Cliffside Dining ($$$$)",
+    "Bar Costa (Santa Gertrudis) — Tapas & Jamón ($$)",
+    "La Paloma — Farm-to-table Mediterranean ($$$)"
+  ],
+  "topCafes": [
+    "Croissant Show (Ibiza Town institution)",
+    "Cafe Sidney",
+    "Mister Coffee",
+    "Wild Beets"
+  ],
+  "shoppingAreas": [
+    "Las Dalias Hippy Market",
+    "Ibiza Town boutiques (Sa Penya)",
+    "Es Canar hippy market",
+    "Dalt Vila artisan shops"
+  ],
+  "nightlife": [
+    "Pacha Ibiza",
+    "Amnesia",
+    "Hï Ibiza",
+    "Ushuaïa Ibiza Beach Club",
+    "DC-10 (underground techno institution)"
+  ],
+  "instagramSpots": [
+    "Es Vedrà at sunset from Cala d'Hort",
+    "Dalt Vila's cathedral and city walls",
+    "Cala Comte turquoise water",
+    "Ibiza Town marina with the old town backdrop"
+  ],
+  "hiddenGems": [
+    "Cala Xarraca's clay-mud coves",
+    "Santa Gertrudis's bohemian village square",
+    "Es Portitxol tiny islet off Punta Galera",
+    "Formentera's Ses Illetes beach (day trip)"
+  ],
+  "familyActivities": [
+    "Aguamar Water Park",
+    "Cala Bassa's calm shallow waters",
+    "Ibiza Town aquarium (Aquarium Cap Blanc)",
+    "Formentera cycling day trip"
+  ],
+  "adventureActivities": [
+    "Jet skiing and parasailing at San Antonio Bay",
+    "Sea kayaking to hidden coves",
+    "Cycling the island's interior countryside",
+    "Scuba diving around Es Vedrà"
+  ],
+  "luxuryExperiences": [
+    "VIP table at Ushuaïa or Hï Ibiza",
+    "Private yacht charter around Es Vedrà and Formentera",
+    "Suite stay at a 5-star Dalt Vila boutique hotel",
+    "Private chef dinner at a countryside finca villa"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at Café del Mar or Cala Comte",
+    "Private boat trip around Es Vedrà",
+    "Romantic dinner in Dalt Vila's old town",
+    "Day trip to quiet, pristine Formentera"
+  ],
+  "budgetExperiences": [
+    "Public beaches (Cala Comte, Cala Bassa) are free to enjoy",
+    "Dalt Vila's fortress walls and old town — free to explore",
+    "Las Dalias Hippy Market browsing",
+    "Es Vedrà cliffside viewpoint at sunset"
+  ],
+  "estimatedDailyBudgetUSD": [
+    45,
+    100,
+    220,
+    550
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 58,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 15,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 15,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 17,
+      "crowd": "Low"
+    },
+    {
+      "month": "Apr",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 22,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 29,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 30,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 23,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 19,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 16,
+      "crowd": "Low"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Ibiza opening/closing club season parties",
+      "timing": "May (opening) and October (closing)"
+    },
+    {
+      "name": "Festa d'Estiu (summer solstice celebrations)",
+      "timing": "June"
+    },
+    {
+      "name": "Las Dalias Hippy Market",
+      "timing": "Every Saturday, May-October"
+    },
+    {
+      "name": "Sant Bartomeu local patron saint festival",
+      "timing": "August"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112"
+  },
+  "localEtiquette": [
+    "Dress codes at beach clubs and nightclubs can be strict and stylish — check ahead, especially for VIP areas.",
+    "Lunch and dinner run later than much of Northern Europe — restaurants often don't fill up until 9-10pm.",
+    "Ibiza has a strong bohemian/hippie heritage (the famous hippy markets) alongside its clubbing reputation — both cultures are respected locally.",
+    "Topless sunbathing is common and accepted on many beaches, though full nudity is generally restricted to designated areas.",
+    "Noise ordinances are taken seriously outside licensed venues — residential areas expect quiet after certain hours."
+  ],
+  "localTransportGuide": "Renting a car or scooter is the most practical way to reach Ibiza's scattered beaches and villages, especially outside Ibiza Town and San Antonio. Public buses connect main towns but run infrequently, especially off-season. Taxis are reliable but pricier at night; ferries connect to Formentera and mainland Spain.",
+  "bestTimeToVisit": "June and September offer the island's famous nightlife and beach season with noticeably lower prices and crowds than the July-August peak.",
+  "weather": "Mediterranean climate — hot, dry summers (June-September, highs 28-31°C) perfect for the beach club season, and mild, quiet winters (December-February, highs around 15-16°C) when most clubs and many restaurants close entirely.",
+  "visaInformation": "US, UK, Canadian, and Australian citizens can enter visa-free under the Schengen Area rules for up to 90 days within a 180-day period. EU citizens face no restrictions. Verify current requirements against your specific passport before travel.",
+  "currency": "EUR",
+  "languages": [
+    "Spanish",
+    "Catalan"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~10.6h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Ibiza Airport (IBZ)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Ibiza?",
+      "answer": "US, UK, Canadian, and Australian citizens can enter visa-free under the Schengen Area rules for up to 90 days within a 180-day period. EU citizens face no restrictions. Verify current requirements against your specific passport before travel."
+    },
+    {
+      "question": "What is the best time to visit Ibiza?",
+      "answer": "June and September offer the island's famous nightlife and beach season with noticeably lower prices and crowds than the July-August peak. Mediterranean climate — hot, dry summers (June-September, highs 28-31°C) perfect for the beach club season, and mild, quiet winters (December-February, highs around 15-16°C) when most clubs and many restaurants close entirely."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Ibiza safe for tourists?",
+      "answer": "Ibiza is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Ibiza?",
+      "answer": "The local currency is EUR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Nightlife",
+    "Beach",
+    "Luxury",
+    "Romantic",
+    "Summer",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Ibiza",
+    "Spain",
+    "Ibiza, Spain",
+    "Mediterranean",
+    "Ibiza tour package",
+    "Ibiza vacation package",
+    "Ibiza holiday package",
+    "things to do in Ibiza",
+    "best time to visit Ibiza",
+    "Ibiza itinerary",
+    "14 day Ibiza itinerary",
+    "Ibiza flights and hotels",
+    "Ibiza all inclusive package",
+    "cheap Ibiza package",
+    "luxury Ibiza package",
+    "Ibiza honeymoon package",
+    "Ibiza family vacation",
+    "Ibiza solo trip",
+    "Ibiza group tour",
+    "Ibiza weekend getaway",
+    "Ibiza guided tour",
+    "IBZ flights",
+    "Ibiza travel guide",
+    "book Ibiza trip online",
+    "Ibiza trip cost",
+    "Ibiza packages 14 days",
+    "Ibiza nightlife",
+    "Ibiza beach",
+    "Ibiza luxury",
+    "Ibiza romantic",
+    "Ibiza summer",
+    "Ibiza bucket list",
+    "Dalt Vila (walled old town) guided tour",
+    "Es Vedrà boat trip",
+    "Beach club day bed at Blue Marlin or Ushuaïa",
+    "Hippy Market at Las Dalias",
+    "Ibiza nightclub entry (Pacha, Amnesia, Hï Ibiza)",
+    "Formentera day-trip ferry",
+    "Dalt Vila walls exterior walk",
+    "Cala Comte sunset viewpoint",
+    "Es Vedrà viewpoint from the cliffs",
+    "Ibiza Town marina promenade",
+    "La Paloma",
+    "Sa Punta",
+    "Ca n'Alfredo",
+    "Amante Beach Club",
+    "Bar Costa (Santa Gertrudis)",
+    "Es Vedrà at sunset from Cala d'Hort",
+    "Dalt Vila's cathedral and city walls",
+    "Cala Comte turquoise water"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Ibiza, Spain — Dalt Vila old town walls",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Dalt Vila old town walls",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Dalt Vila old town walls",
+      "pexelsQuery": "Ibiza Dalt Vila old town walls",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Ibiza, Spain — Cala Comte turquoise beach",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Cala Comte turquoise beach",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Cala Comte turquoise beach",
+      "pexelsQuery": "Ibiza Cala Comte turquoise beach",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Ibiza, Spain — Es Vedrà sunset Ibiza",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà sunset Ibiza",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "pexelsQuery": "Ibiza Es Vedrà sunset Ibiza",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ibiza, Spain — Dalt Vila old town walls",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Dalt Vila old town walls",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Dalt Vila old town walls",
+      "pexelsQuery": "Ibiza Dalt Vila old town walls",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ibiza, Spain — Cala Comte turquoise beach",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Cala Comte turquoise beach",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Cala Comte turquoise beach",
+      "pexelsQuery": "Ibiza Cala Comte turquoise beach",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ibiza, Spain — Ibiza beach club DJ sunset",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Ibiza beach club DJ sunset",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Ibiza beach club DJ sunset",
+      "pexelsQuery": "Ibiza Ibiza beach club DJ sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ibiza, Spain — Dalt Vila (walled old town) guided tour",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Dalt Vila (walled old town) guided tour",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Dalt Vila (walled old town) guided tour",
+      "pexelsQuery": "Ibiza Dalt Vila (walled old town) guided tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ibiza, Spain — Es Vedrà boat trip",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Es Vedrà boat trip",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Es Vedrà boat trip",
+      "pexelsQuery": "Ibiza Es Vedrà boat trip",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ibiza, Spain — Beach club day bed at Blue Marlin or Ushuaïa",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Beach club day bed at Blue Marlin or Ushuaïa",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Beach club day bed at Blue Marlin or Ushuaïa",
+      "pexelsQuery": "Ibiza Beach club day bed at Blue Marlin or Ushuaïa",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Ibiza, Spain — Hippy Market at Las Dalias",
+      "keywords": [
+        "Ibiza",
+        "Spain",
+        "Hippy Market at Las Dalias",
+        "Nightlife",
+        "Beach"
+      ],
+      "unsplashQuery": "Ibiza Hippy Market at Las Dalias",
+      "pexelsQuery": "Ibiza Hippy Market at Las Dalias",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-ibiza-14-1",
+      "author": "Priya Brown",
+      "country": "Brazil",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-17",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a solo trip and it was well paced. Formentera day-trip ferry in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-2",
+      "author": "Lukas Kowalski",
+      "country": "South Africa",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4,
+      "date": "2025-02-08",
+      "title": "Adventure of a lifetime",
+      "body": "Ibiza is stunning and this package covered the essentials well, especially Dalt Vila walls exterior walk. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-3",
+      "author": "Daniel Botha",
+      "country": "France",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-08-15",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Beach club day bed at Blue Marlin or Ushuaïa and Dalt Vila walls exterior walk. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-ibiza-14-4",
+      "author": "Fatima Andersen",
+      "country": "Canada",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-05-01",
+      "title": "Consultant made it effortless",
+      "body": "Es Vedrà boat trip alone was worth the trip, but combined with Hippy Market at Las Dalias this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-ibiza-14-5",
+      "author": "Daniel Williams",
+      "country": "Netherlands",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-12-07",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Cala Comte sunset viewpoint and Hippy Market at Las Dalias. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-6",
+      "author": "Chen Nguyen",
+      "country": "Netherlands",
+      "rating": 4.1,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-03-13",
+      "title": "Loved every moment",
+      "body": "Booked this as a couple trip and it was well paced. Cala Comte sunset viewpoint in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-ibiza-14-7",
+      "author": "Omar Rossi",
+      "country": "Switzerland",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-23",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Cala Comte sunset viewpoint and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-8",
+      "author": "Anna Wang",
+      "country": "Canada",
+      "rating": 4.6,
+      "foodRating": 4,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-06-21",
+      "title": "Best vacation we've had",
+      "body": "Ibiza is stunning and this package covered the essentials well, especially Es Vedrà boat trip. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-9",
+      "author": "Omar Nguyen",
+      "country": "Singapore",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-02-19",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Ibiza nightclub entry (Pacha, Amnesia, Hï Ibiza) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-10",
+      "author": "Priya Costa",
+      "country": "Italy",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-19",
+      "title": "Five stars, will return",
+      "body": "Booked this as a couple trip and it was well paced. Ibiza Town marina promenade in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-11",
+      "author": "Nadia Andersen",
+      "country": "United Kingdom",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-05-05",
+      "title": "Perfect for our honeymoon",
+      "body": "Ibiza is stunning and this package covered the essentials well, especially Dalt Vila (walled old town) guided tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-ibiza-14-12",
+      "author": "Grace Fernandez",
+      "country": "New Zealand",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-22",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Dalt Vila walls exterior walk and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-13",
+      "author": "Yuki Williams",
+      "country": "New Zealand",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-04-21",
+      "title": "Best vacation we've had",
+      "body": "Dalt Vila walls exterior walk alone was worth the trip, but combined with Ibiza Town marina promenade this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-14",
+      "author": "Marco Novak",
+      "country": "India",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-29",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Hippy Market at Las Dalias and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-15",
+      "author": "James Ivanov",
+      "country": "Mexico",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-08-06",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Ibiza was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Es Vedrà viewpoint from the cliffs was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-16",
+      "author": "Ethan Larsen",
+      "country": "Singapore",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-18",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Ibiza nightclub entry (Pacha, Amnesia, Hï Ibiza) and Hippy Market at Las Dalias. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-ibiza-14-17",
+      "author": "James Williams",
+      "country": "Japan",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-30",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Ibiza was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Formentera day-trip ferry was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-ibiza-14-18",
+      "author": "Sarah Johnson",
+      "country": "South Korea",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-08-20",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Ibiza is stunning and this package covered the essentials well, especially Ibiza nightclub entry (Pacha, Amnesia, Hï Ibiza). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-19",
+      "author": "Sofia Silva",
+      "country": "South Africa",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-09-13",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a family of 4 trip and it was well paced. Dalt Vila walls exterior walk in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-ibiza-14-20",
+      "author": "Fatima Silva",
+      "country": "India",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-08-01",
+      "title": "Consultant made it effortless",
+      "body": "Hippy Market at Las Dalias alone was worth the trip, but combined with Dalt Vila walls exterior walk this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.4,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Ibiza Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 10,
+      "neighborhood": "Las Dalias Hippy Market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Ibiza Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Ibiza Town boutiques (Sa Penya)"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Ibiza Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 35,
+      "neighborhood": "Es Canar hippy market"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Ibiza Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 45,
+      "neighborhood": "Dalt Vila artisan shops"
+    },
+    {
+      "tier": "Resort",
+      "name": "Ibiza Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 110,
+      "neighborhood": "Pacha Ibiza"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Ibiza Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 231,
+      "neighborhood": "Amnesia"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Ibiza Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 275,
+      "neighborhood": "Hï Ibiza"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        527,
+        837
+      ],
+      "estimatedFlightHours": 9.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        546,
+        867
+      ],
+      "estimatedFlightHours": 9.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        179,
+        284
+      ],
+      "estimatedFlightHours": 2.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        156,
+        248
+      ],
+      "estimatedFlightHours": 2.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        176,
+        279
+      ],
+      "estimatedFlightHours": 2.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        148,
+        235
+      ],
+      "estimatedFlightHours": 2.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        111,
+        176
+      ],
+      "estimatedFlightHours": 1.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        186,
+        296
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        156,
+        248
+      ],
+      "estimatedFlightHours": 2.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1324,
+        2103
+      ],
+      "estimatedFlightHours": 24.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1477,
+        2346
+      ],
+      "estimatedFlightHours": 27,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        575,
+        914
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        848,
+        1347
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        789,
+        1253
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        803,
+        1276
+      ],
+      "estimatedFlightHours": 14.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        870,
+        1381
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        785,
+        1247
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        847,
+        1346
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        927,
+        1473
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        898,
+        1427
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        837,
+        1330
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        454,
+        721
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        402,
+        639
+      ],
+      "estimatedFlightHours": 6.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        430,
+        683
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        392,
+        622
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        637,
+        1011
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        694,
+        1103
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Ibiza Airport (IBZ)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        765,
+        1215
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Dalt Vila (walled old town) guided tour",
+    "Es Vedrà boat trip",
+    "Beach club day bed at Blue Marlin or Ushuaïa",
+    "Hippy Market at Las Dalias",
+    "Ibiza nightclub entry (Pacha, Amnesia, Hï Ibiza)",
+    "Formentera day-trip ferry",
+    "Dalt Vila walls exterior walk",
+    "Cala Comte sunset viewpoint",
+    "Es Vedrà viewpoint from the cliffs",
+    "Ibiza Town marina promenade",
+    "Formentera island (ferry from Ibiza Town)",
+    "Santa Gertrudis village",
+    "Es Vedrà and Cala d'Hort",
+    "Santa Eulalia countryside",
+    "Museu d'Art Contemporani d'Eivissa",
+    "Dalt Vila Cathedral and Archaeology Museum",
+    "Ses Salines Natural Park (salt flats & beaches)",
+    "Cala Comte",
+    "Cala Bassa",
+    "Playa d'en Bossa",
+    "Ses Salines Beach",
+    "Es Vedrà at sunset from Cala d'Hort",
+    "Dalt Vila's cathedral and city walls",
+    "Cala Comte turquoise water",
+    "Ibiza Town marina with the old town backdrop"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Dalt Vila (walled old town) guided tour",
+      "priceUSD": 10
+    },
+    {
+      "name": "Es Vedrà boat trip",
+      "priceUSD": 45
+    },
+    {
+      "name": "Beach club day bed at Blue Marlin or Ushuaïa",
+      "priceUSD": 80
+    },
+    {
+      "name": "Hippy Market at Las Dalias",
+      "priceUSD": 0
+    },
+    {
+      "name": "Ibiza nightclub entry (Pacha, Amnesia, Hï Ibiza)",
+      "priceUSD": 60
+    },
+    {
+      "name": "Formentera day-trip ferry",
+      "priceUSD": 40
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Dalt Vila walls exterior walk",
+    "Cala Comte sunset viewpoint",
+    "Es Vedrà viewpoint from the cliffs",
+    "Ibiza Town marina promenade"
+  ],
+  "museums": [
+    "Museu d'Art Contemporani d'Eivissa",
+    "Dalt Vila Cathedral and Archaeology Museum"
+  ],
+  "parks": [
+    "Ses Salines Natural Park (salt flats & beaches)"
+  ],
+  "beaches": [
+    "Cala Comte",
+    "Cala Bassa",
+    "Playa d'en Bossa",
+    "Ses Salines Beach"
+  ],
+  "dayTrips": [
+    "Formentera island (ferry from Ibiza Town)",
+    "Santa Gertrudis village",
+    "Es Vedrà and Cala d'Hort",
+    "Santa Eulalia countryside"
+  ],
+  "fromPriceUSD": 1678,
+  "seo": {
+    "title": "Ibiza 14-Day Nightlife Getaway | Flights, Hotels & Tours Included",
+    "slug": "ibiza-14-day-package",
+    "keywords": [
+      "Ibiza",
+      "Spain",
+      "Ibiza, Spain",
+      "Mediterranean",
+      "Ibiza tour package",
+      "Ibiza vacation package",
+      "Ibiza holiday package",
+      "things to do in Ibiza",
+      "best time to visit Ibiza",
+      "Ibiza itinerary",
+      "14 day Ibiza itinerary",
+      "Ibiza flights and hotels",
+      "Ibiza all inclusive package",
+      "cheap Ibiza package",
+      "luxury Ibiza package"
+    ],
+    "canonicalUrl": "/packages/ibiza-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Ibiza Package",
+        "url": "/packages/ibiza-10-day-package"
+      },
+      {
+        "title": "7-Day Ibiza Package",
+        "url": "/packages/ibiza-7-day-package"
+      },
+      {
+        "title": "Mykonos 14-Day Beach Getaway",
+        "url": "/packages/mykonos-14-day-package"
+      },
+      {
+        "title": "Santorini 14-Day Beach Getaway",
+        "url": "/packages/santorini-14-day-package"
+      },
+      {
+        "title": "Nice 14-Day Beach Getaway",
+        "url": "/packages/nice-french-riviera-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Ibiza — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ibiza"
+      },
+      {
+        "title": "Ibiza — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Ibiza"
+      }
+    ]
+  }
+}

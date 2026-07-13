@@ -1,0 +1,1627 @@
+{
+  "id": "PKG-antalya-7D",
+  "slug": "antalya-7-day-package",
+  "destinationSlug": "antalya",
+  "destinationName": "Antalya",
+  "country": "Turkey",
+  "region": "Mediterranean",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Antalya 7-Day Beach Getaway",
+  "metaTitle": "Antalya 7-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Antalya, Turkey: round-trip flights, hotel, breakfast, transfers, and guided tours including Aspendos Roman Theatre and Düden Waterfalls boat tour. Prices from $1241 per person (estimate).",
+  "highlights": [
+    "Aspendos Roman Theatre",
+    "Düden Waterfalls boat tour",
+    "Kaleiçi (old town) streets",
+    "Köprülü Canyon white-water rafting",
+    "Perge and Aspendos ancient cities"
+  ],
+  "overview": "Spend 7 days discovering Antalya, Turkey — Mediterranean climate — hot, dry summers (June-August, highs 33-36°C) perfect for the beach, and mild, wetter winters (December-February, highs around 15°C) with occasional rain. The sea stays swimmable May through October. May-June and September-October offer warm, sunny weather ideal for beaches and sightseeing without the intense heat and peak crowds of July-August. This itinerary blends Aspendos Roman Theatre, Düden Waterfalls boat tour, Kaleiçi (old town) streets with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Aspendos Roman Theatre, Düden Waterfalls boat tour, Kaleiçi (old town) streets",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Antalya",
+      "description": "Land at Antalya Airport (AYT) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Aspendos Roman Theatre — One of the best-preserved Roman theatres in the world, still used for performances. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Aspendos Roman Theatre"
+      ],
+      "overnight": "Antalya"
+    },
+    {
+      "day": 2,
+      "title": "Antalya: Düden Waterfalls boat tour & Antalya Aquarium",
+      "description": "Morning visit to Düden Waterfalls boat tour — Boat trip to see the falls cascade directly into the Mediterranean. In the afternoon, continue to Antalya Aquarium — One of the world's longest underwater tunnel aquariums. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Düden Waterfalls boat tour",
+        "Antalya Aquarium"
+      ],
+      "overnight": "Antalya"
+    },
+    {
+      "day": 3,
+      "title": "Antalya: Perge ancient city ruins & Antalya cable car (Tünektepe)",
+      "description": "Morning visit to Perge ancient city ruins — Extensive Greco-Roman ruins including a stadium and colonnaded street. In the afternoon, continue to Antalya cable car (Tünektepe) — Panoramic views over the city, mountains, and coastline. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Perge ancient city ruins",
+        "Antalya cable car (Tünektepe)"
+      ],
+      "overnight": "Antalya"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Perge and Aspendos ancient cities",
+      "description": "Full-day excursion to Perge and Aspendos ancient cities, a popular side trip from Antalya. Return to Antalya in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Perge and Aspendos ancient cities",
+        "Free evening"
+      ],
+      "overnight": "Antalya"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Termessos ancient mountain city ruins — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Termessos ancient mountain city ruins"
+      ],
+      "overnight": "Antalya"
+    },
+    {
+      "day": 6,
+      "title": "Antalya: Köprülü Canyon white-water rafting & Kaleiçi (old town) streets",
+      "description": "Morning visit to Köprülü Canyon white-water rafting — Popular half-day rafting trip through a scenic canyon. In the afternoon, continue to Kaleiçi (old town) streets — Ottoman-era cobblestone quarter with the historic harbor and Hıdırlık Tower. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Köprülü Canyon white-water rafting",
+        "Kaleiçi (old town) streets"
+      ],
+      "overnight": "Antalya"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Hadrian's Gate or some souvenir shopping — before your private transfer to AYT for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "The Antray tram is the easiest way to get from the airport to Kaleiçi and the beaches.",
+    "Visit Aspendos and Perge early morning to avoid both the heat and tour-group crowds.",
+    "Bargain at Kaleiçi bazaars — starting around 30-40% below the asking price is normal.",
+    "Book Köprülü Canyon rafting trips in advance during July-August peak season.",
+    "The sea is warm and swimmable from late May through October.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Swimwear and reef-safe sunscreen",
+    "Comfortable shoes for Kaleiçi's cobblestones and ancient ruin sites",
+    "A light cover-up for mosque visits",
+    "Light layers for cooler spring/autumn evenings"
+  ],
+  "thingsToDo": [
+    "Aspendos Roman Theatre",
+    "Düden Waterfalls boat tour",
+    "Antalya Aquarium",
+    "Perge ancient city ruins",
+    "Antalya cable car (Tünektepe)",
+    "Köprülü Canyon white-water rafting",
+    "Kaleiçi (old town) streets",
+    "Hadrian's Gate",
+    "Yivli Minare (Fluted Minaret)",
+    "Karaalioğlu Park",
+    "Antalya Marina promenade",
+    "Paragliding over Antalya's coastline",
+    "Taurus Mountains jeep safari",
+    "Scuba diving Kaş's underwater sites (day trip)",
+    "The Land of Legends theme park",
+    "Konyaaltı Beach",
+    "Dolphinarium shows"
+  ],
+  "thingsToAvoid": [
+    "Walking Kaleiçi's cobblestones in flip-flops or heels — sturdy shoes make a real difference.",
+    "Visiting major ruin sites (Aspendos, Perge) at midday in summer without sun protection.",
+    "Overpaying at tourist-facing restaurants directly on the marina without checking a menu with prices first.",
+    "Assuming taxi meters are always used — confirm the driver starts the meter or agree a fare upfront."
+  ],
+  "topRestaurants": [
+    "Vanilla Lounge — Modern Mediterranean ($$$)",
+    "Seraser Fine Dining — Ottoman & Mediterranean Fine Dining ($$$$)",
+    "Parlakoglu Restaurant — Traditional Turkish ($$)",
+    "Kaleiçi kebab houses — Turkish Kebab & Grill ($)",
+    "Kral Sofrasi — Traditional Anatolian ($$)",
+    "Antalya seafront meyhanes — Turkish Meze & Seafood ($$)"
+  ],
+  "topCafes": [
+    "Kaleiçi Turkish tea gardens",
+    "Sissi Restaurant & Café",
+    "Marina Lounge cafes",
+    "Hasanağa Konağı courtyard café"
+  ],
+  "shoppingAreas": [
+    "Kaleiçi bazaars",
+    "MarkAntalya mall",
+    "TerraCity shopping center",
+    "Antalya Grand Bazaar"
+  ],
+  "nightlife": [
+    "Kaleiçi harbor bars",
+    "Marina rooftop lounges",
+    "Lara Beach clubs",
+    "Konyaaltı beachfront bars"
+  ],
+  "instagramSpots": [
+    "Kaleiçi harbor with the old town backdrop",
+    "Düden Waterfalls cliff drop into the sea",
+    "Yivli Minare against the sky",
+    "Konyaaltı Beach with Taurus Mountains behind"
+  ],
+  "hiddenGems": [
+    "Termessos ancient mountain city ruins",
+    "Karain Cave archaeological site",
+    "Olympos ancient ruins and Chimaera eternal flames",
+    "Side's quieter Temple of Apollo at sunset"
+  ],
+  "familyActivities": [
+    "Antalya Aquarium",
+    "The Land of Legends theme park",
+    "Konyaaltı Beach",
+    "Dolphinarium shows"
+  ],
+  "adventureActivities": [
+    "Köprülü Canyon white-water rafting",
+    "Paragliding over Antalya's coastline",
+    "Taurus Mountains jeep safari",
+    "Scuba diving Kaş's underwater sites (day trip)"
+  ],
+  "luxuryExperiences": [
+    "Private yacht charter along the Turkish Riviera",
+    "Spa day at a 5-star Belek resort",
+    "Fine dining tasting menu at Seraser",
+    "Private guided tour of Aspendos and Perge"
+  ],
+  "honeymoonExperiences": [
+    "Sunset dinner cruise from Antalya Marina",
+    "Private beach cabana at a Belek resort",
+    "Couples Turkish hammam experience",
+    "Romantic stroll through Kaleiçi's lantern-lit lanes"
+  ],
+  "budgetExperiences": [
+    "Free walking tour of Kaleiçi and Hadrian's Gate",
+    "Konyaaltı and Lara public beaches",
+    "Karaalioğlu Park clifftop views",
+    "Local kebab and çay for just a few dollars"
+  ],
+  "estimatedDailyBudgetUSD": [
+    30,
+    65,
+    140,
+    320
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 4,
+  "walkingScore": 68,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 15,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 16,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 21,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 31,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 34,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 34,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 25,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 20,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 16,
+      "crowd": "Low"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Antalya International Film Festival (Golden Orange)",
+      "timing": "October"
+    },
+    {
+      "name": "Aspendos International Opera & Ballet Festival",
+      "timing": "June-July"
+    },
+    {
+      "name": "Antalya Sand Sculpture Festival",
+      "timing": "Summer season"
+    },
+    {
+      "name": "Republic Day celebrations",
+      "timing": "October 29"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "155",
+    "ambulance": "112",
+    "fire": "110"
+  },
+  "localEtiquette": [
+    "A polite greeting and small talk before business is customary, even in shops and taxis.",
+    "Modest dress is appreciated when visiting mosques (headscarves for women, covered shoulders/knees for all).",
+    "Turkish hospitality often includes offers of tea (çay) — accepting is polite, even briefly.",
+    "Bargaining is expected and enjoyed in the bazaars of Kaleiçi, but not in fixed-price stores.",
+    "Remove shoes when entering a mosque or a local home."
+  ],
+  "localTransportGuide": "Antalya has an efficient tram (Antray) connecting the airport, city center, and Konyaaltı Beach. Dolmuş (shared minibuses) cover routes buses don't, and taxis are metered and affordable. Most beach resorts along the coast (Belek, Side, Lara) are more easily reached by rental car or organized transfer.",
+  "bestTimeToVisit": "May-June and September-October offer warm, sunny weather ideal for beaches and sightseeing without the intense heat and peak crowds of July-August.",
+  "weather": "Mediterranean climate — hot, dry summers (June-August, highs 33-36°C) perfect for the beach, and mild, wetter winters (December-February, highs around 15°C) with occasional rain. The sea stays swimmable May through October.",
+  "visaInformation": "US, Canadian, and Australian citizens generally need an e-Visa (obtainable online in minutes); most EU/UK citizens can enter visa-free for short stays. Verify current requirements against your specific passport before travel.",
+  "currency": "TRY",
+  "languages": [
+    "Turkish"
+  ],
+  "timeZone": "TRT (UTC+3)",
+  "averageFlightTime": "~9.6h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Antalya Airport (AYT)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Antalya?",
+      "answer": "US, Canadian, and Australian citizens generally need an e-Visa (obtainable online in minutes); most EU/UK citizens can enter visa-free for short stays. Verify current requirements against your specific passport before travel."
+    },
+    {
+      "question": "What is the best time to visit Antalya?",
+      "answer": "May-June and September-October offer warm, sunny weather ideal for beaches and sightseeing without the intense heat and peak crowds of July-August. Mediterranean climate — hot, dry summers (June-August, highs 33-36°C) perfect for the beach, and mild, wetter winters (December-February, highs around 15°C) with occasional rain. The sea stays swimmable May through October."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Antalya safe for tourists?",
+      "answer": "Antalya is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Antalya?",
+      "answer": "The local currency is TRY. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include Antalya Aquarium."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "History",
+    "Culture",
+    "Family",
+    "Adventure",
+    "Summer"
+  ],
+  "aiTags": [
+    "Antalya",
+    "Turkey",
+    "Antalya, Turkey",
+    "Mediterranean",
+    "Antalya tour package",
+    "Antalya vacation package",
+    "Antalya holiday package",
+    "things to do in Antalya",
+    "best time to visit Antalya",
+    "Antalya itinerary",
+    "7 day Antalya itinerary",
+    "Antalya flights and hotels",
+    "Antalya all inclusive package",
+    "cheap Antalya package",
+    "luxury Antalya package",
+    "Antalya honeymoon package",
+    "Antalya family vacation",
+    "Antalya solo trip",
+    "Antalya group tour",
+    "Antalya weekend getaway",
+    "Antalya guided tour",
+    "AYT flights",
+    "Antalya travel guide",
+    "book Antalya trip online",
+    "Antalya trip cost",
+    "Antalya packages 7 days",
+    "Antalya beach",
+    "Antalya history",
+    "Antalya culture",
+    "Antalya family",
+    "Antalya adventure",
+    "Antalya summer",
+    "Aspendos Roman Theatre",
+    "Düden Waterfalls boat tour",
+    "Antalya Aquarium",
+    "Perge ancient city ruins",
+    "Antalya cable car (Tünektepe)",
+    "Köprülü Canyon white-water rafting",
+    "Kaleiçi (old town) streets",
+    "Hadrian's Gate",
+    "Yivli Minare (Fluted Minaret)",
+    "Karaalioğlu Park",
+    "Antalya Marina promenade",
+    "Vanilla Lounge",
+    "Seraser Fine Dining",
+    "Parlakoglu Restaurant",
+    "Kaleiçi kebab houses",
+    "Kral Sofrasi",
+    "Kaleiçi harbor with the old town backdrop",
+    "Düden Waterfalls cliff drop into the sea"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Antalya, Turkey — Düden Waterfalls sea cliff",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Düden Waterfalls sea cliff",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Düden Waterfalls sea cliff",
+      "pexelsQuery": "Antalya Düden Waterfalls sea cliff",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Antalya, Turkey — Aspendos Roman theatre",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Aspendos Roman theatre",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Aspendos Roman theatre",
+      "pexelsQuery": "Antalya Aspendos Roman theatre",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Antalya, Turkey — Kaleiçi old town harbor Antalya",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi old town harbor Antalya",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "pexelsQuery": "Antalya Kaleiçi old town harbor Antalya",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Antalya, Turkey — Düden Waterfalls sea cliff",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Düden Waterfalls sea cliff",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Düden Waterfalls sea cliff",
+      "pexelsQuery": "Antalya Düden Waterfalls sea cliff",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Antalya, Turkey — Aspendos Roman theatre",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Aspendos Roman theatre",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Aspendos Roman theatre",
+      "pexelsQuery": "Antalya Aspendos Roman theatre",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Antalya, Turkey — Turkish Riviera coastline",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Turkish Riviera coastline",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Turkish Riviera coastline",
+      "pexelsQuery": "Antalya Turkish Riviera coastline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Antalya, Turkey — Düden Waterfalls boat tour",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Düden Waterfalls boat tour",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Düden Waterfalls boat tour",
+      "pexelsQuery": "Antalya Düden Waterfalls boat tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Antalya, Turkey — Antalya Aquarium",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Antalya Aquarium",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Antalya Aquarium",
+      "pexelsQuery": "Antalya Antalya Aquarium",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Antalya, Turkey — Perge ancient city ruins",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Perge ancient city ruins",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Perge ancient city ruins",
+      "pexelsQuery": "Antalya Perge ancient city ruins",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Antalya, Turkey — Kaleiçi harbor with the old town backdrop",
+      "keywords": [
+        "Antalya",
+        "Turkey",
+        "Kaleiçi harbor with the old town backdrop",
+        "Beach",
+        "History"
+      ],
+      "unsplashQuery": "Antalya Kaleiçi harbor with the old town backdrop",
+      "pexelsQuery": "Antalya Kaleiçi harbor with the old town backdrop",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-antalya-7-1",
+      "author": "Wei van Dijk",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-10-21",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a solo trip and it was well paced. Köprülü Canyon white-water rafting in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-2",
+      "author": "Isabella Williams",
+      "country": "Germany",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-11-14",
+      "title": "Highly recommend this package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Antalya Aquarium and Aspendos Roman Theatre. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-3",
+      "author": "James Müller",
+      "country": "Switzerland",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-01-07",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Antalya was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Yivli Minare (Fluted Minaret) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-antalya-7-4",
+      "author": "Fatima Ibrahim",
+      "country": "Saudi Arabia",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-03",
+      "title": "A little rushed but still wonderful",
+      "body": "Karaalioğlu Park alone was worth the trip, but combined with Perge ancient city ruins this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-5",
+      "author": "Daniel Fernandez",
+      "country": "Brazil",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-03-07",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Kaleiçi (old town) streets and Yivli Minare (Fluted Minaret). Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-6",
+      "author": "Chen Fernandez",
+      "country": "Saudi Arabia",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-30",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a couple trip and it was well paced. Karaalioğlu Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-7",
+      "author": "James Cohen",
+      "country": "Spain",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3,
+      "date": "2025-10-28",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to Antalya was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Antalya Marina promenade was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-8",
+      "author": "Liam Larsen",
+      "country": "Australia",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-06-02",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Antalya was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Antalya Aquarium was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-9",
+      "author": "Grace Smith",
+      "country": "South Korea",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-03-20",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Antalya cable car (Tünektepe) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-antalya-7-10",
+      "author": "Emma Fernandez",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-10-31",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Antalya was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kaleiçi (old town) streets was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-11",
+      "author": "Wei Brown",
+      "country": "Switzerland",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-29",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a family of 4 trip and it was well paced. Yivli Minare (Fluted Minaret) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-12",
+      "author": "Anna Ibrahim",
+      "country": "Brazil",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-05-14",
+      "title": "Exceeded our expectations",
+      "body": "Antalya is stunning and this package covered the essentials well, especially Kaleiçi (old town) streets. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-13",
+      "author": "Olivia Dubois",
+      "country": "Italy",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-24",
+      "title": "Exceeded our expectations",
+      "body": "Our trip to Antalya was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Antalya Marina promenade was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-antalya-7-14",
+      "author": "Chen Smith",
+      "country": "Netherlands",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-09-05",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a couple trip and it was well paced. Hadrian's Gate in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-antalya-7-15",
+      "author": "Tom Müller",
+      "country": "India",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-08-09",
+      "title": "Worth every penny",
+      "body": "We added a couple of optional activities beyond Perge ancient city ruins and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-16",
+      "author": "Fatima Smith",
+      "country": "UAE",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-04-14",
+      "title": "So many hidden gems included",
+      "body": "Antalya cable car (Tünektepe) alone was worth the trip, but combined with Kaleiçi (old town) streets this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-17",
+      "author": "Ava Patel",
+      "country": "Saudi Arabia",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-22",
+      "title": "Solid mid-range package",
+      "body": "Karaalioğlu Park alone was worth the trip, but combined with Aspendos Roman Theatre this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-18",
+      "author": "Wei Rossi",
+      "country": "South Korea",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-08",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a couple trip and it was well paced. Antalya cable car (Tünektepe) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-19",
+      "author": "Liam Johnson",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-02-16",
+      "title": "Exceeded our expectations",
+      "body": "Our trip to Antalya was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Perge ancient city ruins was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-antalya-7-20",
+      "author": "David Kim",
+      "country": "UAE",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-06-09",
+      "title": "Highly recommend this package",
+      "body": "Antalya is stunning and this package covered the essentials well, especially Antalya cable car (Tünektepe). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.1,
+    "food": 4.2,
+    "hotel": 4.1,
+    "transportation": 4.1,
+    "activities": 4.2,
+    "value": 4.1,
+    "cleanliness": 4.1,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Antalya Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 7,
+      "neighborhood": "Kaleiçi bazaars"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Antalya Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 12,
+      "neighborhood": "MarkAntalya mall"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Antalya Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 23,
+      "neighborhood": "TerraCity shopping center"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Antalya Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 29,
+      "neighborhood": "Antalya Grand Bazaar"
+    },
+    {
+      "tier": "Resort",
+      "name": "Antalya Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 70,
+      "neighborhood": "Kaleiçi harbor bars"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Antalya Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 134,
+      "neighborhood": "Marina rooftop lounges"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Antalya Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "Lara Beach clubs"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        689,
+        1095
+      ],
+      "estimatedFlightHours": 12.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        700,
+        1111
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        287,
+        456
+      ],
+      "estimatedFlightHours": 4.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        268,
+        425
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        242,
+        385
+      ],
+      "estimatedFlightHours": 3.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        196,
+        312
+      ],
+      "estimatedFlightHours": 3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        293,
+        466
+      ],
+      "estimatedFlightHours": 4.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        268,
+        425
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        232,
+        369
+      ],
+      "estimatedFlightHours": 3.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1138,
+        1808
+      ],
+      "estimatedFlightHours": 20.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1293,
+        2053
+      ],
+      "estimatedFlightHours": 23.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        394,
+        626
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        735,
+        1168
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        660,
+        1049
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        658,
+        1045
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        685,
+        1088
+      ],
+      "estimatedFlightHours": 12.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        604,
+        960
+      ],
+      "estimatedFlightHours": 10.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        663,
+        1053
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        741,
+        1177
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        731,
+        1161
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        657,
+        1044
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        269,
+        428
+      ],
+      "estimatedFlightHours": 4.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        224,
+        355
+      ],
+      "estimatedFlightHours": 3.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        247,
+        392
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        207,
+        329
+      ],
+      "estimatedFlightHours": 3.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        584,
+        927
+      ],
+      "estimatedFlightHours": 10.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        836,
+        1328
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Antalya Airport (AYT)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        932,
+        1480
+      ],
+      "estimatedFlightHours": 16.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Aspendos Roman Theatre",
+    "Düden Waterfalls boat tour",
+    "Antalya Aquarium",
+    "Perge ancient city ruins",
+    "Antalya cable car (Tünektepe)",
+    "Köprülü Canyon white-water rafting",
+    "Kaleiçi (old town) streets",
+    "Hadrian's Gate",
+    "Yivli Minare (Fluted Minaret)",
+    "Karaalioğlu Park",
+    "Antalya Marina promenade",
+    "Perge and Aspendos ancient cities",
+    "Termessos mountain ruins",
+    "Side ancient port town",
+    "Köprülü Canyon rafting",
+    "Antalya Museum (Antalya Müzesi)",
+    "Suna & İnan Kıraç Kaleiçi Museum",
+    "Konyaaltı Beach Park",
+    "Konyaaltı Beach",
+    "Lara Beach",
+    "Cleopatra Beach (Alanya, day trip)",
+    "Kaleiçi harbor with the old town backdrop",
+    "Düden Waterfalls cliff drop into the sea",
+    "Yivli Minare against the sky",
+    "Konyaaltı Beach with Taurus Mountains behind"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Aspendos Roman Theatre",
+      "priceUSD": 6
+    },
+    {
+      "name": "Düden Waterfalls boat tour",
+      "priceUSD": 20
+    },
+    {
+      "name": "Antalya Aquarium",
+      "priceUSD": 25
+    },
+    {
+      "name": "Perge ancient city ruins",
+      "priceUSD": 6
+    },
+    {
+      "name": "Antalya cable car (Tünektepe)",
+      "priceUSD": 12
+    },
+    {
+      "name": "Köprülü Canyon white-water rafting",
+      "priceUSD": 35
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Kaleiçi (old town) streets",
+    "Hadrian's Gate",
+    "Yivli Minare (Fluted Minaret)",
+    "Karaalioğlu Park",
+    "Antalya Marina promenade"
+  ],
+  "museums": [
+    "Antalya Museum (Antalya Müzesi)",
+    "Suna & İnan Kıraç Kaleiçi Museum"
+  ],
+  "parks": [
+    "Karaalioğlu Park",
+    "Konyaaltı Beach Park"
+  ],
+  "beaches": [
+    "Konyaaltı Beach",
+    "Lara Beach",
+    "Cleopatra Beach (Alanya, day trip)"
+  ],
+  "dayTrips": [
+    "Perge and Aspendos ancient cities",
+    "Termessos mountain ruins",
+    "Side ancient port town",
+    "Köprülü Canyon rafting"
+  ],
+  "fromPriceUSD": 1241,
+  "seo": {
+    "title": "Antalya 7-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "antalya-7-day-package",
+    "keywords": [
+      "Antalya",
+      "Turkey",
+      "Antalya, Turkey",
+      "Mediterranean",
+      "Antalya tour package",
+      "Antalya vacation package",
+      "Antalya holiday package",
+      "things to do in Antalya",
+      "best time to visit Antalya",
+      "Antalya itinerary",
+      "7 day Antalya itinerary",
+      "Antalya flights and hotels",
+      "Antalya all inclusive package",
+      "cheap Antalya package",
+      "luxury Antalya package"
+    ],
+    "canonicalUrl": "/packages/antalya-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Antalya Package",
+        "url": "/packages/antalya-5-day-package"
+      },
+      {
+        "title": "10-Day Antalya Package",
+        "url": "/packages/antalya-10-day-package"
+      },
+      {
+        "title": "Da Nang 7-Day Beach Getaway",
+        "url": "/packages/da-nang-7-day-package"
+      },
+      {
+        "title": "Goa 7-Day Beach Getaway",
+        "url": "/packages/goa-7-day-package"
+      },
+      {
+        "title": "San Juan 7-Day Beach Getaway",
+        "url": "/packages/san-juan-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Antalya — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Antalya"
+      },
+      {
+        "title": "Antalya — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Antalya"
+      }
+    ]
+  }
+}

@@ -366,7 +366,7 @@
     "Japanese"
   ],
   "timeZone": "JST (UTC+9)",
-  "averageFlightTime": "~11.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "averageFlightTime": "~11.2h from major hubs (estimate; varies by origin — see Suggested Flights)",
   "nearestAirport": "Kansai International Airport (KIX)",
   "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
   "termsAndConditions": [
@@ -1291,6 +1291,21 @@
       "isEstimate": true
     },
     {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        175,
+        278
+      ],
+      "estimatedFlightHours": 2.6,
+      "isEstimate": true
+    },
+    {
       "originMarket": "SG",
       "originAirport": "Singapore (major international gateway)",
       "destinationAirport": "Kansai International Airport (KIX)",
@@ -1577,16 +1592,16 @@
         "url": "/packages/osaka-14-day-package"
       },
       {
+        "title": "Kuala Lumpur 10-Day City Break",
+        "url": "/packages/kuala-lumpur-10-day-package"
+      },
+      {
         "title": "London 10-Day City Break",
         "url": "/packages/london-10-day-package"
       },
       {
         "title": "Barcelona 10-Day City Break",
         "url": "/packages/barcelona-10-day-package"
-      },
-      {
-        "title": "Lisbon 10-Day City Break",
-        "url": "/packages/lisbon-10-day-package"
       }
     ],
     "externalLinks": [

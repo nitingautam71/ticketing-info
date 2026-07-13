@@ -315,7 +315,7 @@
     "Catalan"
   ],
   "timeZone": "CET (UTC+1)",
-  "averageFlightTime": "~10.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "averageFlightTime": "~10.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
   "nearestAirport": "Barcelona–El Prat Airport (BCN)",
   "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
   "termsAndConditions": [
@@ -1238,6 +1238,21 @@
         1223
       ],
       "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Barcelona–El Prat Airport (BCN)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        786,
+        1249
+      ],
+      "estimatedFlightHours": 14,
       "isEstimate": true
     },
     {

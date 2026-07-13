@@ -332,7 +332,7 @@
     "Māori"
   ],
   "timeZone": "NZST (UTC+12)",
-  "averageFlightTime": "~17.6h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "averageFlightTime": "~17.4h from major hubs (estimate; varies by origin — see Suggested Flights)",
   "nearestAirport": "Auckland Airport (AKL)",
   "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
   "termsAndConditions": [
@@ -1253,6 +1253,21 @@
         1226
       ],
       "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        754,
+        1197
+      ],
+      "estimatedFlightHours": 13.4,
       "isEstimate": true
     },
     {

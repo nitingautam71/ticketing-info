@@ -329,7 +329,7 @@
     "Spanish"
   ],
   "timeZone": "Galápagos Time (UTC-6)",
-  "averageFlightTime": "~17.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "averageFlightTime": "~17.8h from major hubs (estimate; varies by origin — see Suggested Flights)",
   "nearestAirport": "Seymour Airport (Baltra) (GPS)",
   "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
   "termsAndConditions": [
@@ -1250,6 +1250,21 @@
         1783
       ],
       "estimatedFlightHours": 20.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CN",
+      "originAirport": "Shanghai (major international gateway)",
+      "destinationAirport": "Seymour Airport (Baltra) (GPS)",
+      "airlines": [
+        "Air China",
+        "China Eastern Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1183,
+        1879
+      ],
+      "estimatedFlightHours": 21.5,
       "isEstimate": true
     },
     {
