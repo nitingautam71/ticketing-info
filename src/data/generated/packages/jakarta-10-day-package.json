@@ -1,0 +1,1601 @@
+{
+  "id": "PKG-jakarta-10D",
+  "slug": "jakarta-10-day-package",
+  "destinationSlug": "jakarta",
+  "destinationName": "Jakarta",
+  "country": "Indonesia",
+  "region": "Southeast Asia",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Jakarta 10-Day City Break",
+  "metaTitle": "Jakarta 10-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Jakarta, Indonesia: round-trip flights, hotel, breakfast, transfers, and guided tours including National Monument (Monas) and Ancol Dreamland. Prices from $2189 per person (estimate).",
+  "highlights": [
+    "National Monument (Monas)",
+    "Ancol Dreamland",
+    "Kota Tua (Old Town)",
+    "Thousand Islands (Kepulauan Seribu)"
+  ],
+  "overview": "Spend 10 days discovering Jakarta, Indonesia — Tropical climate — hot and humid year-round (highs around 31-33°C), with a wetter monsoon season roughly November to March. May to September — the dry season, avoiding the heaviest monsoon rains. This itinerary blends National Monument (Monas), Ancol Dreamland, Kota Tua (Old Town) with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including National Monument (Monas), Ancol Dreamland, Kota Tua (Old Town)",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Jakarta",
+      "description": "Land at Soekarno-Hatta International Airport (CGK) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to National Monument (Monas) — Independence monument with an observation deck over the city. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "National Monument (Monas)"
+      ],
+      "overnight": "Jakarta"
+    },
+    {
+      "day": 2,
+      "title": "Jakarta: Ancol Dreamland & Taman Mini Indonesia Indah",
+      "description": "Morning visit to Ancol Dreamland — Waterfront entertainment complex with beaches, an aquarium, and theme parks. In the afternoon, continue to Taman Mini Indonesia Indah — Cultural park showcasing all of Indonesia's provinces in miniature. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Ancol Dreamland",
+        "Taman Mini Indonesia Indah"
+      ],
+      "overnight": "Jakarta"
+    },
+    {
+      "day": 3,
+      "title": "Jakarta: Museum MACAN & Kota Tua (Old Town)",
+      "description": "Morning visit to Museum MACAN — Modern and contemporary art museum. In the afternoon, continue to Kota Tua (Old Town) — Dutch colonial-era square and buildings, Jakarta's historic core. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Museum MACAN",
+        "Kota Tua (Old Town)"
+      ],
+      "overnight": "Jakarta"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Thousand Islands (Kepulauan Seribu)",
+      "description": "Full-day excursion to Thousand Islands (Kepulauan Seribu), a popular side trip from Jakarta. Return to Jakarta in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Thousand Islands (Kepulauan Seribu)",
+        "Free evening"
+      ],
+      "overnight": "Jakarta"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Menteng heritage neighborhood — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Menteng heritage neighborhood"
+      ],
+      "overnight": "Jakarta"
+    },
+    {
+      "day": 6,
+      "title": "Jakarta: Istiqlal Mosque & Sunda Kelapa harbor",
+      "description": "Morning visit to Istiqlal Mosque — One of the largest mosques in Southeast Asia, open to respectful visitors. In the afternoon, continue to Sunda Kelapa harbor — Historic port still used by traditional wooden Bugis schooners. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Istiqlal Mosque",
+        "Sunda Kelapa harbor"
+      ],
+      "overnight": "Jakarta"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Bogor Botanical Gardens",
+      "description": "Full-day excursion to Bogor Botanical Gardens, a popular side trip from Jakarta. Return to Jakarta in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Bogor Botanical Gardens",
+        "Free evening"
+      ],
+      "overnight": "Jakarta"
+    },
+    {
+      "day": 8,
+      "title": "Jakarta: National Monument (Monas) & Ancol Dreamland",
+      "description": "Morning visit to National Monument (Monas) — Independence monument with an observation deck over the city. In the afternoon, continue to Ancol Dreamland — Waterfront entertainment complex with beaches, an aquarium, and theme parks. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "National Monument (Monas)",
+        "Ancol Dreamland"
+      ],
+      "overnight": "Jakarta"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Setu Babakan Betawi cultural village — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Setu Babakan Betawi cultural village"
+      ],
+      "overnight": "Jakarta"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Taman Mini Indonesia Indah or some souvenir shopping — before your private transfer to CGK for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Use the MRT or TransJakarta for cross-city trips to avoid Jakarta's severe traffic congestion.",
+    "Gojek and Grab motorbike rides are often the fastest way to cover short distances.",
+    "Visit Kota Tua and Sunda Kelapa together as a half-day historic-district outing.",
+    "A Thousand Islands day trip is an easy escape from the city's heat and traffic.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Lightweight, breathable clothing for the heat and humidity",
+    "A light rain jacket for sudden downpours",
+    "Modest clothing for mosque visits"
+  ],
+  "thingsToDo": [
+    "National Monument (Monas)",
+    "Ancol Dreamland",
+    "Taman Mini Indonesia Indah",
+    "Museum MACAN",
+    "Kota Tua (Old Town)",
+    "Istiqlal Mosque",
+    "Sunda Kelapa harbor",
+    "Thousand Islands (Kepulauan Seribu) day trip snorkeling",
+    "Cycling Ancol's waterfront paths",
+    "Ancol Dreamland theme parks and aquarium",
+    "Ragunan Zoo"
+  ],
+  "thingsToAvoid": [
+    "Underestimating travel times — traffic can turn a short distance into an hour-plus trip.",
+    "Drinking tap water — stick to bottled or filtered water.",
+    "Visiting Istiqlal Mosque without modest dress."
+  ],
+  "topRestaurants": [
+    "Batavia Cafe — Colonial-era ambiance, international ($$$)",
+    "Sate Khas Senayan — Indonesian satay ($$)",
+    "Warung Tekko — Traditional Indonesian ($)"
+  ],
+  "topCafes": [
+    "Anomali Coffee",
+    "Filosofi Kopi"
+  ],
+  "shoppingAreas": [
+    "Grand Indonesia Mall",
+    "Plaza Indonesia",
+    "Tanah Abang textile market"
+  ],
+  "nightlife": [
+    "SCBD (Sudirman Central Business District) bars",
+    "Skye Bar rooftop",
+    "Kemang nightlife district"
+  ],
+  "instagramSpots": [
+    "National Monument at sunset",
+    "Kota Tua colonial architecture",
+    "Istiqlal Mosque interior",
+    "Sunda Kelapa wooden schooners"
+  ],
+  "hiddenGems": [
+    "Menteng heritage neighborhood",
+    "Setu Babakan Betawi cultural village",
+    "Glodok (Jakarta's Chinatown)"
+  ],
+  "familyActivities": [
+    "Ancol Dreamland theme parks and aquarium",
+    "Taman Mini Indonesia Indah",
+    "Ragunan Zoo"
+  ],
+  "adventureActivities": [
+    "Thousand Islands (Kepulauan Seribu) day trip snorkeling",
+    "Cycling Ancol's waterfront paths"
+  ],
+  "luxuryExperiences": [
+    "Rooftop dining at Skye Bar",
+    "Suite stay at a five-star SCBD hotel",
+    "Private Thousand Islands yacht day trip"
+  ],
+  "honeymoonExperiences": [
+    "Sunset drinks at a rooftop bar overlooking the skyline",
+    "Day trip to the Thousand Islands",
+    "Fine dining in the SCBD district"
+  ],
+  "budgetExperiences": [
+    "Free wander through Kota Tua",
+    "Istiqlal Mosque visit",
+    "Street food at Sabang Street"
+  ],
+  "estimatedDailyBudgetUSD": [
+    35,
+    70,
+    150,
+    350
+  ],
+  "safetyRating": 3.5,
+  "internetRating": 4,
+  "publicTransportRating": 3.5,
+  "walkingScore": 40,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 32,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 33,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 33,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 31,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Jakarta Fair (Jakarta Anniversary)",
+      "timing": "June-July"
+    },
+    {
+      "name": "Indonesia Independence Day",
+      "timing": "August 17"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "110",
+    "ambulance": "118",
+    "fire": "113"
+  },
+  "localEtiquette": [
+    "Dress modestly for mosques and government buildings.",
+    "Use the right hand for eating, giving, and receiving items.",
+    "Traffic is heavy — patience is essential, and rideshare apps (Gojek, Grab) are the norm."
+  ],
+  "localTransportGuide": "Jakarta's traffic is notoriously heavy — the MRT and TransJakarta bus rapid transit system are the fastest way to avoid it for cross-city trips. Rideshare apps (Gojek, Grab) including motorbike options are extremely popular and often the quickest way to navigate shorter distances.",
+  "bestTimeToVisit": "May to September — the dry season, avoiding the heaviest monsoon rains.",
+  "weather": "Tropical climate — hot and humid year-round (highs around 31-33°C), with a wetter monsoon season roughly November to March.",
+  "visaInformation": "Indonesia offers visa-on-arrival for most nationalities including the US, UK, EU, Canada, Australia, and India, valid for 30 days and extendable once.",
+  "currency": "IDR",
+  "languages": [
+    "Indonesian"
+  ],
+  "timeZone": "WIB (UTC+7)",
+  "averageFlightTime": "~11.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Soekarno-Hatta International Airport (CGK)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Jakarta?",
+      "answer": "Indonesia offers visa-on-arrival for most nationalities including the US, UK, EU, Canada, Australia, and India, valid for 30 days and extendable once."
+    },
+    {
+      "question": "What is the best time to visit Jakarta?",
+      "answer": "May to September — the dry season, avoiding the heaviest monsoon rains. Tropical climate — hot and humid year-round (highs around 31-33°C), with a wetter monsoon season roughly November to March."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Jakarta safe for tourists?",
+      "answer": "Jakarta is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Jakarta?",
+      "answer": "The local currency is IDR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Shopping",
+    "Food",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Jakarta",
+    "Indonesia",
+    "Jakarta, Indonesia",
+    "Southeast Asia",
+    "Jakarta tour package",
+    "Jakarta vacation package",
+    "Jakarta holiday package",
+    "things to do in Jakarta",
+    "best time to visit Jakarta",
+    "Jakarta itinerary",
+    "10 day Jakarta itinerary",
+    "Jakarta flights and hotels",
+    "Jakarta all inclusive package",
+    "cheap Jakarta package",
+    "luxury Jakarta package",
+    "Jakarta honeymoon package",
+    "Jakarta family vacation",
+    "Jakarta solo trip",
+    "Jakarta group tour",
+    "Jakarta weekend getaway",
+    "Jakarta guided tour",
+    "CGK flights",
+    "Jakarta travel guide",
+    "book Jakarta trip online",
+    "Jakarta trip cost",
+    "Jakarta packages 10 days",
+    "Jakarta city break",
+    "Jakarta culture",
+    "Jakarta shopping",
+    "Jakarta food",
+    "Jakarta bucket list",
+    "National Monument (Monas)",
+    "Ancol Dreamland",
+    "Taman Mini Indonesia Indah",
+    "Museum MACAN",
+    "Kota Tua (Old Town)",
+    "Istiqlal Mosque",
+    "Sunda Kelapa harbor",
+    "Batavia Cafe",
+    "Sate Khas Senayan",
+    "Warung Tekko",
+    "National Monument at sunset",
+    "Kota Tua colonial architecture",
+    "Istiqlal Mosque interior",
+    "Sunda Kelapa wooden schooners",
+    "Menteng heritage neighborhood",
+    "Setu Babakan Betawi cultural village",
+    "Glodok (Jakarta's Chinatown)",
+    "Indonesia tourism",
+    "Southeast Asia travel"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Jakarta, Indonesia — National Monument Jakarta sunset",
+      "keywords": [
+        "Jakarta",
+        "Indonesia",
+        "National Monument Jakarta sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Jakarta National Monument Jakarta sunset",
+      "pexelsQuery": "Jakarta National Monument Jakarta sunset",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Jakarta, Indonesia — National Monument Jakarta sunset",
+      "keywords": [
+        "Jakarta",
+        "Indonesia",
+        "National Monument Jakarta sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Jakarta National Monument Jakarta sunset",
+      "pexelsQuery": "Jakarta National Monument Jakarta sunset",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Jakarta, Indonesia — Kota Tua colonial square",
+      "keywords": [
+        "Jakarta",
+        "Indonesia",
+        "Kota Tua colonial square",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Jakarta Kota Tua colonial square",
+      "pexelsQuery": "Jakarta Kota Tua colonial square",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Jakarta, Indonesia — Istiqlal Mosque interior",
+      "keywords": [
+        "Jakarta",
+        "Indonesia",
+        "Istiqlal Mosque interior",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Jakarta Istiqlal Mosque interior",
+      "pexelsQuery": "Jakarta Istiqlal Mosque interior",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Jakarta, Indonesia — National Monument Jakarta sunset",
+      "keywords": [
+        "Jakarta",
+        "Indonesia",
+        "National Monument Jakarta sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Jakarta National Monument Jakarta sunset",
+      "pexelsQuery": "Jakarta National Monument Jakarta sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jakarta, Indonesia — Kota Tua colonial square",
+      "keywords": [
+        "Jakarta",
+        "Indonesia",
+        "Kota Tua colonial square",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Jakarta Kota Tua colonial square",
+      "pexelsQuery": "Jakarta Kota Tua colonial square",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jakarta, Indonesia — Istiqlal Mosque interior",
+      "keywords": [
+        "Jakarta",
+        "Indonesia",
+        "Istiqlal Mosque interior",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Jakarta Istiqlal Mosque interior",
+      "pexelsQuery": "Jakarta Istiqlal Mosque interior",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jakarta, Indonesia — Sunda Kelapa wooden schooners",
+      "keywords": [
+        "Jakarta",
+        "Indonesia",
+        "Sunda Kelapa wooden schooners",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Jakarta Sunda Kelapa wooden schooners",
+      "pexelsQuery": "Jakarta Sunda Kelapa wooden schooners",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jakarta, Indonesia — National Monument (Monas)",
+      "keywords": [
+        "Jakarta",
+        "Indonesia",
+        "National Monument (Monas)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Jakarta National Monument (Monas)",
+      "pexelsQuery": "Jakarta National Monument (Monas)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jakarta, Indonesia — Ancol Dreamland",
+      "keywords": [
+        "Jakarta",
+        "Indonesia",
+        "Ancol Dreamland",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Jakarta Ancol Dreamland",
+      "pexelsQuery": "Jakarta Ancol Dreamland",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jakarta, Indonesia — Taman Mini Indonesia Indah",
+      "keywords": [
+        "Jakarta",
+        "Indonesia",
+        "Taman Mini Indonesia Indah",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Jakarta Taman Mini Indonesia Indah",
+      "pexelsQuery": "Jakarta Taman Mini Indonesia Indah",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jakarta, Indonesia — Museum MACAN",
+      "keywords": [
+        "Jakarta",
+        "Indonesia",
+        "Museum MACAN",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Jakarta Museum MACAN",
+      "pexelsQuery": "Jakarta Museum MACAN",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-jakarta-10-1",
+      "author": "Noah Ivanov",
+      "country": "South Africa",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-05",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Jakarta was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kota Tua (Old Town) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-2",
+      "author": "Mia Kim",
+      "country": "Brazil",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-27",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Kota Tua (Old Town) and Taman Mini Indonesia Indah. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-3",
+      "author": "Hiroshi Nguyen",
+      "country": "Germany",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-01-16",
+      "title": "Adventure of a lifetime",
+      "body": "Ancol Dreamland alone was worth the trip, but combined with Kota Tua (Old Town) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-jakarta-10-4",
+      "author": "Yuki Larsen",
+      "country": "Germany",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 3.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-05",
+      "title": "Solid mid-range package",
+      "body": "Ancol Dreamland alone was worth the trip, but combined with National Monument (Monas) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-5",
+      "author": "Sarah Ibrahim",
+      "country": "Germany",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-22",
+      "title": "Best vacation we've had",
+      "body": "Jakarta is stunning and this package covered the essentials well, especially Ancol Dreamland. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-6",
+      "author": "Nadia Kowalski",
+      "country": "United Kingdom",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-02-25",
+      "title": "Great value for money",
+      "body": "Jakarta is stunning and this package covered the essentials well, especially National Monument (Monas). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-7",
+      "author": "Lukas Khan",
+      "country": "Spain",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-14",
+      "title": "Exceeded our expectations",
+      "body": "Jakarta is stunning and this package covered the essentials well, especially Sunda Kelapa harbor. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-8",
+      "author": "Arjun Fernandez",
+      "country": "Spain",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-06-21",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a group trip and it was well paced. Sunda Kelapa harbor in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-9",
+      "author": "Olivia Botha",
+      "country": "Saudi Arabia",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-04-23",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Jakarta was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Istiqlal Mosque was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-10",
+      "author": "Emma Johnson",
+      "country": "South Africa",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-08-14",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Jakarta was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kota Tua (Old Town) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-11",
+      "author": "Ethan Tanaka",
+      "country": "South Africa",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-09",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Kota Tua (Old Town) and Taman Mini Indonesia Indah. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-12",
+      "author": "Sarah Costa",
+      "country": "India",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-11",
+      "title": "Would book again in a heartbeat",
+      "body": "Jakarta is stunning and this package covered the essentials well, especially Taman Mini Indonesia Indah. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-13",
+      "author": "Lucas Ivanov",
+      "country": "Switzerland",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-03-06",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Istiqlal Mosque and Istiqlal Mosque. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-14",
+      "author": "Mohammed Silva",
+      "country": "Australia",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-12-11",
+      "title": "Great value for money",
+      "body": "Ancol Dreamland alone was worth the trip, but combined with Ancol Dreamland this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-jakarta-10-15",
+      "author": "James Larsen",
+      "country": "UAE",
+      "rating": 3.6,
+      "foodRating": 3,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-07-04",
+      "title": "Worth every penny",
+      "body": "Our trip to Jakarta was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Taman Mini Indonesia Indah was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-16",
+      "author": "Liam Novak",
+      "country": "Switzerland",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-05",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Jakarta was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Istiqlal Mosque was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-17",
+      "author": "Liam Dubois",
+      "country": "United Kingdom",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-07-08",
+      "title": "Highly recommend this package",
+      "body": "Our trip to Jakarta was fantastic from start to finish. The hotel was clean and well located, and the guided visit to National Monument (Monas) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-18",
+      "author": "Olivia Cohen",
+      "country": "Canada",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-08-19",
+      "title": "Highly recommend this package",
+      "body": "Our trip to Jakarta was fantastic from start to finish. The hotel was clean and well located, and the guided visit to National Monument (Monas) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-19",
+      "author": "Ethan Nguyen",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-19",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Ancol Dreamland and Museum MACAN. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jakarta-10-20",
+      "author": "Grace Tanaka",
+      "country": "United Kingdom",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-04-09",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond National Monument (Monas) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.1,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.2,
+    "value": 4.1,
+    "cleanliness": 4.1,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Jakarta Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 8,
+      "neighborhood": "Grand Indonesia Mall"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Jakarta Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 14,
+      "neighborhood": "Plaza Indonesia"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Jakarta Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 25,
+      "neighborhood": "Tanah Abang textile market"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Jakarta Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "SCBD (Sudirman Central Business District) bars"
+    },
+    {
+      "tier": "Resort",
+      "name": "Jakarta Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 75,
+      "neighborhood": "Skye Bar rooftop"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Jakarta Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 147,
+      "neighborhood": "Kemang nightlife district"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Jakarta Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 175,
+      "neighborhood": "Anomali Coffee"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1245,
+        1978
+      ],
+      "estimatedFlightHours": 22.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1219,
+        1936
+      ],
+      "estimatedFlightHours": 22.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        923,
+        1466
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        914,
+        1451
+      ],
+      "estimatedFlightHours": 16.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        880,
+        1397
+      ],
+      "estimatedFlightHours": 15.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        859,
+        1364
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        957,
+        1520
+      ],
+      "estimatedFlightHours": 17.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        898,
+        1426
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        881,
+        1400
+      ],
+      "estimatedFlightHours": 15.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        473,
+        752
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        628,
+        998
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        439,
+        697
+      ],
+      "estimatedFlightHours": 7.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        494,
+        784
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        459,
+        729
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        142,
+        225
+      ],
+      "estimatedFlightHours": 2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        245,
+        389
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        162,
+        258
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        278,
+        441
+      ],
+      "estimatedFlightHours": 4.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        213,
+        339
+      ],
+      "estimatedFlightHours": 3.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        552,
+        876
+      ],
+      "estimatedFlightHours": 9.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        608,
+        965
+      ],
+      "estimatedFlightHours": 10.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        577,
+        917
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        613,
+        973
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        697,
+        1107
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1205,
+        1914
+      ],
+      "estimatedFlightHours": 21.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Soekarno-Hatta International Airport (CGK)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1294,
+        2055
+      ],
+      "estimatedFlightHours": 23.5,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "National Monument (Monas)",
+    "Ancol Dreamland",
+    "Taman Mini Indonesia Indah",
+    "Museum MACAN",
+    "Kota Tua (Old Town)",
+    "Istiqlal Mosque",
+    "Sunda Kelapa harbor",
+    "Thousand Islands (Kepulauan Seribu)",
+    "Bogor Botanical Gardens",
+    "Bandung (high-speed rail)",
+    "National Museum of Indonesia",
+    "Bank Indonesia Museum",
+    "Suropati Park",
+    "Ancol Beach City",
+    "Ancol Beach",
+    "Thousand Islands (day trip)",
+    "National Monument at sunset",
+    "Kota Tua colonial architecture",
+    "Istiqlal Mosque interior",
+    "Sunda Kelapa wooden schooners"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "National Monument (Monas)",
+      "priceUSD": 3
+    },
+    {
+      "name": "Ancol Dreamland",
+      "priceUSD": 15
+    },
+    {
+      "name": "Taman Mini Indonesia Indah",
+      "priceUSD": 2
+    },
+    {
+      "name": "Museum MACAN",
+      "priceUSD": 8
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Kota Tua (Old Town)",
+    "Istiqlal Mosque",
+    "Sunda Kelapa harbor"
+  ],
+  "museums": [
+    "Museum MACAN",
+    "National Museum of Indonesia",
+    "Bank Indonesia Museum"
+  ],
+  "parks": [
+    "Taman Mini Indonesia Indah",
+    "Suropati Park",
+    "Ancol Beach City"
+  ],
+  "beaches": [
+    "Ancol Beach",
+    "Thousand Islands (day trip)"
+  ],
+  "dayTrips": [
+    "Thousand Islands (Kepulauan Seribu)",
+    "Bogor Botanical Gardens",
+    "Bandung (high-speed rail)"
+  ],
+  "fromPriceUSD": 2189,
+  "seo": {
+    "title": "Jakarta 10-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "jakarta-10-day-package",
+    "keywords": [
+      "Jakarta",
+      "Indonesia",
+      "Jakarta, Indonesia",
+      "Southeast Asia",
+      "Jakarta tour package",
+      "Jakarta vacation package",
+      "Jakarta holiday package",
+      "things to do in Jakarta",
+      "best time to visit Jakarta",
+      "Jakarta itinerary",
+      "10 day Jakarta itinerary",
+      "Jakarta flights and hotels",
+      "Jakarta all inclusive package",
+      "cheap Jakarta package",
+      "luxury Jakarta package"
+    ],
+    "canonicalUrl": "/packages/jakarta-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Jakarta Package",
+        "url": "/packages/jakarta-7-day-package"
+      },
+      {
+        "title": "14-Day Jakarta Package",
+        "url": "/packages/jakarta-14-day-package"
+      },
+      {
+        "title": "London 10-Day City Break",
+        "url": "/packages/london-10-day-package"
+      },
+      {
+        "title": "Istanbul 10-Day City Break",
+        "url": "/packages/istanbul-10-day-package"
+      },
+      {
+        "title": "Bangkok 10-Day City Break",
+        "url": "/packages/bangkok-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Jakarta — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jakarta"
+      },
+      {
+        "title": "Jakarta — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Jakarta"
+      }
+    ]
+  }
+}

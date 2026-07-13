@@ -1,0 +1,1692 @@
+{
+  "id": "PKG-delhi-10D",
+  "slug": "delhi-10-day-package",
+  "destinationSlug": "delhi",
+  "destinationName": "Delhi",
+  "country": "India",
+  "region": "North India",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Delhi 10-Day City Break",
+  "metaTitle": "Delhi 10-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Delhi, India: round-trip flights, hotel, breakfast, transfers, and guided tours including Red Fort and Qutub Minar Complex. Prices from $1530 per person (estimate).",
+  "highlights": [
+    "Red Fort",
+    "Qutub Minar Complex",
+    "India Gate",
+    "Agra (Taj Mahal)"
+  ],
+  "overview": "Spend 10 days discovering Delhi, India — Extreme continental climate: scorching, dry summers (highs 38-40°C in May-June), a humid monsoon July-September with intense but short downpours, and cool, foggy winters (highs 18-21°C, night lows near 5°C, with dense fog delaying flights in late December-January). October to March, when daytime highs are 20-29°C and skies are clear; avoid the pre-monsoon heat of May-June (highs above 38°C) unless staying mostly indoors/AC. This itinerary blends Red Fort, Qutub Minar Complex, India Gate with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Red Fort, Qutub Minar Complex, India Gate",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Delhi",
+      "description": "Land at Indira Gandhi International Airport (DEL) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Red Fort — Mughal-era fortified palace and UNESCO World Heritage Site. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Red Fort"
+      ],
+      "overnight": "Delhi"
+    },
+    {
+      "day": 2,
+      "title": "Delhi: Qutub Minar Complex & Humayun's Tomb",
+      "description": "Morning visit to Qutub Minar Complex — Soaring 12th-century minaret and Indo-Islamic ruins. In the afternoon, continue to Humayun's Tomb — Precursor to the Taj Mahal, set in Mughal charbagh gardens. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Qutub Minar Complex",
+        "Humayun's Tomb"
+      ],
+      "overnight": "Delhi"
+    },
+    {
+      "day": 3,
+      "title": "Delhi: National Museum & Akshardham Temple exhibition & boat ride",
+      "description": "Morning visit to National Museum — Sweeping collection of Indian art, sculpture and artifacts. In the afternoon, continue to Akshardham Temple exhibition & boat ride — Modern temple complex with multimedia shows (temple entry itself is free). Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "National Museum",
+        "Akshardham Temple exhibition & boat ride"
+      ],
+      "overnight": "Delhi"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Agra (Taj Mahal)",
+      "description": "Full-day excursion to Agra (Taj Mahal), a popular side trip from Delhi. Return to Delhi in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Agra (Taj Mahal)",
+        "Free evening"
+      ],
+      "overnight": "Delhi"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Agrasen ki Baoli stepwell — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Agrasen ki Baoli stepwell"
+      ],
+      "overnight": "Delhi"
+    },
+    {
+      "day": 6,
+      "title": "Delhi: Purana Qila & National Rail Museum",
+      "description": "Morning visit to Purana Qila — Oldest fort site in Delhi with a sound-and-light show. In the afternoon, continue to National Rail Museum — Vintage locomotives and royal carriages. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Purana Qila",
+        "National Rail Museum"
+      ],
+      "overnight": "Delhi"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Jaipur",
+      "description": "Full-day excursion to Jaipur, a popular side trip from Delhi. Return to Delhi in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Jaipur",
+        "Free evening"
+      ],
+      "overnight": "Delhi"
+    },
+    {
+      "day": 8,
+      "title": "Delhi: Jantar Mantar & Safdarjung Tomb",
+      "description": "Morning visit to Jantar Mantar — 18th-century astronomical observatory. In the afternoon, continue to Safdarjung Tomb — Marble-domed 18th-century Mughal garden tomb. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Jantar Mantar",
+        "Safdarjung Tomb"
+      ],
+      "overnight": "Delhi"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Mehrauli Archaeological Park — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Mehrauli Archaeological Park"
+      ],
+      "overnight": "Delhi"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to National Zoological Park or some souvenir shopping — before your private transfer to DEL for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Take an early-morning Gatimaan or Vande Bharat Express to Agra for a same-day Taj Mahal trip rather than a slow road journey.",
+    "Book Red Fort and Humayun's Tomb tickets online via the ASI website to skip ticket-counter queues.",
+    "Bargain firmly (start around 40-50% of the quoted price) in Chandni Chowk and Sarojini Nagar.",
+    "Avoid travel agents who approach you unsolicited near Connaught Place or Paharganj claiming \"government tourism office\" status.",
+    "Winter fog (late Dec-Jan) regularly delays or diverts flights — build buffer time into connecting itineraries.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Light breathable cotton clothing for summer heat",
+    "A warm jacket and layers for foggy December-January mornings",
+    "A scarf/dupatta for covering shoulders and head at religious sites",
+    "Comfortable, sturdy walking shoes for uneven Old Delhi lanes"
+  ],
+  "thingsToDo": [
+    "Red Fort",
+    "Qutub Minar Complex",
+    "Humayun's Tomb",
+    "National Museum",
+    "Akshardham Temple exhibition & boat ride",
+    "Purana Qila",
+    "National Rail Museum",
+    "Jantar Mantar",
+    "Safdarjung Tomb",
+    "National Zoological Park",
+    "India Gate",
+    "Lotus Temple",
+    "Jama Masjid",
+    "Chandni Chowk",
+    "Connaught Place",
+    "Gurudwara Bangla Sahib",
+    "Agrasen ki Baoli",
+    "Hauz Khas Village",
+    "Mehrauli Archaeological Park",
+    "Old Delhi cycle-rickshaw food tour at dawn"
+  ],
+  "thingsToAvoid": [
+    "Unregistered \"government emporium\" touts near Connaught Place and tourist sites pushing overpriced tours.",
+    "Unmetered taxis/autos at the airport — use the prepaid counter or a ride-hailing app instead.",
+    "Drinking tap water — stick to sealed bottled or filtered water.",
+    "Walking alone in poorly lit backstreets of Paharganj or Old Delhi late at night.",
+    "Touts at New Delhi Railway Station claiming your train is \"cancelled\" and redirecting you to a private travel office."
+  ],
+  "topRestaurants": [
+    "Karim's — Mughlai ($)",
+    "Bukhara (ITC Maurya) — North West Frontier ($$$$)",
+    "Indian Accent — Modern Indian ($$$$)",
+    "Saravana Bhavan — South Indian ($)",
+    "Al Jawahar — Mughlai ($)",
+    "Dum Pukht — Awadhi ($$$)",
+    "Farzi Cafe — Modern Indian Fusion ($$$)",
+    "Andhra Bhavan Canteen — Andhra Thali ($)",
+    "Punjabi By Nature — Punjabi ($$$)"
+  ],
+  "topCafes": [
+    "Blue Tokai Coffee Roasters",
+    "Chaayos",
+    "Perch Wine and Coffee Bar",
+    "Cafe Lota",
+    "Hauz Khas Village cafes",
+    "Greater Kailash M Block Market cafes"
+  ],
+  "shoppingAreas": [
+    "Chandni Chowk",
+    "Sarojini Nagar Market",
+    "Dilli Haat",
+    "Khan Market",
+    "Janpath Market"
+  ],
+  "nightlife": [
+    "Hauz Khas Village bars",
+    "Kitty Su nightclub (Lalit Hotel)",
+    "Social Hauz Khas",
+    "Connaught Place pubs",
+    "Thursday evening qawwali at Nizamuddin Dargah"
+  ],
+  "instagramSpots": [
+    "India Gate at sunset",
+    "Humayun's Tomb symmetrical gardens",
+    "Lotus Temple petals",
+    "Agrasen ki Baoli stepwell",
+    "Chandni Chowk rooftop views"
+  ],
+  "hiddenGems": [
+    "Agrasen ki Baoli stepwell",
+    "Mehrauli Archaeological Park",
+    "Nizamuddin Basti qawwali evenings",
+    "Sunder Nursery heritage park"
+  ],
+  "familyActivities": [
+    "National Zoological Park",
+    "Dilli Haat crafts bazaar",
+    "National Rail Museum",
+    "Kingdom of Dreams (Gurugram, nearby)"
+  ],
+  "adventureActivities": [
+    "Old Delhi cycle-rickshaw food tour at dawn",
+    "Hot-air ballooning day trips near NCR",
+    "Cycling through Yamuna Biodiversity Park",
+    "Trekking day trip to the Aravalli hills (Damdama Lake)"
+  ],
+  "luxuryExperiences": [
+    "Suite stay at The Imperial or The Leela Palace",
+    "Private heritage walk with a Mughal-era historian",
+    "Fine dining tasting menu at Indian Accent",
+    "Spa retreat at The Oberoi New Delhi"
+  ],
+  "honeymoonExperiences": [
+    "Sunset visit to Humayun's Tomb gardens",
+    "Candlelight dinner at Bukhara",
+    "Horse-carriage ride through Lodi Garden",
+    "Rooftop dinner with a Qutub Minar view"
+  ],
+  "budgetExperiences": [
+    "Delhi Metro day-pass sightseeing loop",
+    "Street food crawl in Chandni Chowk",
+    "Free community meal (langar) at Gurudwara Bangla Sahib",
+    "Sunset stroll at Lodi Garden"
+  ],
+  "estimatedDailyBudgetUSD": [
+    20,
+    60,
+    140,
+    340
+  ],
+  "safetyRating": 3,
+  "internetRating": 4,
+  "publicTransportRating": 4,
+  "walkingScore": 42,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 20,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 36,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 39,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 39,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 35,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 34,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 34,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 21,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Diwali (Festival of Lights)",
+      "timing": "October-November (per lunar calendar)"
+    },
+    {
+      "name": "Holi",
+      "timing": "March (per lunar calendar)"
+    },
+    {
+      "name": "Republic Day Parade",
+      "timing": "January 26"
+    },
+    {
+      "name": "Qutub Festival",
+      "timing": "November-December at Qutub Minar complex"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101"
+  },
+  "localEtiquette": [
+    "Remove shoes before entering temples, gurudwaras and mosques; cover your head with a scarf at Sikh gurudwaras (cloth is provided if needed).",
+    "Use your right hand for eating, giving/receiving items and handshakes — the left hand is considered unclean.",
+    "Dress modestly at religious sites and in Old Delhi — shoulders and knees covered is appreciated, especially for women.",
+    "Bargaining is expected in bazaars like Chandni Chowk and Sarojini Nagar, but is not appropriate in malls or fixed-price shops.",
+    "Public displays of affection are frowned upon at religious and heritage sites."
+  ],
+  "localTransportGuide": "The Delhi Metro is fast, air-conditioned and covers most tourist areas — buy a rechargeable smart card to skip queues. Auto-rickshaws (insist on the meter or agree a fare beforehand) and Ola/Uber are widely available; at the airport, use the prepaid taxi counter or Metro Airport Express Line rather than touts.",
+  "bestTimeToVisit": "October to March, when daytime highs are 20-29°C and skies are clear; avoid the pre-monsoon heat of May-June (highs above 38°C) unless staying mostly indoors/AC.",
+  "weather": "Extreme continental climate: scorching, dry summers (highs 38-40°C in May-June), a humid monsoon July-September with intense but short downpours, and cool, foggy winters (highs 18-21°C, night lows near 5°C, with dense fog delaying flights in late December-January).",
+  "visaInformation": "Most foreign nationals need an e-Visa (apply online 4-120 days before travel; tourist e-Visa allows stays up to 90 days for many nationalities). Indian passport holders need no visa. Overseas Citizen of India (OCI) cardholders and PIO cardholders travel visa-free with lifetime multiple entry, provided their OCI card is registered/linked to a valid foreign passport — a common arrangement for NRI travelers visiting family.",
+  "currency": "INR",
+  "languages": [
+    "Hindi",
+    "English",
+    "Punjabi"
+  ],
+  "timeZone": "IST (UTC+5:30)",
+  "averageFlightTime": "~9.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Indira Gandhi International Airport (DEL)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Delhi?",
+      "answer": "Most foreign nationals need an e-Visa (apply online 4-120 days before travel; tourist e-Visa allows stays up to 90 days for many nationalities). Indian passport holders need no visa. Overseas Citizen of India (OCI) cardholders and PIO cardholders travel visa-free with lifetime multiple entry, provided their OCI card is registered/linked to a valid foreign passport — a common arrangement for NRI travelers visiting family."
+    },
+    {
+      "question": "What is the best time to visit Delhi?",
+      "answer": "October to March, when daytime highs are 20-29°C and skies are clear; avoid the pre-monsoon heat of May-June (highs above 38°C) unless staying mostly indoors/AC. Extreme continental climate: scorching, dry summers (highs 38-40°C in May-June), a humid monsoon July-September with intense but short downpours, and cool, foggy winters (highs 18-21°C, night lows near 5°C, with dense fog delaying flights in late December-January)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Delhi safe for tourists?",
+      "answer": "Delhi is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Delhi?",
+      "answer": "The local currency is INR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "History",
+    "Shopping",
+    "Food",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Delhi",
+    "India",
+    "Delhi, India",
+    "North India",
+    "Delhi tour package",
+    "Delhi vacation package",
+    "Delhi holiday package",
+    "things to do in Delhi",
+    "best time to visit Delhi",
+    "Delhi itinerary",
+    "10 day Delhi itinerary",
+    "Delhi flights and hotels",
+    "Delhi all inclusive package",
+    "cheap Delhi package",
+    "luxury Delhi package",
+    "Delhi honeymoon package",
+    "Delhi family vacation",
+    "Delhi solo trip",
+    "Delhi group tour",
+    "Delhi weekend getaway",
+    "Delhi guided tour",
+    "DEL flights",
+    "Delhi travel guide",
+    "book Delhi trip online",
+    "Delhi trip cost",
+    "Delhi packages 10 days",
+    "Delhi city break",
+    "Delhi culture",
+    "Delhi history",
+    "Delhi shopping",
+    "Delhi food",
+    "Delhi bucket list",
+    "Red Fort",
+    "Qutub Minar Complex",
+    "Humayun's Tomb",
+    "National Museum",
+    "Akshardham Temple exhibition & boat ride",
+    "Purana Qila",
+    "National Rail Museum",
+    "Jantar Mantar",
+    "Safdarjung Tomb",
+    "National Zoological Park",
+    "India Gate",
+    "Lotus Temple",
+    "Jama Masjid",
+    "Chandni Chowk",
+    "Connaught Place",
+    "Gurudwara Bangla Sahib",
+    "Agrasen ki Baoli",
+    "Hauz Khas Village"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Delhi, India — Red Fort Delhi",
+      "keywords": [
+        "Delhi",
+        "India",
+        "Red Fort Delhi",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Delhi Red Fort Delhi",
+      "pexelsQuery": "Delhi Red Fort Delhi",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Delhi, India — Red Fort Delhi",
+      "keywords": [
+        "Delhi",
+        "India",
+        "Red Fort Delhi",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Delhi Red Fort Delhi",
+      "pexelsQuery": "Delhi Red Fort Delhi",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Delhi, India — India Gate sunset",
+      "keywords": [
+        "Delhi",
+        "India",
+        "India Gate sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Delhi India Gate sunset",
+      "pexelsQuery": "Delhi India Gate sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Delhi, India — Humayun's Tomb gardens",
+      "keywords": [
+        "Delhi",
+        "India",
+        "Humayun's Tomb gardens",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Delhi Humayun's Tomb gardens",
+      "pexelsQuery": "Delhi Humayun's Tomb gardens",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Delhi, India — Red Fort Delhi",
+      "keywords": [
+        "Delhi",
+        "India",
+        "Red Fort Delhi",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Delhi Red Fort Delhi",
+      "pexelsQuery": "Delhi Red Fort Delhi",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Delhi, India — India Gate sunset",
+      "keywords": [
+        "Delhi",
+        "India",
+        "India Gate sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Delhi India Gate sunset",
+      "pexelsQuery": "Delhi India Gate sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Delhi, India — Humayun's Tomb gardens",
+      "keywords": [
+        "Delhi",
+        "India",
+        "Humayun's Tomb gardens",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Delhi Humayun's Tomb gardens",
+      "pexelsQuery": "Delhi Humayun's Tomb gardens",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Delhi, India — Chandni Chowk street food",
+      "keywords": [
+        "Delhi",
+        "India",
+        "Chandni Chowk street food",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Delhi Chandni Chowk street food",
+      "pexelsQuery": "Delhi Chandni Chowk street food",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Delhi, India — Red Fort",
+      "keywords": [
+        "Delhi",
+        "India",
+        "Red Fort",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Delhi Red Fort",
+      "pexelsQuery": "Delhi Red Fort",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Delhi, India — Qutub Minar Complex",
+      "keywords": [
+        "Delhi",
+        "India",
+        "Qutub Minar Complex",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Delhi Qutub Minar Complex",
+      "pexelsQuery": "Delhi Qutub Minar Complex",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Delhi, India — Humayun's Tomb",
+      "keywords": [
+        "Delhi",
+        "India",
+        "Humayun's Tomb",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Delhi Humayun's Tomb",
+      "pexelsQuery": "Delhi Humayun's Tomb",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Delhi, India — National Museum",
+      "keywords": [
+        "Delhi",
+        "India",
+        "National Museum",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Delhi National Museum",
+      "pexelsQuery": "Delhi National Museum",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-delhi-10-1",
+      "author": "Mohammed Novak",
+      "country": "South Korea",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-09-06",
+      "title": "Luxury without the hassle",
+      "body": "National Zoological Park alone was worth the trip, but combined with National Rail Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-2",
+      "author": "Omar Kim",
+      "country": "Mexico",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-02-07",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Agrasen ki Baoli and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-3",
+      "author": "Sofia Khan",
+      "country": "New Zealand",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-14",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a family of 4 trip and it was well paced. Jama Masjid in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-4",
+      "author": "Elena Tanaka",
+      "country": "Germany",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-01-20",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Akshardham Temple exhibition & boat ride and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-5",
+      "author": "Mohammed Sharma",
+      "country": "Switzerland",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-12-27",
+      "title": "Luxury without the hassle",
+      "body": "Gurudwara Bangla Sahib alone was worth the trip, but combined with Agrasen ki Baoli this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-6",
+      "author": "Chen Kim",
+      "country": "Spain",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-04-20",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a couple trip and it was well paced. Mehrauli Archaeological Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-7",
+      "author": "Elena Williams",
+      "country": "Switzerland",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-06-09",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Connaught Place and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-8",
+      "author": "Fatima Brown",
+      "country": "New Zealand",
+      "rating": 3.9,
+      "foodRating": 4.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-06-06",
+      "title": "Consultant made it effortless",
+      "body": "Chandni Chowk alone was worth the trip, but combined with Chandni Chowk this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-9",
+      "author": "Marco Kowalski",
+      "country": "Saudi Arabia",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-01-17",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Agrasen ki Baoli and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-10",
+      "author": "Emma Müller",
+      "country": "New Zealand",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-04-16",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Delhi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Chandni Chowk was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-11",
+      "author": "Fatima Kowalski",
+      "country": "Mexico",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-23",
+      "title": "Worth every penny",
+      "body": "Agrasen ki Baoli alone was worth the trip, but combined with Jama Masjid this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-12",
+      "author": "Arjun Fernandez",
+      "country": "Germany",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-24",
+      "title": "Loved every moment",
+      "body": "Booked this as a group trip and it was well paced. Akshardham Temple exhibition & boat ride in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-13",
+      "author": "Anna Dubois",
+      "country": "India",
+      "rating": 4.6,
+      "foodRating": 4,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-04-27",
+      "title": "Consultant made it effortless",
+      "body": "Delhi is stunning and this package covered the essentials well, especially National Rail Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-14",
+      "author": "Olivia van Dijk",
+      "country": "Italy",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-11-17",
+      "title": "Worth every penny",
+      "body": "Our trip to Delhi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Hauz Khas Village was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-15",
+      "author": "Noah Ibrahim",
+      "country": "Saudi Arabia",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-04-15",
+      "title": "Five stars, will return",
+      "body": "Our trip to Delhi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Gurudwara Bangla Sahib was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-16",
+      "author": "Hiroshi Larsen",
+      "country": "Mexico",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-05-30",
+      "title": "Worth every penny",
+      "body": "Hauz Khas Village alone was worth the trip, but combined with Red Fort this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-17",
+      "author": "Anna Cohen",
+      "country": "Italy",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-22",
+      "title": "Adventure of a lifetime",
+      "body": "Delhi is stunning and this package covered the essentials well, especially Hauz Khas Village. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-18",
+      "author": "Mia Ibrahim",
+      "country": "Saudi Arabia",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-27",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Gurudwara Bangla Sahib and Hauz Khas Village. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-19",
+      "author": "Mohammed Rossi",
+      "country": "Japan",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-02-20",
+      "title": "Smooth from start to finish",
+      "body": "National Zoological Park alone was worth the trip, but combined with National Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-delhi-10-20",
+      "author": "James Smith",
+      "country": "Germany",
+      "rating": 3.6,
+      "foodRating": 3,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-07-17",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Delhi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Akshardham Temple exhibition & boat ride was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.1,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.3,
+    "value": 4.1,
+    "cleanliness": 4.2,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Delhi Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 4,
+      "neighborhood": "Chandni Chowk"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Delhi Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 8,
+      "neighborhood": "Sarojini Nagar Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Delhi Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 21,
+      "neighborhood": "Dilli Haat"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Delhi Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 27,
+      "neighborhood": "Khan Market"
+    },
+    {
+      "tier": "Resort",
+      "name": "Delhi Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 70,
+      "neighborhood": "Janpath Market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Delhi Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 143,
+      "neighborhood": "Hauz Khas Village bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Delhi Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 170,
+      "neighborhood": "Kitty Su nightclub (Lalit Hotel)"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        926,
+        1470
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        917,
+        1457
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        561,
+        891
+      ],
+      "estimatedFlightHours": 9.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        553,
+        878
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        519,
+        824
+      ],
+      "estimatedFlightHours": 9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        504,
+        801
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        602,
+        956
+      ],
+      "estimatedFlightHours": 10.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        536,
+        851
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        521,
+        828
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        830,
+        1318
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        978,
+        1554
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        498,
+        791
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        415,
+        659
+      ],
+      "estimatedFlightHours": 7.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        376,
+        597
+      ],
+      "estimatedFlightHours": 6.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        287,
+        456
+      ],
+      "estimatedFlightHours": 4.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        354,
+        562
+      ],
+      "estimatedFlightHours": 5.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        439,
+        697
+      ],
+      "estimatedFlightHours": 7.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        420,
+        667
+      ],
+      "estimatedFlightHours": 7.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        340,
+        540
+      ],
+      "estimatedFlightHours": 5.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        235,
+        374
+      ],
+      "estimatedFlightHours": 3.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        298,
+        473
+      ],
+      "estimatedFlightHours": 4.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        262,
+        416
+      ],
+      "estimatedFlightHours": 4.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        281,
+        447
+      ],
+      "estimatedFlightHours": 4.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        658,
+        1045
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1119,
+        1777
+      ],
+      "estimatedFlightHours": 20.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Indira Gandhi International Airport (DEL)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1136,
+        1804
+      ],
+      "estimatedFlightHours": 20.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Red Fort",
+    "Qutub Minar Complex",
+    "Humayun's Tomb",
+    "National Museum",
+    "Akshardham Temple exhibition & boat ride",
+    "Purana Qila",
+    "National Rail Museum",
+    "Jantar Mantar",
+    "Safdarjung Tomb",
+    "National Zoological Park",
+    "India Gate",
+    "Lotus Temple",
+    "Jama Masjid",
+    "Chandni Chowk",
+    "Connaught Place",
+    "Gurudwara Bangla Sahib",
+    "Agrasen ki Baoli",
+    "Hauz Khas Village",
+    "Mehrauli Archaeological Park",
+    "Agra (Taj Mahal)",
+    "Jaipur",
+    "Neemrana Fort",
+    "Mathura-Vrindavan",
+    "National Gandhi Museum",
+    "National Crafts Museum",
+    "Lodi Garden",
+    "Deer Park",
+    "Garden of Five Senses",
+    "Sunder Nursery",
+    "India Gate at sunset",
+    "Humayun's Tomb symmetrical gardens",
+    "Lotus Temple petals",
+    "Agrasen ki Baoli stepwell",
+    "Chandni Chowk rooftop views"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Red Fort",
+      "priceUSD": 12
+    },
+    {
+      "name": "Qutub Minar Complex",
+      "priceUSD": 13
+    },
+    {
+      "name": "Humayun's Tomb",
+      "priceUSD": 10
+    },
+    {
+      "name": "National Museum",
+      "priceUSD": 8
+    },
+    {
+      "name": "Akshardham Temple exhibition & boat ride",
+      "priceUSD": 5
+    },
+    {
+      "name": "Purana Qila",
+      "priceUSD": 6
+    },
+    {
+      "name": "National Rail Museum",
+      "priceUSD": 3
+    },
+    {
+      "name": "Jantar Mantar",
+      "priceUSD": 5
+    },
+    {
+      "name": "Safdarjung Tomb",
+      "priceUSD": 3
+    },
+    {
+      "name": "National Zoological Park",
+      "priceUSD": 2
+    }
+  ],
+  "attractionsFreeTop20": [
+    "India Gate",
+    "Lotus Temple",
+    "Jama Masjid",
+    "Chandni Chowk",
+    "Connaught Place",
+    "Gurudwara Bangla Sahib",
+    "Agrasen ki Baoli",
+    "Hauz Khas Village",
+    "Mehrauli Archaeological Park"
+  ],
+  "museums": [
+    "National Museum",
+    "National Gandhi Museum",
+    "National Rail Museum",
+    "National Crafts Museum"
+  ],
+  "parks": [
+    "Lodi Garden",
+    "Deer Park",
+    "Garden of Five Senses",
+    "Sunder Nursery"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Agra (Taj Mahal)",
+    "Jaipur",
+    "Neemrana Fort",
+    "Mathura-Vrindavan"
+  ],
+  "fromPriceUSD": 1530,
+  "seo": {
+    "title": "Delhi 10-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "delhi-10-day-package",
+    "keywords": [
+      "Delhi",
+      "India",
+      "Delhi, India",
+      "North India",
+      "Delhi tour package",
+      "Delhi vacation package",
+      "Delhi holiday package",
+      "things to do in Delhi",
+      "best time to visit Delhi",
+      "Delhi itinerary",
+      "10 day Delhi itinerary",
+      "Delhi flights and hotels",
+      "Delhi all inclusive package",
+      "cheap Delhi package",
+      "luxury Delhi package"
+    ],
+    "canonicalUrl": "/packages/delhi-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Delhi Package",
+        "url": "/packages/delhi-7-day-package"
+      },
+      {
+        "title": "14-Day Delhi Package",
+        "url": "/packages/delhi-14-day-package"
+      },
+      {
+        "title": "London 10-Day City Break",
+        "url": "/packages/london-10-day-package"
+      },
+      {
+        "title": "Istanbul 10-Day City Break",
+        "url": "/packages/istanbul-10-day-package"
+      },
+      {
+        "title": "Seoul 10-Day City Break",
+        "url": "/packages/seoul-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Delhi — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Delhi"
+      },
+      {
+        "title": "Delhi — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Delhi"
+      }
+    ]
+  }
+}

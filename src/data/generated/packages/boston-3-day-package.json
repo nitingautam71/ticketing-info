@@ -1,0 +1,1576 @@
+{
+  "id": "PKG-boston-3D",
+  "slug": "boston-3-day-package",
+  "destinationSlug": "boston",
+  "destinationName": "Boston",
+  "country": "United States",
+  "region": "Massachusetts",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Boston 3-Day City Break",
+  "metaTitle": "Boston 3-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Boston, United States: round-trip flights, hotel, breakfast, transfers, and guided tours including Museum of Fine Arts, Boston and New England Aquarium. Prices from $646 per person (estimate).",
+  "highlights": [
+    "Museum of Fine Arts, Boston",
+    "New England Aquarium",
+    "Freedom Trail",
+    "Salem"
+  ],
+  "overview": "Spend 3 days discovering Boston, United States — Humid continental climate with four distinct seasons: warm, humid summers (highs 27-29°C) and cold, snowy winters (highs 2-4°C, frequent nor'easter snowstorms), bookended by a particularly picturesque autumn. September to November for crisp air, comfortable highs (15-20°C) and spectacular New England fall foliage; January-March brings cold, snowy winters (highs often near or below freezing). This itinerary blends Museum of Fine Arts, Boston, New England Aquarium, Freedom Trail with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Museum of Fine Arts, Boston, New England Aquarium, Freedom Trail",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Boston",
+      "description": "Land at Logan International Airport (BOS) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Museum of Fine Arts, Boston — One of the largest and most comprehensive art museums in the US. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Museum of Fine Arts, Boston"
+      ],
+      "overnight": "Boston"
+    },
+    {
+      "day": 2,
+      "title": "Boston: New England Aquarium & Fenway Park tour",
+      "description": "Morning visit to New England Aquarium — Waterfront aquarium with a giant ocean tank and penguins. In the afternoon, continue to Fenway Park tour — Behind-the-scenes tour of America's oldest active Major League Baseball park. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "New England Aquarium",
+        "Fenway Park tour"
+      ],
+      "overnight": "Boston"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to USS Constitution Museum or some souvenir shopping — before your private transfer to BOS for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Walk the Freedom Trail's red-brick line at your own pace — it's free and self-guided, though official guided tours add historical depth.",
+    "Visit in late September to mid-October for peak fall foliage, one of the best times to visit New England overall.",
+    "Book a Fenway Park tour even outside baseball season — it runs nearly year-round.",
+    "Cambridge (Harvard/MIT) is a quick T ride across the river and worth a half-day on its own.",
+    "The Boston Marathon (Patriots' Day, April) causes major road closures — check the route if visiting that week.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "A heavy coat and waterproof boots for snowy winters",
+    "Comfortable walking shoes for the cobblestones of Beacon Hill and the Freedom Trail",
+    "Layers for changeable New England weather in spring/fall",
+    "A light rain jacket year-round"
+  ],
+  "thingsToDo": [
+    "Museum of Fine Arts, Boston",
+    "New England Aquarium",
+    "Fenway Park tour",
+    "USS Constitution Museum",
+    "Isabella Stewart Gardner Museum",
+    "Skywalk Observatory, Prudential Center",
+    "Boston Duck Tour",
+    "Freedom Trail",
+    "Boston Public Garden",
+    "Quincy Market / Faneuil Hall Marketplace",
+    "Harvard Yard, Cambridge",
+    "Charles River Esplanade",
+    "Beacon Hill",
+    "North End",
+    "Kayaking or sailing on the Charles River",
+    "Whale watching boat tours from Boston Harbor",
+    "Cycling the Charles River Esplanade path",
+    "Harbor Islands ferry and hiking day trip",
+    "Boston Children's Museum",
+    "Swan boats in the Public Garden"
+  ],
+  "thingsToAvoid": [
+    "Driving downtown — Boston's street layout is notoriously confusing and parking is expensive; use the T instead.",
+    "Underestimating winter cold and nor'easter snowstorms — check forecasts before finalizing a winter itinerary.",
+    "Skipping reservations at top North End restaurants on weekend evenings — waits can run over an hour.",
+    "Walking on the Charles River Esplanade path against cyclist traffic — it's a shared but directional path.",
+    "Assuming all historic sites are open the same hours — some Freedom Trail stops have seasonal or limited hours."
+  ],
+  "topRestaurants": [
+    "Union Oyster House — Seafood, oldest restaurant in continuous service in the US ($$$)",
+    "Neptune Oyster — Seafood, North End ($$$)",
+    "Mike's Pastry — Italian Bakery (cannoli) ($)",
+    "Regina Pizzeria, North End — Italian Pizza ($)",
+    "Legal Sea Foods — New England Seafood ($$$)",
+    "Giacomo's Ristorante — Italian, North End ($$)",
+    "Toro — Spanish Tapas ($$$)"
+  ],
+  "topCafes": [
+    "Thinking Cup Coffee",
+    "Tatte Bakery & Cafe",
+    "Caffe Vittoria, North End",
+    "Pavement Coffeehouse",
+    "George Howell Coffee"
+  ],
+  "shoppingAreas": [
+    "Newbury Street",
+    "Faneuil Hall Marketplace",
+    "Copley Place",
+    "Harvard Square shops"
+  ],
+  "nightlife": [
+    "Wally's Cafe Jazz Club",
+    "Bell in Hand Tavern (oldest tavern in the US)",
+    "The Sinclair, Cambridge",
+    "Lansdowne Street bars near Fenway"
+  ],
+  "instagramSpots": [
+    "Boston Public Garden swan boats",
+    "Acorn Street, Beacon Hill (a famously photogenic cobblestone lane)",
+    "Fenway Park's Green Monster",
+    "Harvard Yard's John Harvard statue",
+    "North End street festivals"
+  ],
+  "hiddenGems": [
+    "Acorn Street, Beacon Hill",
+    "Boston Athenaeum reading rooms",
+    "Arnold Arboretum",
+    "Christopher Columbus Park waterfront"
+  ],
+  "familyActivities": [
+    "New England Aquarium",
+    "Boston Children's Museum",
+    "Boston Duck Tour",
+    "Swan boats in the Public Garden"
+  ],
+  "adventureActivities": [
+    "Kayaking or sailing on the Charles River",
+    "Whale watching boat tours from Boston Harbor",
+    "Cycling the Charles River Esplanade path",
+    "Harbor Islands ferry and hiking day trip"
+  ],
+  "luxuryExperiences": [
+    "Suite stay at the Boston Harbor Hotel",
+    "Private Freedom Trail tour with a historian guide",
+    "Fine dining at a North End tasting-menu restaurant",
+    "Private Charles River sailing charter"
+  ],
+  "honeymoonExperiences": [
+    "Swan boat ride in the Public Garden",
+    "Sunset walk along the Charles River Esplanade",
+    "Romantic dinner in the North End",
+    "Beacon Hill evening cobblestone stroll"
+  ],
+  "budgetExperiences": [
+    "Free self-guided Freedom Trail walk",
+    "Free Boston Public Garden and Common visit",
+    "Quincy Market food-stall lunch",
+    "Harvard Yard self-guided campus walk"
+  ],
+  "estimatedDailyBudgetUSD": [
+    100,
+    210,
+    370,
+    780
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 4,
+  "walkingScore": 82,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 2,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 3,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 8,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 13,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 28,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 23,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 17,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Nov",
+      "highC": 11,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 4,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Boston Marathon",
+      "timing": "Patriots' Day, third Monday of April"
+    },
+    {
+      "name": "Fourth of July Boston Pops concert & fireworks",
+      "timing": "July 4, Charles River Esplanade"
+    },
+    {
+      "name": "Head of the Charles Regatta",
+      "timing": "Third weekend of October"
+    },
+    {
+      "name": "First Night Boston",
+      "timing": "December 31, New Year's Eve celebrations"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Tipping 18-20% at restaurants and for services is standard.",
+    "Bostonians are proud and vocal about their sports teams (Red Sox, Celtics, Patriots, Bruins) — friendly banter is welcome, mockery less so.",
+    "The \"T\" subway (America's oldest) has its own local rhythm — stand right on escalators, let riders off before boarding.",
+    "Ivy League campus visits (Harvard, MIT) are generally welcoming to respectful visitors during open hours."
+  ],
+  "localTransportGuide": "The MBTA \"T\" subway is the oldest in the US and covers downtown, Cambridge and most tourist sites well; the city is also highly walkable, especially along the Freedom Trail. Uber/Lyft and the Charles River water shuttle round out the options.",
+  "bestTimeToVisit": "September to November for crisp air, comfortable highs (15-20°C) and spectacular New England fall foliage; January-March brings cold, snowy winters (highs often near or below freezing).",
+  "weather": "Humid continental climate with four distinct seasons: warm, humid summers (highs 27-29°C) and cold, snowy winters (highs 2-4°C, frequent nor'easter snowstorms), bookended by a particularly picturesque autumn.",
+  "visaInformation": "Citizens of Visa Waiver Program countries can enter with an approved ESTA for stays up to 90 days. Other nationalities, including Indian passport holders, require a B1/B2 visitor visa obtained in advance via a US embassy/consulate interview — a common route given the large number of Indian students and academic visitors to Boston-area universities.",
+  "currency": "USD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "EST (UTC-5)",
+  "averageFlightTime": "~13.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Logan International Airport (BOS)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Boston?",
+      "answer": "Citizens of Visa Waiver Program countries can enter with an approved ESTA for stays up to 90 days. Other nationalities, including Indian passport holders, require a B1/B2 visitor visa obtained in advance via a US embassy/consulate interview — a common route given the large number of Indian students and academic visitors to Boston-area universities."
+    },
+    {
+      "question": "What is the best time to visit Boston?",
+      "answer": "September to November for crisp air, comfortable highs (15-20°C) and spectacular New England fall foliage; January-March brings cold, snowy winters (highs often near or below freezing). Humid continental climate with four distinct seasons: warm, humid summers (highs 27-29°C) and cold, snowy winters (highs 2-4°C, frequent nor'easter snowstorms), bookended by a particularly picturesque autumn."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Boston safe for tourists?",
+      "answer": "Boston is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Boston?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "History",
+    "Culture",
+    "Food",
+    "Autumn",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Boston",
+    "United States",
+    "Boston, United States",
+    "Massachusetts",
+    "Boston tour package",
+    "Boston vacation package",
+    "Boston holiday package",
+    "things to do in Boston",
+    "best time to visit Boston",
+    "Boston itinerary",
+    "3 day Boston itinerary",
+    "Boston flights and hotels",
+    "Boston all inclusive package",
+    "cheap Boston package",
+    "luxury Boston package",
+    "Boston honeymoon package",
+    "Boston family vacation",
+    "Boston solo trip",
+    "Boston group tour",
+    "Boston weekend getaway",
+    "Boston guided tour",
+    "BOS flights",
+    "Boston travel guide",
+    "book Boston trip online",
+    "Boston trip cost",
+    "Boston packages 3 days",
+    "Boston city break",
+    "Boston history",
+    "Boston culture",
+    "Boston food",
+    "Boston autumn",
+    "Museum of Fine Arts, Boston",
+    "New England Aquarium",
+    "Fenway Park tour",
+    "USS Constitution Museum",
+    "Isabella Stewart Gardner Museum",
+    "Skywalk Observatory, Prudential Center",
+    "Boston Duck Tour",
+    "Freedom Trail",
+    "Boston Public Garden",
+    "Quincy Market / Faneuil Hall Marketplace",
+    "Harvard Yard, Cambridge",
+    "Charles River Esplanade",
+    "Beacon Hill",
+    "North End",
+    "Union Oyster House",
+    "Neptune Oyster",
+    "Mike's Pastry",
+    "Regina Pizzeria, North End",
+    "Legal Sea Foods"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Boston, United States — Freedom Trail Boston",
+      "keywords": [
+        "Boston",
+        "United States",
+        "Freedom Trail Boston",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Boston Freedom Trail Boston",
+      "pexelsQuery": "Boston Freedom Trail Boston",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Boston, United States — Freedom Trail Boston",
+      "keywords": [
+        "Boston",
+        "United States",
+        "Freedom Trail Boston",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Boston Freedom Trail Boston",
+      "pexelsQuery": "Boston Freedom Trail Boston",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Boston, United States — Boston Public Garden swan boats",
+      "keywords": [
+        "Boston",
+        "United States",
+        "Boston Public Garden swan boats",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Boston Boston Public Garden swan boats",
+      "pexelsQuery": "Boston Boston Public Garden swan boats",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Boston, United States — Fenway Park Green Monster",
+      "keywords": [
+        "Boston",
+        "United States",
+        "Fenway Park Green Monster",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Boston Fenway Park Green Monster",
+      "pexelsQuery": "Boston Fenway Park Green Monster",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Boston, United States — Freedom Trail Boston",
+      "keywords": [
+        "Boston",
+        "United States",
+        "Freedom Trail Boston",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Boston Freedom Trail Boston",
+      "pexelsQuery": "Boston Freedom Trail Boston",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boston, United States — Boston Public Garden swan boats",
+      "keywords": [
+        "Boston",
+        "United States",
+        "Boston Public Garden swan boats",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Boston Boston Public Garden swan boats",
+      "pexelsQuery": "Boston Boston Public Garden swan boats",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boston, United States — Fenway Park Green Monster",
+      "keywords": [
+        "Boston",
+        "United States",
+        "Fenway Park Green Monster",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Boston Fenway Park Green Monster",
+      "pexelsQuery": "Boston Fenway Park Green Monster",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boston, United States — Beacon Hill cobblestones",
+      "keywords": [
+        "Boston",
+        "United States",
+        "Beacon Hill cobblestones",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Boston Beacon Hill cobblestones",
+      "pexelsQuery": "Boston Beacon Hill cobblestones",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boston, United States — Museum of Fine Arts, Boston",
+      "keywords": [
+        "Boston",
+        "United States",
+        "Museum of Fine Arts, Boston",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Boston Museum of Fine Arts, Boston",
+      "pexelsQuery": "Boston Museum of Fine Arts, Boston",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boston, United States — New England Aquarium",
+      "keywords": [
+        "Boston",
+        "United States",
+        "New England Aquarium",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Boston New England Aquarium",
+      "pexelsQuery": "Boston New England Aquarium",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boston, United States — Fenway Park tour",
+      "keywords": [
+        "Boston",
+        "United States",
+        "Fenway Park tour",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Boston Fenway Park tour",
+      "pexelsQuery": "Boston Fenway Park tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boston, United States — USS Constitution Museum",
+      "keywords": [
+        "Boston",
+        "United States",
+        "USS Constitution Museum",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Boston USS Constitution Museum",
+      "pexelsQuery": "Boston USS Constitution Museum",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-boston-3-1",
+      "author": "Priya Rossi",
+      "country": "Saudi Arabia",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-19",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a solo trip and it was well paced. Charles River Esplanade in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-2",
+      "author": "Ethan Botha",
+      "country": "Netherlands",
+      "rating": 4.4,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-10",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Quincy Market / Faneuil Hall Marketplace and Charles River Esplanade. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-3",
+      "author": "Sofia Khan",
+      "country": "United Kingdom",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-17",
+      "title": "Smooth from start to finish",
+      "body": "Booked this as a family of 4 trip and it was well paced. New England Aquarium in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-4",
+      "author": "Emma Rossi",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-01-13",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Boston was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Skywalk Observatory, Prudential Center was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-5",
+      "author": "Isabella Dubois",
+      "country": "South Korea",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-04",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Boston Duck Tour and Museum of Fine Arts, Boston. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-6",
+      "author": "Sarah Nguyen",
+      "country": "Japan",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-02-24",
+      "title": "Solid mid-range package",
+      "body": "Boston is stunning and this package covered the essentials well, especially Freedom Trail. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-7",
+      "author": "Fatima Cohen",
+      "country": "Mexico",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-02-17",
+      "title": "Smooth from start to finish",
+      "body": "Beacon Hill alone was worth the trip, but combined with New England Aquarium this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-8",
+      "author": "Wei Smith",
+      "country": "United Kingdom",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-12",
+      "title": "Loved every moment",
+      "body": "Booked this as a group trip and it was well paced. New England Aquarium in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-9",
+      "author": "Wei Santos",
+      "country": "Italy",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-04-22",
+      "title": "Worth every penny",
+      "body": "Booked this as a solo trip and it was well paced. Beacon Hill in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-10",
+      "author": "Mia Khan",
+      "country": "Canada",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-03-07",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to New England Aquarium and Charles River Esplanade. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-11",
+      "author": "Fatima Larsen",
+      "country": "Italy",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-09-30",
+      "title": "Five stars, will return",
+      "body": "Beacon Hill alone was worth the trip, but combined with Charles River Esplanade this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-boston-3-12",
+      "author": "Ethan Müller",
+      "country": "Mexico",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-13",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Beacon Hill and Freedom Trail. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-boston-3-13",
+      "author": "Liam Brown",
+      "country": "Germany",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-01-14",
+      "title": "Five stars, will return",
+      "body": "Our trip to Boston was fantastic from start to finish. The hotel was clean and well located, and the guided visit to USS Constitution Museum was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-14",
+      "author": "Wei Garcia",
+      "country": "Australia",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-08-29",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a couple trip and it was well paced. Fenway Park tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-15",
+      "author": "Marco Cohen",
+      "country": "Australia",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-14",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Fenway Park tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-16",
+      "author": "Elena Smith",
+      "country": "South Korea",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-26",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Boston Duck Tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-17",
+      "author": "Elena Fernandez",
+      "country": "New Zealand",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-01",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Quincy Market / Faneuil Hall Marketplace and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-18",
+      "author": "Isabella Williams",
+      "country": "Netherlands",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-04",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Harvard Yard, Cambridge and Beacon Hill. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-19",
+      "author": "Isabella Nguyen",
+      "country": "South Korea",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-23",
+      "title": "Highly recommend this package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Boston Duck Tour and New England Aquarium. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boston-3-20",
+      "author": "Anna van Dijk",
+      "country": "New Zealand",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-03",
+      "title": "Loved every moment",
+      "body": "Boston is stunning and this package covered the essentials well, especially Quincy Market / Faneuil Hall Marketplace. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.4,
+    "hotel": 4.3,
+    "transportation": 4.2,
+    "activities": 4.4,
+    "value": 4.4,
+    "cleanliness": 4.2,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Boston Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 22,
+      "neighborhood": "Newbury Street"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Boston Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 40,
+      "neighborhood": "Faneuil Hall Marketplace"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Boston Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 74,
+      "neighborhood": "Copley Place"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Boston Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 95,
+      "neighborhood": "Harvard Square shops"
+    },
+    {
+      "tier": "Resort",
+      "name": "Boston Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 185,
+      "neighborhood": "Wally's Cafe Jazz Club"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Boston Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 328,
+      "neighborhood": "Bell in Hand Tavern (oldest tavern in the US)"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Boston Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 390,
+      "neighborhood": "The Sinclair, Cambridge"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        99,
+        157
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        127,
+        201
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        456,
+        725
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        476,
+        756
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        502,
+        798
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        553,
+        878
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        472,
+        749
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        478,
+        759
+      ],
+      "estimatedFlightHours": 8.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        512,
+        813
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1250,
+        1985
+      ],
+      "estimatedFlightHours": 22.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1123,
+        1783
+      ],
+      "estimatedFlightHours": 20.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        906,
+        1439
+      ],
+      "estimatedFlightHours": 16.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        856,
+        1359
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        867,
+        1377
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1170,
+        1858
+      ],
+      "estimatedFlightHours": 21.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1068,
+        1696
+      ],
+      "estimatedFlightHours": 19.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1153,
+        1832
+      ],
+      "estimatedFlightHours": 20.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1232,
+        1956
+      ],
+      "estimatedFlightHours": 22.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1057,
+        1678
+      ],
+      "estimatedFlightHours": 19.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1095,
+        1739
+      ],
+      "estimatedFlightHours": 19.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        850,
+        1350
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        813,
+        1292
+      ],
+      "estimatedFlightHours": 14.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        833,
+        1323
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        791,
+        1257
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        990,
+        1573
+      ],
+      "estimatedFlightHours": 17.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        636,
+        1010
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Logan International Airport (BOS)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        342,
+        543
+      ],
+      "estimatedFlightHours": 5.7,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Museum of Fine Arts, Boston",
+    "New England Aquarium",
+    "Fenway Park tour",
+    "USS Constitution Museum",
+    "Isabella Stewart Gardner Museum",
+    "Skywalk Observatory, Prudential Center",
+    "Boston Duck Tour",
+    "Freedom Trail",
+    "Boston Public Garden",
+    "Quincy Market / Faneuil Hall Marketplace",
+    "Harvard Yard, Cambridge",
+    "Charles River Esplanade",
+    "Beacon Hill",
+    "North End",
+    "Salem",
+    "Cambridge (Harvard & MIT)",
+    "Cape Cod",
+    "Plymouth",
+    "Boston Children's Museum",
+    "Boston Common",
+    "Revere Beach",
+    "L Street Beach (South Boston)",
+    "Boston Public Garden swan boats",
+    "Acorn Street, Beacon Hill (a famously photogenic cobblestone lane)",
+    "Fenway Park's Green Monster",
+    "Harvard Yard's John Harvard statue",
+    "North End street festivals"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Museum of Fine Arts, Boston",
+      "priceUSD": 27
+    },
+    {
+      "name": "New England Aquarium",
+      "priceUSD": 35
+    },
+    {
+      "name": "Fenway Park tour",
+      "priceUSD": 25
+    },
+    {
+      "name": "USS Constitution Museum",
+      "priceUSD": 5
+    },
+    {
+      "name": "Isabella Stewart Gardner Museum",
+      "priceUSD": 20
+    },
+    {
+      "name": "Skywalk Observatory, Prudential Center",
+      "priceUSD": 22
+    },
+    {
+      "name": "Boston Duck Tour",
+      "priceUSD": 48
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Freedom Trail",
+    "Boston Public Garden",
+    "Quincy Market / Faneuil Hall Marketplace",
+    "Harvard Yard, Cambridge",
+    "Charles River Esplanade",
+    "Beacon Hill",
+    "North End"
+  ],
+  "museums": [
+    "Museum of Fine Arts, Boston",
+    "Isabella Stewart Gardner Museum",
+    "USS Constitution Museum",
+    "Boston Children's Museum"
+  ],
+  "parks": [
+    "Boston Public Garden",
+    "Boston Common",
+    "Charles River Esplanade"
+  ],
+  "beaches": [
+    "Revere Beach",
+    "L Street Beach (South Boston)"
+  ],
+  "dayTrips": [
+    "Salem",
+    "Cambridge (Harvard & MIT)",
+    "Cape Cod",
+    "Plymouth"
+  ],
+  "fromPriceUSD": 646,
+  "seo": {
+    "title": "Boston 3-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "boston-3-day-package",
+    "keywords": [
+      "Boston",
+      "United States",
+      "Boston, United States",
+      "Massachusetts",
+      "Boston tour package",
+      "Boston vacation package",
+      "Boston holiday package",
+      "things to do in Boston",
+      "best time to visit Boston",
+      "Boston itinerary",
+      "3 day Boston itinerary",
+      "Boston flights and hotels",
+      "Boston all inclusive package",
+      "cheap Boston package",
+      "luxury Boston package"
+    ],
+    "canonicalUrl": "/packages/boston-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Boston Package",
+        "url": "/packages/boston-2-day-package"
+      },
+      {
+        "title": "5-Day Boston Package",
+        "url": "/packages/boston-5-day-package"
+      },
+      {
+        "title": "Paris 3-Day City Break",
+        "url": "/packages/paris-3-day-package"
+      },
+      {
+        "title": "London 3-Day City Break",
+        "url": "/packages/london-3-day-package"
+      },
+      {
+        "title": "Rome 3-Day City Break",
+        "url": "/packages/rome-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Boston — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Boston"
+      },
+      {
+        "title": "Boston — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Boston"
+      }
+    ]
+  }
+}

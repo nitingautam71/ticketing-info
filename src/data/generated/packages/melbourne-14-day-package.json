@@ -1,0 +1,1671 @@
+{
+  "id": "PKG-melbourne-14D",
+  "slug": "melbourne-14-day-package",
+  "destinationSlug": "melbourne",
+  "destinationName": "Melbourne",
+  "country": "Australia",
+  "region": "Oceania",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Melbourne 14-Day City Break",
+  "metaTitle": "Melbourne 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Melbourne, Australia: round-trip flights, hotel, breakfast, transfers, and guided tours including Eureka Skydeck and Melbourne Museum. Prices from $3327 per person (estimate).",
+  "highlights": [
+    "Eureka Skydeck",
+    "Melbourne Museum",
+    "Federation Square",
+    "Great Ocean Road"
+  ],
+  "overview": "Spend 14 days discovering Melbourne, Australia — Temperate oceanic climate famous for changing \"four seasons in a day\" — mild, wet winters (highs around 14°C, June-August) and warm, sometimes hot summers (highs around 25-26°C, December-February). March-May (autumn) and September-November (spring), for mild temperatures and fewer extremes than the Southern Hemisphere summer or winter. This itinerary blends Eureka Skydeck, Melbourne Museum, Federation Square with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Eureka Skydeck, Melbourne Museum, Federation Square",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Melbourne",
+      "description": "Land at Melbourne Airport (MEL) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Eureka Skydeck — Observation deck atop one of the Southern Hemisphere's tallest residential towers. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Eureka Skydeck"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 2,
+      "title": "Melbourne: Melbourne Museum & Great Ocean Road day tour",
+      "description": "Morning visit to Melbourne Museum — Natural history and cultural exhibits including an Aboriginal culture gallery. In the afternoon, continue to Great Ocean Road day tour — Coastal drive past the Twelve Apostles rock formations. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Melbourne Museum",
+        "Great Ocean Road day tour"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 3,
+      "title": "Melbourne: Phillip Island Penguin Parade & Federation Square",
+      "description": "Morning visit to Phillip Island Penguin Parade — Evening viewing of little penguins returning to shore, a popular day-trip add-on. In the afternoon, continue to Federation Square — Central civic square and cultural hub. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Phillip Island Penguin Parade",
+        "Federation Square"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Great Ocean Road",
+      "description": "Full-day excursion to Great Ocean Road, a popular side trip from Melbourne. Return to Melbourne in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Great Ocean Road",
+        "Free evening"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Centre Place hidden café laneway — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Centre Place hidden café laneway"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 6,
+      "title": "Melbourne: Laneways street art & Queen Victoria Market",
+      "description": "Morning visit to Laneways street art — Hosier Lane and other graffiti-covered laneways in the CBD. In the afternoon, continue to Queen Victoria Market — Historic open-air market for produce, food, and gifts. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Laneways street art",
+        "Queen Victoria Market"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Yarra Valley wine region",
+      "description": "Full-day excursion to Yarra Valley wine region, a popular side trip from Melbourne. Return to Melbourne in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Yarra Valley wine region",
+        "Free evening"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 8,
+      "title": "Melbourne: Royal Botanic Gardens & St Kilda Beach",
+      "description": "Morning visit to Royal Botanic Gardens — Sweeping gardens beside the Yarra River. In the afternoon, continue to St Kilda Beach — Bayside beach known for its pier and little penguin colony. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Royal Botanic Gardens",
+        "St Kilda Beach"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Abbotsford Convent arts precinct — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Abbotsford Convent arts precinct"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Phillip Island penguin parade",
+      "description": "Full-day excursion to Phillip Island penguin parade, a popular side trip from Melbourne. Return to Melbourne in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Phillip Island penguin parade",
+        "Free evening"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 11,
+      "title": "Melbourne: Eureka Skydeck & Melbourne Museum",
+      "description": "Morning visit to Eureka Skydeck — Observation deck atop one of the Southern Hemisphere's tallest residential towers. In the afternoon, continue to Melbourne Museum — Natural history and cultural exhibits including an Aboriginal culture gallery. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Eureka Skydeck",
+        "Melbourne Museum"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 12,
+      "title": "Melbourne: Great Ocean Road day tour & Phillip Island Penguin Parade",
+      "description": "Morning visit to Great Ocean Road day tour — Coastal drive past the Twelve Apostles rock formations. In the afternoon, continue to Phillip Island Penguin Parade — Evening viewing of little penguins returning to shore, a popular day-trip add-on. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Great Ocean Road day tour",
+        "Phillip Island Penguin Parade"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Neighbourhood laneway bars off the main tourist strips — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Neighbourhood laneway bars off the main tourist strips"
+      ],
+      "overnight": "Melbourne"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Federation Square or some souvenir shopping — before your private transfer to MEL for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Use the free City Circle tram to get an orientation loop of the CBD on arrival.",
+    "Book Great Ocean Road and Phillip Island day tours in advance, especially in peak summer.",
+    "Explore laneways like Hosier Lane and Centre Place for the city's best street art and hidden cafés.",
+    "Pack layers regardless of season — Melbourne's weather can shift dramatically within a single day.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Swimwear and reef-safe sunscreen",
+    "Layers for Melbourne's famously changeable weather (\"four seasons in a day\")",
+    "A light rain jacket year-round",
+    "Comfortable shoes for laneway exploring"
+  ],
+  "thingsToDo": [
+    "Eureka Skydeck",
+    "Melbourne Museum",
+    "Great Ocean Road day tour",
+    "Phillip Island Penguin Parade",
+    "Federation Square",
+    "Laneways street art",
+    "Queen Victoria Market",
+    "Royal Botanic Gardens",
+    "St Kilda Beach",
+    "Great Ocean Road self-drive",
+    "Yarra Valley hot air ballooning",
+    "Cycling the Capital City Trail along the Yarra",
+    "Melbourne Zoo",
+    "Scienceworks Museum",
+    "St Kilda's little penguin colony at dusk"
+  ],
+  "thingsToAvoid": [
+    "Assuming summer means guaranteed warm weather — pack a jacket regardless of the season.",
+    "Skipping a myki card and paying full-fare single tickets.",
+    "Renting a car just for the CBD — parking is expensive and trams cover it better."
+  ],
+  "topRestaurants": [
+    "Chin Chin — Modern Asian ($$$)",
+    "Attica — Native-Australian fine dining ($$$$)",
+    "Degraves Street cafés — Melbourne café culture ($$)",
+    "Movida — Spanish tapas ($$$)"
+  ],
+  "topCafes": [
+    "Patricia Coffee Brewers",
+    "Market Lane Coffee",
+    "Seven Seeds"
+  ],
+  "shoppingAreas": [
+    "Queen Victoria Market",
+    "Chapel Street, South Yarra",
+    "Bourke Street Mall"
+  ],
+  "nightlife": [
+    "Rooftop bars in the CBD",
+    "Fitzroy's Brunswick Street bars",
+    "Cherry Bar, AC/DC Lane"
+  ],
+  "instagramSpots": [
+    "Hosier Lane street art",
+    "Federation Square",
+    "St Kilda pier at sunset",
+    "Great Ocean Road's Twelve Apostles"
+  ],
+  "hiddenGems": [
+    "Centre Place hidden café laneway",
+    "Abbotsford Convent arts precinct",
+    "Neighbourhood laneway bars off the main tourist strips"
+  ],
+  "familyActivities": [
+    "Melbourne Zoo",
+    "Scienceworks Museum",
+    "St Kilda's little penguin colony at dusk"
+  ],
+  "adventureActivities": [
+    "Great Ocean Road self-drive",
+    "Yarra Valley hot air ballooning",
+    "Cycling the Capital City Trail along the Yarra"
+  ],
+  "luxuryExperiences": [
+    "Fine dining tasting menu at Attica",
+    "Private Yarra Valley wine tour with a driver",
+    "Suite stay at a CBD five-star hotel"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at St Kilda pier",
+    "Private Yarra Valley vineyard lunch",
+    "Rooftop dinner overlooking the city skyline"
+  ],
+  "budgetExperiences": [
+    "Free laneway street-art walking tour",
+    "Queen Victoria Market browsing",
+    "Royal Botanic Gardens (free entry)"
+  ],
+  "estimatedDailyBudgetUSD": [
+    75,
+    150,
+    290,
+    620
+  ],
+  "safetyRating": 4.5,
+  "internetRating": 4.5,
+  "publicTransportRating": 4.5,
+  "walkingScore": 80,
+  "accessibilityRating": 4.5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 24,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 16,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 14,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 13,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 15,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 17,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 22,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 24,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Australian Open (tennis)",
+      "timing": "January"
+    },
+    {
+      "name": "Melbourne Cup horse race",
+      "timing": "First Tuesday of November"
+    },
+    {
+      "name": "Melbourne International Comedy Festival",
+      "timing": "March-April"
+    },
+    {
+      "name": "White Night Melbourne",
+      "timing": "February"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "000",
+    "ambulance": "000",
+    "fire": "000"
+  },
+  "localEtiquette": [
+    "Melburnians are serious about coffee — instant coffee or asking for it \"regular\" (American drip) at a café may raise eyebrows.",
+    "Tipping is not customary, though rounding up or 10% for exceptional service is appreciated.",
+    "Queuing in an orderly line, especially for trams, is expected."
+  ],
+  "localTransportGuide": "Melbourne's extensive tram network is the world's largest and includes a free City Circle tram loop through the CBD. A myki card covers trams, trains, and buses across the city; the city's grid layout and laneway culture make central Melbourne very walkable too.",
+  "bestTimeToVisit": "March-May (autumn) and September-November (spring), for mild temperatures and fewer extremes than the Southern Hemisphere summer or winter.",
+  "weather": "Temperate oceanic climate famous for changing \"four seasons in a day\" — mild, wet winters (highs around 14°C, June-August) and warm, sometimes hot summers (highs around 25-26°C, December-February).",
+  "visaInformation": "All visitors to Australia need a visa or electronic travel authority arranged before departure — an eVisitor or ETA for most Western passport holders, or an e-visitor visa for Indian nationals, all applied for online in advance.",
+  "currency": "AUD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "AEST (UTC+10)",
+  "averageFlightTime": "~15.9h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Melbourne Airport (MEL)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Melbourne?",
+      "answer": "All visitors to Australia need a visa or electronic travel authority arranged before departure — an eVisitor or ETA for most Western passport holders, or an e-visitor visa for Indian nationals, all applied for online in advance."
+    },
+    {
+      "question": "What is the best time to visit Melbourne?",
+      "answer": "March-May (autumn) and September-November (spring), for mild temperatures and fewer extremes than the Southern Hemisphere summer or winter. Temperate oceanic climate famous for changing \"four seasons in a day\" — mild, wet winters (highs around 14°C, June-August) and warm, sometimes hot summers (highs around 25-26°C, December-February)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Melbourne safe for tourists?",
+      "answer": "Melbourne is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Melbourne?",
+      "answer": "The local currency is AUD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Food",
+    "Culture",
+    "Nightlife",
+    "Road Trip",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Melbourne",
+    "Australia",
+    "Melbourne, Australia",
+    "Oceania",
+    "Melbourne tour package",
+    "Melbourne vacation package",
+    "Melbourne holiday package",
+    "things to do in Melbourne",
+    "best time to visit Melbourne",
+    "Melbourne itinerary",
+    "14 day Melbourne itinerary",
+    "Melbourne flights and hotels",
+    "Melbourne all inclusive package",
+    "cheap Melbourne package",
+    "luxury Melbourne package",
+    "Melbourne honeymoon package",
+    "Melbourne family vacation",
+    "Melbourne solo trip",
+    "Melbourne group tour",
+    "Melbourne weekend getaway",
+    "Melbourne guided tour",
+    "MEL flights",
+    "Melbourne travel guide",
+    "book Melbourne trip online",
+    "Melbourne trip cost",
+    "Melbourne packages 14 days",
+    "Melbourne city break",
+    "Melbourne food",
+    "Melbourne culture",
+    "Melbourne nightlife",
+    "Melbourne road trip",
+    "Melbourne bucket list",
+    "Eureka Skydeck",
+    "Melbourne Museum",
+    "Great Ocean Road day tour",
+    "Phillip Island Penguin Parade",
+    "Federation Square",
+    "Laneways street art",
+    "Queen Victoria Market",
+    "Royal Botanic Gardens",
+    "St Kilda Beach",
+    "Chin Chin",
+    "Attica",
+    "Degraves Street cafés",
+    "Movida",
+    "Hosier Lane street art",
+    "St Kilda pier at sunset",
+    "Great Ocean Road's Twelve Apostles",
+    "Centre Place hidden café laneway",
+    "Abbotsford Convent arts precinct"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Melbourne, Australia — Hosier Lane street art",
+      "keywords": [
+        "Melbourne",
+        "Australia",
+        "Hosier Lane street art",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Melbourne Hosier Lane street art",
+      "pexelsQuery": "Melbourne Hosier Lane street art",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Melbourne, Australia — Hosier Lane street art",
+      "keywords": [
+        "Melbourne",
+        "Australia",
+        "Hosier Lane street art",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Melbourne Hosier Lane street art",
+      "pexelsQuery": "Melbourne Hosier Lane street art",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Melbourne, Australia — Federation Square skyline",
+      "keywords": [
+        "Melbourne",
+        "Australia",
+        "Federation Square skyline",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Melbourne Federation Square skyline",
+      "pexelsQuery": "Melbourne Federation Square skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Melbourne, Australia — Great Ocean Road Twelve Apostles",
+      "keywords": [
+        "Melbourne",
+        "Australia",
+        "Great Ocean Road Twelve Apostles",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Melbourne Great Ocean Road Twelve Apostles",
+      "pexelsQuery": "Melbourne Great Ocean Road Twelve Apostles",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Melbourne, Australia — Hosier Lane street art",
+      "keywords": [
+        "Melbourne",
+        "Australia",
+        "Hosier Lane street art",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Melbourne Hosier Lane street art",
+      "pexelsQuery": "Melbourne Hosier Lane street art",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Melbourne, Australia — Federation Square skyline",
+      "keywords": [
+        "Melbourne",
+        "Australia",
+        "Federation Square skyline",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Melbourne Federation Square skyline",
+      "pexelsQuery": "Melbourne Federation Square skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Melbourne, Australia — Great Ocean Road Twelve Apostles",
+      "keywords": [
+        "Melbourne",
+        "Australia",
+        "Great Ocean Road Twelve Apostles",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Melbourne Great Ocean Road Twelve Apostles",
+      "pexelsQuery": "Melbourne Great Ocean Road Twelve Apostles",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Melbourne, Australia — St Kilda pier sunset",
+      "keywords": [
+        "Melbourne",
+        "Australia",
+        "St Kilda pier sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Melbourne St Kilda pier sunset",
+      "pexelsQuery": "Melbourne St Kilda pier sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Melbourne, Australia — Eureka Skydeck",
+      "keywords": [
+        "Melbourne",
+        "Australia",
+        "Eureka Skydeck",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Melbourne Eureka Skydeck",
+      "pexelsQuery": "Melbourne Eureka Skydeck",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Melbourne, Australia — Melbourne Museum",
+      "keywords": [
+        "Melbourne",
+        "Australia",
+        "Melbourne Museum",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Melbourne Melbourne Museum",
+      "pexelsQuery": "Melbourne Melbourne Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Melbourne, Australia — Great Ocean Road day tour",
+      "keywords": [
+        "Melbourne",
+        "Australia",
+        "Great Ocean Road day tour",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Melbourne Great Ocean Road day tour",
+      "pexelsQuery": "Melbourne Great Ocean Road day tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Melbourne, Australia — Phillip Island Penguin Parade",
+      "keywords": [
+        "Melbourne",
+        "Australia",
+        "Phillip Island Penguin Parade",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Melbourne Phillip Island Penguin Parade",
+      "pexelsQuery": "Melbourne Phillip Island Penguin Parade",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-melbourne-14-1",
+      "author": "Tom Johnson",
+      "country": "Mexico",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-02-18",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond St Kilda Beach and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-2",
+      "author": "Mohammed Kowalski",
+      "country": "Saudi Arabia",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-01-27",
+      "title": "Great value for money",
+      "body": "Royal Botanic Gardens alone was worth the trip, but combined with St Kilda Beach this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-melbourne-14-3",
+      "author": "Arjun Santos",
+      "country": "Saudi Arabia",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-13",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a family of 4 trip and it was well paced. Royal Botanic Gardens in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-melbourne-14-4",
+      "author": "Priya Dubois",
+      "country": "Netherlands",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-15",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a group trip and it was well paced. Queen Victoria Market in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-melbourne-14-5",
+      "author": "Daniel Costa",
+      "country": "Australia",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-29",
+      "title": "A little rushed but still wonderful",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Melbourne Museum and Great Ocean Road day tour. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-6",
+      "author": "Fatima Botha",
+      "country": "Germany",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-08",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Great Ocean Road day tour alone was worth the trip, but combined with Melbourne Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-7",
+      "author": "Nadia Silva",
+      "country": "South Africa",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-08-08",
+      "title": "Would book again in a heartbeat",
+      "body": "Melbourne is stunning and this package covered the essentials well, especially Laneways street art. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-8",
+      "author": "Ava Ivanov",
+      "country": "United Kingdom",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-01-28",
+      "title": "So many hidden gems included",
+      "body": "Eureka Skydeck alone was worth the trip, but combined with Royal Botanic Gardens this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-melbourne-14-9",
+      "author": "Hiroshi Tanaka",
+      "country": "Spain",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-04-20",
+      "title": "Solid mid-range package",
+      "body": "St Kilda Beach alone was worth the trip, but combined with Federation Square this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-10",
+      "author": "Tom Sharma",
+      "country": "Netherlands",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-01-16",
+      "title": "Unforgettable trip!",
+      "body": "We added a couple of optional activities beyond Queen Victoria Market and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-11",
+      "author": "Yuki Ibrahim",
+      "country": "UAE",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-04",
+      "title": "Perfect for our honeymoon",
+      "body": "Phillip Island Penguin Parade alone was worth the trip, but combined with Melbourne Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-12",
+      "author": "Anna Novak",
+      "country": "Saudi Arabia",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-03",
+      "title": "Luxury without the hassle",
+      "body": "Melbourne is stunning and this package covered the essentials well, especially Royal Botanic Gardens. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-13",
+      "author": "Sofia Silva",
+      "country": "Saudi Arabia",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-03-05",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a solo trip and it was well paced. Royal Botanic Gardens in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-14",
+      "author": "Emma Cohen",
+      "country": "Netherlands",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-07-01",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to Melbourne was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Queen Victoria Market was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-melbourne-14-15",
+      "author": "Yuki Larsen",
+      "country": "Saudi Arabia",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-01-12",
+      "title": "Adventure of a lifetime",
+      "body": "Royal Botanic Gardens alone was worth the trip, but combined with Royal Botanic Gardens this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-16",
+      "author": "Nadia Larsen",
+      "country": "South Korea",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-14",
+      "title": "Worth every penny",
+      "body": "Melbourne is stunning and this package covered the essentials well, especially Federation Square. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-melbourne-14-17",
+      "author": "Wei Costa",
+      "country": "Canada",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-09-29",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a solo trip and it was well paced. Melbourne Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-18",
+      "author": "Arjun Khan",
+      "country": "Singapore",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-04",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a couple trip and it was well paced. Phillip Island Penguin Parade in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-19",
+      "author": "Arjun van Dijk",
+      "country": "Spain",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-30",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a family of 4 trip and it was well paced. St Kilda Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-melbourne-14-20",
+      "author": "Tom Botha",
+      "country": "South Africa",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-11-19",
+      "title": "Unforgettable trip!",
+      "body": "We added a couple of optional activities beyond Laneways street art and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Melbourne Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 17,
+      "neighborhood": "Queen Victoria Market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Melbourne Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 30,
+      "neighborhood": "Chapel Street, South Yarra"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Melbourne Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 53,
+      "neighborhood": "Bourke Street Mall"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Melbourne Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 68,
+      "neighborhood": "Rooftop bars in the CBD"
+    },
+    {
+      "tier": "Resort",
+      "name": "Melbourne Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 145,
+      "neighborhood": "Fitzroy's Brunswick Street bars"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Melbourne Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 260,
+      "neighborhood": "Cherry Bar, AC/DC Lane"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Melbourne Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 310,
+      "neighborhood": "Patricia Coffee Brewers"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1281,
+        2034
+      ],
+      "estimatedFlightHours": 23.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1252,
+        1989
+      ],
+      "estimatedFlightHours": 22.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        1298,
+        2061
+      ],
+      "estimatedFlightHours": 23.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1289,
+        2048
+      ],
+      "estimatedFlightHours": 23.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        1255,
+        1994
+      ],
+      "estimatedFlightHours": 22.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1232,
+        1956
+      ],
+      "estimatedFlightHours": 22.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        1327,
+        2107
+      ],
+      "estimatedFlightHours": 24.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1272,
+        2020
+      ],
+      "estimatedFlightHours": 23.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1257,
+        1997
+      ],
+      "estimatedFlightHours": 22.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        128,
+        204
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        266,
+        423
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        813,
+        1292
+      ],
+      "estimatedFlightHours": 14.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        668,
+        1061
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        697,
+        1107
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        514,
+        817
+      ],
+      "estimatedFlightHours": 9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        609,
+        968
+      ],
+      "estimatedFlightHours": 10.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        536,
+        852
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        453,
+        720
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        535,
+        849
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        562,
+        892
+      ],
+      "estimatedFlightHours": 9.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        920,
+        1461
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        969,
+        1539
+      ],
+      "estimatedFlightHours": 17.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        942,
+        1496
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        981,
+        1558
+      ],
+      "estimatedFlightHours": 17.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        823,
+        1307
+      ],
+      "estimatedFlightHours": 14.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1022,
+        1623
+      ],
+      "estimatedFlightHours": 18.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Melbourne Airport (MEL)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1057,
+        1678
+      ],
+      "estimatedFlightHours": 19.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Eureka Skydeck",
+    "Melbourne Museum",
+    "Great Ocean Road day tour",
+    "Phillip Island Penguin Parade",
+    "Federation Square",
+    "Laneways street art",
+    "Queen Victoria Market",
+    "Royal Botanic Gardens",
+    "St Kilda Beach",
+    "Great Ocean Road",
+    "Yarra Valley wine region",
+    "Mornington Peninsula",
+    "National Gallery of Victoria",
+    "Australian Centre for the Moving Image",
+    "Fitzroy Gardens",
+    "Yarra Bend Park",
+    "Brighton Beach (colorful bathing boxes)",
+    "Hosier Lane street art",
+    "St Kilda pier at sunset",
+    "Great Ocean Road's Twelve Apostles"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Eureka Skydeck",
+      "priceUSD": 20
+    },
+    {
+      "name": "Melbourne Museum",
+      "priceUSD": 10
+    },
+    {
+      "name": "Great Ocean Road day tour",
+      "priceUSD": 90
+    },
+    {
+      "name": "Phillip Island Penguin Parade",
+      "priceUSD": 20
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Federation Square",
+    "Laneways street art",
+    "Queen Victoria Market",
+    "Royal Botanic Gardens",
+    "St Kilda Beach"
+  ],
+  "museums": [
+    "Melbourne Museum",
+    "National Gallery of Victoria",
+    "Australian Centre for the Moving Image"
+  ],
+  "parks": [
+    "Royal Botanic Gardens",
+    "Fitzroy Gardens",
+    "Yarra Bend Park"
+  ],
+  "beaches": [
+    "St Kilda Beach",
+    "Brighton Beach (colorful bathing boxes)"
+  ],
+  "dayTrips": [
+    "Great Ocean Road",
+    "Yarra Valley wine region",
+    "Phillip Island penguin parade",
+    "Mornington Peninsula"
+  ],
+  "fromPriceUSD": 3327,
+  "seo": {
+    "title": "Melbourne 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "melbourne-14-day-package",
+    "keywords": [
+      "Melbourne",
+      "Australia",
+      "Melbourne, Australia",
+      "Oceania",
+      "Melbourne tour package",
+      "Melbourne vacation package",
+      "Melbourne holiday package",
+      "things to do in Melbourne",
+      "best time to visit Melbourne",
+      "Melbourne itinerary",
+      "14 day Melbourne itinerary",
+      "Melbourne flights and hotels",
+      "Melbourne all inclusive package",
+      "cheap Melbourne package",
+      "luxury Melbourne package"
+    ],
+    "canonicalUrl": "/packages/melbourne-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Melbourne Package",
+        "url": "/packages/melbourne-10-day-package"
+      },
+      {
+        "title": "7-Day Melbourne Package",
+        "url": "/packages/melbourne-7-day-package"
+      },
+      {
+        "title": "London 14-Day City Break",
+        "url": "/packages/london-14-day-package"
+      },
+      {
+        "title": "Barcelona 14-Day City Break",
+        "url": "/packages/barcelona-14-day-package"
+      },
+      {
+        "title": "Lisbon 14-Day City Break",
+        "url": "/packages/lisbon-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Melbourne — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Melbourne"
+      },
+      {
+        "title": "Melbourne — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Melbourne"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1698 @@
+{
+  "id": "PKG-havana-10D",
+  "slug": "havana-10-day-package",
+  "destinationSlug": "havana",
+  "destinationName": "Havana",
+  "country": "Cuba",
+  "region": "Havana Province",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Havana 10-Day City Break",
+  "metaTitle": "Havana 10-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Havana, Cuba: round-trip flights, hotel, breakfast, transfers, and guided tours including Museo de la Revolución and Old Havana (Habana Vieja) walking tour. Prices from $935 per person (estimate).",
+  "highlights": [
+    "Museo de la Revolución",
+    "Old Havana (Habana Vieja) walking tour",
+    "Malecón seafront promenade",
+    "Viñales Valley tobacco region"
+  ],
+  "overview": "Spend 10 days discovering Havana, Cuba — Tropical climate with warm winters (highs around 26°C) and hot, humid summers (highs around 32-33°C); hurricane season runs June to November, peaking August-October. November to April is the dry season with pleasant temperatures and lower humidity, avoiding the June-November hurricane risk window. This itinerary blends Museo de la Revolución, Old Havana (Habana Vieja) walking tour, Malecón seafront promenade with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Museo de la Revolución, Old Havana (Habana Vieja) walking tour, Malecón seafront promenade",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Havana",
+      "description": "Land at José Martí International Airport (HAV) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Museo de la Revolución — Cuban Revolution history museum in the former Presidential Palace. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Museo de la Revolución"
+      ],
+      "overnight": "Havana"
+    },
+    {
+      "day": 2,
+      "title": "Havana: Old Havana (Habana Vieja) walking tour & Classic convertible car tour (Malecón/city loop)",
+      "description": "Morning visit to Old Havana (Habana Vieja) walking tour — UNESCO World Heritage colonial old town guided tour. In the afternoon, continue to Classic convertible car tour (Malecón/city loop) — Ride in a vintage 1950s American convertible around the city. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Old Havana (Habana Vieja) walking tour",
+        "Classic convertible car tour (Malecón/city loop)"
+      ],
+      "overnight": "Havana"
+    },
+    {
+      "day": 3,
+      "title": "Havana: Fábrica de Arte Cubano (FAC) & Museo Nacional de Bellas Artes",
+      "description": "Morning visit to Fábrica de Arte Cubano (FAC) — Converted factory hosting art, live music and nightlife. In the afternoon, continue to Museo Nacional de Bellas Artes — National fine arts museum with a strong Cuban art collection. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Fábrica de Arte Cubano (FAC)",
+        "Museo Nacional de Bellas Artes"
+      ],
+      "overnight": "Havana"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Viñales Valley tobacco region",
+      "description": "Full-day excursion to Viñales Valley tobacco region, a popular side trip from Havana. Return to Havana in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Viñales Valley tobacco region",
+        "Free evening"
+      ],
+      "overnight": "Havana"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Fusterlandia in Jaimanitas — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Fusterlandia in Jaimanitas"
+      ],
+      "overnight": "Havana"
+    },
+    {
+      "day": 6,
+      "title": "Havana: Fortaleza San Carlos de la Cabaña (evening cannon ceremony) & Tropicana Cabaret show",
+      "description": "Morning visit to Fortaleza San Carlos de la Cabaña (evening cannon ceremony) — Historic fortress hosting the nightly 9pm cannon-firing ceremony. In the afternoon, continue to Tropicana Cabaret show — Legendary open-air cabaret with dancers, established 1939. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Fortaleza San Carlos de la Cabaña (evening cannon ceremony)",
+        "Tropicana Cabaret show"
+      ],
+      "overnight": "Havana"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Playas del Este beaches",
+      "description": "Full-day excursion to Playas del Este beaches, a popular side trip from Havana. Return to Havana in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Playas del Este beaches",
+        "Free evening"
+      ],
+      "overnight": "Havana"
+    },
+    {
+      "day": 8,
+      "title": "Havana: Partagás Cigar Factory tour & Museo del Ron Havana Club",
+      "description": "Morning visit to Partagás Cigar Factory tour — Guided tour of a historic hand-rolled cigar factory. In the afternoon, continue to Museo del Ron Havana Club — Rum museum with distillery history and a tasting. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Partagás Cigar Factory tour",
+        "Museo del Ron Havana Club"
+      ],
+      "overnight": "Havana"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Callejón de Hamel Sunday rumba sessions — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Callejón de Hamel Sunday rumba sessions"
+      ],
+      "overnight": "Havana"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Hemingway trail tour (Finca Vigía and Cojímar) or some souvenir shopping — before your private transfer to HAV for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Bring all the cash you'll need in euros or another convertible currency to exchange — US-issued cards generally don't work due to the embargo.",
+    "US travelers must select and keep documentation for an OFAC-authorized travel category — pure tourism is not permitted.",
+    "Book a casa particular (private homestay) for a more authentic, often cheaper stay than state-run hotels.",
+    "Buy an internet Wi-Fi card (ETECSA) at public hotspots — most public squares and hotel lobbies have them.",
+    "Eating at paladares (private restaurants) generally means better food and service than state-run restaurants.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Bring sufficient cash — international debit/credit cards from most countries do not work in Cuba due to sanctions",
+    "Basic toiletries and medicine — imported goods are scarce and appreciated as gifts",
+    "A portable charger — power outages are not uncommon",
+    "Lightweight clothing plus a light rain jacket for humid, showery weather"
+  ],
+  "thingsToDo": [
+    "Museo de la Revolución",
+    "Old Havana (Habana Vieja) walking tour",
+    "Classic convertible car tour (Malecón/city loop)",
+    "Fábrica de Arte Cubano (FAC)",
+    "Museo Nacional de Bellas Artes",
+    "Fortaleza San Carlos de la Cabaña (evening cannon ceremony)",
+    "Tropicana Cabaret show",
+    "Partagás Cigar Factory tour",
+    "Museo del Ron Havana Club",
+    "Hemingway trail tour (Finca Vigía and Cojímar)",
+    "Callejón de Hamel Afro-Cuban art tour",
+    "Malecón seafront promenade",
+    "Plaza Vieja",
+    "Plaza de la Catedral",
+    "Paseo del Prado",
+    "Callejón de Hamel",
+    "Plaza de la Revolución",
+    "Capitolio Nacional exterior",
+    "Fusterlandia",
+    "Central Park (Parque Central)"
+  ],
+  "thingsToAvoid": [
+    "Assuming any US-issued card will work — bring enough cash in euros/pounds/CAD, as ATMs are unreliable for foreign cards.",
+    "Buying cigars from unlicensed street sellers — counterfeit cigars are common; buy from official factory shops.",
+    "Openly criticizing the government in public conversations.",
+    "Relying on constant internet access — connectivity is limited, metered and often slow.",
+    "Skipping mandatory travel/health insurance — Cuba requires proof of insurance for entry."
+  ],
+  "topRestaurants": [
+    "La Guarida — Contemporary Cuban Paladar ($$$)",
+    "El Cocinero — Modern Cuban ($$$)",
+    "La Bodeguita del Medio — Traditional Cuban/Mojito birthplace ($$)",
+    "Doña Eutimia — Traditional Cuban Paladar ($$)",
+    "San Cristóbal Paladar — Cuban Fine Dining ($$$)",
+    "El Floridita — Cuban/Daiquiri birthplace ($$$)",
+    "Café Laurent — Cuban-Mediterranean Rooftop ($$$)",
+    "Paladar Los Mercaderes — Cuban Fine Dining ($$$)",
+    "Ivan Chef Justo — Cuban Fusion ($$)"
+  ],
+  "topCafes": [
+    "Café El Escorial (Plaza Vieja)",
+    "Café Bohemia",
+    "Fábrica de Arte Cubano café-lounge",
+    "Café Arcangel",
+    "O'Reilly 304"
+  ],
+  "shoppingAreas": [
+    "Plaza de la Catedral craft stalls",
+    "Almacenes San José Artisans' Market",
+    "Calle Obispo shops",
+    "Partagás Cigar Factory shop",
+    "Plaza de Armas secondhand book market"
+  ],
+  "nightlife": [
+    "Fábrica de Arte Cubano",
+    "Tropicana Cabaret",
+    "Casa de la Música Habana",
+    "Callejón de Hamel Sunday rumba",
+    "La Zorra y el Cuervo jazz club"
+  ],
+  "instagramSpots": [
+    "Vintage convertible cars on the Malecón",
+    "Plaza Vieja colorful colonial facades",
+    "Fusterlandia mosaic murals",
+    "Capitolio Nacional at sunset",
+    "Callejón de Hamel Afro-Cuban murals"
+  ],
+  "hiddenGems": [
+    "Fusterlandia in Jaimanitas",
+    "Callejón de Hamel Sunday rumba sessions",
+    "Necrópolis Cristóbal Colón (grand cemetery)",
+    "Regla ferry crossing across the harbor",
+    "Chinatown (Barrio Chino) remnants"
+  ],
+  "familyActivities": [
+    "Vintage convertible car city tour",
+    "Havana aquarium (Acuario Nacional)",
+    "Plaza Vieja camera obscura",
+    "Coppelia ice cream park",
+    "Parque Lenin (outskirts) for a nature break"
+  ],
+  "adventureActivities": [
+    "Cycling the Malecón at sunset",
+    "Day trip snorkeling/diving at Playas del Este",
+    "Exploring Fortaleza San Carlos de la Cabaña ramparts",
+    "Salsa dancing lessons in Old Havana"
+  ],
+  "luxuryExperiences": [
+    "Suite stay at the Hotel Nacional de Cuba",
+    "Private vintage convertible tour with a driver-guide",
+    "Tropicana Cabaret VIP table with premium rum",
+    "Tasting menu at San Cristóbal or La Guarida"
+  ],
+  "honeymoonExperiences": [
+    "Sunset convertible car ride along the Malecón",
+    "Private rooftop dinner overlooking Old Havana",
+    "Live son/salsa music date night",
+    "Cigar and rum tasting for two"
+  ],
+  "budgetExperiences": [
+    "Free sunset stroll along the Malecón",
+    "Mojito at La Bodeguita del Medio (its birthplace) for a modest price",
+    "Free wander through Plaza Vieja and Plaza de la Catedral",
+    "Callejón de Hamel Sunday rumba, donation-based"
+  ],
+  "estimatedDailyBudgetUSD": [
+    40,
+    110,
+    240,
+    500
+  ],
+  "safetyRating": 4,
+  "internetRating": 2,
+  "publicTransportRating": 2,
+  "walkingScore": 65,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 29,
+      "crowd": "Low"
+    },
+    {
+      "month": "Nov",
+      "highC": 27,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 26,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Havana International Jazz Festival",
+      "timing": "Mid-to-late January"
+    },
+    {
+      "name": "Havana Biennial (art)",
+      "timing": "Every two-three years, typically November-April"
+    },
+    {
+      "name": "Havana Carnival",
+      "timing": "August"
+    },
+    {
+      "name": "Havana International Ballet Festival",
+      "timing": "Late October to early November"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "106",
+    "ambulance": "104",
+    "fire": "105"
+  },
+  "localEtiquette": [
+    "Cubans are warm and expressive — greetings with a handshake or cheek kiss (between women, or man-woman) are common.",
+    "Tipping in cash (USD, EUR or CUP) is important and appreciated — many service workers rely heavily on tips given low state wages.",
+    "Bring small gifts (toiletries, medicine, school supplies) if visiting a casa particular — genuinely useful given import restrictions.",
+    "Avoid loud political commentary about the government in public settings out of respect and caution.",
+    "Internet access is limited and metered via Wi-Fi cards/hotspots in public squares — don't expect always-on connectivity."
+  ],
+  "localTransportGuide": "Classic taxis, official state taxis and the hop-on-hop-off Habana Bus Tour cover most visitor needs, since public buses are crowded and run unpredictably. Walking is the best way to explore Old Havana itself, and pre-arranging casa particular or hotel transfers avoids haggling confusion on arrival.",
+  "bestTimeToVisit": "November to April is the dry season with pleasant temperatures and lower humidity, avoiding the June-November hurricane risk window.",
+  "weather": "Tropical climate with warm winters (highs around 26°C) and hot, humid summers (highs around 32-33°C); hurricane season runs June to November, peaking August-October.",
+  "visaInformation": "Most visitors need a Cuban Tourist Card (visa) arranged in advance or through the airline before travel. US citizens and permanent residents face additional OFAC restrictions limiting travel to 12 authorized categories (such as \"Support for the Cuban People\") and cannot travel purely as a tourist — proper documentation of a qualifying purpose is required. Indian nationals and most others need the standard Tourist Card plus travel/health insurance valid in Cuba.",
+  "currency": "CUP",
+  "languages": [
+    "Spanish"
+  ],
+  "timeZone": "CST (UTC-5)",
+  "averageFlightTime": "~15.6h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "José Martí International Airport (HAV)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Havana?",
+      "answer": "Most visitors need a Cuban Tourist Card (visa) arranged in advance or through the airline before travel. US citizens and permanent residents face additional OFAC restrictions limiting travel to 12 authorized categories (such as \"Support for the Cuban People\") and cannot travel purely as a tourist — proper documentation of a qualifying purpose is required. Indian nationals and most others need the standard Tourist Card plus travel/health insurance valid in Cuba."
+    },
+    {
+      "question": "What is the best time to visit Havana?",
+      "answer": "November to April is the dry season with pleasant temperatures and lower humidity, avoiding the June-November hurricane risk window. Tropical climate with warm winters (highs around 26°C) and hot, humid summers (highs around 32-33°C); hurricane season runs June to November, peaking August-October."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Havana safe for tourists?",
+      "answer": "Havana is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Havana?",
+      "answer": "The local currency is CUP. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "History",
+    "Nightlife",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Havana",
+    "Cuba",
+    "Havana, Cuba",
+    "Havana Province",
+    "Havana tour package",
+    "Havana vacation package",
+    "Havana holiday package",
+    "things to do in Havana",
+    "best time to visit Havana",
+    "Havana itinerary",
+    "10 day Havana itinerary",
+    "Havana flights and hotels",
+    "Havana all inclusive package",
+    "cheap Havana package",
+    "luxury Havana package",
+    "Havana honeymoon package",
+    "Havana family vacation",
+    "Havana solo trip",
+    "Havana group tour",
+    "Havana weekend getaway",
+    "Havana guided tour",
+    "HAV flights",
+    "Havana travel guide",
+    "book Havana trip online",
+    "Havana trip cost",
+    "Havana packages 10 days",
+    "Havana city break",
+    "Havana culture",
+    "Havana history",
+    "Havana nightlife",
+    "Havana bucket list",
+    "Museo de la Revolución",
+    "Old Havana (Habana Vieja) walking tour",
+    "Classic convertible car tour (Malecón/city loop)",
+    "Fábrica de Arte Cubano (FAC)",
+    "Museo Nacional de Bellas Artes",
+    "Fortaleza San Carlos de la Cabaña (evening cannon ceremony)",
+    "Tropicana Cabaret show",
+    "Partagás Cigar Factory tour",
+    "Museo del Ron Havana Club",
+    "Hemingway trail tour (Finca Vigía and Cojímar)",
+    "Callejón de Hamel Afro-Cuban art tour",
+    "Malecón seafront promenade",
+    "Plaza Vieja",
+    "Plaza de la Catedral",
+    "Paseo del Prado",
+    "Callejón de Hamel",
+    "Plaza de la Revolución",
+    "Capitolio Nacional exterior",
+    "Fusterlandia"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Havana, Cuba — vintage convertible cars Malecón",
+      "keywords": [
+        "Havana",
+        "Cuba",
+        "vintage convertible cars Malecón",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Havana vintage convertible cars Malecón",
+      "pexelsQuery": "Havana vintage convertible cars Malecón",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Havana, Cuba — vintage convertible cars Malecón",
+      "keywords": [
+        "Havana",
+        "Cuba",
+        "vintage convertible cars Malecón",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Havana vintage convertible cars Malecón",
+      "pexelsQuery": "Havana vintage convertible cars Malecón",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Havana, Cuba — Plaza Vieja colonial facades",
+      "keywords": [
+        "Havana",
+        "Cuba",
+        "Plaza Vieja colonial facades",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Havana Plaza Vieja colonial facades",
+      "pexelsQuery": "Havana Plaza Vieja colonial facades",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Havana, Cuba — Fusterlandia mosaic art",
+      "keywords": [
+        "Havana",
+        "Cuba",
+        "Fusterlandia mosaic art",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Havana Fusterlandia mosaic art",
+      "pexelsQuery": "Havana Fusterlandia mosaic art",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Havana, Cuba — vintage convertible cars Malecón",
+      "keywords": [
+        "Havana",
+        "Cuba",
+        "vintage convertible cars Malecón",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Havana vintage convertible cars Malecón",
+      "pexelsQuery": "Havana vintage convertible cars Malecón",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Havana, Cuba — Plaza Vieja colonial facades",
+      "keywords": [
+        "Havana",
+        "Cuba",
+        "Plaza Vieja colonial facades",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Havana Plaza Vieja colonial facades",
+      "pexelsQuery": "Havana Plaza Vieja colonial facades",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Havana, Cuba — Fusterlandia mosaic art",
+      "keywords": [
+        "Havana",
+        "Cuba",
+        "Fusterlandia mosaic art",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Havana Fusterlandia mosaic art",
+      "pexelsQuery": "Havana Fusterlandia mosaic art",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Havana, Cuba — Old Havana colorful street",
+      "keywords": [
+        "Havana",
+        "Cuba",
+        "Old Havana colorful street",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Havana Old Havana colorful street",
+      "pexelsQuery": "Havana Old Havana colorful street",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Havana, Cuba — Museo de la Revolución",
+      "keywords": [
+        "Havana",
+        "Cuba",
+        "Museo de la Revolución",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Havana Museo de la Revolución",
+      "pexelsQuery": "Havana Museo de la Revolución",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Havana, Cuba — Old Havana (Habana Vieja) walking tour",
+      "keywords": [
+        "Havana",
+        "Cuba",
+        "Old Havana (Habana Vieja) walking tour",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Havana Old Havana (Habana Vieja) walking tour",
+      "pexelsQuery": "Havana Old Havana (Habana Vieja) walking tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Havana, Cuba — Classic convertible car tour (Malecón/city loop)",
+      "keywords": [
+        "Havana",
+        "Cuba",
+        "Classic convertible car tour (Malecón/city loop)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Havana Classic convertible car tour (Malecón/city loop)",
+      "pexelsQuery": "Havana Classic convertible car tour (Malecón/city loop)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Havana, Cuba — Fábrica de Arte Cubano (FAC)",
+      "keywords": [
+        "Havana",
+        "Cuba",
+        "Fábrica de Arte Cubano (FAC)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Havana Fábrica de Arte Cubano (FAC)",
+      "pexelsQuery": "Havana Fábrica de Arte Cubano (FAC)",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-havana-10-1",
+      "author": "Wei van Dijk",
+      "country": "Brazil",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-10",
+      "title": "Worth every penny",
+      "body": "Booked this as a solo trip and it was well paced. Malecón seafront promenade in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-2",
+      "author": "Marco Sharma",
+      "country": "Mexico",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-08",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Capitolio Nacional exterior and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-3",
+      "author": "Ava van Dijk",
+      "country": "South Africa",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-22",
+      "title": "Consultant made it effortless",
+      "body": "Plaza Vieja alone was worth the trip, but combined with Old Havana (Habana Vieja) walking tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-4",
+      "author": "Wei Brown",
+      "country": "South Africa",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-04-14",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a group trip and it was well paced. Plaza Vieja in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-5",
+      "author": "Noah Smith",
+      "country": "UAE",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-04",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to Havana was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Partagás Cigar Factory tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-6",
+      "author": "Hiroshi Patel",
+      "country": "Saudi Arabia",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-12",
+      "title": "So many hidden gems included",
+      "body": "Plaza de la Revolución alone was worth the trip, but combined with Tropicana Cabaret show this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-7",
+      "author": "Anna Silva",
+      "country": "United Kingdom",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-20",
+      "title": "Solid mid-range package",
+      "body": "Havana is stunning and this package covered the essentials well, especially Old Havana (Habana Vieja) walking tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-8",
+      "author": "Marco Ivanov",
+      "country": "UAE",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-06-02",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Partagás Cigar Factory tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-9",
+      "author": "Priya Müller",
+      "country": "France",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-11",
+      "title": "Great value for money",
+      "body": "Booked this as a solo trip and it was well paced. Fortaleza San Carlos de la Cabaña (evening cannon ceremony) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-10",
+      "author": "Anna Santos",
+      "country": "Germany",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-10-27",
+      "title": "Exceeded our expectations",
+      "body": "Havana is stunning and this package covered the essentials well, especially Museo Nacional de Bellas Artes. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-11",
+      "author": "Mia Sharma",
+      "country": "Australia",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-03-25",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Fábrica de Arte Cubano (FAC) and Plaza de la Catedral. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-12",
+      "author": "Grace Nguyen",
+      "country": "South Korea",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-18",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Hemingway trail tour (Finca Vigía and Cojímar) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-13",
+      "author": "Sarah Novak",
+      "country": "Spain",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-11",
+      "title": "Smooth from start to finish",
+      "body": "Havana is stunning and this package covered the essentials well, especially Central Park (Parque Central). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-14",
+      "author": "Sofia Cohen",
+      "country": "Spain",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-03-30",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a couple trip and it was well paced. Central Park (Parque Central) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-15",
+      "author": "Liam Larsen",
+      "country": "Mexico",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-03-08",
+      "title": "Five stars, will return",
+      "body": "Our trip to Havana was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Capitolio Nacional exterior was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-16",
+      "author": "Liam Brown",
+      "country": "France",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-06-14",
+      "title": "Loved every moment",
+      "body": "Our trip to Havana was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Fortaleza San Carlos de la Cabaña (evening cannon ceremony) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-17",
+      "author": "Hiroshi Johnson",
+      "country": "South Korea",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-12-02",
+      "title": "Exceeded our expectations",
+      "body": "Hemingway trail tour (Finca Vigía and Cojímar) alone was worth the trip, but combined with Plaza Vieja this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-havana-10-18",
+      "author": "Daniel Silva",
+      "country": "Brazil",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-04",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Malecón seafront promenade and Museo de la Revolución. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-havana-10-19",
+      "author": "Olivia Dubois",
+      "country": "New Zealand",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-09-25",
+      "title": "Loved every moment",
+      "body": "Our trip to Havana was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Plaza de la Catedral was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-havana-10-20",
+      "author": "Mia Tanaka",
+      "country": "Singapore",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-05",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Museo del Ron Havana Club and Fortaleza San Carlos de la Cabaña (evening cannon ceremony). Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.2,
+    "hotel": 4.3,
+    "transportation": 4.1,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Havana Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 9,
+      "neighborhood": "Plaza de la Catedral craft stalls"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Havana Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 16,
+      "neighborhood": "Almacenes San José Artisans' Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Havana Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 39,
+      "neighborhood": "Calle Obispo shops"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Havana Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 50,
+      "neighborhood": "Partagás Cigar Factory shop"
+    },
+    {
+      "tier": "Resort",
+      "name": "Havana Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 120,
+      "neighborhood": "Plaza de Armas secondhand book market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Havana Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 210,
+      "neighborhood": "Fábrica de Arte Cubano"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Havana Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 250,
+      "neighborhood": "Tropicana Cabaret"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        229,
+        363
+      ],
+      "estimatedFlightHours": 3.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        243,
+        386
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        618,
+        981
+      ],
+      "estimatedFlightHours": 10.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        634,
+        1007
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        664,
+        1054
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        705,
+        1119
+      ],
+      "estimatedFlightHours": 12.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        614,
+        975
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        641,
+        1018
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        670,
+        1064
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1139,
+        1809
+      ],
+      "estimatedFlightHours": 20.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        989,
+        1570
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1078,
+        1712
+      ],
+      "estimatedFlightHours": 19.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        953,
+        1513
+      ],
+      "estimatedFlightHours": 17.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        987,
+        1567
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1320,
+        2097
+      ],
+      "estimatedFlightHours": 24,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1226,
+        1947
+      ],
+      "estimatedFlightHours": 22.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1309,
+        2079
+      ],
+      "estimatedFlightHours": 23.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1369,
+        2175
+      ],
+      "estimatedFlightHours": 25,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1169,
+        1856
+      ],
+      "estimatedFlightHours": 21.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1241,
+        1971
+      ],
+      "estimatedFlightHours": 22.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1013,
+        1609
+      ],
+      "estimatedFlightHours": 18.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        970,
+        1540
+      ],
+      "estimatedFlightHours": 17.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        994,
+        1578
+      ],
+      "estimatedFlightHours": 17.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        953,
+        1513
+      ],
+      "estimatedFlightHours": 17.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1020,
+        1620
+      ],
+      "estimatedFlightHours": 18.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        544,
+        864
+      ],
+      "estimatedFlightHours": 9.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "José Martí International Airport (HAV)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        206,
+        327
+      ],
+      "estimatedFlightHours": 3.2,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Museo de la Revolución",
+    "Old Havana (Habana Vieja) walking tour",
+    "Classic convertible car tour (Malecón/city loop)",
+    "Fábrica de Arte Cubano (FAC)",
+    "Museo Nacional de Bellas Artes",
+    "Fortaleza San Carlos de la Cabaña (evening cannon ceremony)",
+    "Tropicana Cabaret show",
+    "Partagás Cigar Factory tour",
+    "Museo del Ron Havana Club",
+    "Hemingway trail tour (Finca Vigía and Cojímar)",
+    "Callejón de Hamel Afro-Cuban art tour",
+    "Malecón seafront promenade",
+    "Plaza Vieja",
+    "Plaza de la Catedral",
+    "Paseo del Prado",
+    "Callejón de Hamel",
+    "Plaza de la Revolución",
+    "Capitolio Nacional exterior",
+    "Fusterlandia",
+    "Central Park (Parque Central)",
+    "Viñales Valley tobacco region",
+    "Playas del Este beaches",
+    "Hemingway's Finca Vigía in San Francisco de Paula",
+    "Trinidad (further, often an overnight trip)",
+    "Hemingway's Finca Vigía museum",
+    "Parque Central",
+    "Parque Lenin",
+    "Almendares Park",
+    "Playas del Este (day trip)",
+    "Playa Santa María del Mar",
+    "Vintage convertible cars on the Malecón",
+    "Plaza Vieja colorful colonial facades",
+    "Fusterlandia mosaic murals",
+    "Capitolio Nacional at sunset",
+    "Callejón de Hamel Afro-Cuban murals"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Museo de la Revolución",
+      "priceUSD": 8
+    },
+    {
+      "name": "Old Havana (Habana Vieja) walking tour",
+      "priceUSD": 20
+    },
+    {
+      "name": "Classic convertible car tour (Malecón/city loop)",
+      "priceUSD": 40
+    },
+    {
+      "name": "Fábrica de Arte Cubano (FAC)",
+      "priceUSD": 3
+    },
+    {
+      "name": "Museo Nacional de Bellas Artes",
+      "priceUSD": 8
+    },
+    {
+      "name": "Fortaleza San Carlos de la Cabaña (evening cannon ceremony)",
+      "priceUSD": 8
+    },
+    {
+      "name": "Tropicana Cabaret show",
+      "priceUSD": 90
+    },
+    {
+      "name": "Partagás Cigar Factory tour",
+      "priceUSD": 15
+    },
+    {
+      "name": "Museo del Ron Havana Club",
+      "priceUSD": 10
+    },
+    {
+      "name": "Hemingway trail tour (Finca Vigía and Cojímar)",
+      "priceUSD": 35
+    },
+    {
+      "name": "Callejón de Hamel Afro-Cuban art tour",
+      "priceUSD": 10
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Malecón seafront promenade",
+    "Plaza Vieja",
+    "Plaza de la Catedral",
+    "Paseo del Prado",
+    "Callejón de Hamel",
+    "Plaza de la Revolución",
+    "Capitolio Nacional exterior",
+    "Fusterlandia",
+    "Central Park (Parque Central)"
+  ],
+  "museums": [
+    "Museo de la Revolución",
+    "Museo Nacional de Bellas Artes",
+    "Museo del Ron Havana Club",
+    "Hemingway's Finca Vigía museum"
+  ],
+  "parks": [
+    "Parque Central",
+    "Parque Lenin",
+    "Almendares Park"
+  ],
+  "beaches": [
+    "Playas del Este (day trip)",
+    "Playa Santa María del Mar"
+  ],
+  "dayTrips": [
+    "Viñales Valley tobacco region",
+    "Playas del Este beaches",
+    "Hemingway's Finca Vigía in San Francisco de Paula",
+    "Trinidad (further, often an overnight trip)"
+  ],
+  "fromPriceUSD": 935,
+  "seo": {
+    "title": "Havana 10-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "havana-10-day-package",
+    "keywords": [
+      "Havana",
+      "Cuba",
+      "Havana, Cuba",
+      "Havana Province",
+      "Havana tour package",
+      "Havana vacation package",
+      "Havana holiday package",
+      "things to do in Havana",
+      "best time to visit Havana",
+      "Havana itinerary",
+      "10 day Havana itinerary",
+      "Havana flights and hotels",
+      "Havana all inclusive package",
+      "cheap Havana package",
+      "luxury Havana package"
+    ],
+    "canonicalUrl": "/packages/havana-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Havana Package",
+        "url": "/packages/havana-7-day-package"
+      },
+      {
+        "title": "14-Day Havana Package",
+        "url": "/packages/havana-14-day-package"
+      },
+      {
+        "title": "London 10-Day City Break",
+        "url": "/packages/london-10-day-package"
+      },
+      {
+        "title": "Amsterdam 10-Day City Break",
+        "url": "/packages/amsterdam-10-day-package"
+      },
+      {
+        "title": "Prague 10-Day City Break",
+        "url": "/packages/prague-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Havana — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Havana"
+      },
+      {
+        "title": "Havana — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Havana"
+      }
+    ]
+  }
+}

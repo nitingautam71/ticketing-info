@@ -1,0 +1,1699 @@
+{
+  "id": "PKG-dublin-10D",
+  "slug": "dublin-10-day-package",
+  "destinationSlug": "dublin",
+  "destinationName": "Dublin",
+  "country": "Ireland",
+  "region": "Leinster",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Dublin 10-Day City Break",
+  "metaTitle": "Dublin 10-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Dublin, Ireland: round-trip flights, hotel, breakfast, transfers, and guided tours including Guinness Storehouse and Book of Kells & Trinity Old Library. Prices from $1775 per person (estimate).",
+  "highlights": [
+    "Guinness Storehouse",
+    "Book of Kells & Trinity Old Library",
+    "Temple Bar",
+    "Howth fishing village and cliff walk"
+  ],
+  "overview": "Spend 10 days discovering Dublin, Ireland — Temperate maritime climate — mild year-round with cool winters (highs around 8°C) and mild summers (highs around 19-20°C); rain is possible on any given day regardless of season. May to September for the mildest, driest weather and the longest daylight hours. This itinerary blends Guinness Storehouse, Book of Kells & Trinity Old Library, Temple Bar with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Guinness Storehouse, Book of Kells & Trinity Old Library, Temple Bar",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Dublin",
+      "description": "Land at Dublin Airport (DUB) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Guinness Storehouse — Interactive brewery tour ending in the rooftop Gravity Bar. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Guinness Storehouse"
+      ],
+      "overnight": "Dublin"
+    },
+    {
+      "day": 2,
+      "title": "Dublin: Book of Kells & Trinity Old Library & Dublin Castle",
+      "description": "Morning visit to Book of Kells & Trinity Old Library — Illuminated medieval manuscript in the Long Room library. In the afternoon, continue to Dublin Castle — Former seat of British rule with State Apartments. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Book of Kells & Trinity Old Library",
+        "Dublin Castle"
+      ],
+      "overnight": "Dublin"
+    },
+    {
+      "day": 3,
+      "title": "Dublin: Kilmainham Gaol & Christ Church Cathedral",
+      "description": "Morning visit to Kilmainham Gaol — Historic prison central to the Irish independence movement. In the afternoon, continue to Christ Church Cathedral — Medieval cathedral with an atmospheric crypt. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Kilmainham Gaol",
+        "Christ Church Cathedral"
+      ],
+      "overnight": "Dublin"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Howth fishing village and cliff walk",
+      "description": "Full-day excursion to Howth fishing village and cliff walk, a popular side trip from Dublin. Return to Dublin in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Howth fishing village and cliff walk",
+        "Free evening"
+      ],
+      "overnight": "Dublin"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Marsh's Library, Ireland's oldest public library — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Marsh's Library, Ireland's oldest public library"
+      ],
+      "overnight": "Dublin"
+    },
+    {
+      "day": 6,
+      "title": "Dublin: St Patrick's Cathedral & EPIC The Irish Emigration Museum",
+      "description": "Morning visit to St Patrick's Cathedral — Ireland's largest cathedral, founded 1191. In the afternoon, continue to EPIC The Irish Emigration Museum — Interactive museum on the Irish diaspora. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "St Patrick's Cathedral",
+        "EPIC The Irish Emigration Museum"
+      ],
+      "overnight": "Dublin"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Wicklow Mountains & Glendalough",
+      "description": "Full-day excursion to Wicklow Mountains & Glendalough, a popular side trip from Dublin. Return to Dublin in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Wicklow Mountains & Glendalough",
+        "Free evening"
+      ],
+      "overnight": "Dublin"
+    },
+    {
+      "day": 8,
+      "title": "Dublin: Little Museum of Dublin & Malahide Castle",
+      "description": "Morning visit to Little Museum of Dublin — Compact, quirky museum on 20th-century Dublin. In the afternoon, continue to Malahide Castle — Medieval castle and gardens outside the city. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Little Museum of Dublin",
+        "Malahide Castle"
+      ],
+      "overnight": "Dublin"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Iveagh Gardens — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Iveagh Gardens"
+      ],
+      "overnight": "Dublin"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Teeling Whiskey Distillery Tour or some souvenir shopping — before your private transfer to DUB for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Guinness Storehouse and Book of Kells tickets online for timed entry.",
+    "Pubs get extremely busy on weekend nights, so arrive early for a seat.",
+    "The Leap Visitor Card offers unlimited travel and is worth it for multi-day stays.",
+    "Major museums like the National Gallery and National Museum are completely free.",
+    "Day trips to Wicklow or Howth are easy by DART or coach without renting a car.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "A waterproof jacket regardless of season",
+    "Layers for weather that changes within a single day",
+    "Comfortable walking shoes for cobblestones",
+    "A warm sweater for cool evenings even in summer"
+  ],
+  "thingsToDo": [
+    "Guinness Storehouse",
+    "Book of Kells & Trinity Old Library",
+    "Dublin Castle",
+    "Kilmainham Gaol",
+    "Christ Church Cathedral",
+    "St Patrick's Cathedral",
+    "EPIC The Irish Emigration Museum",
+    "Little Museum of Dublin",
+    "Malahide Castle",
+    "Teeling Whiskey Distillery Tour",
+    "Glasnevin Cemetery Museum Tour",
+    "Temple Bar",
+    "St Stephen's Green",
+    "Ha'penny Bridge",
+    "Grafton Street",
+    "National Museum of Ireland — Archaeology",
+    "National Gallery of Ireland",
+    "Phoenix Park",
+    "Merrion Square",
+    "Cycling the Great Dublin Bike Ride routes"
+  ],
+  "thingsToAvoid": [
+    "Overpriced pubs directly on Temple Bar's main strip — walk a block further for better value.",
+    "Assuming taxis beat public transport during rush hour traffic.",
+    "Leaving Guinness Storehouse tickets to the last minute in peak season.",
+    "Underestimating how quickly sunny mornings turn to rain.",
+    "Walking against the local flow on footpaths and escalators."
+  ],
+  "topRestaurants": [
+    "Leo Burdock — Traditional Fish & Chips ($)",
+    "The Church Café Bar Restaurant — Modern Irish ($$)",
+    "Fade Street Social — Modern Irish Tapas ($$$)",
+    "Chapter One — Fine Dining Irish ($$$$)",
+    "The Winding Stair — Modern Irish Seafood ($$$)",
+    "Boxty House — Traditional Irish ($$)",
+    "Rustic Stone — Modern Irish Grill ($$$)",
+    "Klaw Seafood Café — Casual Seafood ($$)",
+    "The Brazen Head — Traditional Irish Pub Fare ($$)"
+  ],
+  "topCafes": [
+    "Bewley's Café (Grafton Street)",
+    "Clement & Pekoe",
+    "3fe (Third Floor Espresso)",
+    "Kaph",
+    "The Fumbally",
+    "Network Café"
+  ],
+  "shoppingAreas": [
+    "Grafton Street",
+    "Henry Street",
+    "Powerscourt Townhouse Centre",
+    "St Stephen's Green Shopping Centre",
+    "George's Street Arcade"
+  ],
+  "nightlife": [
+    "Temple Bar pub crawl",
+    "The Brazen Head",
+    "Whelan's live music venue",
+    "The Long Hall",
+    "Copper Face Jacks"
+  ],
+  "instagramSpots": [
+    "Ha'penny Bridge at dusk",
+    "Temple Bar colorful facade",
+    "Molly Malone statue",
+    "St Stephen's Green gates",
+    "Merrion Square Georgian doors"
+  ],
+  "hiddenGems": [
+    "Marsh's Library, Ireland's oldest public library",
+    "Iveagh Gardens",
+    "Dublinia Viking exhibit",
+    "The Little Museum of Dublin",
+    "Glasnevin Cemetery's guided history tours"
+  ],
+  "familyActivities": [
+    "Dublin Zoo in Phoenix Park",
+    "Imaginosity children's museum",
+    "National Wax Museum",
+    "Aviva Stadium tour"
+  ],
+  "adventureActivities": [
+    "Cycling the Great Dublin Bike Ride routes",
+    "Coastal cliff walk at Howth",
+    "Surfing lessons near Sandymount/Portmarnock",
+    "Kayaking on the River Liffey"
+  ],
+  "luxuryExperiences": [
+    "Private whiskey and Guinness tasting tour",
+    "Stay at The Shelbourne overlooking St Stephen's Green",
+    "Private guided Trinity College and Book of Kells tour before opening",
+    "Chauffeured day trip to the Wicklow Mountains"
+  ],
+  "honeymoonExperiences": [
+    "Romantic walk through Iveagh Gardens",
+    "Dinner cruise on the River Liffey",
+    "Couples day trip to Powerscourt Estate and Gardens",
+    "Evening at a traditional Irish music pub session"
+  ],
+  "budgetExperiences": [
+    "Free entry to the National Museum and National Gallery",
+    "Wandering Temple Bar and Grafton Street buskers",
+    "Free walking tour of the city centre",
+    "Phoenix Park picnic and wild deer spotting"
+  ],
+  "estimatedDailyBudgetUSD": [
+    75,
+    165,
+    290,
+    580
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 4,
+  "walkingScore": 85,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 8,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 8,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 10,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 13,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 18,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 20,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 20,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 17,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 10,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 8,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "St. Patrick's Festival",
+      "timing": "March 17, multi-day parade and celebrations"
+    },
+    {
+      "name": "Bloomsday",
+      "timing": "June 16, city-wide celebrations of James Joyce's Ulysses"
+    },
+    {
+      "name": "Dublin Fringe Festival",
+      "timing": "September"
+    },
+    {
+      "name": "Temple Bar TradFest",
+      "timing": "Late January, traditional Irish music festival"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "999",
+    "ambulance": "999",
+    "fire": "999"
+  },
+  "localEtiquette": [
+    "Buying \"rounds\" of drinks at the pub is customary — reciprocate if you're included in one.",
+    "Friendly small talk with strangers, taxi drivers and shopkeepers is normal and welcomed.",
+    "Queueing is expected and taken seriously.",
+    "\"Slagging\" — light, self-deprecating banter — is a sign of friendliness, not rudeness.",
+    "Tipping around 10-15% in sit-down restaurants is appreciated but not obligatory."
+  ],
+  "localTransportGuide": "Dublin's Luas tram lines, DART coastal rail and Dublin Bus network are covered by a tap-to-pay Leap Card, far cheaper than single tickets. The compact city centre is very walkable, while the DART is the easiest way to reach coastal towns like Howth and Dun Laoghaire.",
+  "bestTimeToVisit": "May to September for the mildest, driest weather and the longest daylight hours.",
+  "weather": "Temperate maritime climate — mild year-round with cool winters (highs around 8°C) and mild summers (highs around 19-20°C); rain is possible on any given day regardless of season.",
+  "visaInformation": "Ireland is outside Schengen but shares a Common Travel Area with the UK. US, Canadian, Australian, New Zealand and most EU passport holders can visit visa-free for up to 90 days. Other nationalities, including Indian passport holders, need an Irish visa arranged in advance — a UK or Schengen visa does not cover Ireland.",
+  "currency": "EUR",
+  "languages": [
+    "English",
+    "Irish"
+  ],
+  "timeZone": "GMT (UTC+0)",
+  "averageFlightTime": "~10.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Dublin Airport (DUB)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Dublin?",
+      "answer": "Ireland is outside Schengen but shares a Common Travel Area with the UK. US, Canadian, Australian, New Zealand and most EU passport holders can visit visa-free for up to 90 days. Other nationalities, including Indian passport holders, need an Irish visa arranged in advance — a UK or Schengen visa does not cover Ireland."
+    },
+    {
+      "question": "What is the best time to visit Dublin?",
+      "answer": "May to September for the mildest, driest weather and the longest daylight hours. Temperate maritime climate — mild year-round with cool winters (highs around 8°C) and mild summers (highs around 19-20°C); rain is possible on any given day regardless of season."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Dublin safe for tourists?",
+      "answer": "Dublin is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Dublin?",
+      "answer": "The local currency is EUR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "History",
+    "Food",
+    "Nightlife",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Dublin",
+    "Ireland",
+    "Dublin, Ireland",
+    "Leinster",
+    "Dublin tour package",
+    "Dublin vacation package",
+    "Dublin holiday package",
+    "things to do in Dublin",
+    "best time to visit Dublin",
+    "Dublin itinerary",
+    "10 day Dublin itinerary",
+    "Dublin flights and hotels",
+    "Dublin all inclusive package",
+    "cheap Dublin package",
+    "luxury Dublin package",
+    "Dublin honeymoon package",
+    "Dublin family vacation",
+    "Dublin solo trip",
+    "Dublin group tour",
+    "Dublin weekend getaway",
+    "Dublin guided tour",
+    "DUB flights",
+    "Dublin travel guide",
+    "book Dublin trip online",
+    "Dublin trip cost",
+    "Dublin packages 10 days",
+    "Dublin city break",
+    "Dublin culture",
+    "Dublin history",
+    "Dublin food",
+    "Dublin nightlife",
+    "Dublin bucket list",
+    "Guinness Storehouse",
+    "Book of Kells & Trinity Old Library",
+    "Dublin Castle",
+    "Kilmainham Gaol",
+    "Christ Church Cathedral",
+    "St Patrick's Cathedral",
+    "EPIC The Irish Emigration Museum",
+    "Little Museum of Dublin",
+    "Malahide Castle",
+    "Teeling Whiskey Distillery Tour",
+    "Glasnevin Cemetery Museum Tour",
+    "Temple Bar",
+    "St Stephen's Green",
+    "Ha'penny Bridge",
+    "Grafton Street",
+    "National Museum of Ireland — Archaeology",
+    "National Gallery of Ireland",
+    "Phoenix Park"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Dublin, Ireland — Ha'penny Bridge Dublin",
+      "keywords": [
+        "Dublin",
+        "Ireland",
+        "Ha'penny Bridge Dublin",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Dublin Ha'penny Bridge Dublin",
+      "pexelsQuery": "Dublin Ha'penny Bridge Dublin",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Dublin, Ireland — Ha'penny Bridge Dublin",
+      "keywords": [
+        "Dublin",
+        "Ireland",
+        "Ha'penny Bridge Dublin",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Dublin Ha'penny Bridge Dublin",
+      "pexelsQuery": "Dublin Ha'penny Bridge Dublin",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Dublin, Ireland — Temple Bar colorful pub",
+      "keywords": [
+        "Dublin",
+        "Ireland",
+        "Temple Bar colorful pub",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Dublin Temple Bar colorful pub",
+      "pexelsQuery": "Dublin Temple Bar colorful pub",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Dublin, Ireland — Guinness Storehouse Gravity Bar view",
+      "keywords": [
+        "Dublin",
+        "Ireland",
+        "Guinness Storehouse Gravity Bar view",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Dublin Guinness Storehouse Gravity Bar view",
+      "pexelsQuery": "Dublin Guinness Storehouse Gravity Bar view",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Dublin, Ireland — Ha'penny Bridge Dublin",
+      "keywords": [
+        "Dublin",
+        "Ireland",
+        "Ha'penny Bridge Dublin",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Dublin Ha'penny Bridge Dublin",
+      "pexelsQuery": "Dublin Ha'penny Bridge Dublin",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dublin, Ireland — Temple Bar colorful pub",
+      "keywords": [
+        "Dublin",
+        "Ireland",
+        "Temple Bar colorful pub",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Dublin Temple Bar colorful pub",
+      "pexelsQuery": "Dublin Temple Bar colorful pub",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dublin, Ireland — Guinness Storehouse Gravity Bar view",
+      "keywords": [
+        "Dublin",
+        "Ireland",
+        "Guinness Storehouse Gravity Bar view",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Dublin Guinness Storehouse Gravity Bar view",
+      "pexelsQuery": "Dublin Guinness Storehouse Gravity Bar view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dublin, Ireland — Trinity College Old Library",
+      "keywords": [
+        "Dublin",
+        "Ireland",
+        "Trinity College Old Library",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Dublin Trinity College Old Library",
+      "pexelsQuery": "Dublin Trinity College Old Library",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dublin, Ireland — Guinness Storehouse",
+      "keywords": [
+        "Dublin",
+        "Ireland",
+        "Guinness Storehouse",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Dublin Guinness Storehouse",
+      "pexelsQuery": "Dublin Guinness Storehouse",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dublin, Ireland — Book of Kells & Trinity Old Library",
+      "keywords": [
+        "Dublin",
+        "Ireland",
+        "Book of Kells & Trinity Old Library",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Dublin Book of Kells & Trinity Old Library",
+      "pexelsQuery": "Dublin Book of Kells & Trinity Old Library",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dublin, Ireland — Dublin Castle",
+      "keywords": [
+        "Dublin",
+        "Ireland",
+        "Dublin Castle",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Dublin Dublin Castle",
+      "pexelsQuery": "Dublin Dublin Castle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Dublin, Ireland — Kilmainham Gaol",
+      "keywords": [
+        "Dublin",
+        "Ireland",
+        "Kilmainham Gaol",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Dublin Kilmainham Gaol",
+      "pexelsQuery": "Dublin Kilmainham Gaol",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-dublin-10-1",
+      "author": "Ethan Kowalski",
+      "country": "Netherlands",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-03",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Ha'penny Bridge and Temple Bar. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-2",
+      "author": "Daniel Wang",
+      "country": "Australia",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-01-24",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Dublin Castle and Little Museum of Dublin. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-dublin-10-3",
+      "author": "Hiroshi Brown",
+      "country": "Switzerland",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-27",
+      "title": "Unforgettable trip!",
+      "body": "Grafton Street alone was worth the trip, but combined with Phoenix Park this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-4",
+      "author": "Lucas Patel",
+      "country": "India",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-02",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to EPIC The Irish Emigration Museum and Dublin Castle. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-5",
+      "author": "Liam Williams",
+      "country": "Australia",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-01-22",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Dublin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kilmainham Gaol was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-dublin-10-6",
+      "author": "Ethan Wang",
+      "country": "Italy",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-05-12",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Phoenix Park and Book of Kells & Trinity Old Library. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-7",
+      "author": "Mia Patel",
+      "country": "Switzerland",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-01-21",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Grafton Street and St Stephen's Green. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-8",
+      "author": "Omar Khan",
+      "country": "Germany",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-28",
+      "title": "Loved every moment",
+      "body": "We added a couple of optional activities beyond Christ Church Cathedral and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-9",
+      "author": "Arjun Dubois",
+      "country": "India",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-26",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a solo trip and it was well paced. EPIC The Irish Emigration Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-10",
+      "author": "David Silva",
+      "country": "Netherlands",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-24",
+      "title": "A little rushed but still wonderful",
+      "body": "Dublin is stunning and this package covered the essentials well, especially Ha'penny Bridge. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-11",
+      "author": "Sarah Garcia",
+      "country": "Australia",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-18",
+      "title": "Best vacation we've had",
+      "body": "Dublin is stunning and this package covered the essentials well, especially Kilmainham Gaol. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-12",
+      "author": "Omar Müller",
+      "country": "India",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-08-22",
+      "title": "Adventure of a lifetime",
+      "body": "We added a couple of optional activities beyond EPIC The Irish Emigration Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-dublin-10-13",
+      "author": "Emma Wang",
+      "country": "South Africa",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-08-27",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Dublin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Temple Bar was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-14",
+      "author": "Nadia Kim",
+      "country": "Mexico",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-12-03",
+      "title": "Luxury without the hassle",
+      "body": "Dublin is stunning and this package covered the essentials well, especially National Gallery of Ireland. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-15",
+      "author": "Lukas Nguyen",
+      "country": "Japan",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-01",
+      "title": "Beautiful destination, well organized",
+      "body": "Dublin is stunning and this package covered the essentials well, especially Glasnevin Cemetery Museum Tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-16",
+      "author": "Arjun Smith",
+      "country": "Australia",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-06-11",
+      "title": "Loved every moment",
+      "body": "Booked this as a group trip and it was well paced. Kilmainham Gaol in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-17",
+      "author": "Grace Johnson",
+      "country": "Australia",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-14",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Kilmainham Gaol and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-18",
+      "author": "Priya Fernandez",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-19",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a couple trip and it was well paced. Teeling Whiskey Distillery Tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-dublin-10-19",
+      "author": "Elena Johnson",
+      "country": "Switzerland",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-23",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Grafton Street and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-dublin-10-20",
+      "author": "Liam Silva",
+      "country": "Spain",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-05-16",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Dublin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Merrion Square was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.4,
+    "hotel": 4.5,
+    "transportation": 4.3,
+    "activities": 4.4,
+    "value": 4.4,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Dublin Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 17,
+      "neighborhood": "Grafton Street"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Dublin Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 30,
+      "neighborhood": "Henry Street"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Dublin Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 58,
+      "neighborhood": "Powerscourt Townhouse Centre"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Dublin Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 74,
+      "neighborhood": "St Stephen's Green Shopping Centre"
+    },
+    {
+      "tier": "Resort",
+      "name": "Dublin Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 145,
+      "neighborhood": "George's Street Arcade"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Dublin Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 244,
+      "neighborhood": "Temple Bar pub crawl"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Dublin Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 290,
+      "neighborhood": "The Brazen Head"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        446,
+        709
+      ],
+      "estimatedFlightHours": 7.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        456,
+        724
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        110,
+        174
+      ],
+      "estimatedFlightHours": 1.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        133,
+        211
+      ],
+      "estimatedFlightHours": 1.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        155,
+        246
+      ],
+      "estimatedFlightHours": 2.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        213,
+        338
+      ],
+      "estimatedFlightHours": 3.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        181,
+        288
+      ],
+      "estimatedFlightHours": 2.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        131,
+        208
+      ],
+      "estimatedFlightHours": 1.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        166,
+        263
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1320,
+        2097
+      ],
+      "estimatedFlightHours": 24,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1390,
+        2207
+      ],
+      "estimatedFlightHours": 25.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        588,
+        934
+      ],
+      "estimatedFlightHours": 10.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        769,
+        1222
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        723,
+        1149
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        886,
+        1407
+      ],
+      "estimatedFlightHours": 15.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        789,
+        1253
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        864,
+        1373
+      ],
+      "estimatedFlightHours": 15.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        949,
+        1508
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        868,
+        1378
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        836,
+        1327
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        504,
+        801
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        467,
+        741
+      ],
+      "estimatedFlightHours": 8.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        485,
+        771
+      ],
+      "estimatedFlightHours": 8.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        445,
+        706
+      ],
+      "estimatedFlightHours": 7.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        759,
+        1206
+      ],
+      "estimatedFlightHours": 13.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        755,
+        1199
+      ],
+      "estimatedFlightHours": 13.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Dublin Airport (DUB)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        689,
+        1094
+      ],
+      "estimatedFlightHours": 12.2,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Guinness Storehouse",
+    "Book of Kells & Trinity Old Library",
+    "Dublin Castle",
+    "Kilmainham Gaol",
+    "Christ Church Cathedral",
+    "St Patrick's Cathedral",
+    "EPIC The Irish Emigration Museum",
+    "Little Museum of Dublin",
+    "Malahide Castle",
+    "Teeling Whiskey Distillery Tour",
+    "Glasnevin Cemetery Museum Tour",
+    "Temple Bar",
+    "St Stephen's Green",
+    "Ha'penny Bridge",
+    "Grafton Street",
+    "National Museum of Ireland — Archaeology",
+    "National Gallery of Ireland",
+    "Phoenix Park",
+    "Merrion Square",
+    "Howth fishing village and cliff walk",
+    "Wicklow Mountains & Glendalough",
+    "Malahide Castle and village",
+    "Cliffs of Moher (full-day tour)",
+    "Iveagh Gardens",
+    "Merrion Square Park",
+    "Sandymount Strand",
+    "Dollymount Strand",
+    "Howth (Balscadden Bay)",
+    "Ha'penny Bridge at dusk",
+    "Temple Bar colorful facade",
+    "Molly Malone statue",
+    "St Stephen's Green gates",
+    "Merrion Square Georgian doors"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Guinness Storehouse",
+      "priceUSD": 30
+    },
+    {
+      "name": "Book of Kells & Trinity Old Library",
+      "priceUSD": 22
+    },
+    {
+      "name": "Dublin Castle",
+      "priceUSD": 12
+    },
+    {
+      "name": "Kilmainham Gaol",
+      "priceUSD": 9
+    },
+    {
+      "name": "Christ Church Cathedral",
+      "priceUSD": 11
+    },
+    {
+      "name": "St Patrick's Cathedral",
+      "priceUSD": 10
+    },
+    {
+      "name": "EPIC The Irish Emigration Museum",
+      "priceUSD": 18
+    },
+    {
+      "name": "Little Museum of Dublin",
+      "priceUSD": 15
+    },
+    {
+      "name": "Malahide Castle",
+      "priceUSD": 15
+    },
+    {
+      "name": "Teeling Whiskey Distillery Tour",
+      "priceUSD": 25
+    },
+    {
+      "name": "Glasnevin Cemetery Museum Tour",
+      "priceUSD": 15
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Temple Bar",
+    "St Stephen's Green",
+    "Ha'penny Bridge",
+    "Grafton Street",
+    "National Museum of Ireland — Archaeology",
+    "National Gallery of Ireland",
+    "Phoenix Park",
+    "Merrion Square"
+  ],
+  "museums": [
+    "National Museum of Ireland — Archaeology",
+    "National Gallery of Ireland",
+    "EPIC The Irish Emigration Museum",
+    "Little Museum of Dublin"
+  ],
+  "parks": [
+    "St Stephen's Green",
+    "Phoenix Park",
+    "Iveagh Gardens",
+    "Merrion Square Park"
+  ],
+  "beaches": [
+    "Sandymount Strand",
+    "Dollymount Strand",
+    "Howth (Balscadden Bay)"
+  ],
+  "dayTrips": [
+    "Howth fishing village and cliff walk",
+    "Wicklow Mountains & Glendalough",
+    "Malahide Castle and village",
+    "Cliffs of Moher (full-day tour)"
+  ],
+  "fromPriceUSD": 1775,
+  "seo": {
+    "title": "Dublin 10-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "dublin-10-day-package",
+    "keywords": [
+      "Dublin",
+      "Ireland",
+      "Dublin, Ireland",
+      "Leinster",
+      "Dublin tour package",
+      "Dublin vacation package",
+      "Dublin holiday package",
+      "things to do in Dublin",
+      "best time to visit Dublin",
+      "Dublin itinerary",
+      "10 day Dublin itinerary",
+      "Dublin flights and hotels",
+      "Dublin all inclusive package",
+      "cheap Dublin package",
+      "luxury Dublin package"
+    ],
+    "canonicalUrl": "/packages/dublin-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Dublin Package",
+        "url": "/packages/dublin-7-day-package"
+      },
+      {
+        "title": "14-Day Dublin Package",
+        "url": "/packages/dublin-14-day-package"
+      },
+      {
+        "title": "London 10-Day City Break",
+        "url": "/packages/london-10-day-package"
+      },
+      {
+        "title": "Lisbon 10-Day City Break",
+        "url": "/packages/lisbon-10-day-package"
+      },
+      {
+        "title": "Seoul 10-Day City Break",
+        "url": "/packages/seoul-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Dublin — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dublin"
+      },
+      {
+        "title": "Dublin — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Dublin"
+      }
+    ]
+  }
+}

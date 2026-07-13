@@ -1,0 +1,1593 @@
+{
+  "id": "PKG-edinburgh-2D",
+  "slug": "edinburgh-2-day-package",
+  "destinationSlug": "edinburgh",
+  "destinationName": "Edinburgh",
+  "country": "United Kingdom",
+  "region": "Scotland",
+  "durationDays": 2,
+  "durationNights": 1,
+  "title": "Edinburgh 2-Day Heritage Tour",
+  "metaTitle": "Edinburgh 2-Day Heritage Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 2-day trip to Edinburgh, United Kingdom: round-trip flights, hotel, breakfast, transfers, and guided tours including Edinburgh Castle and Palace of Holyroodhouse. Prices from $871 per person (estimate).",
+  "highlights": [
+    "Edinburgh Castle",
+    "Palace of Holyroodhouse",
+    "Royal Mile",
+    "Rosslyn Chapel & the Pentland Hills"
+  ],
+  "overview": "Spend 2 days discovering Edinburgh, United Kingdom — Cool temperate climate with cold, windy winters (highs around 7°C) and mild summers (highs around 19°C); weather shifts rapidly and rain is common in any season. May to September for mild weather and the Fringe Festival in August, or December for Christmas markets and Hogmanay. This itinerary blends Edinburgh Castle, Palace of Holyroodhouse, Royal Mile with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "1 night accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Edinburgh Castle, Palace of Holyroodhouse, Royal Mile",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Edinburgh",
+      "description": "Land at Edinburgh Airport (EDI) and take your included private transfer to your hotel. With limited time on the ground, head straight out to Edinburgh Castle — Historic fortress atop an extinct volcano, home to the Crown Jewels. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Edinburgh Castle"
+      ],
+      "overnight": "Edinburgh"
+    },
+    {
+      "day": 2,
+      "title": "Edinburgh Highlights & Departure",
+      "description": "Start early with a visit to Palace of Holyroodhouse — The King's official residence in Scotland. Grab a last taste of local life before your private transfer to EDI for your onward flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Palace of Holyroodhouse",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Fringe Festival accommodation months ahead — prices spike and rooms sell out in August.",
+    "Buy Edinburgh Castle tickets online for a timed-entry slot.",
+    "The Royal Mile gets extremely crowded in August — side closes and Victoria Street offer quieter alternatives.",
+    "Arthur's Seat is free to climb but wear proper shoes as paths get slippery.",
+    "Many major museums and galleries are free entry — budget tour spend accordingly.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "A waterproof, windproof jacket for unpredictable weather",
+    "Layers to add or remove through the day",
+    "Comfortable shoes suited to steep cobbled streets",
+    "A warm hat and gloves for winter visits"
+  ],
+  "thingsToDo": [
+    "Edinburgh Castle",
+    "Palace of Holyroodhouse",
+    "Camera Obscura & World of Illusions",
+    "The Real Mary King's Close",
+    "Scotch Whisky Experience",
+    "Edinburgh Dungeon",
+    "Royal Yacht Britannia",
+    "Gilmerton Cove",
+    "Rosslyn Chapel",
+    "Craigmillar Castle",
+    "Edinburgh Zoo",
+    "Royal Mile",
+    "Arthur's Seat",
+    "National Museum of Scotland",
+    "Scottish National Gallery",
+    "Calton Hill",
+    "Princes Street Gardens",
+    "Grassmarket",
+    "Dean Village",
+    "Hiking Arthur's Seat and Salisbury Crags"
+  ],
+  "thingsToAvoid": [
+    "Overpriced tartan and whisky shops directly on the Royal Mile.",
+    "Climbing Arthur's Seat in poor weather without proper footwear.",
+    "Assuming August accommodation will be available last-minute during the Fringe.",
+    "Street \"characters\" on the Royal Mile who expect a tip for photos.",
+    "Underestimating wind chill on Calton Hill and Arthur's Seat."
+  ],
+  "topRestaurants": [
+    "The Witchery by the Castle — Fine Dining Scottish ($$$$)",
+    "Ondine — Seafood ($$$)",
+    "Wedgwood The Restaurant — Modern Scottish ($$$)",
+    "The Dogs — Scottish Comfort Food ($$)",
+    "Mother India's Café — Indian Tapas ($$)",
+    "The Shore Bar & Restaurant — Seafood & Scottish ($$$)",
+    "Deacon Brodie's Tavern — Traditional Pub Fare ($$)",
+    "Amber Restaurant — Scottish ($$$)",
+    "L'Escargot Bleu — French-Scottish ($$)"
+  ],
+  "topCafes": [
+    "The Milkman",
+    "Café Ceilidh",
+    "Lovecrumbs",
+    "Wellington Coffee",
+    "Artisan Roast",
+    "Söderberg"
+  ],
+  "shoppingAreas": [
+    "Princes Street",
+    "George Street boutiques",
+    "Victoria Street",
+    "The Grassmarket",
+    "St James Quarter"
+  ],
+  "nightlife": [
+    "Grassmarket pub crawl",
+    "Bramble Bar",
+    "The Jazz Bar",
+    "Cabaret Voltaire",
+    "Sneaky Pete's"
+  ],
+  "instagramSpots": [
+    "Victoria Street's colorful curved shopfronts",
+    "Edinburgh Castle from Princes Street Gardens",
+    "Arthur's Seat at sunrise",
+    "Dean Village along the Water of Leith",
+    "Calton Hill monuments at golden hour"
+  ],
+  "hiddenGems": [
+    "Dean Village",
+    "Dr Neil's Garden",
+    "Stockbridge neighborhood",
+    "The Colonies terraced houses",
+    "Innocent Railway Tunnel walk"
+  ],
+  "familyActivities": [
+    "Edinburgh Zoo",
+    "Camera Obscura hands-on illusions",
+    "Dynamic Earth science centre",
+    "Royal Yacht Britannia family tours"
+  ],
+  "adventureActivities": [
+    "Hiking Arthur's Seat and Salisbury Crags",
+    "Coasteering day trips near North Berwick",
+    "Cycling the Water of Leith path",
+    "Climbing at Edinburgh's Alien Rock centre"
+  ],
+  "luxuryExperiences": [
+    "Private whisky tasting flight at a members' club",
+    "Stay at The Balmoral with Castle views",
+    "Private guided history tour of the Old and New Towns",
+    "Chauffeured day trip to the Scottish Highlands"
+  ],
+  "honeymoonExperiences": [
+    "Candlelit dinner at The Witchery by the Castle",
+    "Sunset walk up Calton Hill",
+    "Private Highlands day tour for two",
+    "Romantic stroll through Dean Village"
+  ],
+  "budgetExperiences": [
+    "Free entry to the National Museum of Scotland and Scottish National Gallery",
+    "Hiking Arthur's Seat for panoramic views",
+    "Wandering the Royal Mile and Grassmarket",
+    "Free Fringe Festival street performances in August"
+  ],
+  "estimatedDailyBudgetUSD": [
+    75,
+    165,
+    290,
+    580
+  ],
+  "safetyRating": 5,
+  "internetRating": 4,
+  "publicTransportRating": 4,
+  "walkingScore": 80,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 7,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 7,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 9,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 12,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 15,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 18,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 17,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 13,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 9,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 7,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Edinburgh Festival Fringe",
+      "timing": "August, the world's largest arts festival"
+    },
+    {
+      "name": "Edinburgh Military Tattoo",
+      "timing": "August, on the Castle Esplanade"
+    },
+    {
+      "name": "Hogmanay",
+      "timing": "December 31-January 1, street New Year celebrations"
+    },
+    {
+      "name": "Beltane Fire Festival",
+      "timing": "April 30, on Calton Hill"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "999",
+    "ambulance": "999",
+    "fire": "999"
+  },
+  "localEtiquette": [
+    "Queueing is strictly observed — never push in.",
+    "Tipping around 10% in sit-down restaurants is customary.",
+    "Scots are generally warm and informal; a friendly \"cheers\" or \"hiya\" is common.",
+    "Stay quiet and respectful at war memorials and inside Edinburgh Castle's chapels.",
+    "During the Fringe, street performers may seek attention — a polite decline is completely fine."
+  ],
+  "localTransportGuide": "Edinburgh's compact Old and New Towns are best explored on foot, though hilly; Lothian Buses and a single tram line connect the airport, city centre and Leith affordably with a day ticket. The Royal Mile's cobblestones and closes are only accessible on foot.",
+  "bestTimeToVisit": "May to September for mild weather and the Fringe Festival in August, or December for Christmas markets and Hogmanay.",
+  "weather": "Cool temperate climate with cold, windy winters (highs around 7°C) and mild summers (highs around 19°C); weather shifts rapidly and rain is common in any season.",
+  "visaInformation": "UK visa rules apply — US, Canadian, Australian, New Zealand and most EU passport holders can visit visa-free for up to 6 months as a Standard Visitor. Most visa-exempt nationalities (including EU citizens) now require an Electronic Travel Authorisation (ETA) before arrival, while other nationalities such as Indian passport holders need a UK visa arranged in advance.",
+  "currency": "GBP",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "GMT (UTC+0)",
+  "averageFlightTime": "~10.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Edinburgh Airport (EDI)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Edinburgh?",
+      "answer": "UK visa rules apply — US, Canadian, Australian, New Zealand and most EU passport holders can visit visa-free for up to 6 months as a Standard Visitor. Most visa-exempt nationalities (including EU citizens) now require an Electronic Travel Authorisation (ETA) before arrival, while other nationalities such as Indian passport holders need a UK visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Edinburgh?",
+      "answer": "May to September for mild weather and the Fringe Festival in August, or December for Christmas markets and Hogmanay. Cool temperate climate with cold, windy winters (highs around 7°C) and mild summers (highs around 19°C); weather shifts rapidly and rain is common in any season."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Edinburgh safe for tourists?",
+      "answer": "Edinburgh is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Edinburgh?",
+      "answer": "The local currency is GBP. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "History",
+    "Culture",
+    "City Break",
+    "Nightlife",
+    "Winter",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Edinburgh",
+    "United Kingdom",
+    "Edinburgh, United Kingdom",
+    "Scotland",
+    "Edinburgh tour package",
+    "Edinburgh vacation package",
+    "Edinburgh holiday package",
+    "things to do in Edinburgh",
+    "best time to visit Edinburgh",
+    "Edinburgh itinerary",
+    "2 day Edinburgh itinerary",
+    "Edinburgh flights and hotels",
+    "Edinburgh all inclusive package",
+    "cheap Edinburgh package",
+    "luxury Edinburgh package",
+    "Edinburgh honeymoon package",
+    "Edinburgh family vacation",
+    "Edinburgh solo trip",
+    "Edinburgh group tour",
+    "Edinburgh weekend getaway",
+    "Edinburgh guided tour",
+    "EDI flights",
+    "Edinburgh travel guide",
+    "book Edinburgh trip online",
+    "Edinburgh trip cost",
+    "Edinburgh packages 2 days",
+    "Edinburgh history",
+    "Edinburgh culture",
+    "Edinburgh city break",
+    "Edinburgh nightlife",
+    "Edinburgh winter",
+    "Edinburgh Castle",
+    "Palace of Holyroodhouse",
+    "Camera Obscura & World of Illusions",
+    "The Real Mary King's Close",
+    "Scotch Whisky Experience",
+    "Edinburgh Dungeon",
+    "Royal Yacht Britannia",
+    "Gilmerton Cove",
+    "Rosslyn Chapel",
+    "Craigmillar Castle",
+    "Edinburgh Zoo",
+    "Royal Mile",
+    "Arthur's Seat",
+    "National Museum of Scotland",
+    "Scottish National Gallery",
+    "Calton Hill",
+    "Princes Street Gardens",
+    "Grassmarket",
+    "Dean Village"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Edinburgh, United Kingdom — Edinburgh Castle skyline",
+      "keywords": [
+        "Edinburgh",
+        "United Kingdom",
+        "Edinburgh Castle skyline",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Edinburgh Edinburgh Castle skyline",
+      "pexelsQuery": "Edinburgh Edinburgh Castle skyline",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Edinburgh, United Kingdom — Edinburgh Castle skyline",
+      "keywords": [
+        "Edinburgh",
+        "United Kingdom",
+        "Edinburgh Castle skyline",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Edinburgh Edinburgh Castle skyline",
+      "pexelsQuery": "Edinburgh Edinburgh Castle skyline",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Edinburgh, United Kingdom — Victoria Street colorful shops",
+      "keywords": [
+        "Edinburgh",
+        "United Kingdom",
+        "Victoria Street colorful shops",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Edinburgh Victoria Street colorful shops",
+      "pexelsQuery": "Edinburgh Victoria Street colorful shops",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Edinburgh, United Kingdom — Arthur's Seat panorama",
+      "keywords": [
+        "Edinburgh",
+        "United Kingdom",
+        "Arthur's Seat panorama",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Edinburgh Arthur's Seat panorama",
+      "pexelsQuery": "Edinburgh Arthur's Seat panorama",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Edinburgh, United Kingdom — Edinburgh Castle skyline",
+      "keywords": [
+        "Edinburgh",
+        "United Kingdom",
+        "Edinburgh Castle skyline",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Edinburgh Edinburgh Castle skyline",
+      "pexelsQuery": "Edinburgh Edinburgh Castle skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Edinburgh, United Kingdom — Victoria Street colorful shops",
+      "keywords": [
+        "Edinburgh",
+        "United Kingdom",
+        "Victoria Street colorful shops",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Edinburgh Victoria Street colorful shops",
+      "pexelsQuery": "Edinburgh Victoria Street colorful shops",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Edinburgh, United Kingdom — Arthur's Seat panorama",
+      "keywords": [
+        "Edinburgh",
+        "United Kingdom",
+        "Arthur's Seat panorama",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Edinburgh Arthur's Seat panorama",
+      "pexelsQuery": "Edinburgh Arthur's Seat panorama",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Edinburgh, United Kingdom — Royal Mile cobblestones",
+      "keywords": [
+        "Edinburgh",
+        "United Kingdom",
+        "Royal Mile cobblestones",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Edinburgh Royal Mile cobblestones",
+      "pexelsQuery": "Edinburgh Royal Mile cobblestones",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Edinburgh, United Kingdom — Edinburgh Castle",
+      "keywords": [
+        "Edinburgh",
+        "United Kingdom",
+        "Edinburgh Castle",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Edinburgh Edinburgh Castle",
+      "pexelsQuery": "Edinburgh Edinburgh Castle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Edinburgh, United Kingdom — Palace of Holyroodhouse",
+      "keywords": [
+        "Edinburgh",
+        "United Kingdom",
+        "Palace of Holyroodhouse",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Edinburgh Palace of Holyroodhouse",
+      "pexelsQuery": "Edinburgh Palace of Holyroodhouse",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Edinburgh, United Kingdom — Camera Obscura & World of Illusions",
+      "keywords": [
+        "Edinburgh",
+        "United Kingdom",
+        "Camera Obscura & World of Illusions",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Edinburgh Camera Obscura & World of Illusions",
+      "pexelsQuery": "Edinburgh Camera Obscura & World of Illusions",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Edinburgh, United Kingdom — The Real Mary King's Close",
+      "keywords": [
+        "Edinburgh",
+        "United Kingdom",
+        "The Real Mary King's Close",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Edinburgh The Real Mary King's Close",
+      "pexelsQuery": "Edinburgh The Real Mary King's Close",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-edinburgh-2-1",
+      "author": "Mia Kowalski",
+      "country": "UAE",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-22",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Gilmerton Cove and Palace of Holyroodhouse. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-2",
+      "author": "Liam Novak",
+      "country": "Italy",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-10-24",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Edinburgh was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Grassmarket was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-3",
+      "author": "Isabella Cohen",
+      "country": "United States",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-04-06",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Edinburgh Castle and Palace of Holyroodhouse. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-4",
+      "author": "Yuki Costa",
+      "country": "Saudi Arabia",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-09-07",
+      "title": "Best vacation we've had",
+      "body": "Calton Hill alone was worth the trip, but combined with Edinburgh Castle this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-5",
+      "author": "Grace Silva",
+      "country": "Italy",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-02-17",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Grassmarket and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-edinburgh-2-6",
+      "author": "Grace Müller",
+      "country": "South Africa",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-05-09",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Royal Mile and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-edinburgh-2-7",
+      "author": "Isabella Khan",
+      "country": "Saudi Arabia",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-09",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Calton Hill and Craigmillar Castle. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-8",
+      "author": "Daniel Santos",
+      "country": "Spain",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-04-14",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Dean Village and Grassmarket. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-9",
+      "author": "Daniel Williams",
+      "country": "Brazil",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-26",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Edinburgh Zoo and Camera Obscura & World of Illusions. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-10",
+      "author": "Wei Kowalski",
+      "country": "Germany",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-02-14",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a couple trip and it was well paced. Scotch Whisky Experience in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-11",
+      "author": "Grace Novak",
+      "country": "Germany",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-06",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond The Real Mary King's Close and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-12",
+      "author": "Priya Kim",
+      "country": "Canada",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-24",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a group trip and it was well paced. Camera Obscura & World of Illusions in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-13",
+      "author": "Priya Ivanov",
+      "country": "Mexico",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-29",
+      "title": "Great value for money",
+      "body": "Booked this as a solo trip and it was well paced. Princes Street Gardens in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-14",
+      "author": "David Kowalski",
+      "country": "Switzerland",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-06-22",
+      "title": "Highly recommend this package",
+      "body": "Edinburgh is stunning and this package covered the essentials well, especially Scottish National Gallery. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-15",
+      "author": "Lucas Johnson",
+      "country": "United Kingdom",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-09-07",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Palace of Holyroodhouse and The Real Mary King's Close. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-16",
+      "author": "Hiroshi Andersen",
+      "country": "France",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-04-03",
+      "title": "Beautiful destination, well organized",
+      "body": "Edinburgh Dungeon alone was worth the trip, but combined with National Museum of Scotland this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-edinburgh-2-17",
+      "author": "Ava Cohen",
+      "country": "South Korea",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-02-16",
+      "title": "Luxury without the hassle",
+      "body": "Rosslyn Chapel alone was worth the trip, but combined with Craigmillar Castle this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-18",
+      "author": "Emma Kim",
+      "country": "Italy",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-01-16",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Edinburgh was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Grassmarket was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-19",
+      "author": "Yuki Tanaka",
+      "country": "France",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-20",
+      "title": "Beautiful destination, well organized",
+      "body": "Edinburgh Dungeon alone was worth the trip, but combined with Edinburgh Dungeon this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-edinburgh-2-20",
+      "author": "Yuki Silva",
+      "country": "Japan",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-01-29",
+      "title": "Beautiful destination, well organized",
+      "body": "Craigmillar Castle alone was worth the trip, but combined with Craigmillar Castle this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.2,
+    "value": 4.1,
+    "cleanliness": 4.4,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Edinburgh Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 17,
+      "neighborhood": "Princes Street"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Edinburgh Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 30,
+      "neighborhood": "George Street boutiques"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Edinburgh Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 58,
+      "neighborhood": "Victoria Street"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Edinburgh Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 74,
+      "neighborhood": "The Grassmarket"
+    },
+    {
+      "tier": "Resort",
+      "name": "Edinburgh Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 145,
+      "neighborhood": "St James Quarter"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Edinburgh Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 244,
+      "neighborhood": "Grassmarket pub crawl"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Edinburgh Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 290,
+      "neighborhood": "Bramble Bar"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        456,
+        724
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        462,
+        734
+      ],
+      "estimatedFlightHours": 8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        115,
+        182
+      ],
+      "estimatedFlightHours": 1.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        139,
+        221
+      ],
+      "estimatedFlightHours": 1.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        150,
+        239
+      ],
+      "estimatedFlightHours": 2.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        216,
+        343
+      ],
+      "estimatedFlightHours": 3.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        201,
+        320
+      ],
+      "estimatedFlightHours": 3.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        124,
+        197
+      ],
+      "estimatedFlightHours": 1.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        167,
+        265
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1295,
+        2057
+      ],
+      "estimatedFlightHours": 23.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1369,
+        2174
+      ],
+      "estimatedFlightHours": 24.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        570,
+        905
+      ],
+      "estimatedFlightHours": 10,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        744,
+        1181
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        698,
+        1108
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        866,
+        1376
+      ],
+      "estimatedFlightHours": 15.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        768,
+        1220
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        845,
+        1342
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        930,
+        1477
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        843,
+        1339
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        813,
+        1292
+      ],
+      "estimatedFlightHours": 14.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        493,
+        783
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        459,
+        729
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        476,
+        756
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        434,
+        690
+      ],
+      "estimatedFlightHours": 7.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        770,
+        1223
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        780,
+        1239
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Edinburgh Airport (EDI)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        697,
+        1107
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Edinburgh Castle",
+    "Palace of Holyroodhouse",
+    "Camera Obscura & World of Illusions",
+    "The Real Mary King's Close",
+    "Scotch Whisky Experience",
+    "Edinburgh Dungeon",
+    "Royal Yacht Britannia",
+    "Gilmerton Cove",
+    "Rosslyn Chapel",
+    "Craigmillar Castle",
+    "Edinburgh Zoo",
+    "Royal Mile",
+    "Arthur's Seat",
+    "National Museum of Scotland",
+    "Scottish National Gallery",
+    "Calton Hill",
+    "Princes Street Gardens",
+    "Grassmarket",
+    "Dean Village",
+    "Rosslyn Chapel & the Pentland Hills",
+    "Stirling Castle",
+    "Loch Lomond & the Trossachs",
+    "St Andrews",
+    "National War Museum",
+    "Scottish National Portrait Gallery",
+    "Holyrood Park",
+    "The Meadows",
+    "Royal Botanic Garden Edinburgh",
+    "Portobello Beach",
+    "Victoria Street's colorful curved shopfronts",
+    "Edinburgh Castle from Princes Street Gardens",
+    "Arthur's Seat at sunrise",
+    "Dean Village along the Water of Leith",
+    "Calton Hill monuments at golden hour"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Edinburgh Castle",
+      "priceUSD": 30
+    },
+    {
+      "name": "Palace of Holyroodhouse",
+      "priceUSD": 22
+    },
+    {
+      "name": "Camera Obscura & World of Illusions",
+      "priceUSD": 20
+    },
+    {
+      "name": "The Real Mary King's Close",
+      "priceUSD": 21
+    },
+    {
+      "name": "Scotch Whisky Experience",
+      "priceUSD": 22
+    },
+    {
+      "name": "Edinburgh Dungeon",
+      "priceUSD": 20
+    },
+    {
+      "name": "Royal Yacht Britannia",
+      "priceUSD": 24
+    },
+    {
+      "name": "Gilmerton Cove",
+      "priceUSD": 14
+    },
+    {
+      "name": "Rosslyn Chapel",
+      "priceUSD": 12
+    },
+    {
+      "name": "Craigmillar Castle",
+      "priceUSD": 8
+    },
+    {
+      "name": "Edinburgh Zoo",
+      "priceUSD": 25
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Royal Mile",
+    "Arthur's Seat",
+    "National Museum of Scotland",
+    "Scottish National Gallery",
+    "Calton Hill",
+    "Princes Street Gardens",
+    "Grassmarket",
+    "Dean Village"
+  ],
+  "museums": [
+    "National Museum of Scotland",
+    "Scottish National Gallery",
+    "National War Museum",
+    "Scottish National Portrait Gallery"
+  ],
+  "parks": [
+    "Princes Street Gardens",
+    "Holyrood Park",
+    "The Meadows",
+    "Royal Botanic Garden Edinburgh"
+  ],
+  "beaches": [
+    "Portobello Beach"
+  ],
+  "dayTrips": [
+    "Rosslyn Chapel & the Pentland Hills",
+    "Stirling Castle",
+    "Loch Lomond & the Trossachs",
+    "St Andrews"
+  ],
+  "fromPriceUSD": 871,
+  "seo": {
+    "title": "Edinburgh 2-Day Heritage Tour | Flights, Hotels & Tours Included",
+    "slug": "edinburgh-2-day-package",
+    "keywords": [
+      "Edinburgh",
+      "United Kingdom",
+      "Edinburgh, United Kingdom",
+      "Scotland",
+      "Edinburgh tour package",
+      "Edinburgh vacation package",
+      "Edinburgh holiday package",
+      "things to do in Edinburgh",
+      "best time to visit Edinburgh",
+      "Edinburgh itinerary",
+      "2 day Edinburgh itinerary",
+      "Edinburgh flights and hotels",
+      "Edinburgh all inclusive package",
+      "cheap Edinburgh package",
+      "luxury Edinburgh package"
+    ],
+    "canonicalUrl": "/packages/edinburgh-2-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Edinburgh Package",
+        "url": "/packages/edinburgh-3-day-package"
+      },
+      {
+        "title": "5-Day Edinburgh Package",
+        "url": "/packages/edinburgh-5-day-package"
+      },
+      {
+        "title": "London 2-Day City Break",
+        "url": "/packages/london-2-day-package"
+      },
+      {
+        "title": "Amsterdam 2-Day City Break",
+        "url": "/packages/amsterdam-2-day-package"
+      },
+      {
+        "title": "Prague 2-Day City Break",
+        "url": "/packages/prague-2-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Edinburgh — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Edinburgh"
+      },
+      {
+        "title": "Edinburgh — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Edinburgh"
+      }
+    ]
+  }
+}

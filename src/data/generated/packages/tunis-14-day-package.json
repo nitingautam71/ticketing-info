@@ -1,0 +1,1663 @@
+{
+  "id": "PKG-tunis-14D",
+  "slug": "tunis-14-day-package",
+  "destinationSlug": "tunis",
+  "destinationName": "Tunis",
+  "country": "Tunisia",
+  "region": "North Africa",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Tunis 14-Day Heritage Tour",
+  "metaTitle": "Tunis 14-Day Heritage Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Tunis, Tunisia: round-trip flights, hotel, breakfast, transfers, and guided tours including Carthage archaeological site and Bardo National Museum. Prices from $1535 per person (estimate).",
+  "highlights": [
+    "Carthage archaeological site",
+    "Bardo National Museum",
+    "Medina of Tunis",
+    "Dougga Roman ruins"
+  ],
+  "overview": "Spend 14 days discovering Tunis, Tunisia — Mediterranean climate — hot, dry summers (highs around 33°C) and mild, wetter winters (highs around 15°C). March-May and September-November, for mild, comfortable temperatures. This itinerary blends Carthage archaeological site, Bardo National Museum, Medina of Tunis with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Carthage archaeological site, Bardo National Museum, Medina of Tunis",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Tunis",
+      "description": "Land at Tunis-Carthage International Airport (TUN) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Carthage archaeological site — Ruins of the ancient Phoenician-Roman city, including the Antonine Baths. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Carthage archaeological site"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 2,
+      "title": "Tunis: Bardo National Museum & Sidi Bou Said day visit",
+      "description": "Morning visit to Bardo National Museum — One of the world's finest Roman mosaic collections, housed in a former palace. In the afternoon, continue to Sidi Bou Said day visit — Iconic blue-and-white clifftop village overlooking the bay. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Bardo National Museum",
+        "Sidi Bou Said day visit"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 3,
+      "title": "Tunis: Dougga Roman ruins day trip & Medina of Tunis",
+      "description": "Morning visit to Dougga Roman ruins day trip — UNESCO-listed, remarkably intact Roman provincial town. In the afternoon, continue to Medina of Tunis — UNESCO-listed old city of covered souqs and historic mosques. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Dougga Roman ruins day trip",
+        "Medina of Tunis"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Dougga Roman ruins",
+      "description": "Full-day excursion to Dougga Roman ruins, a popular side trip from Tunis. Return to Tunis in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Dougga Roman ruins",
+        "Free evening"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Dougga Roman ruins — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Dougga Roman ruins"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 6,
+      "title": "Tunis: Sidi Bou Said village streets & Avenue Habib Bourguiba",
+      "description": "Morning visit to Sidi Bou Said village streets — Free to wander the blue-and-white cobblestone lanes. In the afternoon, continue to Avenue Habib Bourguiba — Tunis's grand central boulevard, lined with cafés. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Sidi Bou Said village streets",
+        "Avenue Habib Bourguiba"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Kairouan (sacred city)",
+      "description": "Full-day excursion to Kairouan (sacred city), a popular side trip from Tunis. Return to Tunis in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Kairouan (sacred city)",
+        "Free evening"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 8,
+      "title": "Tunis: Zitouna Mosque courtyard & Carthage archaeological site",
+      "description": "Morning visit to Zitouna Mosque courtyard — Viewable courtyard of Tunis's oldest mosque (interior access limited for non-Muslims). In the afternoon, continue to Carthage archaeological site — Ruins of the ancient Phoenician-Roman city, including the Antonine Baths. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Zitouna Mosque courtyard",
+        "Carthage archaeological site"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Belvedere Park viewpoint — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Belvedere Park viewpoint"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Cap Bon Peninsula",
+      "description": "Full-day excursion to Cap Bon Peninsula, a popular side trip from Tunis. Return to Tunis in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Cap Bon Peninsula",
+        "Free evening"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 11,
+      "title": "Tunis: Bardo National Museum & Sidi Bou Said day visit",
+      "description": "Morning visit to Bardo National Museum — One of the world's finest Roman mosaic collections, housed in a former palace. In the afternoon, continue to Sidi Bou Said day visit — Iconic blue-and-white clifftop village overlooking the bay. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Bardo National Museum",
+        "Sidi Bou Said day visit"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 12,
+      "title": "Tunis: Dougga Roman ruins day trip & Medina of Tunis",
+      "description": "Morning visit to Dougga Roman ruins day trip — UNESCO-listed, remarkably intact Roman provincial town. In the afternoon, continue to Medina of Tunis — UNESCO-listed old city of covered souqs and historic mosques. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Dougga Roman ruins day trip",
+        "Medina of Tunis"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include La Marsa promenade — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "La Marsa promenade"
+      ],
+      "overnight": "Tunis"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Sidi Bou Said village streets or some souvenir shopping — before your private transfer to TUN for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Take the TGM light rail to Sidi Bou Said and Carthage rather than a taxi — it's cheap, scenic, and avoids traffic.",
+    "Bargain in the Medina souqs — initial asking prices are usually inflated.",
+    "Visit Sidi Bou Said in the late afternoon for the best light on the blue-and-white architecture.",
+    "Insist taxi drivers use the meter, or agree on a fare before departing.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Modest clothing for the Medina and non-resort areas",
+    "Comfortable shoes for uneven Medina alleys and cobblestones",
+    "Sun protection for summer heat"
+  ],
+  "thingsToDo": [
+    "Carthage archaeological site",
+    "Bardo National Museum",
+    "Sidi Bou Said day visit",
+    "Dougga Roman ruins day trip",
+    "Medina of Tunis",
+    "Sidi Bou Said village streets",
+    "Avenue Habib Bourguiba",
+    "Zitouna Mosque courtyard",
+    "Day trip to the Sahara edge near Douz (multi-day)",
+    "Coastal walks around La Marsa and Gammarth",
+    "Cycling the Carthage coastline",
+    "Carthage archaeological park",
+    "Belvedere Park and zoo",
+    "Sidi Bou Said village stroll"
+  ],
+  "thingsToAvoid": [
+    "Paying a taxi's first quoted price without confirming the meter is on.",
+    "Wandering the Medina's quieter alleys alone after dark.",
+    "Dressing immodestly outside resort/beach areas.",
+    "Skipping travel insurance and checking current regional travel advisories before booking."
+  ],
+  "topRestaurants": [
+    "Dar El Jeld — Traditional Tunisian fine dining ($$$)",
+    "La Baraka — Tunisian home-style ($$)",
+    "Chez Slah — Tunisian seafood ($$)",
+    "Le Golfe — Seafood, Sidi Bou Said ($$$)"
+  ],
+  "topCafes": [
+    "Café des Nattes (Sidi Bou Said)",
+    "Café Panorama"
+  ],
+  "shoppingAreas": [
+    "Medina souqs (leather, ceramics, spices)",
+    "Rue de Marseille boutiques"
+  ],
+  "nightlife": [
+    "Avenue Habib Bourguiba cafés",
+    "Gammarth beach clubs (summer)",
+    "Hotel lounges"
+  ],
+  "instagramSpots": [
+    "Sidi Bou Said blue doors and bougainvillea",
+    "Carthage ruins overlooking the sea",
+    "Medina souq alleys",
+    "Bardo Museum mosaics"
+  ],
+  "hiddenGems": [
+    "Dougga Roman ruins",
+    "Belvedere Park viewpoint",
+    "La Marsa promenade"
+  ],
+  "familyActivities": [
+    "Carthage archaeological park",
+    "Belvedere Park and zoo",
+    "Sidi Bou Said village stroll"
+  ],
+  "adventureActivities": [
+    "Day trip to the Sahara edge near Douz (multi-day)",
+    "Coastal walks around La Marsa and Gammarth",
+    "Cycling the Carthage coastline"
+  ],
+  "luxuryExperiences": [
+    "Private guided Carthage and Sidi Bou Said tour",
+    "Suite stay at a Gammarth beach resort",
+    "Fine dining at Dar El Jeld in a restored Medina mansion"
+  ],
+  "honeymoonExperiences": [
+    "Sunset in Sidi Bou Said overlooking the bay",
+    "Private dinner in a converted Medina courtyard house",
+    "Beach day at a Gammarth resort"
+  ],
+  "budgetExperiences": [
+    "Free wander through the Medina souqs",
+    "Sidi Bou Said village (free to explore)",
+    "Avenue Habib Bourguiba café culture"
+  ],
+  "estimatedDailyBudgetUSD": [
+    35,
+    70,
+    150,
+    340
+  ],
+  "safetyRating": 3.5,
+  "internetRating": 3.5,
+  "publicTransportRating": 3,
+  "walkingScore": 60,
+  "accessibilityRating": 2.5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 15,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 16,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 24,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 32,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 33,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 25,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 19,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 16,
+      "crowd": "Low"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "International Festival of Carthage",
+      "timing": "July-August"
+    },
+    {
+      "name": "Tunis International Film Festival",
+      "timing": "Varies, typically autumn"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "197",
+    "ambulance": "190",
+    "fire": "198"
+  },
+  "localEtiquette": [
+    "Dress modestly, particularly in the Medina and outside beach resort areas.",
+    "Greetings are warm — a handshake is standard; close acquaintances may exchange cheek kisses.",
+    "Bargaining is customary and expected in the Medina souqs.",
+    "Friday is a significant day for prayer; some shops close for a midday period."
+  ],
+  "localTransportGuide": "The TGM light rail line runs from central Tunis out to Carthage, Sidi Bou Said, and La Marsa — a scenic, easy way to reach the coastal sights. Taxis are inexpensive within the city (insist on the meter); the Medina itself is pedestrian-only.",
+  "bestTimeToVisit": "March-May and September-November, for mild, comfortable temperatures.",
+  "weather": "Mediterranean climate — hot, dry summers (highs around 33°C) and mild, wetter winters (highs around 15°C).",
+  "visaInformation": "Visa-free entry for stays up to 90 days for most Western passport holders including the US, UK, EU, Canada, and Australia. Indian nationals generally need a visa arranged in advance — check current requirements before booking.",
+  "currency": "TND",
+  "languages": [
+    "Arabic",
+    "French"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~10.2h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Tunis-Carthage International Airport (TUN)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Tunis?",
+      "answer": "Visa-free entry for stays up to 90 days for most Western passport holders including the US, UK, EU, Canada, and Australia. Indian nationals generally need a visa arranged in advance — check current requirements before booking."
+    },
+    {
+      "question": "What is the best time to visit Tunis?",
+      "answer": "March-May and September-November, for mild, comfortable temperatures. Mediterranean climate — hot, dry summers (highs around 33°C) and mild, wetter winters (highs around 15°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Tunis safe for tourists?",
+      "answer": "Tunis is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Tunis?",
+      "answer": "The local currency is TND. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "History",
+    "Culture",
+    "Beach",
+    "City Break",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Tunis",
+    "Tunisia",
+    "Tunis, Tunisia",
+    "North Africa",
+    "Tunis tour package",
+    "Tunis vacation package",
+    "Tunis holiday package",
+    "things to do in Tunis",
+    "best time to visit Tunis",
+    "Tunis itinerary",
+    "14 day Tunis itinerary",
+    "Tunis flights and hotels",
+    "Tunis all inclusive package",
+    "cheap Tunis package",
+    "luxury Tunis package",
+    "Tunis honeymoon package",
+    "Tunis family vacation",
+    "Tunis solo trip",
+    "Tunis group tour",
+    "Tunis weekend getaway",
+    "Tunis guided tour",
+    "TUN flights",
+    "Tunis travel guide",
+    "book Tunis trip online",
+    "Tunis trip cost",
+    "Tunis packages 14 days",
+    "Tunis history",
+    "Tunis culture",
+    "Tunis beach",
+    "Tunis city break",
+    "Tunis bucket list",
+    "Carthage archaeological site",
+    "Bardo National Museum",
+    "Sidi Bou Said day visit",
+    "Dougga Roman ruins day trip",
+    "Medina of Tunis",
+    "Sidi Bou Said village streets",
+    "Avenue Habib Bourguiba",
+    "Zitouna Mosque courtyard",
+    "Dar El Jeld",
+    "La Baraka",
+    "Chez Slah",
+    "Le Golfe",
+    "Sidi Bou Said blue doors and bougainvillea",
+    "Carthage ruins overlooking the sea",
+    "Medina souq alleys",
+    "Bardo Museum mosaics",
+    "Dougga Roman ruins",
+    "Belvedere Park viewpoint",
+    "La Marsa promenade"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Tunis, Tunisia — Sidi Bou Said blue and white village",
+      "keywords": [
+        "Tunis",
+        "Tunisia",
+        "Sidi Bou Said blue and white village",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Tunis Sidi Bou Said blue and white village",
+      "pexelsQuery": "Tunis Sidi Bou Said blue and white village",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Tunis, Tunisia — Sidi Bou Said blue and white village",
+      "keywords": [
+        "Tunis",
+        "Tunisia",
+        "Sidi Bou Said blue and white village",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Tunis Sidi Bou Said blue and white village",
+      "pexelsQuery": "Tunis Sidi Bou Said blue and white village",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Tunis, Tunisia — Carthage ruins coastline",
+      "keywords": [
+        "Tunis",
+        "Tunisia",
+        "Carthage ruins coastline",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Tunis Carthage ruins coastline",
+      "pexelsQuery": "Tunis Carthage ruins coastline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Tunis, Tunisia — Medina souq alleys",
+      "keywords": [
+        "Tunis",
+        "Tunisia",
+        "Medina souq alleys",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Tunis Medina souq alleys",
+      "pexelsQuery": "Tunis Medina souq alleys",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Tunis, Tunisia — Sidi Bou Said blue and white village",
+      "keywords": [
+        "Tunis",
+        "Tunisia",
+        "Sidi Bou Said blue and white village",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Tunis Sidi Bou Said blue and white village",
+      "pexelsQuery": "Tunis Sidi Bou Said blue and white village",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tunis, Tunisia — Carthage ruins coastline",
+      "keywords": [
+        "Tunis",
+        "Tunisia",
+        "Carthage ruins coastline",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Tunis Carthage ruins coastline",
+      "pexelsQuery": "Tunis Carthage ruins coastline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tunis, Tunisia — Medina souq alleys",
+      "keywords": [
+        "Tunis",
+        "Tunisia",
+        "Medina souq alleys",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Tunis Medina souq alleys",
+      "pexelsQuery": "Tunis Medina souq alleys",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tunis, Tunisia — Bardo Museum mosaics",
+      "keywords": [
+        "Tunis",
+        "Tunisia",
+        "Bardo Museum mosaics",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Tunis Bardo Museum mosaics",
+      "pexelsQuery": "Tunis Bardo Museum mosaics",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tunis, Tunisia — Carthage archaeological site",
+      "keywords": [
+        "Tunis",
+        "Tunisia",
+        "Carthage archaeological site",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Tunis Carthage archaeological site",
+      "pexelsQuery": "Tunis Carthage archaeological site",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tunis, Tunisia — Bardo National Museum",
+      "keywords": [
+        "Tunis",
+        "Tunisia",
+        "Bardo National Museum",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Tunis Bardo National Museum",
+      "pexelsQuery": "Tunis Bardo National Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tunis, Tunisia — Sidi Bou Said day visit",
+      "keywords": [
+        "Tunis",
+        "Tunisia",
+        "Sidi Bou Said day visit",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Tunis Sidi Bou Said day visit",
+      "pexelsQuery": "Tunis Sidi Bou Said day visit",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tunis, Tunisia — Dougga Roman ruins day trip",
+      "keywords": [
+        "Tunis",
+        "Tunisia",
+        "Dougga Roman ruins day trip",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Tunis Dougga Roman ruins day trip",
+      "pexelsQuery": "Tunis Dougga Roman ruins day trip",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-tunis-14-1",
+      "author": "Tom Ivanov",
+      "country": "Switzerland",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-11-17",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Avenue Habib Bourguiba and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-2",
+      "author": "Lukas Novak",
+      "country": "Germany",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-11-27",
+      "title": "Five stars, will return",
+      "body": "Tunis is stunning and this package covered the essentials well, especially Bardo National Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-tunis-14-3",
+      "author": "Emma Ivanov",
+      "country": "South Africa",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-12-29",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Tunis was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Medina of Tunis was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-4",
+      "author": "Olivia van Dijk",
+      "country": "Mexico",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-10-12",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Tunis was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Zitouna Mosque courtyard was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-5",
+      "author": "Ethan Smith",
+      "country": "United Kingdom",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-29",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Carthage archaeological site and Zitouna Mosque courtyard. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-tunis-14-6",
+      "author": "Anna Williams",
+      "country": "Italy",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2025-10-25",
+      "title": "A little rushed but still wonderful",
+      "body": "Tunis is stunning and this package covered the essentials well, especially Zitouna Mosque courtyard. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-7",
+      "author": "Ava Ivanov",
+      "country": "Singapore",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-23",
+      "title": "Exceeded our expectations",
+      "body": "Dougga Roman ruins day trip alone was worth the trip, but combined with Bardo National Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-8",
+      "author": "Ava Khan",
+      "country": "Australia",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-07-27",
+      "title": "Loved every moment",
+      "body": "Bardo National Museum alone was worth the trip, but combined with Dougga Roman ruins day trip this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-9",
+      "author": "Fatima Brown",
+      "country": "United States",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 3.5,
+      "date": "2025-07-04",
+      "title": "Highly recommend this package",
+      "body": "Carthage archaeological site alone was worth the trip, but combined with Carthage archaeological site this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-10",
+      "author": "Tom Tanaka",
+      "country": "South Africa",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-05-19",
+      "title": "Five stars, will return",
+      "body": "We added a couple of optional activities beyond Medina of Tunis and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-11",
+      "author": "Lucas van Dijk",
+      "country": "Japan",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-04-09",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Medina of Tunis and Sidi Bou Said day visit. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-12",
+      "author": "Fatima Nguyen",
+      "country": "Switzerland",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-04-05",
+      "title": "Would book again in a heartbeat",
+      "body": "Avenue Habib Bourguiba alone was worth the trip, but combined with Avenue Habib Bourguiba this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-13",
+      "author": "Daniel Novak",
+      "country": "United Kingdom",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-28",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Carthage archaeological site and Zitouna Mosque courtyard. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-14",
+      "author": "Lucas Cohen",
+      "country": "India",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-09-26",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Sidi Bou Said day visit and Medina of Tunis. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-15",
+      "author": "Fatima Ibrahim",
+      "country": "Japan",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-02-13",
+      "title": "Highly recommend this package",
+      "body": "Medina of Tunis alone was worth the trip, but combined with Sidi Bou Said village streets this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-16",
+      "author": "James Larsen",
+      "country": "United States",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-01-18",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Tunis was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Carthage archaeological site was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-17",
+      "author": "Ethan Garcia",
+      "country": "Switzerland",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-02-02",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Avenue Habib Bourguiba and Carthage archaeological site. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-18",
+      "author": "Anna Santos",
+      "country": "Italy",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-08",
+      "title": "Unforgettable trip!",
+      "body": "Tunis is stunning and this package covered the essentials well, especially Zitouna Mosque courtyard. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-19",
+      "author": "Lukas Johnson",
+      "country": "Mexico",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-16",
+      "title": "Smooth from start to finish",
+      "body": "Tunis is stunning and this package covered the essentials well, especially Zitouna Mosque courtyard. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tunis-14-20",
+      "author": "Lucas Nguyen",
+      "country": "UAE",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-05",
+      "title": "A little rushed but still wonderful",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Sidi Bou Said day visit and Sidi Bou Said village streets. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.4,
+    "hotel": 4.1,
+    "transportation": 4.3,
+    "activities": 4.2,
+    "value": 4.2,
+    "cleanliness": 4.3,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Tunis Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 8,
+      "neighborhood": "Medina souqs (leather, ceramics, spices)"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Tunis Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 14,
+      "neighborhood": "Rue de Marseille boutiques"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Tunis Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 25,
+      "neighborhood": "Avenue Habib Bourguiba cafés"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Tunis Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "Gammarth beach clubs (summer)"
+    },
+    {
+      "tier": "Resort",
+      "name": "Tunis Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 75,
+      "neighborhood": "Hotel lounges"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Tunis Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 143,
+      "neighborhood": "Café des Nattes (Sidi Bou Said)"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Tunis Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 170,
+      "neighborhood": "Café Panorama"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        584,
+        927
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        601,
+        954
+      ],
+      "estimatedFlightHours": 10.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        208,
+        331
+      ],
+      "estimatedFlightHours": 3.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        184,
+        292
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        184,
+        292
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        120,
+        190
+      ],
+      "estimatedFlightHours": 1.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        168,
+        267
+      ],
+      "estimatedFlightHours": 2.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        205,
+        325
+      ],
+      "estimatedFlightHours": 3.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        162,
+        258
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1268,
+        2014
+      ],
+      "estimatedFlightHours": 23.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1424,
+        2261
+      ],
+      "estimatedFlightHours": 26,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        525,
+        834
+      ],
+      "estimatedFlightHours": 9.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        829,
+        1316
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        763,
+        1212
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        816,
+        1296
+      ],
+      "estimatedFlightHours": 14.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        736,
+        1169
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        794,
+        1261
+      ],
+      "estimatedFlightHours": 14.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        872,
+        1385
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        857,
+        1361
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        789,
+        1253
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        398,
+        632
+      ],
+      "estimatedFlightHours": 6.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        344,
+        547
+      ],
+      "estimatedFlightHours": 5.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        373,
+        593
+      ],
+      "estimatedFlightHours": 6.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        336,
+        533
+      ],
+      "estimatedFlightHours": 5.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        600,
+        953
+      ],
+      "estimatedFlightHours": 10.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        724,
+        1150
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Tunis-Carthage International Airport (TUN)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        823,
+        1307
+      ],
+      "estimatedFlightHours": 14.7,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Carthage archaeological site",
+    "Bardo National Museum",
+    "Sidi Bou Said day visit",
+    "Dougga Roman ruins day trip",
+    "Medina of Tunis",
+    "Sidi Bou Said village streets",
+    "Avenue Habib Bourguiba",
+    "Zitouna Mosque courtyard",
+    "Dougga Roman ruins",
+    "Kairouan (sacred city)",
+    "Cap Bon Peninsula",
+    "Carthage National Museum",
+    "Dar Ben Abdallah",
+    "Belvedere Park",
+    "Parc du Lac",
+    "La Marsa Beach",
+    "Gammarth Beach",
+    "Carthage-Byrsa coastline",
+    "Sidi Bou Said blue doors and bougainvillea",
+    "Carthage ruins overlooking the sea",
+    "Medina souq alleys",
+    "Bardo Museum mosaics"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Carthage archaeological site",
+      "priceUSD": 12
+    },
+    {
+      "name": "Bardo National Museum",
+      "priceUSD": 6
+    },
+    {
+      "name": "Sidi Bou Said day visit",
+      "priceUSD": 0
+    },
+    {
+      "name": "Dougga Roman ruins day trip",
+      "priceUSD": 10
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Medina of Tunis",
+    "Sidi Bou Said village streets",
+    "Avenue Habib Bourguiba",
+    "Zitouna Mosque courtyard"
+  ],
+  "museums": [
+    "Bardo National Museum",
+    "Carthage National Museum",
+    "Dar Ben Abdallah"
+  ],
+  "parks": [
+    "Belvedere Park",
+    "Parc du Lac"
+  ],
+  "beaches": [
+    "La Marsa Beach",
+    "Gammarth Beach",
+    "Carthage-Byrsa coastline"
+  ],
+  "dayTrips": [
+    "Dougga Roman ruins",
+    "Kairouan (sacred city)",
+    "Cap Bon Peninsula"
+  ],
+  "fromPriceUSD": 1535,
+  "seo": {
+    "title": "Tunis 14-Day Heritage Tour | Flights, Hotels & Tours Included",
+    "slug": "tunis-14-day-package",
+    "keywords": [
+      "Tunis",
+      "Tunisia",
+      "Tunis, Tunisia",
+      "North Africa",
+      "Tunis tour package",
+      "Tunis vacation package",
+      "Tunis holiday package",
+      "things to do in Tunis",
+      "best time to visit Tunis",
+      "Tunis itinerary",
+      "14 day Tunis itinerary",
+      "Tunis flights and hotels",
+      "Tunis all inclusive package",
+      "cheap Tunis package",
+      "luxury Tunis package"
+    ],
+    "canonicalUrl": "/packages/tunis-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Tunis Package",
+        "url": "/packages/tunis-10-day-package"
+      },
+      {
+        "title": "7-Day Tunis Package",
+        "url": "/packages/tunis-7-day-package"
+      },
+      {
+        "title": "Cartagena 14-Day Beach Getaway",
+        "url": "/packages/cartagena-14-day-package"
+      },
+      {
+        "title": "Athens 14-Day Heritage Tour",
+        "url": "/packages/athens-14-day-package"
+      },
+      {
+        "title": "Paris 14-Day City Break",
+        "url": "/packages/paris-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Tunis — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tunis"
+      },
+      {
+        "title": "Tunis — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Tunis"
+      }
+    ]
+  }
+}

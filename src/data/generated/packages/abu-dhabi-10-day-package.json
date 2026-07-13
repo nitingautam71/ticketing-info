@@ -1,0 +1,1634 @@
+{
+  "id": "PKG-abu-dhabi-10D",
+  "slug": "abu-dhabi-10-day-package",
+  "destinationSlug": "abu-dhabi",
+  "destinationName": "Abu Dhabi",
+  "country": "United Arab Emirates",
+  "region": "Middle East",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Abu Dhabi 10-Day Luxury Escape",
+  "metaTitle": "Abu Dhabi 10-Day Luxury Escape | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Abu Dhabi, United Arab Emirates: round-trip flights, hotel, breakfast, transfers, and guided tours including Louvre Abu Dhabi and Ferrari World Abu Dhabi. Prices from $2333 per person (estimate).",
+  "highlights": [
+    "Louvre Abu Dhabi",
+    "Ferrari World Abu Dhabi",
+    "Sheikh Zayed Grand Mosque",
+    "Desert dune bashing and sandboarding",
+    "Overnight luxury desert camp with private butler service",
+    "Al Ain oasis city"
+  ],
+  "overview": "Spend 10 days discovering Abu Dhabi, United Arab Emirates — Desert climate — extremely hot summers (highs 40°C+ and very humid) and warm, pleasant winters (highs around 24-26°C). November to March, for comfortably warm, dry weather and lower humidity than summer. This itinerary blends Louvre Abu Dhabi, Ferrari World Abu Dhabi, Sheikh Zayed Grand Mosque with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Louvre Abu Dhabi, Ferrari World Abu Dhabi, Sheikh Zayed Grand Mosque",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Abu Dhabi",
+      "description": "Land at Zayed International Airport (AUH) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Louvre Abu Dhabi — Jean Nouvel-designed museum spanning global art and civilization. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Louvre Abu Dhabi"
+      ],
+      "overnight": "Abu Dhabi"
+    },
+    {
+      "day": 2,
+      "title": "Abu Dhabi: Ferrari World Abu Dhabi & Warner Bros. World Abu Dhabi",
+      "description": "Morning visit to Ferrari World Abu Dhabi — Indoor Ferrari-branded theme park including the world's fastest roller coaster. In the afternoon, continue to Warner Bros. World Abu Dhabi — Indoor theme park on Yas Island. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Ferrari World Abu Dhabi",
+        "Warner Bros. World Abu Dhabi"
+      ],
+      "overnight": "Abu Dhabi"
+    },
+    {
+      "day": 3,
+      "title": "Abu Dhabi: Qasr Al Watan (Presidential Palace) & Yas Waterworld",
+      "description": "Morning visit to Qasr Al Watan (Presidential Palace) — Ornate seat of the UAE government, open to visitors. In the afternoon, continue to Yas Waterworld — Emirati-themed water park on Yas Island. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Qasr Al Watan (Presidential Palace)",
+        "Yas Waterworld"
+      ],
+      "overnight": "Abu Dhabi"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Al Ain oasis city",
+      "description": "Full-day excursion to Al Ain oasis city, a popular side trip from Abu Dhabi. Return to Abu Dhabi in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Al Ain oasis city",
+        "Free evening"
+      ],
+      "overnight": "Abu Dhabi"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Al Ain oasis city day trip — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Al Ain oasis city day trip"
+      ],
+      "overnight": "Abu Dhabi"
+    },
+    {
+      "day": 6,
+      "title": "Abu Dhabi: Desert safari with dune bashing & Sheikh Zayed Grand Mosque",
+      "description": "Morning visit to Desert safari with dune bashing — Afternoon-to-evening 4x4 desert tour with a Bedouin-style camp dinner. In the afternoon, continue to Sheikh Zayed Grand Mosque — One of the world's largest mosques, free to visit outside prayer times. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Desert safari with dune bashing",
+        "Sheikh Zayed Grand Mosque"
+      ],
+      "overnight": "Abu Dhabi"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Dubai (90 minutes away)",
+      "description": "Full-day excursion to Dubai (90 minutes away), a popular side trip from Abu Dhabi. Return to Abu Dhabi in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Dubai (90 minutes away)",
+        "Free evening"
+      ],
+      "overnight": "Abu Dhabi"
+    },
+    {
+      "day": 8,
+      "title": "Abu Dhabi: Corniche Beach and promenade & Qasr Al Hosn",
+      "description": "Morning visit to Corniche Beach and promenade — Long waterfront path and public beach. In the afternoon, continue to Qasr Al Hosn — The city's oldest stone building, a restored fort with free courtyard access. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Corniche Beach and promenade",
+        "Qasr Al Hosn"
+      ],
+      "overnight": "Abu Dhabi"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Mangrove National Park kayaking — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Mangrove National Park kayaking"
+      ],
+      "overnight": "Abu Dhabi"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Founder's Memorial or some souvenir shopping — before your private transfer to AUH for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Visit the Sheikh Zayed Grand Mosque in the morning for the best light and smaller crowds — dress code is strictly enforced (abayas provided for visitors if needed).",
+    "Book Ferrari World and Yas Island attractions online in advance for better pricing.",
+    "Summer heat (June-September) makes outdoor sightseeing impractical outside early morning or evening.",
+    "A day trip to Dubai is easy via a 90-minute taxi or bus ride.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Modest clothing covering shoulders and knees for mosques and public areas",
+    "Lightweight, breathable clothing for the heat",
+    "A light layer for heavily air-conditioned malls and museums"
+  ],
+  "thingsToDo": [
+    "Louvre Abu Dhabi",
+    "Ferrari World Abu Dhabi",
+    "Warner Bros. World Abu Dhabi",
+    "Qasr Al Watan (Presidential Palace)",
+    "Yas Waterworld",
+    "Desert safari with dune bashing",
+    "Sheikh Zayed Grand Mosque",
+    "Corniche Beach and promenade",
+    "Qasr Al Hosn",
+    "Founder's Memorial",
+    "Desert dune bashing and sandboarding",
+    "Kayaking through the Eastern Mangroves",
+    "Skydiving over Yas Island",
+    "Ferrari World",
+    "Warner Bros. World",
+    "Emirates Park Zoo"
+  ],
+  "thingsToAvoid": [
+    "Wearing revealing clothing outside resort pool/beach areas.",
+    "Public displays of affection.",
+    "Scheduling extensive outdoor activities during summer midday heat.",
+    "Photographing government buildings or military installations without checking if it's permitted."
+  ],
+  "topRestaurants": [
+    "Li Beirut — Lebanese fine dining ($$$$)",
+    "Al Fanar Restaurant — Traditional Emirati ($$$)",
+    "Mezlai — Emirati fine dining ($$$$)",
+    "Automatic Restaurant — Lebanese casual ($$)"
+  ],
+  "topCafes": [
+    "Cafe Arabia",
+    "Filli Café",
+    "Rosso Coffee Roasters"
+  ],
+  "shoppingAreas": [
+    "Yas Mall",
+    "The Galleria Al Maryah Island",
+    "Madinat Zayed Gold Souk"
+  ],
+  "nightlife": [
+    "Rooftop lounges on the Corniche",
+    "Yas Marina waterfront bars",
+    "Hotel-based nightclubs"
+  ],
+  "instagramSpots": [
+    "Sheikh Zayed Grand Mosque courtyard",
+    "Louvre Abu Dhabi's dome of light",
+    "Qasr Al Watan interiors",
+    "Corniche skyline at sunset"
+  ],
+  "hiddenGems": [
+    "Al Ain oasis city day trip",
+    "Mangrove National Park kayaking",
+    "Heritage Village"
+  ],
+  "familyActivities": [
+    "Ferrari World",
+    "Warner Bros. World",
+    "Yas Waterworld",
+    "Emirates Park Zoo"
+  ],
+  "adventureActivities": [
+    "Desert dune bashing and sandboarding",
+    "Kayaking through the Eastern Mangroves",
+    "Skydiving over Yas Island"
+  ],
+  "luxuryExperiences": [
+    "Overnight luxury desert camp with private butler service",
+    "Suite at the Emirates Palace",
+    "Private yacht charter around the Corniche"
+  ],
+  "honeymoonExperiences": [
+    "Sunset desert safari with private dinner under the stars",
+    "Couples spa day at a Corniche resort",
+    "Private evening tour of the illuminated Grand Mosque"
+  ],
+  "budgetExperiences": [
+    "Free visit to the Sheikh Zayed Grand Mosque",
+    "Corniche Beach and promenade",
+    "Qasr Al Hosn fort courtyard"
+  ],
+  "estimatedDailyBudgetUSD": [
+    75,
+    150,
+    320,
+    800
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 4,
+  "walkingScore": 45,
+  "accessibilityRating": 4.5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 34,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 39,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 40,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 41,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 41,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 39,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 35,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 30,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 26,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Abu Dhabi Formula 1 Grand Prix",
+      "timing": "November/December"
+    },
+    {
+      "name": "Abu Dhabi Art Fair",
+      "timing": "November"
+    },
+    {
+      "name": "Al Dhafra Festival (camel festival)",
+      "timing": "December"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "999",
+    "ambulance": "998",
+    "fire": "997"
+  },
+  "localEtiquette": [
+    "Dress modestly in public areas, especially malls and government buildings — shoulders and knees covered.",
+    "Public displays of affection are frowned upon; alcohol is only served in licensed venues.",
+    "During Ramadan, avoid eating, drinking, or smoking in public during daylight hours.",
+    "Friday is the start of the weekend; some businesses close or shorten hours around Friday prayers."
+  ],
+  "localTransportGuide": "Abu Dhabi is spread out and largely car-oriented — taxis and rideshare apps (Careem, Uber) are inexpensive and the easiest way around. A public bus network exists but is less convenient for visitors; most attractions on Yas and Saadiyat Islands are best reached by taxi.",
+  "bestTimeToVisit": "November to March, for comfortably warm, dry weather and lower humidity than summer.",
+  "weather": "Desert climate — extremely hot summers (highs 40°C+ and very humid) and warm, pleasant winters (highs around 24-26°C).",
+  "visaInformation": "Visa-on-arrival or visa-free entry for many nationalities including the US, UK, EU, Canada, Australia, and India (visa-on-arrival for eligible Indian passport holders meeting conditions, or a pre-arranged e-visa) for stays typically up to 30-90 days depending on nationality.",
+  "currency": "AED",
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "timeZone": "GST (UTC+4)",
+  "averageFlightTime": "~9.4h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Zayed International Airport (AUH)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Abu Dhabi?",
+      "answer": "Visa-on-arrival or visa-free entry for many nationalities including the US, UK, EU, Canada, Australia, and India (visa-on-arrival for eligible Indian passport holders meeting conditions, or a pre-arranged e-visa) for stays typically up to 30-90 days depending on nationality."
+    },
+    {
+      "question": "What is the best time to visit Abu Dhabi?",
+      "answer": "November to March, for comfortably warm, dry weather and lower humidity than summer. Desert climate — extremely hot summers (highs 40°C+ and very humid) and warm, pleasant winters (highs around 24-26°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Abu Dhabi safe for tourists?",
+      "answer": "Abu Dhabi is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Abu Dhabi?",
+      "answer": "The local currency is AED. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include Ferrari World."
+    }
+  ],
+  "categories": [
+    "Luxury",
+    "Family",
+    "City Break",
+    "Culture",
+    "Adventure",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Abu Dhabi",
+    "United Arab Emirates",
+    "Abu Dhabi, United Arab Emirates",
+    "Middle East",
+    "Abu Dhabi tour package",
+    "Abu Dhabi vacation package",
+    "Abu Dhabi holiday package",
+    "things to do in Abu Dhabi",
+    "best time to visit Abu Dhabi",
+    "Abu Dhabi itinerary",
+    "10 day Abu Dhabi itinerary",
+    "Abu Dhabi flights and hotels",
+    "Abu Dhabi all inclusive package",
+    "cheap Abu Dhabi package",
+    "luxury Abu Dhabi package",
+    "Abu Dhabi honeymoon package",
+    "Abu Dhabi family vacation",
+    "Abu Dhabi solo trip",
+    "Abu Dhabi group tour",
+    "Abu Dhabi weekend getaway",
+    "Abu Dhabi guided tour",
+    "AUH flights",
+    "Abu Dhabi travel guide",
+    "book Abu Dhabi trip online",
+    "Abu Dhabi trip cost",
+    "Abu Dhabi packages 10 days",
+    "Abu Dhabi luxury",
+    "Abu Dhabi family",
+    "Abu Dhabi city break",
+    "Abu Dhabi culture",
+    "Abu Dhabi adventure",
+    "Abu Dhabi bucket list",
+    "Louvre Abu Dhabi",
+    "Ferrari World Abu Dhabi",
+    "Warner Bros. World Abu Dhabi",
+    "Qasr Al Watan (Presidential Palace)",
+    "Yas Waterworld",
+    "Desert safari with dune bashing",
+    "Sheikh Zayed Grand Mosque",
+    "Corniche Beach and promenade",
+    "Qasr Al Hosn",
+    "Founder's Memorial",
+    "Li Beirut",
+    "Al Fanar Restaurant",
+    "Mezlai",
+    "Automatic Restaurant",
+    "Sheikh Zayed Grand Mosque courtyard",
+    "Louvre Abu Dhabi's dome of light",
+    "Qasr Al Watan interiors",
+    "Corniche skyline at sunset"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Abu Dhabi, United Arab Emirates — Sheikh Zayed Grand Mosque courtyard",
+      "keywords": [
+        "Abu Dhabi",
+        "United Arab Emirates",
+        "Sheikh Zayed Grand Mosque courtyard",
+        "Luxury",
+        "Family"
+      ],
+      "unsplashQuery": "Abu Dhabi Sheikh Zayed Grand Mosque courtyard",
+      "pexelsQuery": "Abu Dhabi Sheikh Zayed Grand Mosque courtyard",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Abu Dhabi, United Arab Emirates — Sheikh Zayed Grand Mosque courtyard",
+      "keywords": [
+        "Abu Dhabi",
+        "United Arab Emirates",
+        "Sheikh Zayed Grand Mosque courtyard",
+        "Luxury",
+        "Family"
+      ],
+      "unsplashQuery": "Abu Dhabi Sheikh Zayed Grand Mosque courtyard",
+      "pexelsQuery": "Abu Dhabi Sheikh Zayed Grand Mosque courtyard",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Abu Dhabi, United Arab Emirates — Louvre Abu Dhabi dome",
+      "keywords": [
+        "Abu Dhabi",
+        "United Arab Emirates",
+        "Louvre Abu Dhabi dome",
+        "Luxury",
+        "Family"
+      ],
+      "unsplashQuery": "Abu Dhabi Louvre Abu Dhabi dome",
+      "pexelsQuery": "Abu Dhabi Louvre Abu Dhabi dome",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Abu Dhabi, United Arab Emirates — Corniche skyline sunset",
+      "keywords": [
+        "Abu Dhabi",
+        "United Arab Emirates",
+        "Corniche skyline sunset",
+        "Luxury",
+        "Family"
+      ],
+      "unsplashQuery": "Abu Dhabi Corniche skyline sunset",
+      "pexelsQuery": "Abu Dhabi Corniche skyline sunset",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Abu Dhabi, United Arab Emirates — Sheikh Zayed Grand Mosque courtyard",
+      "keywords": [
+        "Abu Dhabi",
+        "United Arab Emirates",
+        "Sheikh Zayed Grand Mosque courtyard",
+        "Luxury",
+        "Family"
+      ],
+      "unsplashQuery": "Abu Dhabi Sheikh Zayed Grand Mosque courtyard",
+      "pexelsQuery": "Abu Dhabi Sheikh Zayed Grand Mosque courtyard",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Abu Dhabi, United Arab Emirates — Louvre Abu Dhabi dome",
+      "keywords": [
+        "Abu Dhabi",
+        "United Arab Emirates",
+        "Louvre Abu Dhabi dome",
+        "Luxury",
+        "Family"
+      ],
+      "unsplashQuery": "Abu Dhabi Louvre Abu Dhabi dome",
+      "pexelsQuery": "Abu Dhabi Louvre Abu Dhabi dome",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Abu Dhabi, United Arab Emirates — Corniche skyline sunset",
+      "keywords": [
+        "Abu Dhabi",
+        "United Arab Emirates",
+        "Corniche skyline sunset",
+        "Luxury",
+        "Family"
+      ],
+      "unsplashQuery": "Abu Dhabi Corniche skyline sunset",
+      "pexelsQuery": "Abu Dhabi Corniche skyline sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Abu Dhabi, United Arab Emirates — Desert dunes safari",
+      "keywords": [
+        "Abu Dhabi",
+        "United Arab Emirates",
+        "Desert dunes safari",
+        "Luxury",
+        "Family"
+      ],
+      "unsplashQuery": "Abu Dhabi Desert dunes safari",
+      "pexelsQuery": "Abu Dhabi Desert dunes safari",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Abu Dhabi, United Arab Emirates — Louvre Abu Dhabi",
+      "keywords": [
+        "Abu Dhabi",
+        "United Arab Emirates",
+        "Louvre Abu Dhabi",
+        "Luxury",
+        "Family"
+      ],
+      "unsplashQuery": "Abu Dhabi Louvre Abu Dhabi",
+      "pexelsQuery": "Abu Dhabi Louvre Abu Dhabi",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Abu Dhabi, United Arab Emirates — Ferrari World Abu Dhabi",
+      "keywords": [
+        "Abu Dhabi",
+        "United Arab Emirates",
+        "Ferrari World Abu Dhabi",
+        "Luxury",
+        "Family"
+      ],
+      "unsplashQuery": "Abu Dhabi Ferrari World Abu Dhabi",
+      "pexelsQuery": "Abu Dhabi Ferrari World Abu Dhabi",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Abu Dhabi, United Arab Emirates — Warner Bros. World Abu Dhabi",
+      "keywords": [
+        "Abu Dhabi",
+        "United Arab Emirates",
+        "Warner Bros. World Abu Dhabi",
+        "Luxury",
+        "Family"
+      ],
+      "unsplashQuery": "Abu Dhabi Warner Bros. World Abu Dhabi",
+      "pexelsQuery": "Abu Dhabi Warner Bros. World Abu Dhabi",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Abu Dhabi, United Arab Emirates — Qasr Al Watan (Presidential Palace)",
+      "keywords": [
+        "Abu Dhabi",
+        "United Arab Emirates",
+        "Qasr Al Watan (Presidential Palace)",
+        "Luxury",
+        "Family"
+      ],
+      "unsplashQuery": "Abu Dhabi Qasr Al Watan (Presidential Palace)",
+      "pexelsQuery": "Abu Dhabi Qasr Al Watan (Presidential Palace)",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-abu-dhabi-10-1",
+      "author": "Hiroshi Brown",
+      "country": "India",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-13",
+      "title": "Perfect for our honeymoon",
+      "body": "Qasr Al Watan (Presidential Palace) alone was worth the trip, but combined with Qasr Al Hosn this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-2",
+      "author": "Chen Costa",
+      "country": "Spain",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-12",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a couple trip and it was well paced. Founder's Memorial in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-3",
+      "author": "James Smith",
+      "country": "Switzerland",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-10-02",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Abu Dhabi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Corniche Beach and promenade was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-abu-dhabi-10-4",
+      "author": "Liam Cohen",
+      "country": "Italy",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-15",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Abu Dhabi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Founder's Memorial was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-5",
+      "author": "Sarah Garcia",
+      "country": "Netherlands",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-07-17",
+      "title": "Five stars, will return",
+      "body": "Abu Dhabi is stunning and this package covered the essentials well, especially Corniche Beach and promenade. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-6",
+      "author": "Chen Novak",
+      "country": "South Korea",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-05-07",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a couple trip and it was well paced. Yas Waterworld in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-7",
+      "author": "Ava Andersen",
+      "country": "Japan",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-03-25",
+      "title": "Solid mid-range package",
+      "body": "Desert safari with dune bashing alone was worth the trip, but combined with Louvre Abu Dhabi this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-8",
+      "author": "Fatima Ivanov",
+      "country": "Canada",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-08-17",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Ferrari World Abu Dhabi alone was worth the trip, but combined with Founder's Memorial this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-9",
+      "author": "Lucas Santos",
+      "country": "France",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-09",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Warner Bros. World Abu Dhabi and Corniche Beach and promenade. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-10",
+      "author": "Wei Ibrahim",
+      "country": "Japan",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-04-05",
+      "title": "Five stars, will return",
+      "body": "Booked this as a couple trip and it was well paced. Desert safari with dune bashing in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-11",
+      "author": "Hiroshi Kowalski",
+      "country": "New Zealand",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-04-01",
+      "title": "Five stars, will return",
+      "body": "Sheikh Zayed Grand Mosque alone was worth the trip, but combined with Ferrari World Abu Dhabi this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-12",
+      "author": "Arjun Fernandez",
+      "country": "India",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-07",
+      "title": "Great value for money",
+      "body": "Booked this as a group trip and it was well paced. Qasr Al Watan (Presidential Palace) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-13",
+      "author": "Mia Kowalski",
+      "country": "United Kingdom",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-01-21",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Louvre Abu Dhabi and Founder's Memorial. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-abu-dhabi-10-14",
+      "author": "Ava Larsen",
+      "country": "Australia",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-08",
+      "title": "Exceeded our expectations",
+      "body": "Ferrari World Abu Dhabi alone was worth the trip, but combined with Qasr Al Watan (Presidential Palace) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-15",
+      "author": "Omar Botha",
+      "country": "Brazil",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-05-08",
+      "title": "Unforgettable trip!",
+      "body": "We added a couple of optional activities beyond Desert safari with dune bashing and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-16",
+      "author": "Wei Ibrahim",
+      "country": "New Zealand",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-19",
+      "title": "Adventure of a lifetime",
+      "body": "Booked this as a group trip and it was well paced. Sheikh Zayed Grand Mosque in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-17",
+      "author": "Mia Johnson",
+      "country": "Spain",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-12-20",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Founder's Memorial and Corniche Beach and promenade. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-18",
+      "author": "David Santos",
+      "country": "France",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-02-11",
+      "title": "Unforgettable trip!",
+      "body": "Abu Dhabi is stunning and this package covered the essentials well, especially Warner Bros. World Abu Dhabi. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-abu-dhabi-10-19",
+      "author": "Elena Santos",
+      "country": "Switzerland",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-31",
+      "title": "Unforgettable trip!",
+      "body": "We added a couple of optional activities beyond Corniche Beach and promenade and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-abu-dhabi-10-20",
+      "author": "Emma Williams",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-04-30",
+      "title": "Loved every moment",
+      "body": "Our trip to Abu Dhabi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Qasr Al Watan (Presidential Palace) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.2,
+    "value": 4.2,
+    "cleanliness": 4.2,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Abu Dhabi Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 17,
+      "neighborhood": "Yas Mall"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Abu Dhabi Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 30,
+      "neighborhood": "The Galleria Al Maryah Island"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Abu Dhabi Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 53,
+      "neighborhood": "Madinat Zayed Gold Souk"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Abu Dhabi Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 68,
+      "neighborhood": "Rooftop lounges on the Corniche"
+    },
+    {
+      "tier": "Resort",
+      "name": "Abu Dhabi Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "Yas Marina waterfront bars"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Abu Dhabi Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 336,
+      "neighborhood": "Hotel-based nightclubs"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Abu Dhabi Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 400,
+      "neighborhood": "Cafe Arabia"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        873,
+        1386
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        878,
+        1395
+      ],
+      "estimatedFlightHours": 15.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        472,
+        749
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        455,
+        722
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        426,
+        676
+      ],
+      "estimatedFlightHours": 7.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        387,
+        614
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        483,
+        767
+      ],
+      "estimatedFlightHours": 8.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        450,
+        714
+      ],
+      "estimatedFlightHours": 7.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        420,
+        667
+      ],
+      "estimatedFlightHours": 7.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        949,
+        1508
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1105,
+        1755
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        244,
+        387
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        658,
+        1045
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        575,
+        914
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        502,
+        798
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        435,
+        691
+      ],
+      "estimatedFlightHours": 7.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        480,
+        763
+      ],
+      "estimatedFlightHours": 8.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        555,
+        882
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        582,
+        925
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        489,
+        776
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        133,
+        211
+      ],
+      "estimatedFlightHours": 1.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        99,
+        157
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        137,
+        217
+      ],
+      "estimatedFlightHours": 1.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        532,
+        845
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        952,
+        1512
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Zayed International Airport (AUH)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1114,
+        1769
+      ],
+      "estimatedFlightHours": 20.2,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Louvre Abu Dhabi",
+    "Ferrari World Abu Dhabi",
+    "Warner Bros. World Abu Dhabi",
+    "Qasr Al Watan (Presidential Palace)",
+    "Yas Waterworld",
+    "Desert safari with dune bashing",
+    "Sheikh Zayed Grand Mosque",
+    "Corniche Beach and promenade",
+    "Qasr Al Hosn",
+    "Founder's Memorial",
+    "Al Ain oasis city",
+    "Dubai (90 minutes away)",
+    "Liwa Desert",
+    "Manarat Al Saadiyat",
+    "Corniche Beach Park",
+    "Umm Al Emarat Park",
+    "Al Ain Oasis",
+    "Corniche Beach",
+    "Saadiyat Beach",
+    "Yas Beach",
+    "Sheikh Zayed Grand Mosque courtyard",
+    "Louvre Abu Dhabi's dome of light",
+    "Qasr Al Watan interiors",
+    "Corniche skyline at sunset"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Louvre Abu Dhabi",
+      "priceUSD": 20
+    },
+    {
+      "name": "Ferrari World Abu Dhabi",
+      "priceUSD": 90
+    },
+    {
+      "name": "Warner Bros. World Abu Dhabi",
+      "priceUSD": 90
+    },
+    {
+      "name": "Qasr Al Watan (Presidential Palace)",
+      "priceUSD": 17
+    },
+    {
+      "name": "Yas Waterworld",
+      "priceUSD": 75
+    },
+    {
+      "name": "Desert safari with dune bashing",
+      "priceUSD": 65
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Sheikh Zayed Grand Mosque",
+    "Corniche Beach and promenade",
+    "Qasr Al Hosn",
+    "Founder's Memorial"
+  ],
+  "museums": [
+    "Louvre Abu Dhabi",
+    "Qasr Al Hosn",
+    "Manarat Al Saadiyat"
+  ],
+  "parks": [
+    "Corniche Beach Park",
+    "Umm Al Emarat Park",
+    "Al Ain Oasis"
+  ],
+  "beaches": [
+    "Corniche Beach",
+    "Saadiyat Beach",
+    "Yas Beach"
+  ],
+  "dayTrips": [
+    "Al Ain oasis city",
+    "Dubai (90 minutes away)",
+    "Liwa Desert"
+  ],
+  "fromPriceUSD": 2333,
+  "seo": {
+    "title": "Abu Dhabi 10-Day Luxury Escape | Flights, Hotels & Tours Included",
+    "slug": "abu-dhabi-10-day-package",
+    "keywords": [
+      "Abu Dhabi",
+      "United Arab Emirates",
+      "Abu Dhabi, United Arab Emirates",
+      "Middle East",
+      "Abu Dhabi tour package",
+      "Abu Dhabi vacation package",
+      "Abu Dhabi holiday package",
+      "things to do in Abu Dhabi",
+      "best time to visit Abu Dhabi",
+      "Abu Dhabi itinerary",
+      "10 day Abu Dhabi itinerary",
+      "Abu Dhabi flights and hotels",
+      "Abu Dhabi all inclusive package",
+      "cheap Abu Dhabi package",
+      "luxury Abu Dhabi package"
+    ],
+    "canonicalUrl": "/packages/abu-dhabi-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Abu Dhabi Package",
+        "url": "/packages/abu-dhabi-7-day-package"
+      },
+      {
+        "title": "14-Day Abu Dhabi Package",
+        "url": "/packages/abu-dhabi-14-day-package"
+      },
+      {
+        "title": "Doha 10-Day Luxury Escape",
+        "url": "/packages/doha-10-day-package"
+      },
+      {
+        "title": "Dubai 10-Day Luxury Escape",
+        "url": "/packages/dubai-10-day-package"
+      },
+      {
+        "title": "Muscat 10-Day Cultural Tour",
+        "url": "/packages/muscat-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Abu Dhabi — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Abu_Dhabi"
+      },
+      {
+        "title": "Abu Dhabi — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Abu_Dhabi"
+      }
+    ]
+  }
+}

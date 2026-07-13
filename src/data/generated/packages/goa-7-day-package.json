@@ -1620,16 +1620,16 @@
         "url": "/packages/goa-10-day-package"
       },
       {
+        "title": "San Juan 7-Day Beach Getaway",
+        "url": "/packages/san-juan-7-day-package"
+      },
+      {
         "title": "Bali 7-Day Beach Getaway",
         "url": "/packages/bali-7-day-package"
       },
       {
         "title": "Phuket 7-Day Beach Getaway",
         "url": "/packages/phuket-7-day-package"
-      },
-      {
-        "title": "Rio de Janeiro 7-Day Beach Getaway",
-        "url": "/packages/rio-de-janeiro-7-day-package"
       }
     ],
     "externalLinks": [

@@ -1,0 +1,1697 @@
+{
+  "id": "PKG-agra-14D",
+  "slug": "agra-14-day-package",
+  "destinationSlug": "agra",
+  "destinationName": "Agra",
+  "country": "India",
+  "region": "North India",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Agra 14-Day Heritage Tour",
+  "metaTitle": "Agra 14-Day Heritage Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Agra, India: round-trip flights, hotel, breakfast, transfers, and guided tours including Taj Mahal and Agra Fort. Prices from $1625 per person (estimate).",
+  "highlights": [
+    "Taj Mahal",
+    "Agra Fort",
+    "Kinari Bazaar",
+    "Sunrise couple's visit to the Taj Mahal",
+    "Fatehpur Sikri"
+  ],
+  "overview": "Spend 14 days discovering Agra, India — Hot semi-arid climate: brutal summer heat (highs 40-43°C in May-June), a humid monsoon July-September, and cool, hazy winters (highs 18-22°C, chilly mornings good for sunrise photography). October to March for cool, clear mornings that make Taj Mahal sunrise visits pleasant; avoid May-June when highs regularly exceed 40°C. This itinerary blends Taj Mahal, Agra Fort, Kinari Bazaar with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Taj Mahal, Agra Fort, Kinari Bazaar",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Agra",
+      "description": "Land at Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Taj Mahal — Ivory-white marble mausoleum, UNESCO World Heritage Site and one of the New7Wonders. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Taj Mahal"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 2,
+      "title": "Agra: Agra Fort & Fatehpur Sikri",
+      "description": "Morning visit to Agra Fort — Red sandstone Mughal fortress overlooking the Yamuna River. In the afternoon, continue to Fatehpur Sikri — Abandoned red-sandstone Mughal capital city, a day trip from Agra. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Agra Fort",
+        "Fatehpur Sikri"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 3,
+      "title": "Agra: Itmad-ud-Daulah (Baby Taj) & Akbar's Tomb, Sikandra",
+      "description": "Morning visit to Itmad-ud-Daulah (Baby Taj) — Delicate marble tomb often called a precursor to the Taj. In the afternoon, continue to Akbar's Tomb, Sikandra — Grand mausoleum of Emperor Akbar blending architectural styles. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Itmad-ud-Daulah (Baby Taj)",
+        "Akbar's Tomb, Sikandra"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Fatehpur Sikri",
+      "description": "Full-day excursion to Fatehpur Sikri, a popular side trip from Agra. Return to Agra in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Fatehpur Sikri",
+        "Free evening"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Mehtab Bagh at sunset — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Mehtab Bagh at sunset"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 6,
+      "title": "Agra: Mehtab Bagh & Taj Museum",
+      "description": "Morning visit to Mehtab Bagh — Riverside garden with the classic sunset Taj Mahal photo view. In the afternoon, continue to Taj Museum — Mughal artifacts and original architectural drawings inside the Taj complex. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Mehtab Bagh",
+        "Taj Museum"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Akbar's Tomb, Sikandra",
+      "description": "Full-day excursion to Akbar's Tomb, Sikandra, a popular side trip from Agra. Return to Agra in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Akbar's Tomb, Sikandra",
+        "Free evening"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 8,
+      "title": "Agra: Jama Masjid, Agra & Kinari Bazaar",
+      "description": "Morning visit to Jama Masjid, Agra — 17th-century mosque built by Shah Jahan's daughter. In the afternoon, continue to Kinari Bazaar — Bustling old-city market lanes. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Jama Masjid, Agra",
+        "Kinari Bazaar"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Chini Ka Rauza — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Chini Ka Rauza"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Mathura-Vrindavan",
+      "description": "Full-day excursion to Mathura-Vrindavan, a popular side trip from Agra. Return to Agra in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Mathura-Vrindavan",
+        "Free evening"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 11,
+      "title": "Agra: Yamuna riverfront near Agra Fort & Sadar Bazaar",
+      "description": "Morning visit to Yamuna riverfront near Agra Fort — Evening walk with fort and Taj skyline views. In the afternoon, continue to Sadar Bazaar — Local shopping and street-food strip. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Yamuna riverfront near Agra Fort",
+        "Sadar Bazaar"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 12,
+      "title": "Agra: Chini Ka Rauza exterior & Roman Catholic Cemetery",
+      "description": "Morning visit to Chini Ka Rauza exterior — Persian-tiled tomb exterior on the Yamuna's east bank. In the afternoon, continue to Roman Catholic Cemetery — One of Asia's oldest European cemeteries, dating to the 1600s. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Chini Ka Rauza exterior",
+        "Roman Catholic Cemetery"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Roman Catholic Cemetery — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Roman Catholic Cemetery"
+      ],
+      "overnight": "Agra"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Taj Mahal or some souvenir shopping — before your private transfer to AGR for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Visit at sunrise — cooler temperatures, softer light and noticeably thinner crowds than midday.",
+    "Buy Taj Mahal e-tickets in advance on the official ASI website; foreign tourists pay a higher fee but it includes a bottled water and shoe covers.",
+    "The Taj Mahal is closed on Fridays for those not attending prayers.",
+    "Hire a government-licensed guide at the ticket counter to skip unofficial touts and get accurate history.",
+    "Pair the Taj with a same-day Agra Fort visit — combined tickets offer a small discount.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Socks for walking the Taj Mahal's marble platform",
+    "Sunglasses and a hat — glare off white marble is intense",
+    "Modest clothing for mausoleum visits",
+    "A light jacket for chilly winter sunrise viewings"
+  ],
+  "thingsToDo": [
+    "Taj Mahal",
+    "Agra Fort",
+    "Fatehpur Sikri",
+    "Itmad-ud-Daulah (Baby Taj)",
+    "Akbar's Tomb, Sikandra",
+    "Mehtab Bagh",
+    "Taj Museum",
+    "Jama Masjid, Agra",
+    "Kinari Bazaar",
+    "Yamuna riverfront near Agra Fort",
+    "Sadar Bazaar",
+    "Chini Ka Rauza exterior",
+    "Roman Catholic Cemetery",
+    "Sunrise hot-air balloon ride over the Taj Mahal skyline",
+    "Cycling tour through Agra's old-city lanes",
+    "Village bike tour near Fatehpur Sikri",
+    "Kalakriti Cultural Centre light-and-dance show",
+    "Camel and elephant-shaped cart rides near Sadar Bazaar",
+    "Sheroes Hangout family-friendly cafe visit"
+  ],
+  "thingsToAvoid": [
+    "Unofficial \"marble factory\" tours that pressure purchases of overpriced inlay stone souvenirs.",
+    "Touts near the Taj claiming the ticket counter is \"closed\" and offering to sell tickets themselves.",
+    "Food and drink stalls with visibly poor hygiene right outside monument gates.",
+    "Scheduling only a few rushed hours in Agra — traffic and security lines make it easy to underestimate time needed.",
+    "Fake \"official guide\" badges — verify guides through your hotel or the ASI counter."
+  ],
+  "topRestaurants": [
+    "Pinch of Spice — North Indian ($$)",
+    "Esphahan (Oberoi Amarvilas) — Fine-dining Awadhi ($$$$)",
+    "Dasaprakash — South Indian ($)",
+    "Sheroes Hangout — Cafe, run by acid-attack survivors ($)",
+    "Peshawri (ITC Mughal) — North West Frontier ($$$)",
+    "Joney's Place — Traveler-friendly Indian ($)",
+    "Mama Chicken Mama Franky House — North Indian Street Food ($)"
+  ],
+  "topCafes": [
+    "Sheroes Hangout",
+    "Cafe Coffee Day (Fatehabad Road)",
+    "Taj Terrace Cafe",
+    "Green House Restaurant courtyard cafe"
+  ],
+  "shoppingAreas": [
+    "Kinari Bazaar",
+    "Sadar Bazaar",
+    "Subhash Bazaar (marble inlay shops)",
+    "Tajganj handicraft lanes"
+  ],
+  "nightlife": [
+    "Mehtab Bagh moonlit Taj views",
+    "Rooftop restaurants overlooking the Taj on Taj East Gate Road",
+    "Kalakriti Cultural Centre evening dance show"
+  ],
+  "instagramSpots": [
+    "Taj Mahal reflecting pool at sunrise",
+    "Mehtab Bagh sunset silhouette view",
+    "Agra Fort ramparts with Taj in the distance",
+    "Fatehpur Sikri courtyards"
+  ],
+  "hiddenGems": [
+    "Mehtab Bagh at sunset",
+    "Chini Ka Rauza",
+    "Roman Catholic Cemetery",
+    "Kachhpura village Taj view"
+  ],
+  "familyActivities": [
+    "Kalakriti Cultural Centre light-and-dance show",
+    "Camel and elephant-shaped cart rides near Sadar Bazaar",
+    "Sheroes Hangout family-friendly cafe visit"
+  ],
+  "adventureActivities": [
+    "Sunrise hot-air balloon ride over the Taj Mahal skyline",
+    "Cycling tour through Agra's old-city lanes",
+    "Village bike tour near Fatehpur Sikri"
+  ],
+  "luxuryExperiences": [
+    "Suite with a private Taj view at Oberoi Amarvilas",
+    "Private after-hours Agra Fort tour with a historian guide",
+    "Fine dining at Esphahan",
+    "Private sunrise Taj Mahal tour before public gates open"
+  ],
+  "honeymoonExperiences": [
+    "Sunrise couple's visit to the Taj Mahal",
+    "Candlelit dinner with a Taj view terrace",
+    "Sunset boat ride on the Yamuna near Mehtab Bagh",
+    "Couples spa at Oberoi Amarvilas"
+  ],
+  "budgetExperiences": [
+    "Sunrise Taj Mahal visit on the earliest low-cost entry slot",
+    "Street food trail in Sadar Bazaar",
+    "Free exterior views from Mehtab Bagh at sunset",
+    "Shared-jeep day trip to Fatehpur Sikri"
+  ],
+  "estimatedDailyBudgetUSD": [
+    18,
+    55,
+    130,
+    320
+  ],
+  "safetyRating": 3,
+  "internetRating": 3,
+  "publicTransportRating": 3,
+  "walkingScore": 38,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 37,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 41,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 40,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 34,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 33,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 33,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 20,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Taj Mahotsav",
+      "timing": "February 18-27 (crafts, culture and cuisine festival near the Taj)"
+    },
+    {
+      "name": "Diwali",
+      "timing": "October-November (per lunar calendar)"
+    },
+    {
+      "name": "Holi",
+      "timing": "March (per lunar calendar)"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101"
+  },
+  "localEtiquette": [
+    "Cover shoulders and knees when visiting the Taj Mahal and other mausoleums out of respect.",
+    "Shoe covers or barefoot walking is required on the Taj Mahal's marble platform — carry socks if you prefer not to go barefoot.",
+    "Photography of the Taj Mahal's main mausoleum interior is prohibited; exterior photography is welcomed.",
+    "Bargain politely but firmly with marble-inlay and handicraft vendors near tourist sites.",
+    "Avoid touching carvings and inlay work inside monuments — oils from hands damage the stone over time."
+  ],
+  "localTransportGuide": "Cycle-rickshaws and autos (both CNG and diesel) are the main way to get around Tajganj and the old city — the area right around the Taj Mahal is vehicle-restricted, so the final stretch is on foot, electric shuttle or battery-rickshaw. Ola/Uber operate in Agra but are less reliable than in bigger cities; hiring a car with driver for the day is common for Fatehpur Sikri trips.",
+  "bestTimeToVisit": "October to March for cool, clear mornings that make Taj Mahal sunrise visits pleasant; avoid May-June when highs regularly exceed 40°C.",
+  "weather": "Hot semi-arid climate: brutal summer heat (highs 40-43°C in May-June), a humid monsoon July-September, and cool, hazy winters (highs 18-22°C, chilly mornings good for sunrise photography).",
+  "visaInformation": "Most foreign nationals need an Indian e-Visa arranged online before arrival (usually entering via Delhi). Indian citizens need no visa. OCI/PIO cardholders enter visa-free with a valid, linked foreign passport, which is a common route for diaspora travelers visiting on a Taj Mahal trip.",
+  "currency": "INR",
+  "languages": [
+    "Hindi",
+    "Urdu"
+  ],
+  "timeZone": "IST (UTC+5:30)",
+  "averageFlightTime": "~9.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Agra?",
+      "answer": "Most foreign nationals need an Indian e-Visa arranged online before arrival (usually entering via Delhi). Indian citizens need no visa. OCI/PIO cardholders enter visa-free with a valid, linked foreign passport, which is a common route for diaspora travelers visiting on a Taj Mahal trip."
+    },
+    {
+      "question": "What is the best time to visit Agra?",
+      "answer": "October to March for cool, clear mornings that make Taj Mahal sunrise visits pleasant; avoid May-June when highs regularly exceed 40°C. Hot semi-arid climate: brutal summer heat (highs 40-43°C in May-June), a humid monsoon July-September, and cool, hazy winters (highs 18-22°C, chilly mornings good for sunrise photography)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Agra safe for tourists?",
+      "answer": "Agra is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Agra?",
+      "answer": "The local currency is INR. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Agra is one of our most-booked honeymoon destinations, especially the Sunrise couple's visit to the Taj Mahal experience."
+    }
+  ],
+  "categories": [
+    "History",
+    "Culture",
+    "Bucket List",
+    "Romantic",
+    "Honeymoon"
+  ],
+  "aiTags": [
+    "Agra",
+    "India",
+    "Agra, India",
+    "North India",
+    "Agra tour package",
+    "Agra vacation package",
+    "Agra holiday package",
+    "things to do in Agra",
+    "best time to visit Agra",
+    "Agra itinerary",
+    "14 day Agra itinerary",
+    "Agra flights and hotels",
+    "Agra all inclusive package",
+    "cheap Agra package",
+    "luxury Agra package",
+    "Agra honeymoon package",
+    "Agra family vacation",
+    "Agra solo trip",
+    "Agra group tour",
+    "Agra weekend getaway",
+    "Agra guided tour",
+    "AGR flights",
+    "Agra travel guide",
+    "book Agra trip online",
+    "Agra trip cost",
+    "Agra packages 14 days",
+    "Agra history",
+    "Agra culture",
+    "Agra bucket list",
+    "Agra romantic",
+    "Agra honeymoon",
+    "Taj Mahal",
+    "Agra Fort",
+    "Fatehpur Sikri",
+    "Itmad-ud-Daulah (Baby Taj)",
+    "Akbar's Tomb, Sikandra",
+    "Mehtab Bagh",
+    "Taj Museum",
+    "Jama Masjid, Agra",
+    "Kinari Bazaar",
+    "Yamuna riverfront near Agra Fort",
+    "Sadar Bazaar",
+    "Chini Ka Rauza exterior",
+    "Roman Catholic Cemetery",
+    "Pinch of Spice",
+    "Esphahan (Oberoi Amarvilas)",
+    "Dasaprakash",
+    "Sheroes Hangout",
+    "Peshawri (ITC Mughal)",
+    "Taj Mahal reflecting pool at sunrise"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Agra, India — Taj Mahal sunrise",
+      "keywords": [
+        "Agra",
+        "India",
+        "Taj Mahal sunrise",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Agra Taj Mahal sunrise",
+      "pexelsQuery": "Agra Taj Mahal sunrise",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Agra, India — Taj Mahal sunrise",
+      "keywords": [
+        "Agra",
+        "India",
+        "Taj Mahal sunrise",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Agra Taj Mahal sunrise",
+      "pexelsQuery": "Agra Taj Mahal sunrise",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Agra, India — Agra Fort ramparts",
+      "keywords": [
+        "Agra",
+        "India",
+        "Agra Fort ramparts",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Agra Agra Fort ramparts",
+      "pexelsQuery": "Agra Agra Fort ramparts",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Agra, India — Mehtab Bagh sunset view",
+      "keywords": [
+        "Agra",
+        "India",
+        "Mehtab Bagh sunset view",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Agra Mehtab Bagh sunset view",
+      "pexelsQuery": "Agra Mehtab Bagh sunset view",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Agra, India — Taj Mahal sunrise",
+      "keywords": [
+        "Agra",
+        "India",
+        "Taj Mahal sunrise",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Agra Taj Mahal sunrise",
+      "pexelsQuery": "Agra Taj Mahal sunrise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Agra, India — Agra Fort ramparts",
+      "keywords": [
+        "Agra",
+        "India",
+        "Agra Fort ramparts",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Agra Agra Fort ramparts",
+      "pexelsQuery": "Agra Agra Fort ramparts",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Agra, India — Mehtab Bagh sunset view",
+      "keywords": [
+        "Agra",
+        "India",
+        "Mehtab Bagh sunset view",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Agra Mehtab Bagh sunset view",
+      "pexelsQuery": "Agra Mehtab Bagh sunset view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Agra, India — Fatehpur Sikri courtyard",
+      "keywords": [
+        "Agra",
+        "India",
+        "Fatehpur Sikri courtyard",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Agra Fatehpur Sikri courtyard",
+      "pexelsQuery": "Agra Fatehpur Sikri courtyard",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Agra, India — Taj Mahal",
+      "keywords": [
+        "Agra",
+        "India",
+        "Taj Mahal",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Agra Taj Mahal",
+      "pexelsQuery": "Agra Taj Mahal",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Agra, India — Agra Fort",
+      "keywords": [
+        "Agra",
+        "India",
+        "Agra Fort",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Agra Agra Fort",
+      "pexelsQuery": "Agra Agra Fort",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Agra, India — Fatehpur Sikri",
+      "keywords": [
+        "Agra",
+        "India",
+        "Fatehpur Sikri",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Agra Fatehpur Sikri",
+      "pexelsQuery": "Agra Fatehpur Sikri",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Agra, India — Itmad-ud-Daulah (Baby Taj)",
+      "keywords": [
+        "Agra",
+        "India",
+        "Itmad-ud-Daulah (Baby Taj)",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Agra Itmad-ud-Daulah (Baby Taj)",
+      "pexelsQuery": "Agra Itmad-ud-Daulah (Baby Taj)",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-agra-14-1",
+      "author": "James Andersen",
+      "country": "Switzerland",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-20",
+      "title": "Loved every moment",
+      "body": "Our trip to Agra was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Sadar Bazaar was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-2",
+      "author": "Omar Smith",
+      "country": "Canada",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-02-19",
+      "title": "A little rushed but still wonderful",
+      "body": "We added a couple of optional activities beyond Agra Fort and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-3",
+      "author": "Isabella Kowalski",
+      "country": "United States",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-04-06",
+      "title": "A little rushed but still wonderful",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Taj Mahal and Fatehpur Sikri. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-4",
+      "author": "Lucas Garcia",
+      "country": "Brazil",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-31",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Jama Masjid, Agra and Mehtab Bagh. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-5",
+      "author": "Wei Garcia",
+      "country": "Australia",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-24",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a solo trip and it was well paced. Agra Fort in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-6",
+      "author": "Arjun Tanaka",
+      "country": "India",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-11-22",
+      "title": "Smooth from start to finish",
+      "body": "Booked this as a couple trip and it was well paced. Akbar's Tomb, Sikandra in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-7",
+      "author": "Wei Costa",
+      "country": "South Africa",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-12-02",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a family of 4 trip and it was well paced. Kinari Bazaar in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-8",
+      "author": "Daniel Costa",
+      "country": "Saudi Arabia",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-25",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Sadar Bazaar and Mehtab Bagh. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-9",
+      "author": "Marco Kim",
+      "country": "United Kingdom",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-08-17",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Taj Mahal and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-10",
+      "author": "Mia Novak",
+      "country": "Italy",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-25",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Roman Catholic Cemetery and Akbar's Tomb, Sikandra. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-11",
+      "author": "Olivia Khan",
+      "country": "New Zealand",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-05-06",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Agra was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kinari Bazaar was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-12",
+      "author": "Priya Nguyen",
+      "country": "South Africa",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-16",
+      "title": "Great for families with kids",
+      "body": "Booked this as a group trip and it was well paced. Kinari Bazaar in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-13",
+      "author": "Mohammed Ivanov",
+      "country": "New Zealand",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-08-25",
+      "title": "Solid mid-range package",
+      "body": "Kinari Bazaar alone was worth the trip, but combined with Itmad-ud-Daulah (Baby Taj) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-agra-14-14",
+      "author": "Lucas Brown",
+      "country": "Italy",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-22",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Roman Catholic Cemetery and Itmad-ud-Daulah (Baby Taj). Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-15",
+      "author": "Yuki Kowalski",
+      "country": "United States",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-05",
+      "title": "Great value for money",
+      "body": "Taj Mahal alone was worth the trip, but combined with Taj Mahal this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-16",
+      "author": "Nadia Ibrahim",
+      "country": "New Zealand",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-26",
+      "title": "Consultant made it effortless",
+      "body": "Agra is stunning and this package covered the essentials well, especially Kinari Bazaar. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-17",
+      "author": "Isabella Kowalski",
+      "country": "UAE",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-26",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Mehtab Bagh and Jama Masjid, Agra. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-18",
+      "author": "Arjun Williams",
+      "country": "Spain",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-06-01",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a couple trip and it was well paced. Roman Catholic Cemetery in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-agra-14-19",
+      "author": "Sarah Kowalski",
+      "country": "New Zealand",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-10",
+      "title": "A little rushed but still wonderful",
+      "body": "Agra is stunning and this package covered the essentials well, especially Kinari Bazaar. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-agra-14-20",
+      "author": "Fatima Kowalski",
+      "country": "Saudi Arabia",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-05-08",
+      "title": "Five stars, will return",
+      "body": "Sadar Bazaar alone was worth the trip, but combined with Jama Masjid, Agra this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.4,
+    "transportation": 4.2,
+    "activities": 4.2,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Agra Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 4,
+      "neighborhood": "Kinari Bazaar"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Agra Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 7,
+      "neighborhood": "Sadar Bazaar"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Agra Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 19,
+      "neighborhood": "Subhash Bazaar (marble inlay shops)"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Agra Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 25,
+      "neighborhood": "Tajganj handicraft lanes"
+    },
+    {
+      "tier": "Resort",
+      "name": "Agra Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 65,
+      "neighborhood": "Mehtab Bagh moonlit Taj views"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Agra Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 134,
+      "neighborhood": "Rooftop restaurants overlooking the Taj on Taj East Gate Road"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Agra Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "Kalakriti Cultural Centre evening dance show"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        938,
+        1490
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        930,
+        1477
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        574,
+        911
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        564,
+        896
+      ],
+      "estimatedFlightHours": 9.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        530,
+        842
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        515,
+        818
+      ],
+      "estimatedFlightHours": 9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        613,
+        973
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        548,
+        871
+      ],
+      "estimatedFlightHours": 9.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        533,
+        846
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        819,
+        1300
+      ],
+      "estimatedFlightHours": 14.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        968,
+        1538
+      ],
+      "estimatedFlightHours": 17.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        498,
+        791
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        415,
+        659
+      ],
+      "estimatedFlightHours": 7.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        364,
+        578
+      ],
+      "estimatedFlightHours": 6.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        276,
+        439
+      ],
+      "estimatedFlightHours": 4.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        342,
+        543
+      ],
+      "estimatedFlightHours": 5.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        426,
+        676
+      ],
+      "estimatedFlightHours": 7.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        413,
+        656
+      ],
+      "estimatedFlightHours": 7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        330,
+        524
+      ],
+      "estimatedFlightHours": 5.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        241,
+        382
+      ],
+      "estimatedFlightHours": 3.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        303,
+        482
+      ],
+      "estimatedFlightHours": 5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        268,
+        425
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        289,
+        459
+      ],
+      "estimatedFlightHours": 4.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        654,
+        1038
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1123,
+        1783
+      ],
+      "estimatedFlightHours": 20.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Agra Airport (nearest major gateway: Delhi DEL, ~230km) (AGR)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1148,
+        1823
+      ],
+      "estimatedFlightHours": 20.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Taj Mahal",
+    "Agra Fort",
+    "Fatehpur Sikri",
+    "Itmad-ud-Daulah (Baby Taj)",
+    "Akbar's Tomb, Sikandra",
+    "Mehtab Bagh",
+    "Taj Museum",
+    "Jama Masjid, Agra",
+    "Kinari Bazaar",
+    "Yamuna riverfront near Agra Fort",
+    "Sadar Bazaar",
+    "Chini Ka Rauza exterior",
+    "Roman Catholic Cemetery",
+    "Mathura-Vrindavan",
+    "Bharatpur Bird Sanctuary (Keoladeo National Park)",
+    "Guru Ka Tal",
+    "Taj Mahal reflecting pool at sunrise",
+    "Mehtab Bagh sunset silhouette view",
+    "Agra Fort ramparts with Taj in the distance",
+    "Fatehpur Sikri courtyards"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Taj Mahal",
+      "priceUSD": 15
+    },
+    {
+      "name": "Agra Fort",
+      "priceUSD": 6
+    },
+    {
+      "name": "Fatehpur Sikri",
+      "priceUSD": 6
+    },
+    {
+      "name": "Itmad-ud-Daulah (Baby Taj)",
+      "priceUSD": 3
+    },
+    {
+      "name": "Akbar's Tomb, Sikandra",
+      "priceUSD": 3
+    },
+    {
+      "name": "Mehtab Bagh",
+      "priceUSD": 3
+    },
+    {
+      "name": "Taj Museum",
+      "priceUSD": 1
+    },
+    {
+      "name": "Jama Masjid, Agra",
+      "priceUSD": 1
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Kinari Bazaar",
+    "Yamuna riverfront near Agra Fort",
+    "Sadar Bazaar",
+    "Chini Ka Rauza exterior",
+    "Roman Catholic Cemetery"
+  ],
+  "museums": [
+    "Taj Museum"
+  ],
+  "parks": [
+    "Mehtab Bagh",
+    "Guru Ka Tal"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Fatehpur Sikri",
+    "Akbar's Tomb, Sikandra",
+    "Mathura-Vrindavan",
+    "Bharatpur Bird Sanctuary (Keoladeo National Park)"
+  ],
+  "fromPriceUSD": 1625,
+  "seo": {
+    "title": "Agra 14-Day Heritage Tour | Flights, Hotels & Tours Included",
+    "slug": "agra-14-day-package",
+    "keywords": [
+      "Agra",
+      "India",
+      "Agra, India",
+      "North India",
+      "Agra tour package",
+      "Agra vacation package",
+      "Agra holiday package",
+      "things to do in Agra",
+      "best time to visit Agra",
+      "Agra itinerary",
+      "14 day Agra itinerary",
+      "Agra flights and hotels",
+      "Agra all inclusive package",
+      "cheap Agra package",
+      "luxury Agra package"
+    ],
+    "canonicalUrl": "/packages/agra-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Agra Package",
+        "url": "/packages/agra-10-day-package"
+      },
+      {
+        "title": "7-Day Agra Package",
+        "url": "/packages/agra-7-day-package"
+      },
+      {
+        "title": "Paris 14-Day City Break",
+        "url": "/packages/paris-14-day-package"
+      },
+      {
+        "title": "Venice 14-Day Romantic Getaway",
+        "url": "/packages/venice-14-day-package"
+      },
+      {
+        "title": "Udaipur 14-Day Romantic Getaway",
+        "url": "/packages/udaipur-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Agra — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Agra"
+      },
+      {
+        "title": "Agra — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Agra"
+      }
+    ]
+  }
+}

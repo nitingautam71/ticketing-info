@@ -1718,16 +1718,16 @@
         "url": "/packages/cape-town-7-day-package"
       },
       {
+        "title": "Santiago 14-Day City Break",
+        "url": "/packages/santiago-14-day-package"
+      },
+      {
+        "title": "Auckland 14-Day City Break",
+        "url": "/packages/auckland-14-day-package"
+      },
+      {
         "title": "Bangkok 14-Day City Break",
         "url": "/packages/bangkok-14-day-package"
-      },
-      {
-        "title": "Hanoi 14-Day City Break",
-        "url": "/packages/hanoi-14-day-package"
-      },
-      {
-        "title": "Paris 14-Day City Break",
-        "url": "/packages/paris-14-day-package"
       }
     ],
     "externalLinks": [

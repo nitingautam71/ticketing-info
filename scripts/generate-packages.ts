@@ -1,23 +1,29 @@
-// Generates the full 300-package dataset (50 destinations x 6 durations) from
+// Generates the full 900-package dataset (150 destinations x 6 durations) from
 // curated destination facts. Deterministic — re-running produces identical
 // output unless a destination fact or generator rule changed.
 //
 // Usage: npm run generate:packages
 //
 // Output:
-//   src/data/generated/destinations.json       - the 50 curated destination fact records
-//   src/data/generated/packages/<slug>.json     - one file per package (300 total), full detail
+//   src/data/generated/destinations.json       - the 150 curated destination fact records
+//   src/data/generated/packages/<slug>.json     - one file per package (900 total), full detail
 //   src/data/generated/packages-index.json      - lightweight list for search/filter pages
 
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { DESTINATIONS_A } from '../src/lib/packages/destinations-a';
 import { DESTINATIONS_B } from '../src/lib/packages/destinations-b';
+import { DESTINATIONS_C } from '../src/lib/packages/destinations-c';
+import { DESTINATIONS_D } from '../src/lib/packages/destinations-d';
+import { DESTINATIONS_E } from '../src/lib/packages/destinations-e';
+import { DESTINATIONS_F } from '../src/lib/packages/destinations-f';
 import { generatePackage } from '../src/lib/packages/generator';
 import type { DestinationFacts, TravelPackage } from '../src/lib/packages/types';
 
 const DURATIONS = [2, 3, 5, 7, 10, 14];
-const ALL_DESTINATIONS: DestinationFacts[] = [...DESTINATIONS_A, ...DESTINATIONS_B];
+const ALL_DESTINATIONS: DestinationFacts[] = [...DESTINATIONS_A, ...DESTINATIONS_B, ...DESTINATIONS_C, ...DESTINATIONS_D, ...DESTINATIONS_E, ...DESTINATIONS_F];
+const EXPECTED_DESTINATION_COUNT = 150;
+const EXPECTED_PACKAGE_COUNT = EXPECTED_DESTINATION_COUNT * DURATIONS.length;
 
 const OUT_ROOT = join(process.cwd(), 'src', 'data', 'generated');
 const PACKAGES_DIR = join(OUT_ROOT, 'packages');
@@ -35,8 +41,8 @@ function assertUnique<T>(items: T[], keyFn: (t: T) => string, label: string) {
 }
 
 function main() {
-  if (ALL_DESTINATIONS.length !== 50) {
-    throw new Error(`Expected 50 destinations, got ${ALL_DESTINATIONS.length}`);
+  if (ALL_DESTINATIONS.length !== EXPECTED_DESTINATION_COUNT) {
+    throw new Error(`Expected ${EXPECTED_DESTINATION_COUNT} destinations, got ${ALL_DESTINATIONS.length}`);
   }
   assertUnique(ALL_DESTINATIONS, (d) => d.slug, 'destination slugs');
 
@@ -51,14 +57,14 @@ function main() {
     }
   }
 
-  if (allPackages.length !== 300) {
-    throw new Error(`Expected 300 packages, got ${allPackages.length}`);
+  if (allPackages.length !== EXPECTED_PACKAGE_COUNT) {
+    throw new Error(`Expected ${EXPECTED_PACKAGE_COUNT} packages, got ${allPackages.length}`);
   }
   assertUnique(allPackages, (p) => p.slug, 'package slugs');
 
   // Internal linking needs sibling awareness (other durations of the same destination,
   // other destinations sharing categories) that a single generatePackage() call doesn't
-  // have — done here as a post-process pass once the full 300-package set exists.
+  // have — done here as a post-process pass once the full package set exists.
   for (const pkg of allPackages) {
     const sameDestination = allPackages
       .filter((p) => p.destinationSlug === pkg.destinationSlug && p.slug !== pkg.slug)

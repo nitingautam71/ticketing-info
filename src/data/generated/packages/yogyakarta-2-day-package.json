@@ -1,0 +1,1498 @@
+{
+  "id": "PKG-yogyakarta-2D",
+  "slug": "yogyakarta-2-day-package",
+  "destinationSlug": "yogyakarta",
+  "destinationName": "Yogyakarta",
+  "country": "Indonesia",
+  "region": "Southeast Asia",
+  "durationDays": 2,
+  "durationNights": 1,
+  "title": "Yogyakarta 2-Day Cultural Tour",
+  "metaTitle": "Yogyakarta 2-Day Cultural Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 2-day trip to Yogyakarta, Indonesia: round-trip flights, hotel, breakfast, transfers, and guided tours including Borobudur Temple and Prambanan Temple. Prices from $1741 per person (estimate).",
+  "highlights": [
+    "Borobudur Temple",
+    "Prambanan Temple",
+    "Malioboro Street",
+    "Mount Merapi jeep off-roading",
+    "Borobudur and Prambanan temples"
+  ],
+  "overview": "Spend 2 days discovering Yogyakarta, Indonesia — Tropical climate — warm year-round (highs around 29-31°C), with a wetter monsoon season roughly November to March. May to September — the dry season, ideal for sunrise temple visits and volcano trekking. This itinerary blends Borobudur Temple, Prambanan Temple, Malioboro Street with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "1 night accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Borobudur Temple, Prambanan Temple, Malioboro Street",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Yogyakarta",
+      "description": "Land at Yogyakarta International Airport (YIA) and take your included private transfer to your hotel. With limited time on the ground, head straight out to Borobudur Temple — The world's largest Buddhist temple, best at sunrise. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Borobudur Temple"
+      ],
+      "overnight": "Yogyakarta"
+    },
+    {
+      "day": 2,
+      "title": "Yogyakarta Highlights & Departure",
+      "description": "Start early with a visit to Prambanan Temple — Towering 9th-century Hindu temple complex. Grab a last taste of local life before your private transfer to YIA for your onward flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Prambanan Temple",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book the Borobudur sunrise tour in advance — it requires a separate, limited-capacity ticket beyond standard entry.",
+    "Hire a driver for a full-day Borobudur, Prambanan, and Merapi combination — it's efficient and affordable.",
+    "Try gudeg, Yogyakarta's signature sweet jackfruit stew, at a well-reviewed local warung.",
+    "Malioboro Street is best explored in the evening when it's liveliest and cooler.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Modest clothing for temple visits",
+    "Comfortable walking shoes for temple complexes",
+    "A hat and sun protection for the Borobudur sunrise climb"
+  ],
+  "thingsToDo": [
+    "Borobudur Temple",
+    "Prambanan Temple",
+    "Taman Sari Water Castle",
+    "Kraton (Sultan's Palace)",
+    "Mount Merapi jeep tour",
+    "Malioboro Street",
+    "Kotagede silver district",
+    "Mount Merapi jeep off-roading",
+    "Cave tubing at Goa Pindul",
+    "Sunrise Borobudur hike",
+    "Taman Sari Water Castle exploration",
+    "Gembira Loka Zoo",
+    "Becak (rickshaw) ride through the old town"
+  ],
+  "thingsToAvoid": [
+    "Climbing Borobudur or Prambanan without sun protection — both sites are largely shadeless.",
+    "Skipping a guide at the temples — the carved reliefs and history reward context.",
+    "Underestimating distances between Yogyakarta city and Borobudur/Merapi — allow a full day for both."
+  ],
+  "topRestaurants": [
+    "Gudeg Yu Djum — Traditional gudeg (jackfruit stew) ($)",
+    "House of Raminten — Javanese, quirky decor ($$)",
+    "Bale Raos — Royal Kraton-recipe Javanese cuisine ($$)"
+  ],
+  "topCafes": [
+    "Klinik Kopi",
+    "Kopi Ireng"
+  ],
+  "shoppingAreas": [
+    "Malioboro Street",
+    "Beringharjo Market",
+    "Kotagede silver workshops"
+  ],
+  "nightlife": [
+    "Prawirotaman street cafés and bars",
+    "Alun-Alun Kidul night market"
+  ],
+  "instagramSpots": [
+    "Borobudur at sunrise with mist over the hills",
+    "Prambanan silhouette at sunset",
+    "Taman Sari Water Castle pools",
+    "Malioboro Street becak (rickshaw) scene"
+  ],
+  "hiddenGems": [
+    "Tebing Breksi limestone quarry viewpoint",
+    "Goa Pindul cave tubing",
+    "Heha Sky View sunset spot"
+  ],
+  "familyActivities": [
+    "Taman Sari Water Castle exploration",
+    "Gembira Loka Zoo",
+    "Becak (rickshaw) ride through the old town"
+  ],
+  "adventureActivities": [
+    "Mount Merapi jeep off-roading",
+    "Cave tubing at Goa Pindul",
+    "Sunrise Borobudur hike"
+  ],
+  "luxuryExperiences": [
+    "Private sunrise Borobudur tour with a premium viewpoint",
+    "Suite stay at a resort near the temples",
+    "Private guided Kraton and Taman Sari tour"
+  ],
+  "honeymoonExperiences": [
+    "Sunrise at Borobudur together",
+    "Sunset at Prambanan",
+    "Private dinner with a traditional Javanese dance performance"
+  ],
+  "budgetExperiences": [
+    "Malioboro Street food and shopping",
+    "Kotagede silver district wander",
+    "Local warung gudeg meal"
+  ],
+  "estimatedDailyBudgetUSD": [
+    25,
+    50,
+    110,
+    260
+  ],
+  "safetyRating": 4,
+  "internetRating": 3.5,
+  "publicTransportRating": 3,
+  "walkingScore": 45,
+  "accessibilityRating": 2.5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 29,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 29,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Sekaten (Javanese New Year court ceremony)",
+      "timing": "Varies, Islamic calendar"
+    },
+    {
+      "name": "Yogyakarta Arts Festival",
+      "timing": "July-August"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "110",
+    "ambulance": "118",
+    "fire": "113"
+  },
+  "localEtiquette": [
+    "Dress modestly when visiting temples — shoulders and knees covered, a sarong is often provided.",
+    "Remove shoes before entering homes and some temple areas.",
+    "Yogyakarta is considered Java's cultural heart — respect for traditional arts (batik, gamelan, wayang puppetry) runs deep."
+  ],
+  "localTransportGuide": "Central Yogyakarta is compact and walkable or cyclable; becak (pedicab) and andong (horse cart) rides are traditional ways to cover the old town. For Borobudur, Prambanan, or Merapi, most visitors book a driver or organized tour, since sites are spread across the surrounding region.",
+  "bestTimeToVisit": "May to September — the dry season, ideal for sunrise temple visits and volcano trekking.",
+  "weather": "Tropical climate — warm year-round (highs around 29-31°C), with a wetter monsoon season roughly November to March.",
+  "visaInformation": "Indonesia offers visa-on-arrival for most nationalities including the US, UK, EU, Canada, Australia, and India, valid for 30 days and extendable once.",
+  "currency": "IDR",
+  "languages": [
+    "Indonesian",
+    "Javanese"
+  ],
+  "timeZone": "WIB (UTC+7)",
+  "averageFlightTime": "~12h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Yogyakarta International Airport (YIA)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Yogyakarta?",
+      "answer": "Indonesia offers visa-on-arrival for most nationalities including the US, UK, EU, Canada, Australia, and India, valid for 30 days and extendable once."
+    },
+    {
+      "question": "What is the best time to visit Yogyakarta?",
+      "answer": "May to September — the dry season, ideal for sunrise temple visits and volcano trekking. Tropical climate — warm year-round (highs around 29-31°C), with a wetter monsoon season roughly November to March."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Yogyakarta safe for tourists?",
+      "answer": "Yogyakarta is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Yogyakarta?",
+      "answer": "The local currency is IDR. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Culture",
+    "History",
+    "Adventure",
+    "Bucket List",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Yogyakarta",
+    "Indonesia",
+    "Yogyakarta, Indonesia",
+    "Southeast Asia",
+    "Yogyakarta tour package",
+    "Yogyakarta vacation package",
+    "Yogyakarta holiday package",
+    "things to do in Yogyakarta",
+    "best time to visit Yogyakarta",
+    "Yogyakarta itinerary",
+    "2 day Yogyakarta itinerary",
+    "Yogyakarta flights and hotels",
+    "Yogyakarta all inclusive package",
+    "cheap Yogyakarta package",
+    "luxury Yogyakarta package",
+    "Yogyakarta honeymoon package",
+    "Yogyakarta family vacation",
+    "Yogyakarta solo trip",
+    "Yogyakarta group tour",
+    "Yogyakarta weekend getaway",
+    "Yogyakarta guided tour",
+    "YIA flights",
+    "Yogyakarta travel guide",
+    "book Yogyakarta trip online",
+    "Yogyakarta trip cost",
+    "Yogyakarta packages 2 days",
+    "Yogyakarta culture",
+    "Yogyakarta history",
+    "Yogyakarta adventure",
+    "Yogyakarta bucket list",
+    "Borobudur Temple",
+    "Prambanan Temple",
+    "Taman Sari Water Castle",
+    "Kraton (Sultan's Palace)",
+    "Mount Merapi jeep tour",
+    "Malioboro Street",
+    "Kotagede silver district",
+    "Gudeg Yu Djum",
+    "House of Raminten",
+    "Bale Raos",
+    "Borobudur at sunrise with mist over the hills",
+    "Prambanan silhouette at sunset",
+    "Taman Sari Water Castle pools",
+    "Malioboro Street becak (rickshaw) scene",
+    "Tebing Breksi limestone quarry viewpoint",
+    "Goa Pindul cave tubing",
+    "Heha Sky View sunset spot",
+    "Indonesia tourism",
+    "Southeast Asia travel",
+    "international vacation packages"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Yogyakarta, Indonesia — Borobudur sunrise mist",
+      "keywords": [
+        "Yogyakarta",
+        "Indonesia",
+        "Borobudur sunrise mist",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Yogyakarta Borobudur sunrise mist",
+      "pexelsQuery": "Yogyakarta Borobudur sunrise mist",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Yogyakarta, Indonesia — Borobudur sunrise mist",
+      "keywords": [
+        "Yogyakarta",
+        "Indonesia",
+        "Borobudur sunrise mist",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Yogyakarta Borobudur sunrise mist",
+      "pexelsQuery": "Yogyakarta Borobudur sunrise mist",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Yogyakarta, Indonesia — Prambanan temple silhouette",
+      "keywords": [
+        "Yogyakarta",
+        "Indonesia",
+        "Prambanan temple silhouette",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Yogyakarta Prambanan temple silhouette",
+      "pexelsQuery": "Yogyakarta Prambanan temple silhouette",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Yogyakarta, Indonesia — Taman Sari Water Castle",
+      "keywords": [
+        "Yogyakarta",
+        "Indonesia",
+        "Taman Sari Water Castle",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Yogyakarta Taman Sari Water Castle",
+      "pexelsQuery": "Yogyakarta Taman Sari Water Castle",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Yogyakarta, Indonesia — Borobudur sunrise mist",
+      "keywords": [
+        "Yogyakarta",
+        "Indonesia",
+        "Borobudur sunrise mist",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Yogyakarta Borobudur sunrise mist",
+      "pexelsQuery": "Yogyakarta Borobudur sunrise mist",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Yogyakarta, Indonesia — Prambanan temple silhouette",
+      "keywords": [
+        "Yogyakarta",
+        "Indonesia",
+        "Prambanan temple silhouette",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Yogyakarta Prambanan temple silhouette",
+      "pexelsQuery": "Yogyakarta Prambanan temple silhouette",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Yogyakarta, Indonesia — Taman Sari Water Castle",
+      "keywords": [
+        "Yogyakarta",
+        "Indonesia",
+        "Taman Sari Water Castle",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Yogyakarta Taman Sari Water Castle",
+      "pexelsQuery": "Yogyakarta Taman Sari Water Castle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Yogyakarta, Indonesia — Mount Merapi jeep tour",
+      "keywords": [
+        "Yogyakarta",
+        "Indonesia",
+        "Mount Merapi jeep tour",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Yogyakarta Mount Merapi jeep tour",
+      "pexelsQuery": "Yogyakarta Mount Merapi jeep tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Yogyakarta, Indonesia — Borobudur Temple",
+      "keywords": [
+        "Yogyakarta",
+        "Indonesia",
+        "Borobudur Temple",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Yogyakarta Borobudur Temple",
+      "pexelsQuery": "Yogyakarta Borobudur Temple",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Yogyakarta, Indonesia — Prambanan Temple",
+      "keywords": [
+        "Yogyakarta",
+        "Indonesia",
+        "Prambanan Temple",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Yogyakarta Prambanan Temple",
+      "pexelsQuery": "Yogyakarta Prambanan Temple",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Yogyakarta, Indonesia — Kraton (Sultan's Palace)",
+      "keywords": [
+        "Yogyakarta",
+        "Indonesia",
+        "Kraton (Sultan's Palace)",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Yogyakarta Kraton (Sultan's Palace)",
+      "pexelsQuery": "Yogyakarta Kraton (Sultan's Palace)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Yogyakarta, Indonesia — Borobudur at sunrise with mist over the hills",
+      "keywords": [
+        "Yogyakarta",
+        "Indonesia",
+        "Borobudur at sunrise with mist over the hills",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Yogyakarta Borobudur at sunrise with mist over the hills",
+      "pexelsQuery": "Yogyakarta Borobudur at sunrise with mist over the hills",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-yogyakarta-2-1",
+      "author": "David Andersen",
+      "country": "Mexico",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-06-17",
+      "title": "Consultant made it effortless",
+      "body": "Yogyakarta is stunning and this package covered the essentials well, especially Malioboro Street. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-2",
+      "author": "Lukas Garcia",
+      "country": "Saudi Arabia",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-22",
+      "title": "Great for families with kids",
+      "body": "Yogyakarta is stunning and this package covered the essentials well, especially Malioboro Street. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-yogyakarta-2-3",
+      "author": "Emma Fernandez",
+      "country": "Saudi Arabia",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-12-05",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Yogyakarta was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Malioboro Street was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-yogyakarta-2-4",
+      "author": "Marco Wang",
+      "country": "Germany",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-02-25",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond Prambanan Temple and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-5",
+      "author": "Emma Andersen",
+      "country": "Spain",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-17",
+      "title": "Loved every moment",
+      "body": "Our trip to Yogyakarta was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kotagede silver district was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-6",
+      "author": "Sofia Williams",
+      "country": "Saudi Arabia",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-13",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a couple trip and it was well paced. Malioboro Street in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-7",
+      "author": "Lucas Novak",
+      "country": "United Kingdom",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-08-26",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Borobudur Temple and Prambanan Temple. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-8",
+      "author": "Priya Silva",
+      "country": "United Kingdom",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-09-08",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a group trip and it was well paced. Borobudur Temple in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-yogyakarta-2-9",
+      "author": "Lucas Cohen",
+      "country": "Spain",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-26",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Kotagede silver district and Malioboro Street. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-10",
+      "author": "Anna Johnson",
+      "country": "Germany",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-04-24",
+      "title": "Smooth from start to finish",
+      "body": "Yogyakarta is stunning and this package covered the essentials well, especially Prambanan Temple. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-11",
+      "author": "Priya Rossi",
+      "country": "India",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-07",
+      "title": "Great for families with kids",
+      "body": "Booked this as a family of 4 trip and it was well paced. Taman Sari Water Castle in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-12",
+      "author": "Yuki Patel",
+      "country": "Japan",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-01-30",
+      "title": "Great for families with kids",
+      "body": "Kraton (Sultan's Palace) alone was worth the trip, but combined with Kraton (Sultan's Palace) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-yogyakarta-2-13",
+      "author": "Lukas Patel",
+      "country": "South Africa",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-11-12",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Yogyakarta is stunning and this package covered the essentials well, especially Mount Merapi jeep tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-14",
+      "author": "Fatima Kowalski",
+      "country": "Germany",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-03-06",
+      "title": "Luxury without the hassle",
+      "body": "Prambanan Temple alone was worth the trip, but combined with Borobudur Temple this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-15",
+      "author": "Chen Kowalski",
+      "country": "South Korea",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-22",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a family of 4 trip and it was well paced. Kraton (Sultan's Palace) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-16",
+      "author": "Tom Dubois",
+      "country": "South Korea",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-01-22",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Kraton (Sultan's Palace) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-17",
+      "author": "Isabella Sharma",
+      "country": "Australia",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-08",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Prambanan Temple and Malioboro Street. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-18",
+      "author": "Marco Tanaka",
+      "country": "UAE",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-06-14",
+      "title": "Unforgettable trip!",
+      "body": "We added a couple of optional activities beyond Taman Sari Water Castle and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-yogyakarta-2-19",
+      "author": "Wei Larsen",
+      "country": "Japan",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-11-12",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a family of 4 trip and it was well paced. Kraton (Sultan's Palace) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-yogyakarta-2-20",
+      "author": "Ethan van Dijk",
+      "country": "South Africa",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-05-16",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Mount Merapi jeep tour and Borobudur Temple. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.4,
+    "hotel": 4.4,
+    "transportation": 4.4,
+    "activities": 4.3,
+    "value": 4.4,
+    "cleanliness": 4.5,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Yogyakarta Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 6,
+      "neighborhood": "Malioboro Street"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Yogyakarta Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 10,
+      "neighborhood": "Beringharjo Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Yogyakarta Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Kotagede silver workshops"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Yogyakarta Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 23,
+      "neighborhood": "Prawirotaman street cafés and bars"
+    },
+    {
+      "tier": "Resort",
+      "name": "Yogyakarta Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 55,
+      "neighborhood": "Alun-Alun Kidul night market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Yogyakarta Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 109,
+      "neighborhood": "Klinik Kopi"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Yogyakarta Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 130,
+      "neighborhood": "Kopi Ireng"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1256,
+        1995
+      ],
+      "estimatedFlightHours": 22.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1227,
+        1948
+      ],
+      "estimatedFlightHours": 22.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        950,
+        1509
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        942,
+        1496
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        908,
+        1442
+      ],
+      "estimatedFlightHours": 16.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        888,
+        1411
+      ],
+      "estimatedFlightHours": 16,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        987,
+        1567
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        925,
+        1469
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        910,
+        1445
+      ],
+      "estimatedFlightHours": 16.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        444,
+        705
+      ],
+      "estimatedFlightHours": 7.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        598,
+        950
+      ],
+      "estimatedFlightHours": 10.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        466,
+        740
+      ],
+      "estimatedFlightHours": 8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        490,
+        779
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        462,
+        733
+      ],
+      "estimatedFlightHours": 8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        167,
+        265
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        267,
+        424
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        189,
+        300
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        107,
+        170
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        275,
+        437
+      ],
+      "estimatedFlightHours": 4.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        229,
+        363
+      ],
+      "estimatedFlightHours": 3.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        582,
+        925
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        639,
+        1015
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        607,
+        964
+      ],
+      "estimatedFlightHours": 10.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        643,
+        1021
+      ],
+      "estimatedFlightHours": 11.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        717,
+        1138
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1213,
+        1926
+      ],
+      "estimatedFlightHours": 22,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Yogyakarta International Airport (YIA)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1274,
+        2024
+      ],
+      "estimatedFlightHours": 23.2,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Borobudur Temple",
+    "Prambanan Temple",
+    "Taman Sari Water Castle",
+    "Kraton (Sultan's Palace)",
+    "Mount Merapi jeep tour",
+    "Malioboro Street",
+    "Kotagede silver district",
+    "Borobudur and Prambanan temples",
+    "Mount Merapi",
+    "Parangtritis Beach",
+    "Sonobudoyo Museum",
+    "Ullen Sentalu Museum",
+    "Vredeburg Fort Museum",
+    "Taman Sari Water Castle grounds",
+    "Kaliurang highlands",
+    "Borobudur at sunrise with mist over the hills",
+    "Prambanan silhouette at sunset",
+    "Taman Sari Water Castle pools",
+    "Malioboro Street becak (rickshaw) scene"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Borobudur Temple",
+      "priceUSD": 25
+    },
+    {
+      "name": "Prambanan Temple",
+      "priceUSD": 25
+    },
+    {
+      "name": "Taman Sari Water Castle",
+      "priceUSD": 3
+    },
+    {
+      "name": "Kraton (Sultan's Palace)",
+      "priceUSD": 5
+    },
+    {
+      "name": "Mount Merapi jeep tour",
+      "priceUSD": 25
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Malioboro Street",
+    "Kotagede silver district"
+  ],
+  "museums": [
+    "Sonobudoyo Museum",
+    "Ullen Sentalu Museum",
+    "Vredeburg Fort Museum"
+  ],
+  "parks": [
+    "Taman Sari Water Castle grounds",
+    "Kaliurang highlands"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Borobudur and Prambanan temples",
+    "Mount Merapi",
+    "Parangtritis Beach"
+  ],
+  "fromPriceUSD": 1741,
+  "seo": {
+    "title": "Yogyakarta 2-Day Cultural Tour | Flights, Hotels & Tours Included",
+    "slug": "yogyakarta-2-day-package",
+    "keywords": [
+      "Yogyakarta",
+      "Indonesia",
+      "Yogyakarta, Indonesia",
+      "Southeast Asia",
+      "Yogyakarta tour package",
+      "Yogyakarta vacation package",
+      "Yogyakarta holiday package",
+      "things to do in Yogyakarta",
+      "best time to visit Yogyakarta",
+      "Yogyakarta itinerary",
+      "2 day Yogyakarta itinerary",
+      "Yogyakarta flights and hotels",
+      "Yogyakarta all inclusive package",
+      "cheap Yogyakarta package",
+      "luxury Yogyakarta package"
+    ],
+    "canonicalUrl": "/packages/yogyakarta-2-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Yogyakarta Package",
+        "url": "/packages/yogyakarta-3-day-package"
+      },
+      {
+        "title": "5-Day Yogyakarta Package",
+        "url": "/packages/yogyakarta-5-day-package"
+      },
+      {
+        "title": "Cairo 2-Day Heritage Tour",
+        "url": "/packages/cairo-2-day-package"
+      },
+      {
+        "title": "Siem Reap 2-Day Cultural Tour",
+        "url": "/packages/siem-reap-2-day-package"
+      },
+      {
+        "title": "Kathmandu 2-Day Cultural Tour",
+        "url": "/packages/kathmandu-2-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Yogyakarta — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yogyakarta"
+      },
+      {
+        "title": "Yogyakarta — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Yogyakarta"
+      }
+    ]
+  }
+}

@@ -1600,16 +1600,16 @@
         "url": "/packages/cape-town-7-day-package"
       },
       {
+        "title": "Santiago 5-Day City Break",
+        "url": "/packages/santiago-5-day-package"
+      },
+      {
+        "title": "Auckland 5-Day City Break",
+        "url": "/packages/auckland-5-day-package"
+      },
+      {
         "title": "Bangkok 5-Day City Break",
         "url": "/packages/bangkok-5-day-package"
-      },
-      {
-        "title": "Hanoi 5-Day City Break",
-        "url": "/packages/hanoi-5-day-package"
-      },
-      {
-        "title": "Paris 5-Day City Break",
-        "url": "/packages/paris-5-day-package"
       }
     ],
     "externalLinks": [

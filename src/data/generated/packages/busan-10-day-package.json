@@ -1,0 +1,1609 @@
+{
+  "id": "PKG-busan-10D",
+  "slug": "busan-10-day-package",
+  "destinationSlug": "busan",
+  "destinationName": "Busan",
+  "country": "South Korea",
+  "region": "East Asia",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Busan 10-Day Beach Getaway",
+  "metaTitle": "Busan 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Busan, South Korea: round-trip flights, hotel, breakfast, transfers, and guided tours including Busan X the Sky observation deck and Busan Aquarium. Prices from $1958 per person (estimate).",
+  "highlights": [
+    "Busan X the Sky observation deck",
+    "Busan Aquarium",
+    "Gamcheon Culture Village",
+    "Haedong Yonggungsa Temple"
+  ],
+  "overview": "Spend 10 days discovering Busan, South Korea — Humid subtropical/continental mix — hot, humid summers (highs around 30°C) and cold, dry winters (highs around 8-9°C), milder than inland Seoul thanks to its coastal location. March-May and September-November for mild weather; July-August for beach season, though hot and humid. This itinerary blends Busan X the Sky observation deck, Busan Aquarium, Gamcheon Culture Village with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Busan X the Sky observation deck, Busan Aquarium, Gamcheon Culture Village",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Busan",
+      "description": "Land at Gimhae International Airport (PUS) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Busan X the Sky observation deck — Skyscraper observation deck with a glass floor over Haeundae. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Busan X the Sky observation deck"
+      ],
+      "overnight": "Busan"
+    },
+    {
+      "day": 2,
+      "title": "Busan: Busan Aquarium & Spa Land Centum City",
+      "description": "Morning visit to Busan Aquarium — Large aquarium on Haeundae Beach. In the afternoon, continue to Spa Land Centum City — Elaborate jjimjilbang (Korean spa/sauna) complex. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Busan Aquarium",
+        "Spa Land Centum City"
+      ],
+      "overnight": "Busan"
+    },
+    {
+      "day": 3,
+      "title": "Busan: Taejongdae Park cliff train (Danubi Train) & Gamcheon Culture Village",
+      "description": "Morning visit to Taejongdae Park cliff train (Danubi Train) — Loop train around a scenic cliffside park. In the afternoon, continue to Gamcheon Culture Village — Colorful hillside village of stacked houses turned open-air art installation. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Taejongdae Park cliff train (Danubi Train)",
+        "Gamcheon Culture Village"
+      ],
+      "overnight": "Busan"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Haedong Yonggungsa Temple",
+      "description": "Full-day excursion to Haedong Yonggungsa Temple, a popular side trip from Busan. Return to Busan in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Haedong Yonggungsa Temple",
+        "Free evening"
+      ],
+      "overnight": "Busan"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Songdo Skywalk over the sea — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Songdo Skywalk over the sea"
+      ],
+      "overnight": "Busan"
+    },
+    {
+      "day": 6,
+      "title": "Busan: Haeundae Beach & Jagalchi Fish Market",
+      "description": "Morning visit to Haeundae Beach — Busan's most famous city beach. In the afternoon, continue to Jagalchi Fish Market — Korea's largest seafood market on the waterfront. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Haeundae Beach",
+        "Jagalchi Fish Market"
+      ],
+      "overnight": "Busan"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Taejongdae Park",
+      "description": "Full-day excursion to Taejongdae Park, a popular side trip from Busan. Return to Busan in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Taejongdae Park",
+        "Free evening"
+      ],
+      "overnight": "Busan"
+    },
+    {
+      "day": 8,
+      "title": "Busan: Gwangalli Beach & Busan X the Sky observation deck",
+      "description": "Morning visit to Gwangalli Beach — Beach with a view of the illuminated Gwangan Bridge at night. In the afternoon, continue to Busan X the Sky observation deck — Skyscraper observation deck with a glass floor over Haeundae. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Gwangalli Beach",
+        "Busan X the Sky observation deck"
+      ],
+      "overnight": "Busan"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Huinnyeoul Culture Village — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Huinnyeoul Culture Village"
+      ],
+      "overnight": "Busan"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Busan Aquarium or some souvenir shopping — before your private transfer to PUS for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Get a T-money card on arrival for seamless subway, bus, and convenience-store use.",
+    "Visit Gamcheon Culture Village in the morning to avoid both heat and tour-group crowds.",
+    "Eat fresh seafood straight from Jagalchi Market — pick your fish and have it prepared upstairs.",
+    "Combine a day trip to Gyeongju (ancient Silla capital) with your Busan stay via a short train ride.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "Swimwear for the beaches",
+    "Comfortable shoes for Gamcheon Culture Village's hilly stairs",
+    "Layers for cooler months",
+    "A T-money transit card picked up on arrival"
+  ],
+  "thingsToDo": [
+    "Busan X the Sky observation deck",
+    "Busan Aquarium",
+    "Spa Land Centum City",
+    "Taejongdae Park cliff train (Danubi Train)",
+    "Gamcheon Culture Village",
+    "Haeundae Beach",
+    "Jagalchi Fish Market",
+    "Gwangalli Beach",
+    "Igidae coastal cliff trail hiking",
+    "Songdo cable car over the harbor",
+    "Surfing at Songjeong Beach",
+    "Lotte World Adventure Busan"
+  ],
+  "thingsToAvoid": [
+    "Skipping a T-money card and relying on single-journey tickets — it's far less convenient.",
+    "Missing seafood at Jagalchi Market in favor of chain restaurants.",
+    "Underestimating the hills at Gamcheon Culture Village — wear proper shoes."
+  ],
+  "topRestaurants": [
+    "Jagalchi Market seafood stalls — Fresh seafood, cooked to order ($$)",
+    "Millak Waterside Town — Raw fish (hoe) restaurants with sea views ($$$)",
+    "Sikdojangdo — Busan-style Korean BBQ ($$)"
+  ],
+  "topCafes": [
+    "Café Georgette",
+    "Momos Coffee"
+  ],
+  "shoppingAreas": [
+    "BIFF Square",
+    "Nampo-dong shopping district",
+    "Shinsegae Centum City (world's largest department store)"
+  ],
+  "nightlife": [
+    "Gwangalli Beach bars with bridge views",
+    "Seomyeon nightlife district",
+    "Haeundae beach bars"
+  ],
+  "instagramSpots": [
+    "Gamcheon Culture Village colorful houses",
+    "Gwangalli Beach and Gwangan Bridge at night",
+    "Haedong Yonggungsa Temple by the sea",
+    "Taejongdae cliffside lighthouse"
+  ],
+  "hiddenGems": [
+    "Songdo Skywalk over the sea",
+    "Huinnyeoul Culture Village",
+    "Igidae coastal walking trail"
+  ],
+  "familyActivities": [
+    "Busan Aquarium",
+    "Lotte World Adventure Busan",
+    "Haeundae Beach"
+  ],
+  "adventureActivities": [
+    "Igidae coastal cliff trail hiking",
+    "Songdo cable car over the harbor",
+    "Surfing at Songjeong Beach"
+  ],
+  "luxuryExperiences": [
+    "Oceanview suite in Haeundae",
+    "Private Haedong Yonggungsa Temple and coastal tour",
+    "Spa Land premium sauna package"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at Gwangalli Beach facing the illuminated bridge",
+    "Haedong Yonggungsa Temple by the sea",
+    "Oceanview dinner in Haeundae"
+  ],
+  "budgetExperiences": [
+    "Free Gamcheon Culture Village wander",
+    "Jagalchi Market browsing",
+    "Haeundae and Gwangalli Beach time"
+  ],
+  "estimatedDailyBudgetUSD": [
+    50,
+    105,
+    220,
+    500
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 4.5,
+  "walkingScore": 65,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 8,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 10,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 18,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 22,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 25,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "Aug",
+      "highC": 30,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 26,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 21,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Nov",
+      "highC": 15,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 10,
+      "crowd": "Low"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Busan International Film Festival",
+      "timing": "October"
+    },
+    {
+      "name": "Busan Fireworks Festival",
+      "timing": "October/November"
+    },
+    {
+      "name": "Haeundae Sand Festival",
+      "timing": "May/June"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "112",
+    "ambulance": "119",
+    "fire": "119"
+  },
+  "localEtiquette": [
+    "Bow slightly when greeting, especially elders — a handshake with a slight nod is common with foreigners.",
+    "Remove shoes when entering homes and some traditional restaurants.",
+    "Pour drinks for others, not yourself, at group meals, and receive with both hands from elders."
+  ],
+  "localTransportGuide": "The Busan Metro is efficient and covers the main tourist areas including Haeundae, Nampo-dong, and Seomyeon; a T-money transit card works across subway, bus, and even some taxis. The city is very walkable within neighborhoods, with taxis inexpensive for longer hops.",
+  "bestTimeToVisit": "March-May and September-November for mild weather; July-August for beach season, though hot and humid.",
+  "weather": "Humid subtropical/continental mix — hot, humid summers (highs around 30°C) and cold, dry winters (highs around 8-9°C), milder than inland Seoul thanks to its coastal location.",
+  "visaInformation": "South Korea is visa-free for stays up to 90 days for most Western passport holders including the US, UK, EU, Canada, and Australia. Indian nationals need a visa arranged in advance, though K-ETA registration is required for many visa-exempt nationalities.",
+  "currency": "KRW",
+  "languages": [
+    "Korean"
+  ],
+  "timeZone": "KST (UTC+9)",
+  "averageFlightTime": "~11.1h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Gimhae International Airport (PUS)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Busan?",
+      "answer": "South Korea is visa-free for stays up to 90 days for most Western passport holders including the US, UK, EU, Canada, and Australia. Indian nationals need a visa arranged in advance, though K-ETA registration is required for many visa-exempt nationalities."
+    },
+    {
+      "question": "What is the best time to visit Busan?",
+      "answer": "March-May and September-November for mild weather; July-August for beach season, though hot and humid. Humid subtropical/continental mix — hot, humid summers (highs around 30°C) and cold, dry winters (highs around 8-9°C), milder than inland Seoul thanks to its coastal location."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Busan safe for tourists?",
+      "answer": "Busan is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Busan?",
+      "answer": "The local currency is KRW. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "City Break",
+    "Culture",
+    "Food",
+    "Nightlife",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Busan",
+    "South Korea",
+    "Busan, South Korea",
+    "East Asia",
+    "Busan tour package",
+    "Busan vacation package",
+    "Busan holiday package",
+    "things to do in Busan",
+    "best time to visit Busan",
+    "Busan itinerary",
+    "10 day Busan itinerary",
+    "Busan flights and hotels",
+    "Busan all inclusive package",
+    "cheap Busan package",
+    "luxury Busan package",
+    "Busan honeymoon package",
+    "Busan family vacation",
+    "Busan solo trip",
+    "Busan group tour",
+    "Busan weekend getaway",
+    "Busan guided tour",
+    "PUS flights",
+    "Busan travel guide",
+    "book Busan trip online",
+    "Busan trip cost",
+    "Busan packages 10 days",
+    "Busan beach",
+    "Busan city break",
+    "Busan culture",
+    "Busan food",
+    "Busan nightlife",
+    "Busan bucket list",
+    "Busan X the Sky observation deck",
+    "Busan Aquarium",
+    "Spa Land Centum City",
+    "Taejongdae Park cliff train (Danubi Train)",
+    "Gamcheon Culture Village",
+    "Haeundae Beach",
+    "Jagalchi Fish Market",
+    "Gwangalli Beach",
+    "Jagalchi Market seafood stalls",
+    "Millak Waterside Town",
+    "Sikdojangdo",
+    "Gamcheon Culture Village colorful houses",
+    "Gwangalli Beach and Gwangan Bridge at night",
+    "Haedong Yonggungsa Temple by the sea",
+    "Taejongdae cliffside lighthouse",
+    "Songdo Skywalk over the sea",
+    "Huinnyeoul Culture Village",
+    "Igidae coastal walking trail"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Busan, South Korea — Gamcheon Culture Village colorful houses",
+      "keywords": [
+        "Busan",
+        "South Korea",
+        "Gamcheon Culture Village colorful houses",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Busan Gamcheon Culture Village colorful houses",
+      "pexelsQuery": "Busan Gamcheon Culture Village colorful houses",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Busan, South Korea — Gamcheon Culture Village colorful houses",
+      "keywords": [
+        "Busan",
+        "South Korea",
+        "Gamcheon Culture Village colorful houses",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Busan Gamcheon Culture Village colorful houses",
+      "pexelsQuery": "Busan Gamcheon Culture Village colorful houses",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Busan, South Korea — Gwangalli Beach bridge night",
+      "keywords": [
+        "Busan",
+        "South Korea",
+        "Gwangalli Beach bridge night",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Busan Gwangalli Beach bridge night",
+      "pexelsQuery": "Busan Gwangalli Beach bridge night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Busan, South Korea — Haedong Yonggungsa Temple sea",
+      "keywords": [
+        "Busan",
+        "South Korea",
+        "Haedong Yonggungsa Temple sea",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Busan Haedong Yonggungsa Temple sea",
+      "pexelsQuery": "Busan Haedong Yonggungsa Temple sea",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Busan, South Korea — Gamcheon Culture Village colorful houses",
+      "keywords": [
+        "Busan",
+        "South Korea",
+        "Gamcheon Culture Village colorful houses",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Busan Gamcheon Culture Village colorful houses",
+      "pexelsQuery": "Busan Gamcheon Culture Village colorful houses",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Busan, South Korea — Gwangalli Beach bridge night",
+      "keywords": [
+        "Busan",
+        "South Korea",
+        "Gwangalli Beach bridge night",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Busan Gwangalli Beach bridge night",
+      "pexelsQuery": "Busan Gwangalli Beach bridge night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Busan, South Korea — Haedong Yonggungsa Temple sea",
+      "keywords": [
+        "Busan",
+        "South Korea",
+        "Haedong Yonggungsa Temple sea",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Busan Haedong Yonggungsa Temple sea",
+      "pexelsQuery": "Busan Haedong Yonggungsa Temple sea",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Busan, South Korea — Jagalchi Fish Market",
+      "keywords": [
+        "Busan",
+        "South Korea",
+        "Jagalchi Fish Market",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Busan Jagalchi Fish Market",
+      "pexelsQuery": "Busan Jagalchi Fish Market",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Busan, South Korea — Busan X the Sky observation deck",
+      "keywords": [
+        "Busan",
+        "South Korea",
+        "Busan X the Sky observation deck",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Busan Busan X the Sky observation deck",
+      "pexelsQuery": "Busan Busan X the Sky observation deck",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Busan, South Korea — Busan Aquarium",
+      "keywords": [
+        "Busan",
+        "South Korea",
+        "Busan Aquarium",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Busan Busan Aquarium",
+      "pexelsQuery": "Busan Busan Aquarium",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Busan, South Korea — Spa Land Centum City",
+      "keywords": [
+        "Busan",
+        "South Korea",
+        "Spa Land Centum City",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Busan Spa Land Centum City",
+      "pexelsQuery": "Busan Spa Land Centum City",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Busan, South Korea — Taejongdae Park cliff train (Danubi Train)",
+      "keywords": [
+        "Busan",
+        "South Korea",
+        "Taejongdae Park cliff train (Danubi Train)",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Busan Taejongdae Park cliff train (Danubi Train)",
+      "pexelsQuery": "Busan Taejongdae Park cliff train (Danubi Train)",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-busan-10-1",
+      "author": "Emma Smith",
+      "country": "Germany",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-06-14",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Busan was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Busan Aquarium was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-2",
+      "author": "Daniel Botha",
+      "country": "India",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-01-24",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Spa Land Centum City and Spa Land Centum City. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-3",
+      "author": "Liam Cohen",
+      "country": "Singapore",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-02-06",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Busan was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Taejongdae Park cliff train (Danubi Train) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-4",
+      "author": "Lucas Rossi",
+      "country": "Germany",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-24",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Busan Aquarium and Spa Land Centum City. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-5",
+      "author": "Tom Müller",
+      "country": "India",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-07-14",
+      "title": "Unforgettable trip!",
+      "body": "We added a couple of optional activities beyond Spa Land Centum City and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-6",
+      "author": "Yuki Sharma",
+      "country": "Netherlands",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-25",
+      "title": "Best vacation we've had",
+      "body": "Haeundae Beach alone was worth the trip, but combined with Busan Aquarium this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-7",
+      "author": "Elena Kowalski",
+      "country": "Switzerland",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-05-11",
+      "title": "A little rushed but still wonderful",
+      "body": "We added a couple of optional activities beyond Jagalchi Fish Market and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-busan-10-8",
+      "author": "Emma Botha",
+      "country": "South Africa",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-06-04",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Busan was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Gamcheon Culture Village was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-9",
+      "author": "Isabella Ibrahim",
+      "country": "UAE",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-03-31",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Taejongdae Park cliff train (Danubi Train) and Gwangalli Beach. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-busan-10-10",
+      "author": "Noah Kowalski",
+      "country": "South Africa",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-04-08",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to Busan was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Gamcheon Culture Village was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-11",
+      "author": "Arjun Wang",
+      "country": "New Zealand",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-02",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a family of 4 trip and it was well paced. Haeundae Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-12",
+      "author": "Ava Williams",
+      "country": "Japan",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-06-26",
+      "title": "Would book again in a heartbeat",
+      "body": "Gamcheon Culture Village alone was worth the trip, but combined with Busan Aquarium this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-13",
+      "author": "Liam Costa",
+      "country": "Germany",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-03-16",
+      "title": "Highly recommend this package",
+      "body": "Our trip to Busan was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Busan Aquarium was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-14",
+      "author": "Lucas Garcia",
+      "country": "United States",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-27",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Busan X the Sky observation deck and Spa Land Centum City. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-15",
+      "author": "Ethan Botha",
+      "country": "India",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-04",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Spa Land Centum City and Gamcheon Culture Village. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-16",
+      "author": "Anna Khan",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-12-24",
+      "title": "Consultant made it effortless",
+      "body": "Busan is stunning and this package covered the essentials well, especially Haeundae Beach. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-17",
+      "author": "Chen Botha",
+      "country": "Netherlands",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-24",
+      "title": "Loved every moment",
+      "body": "Booked this as a solo trip and it was well paced. Haeundae Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-busan-10-18",
+      "author": "Fatima Santos",
+      "country": "United Kingdom",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-10-06",
+      "title": "Exceeded our expectations",
+      "body": "Busan X the Sky observation deck alone was worth the trip, but combined with Taejongdae Park cliff train (Danubi Train) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-19",
+      "author": "Wei Cohen",
+      "country": "United Kingdom",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-25",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a family of 4 trip and it was well paced. Busan X the Sky observation deck in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-busan-10-20",
+      "author": "Mohammed Brown",
+      "country": "Germany",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-01-24",
+      "title": "Great for families with kids",
+      "body": "Busan Aquarium alone was worth the trip, but combined with Jagalchi Fish Market this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.1,
+    "hotel": 4.1,
+    "transportation": 4.2,
+    "activities": 4.2,
+    "value": 4.2,
+    "cleanliness": 4.2,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Busan Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 11,
+      "neighborhood": "BIFF Square"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Busan Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 20,
+      "neighborhood": "Nampo-dong shopping district"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Busan Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 37,
+      "neighborhood": "Shinsegae Centum City (world's largest department store)"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Busan Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 47,
+      "neighborhood": "Gwangalli Beach bars with bridge views"
+    },
+    {
+      "tier": "Resort",
+      "name": "Busan Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 110,
+      "neighborhood": "Seomyeon nightlife district"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Busan Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 210,
+      "neighborhood": "Haeundae beach bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Busan Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 250,
+      "neighborhood": "Café Georgette"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        889,
+        1412
+      ],
+      "estimatedFlightHours": 16,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        856,
+        1359
+      ],
+      "estimatedFlightHours": 15.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        740,
+        1175
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        748,
+        1188
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        717,
+        1139
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        748,
+        1188
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        822,
+        1305
+      ],
+      "estimatedFlightHours": 14.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        718,
+        1141
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        734,
+        1165
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        655,
+        1041
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        748,
+        1188
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        430,
+        683
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        146,
+        232
+      ],
+      "estimatedFlightHours": 2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        100,
+        159
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        407,
+        647
+      ],
+      "estimatedFlightHours": 6.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        345,
+        548
+      ],
+      "estimatedFlightHours": 5.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        405,
+        643
+      ],
+      "estimatedFlightHours": 6.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        449,
+        713
+      ],
+      "estimatedFlightHours": 7.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        252,
+        400
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        332,
+        527
+      ],
+      "estimatedFlightHours": 5.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        584,
+        927
+      ],
+      "estimatedFlightHours": 10.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        640,
+        1017
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        608,
+        965
+      ],
+      "estimatedFlightHours": 10.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        614,
+        975
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        986,
+        1566
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1425,
+        2263
+      ],
+      "estimatedFlightHours": 26,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Gimhae International Airport (PUS)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        950,
+        1509
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Busan X the Sky observation deck",
+    "Busan Aquarium",
+    "Spa Land Centum City",
+    "Taejongdae Park cliff train (Danubi Train)",
+    "Gamcheon Culture Village",
+    "Haeundae Beach",
+    "Jagalchi Fish Market",
+    "Gwangalli Beach",
+    "Haedong Yonggungsa Temple",
+    "Taejongdae Park",
+    "Gyeongju ancient capital (day trip by train)",
+    "Busan Museum",
+    "F1963 art and culture space",
+    "Yongdusan Park",
+    "Songjeong Beach",
+    "Gamcheon Culture Village colorful houses",
+    "Gwangalli Beach and Gwangan Bridge at night",
+    "Haedong Yonggungsa Temple by the sea",
+    "Taejongdae cliffside lighthouse"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Busan X the Sky observation deck",
+      "priceUSD": 20
+    },
+    {
+      "name": "Busan Aquarium",
+      "priceUSD": 25
+    },
+    {
+      "name": "Spa Land Centum City",
+      "priceUSD": 18
+    },
+    {
+      "name": "Taejongdae Park cliff train (Danubi Train)",
+      "priceUSD": 2
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Gamcheon Culture Village",
+    "Haeundae Beach",
+    "Jagalchi Fish Market",
+    "Gwangalli Beach"
+  ],
+  "museums": [
+    "Busan Museum",
+    "F1963 art and culture space"
+  ],
+  "parks": [
+    "Taejongdae Park",
+    "Yongdusan Park"
+  ],
+  "beaches": [
+    "Haeundae Beach",
+    "Gwangalli Beach",
+    "Songjeong Beach"
+  ],
+  "dayTrips": [
+    "Haedong Yonggungsa Temple",
+    "Taejongdae Park",
+    "Gyeongju ancient capital (day trip by train)"
+  ],
+  "fromPriceUSD": 1958,
+  "seo": {
+    "title": "Busan 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "busan-10-day-package",
+    "keywords": [
+      "Busan",
+      "South Korea",
+      "Busan, South Korea",
+      "East Asia",
+      "Busan tour package",
+      "Busan vacation package",
+      "Busan holiday package",
+      "things to do in Busan",
+      "best time to visit Busan",
+      "Busan itinerary",
+      "10 day Busan itinerary",
+      "Busan flights and hotels",
+      "Busan all inclusive package",
+      "cheap Busan package",
+      "luxury Busan package"
+    ],
+    "canonicalUrl": "/packages/busan-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Busan Package",
+        "url": "/packages/busan-7-day-package"
+      },
+      {
+        "title": "14-Day Busan Package",
+        "url": "/packages/busan-14-day-package"
+      },
+      {
+        "title": "Barcelona 10-Day City Break",
+        "url": "/packages/barcelona-10-day-package"
+      },
+      {
+        "title": "Sydney 10-Day City Break",
+        "url": "/packages/sydney-10-day-package"
+      },
+      {
+        "title": "Tel Aviv 10-Day Beach Getaway",
+        "url": "/packages/tel-aviv-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Busan — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Busan"
+      },
+      {
+        "title": "Busan — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Busan"
+      }
+    ]
+  }
+}

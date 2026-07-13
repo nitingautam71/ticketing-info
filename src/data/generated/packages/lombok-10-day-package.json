@@ -1,0 +1,1591 @@
+{
+  "id": "PKG-lombok-10D",
+  "slug": "lombok-10-day-package",
+  "destinationSlug": "lombok",
+  "destinationName": "Lombok",
+  "country": "Indonesia",
+  "region": "Southeast Asia",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Lombok 10-Day Beach Getaway",
+  "metaTitle": "Lombok 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Lombok, Indonesia: round-trip flights, hotel, breakfast, transfers, and guided tours including Mount Rinjani trek and Gili Islands snorkeling day trip. Prices from $2121 per person (estimate).",
+  "highlights": [
+    "Mount Rinjani trek",
+    "Gili Islands snorkeling day trip",
+    "Kuta Lombok beach",
+    "Mount Rinjani multi-day trek",
+    "Private sunset dinner overlooking Kuta Lombok's bay",
+    "Gili Islands (Trawangan, Air, Meno)"
+  ],
+  "overview": "Spend 10 days discovering Lombok, Indonesia — Tropical climate — warm year-round (highs around 30-31°C), drier and slightly less humid than Bali, with a wetter season November to March. May to September — the dry season, best for beach days and the Mount Rinjani trek. This itinerary blends Mount Rinjani trek, Gili Islands snorkeling day trip, Kuta Lombok beach with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Mount Rinjani trek, Gili Islands snorkeling day trip, Kuta Lombok beach",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Lombok",
+      "description": "Land at Lombok International Airport (LOP) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Mount Rinjani trek — Multi-day climb to Indonesia's second-highest volcano, with a crater lake. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Mount Rinjani trek"
+      ],
+      "overnight": "Lombok"
+    },
+    {
+      "day": 2,
+      "title": "Lombok: Gili Islands snorkeling day trip & Pink Beach boat tour",
+      "description": "Morning visit to Gili Islands snorkeling day trip — Boat trip to the three Gili Islands for reef snorkeling with sea turtles. In the afternoon, continue to Pink Beach boat tour — Boat excursion to a coral-pink-sand beach on Lombok's southeast coast. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Gili Islands snorkeling day trip",
+        "Pink Beach boat tour"
+      ],
+      "overnight": "Lombok"
+    },
+    {
+      "day": 3,
+      "title": "Lombok: Kuta Lombok beach & Sasak traditional village visit (Sade)",
+      "description": "Morning visit to Kuta Lombok beach — Laid-back surf beach on the south coast. In the afternoon, continue to Sasak traditional village visit (Sade) — Small entry donation to view traditional Sasak thatched houses. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Kuta Lombok beach",
+        "Sasak traditional village visit (Sade)"
+      ],
+      "overnight": "Lombok"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Gili Islands (Trawangan, Air, Meno)",
+      "description": "Full-day excursion to Gili Islands (Trawangan, Air, Meno), a popular side trip from Lombok. Return to Lombok in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Gili Islands (Trawangan, Air, Meno)",
+        "Free evening"
+      ],
+      "overnight": "Lombok"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Tiu Kelep Waterfall — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Tiu Kelep Waterfall"
+      ],
+      "overnight": "Lombok"
+    },
+    {
+      "day": 6,
+      "title": "Lombok: Senggigi Beach sunset & Mount Rinjani trek",
+      "description": "Morning visit to Senggigi Beach sunset — Popular west-coast sunset viewpoint. In the afternoon, continue to Mount Rinjani trek — Multi-day climb to Indonesia's second-highest volcano, with a crater lake. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Senggigi Beach sunset",
+        "Mount Rinjani trek"
+      ],
+      "overnight": "Lombok"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Pink Beach",
+      "description": "Full-day excursion to Pink Beach, a popular side trip from Lombok. Return to Lombok in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Pink Beach",
+        "Free evening"
+      ],
+      "overnight": "Lombok"
+    },
+    {
+      "day": 8,
+      "title": "Lombok: Gili Islands snorkeling day trip & Pink Beach boat tour",
+      "description": "Morning visit to Gili Islands snorkeling day trip — Boat trip to the three Gili Islands for reef snorkeling with sea turtles. In the afternoon, continue to Pink Beach boat tour — Boat excursion to a coral-pink-sand beach on Lombok's southeast coast. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Gili Islands snorkeling day trip",
+        "Pink Beach boat tour"
+      ],
+      "overnight": "Lombok"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Sade traditional Sasak village — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Sade traditional Sasak village"
+      ],
+      "overnight": "Lombok"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Kuta Lombok beach or some souvenir shopping — before your private transfer to LOP for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book the Mount Rinjani trek through a licensed operator with proper permits and equipment — it's a serious multi-day climb.",
+    "Hire a driver for the day to combine Pink Beach, Kuta, and southern viewpoints efficiently.",
+    "Lombok is noticeably quieter and less developed than neighboring Bali — pack accordingly for fewer amenities outside resorts.",
+    "Visit Sade village respectfully and consider a local guide to support the community directly.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Reef-safe sunscreen",
+    "Sturdy shoes for Mount Rinjani trekking",
+    "Modest clothing for village visits",
+    "Swimwear and snorkel gear"
+  ],
+  "thingsToDo": [
+    "Mount Rinjani trek",
+    "Gili Islands snorkeling day trip",
+    "Pink Beach boat tour",
+    "Kuta Lombok beach",
+    "Sasak traditional village visit (Sade)",
+    "Senggigi Beach sunset",
+    "Mount Rinjani multi-day trek",
+    "Surfing at Kuta and Selong Belanak",
+    "Waterfall trekking to Tiu Kelep",
+    "Sasak village cultural visit",
+    "Kuta Lombok beach days"
+  ],
+  "thingsToAvoid": [
+    "Attempting Mount Rinjani without a licensed guide and proper gear.",
+    "Renting a scooter without international driving experience — roads and traffic norms differ from home.",
+    "Wearing swimwear in villages away from the beach."
+  ],
+  "topRestaurants": [
+    "Ashtari Restaurant — International, clifftop views ($$$)",
+    "Warung Kolong — Traditional Sasak/Indonesian ($)",
+    "Lengkuas Restaurant — Indonesian seafood ($$)"
+  ],
+  "topCafes": [
+    "Kopi Wayan",
+    "Room4Dessert Lombok"
+  ],
+  "shoppingAreas": [
+    "Sukarara traditional weaving village",
+    "Kuta Lombok surf shops"
+  ],
+  "nightlife": [
+    "Kuta Lombok beach bars",
+    "Gili Trawangan party scene (day trip or overnight)"
+  ],
+  "instagramSpots": [
+    "Pink Beach coral sand",
+    "Mount Rinjani crater lake",
+    "Kuta Lombok surf breaks at sunset",
+    "Gili Islands overwater views"
+  ],
+  "hiddenGems": [
+    "Tiu Kelep Waterfall",
+    "Sade traditional Sasak village",
+    "Mawun Beach, quieter than Kuta"
+  ],
+  "familyActivities": [
+    "Gili Islands snorkeling day trip",
+    "Sasak village cultural visit",
+    "Kuta Lombok beach days"
+  ],
+  "adventureActivities": [
+    "Mount Rinjani multi-day trek",
+    "Surfing at Kuta and Selong Belanak",
+    "Waterfall trekking to Tiu Kelep"
+  ],
+  "luxuryExperiences": [
+    "Clifftop villa stay above Kuta Lombok",
+    "Private boat charter to Pink Beach and the Gilis",
+    "Luxury eco-resort on Sekotong Peninsula"
+  ],
+  "honeymoonExperiences": [
+    "Private sunset dinner overlooking Kuta Lombok's bay",
+    "Boat day trip to a secluded Gili island beach",
+    "Clifftop villa with an infinity pool"
+  ],
+  "budgetExperiences": [
+    "Free Kuta Lombok beach time",
+    "Sasak village visit for a small donation",
+    "Public boat to the Gili Islands instead of a private charter"
+  ],
+  "estimatedDailyBudgetUSD": [
+    30,
+    65,
+    140,
+    340
+  ],
+  "safetyRating": 4,
+  "internetRating": 3.5,
+  "publicTransportRating": 3,
+  "walkingScore": 35,
+  "accessibilityRating": 2.5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Feb",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 30,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 31,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 30,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Bau Nyale Festival (sea worm harvest ceremony)",
+      "timing": "February/March"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "110",
+    "ambulance": "118",
+    "fire": "113"
+  },
+  "localEtiquette": [
+    "Lombok is predominantly Muslim (Sasak culture) — dress modestly away from resort beaches.",
+    "The Gili Islands off Lombok are car- and motorbike-free — horse carts (cidomo) and bicycles are the norm.",
+    "Ask permission before photographing local people or ceremonies."
+  ],
+  "localTransportGuide": "Renting a scooter or hiring a driver is the most practical way to cover Lombok's spread-out beaches and villages — public transport is minimal. The Gili Islands, reached by a short boat ride, are entirely car- and motorbike-free, relying on bicycles and horse carts (cidomo).",
+  "bestTimeToVisit": "May to September — the dry season, best for beach days and the Mount Rinjani trek.",
+  "weather": "Tropical climate — warm year-round (highs around 30-31°C), drier and slightly less humid than Bali, with a wetter season November to March.",
+  "visaInformation": "Indonesia offers visa-on-arrival for most nationalities including the US, UK, EU, Canada, Australia, and India, valid for 30 days and extendable once.",
+  "currency": "IDR",
+  "languages": [
+    "Indonesian",
+    "Sasak"
+  ],
+  "timeZone": "WITA (UTC+8)",
+  "averageFlightTime": "~12.4h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Lombok International Airport (LOP)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Lombok?",
+      "answer": "Indonesia offers visa-on-arrival for most nationalities including the US, UK, EU, Canada, Australia, and India, valid for 30 days and extendable once."
+    },
+    {
+      "question": "What is the best time to visit Lombok?",
+      "answer": "May to September — the dry season, best for beach days and the Mount Rinjani trek. Tropical climate — warm year-round (highs around 30-31°C), drier and slightly less humid than Bali, with a wetter season November to March."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Lombok safe for tourists?",
+      "answer": "Lombok is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Lombok?",
+      "answer": "The local currency is IDR. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Lombok is one of our most-booked honeymoon destinations, especially the Private sunset dinner overlooking Kuta Lombok's bay experience."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Adventure",
+    "Nature",
+    "Honeymoon",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Lombok",
+    "Indonesia",
+    "Lombok, Indonesia",
+    "Southeast Asia",
+    "Lombok tour package",
+    "Lombok vacation package",
+    "Lombok holiday package",
+    "things to do in Lombok",
+    "best time to visit Lombok",
+    "Lombok itinerary",
+    "10 day Lombok itinerary",
+    "Lombok flights and hotels",
+    "Lombok all inclusive package",
+    "cheap Lombok package",
+    "luxury Lombok package",
+    "Lombok honeymoon package",
+    "Lombok family vacation",
+    "Lombok solo trip",
+    "Lombok group tour",
+    "Lombok weekend getaway",
+    "Lombok guided tour",
+    "LOP flights",
+    "Lombok travel guide",
+    "book Lombok trip online",
+    "Lombok trip cost",
+    "Lombok packages 10 days",
+    "Lombok beach",
+    "Lombok adventure",
+    "Lombok nature",
+    "Lombok honeymoon",
+    "Lombok bucket list",
+    "Mount Rinjani trek",
+    "Gili Islands snorkeling day trip",
+    "Pink Beach boat tour",
+    "Kuta Lombok beach",
+    "Sasak traditional village visit (Sade)",
+    "Senggigi Beach sunset",
+    "Ashtari Restaurant",
+    "Warung Kolong",
+    "Lengkuas Restaurant",
+    "Pink Beach coral sand",
+    "Mount Rinjani crater lake",
+    "Kuta Lombok surf breaks at sunset",
+    "Gili Islands overwater views",
+    "Tiu Kelep Waterfall",
+    "Sade traditional Sasak village",
+    "Mawun Beach, quieter than Kuta",
+    "Indonesia tourism",
+    "Southeast Asia travel",
+    "international vacation packages"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Lombok, Indonesia — Pink Beach coral sand",
+      "keywords": [
+        "Lombok",
+        "Indonesia",
+        "Pink Beach coral sand",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Lombok Pink Beach coral sand",
+      "pexelsQuery": "Lombok Pink Beach coral sand",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Lombok, Indonesia — Pink Beach coral sand",
+      "keywords": [
+        "Lombok",
+        "Indonesia",
+        "Pink Beach coral sand",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Lombok Pink Beach coral sand",
+      "pexelsQuery": "Lombok Pink Beach coral sand",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Lombok, Indonesia — Mount Rinjani crater lake",
+      "keywords": [
+        "Lombok",
+        "Indonesia",
+        "Mount Rinjani crater lake",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Lombok Mount Rinjani crater lake",
+      "pexelsQuery": "Lombok Mount Rinjani crater lake",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Lombok, Indonesia — Kuta Lombok surf sunset",
+      "keywords": [
+        "Lombok",
+        "Indonesia",
+        "Kuta Lombok surf sunset",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Lombok Kuta Lombok surf sunset",
+      "pexelsQuery": "Lombok Kuta Lombok surf sunset",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Lombok, Indonesia — Pink Beach coral sand",
+      "keywords": [
+        "Lombok",
+        "Indonesia",
+        "Pink Beach coral sand",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Lombok Pink Beach coral sand",
+      "pexelsQuery": "Lombok Pink Beach coral sand",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Lombok, Indonesia — Mount Rinjani crater lake",
+      "keywords": [
+        "Lombok",
+        "Indonesia",
+        "Mount Rinjani crater lake",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Lombok Mount Rinjani crater lake",
+      "pexelsQuery": "Lombok Mount Rinjani crater lake",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Lombok, Indonesia — Kuta Lombok surf sunset",
+      "keywords": [
+        "Lombok",
+        "Indonesia",
+        "Kuta Lombok surf sunset",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Lombok Kuta Lombok surf sunset",
+      "pexelsQuery": "Lombok Kuta Lombok surf sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Lombok, Indonesia — Gili Islands overwater",
+      "keywords": [
+        "Lombok",
+        "Indonesia",
+        "Gili Islands overwater",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Lombok Gili Islands overwater",
+      "pexelsQuery": "Lombok Gili Islands overwater",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Lombok, Indonesia — Mount Rinjani trek",
+      "keywords": [
+        "Lombok",
+        "Indonesia",
+        "Mount Rinjani trek",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Lombok Mount Rinjani trek",
+      "pexelsQuery": "Lombok Mount Rinjani trek",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Lombok, Indonesia — Gili Islands snorkeling day trip",
+      "keywords": [
+        "Lombok",
+        "Indonesia",
+        "Gili Islands snorkeling day trip",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Lombok Gili Islands snorkeling day trip",
+      "pexelsQuery": "Lombok Gili Islands snorkeling day trip",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Lombok, Indonesia — Pink Beach boat tour",
+      "keywords": [
+        "Lombok",
+        "Indonesia",
+        "Pink Beach boat tour",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Lombok Pink Beach boat tour",
+      "pexelsQuery": "Lombok Pink Beach boat tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Lombok, Indonesia — Kuta Lombok surf breaks at sunset",
+      "keywords": [
+        "Lombok",
+        "Indonesia",
+        "Kuta Lombok surf breaks at sunset",
+        "Beach",
+        "Adventure"
+      ],
+      "unsplashQuery": "Lombok Kuta Lombok surf breaks at sunset",
+      "pexelsQuery": "Lombok Kuta Lombok surf breaks at sunset",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-lombok-10-1",
+      "author": "Tom Sharma",
+      "country": "France",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-03-09",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Gili Islands snorkeling day trip and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-2",
+      "author": "Anna Fernandez",
+      "country": "Canada",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 5,
+      "safetyRating": 4,
+      "date": "2025-09-30",
+      "title": "Unforgettable trip!",
+      "body": "Lombok is stunning and this package covered the essentials well, especially Mount Rinjani trek. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-3",
+      "author": "Emma Smith",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-02-20",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to Lombok was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kuta Lombok beach was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-4",
+      "author": "Ava Williams",
+      "country": "Switzerland",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-02-11",
+      "title": "Consultant made it effortless",
+      "body": "Sasak traditional village visit (Sade) alone was worth the trip, but combined with Senggigi Beach sunset this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-5",
+      "author": "Ava Kim",
+      "country": "Canada",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-21",
+      "title": "So many hidden gems included",
+      "body": "Mount Rinjani trek alone was worth the trip, but combined with Mount Rinjani trek this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-6",
+      "author": "Fatima Tanaka",
+      "country": "Germany",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-09",
+      "title": "Perfect for our honeymoon",
+      "body": "Gili Islands snorkeling day trip alone was worth the trip, but combined with Senggigi Beach sunset this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-7",
+      "author": "Sofia Kim",
+      "country": "Saudi Arabia",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-01-12",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a family of 4 trip and it was well paced. Sasak traditional village visit (Sade) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-8",
+      "author": "David Costa",
+      "country": "Netherlands",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-03-31",
+      "title": "Consultant made it effortless",
+      "body": "Lombok is stunning and this package covered the essentials well, especially Sasak traditional village visit (Sade). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-lombok-10-9",
+      "author": "Olivia van Dijk",
+      "country": "India",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-03-08",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Lombok was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Gili Islands snorkeling day trip was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-10",
+      "author": "Sarah Patel",
+      "country": "Singapore",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-20",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Lombok is stunning and this package covered the essentials well, especially Pink Beach boat tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-11",
+      "author": "Olivia Khan",
+      "country": "South Africa",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-29",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Lombok was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kuta Lombok beach was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-12",
+      "author": "Liam Wang",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-01-20",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Lombok was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Pink Beach boat tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-13",
+      "author": "Noah Johnson",
+      "country": "Germany",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-04-24",
+      "title": "Exceeded our expectations",
+      "body": "Our trip to Lombok was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Gili Islands snorkeling day trip was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-14",
+      "author": "Marco Santos",
+      "country": "New Zealand",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-09-25",
+      "title": "Worth every penny",
+      "body": "We added a couple of optional activities beyond Sasak traditional village visit (Sade) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-15",
+      "author": "Marco Wang",
+      "country": "Italy",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-07-11",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Senggigi Beach sunset and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-16",
+      "author": "Marco Silva",
+      "country": "Switzerland",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-18",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Sasak traditional village visit (Sade) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-lombok-10-17",
+      "author": "Nadia Fernandez",
+      "country": "United States",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-04-17",
+      "title": "A little rushed but still wonderful",
+      "body": "Lombok is stunning and this package covered the essentials well, especially Mount Rinjani trek. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-18",
+      "author": "Sofia Brown",
+      "country": "Germany",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-05-01",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a couple trip and it was well paced. Gili Islands snorkeling day trip in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-lombok-10-19",
+      "author": "Lucas Kowalski",
+      "country": "Australia",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-17",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Mount Rinjani trek and Senggigi Beach sunset. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-lombok-10-20",
+      "author": "Arjun Brown",
+      "country": "Brazil",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-22",
+      "title": "Loved every moment",
+      "body": "Booked this as a group trip and it was well paced. Kuta Lombok beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Lombok Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 7,
+      "neighborhood": "Sukarara traditional weaving village"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Lombok Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 12,
+      "neighborhood": "Kuta Lombok surf shops"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Lombok Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 23,
+      "neighborhood": "Kuta Lombok beach bars"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Lombok Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 29,
+      "neighborhood": "Gili Trawangan party scene (day trip or overnight)"
+    },
+    {
+      "tier": "Resort",
+      "name": "Lombok Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 70,
+      "neighborhood": "Kopi Wayan"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Lombok Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 143,
+      "neighborhood": "Room4Dessert Lombok"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Lombok Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 170,
+      "neighborhood": "Sukarara traditional weaving village"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1255,
+        1993
+      ],
+      "estimatedFlightHours": 22.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1221,
+        1939
+      ],
+      "estimatedFlightHours": 22.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        985,
+        1565
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        978,
+        1553
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        944,
+        1499
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        928,
+        1474
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        1027,
+        1631
+      ],
+      "estimatedFlightHours": 18.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        959,
+        1523
+      ],
+      "estimatedFlightHours": 17.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        947,
+        1504
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        404,
+        641
+      ],
+      "estimatedFlightHours": 6.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        556,
+        883
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        502,
+        798
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        474,
+        753
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        456,
+        725
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        205,
+        325
+      ],
+      "estimatedFlightHours": 3.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        297,
+        471
+      ],
+      "estimatedFlightHours": 4.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        227,
+        360
+      ],
+      "estimatedFlightHours": 3.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        155,
+        246
+      ],
+      "estimatedFlightHours": 2.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        267,
+        424
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        251,
+        398
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        626,
+        994
+      ],
+      "estimatedFlightHours": 11,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        683,
+        1085
+      ],
+      "estimatedFlightHours": 12.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        651,
+        1034
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        686,
+        1089
+      ],
+      "estimatedFlightHours": 12.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        757,
+        1202
+      ],
+      "estimatedFlightHours": 13.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1232,
+        1956
+      ],
+      "estimatedFlightHours": 22.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Lombok International Airport (LOP)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1233,
+        1959
+      ],
+      "estimatedFlightHours": 22.4,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Mount Rinjani trek",
+    "Gili Islands snorkeling day trip",
+    "Pink Beach boat tour",
+    "Kuta Lombok beach",
+    "Sasak traditional village visit (Sade)",
+    "Senggigi Beach sunset",
+    "Gili Islands (Trawangan, Air, Meno)",
+    "Pink Beach",
+    "Sade traditional village",
+    "West Nusa Tenggara Museum (Mataram)",
+    "Mount Rinjani National Park",
+    "Selong Belanak Beach",
+    "Senggigi Beach",
+    "Pink Beach coral sand",
+    "Mount Rinjani crater lake",
+    "Kuta Lombok surf breaks at sunset",
+    "Gili Islands overwater views"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Mount Rinjani trek",
+      "priceUSD": 250
+    },
+    {
+      "name": "Gili Islands snorkeling day trip",
+      "priceUSD": 40
+    },
+    {
+      "name": "Pink Beach boat tour",
+      "priceUSD": 45
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Kuta Lombok beach",
+    "Sasak traditional village visit (Sade)",
+    "Senggigi Beach sunset"
+  ],
+  "museums": [
+    "West Nusa Tenggara Museum (Mataram)"
+  ],
+  "parks": [
+    "Mount Rinjani National Park"
+  ],
+  "beaches": [
+    "Kuta Lombok Beach",
+    "Pink Beach",
+    "Selong Belanak Beach",
+    "Senggigi Beach"
+  ],
+  "dayTrips": [
+    "Gili Islands (Trawangan, Air, Meno)",
+    "Pink Beach",
+    "Sade traditional village"
+  ],
+  "fromPriceUSD": 2121,
+  "seo": {
+    "title": "Lombok 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "lombok-10-day-package",
+    "keywords": [
+      "Lombok",
+      "Indonesia",
+      "Lombok, Indonesia",
+      "Southeast Asia",
+      "Lombok tour package",
+      "Lombok vacation package",
+      "Lombok holiday package",
+      "things to do in Lombok",
+      "best time to visit Lombok",
+      "Lombok itinerary",
+      "10 day Lombok itinerary",
+      "Lombok flights and hotels",
+      "Lombok all inclusive package",
+      "cheap Lombok package",
+      "luxury Lombok package"
+    ],
+    "canonicalUrl": "/packages/lombok-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Lombok Package",
+        "url": "/packages/lombok-7-day-package"
+      },
+      {
+        "title": "14-Day Lombok Package",
+        "url": "/packages/lombok-14-day-package"
+      },
+      {
+        "title": "Bali 10-Day Beach Getaway",
+        "url": "/packages/bali-10-day-package"
+      },
+      {
+        "title": "Phuket 10-Day Beach Getaway",
+        "url": "/packages/phuket-10-day-package"
+      },
+      {
+        "title": "Fiji 10-Day Beach Getaway",
+        "url": "/packages/fiji-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Lombok — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lombok"
+      },
+      {
+        "title": "Lombok — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Lombok"
+      }
+    ]
+  }
+}

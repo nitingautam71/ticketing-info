@@ -1,0 +1,1608 @@
+{
+  "id": "PKG-vancouver-3D",
+  "slug": "vancouver-3-day-package",
+  "destinationSlug": "vancouver",
+  "destinationName": "Vancouver",
+  "country": "Canada",
+  "region": "British Columbia",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Vancouver 3-Day City Break",
+  "metaTitle": "Vancouver 3-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Vancouver, Canada: round-trip flights, hotel, breakfast, transfers, and guided tours including Capilano Suspension Bridge Park and Vancouver Aquarium. Prices from $911 per person (estimate).",
+  "highlights": [
+    "Capilano Suspension Bridge Park",
+    "Vancouver Aquarium",
+    "Stanley Park seawall",
+    "Grouse Grind hike (\"Mother Nature's Stairmaster\")",
+    "Whistler"
+  ],
+  "overview": "Spend 3 days discovering Vancouver, Canada — Temperate oceanic climate, the mildest in Canada — wet, mild winters (highs around 7°C, frequent rain) and warm, dry-ish summers (highs around 22°C). June to September is driest and warmest for hiking, beaches and Stanley Park; December to March draws skiers to nearby Whistler. This itinerary blends Capilano Suspension Bridge Park, Vancouver Aquarium, Stanley Park seawall with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Capilano Suspension Bridge Park, Vancouver Aquarium, Stanley Park seawall",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Vancouver",
+      "description": "Land at Vancouver International Airport (YVR) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Capilano Suspension Bridge Park — 137m suspension bridge over a forested canyon plus treetop walkways. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Capilano Suspension Bridge Park"
+      ],
+      "overnight": "Vancouver"
+    },
+    {
+      "day": 2,
+      "title": "Vancouver: Vancouver Aquarium & Grouse Mountain",
+      "description": "Morning visit to Vancouver Aquarium — Stanley Park aquarium with a strong marine conservation focus. In the afternoon, continue to Grouse Mountain — Gondola ride to alpine hiking, ziplining and grizzly bear habitat. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Vancouver Aquarium",
+        "Grouse Mountain"
+      ],
+      "overnight": "Vancouver"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Museum of Anthropology at UBC or some souvenir shopping — before your private transfer to YVR for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Ride the SkyTrain Canada Line from the airport instead of a taxi — it's fast, cheap and direct to downtown.",
+    "Book the Grouse Grind or Capilano Suspension Bridge for morning to beat both crowds and afternoon rain.",
+    "The free Lynn Canyon Suspension Bridge is a legitimate lower-crowd alternative to paid Capilano.",
+    "Whale watching season runs roughly April to October — book ahead for peak summer months.",
+    "Pack for rain even in summer — a sunny forecast can change fast this close to the coast.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "A waterproof jacket for frequent rain, especially October-April",
+    "Layers for mild but changeable weather",
+    "Good walking or hiking shoes for the seawall and North Shore trails",
+    "A swimsuit for beach days or hot springs day trips"
+  ],
+  "thingsToDo": [
+    "Capilano Suspension Bridge Park",
+    "Vancouver Aquarium",
+    "Grouse Mountain",
+    "Museum of Anthropology at UBC",
+    "Science World",
+    "Vancouver Art Gallery",
+    "FlyOver Canada",
+    "Sea to Sky Gondola (Squamish)",
+    "Bill Reid Gallery of Northwest Coast Art",
+    "VanDusen Botanical Garden",
+    "Harbour Air seaplane scenic flight",
+    "Stanley Park seawall",
+    "Granville Island Public Market",
+    "Gastown",
+    "English Bay Beach",
+    "Queen Elizabeth Park",
+    "Kitsilano Beach",
+    "Chinatown",
+    "Lynn Canyon Suspension Bridge",
+    "Canada Place waterfront"
+  ],
+  "thingsToAvoid": [
+    "Skipping rain gear in fall/winter — Vancouver gets some of Canada's highest annual rainfall.",
+    "Hiking the North Shore mountains (Grouse Grind, Dog Mountain) underprepared — conditions can turn quickly.",
+    "Driving downtown without checking parking rates — Vancouver has some of the highest parking costs in Canada.",
+    "Public cannabis or alcohol consumption outside licensed areas — both carry fines despite legal retail sales.",
+    "Missing the last SeaBus or SkyTrain — service frequency drops significantly late at night."
+  ],
+  "topRestaurants": [
+    "Miku — Japanese/Aburi Sushi ($$$)",
+    "Vij's — Modern Indian ($$$)",
+    "Go Fish — Seafood Shack ($$)",
+    "The Republic — Gastropub ($$)",
+    "Bao Bei Chinese Brasserie — Modern Chinese ($$$)",
+    "Meat & Bread — Sandwiches ($)",
+    "Jam Cafe — Brunch ($$)",
+    "Guu with Garlic — Japanese Izakaya ($$)",
+    "Hawksworth Restaurant — Fine Dining Canadian ($$$$)"
+  ],
+  "topCafes": [
+    "Revolver Coffee",
+    "Nemesis Coffee",
+    "49th Parallel Coffee Roasters",
+    "Matchstick Coffee Roasters",
+    "Cafe Medina",
+    "JJ Bean"
+  ],
+  "shoppingAreas": [
+    "Robson Street",
+    "Granville Island Public Market",
+    "Metropolis at Metrotown",
+    "Gastown boutiques",
+    "South Granville shops"
+  ],
+  "nightlife": [
+    "Granville Street Entertainment District",
+    "Gastown speakeasies",
+    "The Roxy",
+    "Guilt & Co. jazz bar",
+    "Yaletown lounges"
+  ],
+  "instagramSpots": [
+    "Stanley Park seawall with skyline backdrop",
+    "Capilano Suspension Bridge",
+    "English Bay sunset",
+    "Gastown Steam Clock",
+    "Grouse Mountain city view"
+  ],
+  "hiddenGems": [
+    "Lynn Canyon Suspension Bridge (free alternative to Capilano)",
+    "Dr. Sun Yat-Sen Classical Chinese Garden",
+    "Wreck Beach",
+    "Deep Cove kayak launch",
+    "Bill Reid Gallery"
+  ],
+  "familyActivities": [
+    "Science World",
+    "Vancouver Aquarium",
+    "Grouse Mountain grizzly habitat",
+    "Granville Island Kids Market",
+    "Stanley Park miniature railway"
+  ],
+  "adventureActivities": [
+    "Grouse Grind hike (\"Mother Nature's Stairmaster\")",
+    "Kayaking Deep Cove",
+    "Ziplining at Grouse Mountain",
+    "Whale watching tours from Granville Island"
+  ],
+  "luxuryExperiences": [
+    "Seaplane scenic flight with Harbour Air",
+    "Private Whistler day trip with a driver-guide",
+    "Fine dining at Hawksworth Restaurant",
+    "Suite stay at the Fairmont Pacific Rim"
+  ],
+  "honeymoonExperiences": [
+    "Sunset walk along the Stanley Park seawall",
+    "Private sailing trip on English Bay",
+    "Romantic dinner at a Yaletown waterfront restaurant",
+    "Whistler mountain escape for two"
+  ],
+  "budgetExperiences": [
+    "Free walk or cycle the Stanley Park seawall",
+    "Browse Granville Island Public Market",
+    "Sunset at English Bay Beach",
+    "Lynn Canyon Suspension Bridge instead of paid Capilano"
+  ],
+  "estimatedDailyBudgetUSD": [
+    85,
+    180,
+    330,
+    600
+  ],
+  "safetyRating": 4,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 80,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 7,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 8,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 11,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 17,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 9,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 6,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Celebration of Light fireworks festival",
+      "timing": "Late July to early August"
+    },
+    {
+      "name": "Vancouver International Film Festival",
+      "timing": "Late September to early October"
+    },
+    {
+      "name": "Vancouver Folk Music Festival",
+      "timing": "Mid-July"
+    },
+    {
+      "name": "Chinese New Year celebrations in Chinatown",
+      "timing": "Late January to mid-February"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Vancouverites are outdoorsy and casual — activewear is acceptable in most restaurants and bars.",
+    "Tipping 15-18% at restaurants and bars is standard.",
+    "Recycling and composting are taken seriously; sort waste correctly at cafes and public bins.",
+    "Personal space and quiet consideration on transit are valued — keep phone calls and music low.",
+    "Cannabis is legal for adults 19+ in BC but public consumption rules mirror alcohol restrictions in many areas."
+  ],
+  "localTransportGuide": "The SkyTrain (Canada Line) runs directly from YVR Airport to downtown in about 25 minutes, and connects with buses and the SeaBus ferry across Burrard Inlet under one Compass Card fare system. Vancouver's compact downtown, Stanley Park and Granville Island are all very walkable or a short transit hop apart.",
+  "bestTimeToVisit": "June to September is driest and warmest for hiking, beaches and Stanley Park; December to March draws skiers to nearby Whistler.",
+  "weather": "Temperate oceanic climate, the mildest in Canada — wet, mild winters (highs around 7°C, frequent rain) and warm, dry-ish summers (highs around 22°C).",
+  "visaInformation": "Visa-exempt eTA (Electronic Travel Authorization) for UK, EU, Australian and other eligible passport holders arriving by air for short stays. Indian nationals and most other nationalities require a Canadian visitor visa (TRV) arranged in advance.",
+  "currency": "CAD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "PST (UTC-8)",
+  "averageFlightTime": "~14.1h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Vancouver International Airport (YVR)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Vancouver?",
+      "answer": "Visa-exempt eTA (Electronic Travel Authorization) for UK, EU, Australian and other eligible passport holders arriving by air for short stays. Indian nationals and most other nationalities require a Canadian visitor visa (TRV) arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Vancouver?",
+      "answer": "June to September is driest and warmest for hiking, beaches and Stanley Park; December to March draws skiers to nearby Whistler. Temperate oceanic climate, the mildest in Canada — wet, mild winters (highs around 7°C, frequent rain) and warm, dry-ish summers (highs around 22°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Vancouver safe for tourists?",
+      "answer": "Vancouver is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Vancouver?",
+      "answer": "The local currency is CAD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Nature",
+    "Adventure",
+    "Culture",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Vancouver",
+    "Canada",
+    "Vancouver, Canada",
+    "British Columbia",
+    "Vancouver tour package",
+    "Vancouver vacation package",
+    "Vancouver holiday package",
+    "things to do in Vancouver",
+    "best time to visit Vancouver",
+    "Vancouver itinerary",
+    "3 day Vancouver itinerary",
+    "Vancouver flights and hotels",
+    "Vancouver all inclusive package",
+    "cheap Vancouver package",
+    "luxury Vancouver package",
+    "Vancouver honeymoon package",
+    "Vancouver family vacation",
+    "Vancouver solo trip",
+    "Vancouver group tour",
+    "Vancouver weekend getaway",
+    "Vancouver guided tour",
+    "YVR flights",
+    "Vancouver travel guide",
+    "book Vancouver trip online",
+    "Vancouver trip cost",
+    "Vancouver packages 3 days",
+    "Vancouver city break",
+    "Vancouver nature",
+    "Vancouver adventure",
+    "Vancouver culture",
+    "Capilano Suspension Bridge Park",
+    "Vancouver Aquarium",
+    "Grouse Mountain",
+    "Museum of Anthropology at UBC",
+    "Science World",
+    "Vancouver Art Gallery",
+    "FlyOver Canada",
+    "Sea to Sky Gondola (Squamish)",
+    "Bill Reid Gallery of Northwest Coast Art",
+    "VanDusen Botanical Garden",
+    "Harbour Air seaplane scenic flight",
+    "Stanley Park seawall",
+    "Granville Island Public Market",
+    "Gastown",
+    "English Bay Beach",
+    "Queen Elizabeth Park",
+    "Kitsilano Beach",
+    "Chinatown",
+    "Lynn Canyon Suspension Bridge",
+    "Canada Place waterfront"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Vancouver, Canada — Stanley Park seawall skyline",
+      "keywords": [
+        "Vancouver",
+        "Canada",
+        "Stanley Park seawall skyline",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Vancouver Stanley Park seawall skyline",
+      "pexelsQuery": "Vancouver Stanley Park seawall skyline",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Vancouver, Canada — Stanley Park seawall skyline",
+      "keywords": [
+        "Vancouver",
+        "Canada",
+        "Stanley Park seawall skyline",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Vancouver Stanley Park seawall skyline",
+      "pexelsQuery": "Vancouver Stanley Park seawall skyline",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Vancouver, Canada — Capilano Suspension Bridge forest",
+      "keywords": [
+        "Vancouver",
+        "Canada",
+        "Capilano Suspension Bridge forest",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Vancouver Capilano Suspension Bridge forest",
+      "pexelsQuery": "Vancouver Capilano Suspension Bridge forest",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Vancouver, Canada — English Bay sunset",
+      "keywords": [
+        "Vancouver",
+        "Canada",
+        "English Bay sunset",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Vancouver English Bay sunset",
+      "pexelsQuery": "Vancouver English Bay sunset",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Vancouver, Canada — Stanley Park seawall skyline",
+      "keywords": [
+        "Vancouver",
+        "Canada",
+        "Stanley Park seawall skyline",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Vancouver Stanley Park seawall skyline",
+      "pexelsQuery": "Vancouver Stanley Park seawall skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Vancouver, Canada — Capilano Suspension Bridge forest",
+      "keywords": [
+        "Vancouver",
+        "Canada",
+        "Capilano Suspension Bridge forest",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Vancouver Capilano Suspension Bridge forest",
+      "pexelsQuery": "Vancouver Capilano Suspension Bridge forest",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Vancouver, Canada — English Bay sunset",
+      "keywords": [
+        "Vancouver",
+        "Canada",
+        "English Bay sunset",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Vancouver English Bay sunset",
+      "pexelsQuery": "Vancouver English Bay sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Vancouver, Canada — Grouse Mountain gondola view",
+      "keywords": [
+        "Vancouver",
+        "Canada",
+        "Grouse Mountain gondola view",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Vancouver Grouse Mountain gondola view",
+      "pexelsQuery": "Vancouver Grouse Mountain gondola view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Vancouver, Canada — Capilano Suspension Bridge Park",
+      "keywords": [
+        "Vancouver",
+        "Canada",
+        "Capilano Suspension Bridge Park",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Vancouver Capilano Suspension Bridge Park",
+      "pexelsQuery": "Vancouver Capilano Suspension Bridge Park",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Vancouver, Canada — Vancouver Aquarium",
+      "keywords": [
+        "Vancouver",
+        "Canada",
+        "Vancouver Aquarium",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Vancouver Vancouver Aquarium",
+      "pexelsQuery": "Vancouver Vancouver Aquarium",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Vancouver, Canada — Grouse Mountain",
+      "keywords": [
+        "Vancouver",
+        "Canada",
+        "Grouse Mountain",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Vancouver Grouse Mountain",
+      "pexelsQuery": "Vancouver Grouse Mountain",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Vancouver, Canada — Museum of Anthropology at UBC",
+      "keywords": [
+        "Vancouver",
+        "Canada",
+        "Museum of Anthropology at UBC",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Vancouver Museum of Anthropology at UBC",
+      "pexelsQuery": "Vancouver Museum of Anthropology at UBC",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-vancouver-3-1",
+      "author": "Ethan Ibrahim",
+      "country": "Japan",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-30",
+      "title": "A little rushed but still wonderful",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Harbour Air seaplane scenic flight and Vancouver Aquarium. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-2",
+      "author": "Marco Kim",
+      "country": "Singapore",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-05-04",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Bill Reid Gallery of Northwest Coast Art and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-3",
+      "author": "Elena Khan",
+      "country": "South Africa",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-11-16",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Granville Island Public Market and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-4",
+      "author": "Hiroshi Botha",
+      "country": "Italy",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-17",
+      "title": "Highly recommend this package",
+      "body": "Lynn Canyon Suspension Bridge alone was worth the trip, but combined with Stanley Park seawall this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-5",
+      "author": "Emma Cohen",
+      "country": "United States",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-24",
+      "title": "Loved every moment",
+      "body": "Our trip to Vancouver was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Capilano Suspension Bridge Park was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-6",
+      "author": "Sofia Cohen",
+      "country": "Brazil",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-01-27",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a couple trip and it was well paced. Stanley Park seawall in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-7",
+      "author": "Mohammed Rossi",
+      "country": "United States",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-01-06",
+      "title": "Great value for money",
+      "body": "Capilano Suspension Bridge Park alone was worth the trip, but combined with Gastown this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-8",
+      "author": "Nadia van Dijk",
+      "country": "India",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-03-16",
+      "title": "Smooth from start to finish",
+      "body": "Vancouver is stunning and this package covered the essentials well, especially FlyOver Canada. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-vancouver-3-9",
+      "author": "Marco Wang",
+      "country": "United Kingdom",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-01-02",
+      "title": "Worth every penny",
+      "body": "We added a couple of optional activities beyond Vancouver Aquarium and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-10",
+      "author": "Elena Larsen",
+      "country": "Mexico",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-05-29",
+      "title": "Adventure of a lifetime",
+      "body": "We added a couple of optional activities beyond Chinatown and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-vancouver-3-11",
+      "author": "Mia Fernandez",
+      "country": "South Africa",
+      "rating": 4.4,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-06-04",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Granville Island Public Market and VanDusen Botanical Garden. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-12",
+      "author": "Anna Nguyen",
+      "country": "Singapore",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-15",
+      "title": "So many hidden gems included",
+      "body": "Vancouver is stunning and this package covered the essentials well, especially Bill Reid Gallery of Northwest Coast Art. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-13",
+      "author": "Daniel Silva",
+      "country": "Australia",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-23",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Museum of Anthropology at UBC and Lynn Canyon Suspension Bridge. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-14",
+      "author": "Isabella Santos",
+      "country": "Australia",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-05-30",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Museum of Anthropology at UBC and Chinatown. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-vancouver-3-15",
+      "author": "Grace Tanaka",
+      "country": "South Africa",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-02-10",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Granville Island Public Market and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-16",
+      "author": "Grace Santos",
+      "country": "Singapore",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-18",
+      "title": "Consultant made it effortless",
+      "body": "We added a couple of optional activities beyond Bill Reid Gallery of Northwest Coast Art and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-17",
+      "author": "Marco Silva",
+      "country": "UAE",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-09-05",
+      "title": "Consultant made it effortless",
+      "body": "We added a couple of optional activities beyond Sea to Sky Gondola (Squamish) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-18",
+      "author": "Sofia Larsen",
+      "country": "Canada",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-16",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a couple trip and it was well paced. Grouse Mountain in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-vancouver-3-19",
+      "author": "Mia Costa",
+      "country": "France",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-02-01",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Vancouver Art Gallery and Sea to Sky Gondola (Squamish). Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-vancouver-3-20",
+      "author": "Olivia Kim",
+      "country": "Australia",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-01-16",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Vancouver was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Museum of Anthropology at UBC was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.5,
+    "food": 4.5,
+    "hotel": 4.4,
+    "transportation": 4.5,
+    "activities": 4.5,
+    "value": 4.6,
+    "cleanliness": 4.4,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Vancouver Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 19,
+      "neighborhood": "Robson Street"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Vancouver Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 34,
+      "neighborhood": "Granville Island Public Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Vancouver Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 63,
+      "neighborhood": "Metropolis at Metrotown"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Vancouver Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 81,
+      "neighborhood": "Gastown boutiques"
+    },
+    {
+      "tier": "Resort",
+      "name": "Vancouver Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 165,
+      "neighborhood": "South Granville shops"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Vancouver Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 252,
+      "neighborhood": "Granville Street Entertainment District"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Vancouver Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 300,
+      "neighborhood": "Gastown speakeasies"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        359,
+        570
+      ],
+      "estimatedFlightHours": 6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        320,
+        508
+      ],
+      "estimatedFlightHours": 5.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        624,
+        991
+      ],
+      "estimatedFlightHours": 11,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        649,
+        1030
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        658,
+        1045
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        726,
+        1153
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        684,
+        1087
+      ],
+      "estimatedFlightHours": 12.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        632,
+        1004
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        677,
+        1075
+      ],
+      "estimatedFlightHours": 12,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        980,
+        1557
+      ],
+      "estimatedFlightHours": 17.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        897,
+        1424
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        880,
+        1397
+      ],
+      "estimatedFlightHours": 15.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        622,
+        988
+      ],
+      "estimatedFlightHours": 11,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        666,
+        1058
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1003,
+        1593
+      ],
+      "estimatedFlightHours": 18.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        929,
+        1476
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1000,
+        1588
+      ],
+      "estimatedFlightHours": 18,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1040,
+        1652
+      ],
+      "estimatedFlightHours": 18.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        838,
+        1331
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        927,
+        1472
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        924,
+        1467
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        924,
+        1467
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        922,
+        1465
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        887,
+        1409
+      ],
+      "estimatedFlightHours": 15.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1265,
+        2009
+      ],
+      "estimatedFlightHours": 23,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        875,
+        1389
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Vancouver International Airport (YVR)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        361,
+        574
+      ],
+      "estimatedFlightHours": 6.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Capilano Suspension Bridge Park",
+    "Vancouver Aquarium",
+    "Grouse Mountain",
+    "Museum of Anthropology at UBC",
+    "Science World",
+    "Vancouver Art Gallery",
+    "FlyOver Canada",
+    "Sea to Sky Gondola (Squamish)",
+    "Bill Reid Gallery of Northwest Coast Art",
+    "VanDusen Botanical Garden",
+    "Harbour Air seaplane scenic flight",
+    "Stanley Park seawall",
+    "Granville Island Public Market",
+    "Gastown",
+    "English Bay Beach",
+    "Queen Elizabeth Park",
+    "Kitsilano Beach",
+    "Chinatown",
+    "Lynn Canyon Suspension Bridge",
+    "Canada Place waterfront",
+    "Whistler",
+    "Victoria and Butchart Gardens (Vancouver Island)",
+    "Squamish and the Sea to Sky Gondola",
+    "Deep Cove",
+    "Stanley Park",
+    "Lynn Canyon Park",
+    "Wreck Beach",
+    "Stanley Park seawall with skyline backdrop",
+    "Capilano Suspension Bridge",
+    "English Bay sunset",
+    "Gastown Steam Clock",
+    "Grouse Mountain city view"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Capilano Suspension Bridge Park",
+      "priceUSD": 48
+    },
+    {
+      "name": "Vancouver Aquarium",
+      "priceUSD": 36
+    },
+    {
+      "name": "Grouse Mountain",
+      "priceUSD": 52
+    },
+    {
+      "name": "Museum of Anthropology at UBC",
+      "priceUSD": 14
+    },
+    {
+      "name": "Science World",
+      "priceUSD": 28
+    },
+    {
+      "name": "Vancouver Art Gallery",
+      "priceUSD": 19
+    },
+    {
+      "name": "FlyOver Canada",
+      "priceUSD": 30
+    },
+    {
+      "name": "Sea to Sky Gondola (Squamish)",
+      "priceUSD": 44
+    },
+    {
+      "name": "Bill Reid Gallery of Northwest Coast Art",
+      "priceUSD": 13
+    },
+    {
+      "name": "VanDusen Botanical Garden",
+      "priceUSD": 10
+    },
+    {
+      "name": "Harbour Air seaplane scenic flight",
+      "priceUSD": 130
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Stanley Park seawall",
+    "Granville Island Public Market",
+    "Gastown",
+    "English Bay Beach",
+    "Queen Elizabeth Park",
+    "Kitsilano Beach",
+    "Chinatown",
+    "Lynn Canyon Suspension Bridge",
+    "Canada Place waterfront"
+  ],
+  "museums": [
+    "Museum of Anthropology at UBC",
+    "Vancouver Art Gallery",
+    "Science World",
+    "Bill Reid Gallery of Northwest Coast Art"
+  ],
+  "parks": [
+    "Stanley Park",
+    "Queen Elizabeth Park",
+    "VanDusen Botanical Garden",
+    "Lynn Canyon Park"
+  ],
+  "beaches": [
+    "English Bay Beach",
+    "Kitsilano Beach",
+    "Wreck Beach"
+  ],
+  "dayTrips": [
+    "Whistler",
+    "Victoria and Butchart Gardens (Vancouver Island)",
+    "Squamish and the Sea to Sky Gondola",
+    "Deep Cove"
+  ],
+  "fromPriceUSD": 911,
+  "seo": {
+    "title": "Vancouver 3-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "vancouver-3-day-package",
+    "keywords": [
+      "Vancouver",
+      "Canada",
+      "Vancouver, Canada",
+      "British Columbia",
+      "Vancouver tour package",
+      "Vancouver vacation package",
+      "Vancouver holiday package",
+      "things to do in Vancouver",
+      "best time to visit Vancouver",
+      "Vancouver itinerary",
+      "3 day Vancouver itinerary",
+      "Vancouver flights and hotels",
+      "Vancouver all inclusive package",
+      "cheap Vancouver package",
+      "luxury Vancouver package"
+    ],
+    "canonicalUrl": "/packages/vancouver-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Vancouver Package",
+        "url": "/packages/vancouver-2-day-package"
+      },
+      {
+        "title": "5-Day Vancouver Package",
+        "url": "/packages/vancouver-5-day-package"
+      },
+      {
+        "title": "Cape Town 3-Day City Break",
+        "url": "/packages/cape-town-3-day-package"
+      },
+      {
+        "title": "Santiago 3-Day City Break",
+        "url": "/packages/santiago-3-day-package"
+      },
+      {
+        "title": "Oslo 3-Day City Break",
+        "url": "/packages/oslo-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Vancouver — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vancouver"
+      },
+      {
+        "title": "Vancouver — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Vancouver"
+      }
+    ]
+  }
+}

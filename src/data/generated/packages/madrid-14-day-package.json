@@ -1,0 +1,1736 @@
+{
+  "id": "PKG-madrid-14D",
+  "slug": "madrid-14-day-package",
+  "destinationSlug": "madrid",
+  "destinationName": "Madrid",
+  "country": "Spain",
+  "region": "Community of Madrid",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Madrid 14-Day City Break",
+  "metaTitle": "Madrid 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Madrid, Spain: round-trip flights, hotel, breakfast, transfers, and guided tours including Museo del Prado and Museo Reina Sofía. Prices from $2072 per person (estimate).",
+  "highlights": [
+    "Museo del Prado",
+    "Museo Reina Sofía",
+    "Plaza Mayor",
+    "Toledo's walled old city"
+  ],
+  "overview": "Spend 14 days discovering Madrid, Spain — Continental Mediterranean climate with hot, dry summers (highs around 32-33°C in July) and cool winters (highs around 10°C in January), among Europe's sunniest capitals. April to June and September to October for mild weather; the July-August heat is intense. This itinerary blends Museo del Prado, Museo Reina Sofía, Plaza Mayor with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Museo del Prado, Museo Reina Sofía, Plaza Mayor",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Madrid",
+      "description": "Land at Adolfo Suárez Madrid-Barajas Airport (MAD) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Museo del Prado — World-renowned collection of European masters including Velázquez and Goya. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Museo del Prado"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 2,
+      "title": "Madrid: Museo Reina Sofía & Royal Palace of Madrid",
+      "description": "Morning visit to Museo Reina Sofía — Modern art museum, home to Picasso's Guernica. In the afternoon, continue to Royal Palace of Madrid — Europe's largest functioning royal palace by floor area. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Museo Reina Sofía",
+        "Royal Palace of Madrid"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 3,
+      "title": "Madrid: Museo Thyssen-Bornemisza & Santiago Bernabéu Stadium tour",
+      "description": "Morning visit to Museo Thyssen-Bornemisza — Private art collection spanning Old Masters to modern works. In the afternoon, continue to Santiago Bernabéu Stadium tour — Real Madrid's iconic stadium and trophy museum. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Museo Thyssen-Bornemisza",
+        "Santiago Bernabéu Stadium tour"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Toledo's walled old city",
+      "description": "Full-day excursion to Toledo's walled old city, a popular side trip from Madrid. Return to Madrid in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Toledo's walled old city",
+        "Free evening"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Palacio de Cristal in Retiro Park — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Palacio de Cristal in Retiro Park"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 6,
+      "title": "Madrid: Mirador Madrid (Palacio de Cibeles rooftop) & Museo Sorolla",
+      "description": "Morning visit to Mirador Madrid (Palacio de Cibeles rooftop) — Panoramic city viewpoint atop a historic palace. In the afternoon, continue to Museo Sorolla — Former home and garden of painter Joaquín Sorolla. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Mirador Madrid (Palacio de Cibeles rooftop)",
+        "Museo Sorolla"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to El Escorial monastery",
+      "description": "Full-day excursion to El Escorial monastery, a popular side trip from Madrid. Return to Madrid in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: El Escorial monastery",
+        "Free evening"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 8,
+      "title": "Madrid: CaixaForum Madrid & Faunia nature and wildlife park",
+      "description": "Morning visit to CaixaForum Madrid — Contemporary art and culture centre with a vertical garden facade. In the afternoon, continue to Faunia nature and wildlife park — Interactive nature and wildlife park. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "CaixaForum Madrid",
+        "Faunia nature and wildlife park"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include El Rastro flea market — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "El Rastro flea market"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Segovia's Roman aqueduct",
+      "description": "Full-day excursion to Segovia's Roman aqueduct, a popular side trip from Madrid. Return to Madrid in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Segovia's Roman aqueduct",
+        "Free evening"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 11,
+      "title": "Madrid: El Escorial monastery & Plaza Mayor",
+      "description": "Morning visit to El Escorial monastery — Historic royal monastery and palace complex outside the city. In the afternoon, continue to Plaza Mayor — Grand 17th-century arcaded square in the historic centre. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "El Escorial monastery",
+        "Plaza Mayor"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 12,
+      "title": "Madrid: Puerta del Sol & Retiro Park",
+      "description": "Morning visit to Puerta del Sol — Bustling central square and Kilometre Zero of Spain's roads. In the afternoon, continue to Retiro Park — Vast landscaped park with a boating lake and the Crystal Palace. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Puerta del Sol",
+        "Retiro Park"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Museo Sorolla's garden — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Museo Sorolla's garden"
+      ],
+      "overnight": "Madrid"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Templo de Debod or some souvenir shopping — before your private transfer to MAD for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "The Prado, Reina Sofía and Thyssen-Bornemisza offer free entry during specific evening hours.",
+    "Restaurants often don't open for dinner before 8:30-9pm.",
+    "Book DiverXO or other top tables months ahead.",
+    "Sightsee early morning or evening in July-August to avoid the worst heat.",
+    "El Rastro flea market on Sunday mornings is a Madrid institution worth planning around.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Insulated jacket and warm layers for cold weather",
+    "Lightweight clothing for hot summer days",
+    "A light jacket for cool evenings and winter",
+    "Comfortable shoes for extensive walking",
+    "A smarter outfit for nicer restaurants and flamenco tablaos"
+  ],
+  "thingsToDo": [
+    "Museo del Prado",
+    "Museo Reina Sofía",
+    "Royal Palace of Madrid",
+    "Museo Thyssen-Bornemisza",
+    "Santiago Bernabéu Stadium tour",
+    "Mirador Madrid (Palacio de Cibeles rooftop)",
+    "Museo Sorolla",
+    "CaixaForum Madrid",
+    "Faunia nature and wildlife park",
+    "El Escorial monastery",
+    "Plaza Mayor",
+    "Puerta del Sol",
+    "Retiro Park",
+    "Templo de Debod",
+    "Gran Vía",
+    "Mercado de San Miguel",
+    "Malasaña & Chueca neighborhoods",
+    "Palacio de Cristal (Retiro Park)",
+    "Cycling Madrid Río park along the Manzanares",
+    "Hot air ballooning over the Castilian countryside"
+  ],
+  "thingsToAvoid": [
+    "Expecting dinner service before 8:30pm.",
+    "Overpaying for tapas at tourist-focused bars directly on Plaza Mayor.",
+    "Pickpockets on crowded Metro lines and around Puerta del Sol.",
+    "Visiting major museums on Mondays, when some are closed.",
+    "Underestimating how hot and exposed Retiro Park and outdoor plazas get in summer."
+  ],
+  "topRestaurants": [
+    "Botín — Traditional Castilian ($$$)",
+    "Mercado de San Miguel — Spanish Tapas & Street Food ($$)",
+    "Casa Lucio — Traditional Spanish ($$$)",
+    "La Barraca — Paella & Valencian ($$)",
+    "DiverXO — Michelin 3-star Avant-Garde ($$$$)",
+    "Casa Revuelta — Traditional Tapas ($)",
+    "Lhardy — Historic Fine Dining ($$$$)",
+    "Taberna La Bola — Traditional Cocido Madrileño ($$)"
+  ],
+  "topCafes": [
+    "Chocolatería San Ginés",
+    "Café Comercial",
+    "Café Central",
+    "HanSo Café",
+    "Toma Café"
+  ],
+  "shoppingAreas": [
+    "Gran Vía",
+    "Salamanca district boutiques",
+    "Mercado de San Miguel",
+    "El Rastro flea market (Sundays)",
+    "Calle Fuencarral"
+  ],
+  "nightlife": [
+    "Malasaña bars",
+    "Chueca nightlife",
+    "Teatro Kapital superclub",
+    "Cardamomo Flamenco tablao",
+    "Cervecería Alemana"
+  ],
+  "instagramSpots": [
+    "Plaza Mayor arcades",
+    "Templo de Debod at sunset",
+    "Gran Vía at night",
+    "Palacio de Cristal reflections",
+    "Puerta de Alcalá monument"
+  ],
+  "hiddenGems": [
+    "Palacio de Cristal in Retiro Park",
+    "El Rastro flea market",
+    "Museo Sorolla's garden",
+    "La Latina tapas alleys",
+    "San Antonio de la Florida chapel (Goya frescoes)"
+  ],
+  "familyActivities": [
+    "Retiro Park boating lake",
+    "Faunia wildlife park",
+    "Warner Bros Park Madrid",
+    "Madrid Zoo Aquarium"
+  ],
+  "adventureActivities": [
+    "Cycling Madrid Río park along the Manzanares",
+    "Hot air ballooning over the Castilian countryside",
+    "Hiking in the nearby Sierra de Guadarrama",
+    "Rock climbing at La Pedriza"
+  ],
+  "luxuryExperiences": [
+    "Private Prado Museum guided tour before opening",
+    "Dining at DiverXO",
+    "Suite stay at Hotel Ritz Madrid",
+    "Private flamenco show at an exclusive tablao"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at Templo de Debod",
+    "Romantic dinner in La Latina",
+    "Private Retiro Park rowboat ride",
+    "Evening flamenco show for two"
+  ],
+  "budgetExperiences": [
+    "Free entry to the Prado during select evening hours",
+    "Retiro Park picnic",
+    "Wandering Plaza Mayor and Puerta del Sol",
+    "Tapas crawl in La Latina"
+  ],
+  "estimatedDailyBudgetUSD": [
+    65,
+    150,
+    270,
+    550
+  ],
+  "safetyRating": 4,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 85,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 10,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 12,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 18,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 23,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 33,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 10,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "San Isidro Festival",
+      "timing": "May 15, Madrid's patron saint celebration"
+    },
+    {
+      "name": "Madrid Pride",
+      "timing": "Late June to early July, one of the largest Pride celebrations in Europe"
+    },
+    {
+      "name": "Veranos de la Villa",
+      "timing": "July-August, summer cultural festival"
+    },
+    {
+      "name": "Plaza Mayor Christmas Market",
+      "timing": "December"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112"
+  },
+  "localEtiquette": [
+    "Dinner is eaten late (9-11pm); many restaurant kitchens don't open before 8:30pm.",
+    "Some shops still close for a couple of hours in the early afternoon.",
+    "Greet acquaintances with two cheek kisses.",
+    "Tipping isn't obligatory; 5-10% for good service is generous.",
+    "Madrileños socialize very late — nightlife often doesn't peak until after midnight."
+  ],
+  "localTransportGuide": "Madrid's Metro is one of the most extensive underground systems in Europe, fast, cheap and covering nearly the whole city with frequent trains. The Multi ticket card works across metro, bus and local trains, and taxis are plentiful and metered fairly compared to many capitals.",
+  "bestTimeToVisit": "April to June and September to October for mild weather; the July-August heat is intense.",
+  "weather": "Continental Mediterranean climate with hot, dry summers (highs around 32-33°C in July) and cool winters (highs around 10°C in January), among Europe's sunniest capitals.",
+  "visaInformation": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance.",
+  "currency": "EUR",
+  "languages": [
+    "Spanish"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~10.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Madrid?",
+      "answer": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Madrid?",
+      "answer": "April to June and September to October for mild weather; the July-August heat is intense. Continental Mediterranean climate with hot, dry summers (highs around 32-33°C in July) and cool winters (highs around 10°C in January), among Europe's sunniest capitals."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Madrid safe for tourists?",
+      "answer": "Madrid is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Madrid?",
+      "answer": "The local currency is EUR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Food",
+    "History",
+    "Nightlife",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Madrid",
+    "Spain",
+    "Madrid, Spain",
+    "Community of Madrid",
+    "Madrid tour package",
+    "Madrid vacation package",
+    "Madrid holiday package",
+    "things to do in Madrid",
+    "best time to visit Madrid",
+    "Madrid itinerary",
+    "14 day Madrid itinerary",
+    "Madrid flights and hotels",
+    "Madrid all inclusive package",
+    "cheap Madrid package",
+    "luxury Madrid package",
+    "Madrid honeymoon package",
+    "Madrid family vacation",
+    "Madrid solo trip",
+    "Madrid group tour",
+    "Madrid weekend getaway",
+    "Madrid guided tour",
+    "MAD flights",
+    "Madrid travel guide",
+    "book Madrid trip online",
+    "Madrid trip cost",
+    "Madrid packages 14 days",
+    "Madrid city break",
+    "Madrid culture",
+    "Madrid food",
+    "Madrid history",
+    "Madrid nightlife",
+    "Madrid bucket list",
+    "Museo del Prado",
+    "Museo Reina Sofía",
+    "Royal Palace of Madrid",
+    "Museo Thyssen-Bornemisza",
+    "Santiago Bernabéu Stadium tour",
+    "Mirador Madrid (Palacio de Cibeles rooftop)",
+    "Museo Sorolla",
+    "CaixaForum Madrid",
+    "Faunia nature and wildlife park",
+    "El Escorial monastery",
+    "Plaza Mayor",
+    "Puerta del Sol",
+    "Retiro Park",
+    "Templo de Debod",
+    "Gran Vía",
+    "Mercado de San Miguel",
+    "Malasaña & Chueca neighborhoods",
+    "Palacio de Cristal (Retiro Park)"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Madrid, Spain — Plaza Mayor Madrid",
+      "keywords": [
+        "Madrid",
+        "Spain",
+        "Plaza Mayor Madrid",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Madrid Plaza Mayor Madrid",
+      "pexelsQuery": "Madrid Plaza Mayor Madrid",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Madrid, Spain — Plaza Mayor Madrid",
+      "keywords": [
+        "Madrid",
+        "Spain",
+        "Plaza Mayor Madrid",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Madrid Plaza Mayor Madrid",
+      "pexelsQuery": "Madrid Plaza Mayor Madrid",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Madrid, Spain — Templo de Debod sunset",
+      "keywords": [
+        "Madrid",
+        "Spain",
+        "Templo de Debod sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Madrid Templo de Debod sunset",
+      "pexelsQuery": "Madrid Templo de Debod sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Madrid, Spain — Retiro Park Crystal Palace",
+      "keywords": [
+        "Madrid",
+        "Spain",
+        "Retiro Park Crystal Palace",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Madrid Retiro Park Crystal Palace",
+      "pexelsQuery": "Madrid Retiro Park Crystal Palace",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Madrid, Spain — Plaza Mayor Madrid",
+      "keywords": [
+        "Madrid",
+        "Spain",
+        "Plaza Mayor Madrid",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Madrid Plaza Mayor Madrid",
+      "pexelsQuery": "Madrid Plaza Mayor Madrid",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Madrid, Spain — Templo de Debod sunset",
+      "keywords": [
+        "Madrid",
+        "Spain",
+        "Templo de Debod sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Madrid Templo de Debod sunset",
+      "pexelsQuery": "Madrid Templo de Debod sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Madrid, Spain — Retiro Park Crystal Palace",
+      "keywords": [
+        "Madrid",
+        "Spain",
+        "Retiro Park Crystal Palace",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Madrid Retiro Park Crystal Palace",
+      "pexelsQuery": "Madrid Retiro Park Crystal Palace",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Madrid, Spain — Gran Via night lights",
+      "keywords": [
+        "Madrid",
+        "Spain",
+        "Gran Via night lights",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Madrid Gran Via night lights",
+      "pexelsQuery": "Madrid Gran Via night lights",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Madrid, Spain — Museo del Prado",
+      "keywords": [
+        "Madrid",
+        "Spain",
+        "Museo del Prado",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Madrid Museo del Prado",
+      "pexelsQuery": "Madrid Museo del Prado",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Madrid, Spain — Museo Reina Sofía",
+      "keywords": [
+        "Madrid",
+        "Spain",
+        "Museo Reina Sofía",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Madrid Museo Reina Sofía",
+      "pexelsQuery": "Madrid Museo Reina Sofía",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Madrid, Spain — Royal Palace of Madrid",
+      "keywords": [
+        "Madrid",
+        "Spain",
+        "Royal Palace of Madrid",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Madrid Royal Palace of Madrid",
+      "pexelsQuery": "Madrid Royal Palace of Madrid",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Madrid, Spain — Museo Thyssen-Bornemisza",
+      "keywords": [
+        "Madrid",
+        "Spain",
+        "Museo Thyssen-Bornemisza",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Madrid Museo Thyssen-Bornemisza",
+      "pexelsQuery": "Madrid Museo Thyssen-Bornemisza",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-madrid-14-1",
+      "author": "Liam Dubois",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-10-06",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Madrid was fantastic from start to finish. The hotel was clean and well located, and the guided visit to CaixaForum Madrid was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-2",
+      "author": "Wei Tanaka",
+      "country": "United States",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-25",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a couple trip and it was well paced. Museo del Prado in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-3",
+      "author": "Tom Larsen",
+      "country": "Germany",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-03-27",
+      "title": "Best vacation we've had",
+      "body": "We added a couple of optional activities beyond Santiago Bernabéu Stadium tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-4",
+      "author": "Wei Wang",
+      "country": "Italy",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-31",
+      "title": "Loved every moment",
+      "body": "Booked this as a group trip and it was well paced. Malasaña & Chueca neighborhoods in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-5",
+      "author": "Sofia Sharma",
+      "country": "South Korea",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-03",
+      "title": "Great value for money",
+      "body": "Booked this as a solo trip and it was well paced. Faunia nature and wildlife park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-6",
+      "author": "David Johnson",
+      "country": "Brazil",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-10",
+      "title": "A little rushed but still wonderful",
+      "body": "Madrid is stunning and this package covered the essentials well, especially Plaza Mayor. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-7",
+      "author": "Chen Ivanov",
+      "country": "Canada",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-03-10",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a family of 4 trip and it was well paced. Royal Palace of Madrid in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-madrid-14-8",
+      "author": "Omar Fernandez",
+      "country": "New Zealand",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-11-23",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Puerta del Sol and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-9",
+      "author": "Emma Kim",
+      "country": "South Africa",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-06",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Madrid was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Plaza Mayor was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-10",
+      "author": "Chen Müller",
+      "country": "Singapore",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-20",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a couple trip and it was well paced. CaixaForum Madrid in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-11",
+      "author": "Chen Nguyen",
+      "country": "UAE",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-27",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a family of 4 trip and it was well paced. Museo Sorolla in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-12",
+      "author": "Priya Smith",
+      "country": "South Africa",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-08",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a group trip and it was well paced. Puerta del Sol in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-13",
+      "author": "Olivia Williams",
+      "country": "Spain",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-05",
+      "title": "Five stars, will return",
+      "body": "Our trip to Madrid was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Palacio de Cristal (Retiro Park) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-14",
+      "author": "David Kowalski",
+      "country": "Switzerland",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-02-28",
+      "title": "Luxury without the hassle",
+      "body": "Madrid is stunning and this package covered the essentials well, especially Gran Vía. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-15",
+      "author": "Chen Larsen",
+      "country": "Spain",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-23",
+      "title": "Five stars, will return",
+      "body": "Booked this as a family of 4 trip and it was well paced. Palacio de Cristal (Retiro Park) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-16",
+      "author": "Sarah Johnson",
+      "country": "South Africa",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-06",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Madrid is stunning and this package covered the essentials well, especially Plaza Mayor. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-17",
+      "author": "Grace Larsen",
+      "country": "Canada",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-03-22",
+      "title": "Adventure of a lifetime",
+      "body": "We added a couple of optional activities beyond Royal Palace of Madrid and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-madrid-14-18",
+      "author": "Marco Costa",
+      "country": "India",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-19",
+      "title": "Five stars, will return",
+      "body": "We added a couple of optional activities beyond Mirador Madrid (Palacio de Cibeles rooftop) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-19",
+      "author": "Yuki Garcia",
+      "country": "UAE",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 3.5,
+      "date": "2025-06-17",
+      "title": "Would book again in a heartbeat",
+      "body": "Museo Sorolla alone was worth the trip, but combined with Mercado de San Miguel this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-madrid-14-20",
+      "author": "Isabella Brown",
+      "country": "UAE",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-03-31",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Museo Sorolla and Gran Vía. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.5,
+    "hotel": 4.3,
+    "transportation": 4.4,
+    "activities": 4.4,
+    "value": 4.4,
+    "cleanliness": 4.4,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Madrid Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 14,
+      "neighborhood": "Gran Vía"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Madrid Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 26,
+      "neighborhood": "Salamanca district boutiques"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Madrid Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 53,
+      "neighborhood": "Mercado de San Miguel"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Madrid Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 68,
+      "neighborhood": "El Rastro flea market (Sundays)"
+    },
+    {
+      "tier": "Resort",
+      "name": "Madrid Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 135,
+      "neighborhood": "Calle Fuencarral"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Madrid Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 231,
+      "neighborhood": "Malasaña bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Madrid Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 275,
+      "neighborhood": "Chueca nightlife"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        493,
+        783
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        513,
+        814
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        167,
+        266
+      ],
+      "estimatedFlightHours": 2.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        153,
+        243
+      ],
+      "estimatedFlightHours": 2.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        181,
+        288
+      ],
+      "estimatedFlightHours": 2.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        175,
+        278
+      ],
+      "estimatedFlightHours": 2.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        184,
+        292
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        167,
+        265
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1354,
+        2151
+      ],
+      "estimatedFlightHours": 24.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1493,
+        2371
+      ],
+      "estimatedFlightHours": 27.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        602,
+        956
+      ],
+      "estimatedFlightHours": 10.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        854,
+        1357
+      ],
+      "estimatedFlightHours": 15.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        799,
+        1269
+      ],
+      "estimatedFlightHours": 14.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        898,
+        1427
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        812,
+        1289
+      ],
+      "estimatedFlightHours": 14.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        876,
+        1392
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        957,
+        1520
+      ],
+      "estimatedFlightHours": 17.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        919,
+        1459
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        864,
+        1372
+      ],
+      "estimatedFlightHours": 15.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        485,
+        771
+      ],
+      "estimatedFlightHours": 8.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        435,
+        691
+      ],
+      "estimatedFlightHours": 7.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        462,
+        733
+      ],
+      "estimatedFlightHours": 8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        423,
+        672
+      ],
+      "estimatedFlightHours": 7.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        662,
+        1052
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        683,
+        1084
+      ],
+      "estimatedFlightHours": 12.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        731,
+        1161
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Museo del Prado",
+    "Museo Reina Sofía",
+    "Royal Palace of Madrid",
+    "Museo Thyssen-Bornemisza",
+    "Santiago Bernabéu Stadium tour",
+    "Mirador Madrid (Palacio de Cibeles rooftop)",
+    "Museo Sorolla",
+    "CaixaForum Madrid",
+    "Faunia nature and wildlife park",
+    "El Escorial monastery",
+    "Plaza Mayor",
+    "Puerta del Sol",
+    "Retiro Park",
+    "Templo de Debod",
+    "Gran Vía",
+    "Mercado de San Miguel",
+    "Malasaña & Chueca neighborhoods",
+    "Palacio de Cristal (Retiro Park)",
+    "Toledo's walled old city",
+    "Segovia's Roman aqueduct",
+    "Ávila's medieval walls",
+    "Casa de Campo",
+    "Madrid Río",
+    "Parque del Oeste",
+    "Plaza Mayor arcades",
+    "Templo de Debod at sunset",
+    "Gran Vía at night",
+    "Palacio de Cristal reflections",
+    "Puerta de Alcalá monument"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Museo del Prado",
+      "priceUSD": 15
+    },
+    {
+      "name": "Museo Reina Sofía",
+      "priceUSD": 12
+    },
+    {
+      "name": "Royal Palace of Madrid",
+      "priceUSD": 14
+    },
+    {
+      "name": "Museo Thyssen-Bornemisza",
+      "priceUSD": 13
+    },
+    {
+      "name": "Santiago Bernabéu Stadium tour",
+      "priceUSD": 25
+    },
+    {
+      "name": "Mirador Madrid (Palacio de Cibeles rooftop)",
+      "priceUSD": 3
+    },
+    {
+      "name": "Museo Sorolla",
+      "priceUSD": 5
+    },
+    {
+      "name": "CaixaForum Madrid",
+      "priceUSD": 6
+    },
+    {
+      "name": "Faunia nature and wildlife park",
+      "priceUSD": 25
+    },
+    {
+      "name": "El Escorial monastery",
+      "priceUSD": 14
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Plaza Mayor",
+    "Puerta del Sol",
+    "Retiro Park",
+    "Templo de Debod",
+    "Gran Vía",
+    "Mercado de San Miguel",
+    "Malasaña & Chueca neighborhoods",
+    "Palacio de Cristal (Retiro Park)"
+  ],
+  "museums": [
+    "Museo del Prado",
+    "Museo Reina Sofía",
+    "Museo Thyssen-Bornemisza",
+    "Museo Sorolla"
+  ],
+  "parks": [
+    "Retiro Park",
+    "Casa de Campo",
+    "Madrid Río",
+    "Parque del Oeste"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Toledo's walled old city",
+    "El Escorial monastery",
+    "Segovia's Roman aqueduct",
+    "Ávila's medieval walls"
+  ],
+  "fromPriceUSD": 2072,
+  "seo": {
+    "title": "Madrid 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "madrid-14-day-package",
+    "keywords": [
+      "Madrid",
+      "Spain",
+      "Madrid, Spain",
+      "Community of Madrid",
+      "Madrid tour package",
+      "Madrid vacation package",
+      "Madrid holiday package",
+      "things to do in Madrid",
+      "best time to visit Madrid",
+      "Madrid itinerary",
+      "14 day Madrid itinerary",
+      "Madrid flights and hotels",
+      "Madrid all inclusive package",
+      "cheap Madrid package",
+      "luxury Madrid package"
+    ],
+    "canonicalUrl": "/packages/madrid-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Madrid Package",
+        "url": "/packages/madrid-10-day-package"
+      },
+      {
+        "title": "7-Day Madrid Package",
+        "url": "/packages/madrid-7-day-package"
+      },
+      {
+        "title": "London 14-Day City Break",
+        "url": "/packages/london-14-day-package"
+      },
+      {
+        "title": "Lisbon 14-Day City Break",
+        "url": "/packages/lisbon-14-day-package"
+      },
+      {
+        "title": "Seoul 14-Day City Break",
+        "url": "/packages/seoul-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Madrid — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Madrid"
+      },
+      {
+        "title": "Madrid — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Madrid"
+      }
+    ]
+  }
+}

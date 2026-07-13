@@ -308,7 +308,7 @@ export interface TravelPackage {
     slug: string;
     keywords: string[];
     canonicalUrl: string;
-    /** Same-site links for on-page SEO internal linking: other durations of this destination + related packages sharing categories. Filled in by scripts/generate-packages.ts once all 300 packages exist (a single package doesn't know its siblings). */
+    /** Same-site links for on-page SEO internal linking: other durations of this destination + related packages sharing categories. Filled in by scripts/generate-packages.ts once the full package set exists (a single package doesn't know its siblings). */
     internalLinks: { title: string; url: string }[];
     /** High-confidence external reference links (Wikipedia + Wikivoyage) built from the destination name — not individually fetched/verified beyond the naming-convention spot checks done for known ambiguous cases (e.g. Banff). */
     externalLinks: { title: string; url: string }[];

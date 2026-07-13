@@ -1,0 +1,1649 @@
+{
+  "id": "PKG-xian-14D",
+  "slug": "xian-14-day-package",
+  "destinationSlug": "xian",
+  "destinationName": "Xi'an",
+  "country": "China",
+  "region": "East Asia",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Xi'an 14-Day Heritage Tour",
+  "metaTitle": "Xi'an 14-Day Heritage Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Xi'an, China: round-trip flights, hotel, breakfast, transfers, and guided tours including Terracotta Army and Xi'an City Wall bike ride. Prices from $1974 per person (estimate).",
+  "highlights": [
+    "Terracotta Army",
+    "Xi'an City Wall bike ride",
+    "Muslim Quarter",
+    "Mount Huashan"
+  ],
+  "overview": "Spend 14 days discovering Xi'an, China — Semi-humid continental climate — hot summers (highs around 32-33°C) and cold, dry winters (highs around 6-7°C). March-May and September-November, for mild temperatures ideal for visiting outdoor sites like the Terracotta Army. This itinerary blends Terracotta Army, Xi'an City Wall bike ride, Muslim Quarter with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Terracotta Army, Xi'an City Wall bike ride, Muslim Quarter",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Xi'an",
+      "description": "Land at Xi'an Xianyang International Airport (XIY) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Terracotta Army — Thousands of life-sized clay soldiers guarding Emperor Qin's tomb, discovered in 1974. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Terracotta Army"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 2,
+      "title": "Xi'an: Xi'an City Wall bike ride & Big Wild Goose Pagoda",
+      "description": "Morning visit to Xi'an City Wall bike ride — Cycle the complete loop atop the best-preserved ancient city wall in China. In the afternoon, continue to Big Wild Goose Pagoda — Tang-dynasty Buddhist pagoda with an evening fountain and light show nearby. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Xi'an City Wall bike ride",
+        "Big Wild Goose Pagoda"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 3,
+      "title": "Xi'an: Huaqing Palace & Muslim Quarter",
+      "description": "Morning visit to Huaqing Palace — Imperial hot-spring retreat at the foot of Mount Li, near the Terracotta Army. In the afternoon, continue to Muslim Quarter — Historic Hui-Muslim neighborhood of food stalls and the Great Mosque. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Huaqing Palace",
+        "Muslim Quarter"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Mount Huashan",
+      "description": "Full-day excursion to Mount Huashan, a popular side trip from Xi'an. Return to Xi'an in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Mount Huashan",
+        "Free evening"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Shaanxi History Museum — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Shaanxi History Museum"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 6,
+      "title": "Xi'an: Great Mosque of Xi'an & Bell Tower and Drum Tower",
+      "description": "Morning visit to Great Mosque of Xi'an — Centuries-old mosque blending Chinese and Islamic architecture. In the afternoon, continue to Bell Tower and Drum Tower — Ming-dynasty towers at the city center, illuminated at night (exterior free, interior paid). Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Great Mosque of Xi'an",
+        "Bell Tower and Drum Tower"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Hukou Waterfall (further)",
+      "description": "Full-day excursion to Hukou Waterfall (further), a popular side trip from Xi'an. Return to Xi'an in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Hukou Waterfall (further)",
+        "Free evening"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 8,
+      "title": "Xi'an: Terracotta Army & Xi'an City Wall bike ride",
+      "description": "Morning visit to Terracotta Army — Thousands of life-sized clay soldiers guarding Emperor Qin's tomb, discovered in 1974. In the afternoon, continue to Xi'an City Wall bike ride — Cycle the complete loop atop the best-preserved ancient city wall in China. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Terracotta Army",
+        "Xi'an City Wall bike ride"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Hanyangling Mausoleum (lesser-visited imperial tomb) — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Hanyangling Mausoleum (lesser-visited imperial tomb)"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Famen Temple",
+      "description": "Full-day excursion to Famen Temple, a popular side trip from Xi'an. Return to Xi'an in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Famen Temple",
+        "Free evening"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 11,
+      "title": "Xi'an: Big Wild Goose Pagoda & Huaqing Palace",
+      "description": "Morning visit to Big Wild Goose Pagoda — Tang-dynasty Buddhist pagoda with an evening fountain and light show nearby. In the afternoon, continue to Huaqing Palace — Imperial hot-spring retreat at the foot of Mount Li, near the Terracotta Army. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Big Wild Goose Pagoda",
+        "Huaqing Palace"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 12,
+      "title": "Xi'an: Muslim Quarter & Great Mosque of Xi'an",
+      "description": "Morning visit to Muslim Quarter — Historic Hui-Muslim neighborhood of food stalls and the Great Mosque. In the afternoon, continue to Great Mosque of Xi'an — Centuries-old mosque blending Chinese and Islamic architecture. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Muslim Quarter",
+        "Great Mosque of Xi'an"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Huajue Alley off the main Muslim Quarter strip — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Huajue Alley off the main Muslim Quarter strip"
+      ],
+      "overnight": "Xi'an"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Bell Tower and Drum Tower or some souvenir shopping — before your private transfer to XIY for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Visit the Terracotta Army early morning to beat both crowds and tour buses.",
+    "Rent a bike to ride the complete 13.7km loop of the City Wall — a highlight for most visitors.",
+    "Eat your way through the Muslim Quarter for the best and most affordable local food.",
+    "Combine the Terracotta Army with nearby Huaqing Palace for a fuller half-day trip.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Insulated jacket and warm layers for cold weather",
+    "A VPN set up before arrival",
+    "Comfortable shoes for extensive walking and the City Wall bike ride",
+    "Layers for seasonal temperature swings"
+  ],
+  "thingsToDo": [
+    "Terracotta Army",
+    "Xi'an City Wall bike ride",
+    "Big Wild Goose Pagoda",
+    "Huaqing Palace",
+    "Muslim Quarter",
+    "Great Mosque of Xi'an",
+    "Bell Tower and Drum Tower",
+    "Full loop of the City Wall by bike (13.7km)",
+    "Mount Huashan day trip (dramatic cliff-edge hiking, further afield)",
+    "Hot air balloon over the Terracotta Army site (seasonal)",
+    "Terracotta Army museum",
+    "City Wall bike ride",
+    "Big Wild Goose Pagoda fountain show"
+  ],
+  "thingsToAvoid": [
+    "Visiting the Terracotta Army on a national holiday (especially Golden Week) — expect severe crowding.",
+    "Skipping a guide at the Terracotta Army — the historical context significantly enhances the visit.",
+    "Underestimating distances — the Terracotta Army is well outside the city center."
+  ],
+  "topRestaurants": [
+    "Muslim Quarter food stalls — Xi'an street food (roujiamo, biangbiang noodles) ($)",
+    "De Fa Chang — Dumpling banquet restaurant ($$)",
+    "Laosunjia Restaurant — Traditional Xi'an cuisine ($$)"
+  ],
+  "topCafes": [
+    "% Arabica Xi'an",
+    "Sculpting in Time Cafe"
+  ],
+  "shoppingAreas": [
+    "Muslim Quarter market street",
+    "Shuyuanmen Ancient Culture Street"
+  ],
+  "nightlife": [
+    "Big Wild Goose Pagoda fountain show",
+    "City Wall night cycling",
+    "Defu Lane bar street"
+  ],
+  "instagramSpots": [
+    "Terracotta Army rows of soldiers",
+    "City Wall at sunset",
+    "Muslim Quarter food stalls at night",
+    "Big Wild Goose Pagoda fountain show"
+  ],
+  "hiddenGems": [
+    "Shaanxi History Museum",
+    "Hanyangling Mausoleum (lesser-visited imperial tomb)",
+    "Huajue Alley off the main Muslim Quarter strip"
+  ],
+  "familyActivities": [
+    "Terracotta Army museum",
+    "City Wall bike ride",
+    "Big Wild Goose Pagoda fountain show"
+  ],
+  "adventureActivities": [
+    "Full loop of the City Wall by bike (13.7km)",
+    "Mount Huashan day trip (dramatic cliff-edge hiking, further afield)",
+    "Hot air balloon over the Terracotta Army site (seasonal)"
+  ],
+  "luxuryExperiences": [
+    "Private guided Terracotta Army and Huaqing Palace tour",
+    "Suite stay within the ancient City Wall district",
+    "Private calligraphy or dumpling-making class"
+  ],
+  "honeymoonExperiences": [
+    "Sunset bike ride along the City Wall",
+    "Evening fountain show at Big Wild Goose Pagoda",
+    "Muslim Quarter food tour together"
+  ],
+  "budgetExperiences": [
+    "Free wander through the Muslim Quarter",
+    "Bell Tower and Drum Tower exterior views",
+    "Big Wild Goose Pagoda fountain show (free to watch)"
+  ],
+  "estimatedDailyBudgetUSD": [
+    35,
+    75,
+    160,
+    380
+  ],
+  "safetyRating": 4.5,
+  "internetRating": 3.5,
+  "publicTransportRating": 4,
+  "walkingScore": 60,
+  "accessibilityRating": 3.5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 6,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 10,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 16,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "May",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Nov",
+      "highC": 12,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 7,
+      "crowd": "Low"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Xi'an City Wall International Marathon",
+      "timing": "October"
+    },
+    {
+      "name": "Chinese New Year lantern displays",
+      "timing": "January/February"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "110",
+    "ambulance": "120",
+    "fire": "119"
+  },
+  "localEtiquette": [
+    "A VPN arranged before arrival is essential for accessing blocked apps.",
+    "As one of China's ancient capitals, Xi'an locals take pride in the city's history — showing genuine interest is appreciated.",
+    "Most payments are cashless via WeChat Pay or Alipay; carry cash as backup."
+  ],
+  "localTransportGuide": "The Xi'an Metro covers major sites including the train station and city center; the Terracotta Army is a 1-1.5 hour trip by tour bus or metro-plus-bus from downtown. Renting a bike atop the City Wall is a beloved way to see the old city's layout from above.",
+  "bestTimeToVisit": "March-May and September-November, for mild temperatures ideal for visiting outdoor sites like the Terracotta Army.",
+  "weather": "Semi-humid continental climate — hot summers (highs around 32-33°C) and cold, dry winters (highs around 6-7°C).",
+  "visaInformation": "Most nationalities including the US, UK, EU, Canada, Australia, and India need a Chinese visa arranged in advance.",
+  "currency": "CNY",
+  "languages": [
+    "Mandarin"
+  ],
+  "timeZone": "CST (UTC+8)",
+  "averageFlightTime": "~10.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Xi'an Xianyang International Airport (XIY)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Xi'an?",
+      "answer": "Most nationalities including the US, UK, EU, Canada, Australia, and India need a Chinese visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Xi'an?",
+      "answer": "March-May and September-November, for mild temperatures ideal for visiting outdoor sites like the Terracotta Army. Semi-humid continental climate — hot summers (highs around 32-33°C) and cold, dry winters (highs around 6-7°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Xi'an safe for tourists?",
+      "answer": "Xi'an is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Xi'an?",
+      "answer": "The local currency is CNY. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "History",
+    "Culture",
+    "Bucket List",
+    "Food"
+  ],
+  "aiTags": [
+    "Xi'an",
+    "China",
+    "Xi'an, China",
+    "East Asia",
+    "Xi'an tour package",
+    "Xi'an vacation package",
+    "Xi'an holiday package",
+    "things to do in Xi'an",
+    "best time to visit Xi'an",
+    "Xi'an itinerary",
+    "14 day Xi'an itinerary",
+    "Xi'an flights and hotels",
+    "Xi'an all inclusive package",
+    "cheap Xi'an package",
+    "luxury Xi'an package",
+    "Xi'an honeymoon package",
+    "Xi'an family vacation",
+    "Xi'an solo trip",
+    "Xi'an group tour",
+    "Xi'an weekend getaway",
+    "Xi'an guided tour",
+    "XIY flights",
+    "Xi'an travel guide",
+    "book Xi'an trip online",
+    "Xi'an trip cost",
+    "Xi'an packages 14 days",
+    "Xi'an history",
+    "Xi'an culture",
+    "Xi'an bucket list",
+    "Xi'an food",
+    "Terracotta Army",
+    "Xi'an City Wall bike ride",
+    "Big Wild Goose Pagoda",
+    "Huaqing Palace",
+    "Muslim Quarter",
+    "Great Mosque of Xi'an",
+    "Bell Tower and Drum Tower",
+    "Muslim Quarter food stalls",
+    "De Fa Chang",
+    "Laosunjia Restaurant",
+    "Terracotta Army rows of soldiers",
+    "City Wall at sunset",
+    "Muslim Quarter food stalls at night",
+    "Big Wild Goose Pagoda fountain show",
+    "Shaanxi History Museum",
+    "Hanyangling Mausoleum (lesser-visited imperial tomb)",
+    "Huajue Alley off the main Muslim Quarter strip",
+    "China tourism",
+    "East Asia travel",
+    "international vacation packages"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Xi'an, China — Terracotta Army soldiers rows",
+      "keywords": [
+        "Xi'an",
+        "China",
+        "Terracotta Army soldiers rows",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Xi'an Terracotta Army soldiers rows",
+      "pexelsQuery": "Xi'an Terracotta Army soldiers rows",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Xi'an, China — Terracotta Army soldiers rows",
+      "keywords": [
+        "Xi'an",
+        "China",
+        "Terracotta Army soldiers rows",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Xi'an Terracotta Army soldiers rows",
+      "pexelsQuery": "Xi'an Terracotta Army soldiers rows",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Xi'an, China — Xi'an City Wall sunset",
+      "keywords": [
+        "Xi'an",
+        "China",
+        "Xi'an City Wall sunset",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Xi'an Xi'an City Wall sunset",
+      "pexelsQuery": "Xi'an Xi'an City Wall sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Xi'an, China — Muslim Quarter night food stalls",
+      "keywords": [
+        "Xi'an",
+        "China",
+        "Muslim Quarter night food stalls",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Xi'an Muslim Quarter night food stalls",
+      "pexelsQuery": "Xi'an Muslim Quarter night food stalls",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Xi'an, China — Terracotta Army soldiers rows",
+      "keywords": [
+        "Xi'an",
+        "China",
+        "Terracotta Army soldiers rows",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Xi'an Terracotta Army soldiers rows",
+      "pexelsQuery": "Xi'an Terracotta Army soldiers rows",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Xi'an, China — Xi'an City Wall sunset",
+      "keywords": [
+        "Xi'an",
+        "China",
+        "Xi'an City Wall sunset",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Xi'an Xi'an City Wall sunset",
+      "pexelsQuery": "Xi'an Xi'an City Wall sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Xi'an, China — Muslim Quarter night food stalls",
+      "keywords": [
+        "Xi'an",
+        "China",
+        "Muslim Quarter night food stalls",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Xi'an Muslim Quarter night food stalls",
+      "pexelsQuery": "Xi'an Muslim Quarter night food stalls",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Xi'an, China — Big Wild Goose Pagoda fountain",
+      "keywords": [
+        "Xi'an",
+        "China",
+        "Big Wild Goose Pagoda fountain",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Xi'an Big Wild Goose Pagoda fountain",
+      "pexelsQuery": "Xi'an Big Wild Goose Pagoda fountain",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Xi'an, China — Terracotta Army",
+      "keywords": [
+        "Xi'an",
+        "China",
+        "Terracotta Army",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Xi'an Terracotta Army",
+      "pexelsQuery": "Xi'an Terracotta Army",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Xi'an, China — Xi'an City Wall bike ride",
+      "keywords": [
+        "Xi'an",
+        "China",
+        "Xi'an City Wall bike ride",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Xi'an Xi'an City Wall bike ride",
+      "pexelsQuery": "Xi'an Xi'an City Wall bike ride",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Xi'an, China — Big Wild Goose Pagoda",
+      "keywords": [
+        "Xi'an",
+        "China",
+        "Big Wild Goose Pagoda",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Xi'an Big Wild Goose Pagoda",
+      "pexelsQuery": "Xi'an Big Wild Goose Pagoda",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Xi'an, China — Huaqing Palace",
+      "keywords": [
+        "Xi'an",
+        "China",
+        "Huaqing Palace",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Xi'an Huaqing Palace",
+      "pexelsQuery": "Xi'an Huaqing Palace",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-xian-14-1",
+      "author": "Nadia Tanaka",
+      "country": "Switzerland",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-01-23",
+      "title": "Adventure of a lifetime",
+      "body": "Xi'an is stunning and this package covered the essentials well, especially Great Mosque of Xi'an. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-xian-14-2",
+      "author": "Lucas Kim",
+      "country": "Germany",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-04-18",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Xi'an City Wall bike ride and Big Wild Goose Pagoda. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-xian-14-3",
+      "author": "Yuki Smith",
+      "country": "South Korea",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-01-02",
+      "title": "Highly recommend this package",
+      "body": "Huaqing Palace alone was worth the trip, but combined with Bell Tower and Drum Tower this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-4",
+      "author": "Ava Dubois",
+      "country": "Brazil",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-01-13",
+      "title": "Perfect for our honeymoon",
+      "body": "Muslim Quarter alone was worth the trip, but combined with Terracotta Army this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-5",
+      "author": "Marco Costa",
+      "country": "New Zealand",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-05",
+      "title": "Best vacation we've had",
+      "body": "We added a couple of optional activities beyond Muslim Quarter and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-6",
+      "author": "Lukas Cohen",
+      "country": "Singapore",
+      "rating": 4.6,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-19",
+      "title": "Great for families with kids",
+      "body": "Xi'an is stunning and this package covered the essentials well, especially Huaqing Palace. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-7",
+      "author": "Ethan Wang",
+      "country": "Spain",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-05-19",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Bell Tower and Drum Tower and Terracotta Army. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-8",
+      "author": "Tom Fernandez",
+      "country": "France",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-02-06",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Xi'an City Wall bike ride and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-9",
+      "author": "Mohammed Müller",
+      "country": "Germany",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-10",
+      "title": "Loved every moment",
+      "body": "Xi'an City Wall bike ride alone was worth the trip, but combined with Xi'an City Wall bike ride this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-10",
+      "author": "Ethan Novak",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-27",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Xi'an City Wall bike ride and Muslim Quarter. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-xian-14-11",
+      "author": "James Larsen",
+      "country": "Switzerland",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-02-21",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Xi'an was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Great Mosque of Xi'an was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-12",
+      "author": "Mia Garcia",
+      "country": "Switzerland",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-05-08",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Great Mosque of Xi'an and Bell Tower and Drum Tower. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-13",
+      "author": "Sarah Santos",
+      "country": "Australia",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-28",
+      "title": "Loved every moment",
+      "body": "Xi'an is stunning and this package covered the essentials well, especially Xi'an City Wall bike ride. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-14",
+      "author": "Mohammed Dubois",
+      "country": "Japan",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-05-25",
+      "title": "So many hidden gems included",
+      "body": "Huaqing Palace alone was worth the trip, but combined with Muslim Quarter this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-15",
+      "author": "Chen Silva",
+      "country": "India",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-01-19",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a family of 4 trip and it was well paced. Big Wild Goose Pagoda in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-16",
+      "author": "Lukas Larsen",
+      "country": "United States",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-03-29",
+      "title": "Beautiful destination, well organized",
+      "body": "Xi'an is stunning and this package covered the essentials well, especially Terracotta Army. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-17",
+      "author": "David Fernandez",
+      "country": "Mexico",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-10-12",
+      "title": "Adventure of a lifetime",
+      "body": "Xi'an is stunning and this package covered the essentials well, especially Bell Tower and Drum Tower. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-18",
+      "author": "Mia Garcia",
+      "country": "Netherlands",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-10",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Great Mosque of Xi'an and Xi'an City Wall bike ride. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-19",
+      "author": "Marco Smith",
+      "country": "Brazil",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-12-05",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Huaqing Palace and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-xian-14-20",
+      "author": "David Novak",
+      "country": "United States",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-08",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Xi'an is stunning and this package covered the essentials well, especially Terracotta Army. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.4,
+    "activities": 4.4,
+    "value": 4.4,
+    "cleanliness": 4.4,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Xi'an Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 8,
+      "neighborhood": "Muslim Quarter market street"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Xi'an Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 14,
+      "neighborhood": "Shuyuanmen Ancient Culture Street"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Xi'an Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 26,
+      "neighborhood": "Big Wild Goose Pagoda fountain show"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Xi'an Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 34,
+      "neighborhood": "City Wall night cycling"
+    },
+    {
+      "tier": "Resort",
+      "name": "Xi'an Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 80,
+      "neighborhood": "Defu Lane bar street"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Xi'an Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "% Arabica Xi'an"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Xi'an Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 190,
+      "neighborhood": "Sculpting in Time Cafe"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        919,
+        1459
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        893,
+        1419
+      ],
+      "estimatedFlightHours": 16,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        672,
+        1068
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        674,
+        1071
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        641,
+        1018
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        655,
+        1041
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        742,
+        1179
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        648,
+        1029
+      ],
+      "estimatedFlightHours": 11.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        653,
+        1037
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        711,
+        1129
+      ],
+      "estimatedFlightHours": 12.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        830,
+        1319
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        298,
+        473
+      ],
+      "estimatedFlightHours": 4.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        278,
+        441
+      ],
+      "estimatedFlightHours": 4.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        196,
+        312
+      ],
+      "estimatedFlightHours": 3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        344,
+        547
+      ],
+      "estimatedFlightHours": 5.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        252,
+        401
+      ],
+      "estimatedFlightHours": 4.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        333,
+        529
+      ],
+      "estimatedFlightHours": 5.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        403,
+        640
+      ],
+      "estimatedFlightHours": 6.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        258,
+        409
+      ],
+      "estimatedFlightHours": 4.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        266,
+        423
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        454,
+        721
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        512,
+        813
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        478,
+        759
+      ],
+      "estimatedFlightHours": 8.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        488,
+        775
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        860,
+        1366
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1331,
+        2114
+      ],
+      "estimatedFlightHours": 24.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Xi'an Xianyang International Airport (XIY)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1040,
+        1652
+      ],
+      "estimatedFlightHours": 18.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Terracotta Army",
+    "Xi'an City Wall bike ride",
+    "Big Wild Goose Pagoda",
+    "Huaqing Palace",
+    "Muslim Quarter",
+    "Great Mosque of Xi'an",
+    "Bell Tower and Drum Tower",
+    "Mount Huashan",
+    "Hukou Waterfall (further)",
+    "Famen Temple",
+    "Shaanxi History Museum",
+    "Terracotta Army Museum",
+    "Xi'an Museum",
+    "Xingqing Palace Park",
+    "Tang Paradise",
+    "Terracotta Army rows of soldiers",
+    "City Wall at sunset",
+    "Muslim Quarter food stalls at night",
+    "Big Wild Goose Pagoda fountain show"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Terracotta Army",
+      "priceUSD": 17
+    },
+    {
+      "name": "Xi'an City Wall bike ride",
+      "priceUSD": 8
+    },
+    {
+      "name": "Big Wild Goose Pagoda",
+      "priceUSD": 4
+    },
+    {
+      "name": "Huaqing Palace",
+      "priceUSD": 14
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Muslim Quarter",
+    "Great Mosque of Xi'an",
+    "Bell Tower and Drum Tower"
+  ],
+  "museums": [
+    "Shaanxi History Museum",
+    "Terracotta Army Museum",
+    "Xi'an Museum"
+  ],
+  "parks": [
+    "Xingqing Palace Park",
+    "Tang Paradise"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Mount Huashan",
+    "Hukou Waterfall (further)",
+    "Famen Temple"
+  ],
+  "fromPriceUSD": 1974,
+  "seo": {
+    "title": "Xi'an 14-Day Heritage Tour | Flights, Hotels & Tours Included",
+    "slug": "xian-14-day-package",
+    "keywords": [
+      "Xi'an",
+      "China",
+      "Xi'an, China",
+      "East Asia",
+      "Xi'an tour package",
+      "Xi'an vacation package",
+      "Xi'an holiday package",
+      "things to do in Xi'an",
+      "best time to visit Xi'an",
+      "Xi'an itinerary",
+      "14 day Xi'an itinerary",
+      "Xi'an flights and hotels",
+      "Xi'an all inclusive package",
+      "cheap Xi'an package",
+      "luxury Xi'an package"
+    ],
+    "canonicalUrl": "/packages/xian-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Xi'an Package",
+        "url": "/packages/xian-10-day-package"
+      },
+      {
+        "title": "7-Day Xi'an Package",
+        "url": "/packages/xian-7-day-package"
+      },
+      {
+        "title": "Paris 14-Day City Break",
+        "url": "/packages/paris-14-day-package"
+      },
+      {
+        "title": "London 14-Day City Break",
+        "url": "/packages/london-14-day-package"
+      },
+      {
+        "title": "Rome 14-Day City Break",
+        "url": "/packages/rome-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Xi'an — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xi'an"
+      },
+      {
+        "title": "Xi'an — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Xi'an"
+      }
+    ]
+  }
+}

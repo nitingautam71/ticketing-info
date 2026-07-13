@@ -547,7 +547,7 @@ export function generatePackage(d: DestinationFacts, durationDays: number): Trav
       slug,
       keywords: [],
       canonicalUrl: `/packages/${slug}`,
-      internalLinks: [], // filled in by scripts/generate-packages.ts once all 300 packages exist
+      internalLinks: [], // filled in by scripts/generate-packages.ts once the full package set exists
       externalLinks: buildExternalLinks(d),
     },
   };

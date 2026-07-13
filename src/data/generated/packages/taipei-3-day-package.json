@@ -1,0 +1,1517 @@
+{
+  "id": "PKG-taipei-3D",
+  "slug": "taipei-3-day-package",
+  "destinationSlug": "taipei",
+  "destinationName": "Taipei",
+  "country": "Taiwan",
+  "region": "East Asia",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Taipei 3-Day City Break",
+  "metaTitle": "Taipei 3-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Taipei, Taiwan: round-trip flights, hotel, breakfast, transfers, and guided tours including Taipei 101 Observatory and National Palace Museum. Prices from $1521 per person (estimate).",
+  "highlights": [
+    "Taipei 101 Observatory",
+    "National Palace Museum",
+    "Chiang Kai-shek Memorial Hall",
+    "Jiufen and Shifen (Pingxi Line)"
+  ],
+  "overview": "Spend 3 days discovering Taipei, Taiwan — Subtropical climate — hot, humid summers (highs around 33-34°C) with typhoon risk June-October, and mild, occasionally rainy winters (highs around 18-19°C). October to December, and March to April — mild, dry weather avoiding both summer heat/typhoons and winter chill. This itinerary blends Taipei 101 Observatory, National Palace Museum, Chiang Kai-shek Memorial Hall with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Taipei 101 Observatory, National Palace Museum, Chiang Kai-shek Memorial Hall",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Taipei",
+      "description": "Land at Taiwan Taoyuan International Airport (TPE) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Taipei 101 Observatory — Observation decks in what was once the world's tallest building. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Taipei 101 Observatory"
+      ],
+      "overnight": "Taipei"
+    },
+    {
+      "day": 2,
+      "title": "Taipei: National Palace Museum & Maokong Gondola",
+      "description": "Morning visit to National Palace Museum — One of the world's largest collections of Chinese imperial artifacts. In the afternoon, continue to Maokong Gondola — Cable car ride over tea plantations in the hills south of the city. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "National Palace Museum",
+        "Maokong Gondola"
+      ],
+      "overnight": "Taipei"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Beitou Hot Springs or some souvenir shopping — before your private transfer to TPE for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Get an EasyCard on arrival — it works for the MRT, buses, convenience stores, and even some attractions.",
+    "Visit Shilin or Raohe night market on an empty stomach and try a wide range of small dishes.",
+    "Hike Elephant Mountain right before sunset for the best photo of Taipei 101 lit up.",
+    "Check typhoon forecasts if visiting June-October, as they can disrupt flights and outdoor plans.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Layers for variable weather across seasons",
+    "A light rain jacket, especially in typhoon season (June-October)",
+    "Comfortable shoes for night markets and hiking trails"
+  ],
+  "thingsToDo": [
+    "Taipei 101 Observatory",
+    "National Palace Museum",
+    "Maokong Gondola",
+    "Beitou Hot Springs",
+    "Chiang Kai-shek Memorial Hall",
+    "Longshan Temple",
+    "Ximending",
+    "Dadaocheng old street",
+    "Xiangshan (Elephant Mountain) sunset hike overlooking Taipei 101",
+    "Yangmingshan National Park hiking",
+    "Cycling the Riverside Bikeway",
+    "Taipei Zoo",
+    "National Taiwan Science Education Center",
+    "Maokong Gondola ride"
+  ],
+  "thingsToAvoid": [
+    "Standing in MRT queue-jump positions — locals take marked floor queuing seriously.",
+    "Tipping at restaurants — it's not customary and can confuse staff.",
+    "Scheduling an outdoor-heavy itinerary during typhoon season without a backup plan."
+  ],
+  "topRestaurants": [
+    "Din Tai Fung (original branch) — Xiaolongbao dumplings ($$)",
+    "Raw — Modern Taiwanese fine dining ($$$$)",
+    "Shilin Night Market stalls — Taiwanese street food ($)",
+    "Yongkang Beef Noodle — Beef noodle soup institution ($)"
+  ],
+  "topCafes": [
+    "Fujin Tree 353 Cafe",
+    "Simple Kaffa"
+  ],
+  "shoppingAreas": [
+    "Ximending",
+    "Taipei 101 Mall",
+    "Dihua Street market"
+  ],
+  "nightlife": [
+    "Shilin Night Market",
+    "Raohe Street Night Market",
+    "Ximending bar scene"
+  ],
+  "instagramSpots": [
+    "Taipei 101 skyline at night",
+    "Chiang Kai-shek Memorial Hall plaza",
+    "Maokong Gondola over tea fields",
+    "Longshan Temple incense smoke"
+  ],
+  "hiddenGems": [
+    "Jiufen old mountain town (day trip)",
+    "Yangmingshan National Park hot springs and hiking",
+    "Bopiliao Historic Block"
+  ],
+  "familyActivities": [
+    "Taipei Zoo",
+    "National Taiwan Science Education Center",
+    "Maokong Gondola ride"
+  ],
+  "adventureActivities": [
+    "Xiangshan (Elephant Mountain) sunset hike overlooking Taipei 101",
+    "Yangmingshan National Park hiking",
+    "Cycling the Riverside Bikeway"
+  ],
+  "luxuryExperiences": [
+    "Private tea-tasting tour in Maokong",
+    "Suite stay with a Taipei 101 view",
+    "Fine dining tasting menu at Raw"
+  ],
+  "honeymoonExperiences": [
+    "Sunset from Xiangshan (Elephant Mountain) overlooking Taipei 101",
+    "Private Beitou hot spring retreat",
+    "Evening Maokong Gondola tea date"
+  ],
+  "budgetExperiences": [
+    "Free Chiang Kai-shek Memorial Hall ceremony",
+    "Night market street food crawl",
+    "Elephant Mountain sunset hike (free)"
+  ],
+  "estimatedDailyBudgetUSD": [
+    45,
+    90,
+    190,
+    440
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 75,
+  "accessibilityRating": 4.5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Feb",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 22,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 26,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 34,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 34,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 24,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 20,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Taipei Lantern Festival",
+      "timing": "February/March"
+    },
+    {
+      "name": "Dragon Boat Festival",
+      "timing": "May/June"
+    },
+    {
+      "name": "Taiwan Lantern Festival fireworks at Taipei 101",
+      "timing": "New Year's Eve"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "110",
+    "ambulance": "119",
+    "fire": "119"
+  },
+  "localEtiquette": [
+    "Queuing is taken seriously, especially for the MRT, where marked floor positions indicate boarding lines.",
+    "Remove shoes when entering someone's home.",
+    "Tipping is not customary and can even cause confusion.",
+    "Night market etiquette: order at the stall, pay, then step aside for the next customer."
+  ],
+  "localTransportGuide": "The Taipei MRT is clean, fast, punctual, and covers the entire city — an EasyCard (contactless transit card) works across MRT, buses, and even convenience stores. Taipei is consistently ranked among the world's most livable and easy-to-navigate cities for visitors.",
+  "bestTimeToVisit": "October to December, and March to April — mild, dry weather avoiding both summer heat/typhoons and winter chill.",
+  "weather": "Subtropical climate — hot, humid summers (highs around 33-34°C) with typhoon risk June-October, and mild, occasionally rainy winters (highs around 18-19°C).",
+  "visaInformation": "Taiwan is visa-free for stays up to 90 days for most Western passport holders including the US, UK, EU, Canada, and Australia. Indian nationals need a visa or can apply for online authorization if holding a valid visa from certain other countries.",
+  "currency": "TWD",
+  "languages": [
+    "Mandarin"
+  ],
+  "timeZone": "CST (UTC+8)",
+  "averageFlightTime": "~11h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Taiwan Taoyuan International Airport (TPE)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Taipei?",
+      "answer": "Taiwan is visa-free for stays up to 90 days for most Western passport holders including the US, UK, EU, Canada, and Australia. Indian nationals need a visa or can apply for online authorization if holding a valid visa from certain other countries."
+    },
+    {
+      "question": "What is the best time to visit Taipei?",
+      "answer": "October to December, and March to April — mild, dry weather avoiding both summer heat/typhoons and winter chill. Subtropical climate — hot, humid summers (highs around 33-34°C) with typhoon risk June-October, and mild, occasionally rainy winters (highs around 18-19°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Taipei safe for tourists?",
+      "answer": "Taipei is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Taipei?",
+      "answer": "The local currency is TWD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Food",
+    "Culture",
+    "Nightlife",
+    "Nature",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Taipei",
+    "Taiwan",
+    "Taipei, Taiwan",
+    "East Asia",
+    "Taipei tour package",
+    "Taipei vacation package",
+    "Taipei holiday package",
+    "things to do in Taipei",
+    "best time to visit Taipei",
+    "Taipei itinerary",
+    "3 day Taipei itinerary",
+    "Taipei flights and hotels",
+    "Taipei all inclusive package",
+    "cheap Taipei package",
+    "luxury Taipei package",
+    "Taipei honeymoon package",
+    "Taipei family vacation",
+    "Taipei solo trip",
+    "Taipei group tour",
+    "Taipei weekend getaway",
+    "Taipei guided tour",
+    "TPE flights",
+    "Taipei travel guide",
+    "book Taipei trip online",
+    "Taipei trip cost",
+    "Taipei packages 3 days",
+    "Taipei city break",
+    "Taipei food",
+    "Taipei culture",
+    "Taipei nightlife",
+    "Taipei nature",
+    "Taipei 101 Observatory",
+    "National Palace Museum",
+    "Maokong Gondola",
+    "Beitou Hot Springs",
+    "Chiang Kai-shek Memorial Hall",
+    "Longshan Temple",
+    "Ximending",
+    "Dadaocheng old street",
+    "Din Tai Fung (original branch)",
+    "Raw",
+    "Shilin Night Market stalls",
+    "Yongkang Beef Noodle",
+    "Taipei 101 skyline at night",
+    "Chiang Kai-shek Memorial Hall plaza",
+    "Maokong Gondola over tea fields",
+    "Longshan Temple incense smoke",
+    "Jiufen old mountain town (day trip)",
+    "Yangmingshan National Park hot springs and hiking",
+    "Bopiliao Historic Block"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Taipei, Taiwan — Taipei 101 night skyline",
+      "keywords": [
+        "Taipei",
+        "Taiwan",
+        "Taipei 101 night skyline",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Taipei Taipei 101 night skyline",
+      "pexelsQuery": "Taipei Taipei 101 night skyline",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Taipei, Taiwan — Taipei 101 night skyline",
+      "keywords": [
+        "Taipei",
+        "Taiwan",
+        "Taipei 101 night skyline",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Taipei Taipei 101 night skyline",
+      "pexelsQuery": "Taipei Taipei 101 night skyline",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Taipei, Taiwan — Elephant Mountain sunset view",
+      "keywords": [
+        "Taipei",
+        "Taiwan",
+        "Elephant Mountain sunset view",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Taipei Elephant Mountain sunset view",
+      "pexelsQuery": "Taipei Elephant Mountain sunset view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Taipei, Taiwan — Shilin Night Market",
+      "keywords": [
+        "Taipei",
+        "Taiwan",
+        "Shilin Night Market",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Taipei Shilin Night Market",
+      "pexelsQuery": "Taipei Shilin Night Market",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Taipei, Taiwan — Taipei 101 night skyline",
+      "keywords": [
+        "Taipei",
+        "Taiwan",
+        "Taipei 101 night skyline",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Taipei Taipei 101 night skyline",
+      "pexelsQuery": "Taipei Taipei 101 night skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Taipei, Taiwan — Elephant Mountain sunset view",
+      "keywords": [
+        "Taipei",
+        "Taiwan",
+        "Elephant Mountain sunset view",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Taipei Elephant Mountain sunset view",
+      "pexelsQuery": "Taipei Elephant Mountain sunset view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Taipei, Taiwan — Shilin Night Market",
+      "keywords": [
+        "Taipei",
+        "Taiwan",
+        "Shilin Night Market",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Taipei Shilin Night Market",
+      "pexelsQuery": "Taipei Shilin Night Market",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Taipei, Taiwan — Chiang Kai-shek Memorial Hall",
+      "keywords": [
+        "Taipei",
+        "Taiwan",
+        "Chiang Kai-shek Memorial Hall",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Taipei Chiang Kai-shek Memorial Hall",
+      "pexelsQuery": "Taipei Chiang Kai-shek Memorial Hall",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Taipei, Taiwan — Taipei 101 Observatory",
+      "keywords": [
+        "Taipei",
+        "Taiwan",
+        "Taipei 101 Observatory",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Taipei Taipei 101 Observatory",
+      "pexelsQuery": "Taipei Taipei 101 Observatory",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Taipei, Taiwan — National Palace Museum",
+      "keywords": [
+        "Taipei",
+        "Taiwan",
+        "National Palace Museum",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Taipei National Palace Museum",
+      "pexelsQuery": "Taipei National Palace Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Taipei, Taiwan — Maokong Gondola",
+      "keywords": [
+        "Taipei",
+        "Taiwan",
+        "Maokong Gondola",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Taipei Maokong Gondola",
+      "pexelsQuery": "Taipei Maokong Gondola",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Taipei, Taiwan — Beitou Hot Springs",
+      "keywords": [
+        "Taipei",
+        "Taiwan",
+        "Beitou Hot Springs",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Taipei Beitou Hot Springs",
+      "pexelsQuery": "Taipei Beitou Hot Springs",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-taipei-3-1",
+      "author": "Yuki Tanaka",
+      "country": "France",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-01",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Maokong Gondola alone was worth the trip, but combined with Ximending this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-taipei-3-2",
+      "author": "Yuki Costa",
+      "country": "Mexico",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-10",
+      "title": "Smooth from start to finish",
+      "body": "Dadaocheng old street alone was worth the trip, but combined with Dadaocheng old street this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-3",
+      "author": "Sofia Khan",
+      "country": "South Korea",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-12",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a family of 4 trip and it was well paced. Beitou Hot Springs in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-4",
+      "author": "David Müller",
+      "country": "Spain",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-22",
+      "title": "Consultant made it effortless",
+      "body": "Taipei is stunning and this package covered the essentials well, especially Dadaocheng old street. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-5",
+      "author": "Tom Sharma",
+      "country": "New Zealand",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-02-25",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Longshan Temple and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-taipei-3-6",
+      "author": "Mohammed Müller",
+      "country": "Mexico",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-12-27",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Ximending alone was worth the trip, but combined with National Palace Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-7",
+      "author": "Isabella Garcia",
+      "country": "Netherlands",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-10",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Longshan Temple and Beitou Hot Springs. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-8",
+      "author": "Elena Rossi",
+      "country": "United Kingdom",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-10-24",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Taipei 101 Observatory and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-9",
+      "author": "Isabella Kowalski",
+      "country": "Singapore",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-27",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Beitou Hot Springs and Taipei 101 Observatory. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-10",
+      "author": "Daniel Dubois",
+      "country": "Australia",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-01",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to National Palace Museum and Maokong Gondola. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-11",
+      "author": "Emma Kowalski",
+      "country": "Italy",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-08-22",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Taipei was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Dadaocheng old street was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-12",
+      "author": "Hiroshi Müller",
+      "country": "Canada",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-05-28",
+      "title": "Smooth from start to finish",
+      "body": "Taipei 101 Observatory alone was worth the trip, but combined with Beitou Hot Springs this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-13",
+      "author": "Olivia Wang",
+      "country": "UAE",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-04-27",
+      "title": "Worth every penny",
+      "body": "Our trip to Taipei was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Beitou Hot Springs was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-14",
+      "author": "Tom Tanaka",
+      "country": "India",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-07-25",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Maokong Gondola and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-15",
+      "author": "Daniel Kim",
+      "country": "Canada",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-22",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to National Palace Museum and National Palace Museum. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-16",
+      "author": "Grace Sharma",
+      "country": "Spain",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-05-12",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Dadaocheng old street and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-17",
+      "author": "Sarah van Dijk",
+      "country": "Switzerland",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-30",
+      "title": "Exceeded our expectations",
+      "body": "Taipei is stunning and this package covered the essentials well, especially Ximending. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-18",
+      "author": "Wei Andersen",
+      "country": "Australia",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-09",
+      "title": "Great value for money",
+      "body": "Booked this as a couple trip and it was well paced. National Palace Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-19",
+      "author": "Yuki Ibrahim",
+      "country": "United States",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-26",
+      "title": "Best vacation we've had",
+      "body": "Taipei 101 Observatory alone was worth the trip, but combined with Ximending this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-taipei-3-20",
+      "author": "Ava Khan",
+      "country": "Germany",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-10-14",
+      "title": "Five stars, will return",
+      "body": "National Palace Museum alone was worth the trip, but combined with Longshan Temple this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.4,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Taipei Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 10,
+      "neighborhood": "Ximending"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Taipei Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Taipei 101 Mall"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Taipei Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 31,
+      "neighborhood": "Dihua Street market"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Taipei Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 41,
+      "neighborhood": "Shilin Night Market"
+    },
+    {
+      "tier": "Resort",
+      "name": "Taipei Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 95,
+      "neighborhood": "Raohe Street Night Market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Taipei Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 185,
+      "neighborhood": "Ximending bar scene"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Taipei Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 220,
+      "neighborhood": "Fujin Tree 353 Cafe"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        982,
+        1559
+      ],
+      "estimatedFlightHours": 17.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        949,
+        1508
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        784,
+        1245
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        787,
+        1250
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        754,
+        1197
+      ],
+      "estimatedFlightHours": 13.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        771,
+        1224
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        857,
+        1361
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        760,
+        1207
+      ],
+      "estimatedFlightHours": 13.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        767,
+        1218
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        601,
+        954
+      ],
+      "estimatedFlightHours": 10.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        716,
+        1137
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        394,
+        626
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        228,
+        362
+      ],
+      "estimatedFlightHours": 3.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        184,
+        292
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        311,
+        494
+      ],
+      "estimatedFlightHours": 5.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        259,
+        412
+      ],
+      "estimatedFlightHours": 4.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        310,
+        493
+      ],
+      "estimatedFlightHours": 5.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        353,
+        560
+      ],
+      "estimatedFlightHours": 5.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        161,
+        255
+      ],
+      "estimatedFlightHours": 2.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        238,
+        378
+      ],
+      "estimatedFlightHours": 3.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        553,
+        879
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        615,
+        976
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        580,
+        921
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        595,
+        945
+      ],
+      "estimatedFlightHours": 10.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        910,
+        1445
+      ],
+      "estimatedFlightHours": 16.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1436,
+        2280
+      ],
+      "estimatedFlightHours": 26.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Taiwan Taoyuan International Airport (TPE)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1045,
+        1659
+      ],
+      "estimatedFlightHours": 18.9,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Taipei 101 Observatory",
+    "National Palace Museum",
+    "Maokong Gondola",
+    "Beitou Hot Springs",
+    "Chiang Kai-shek Memorial Hall",
+    "Longshan Temple",
+    "Ximending",
+    "Dadaocheng old street",
+    "Jiufen and Shifen (Pingxi Line)",
+    "Yangmingshan National Park",
+    "Yehliu Geopark",
+    "Taipei Fine Arts Museum",
+    "National Taiwan Museum",
+    "Daan Forest Park",
+    "Elephant Mountain (Xiangshan)",
+    "Taipei 101 skyline at night",
+    "Chiang Kai-shek Memorial Hall plaza",
+    "Maokong Gondola over tea fields",
+    "Longshan Temple incense smoke"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Taipei 101 Observatory",
+      "priceUSD": 20
+    },
+    {
+      "name": "National Palace Museum",
+      "priceUSD": 10
+    },
+    {
+      "name": "Maokong Gondola",
+      "priceUSD": 6
+    },
+    {
+      "name": "Beitou Hot Springs",
+      "priceUSD": 8
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Chiang Kai-shek Memorial Hall",
+    "Longshan Temple",
+    "Ximending",
+    "Dadaocheng old street"
+  ],
+  "museums": [
+    "National Palace Museum",
+    "Taipei Fine Arts Museum",
+    "National Taiwan Museum"
+  ],
+  "parks": [
+    "Yangmingshan National Park",
+    "Daan Forest Park",
+    "Elephant Mountain (Xiangshan)"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Jiufen and Shifen (Pingxi Line)",
+    "Yangmingshan National Park",
+    "Yehliu Geopark"
+  ],
+  "fromPriceUSD": 1521,
+  "seo": {
+    "title": "Taipei 3-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "taipei-3-day-package",
+    "keywords": [
+      "Taipei",
+      "Taiwan",
+      "Taipei, Taiwan",
+      "East Asia",
+      "Taipei tour package",
+      "Taipei vacation package",
+      "Taipei holiday package",
+      "things to do in Taipei",
+      "best time to visit Taipei",
+      "Taipei itinerary",
+      "3 day Taipei itinerary",
+      "Taipei flights and hotels",
+      "Taipei all inclusive package",
+      "cheap Taipei package",
+      "luxury Taipei package"
+    ],
+    "canonicalUrl": "/packages/taipei-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Taipei Package",
+        "url": "/packages/taipei-2-day-package"
+      },
+      {
+        "title": "5-Day Taipei Package",
+        "url": "/packages/taipei-5-day-package"
+      },
+      {
+        "title": "London 3-Day City Break",
+        "url": "/packages/london-3-day-package"
+      },
+      {
+        "title": "Barcelona 3-Day City Break",
+        "url": "/packages/barcelona-3-day-package"
+      },
+      {
+        "title": "Lisbon 3-Day City Break",
+        "url": "/packages/lisbon-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Taipei — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Taipei"
+      },
+      {
+        "title": "Taipei — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Taipei"
+      }
+    ]
+  }
+}

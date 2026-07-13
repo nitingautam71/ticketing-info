@@ -1,0 +1,1702 @@
+{
+  "id": "PKG-seattle-10D",
+  "slug": "seattle-10-day-package",
+  "destinationSlug": "seattle",
+  "destinationName": "Seattle",
+  "country": "United States",
+  "region": "Washington",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Seattle 10-Day City Break",
+  "metaTitle": "Seattle 10-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Seattle, United States: round-trip flights, hotel, breakfast, transfers, and guided tours including Space Needle and Chihuly Garden and Glass. Prices from $1892 per person (estimate).",
+  "highlights": [
+    "Space Needle",
+    "Chihuly Garden and Glass",
+    "Pike Place Market",
+    "Mount Rainier National Park"
+  ],
+  "overview": "Spend 10 days discovering Seattle, United States — Temperate marine climate with mild, gray, wet winters (highs around 8°C, frequent drizzle) and pleasantly dry, mild summers (highs 22-24°C, rarely humid). June to September offers the driest, sunniest weather with long daylight hours; late September into October brings fall colors with thinner crowds. This itinerary blends Space Needle, Chihuly Garden and Glass, Pike Place Market with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Space Needle, Chihuly Garden and Glass, Pike Place Market",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Seattle",
+      "description": "Land at Seattle-Tacoma International Airport (SEA) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Space Needle — Iconic 1962 World's Fair tower with rotating glass floor observation deck. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Space Needle"
+      ],
+      "overnight": "Seattle"
+    },
+    {
+      "day": 2,
+      "title": "Seattle: Chihuly Garden and Glass & Museum of Pop Culture (MoPOP)",
+      "description": "Morning visit to Chihuly Garden and Glass — Dale Chihuly blown-glass art installations and garden. In the afternoon, continue to Museum of Pop Culture (MoPOP) — Frank Gehry-designed music, sci-fi and pop culture museum. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Chihuly Garden and Glass",
+        "Museum of Pop Culture (MoPOP)"
+      ],
+      "overnight": "Seattle"
+    },
+    {
+      "day": 3,
+      "title": "Seattle: Pacific Science Center & Seattle Aquarium",
+      "description": "Morning visit to Pacific Science Center — Hands-on science exhibits, IMAX and planetarium. In the afternoon, continue to Seattle Aquarium — Puget Sound marine life on the downtown waterfront. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Pacific Science Center",
+        "Seattle Aquarium"
+      ],
+      "overnight": "Seattle"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Mount Rainier National Park",
+      "description": "Full-day excursion to Mount Rainier National Park, a popular side trip from Seattle. Return to Seattle in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Mount Rainier National Park",
+        "Free evening"
+      ],
+      "overnight": "Seattle"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Ballard Locks fish ladder window — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Ballard Locks fish ladder window"
+      ],
+      "overnight": "Seattle"
+    },
+    {
+      "day": 6,
+      "title": "Seattle: Woodland Park Zoo & Bill Speidel's Underground Tour",
+      "description": "Morning visit to Woodland Park Zoo — Large zoo known for naturalistic habitat exhibits. In the afternoon, continue to Bill Speidel's Underground Tour — Guided walk through Pioneer Square's buried 19th-century streets. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Woodland Park Zoo",
+        "Bill Speidel's Underground Tour"
+      ],
+      "overnight": "Seattle"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Snoqualmie Falls",
+      "description": "Full-day excursion to Snoqualmie Falls, a popular side trip from Seattle. Return to Seattle in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Snoqualmie Falls",
+        "Free evening"
+      ],
+      "overnight": "Seattle"
+    },
+    {
+      "day": 8,
+      "title": "Seattle: Argosy Cruises Harbor Tour & Museum of Flight",
+      "description": "Morning visit to Argosy Cruises Harbor Tour — Narrated boat tour of Elliott Bay and the working port. In the afternoon, continue to Museum of Flight — One of the world's largest air and space museums, near Boeing Field. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Argosy Cruises Harbor Tour",
+        "Museum of Flight"
+      ],
+      "overnight": "Seattle"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Discovery Park West Point Lighthouse — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Discovery Park West Point Lighthouse"
+      ],
+      "overnight": "Seattle"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Seattle Great Wheel or some souvenir shopping — before your private transfer to SEA for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Buy a Seattle CityPASS if visiting the Space Needle, aquarium and MoPOP to save on combined entry.",
+    "Visit Pike Place Market before 9am to see vendors setting up without the midday crowds.",
+    "Book Chihuly Garden and Glass and Space Needle combo tickets online in advance, especially in summer.",
+    "A Mount Rainier day trip needs an early start — the Paradise parking area fills by mid-morning in summer.",
+    "Skip the tourist trap \"original Starbucks\" line and try a local roaster like Victrola or Espresso Vivace instead.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "A waterproof shell jacket rather than an umbrella (locals rarely use umbrellas)",
+    "Layers for a day that can swing from drizzle to sun",
+    "Comfortable shoes for steep hills",
+    "A warm layer even in summer evenings near the water"
+  ],
+  "thingsToDo": [
+    "Space Needle",
+    "Chihuly Garden and Glass",
+    "Museum of Pop Culture (MoPOP)",
+    "Pacific Science Center",
+    "Seattle Aquarium",
+    "Woodland Park Zoo",
+    "Bill Speidel's Underground Tour",
+    "Argosy Cruises Harbor Tour",
+    "Museum of Flight",
+    "Seattle Great Wheel",
+    "Seattle Art Museum (SAM)",
+    "Pike Place Market",
+    "Kerry Park",
+    "Gas Works Park",
+    "Hiram M. Chittenden (Ballard) Locks",
+    "Fremont Troll",
+    "Discovery Park",
+    "Olympic Sculpture Park",
+    "Volunteer Park",
+    "Waterfront Park"
+  ],
+  "thingsToAvoid": [
+    "Jaywalking downtown — Seattle police do issue tickets, unlike many US cities.",
+    "Driving on I-5 or SR-520 during weekday rush hour (7-9am, 4-6:30pm) — traffic backs up severely.",
+    "Leaving valuables visible in parked cars near Pike Place or Pioneer Square — car break-ins are common.",
+    "Assuming it always rains — summer is genuinely dry, so pack accordingly rather than over-packing rain gear.",
+    "Walking Pioneer Square and parts of downtown alone late at night — stick to well-lit, busier streets."
+  ],
+  "topRestaurants": [
+    "Pike Place Chowder — Seafood ($$)",
+    "The Walrus and the Carpenter — Oyster Bar ($$$)",
+    "Canlis — Fine Dining Pacific Northwest ($$$$)",
+    "Paseo — Caribbean-Cuban Sandwiches ($)",
+    "Salumi Artisan Cured Meats — Italian Deli ($)",
+    "Dick's Drive-In — Classic Burgers ($)",
+    "Matt's in the Market — Seasonal Seafood ($$$)",
+    "Din Tai Fung — Taiwanese ($$)",
+    "Beecher's Handmade Cheese — American Deli ($)",
+    "Toulouse Petit — Cajun-Creole ($$)"
+  ],
+  "topCafes": [
+    "Original Starbucks (Pike Place)",
+    "Storyville Coffee",
+    "Victrola Coffee Roasters",
+    "Espresso Vivace",
+    "Milstead & Co.",
+    "Zeitgeist Coffee"
+  ],
+  "shoppingAreas": [
+    "Pike Place Market stalls",
+    "University Village",
+    "Ballard Avenue boutiques",
+    "Westlake Center",
+    "Fremont Sunday Market",
+    "Pacific Place"
+  ],
+  "nightlife": [
+    "Pioneer Square bar crawl",
+    "Capitol Hill nightlife strip",
+    "The Crocodile",
+    "Nectar Lounge",
+    "Rob Roy cocktail bar",
+    "Unicorn/Narwhal"
+  ],
+  "instagramSpots": [
+    "Kerry Park skyline view",
+    "Fremont Troll",
+    "Pike Place Market gum wall",
+    "Gas Works Park sunset",
+    "Chihuly Garden and Glass",
+    "Alki Beach boardwalk"
+  ],
+  "hiddenGems": [
+    "Ballard Locks fish ladder window",
+    "Discovery Park West Point Lighthouse",
+    "Volunteer Park Conservatory",
+    "Georgetown neighborhood breweries",
+    "Golden Gardens Park"
+  ],
+  "familyActivities": [
+    "Pacific Science Center exhibits",
+    "Woodland Park Zoo",
+    "Seattle Aquarium touch tanks",
+    "Museum of Flight",
+    "Ride the Seattle Great Wheel"
+  ],
+  "adventureActivities": [
+    "Kayaking on Lake Union",
+    "Hiking the Discovery Park loop trail",
+    "Whale watching day trips from Edmonds",
+    "Cycling the Burke-Gilman Trail"
+  ],
+  "luxuryExperiences": [
+    "Tasting menu dinner at Canlis",
+    "Private Puget Sound yacht charter",
+    "Spa day at Four Seasons Seattle",
+    "Seaplane scenic flight with Kenmore Air"
+  ],
+  "honeymoonExperiences": [
+    "Sunset seaplane flight over Puget Sound",
+    "Private wine tasting in Woodinville wine country",
+    "Candlelit dinner at Canlis",
+    "Weekend escape to a Snoqualmie Falls lodge"
+  ],
+  "budgetExperiences": [
+    "Free wander through Pike Place Market",
+    "Sunset at Kerry Park viewpoint",
+    "Fremont Sunday Market browsing",
+    "Hiking free trails in Discovery Park"
+  ],
+  "estimatedDailyBudgetUSD": [
+    90,
+    190,
+    340,
+    650
+  ],
+  "safetyRating": 4,
+  "internetRating": 5,
+  "publicTransportRating": 4,
+  "walkingScore": 74,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 8,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 9,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 11,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 13,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 15,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 10,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 7,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Northwest Folklife Festival",
+      "timing": "Memorial Day weekend, late May"
+    },
+    {
+      "name": "Seattle International Film Festival (SIFF)",
+      "timing": "Mid-May to early June"
+    },
+    {
+      "name": "Bumbershoot Music & Arts Festival",
+      "timing": "Labor Day weekend, early September"
+    },
+    {
+      "name": "Seafair",
+      "timing": "July to early August, culminating in the Hydroplane races"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Tipping 18-20% at restaurants and bars is expected and often defaults on card machines.",
+    "Locals dress casually even at nicer restaurants — \"Seattle formal\" is jeans with a nice top.",
+    "Jaywalking is actually enforced downtown; use crosswalks even when the street looks empty.",
+    "Coffee culture runs deep — ordering a drip coffee at a local roaster rather than a chain is the norm.",
+    "Small talk with strangers is less common than in the South; the \"Seattle Freeze\" politeness-but-distance is a real local trait."
+  ],
+  "localTransportGuide": "Link light rail runs directly from Sea-Tac Airport to downtown, Capitol Hill and the University District — load an ORCA card for buses, light rail, the South Lake Union Streetcar and Washington State Ferries. Seattle is hilly and spread across water, so ride-shares and ferries fill the gaps transit doesn't reach.",
+  "bestTimeToVisit": "June to September offers the driest, sunniest weather with long daylight hours; late September into October brings fall colors with thinner crowds.",
+  "weather": "Temperate marine climate with mild, gray, wet winters (highs around 8°C, frequent drizzle) and pleasantly dry, mild summers (highs 22-24°C, rarely humid).",
+  "visaInformation": "Visa-free ESTA entry for UK, EU, Australian, Japanese and other Visa Waiver Program passport holders for stays up to 90 days. Indian nationals and most other nationalities need a US B1/B2 visitor visa arranged in advance through a US embassy or consulate interview.",
+  "currency": "USD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "PST (UTC-8)",
+  "averageFlightTime": "~14.2h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Seattle-Tacoma International Airport (SEA)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Seattle?",
+      "answer": "Visa-free ESTA entry for UK, EU, Australian, Japanese and other Visa Waiver Program passport holders for stays up to 90 days. Indian nationals and most other nationalities need a US B1/B2 visitor visa arranged in advance through a US embassy or consulate interview."
+    },
+    {
+      "question": "What is the best time to visit Seattle?",
+      "answer": "June to September offers the driest, sunniest weather with long daylight hours; late September into October brings fall colors with thinner crowds. Temperate marine climate with mild, gray, wet winters (highs around 8°C, frequent drizzle) and pleasantly dry, mild summers (highs 22-24°C, rarely humid)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Seattle safe for tourists?",
+      "answer": "Seattle is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Seattle?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Food",
+    "Nature",
+    "Culture",
+    "Weekend Getaway",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Seattle",
+    "United States",
+    "Seattle, United States",
+    "Washington",
+    "Seattle tour package",
+    "Seattle vacation package",
+    "Seattle holiday package",
+    "things to do in Seattle",
+    "best time to visit Seattle",
+    "Seattle itinerary",
+    "10 day Seattle itinerary",
+    "Seattle flights and hotels",
+    "Seattle all inclusive package",
+    "cheap Seattle package",
+    "luxury Seattle package",
+    "Seattle honeymoon package",
+    "Seattle family vacation",
+    "Seattle solo trip",
+    "Seattle group tour",
+    "Seattle weekend getaway",
+    "Seattle guided tour",
+    "SEA flights",
+    "Seattle travel guide",
+    "book Seattle trip online",
+    "Seattle trip cost",
+    "Seattle packages 10 days",
+    "Seattle city break",
+    "Seattle food",
+    "Seattle nature",
+    "Seattle culture",
+    "Seattle bucket list",
+    "Space Needle",
+    "Chihuly Garden and Glass",
+    "Museum of Pop Culture (MoPOP)",
+    "Pacific Science Center",
+    "Seattle Aquarium",
+    "Woodland Park Zoo",
+    "Bill Speidel's Underground Tour",
+    "Argosy Cruises Harbor Tour",
+    "Museum of Flight",
+    "Seattle Great Wheel",
+    "Seattle Art Museum (SAM)",
+    "Pike Place Market",
+    "Kerry Park",
+    "Gas Works Park",
+    "Hiram M. Chittenden (Ballard) Locks",
+    "Fremont Troll",
+    "Discovery Park",
+    "Olympic Sculpture Park",
+    "Volunteer Park"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Seattle, United States — Space Needle skyline",
+      "keywords": [
+        "Seattle",
+        "United States",
+        "Space Needle skyline",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Seattle Space Needle skyline",
+      "pexelsQuery": "Seattle Space Needle skyline",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Seattle, United States — Space Needle skyline",
+      "keywords": [
+        "Seattle",
+        "United States",
+        "Space Needle skyline",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Seattle Space Needle skyline",
+      "pexelsQuery": "Seattle Space Needle skyline",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Seattle, United States — Pike Place Market flying fish",
+      "keywords": [
+        "Seattle",
+        "United States",
+        "Pike Place Market flying fish",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Seattle Pike Place Market flying fish",
+      "pexelsQuery": "Seattle Pike Place Market flying fish",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Seattle, United States — Mount Rainier from Kerry Park",
+      "keywords": [
+        "Seattle",
+        "United States",
+        "Mount Rainier from Kerry Park",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Seattle Mount Rainier from Kerry Park",
+      "pexelsQuery": "Seattle Mount Rainier from Kerry Park",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Seattle, United States — Space Needle skyline",
+      "keywords": [
+        "Seattle",
+        "United States",
+        "Space Needle skyline",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Seattle Space Needle skyline",
+      "pexelsQuery": "Seattle Space Needle skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seattle, United States — Pike Place Market flying fish",
+      "keywords": [
+        "Seattle",
+        "United States",
+        "Pike Place Market flying fish",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Seattle Pike Place Market flying fish",
+      "pexelsQuery": "Seattle Pike Place Market flying fish",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seattle, United States — Mount Rainier from Kerry Park",
+      "keywords": [
+        "Seattle",
+        "United States",
+        "Mount Rainier from Kerry Park",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Seattle Mount Rainier from Kerry Park",
+      "pexelsQuery": "Seattle Mount Rainier from Kerry Park",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seattle, United States — Chihuly glass garden",
+      "keywords": [
+        "Seattle",
+        "United States",
+        "Chihuly glass garden",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Seattle Chihuly glass garden",
+      "pexelsQuery": "Seattle Chihuly glass garden",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seattle, United States — Space Needle",
+      "keywords": [
+        "Seattle",
+        "United States",
+        "Space Needle",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Seattle Space Needle",
+      "pexelsQuery": "Seattle Space Needle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seattle, United States — Chihuly Garden and Glass",
+      "keywords": [
+        "Seattle",
+        "United States",
+        "Chihuly Garden and Glass",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Seattle Chihuly Garden and Glass",
+      "pexelsQuery": "Seattle Chihuly Garden and Glass",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seattle, United States — Museum of Pop Culture (MoPOP)",
+      "keywords": [
+        "Seattle",
+        "United States",
+        "Museum of Pop Culture (MoPOP)",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Seattle Museum of Pop Culture (MoPOP)",
+      "pexelsQuery": "Seattle Museum of Pop Culture (MoPOP)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seattle, United States — Pacific Science Center",
+      "keywords": [
+        "Seattle",
+        "United States",
+        "Pacific Science Center",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Seattle Pacific Science Center",
+      "pexelsQuery": "Seattle Pacific Science Center",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-seattle-10-1",
+      "author": "Elena Dubois",
+      "country": "Saudi Arabia",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-11-07",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Olympic Sculpture Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seattle-10-2",
+      "author": "Emma Johnson",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-03-31",
+      "title": "Worth every penny",
+      "body": "Our trip to Seattle was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Seattle Art Museum (SAM) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seattle-10-3",
+      "author": "Priya Botha",
+      "country": "Italy",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-08",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a family of 4 trip and it was well paced. Waterfront Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seattle-10-4",
+      "author": "Fatima Nguyen",
+      "country": "India",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-03-02",
+      "title": "Worth every penny",
+      "body": "Bill Speidel's Underground Tour alone was worth the trip, but combined with Pike Place Market this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seattle-10-5",
+      "author": "Lucas Novak",
+      "country": "South Korea",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-02",
+      "title": "Highly recommend this package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Seattle Art Museum (SAM) and Kerry Park. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seattle-10-6",
+      "author": "Anna Garcia",
+      "country": "Australia",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-07",
+      "title": "Adventure of a lifetime",
+      "body": "Seattle is stunning and this package covered the essentials well, especially Pacific Science Center. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seattle-10-7",
+      "author": "Liam Müller",
+      "country": "United States",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-04-21",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Seattle was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Space Needle was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seattle-10-8",
+      "author": "Daniel Kim",
+      "country": "India",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-02-18",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Bill Speidel's Underground Tour and Pike Place Market. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seattle-10-9",
+      "author": "Mohammed Kowalski",
+      "country": "France",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-22",
+      "title": "Best vacation we've had",
+      "body": "Woodland Park Zoo alone was worth the trip, but combined with Waterfront Park this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seattle-10-10",
+      "author": "Priya Müller",
+      "country": "South Korea",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-18",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a couple trip and it was well paced. Seattle Art Museum (SAM) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seattle-10-11",
+      "author": "Hiroshi Sharma",
+      "country": "United Kingdom",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-04-07",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Chihuly Garden and Glass alone was worth the trip, but combined with Seattle Aquarium this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seattle-10-12",
+      "author": "Yuki Santos",
+      "country": "New Zealand",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-06-12",
+      "title": "Adventure of a lifetime",
+      "body": "Hiram M. Chittenden (Ballard) Locks alone was worth the trip, but combined with Waterfront Park this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seattle-10-13",
+      "author": "Sofia Dubois",
+      "country": "Australia",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-08-19",
+      "title": "Loved every moment",
+      "body": "Booked this as a solo trip and it was well paced. Pacific Science Center in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seattle-10-14",
+      "author": "Omar Tanaka",
+      "country": "Saudi Arabia",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-02",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Olympic Sculpture Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seattle-10-15",
+      "author": "Noah Dubois",
+      "country": "Netherlands",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-04-16",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Seattle was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Fremont Troll was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seattle-10-16",
+      "author": "Lukas Botha",
+      "country": "New Zealand",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-09",
+      "title": "Great value for money",
+      "body": "Seattle is stunning and this package covered the essentials well, especially Hiram M. Chittenden (Ballard) Locks. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seattle-10-17",
+      "author": "David Andersen",
+      "country": "Canada",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-28",
+      "title": "Unforgettable trip!",
+      "body": "Seattle is stunning and this package covered the essentials well, especially Museum of Pop Culture (MoPOP). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seattle-10-18",
+      "author": "Priya Novak",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-05-31",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a couple trip and it was well paced. Pike Place Market in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seattle-10-19",
+      "author": "Mohammed Wang",
+      "country": "Canada",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-03",
+      "title": "Great for families with kids",
+      "body": "Museum of Pop Culture (MoPOP) alone was worth the trip, but combined with Hiram M. Chittenden (Ballard) Locks this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seattle-10-20",
+      "author": "Anna Wang",
+      "country": "United Kingdom",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-06",
+      "title": "Beautiful destination, well organized",
+      "body": "Seattle is stunning and this package covered the essentials well, especially Museum of Pop Culture (MoPOP). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.1,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.2,
+    "safety": 4.1,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Seattle Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 20,
+      "neighborhood": "Pike Place Market stalls"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Seattle Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 36,
+      "neighborhood": "University Village"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Seattle Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 67,
+      "neighborhood": "Ballard Avenue boutiques"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Seattle Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 86,
+      "neighborhood": "Westlake Center"
+    },
+    {
+      "tier": "Resort",
+      "name": "Seattle Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 170,
+      "neighborhood": "Fremont Sunday Market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Seattle Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 273,
+      "neighborhood": "Pacific Place"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Seattle Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 325,
+      "neighborhood": "Pioneer Square bar crawl"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        356,
+        566
+      ],
+      "estimatedFlightHours": 6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        317,
+        504
+      ],
+      "estimatedFlightHours": 5.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        633,
+        1006
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        657,
+        1044
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        667,
+        1060
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        735,
+        1168
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        691,
+        1098
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        642,
+        1019
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        686,
+        1089
+      ],
+      "estimatedFlightHours": 12.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        978,
+        1553
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        891,
+        1415
+      ],
+      "estimatedFlightHours": 16,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        894,
+        1420
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        633,
+        1006
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        677,
+        1076
+      ],
+      "estimatedFlightHours": 12,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1014,
+        1611
+      ],
+      "estimatedFlightHours": 18.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        942,
+        1496
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1012,
+        1607
+      ],
+      "estimatedFlightHours": 18.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1051,
+        1669
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        849,
+        1349
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        938,
+        1489
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        938,
+        1489
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        936,
+        1486
+      ],
+      "estimatedFlightHours": 16.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        935,
+        1485
+      ],
+      "estimatedFlightHours": 16.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        900,
+        1430
+      ],
+      "estimatedFlightHours": 16.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1269,
+        2016
+      ],
+      "estimatedFlightHours": 23.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        865,
+        1374
+      ],
+      "estimatedFlightHours": 15.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Seattle-Tacoma International Airport (SEA)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        349,
+        554
+      ],
+      "estimatedFlightHours": 5.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Space Needle",
+    "Chihuly Garden and Glass",
+    "Museum of Pop Culture (MoPOP)",
+    "Pacific Science Center",
+    "Seattle Aquarium",
+    "Woodland Park Zoo",
+    "Bill Speidel's Underground Tour",
+    "Argosy Cruises Harbor Tour",
+    "Museum of Flight",
+    "Seattle Great Wheel",
+    "Seattle Art Museum (SAM)",
+    "Pike Place Market",
+    "Kerry Park",
+    "Gas Works Park",
+    "Hiram M. Chittenden (Ballard) Locks",
+    "Fremont Troll",
+    "Discovery Park",
+    "Olympic Sculpture Park",
+    "Volunteer Park",
+    "Waterfront Park",
+    "Alki Beach",
+    "Mount Rainier National Park",
+    "Snoqualmie Falls",
+    "Bainbridge Island ferry trip",
+    "Woodinville wine country",
+    "Seattle Art Museum",
+    "Golden Gardens Park beach",
+    "Kerry Park skyline view",
+    "Pike Place Market gum wall",
+    "Gas Works Park sunset",
+    "Alki Beach boardwalk"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Space Needle",
+      "priceUSD": 32
+    },
+    {
+      "name": "Chihuly Garden and Glass",
+      "priceUSD": 33
+    },
+    {
+      "name": "Museum of Pop Culture (MoPOP)",
+      "priceUSD": 32
+    },
+    {
+      "name": "Pacific Science Center",
+      "priceUSD": 26
+    },
+    {
+      "name": "Seattle Aquarium",
+      "priceUSD": 39
+    },
+    {
+      "name": "Woodland Park Zoo",
+      "priceUSD": 27
+    },
+    {
+      "name": "Bill Speidel's Underground Tour",
+      "priceUSD": 25
+    },
+    {
+      "name": "Argosy Cruises Harbor Tour",
+      "priceUSD": 39
+    },
+    {
+      "name": "Museum of Flight",
+      "priceUSD": 26
+    },
+    {
+      "name": "Seattle Great Wheel",
+      "priceUSD": 18
+    },
+    {
+      "name": "Seattle Art Museum (SAM)",
+      "priceUSD": 30
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Pike Place Market",
+    "Kerry Park",
+    "Gas Works Park",
+    "Hiram M. Chittenden (Ballard) Locks",
+    "Fremont Troll",
+    "Discovery Park",
+    "Olympic Sculpture Park",
+    "Volunteer Park",
+    "Waterfront Park",
+    "Alki Beach"
+  ],
+  "museums": [
+    "Museum of Pop Culture (MoPOP)",
+    "Seattle Art Museum",
+    "Museum of Flight",
+    "Chihuly Garden and Glass"
+  ],
+  "parks": [
+    "Discovery Park",
+    "Gas Works Park",
+    "Volunteer Park",
+    "Kerry Park"
+  ],
+  "beaches": [
+    "Alki Beach",
+    "Golden Gardens Park beach"
+  ],
+  "dayTrips": [
+    "Mount Rainier National Park",
+    "Snoqualmie Falls",
+    "Bainbridge Island ferry trip",
+    "Woodinville wine country"
+  ],
+  "fromPriceUSD": 1892,
+  "seo": {
+    "title": "Seattle 10-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "seattle-10-day-package",
+    "keywords": [
+      "Seattle",
+      "United States",
+      "Seattle, United States",
+      "Washington",
+      "Seattle tour package",
+      "Seattle vacation package",
+      "Seattle holiday package",
+      "things to do in Seattle",
+      "best time to visit Seattle",
+      "Seattle itinerary",
+      "10 day Seattle itinerary",
+      "Seattle flights and hotels",
+      "Seattle all inclusive package",
+      "cheap Seattle package",
+      "luxury Seattle package"
+    ],
+    "canonicalUrl": "/packages/seattle-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Seattle Package",
+        "url": "/packages/seattle-7-day-package"
+      },
+      {
+        "title": "14-Day Seattle Package",
+        "url": "/packages/seattle-14-day-package"
+      },
+      {
+        "title": "Cape Town 10-Day City Break",
+        "url": "/packages/cape-town-10-day-package"
+      },
+      {
+        "title": "Nashville 10-Day City Break",
+        "url": "/packages/nashville-10-day-package"
+      },
+      {
+        "title": "Austin 10-Day City Break",
+        "url": "/packages/austin-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Seattle — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seattle"
+      },
+      {
+        "title": "Seattle — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Seattle"
+      }
+    ]
+  }
+}

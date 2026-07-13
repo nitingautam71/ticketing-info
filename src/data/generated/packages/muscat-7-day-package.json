@@ -1,0 +1,1580 @@
+{
+  "id": "PKG-muscat-7D",
+  "slug": "muscat-7-day-package",
+  "destinationSlug": "muscat",
+  "destinationName": "Muscat",
+  "country": "Oman",
+  "region": "Middle East",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Muscat 7-Day Cultural Tour",
+  "metaTitle": "Muscat 7-Day Cultural Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Muscat, Oman: round-trip flights, hotel, breakfast, transfers, and guided tours including Royal Opera House Muscat guided tour and Bimmah Sinkhole and Wadi Shab day trip. Prices from $1963 per person (estimate).",
+  "highlights": [
+    "Royal Opera House Muscat guided tour",
+    "Bimmah Sinkhole and Wadi Shab day trip",
+    "Sultan Qaboos Grand Mosque",
+    "Wadi Shab canyon trek and swim",
+    "Overnight luxury desert camp in Wahiba Sands",
+    "Wadi Shab and Bimmah Sinkhole"
+  ],
+  "overview": "Spend 7 days discovering Muscat, Oman — Hot desert climate — scorching, humid summers (highs 40°C+) and warm, pleasant winters (highs around 25-26°C). October to April, for warm but manageable daytime temperatures — summer heat is extreme. This itinerary blends Royal Opera House Muscat guided tour, Bimmah Sinkhole and Wadi Shab day trip, Sultan Qaboos Grand Mosque with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Royal Opera House Muscat guided tour, Bimmah Sinkhole and Wadi Shab day trip, Sultan Qaboos Grand Mosque",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Muscat",
+      "description": "Land at Muscat International Airport (MCT) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Royal Opera House Muscat guided tour — Ornate performance hall showcasing Omani craftsmanship. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Royal Opera House Muscat guided tour"
+      ],
+      "overnight": "Muscat"
+    },
+    {
+      "day": 2,
+      "title": "Muscat: Bimmah Sinkhole and Wadi Shab day trip & Dhow sunset cruise, Muscat harbor",
+      "description": "Morning visit to Bimmah Sinkhole and Wadi Shab day trip — Turquoise sinkhole pool and a scenic canyon hike. In the afternoon, continue to Dhow sunset cruise, Muscat harbor — Traditional wooden boat cruise along the coastline. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Bimmah Sinkhole and Wadi Shab day trip",
+        "Dhow sunset cruise, Muscat harbor"
+      ],
+      "overnight": "Muscat"
+    },
+    {
+      "day": 3,
+      "title": "Muscat: Desert camping in the Wahiba Sands & Sultan Qaboos Grand Mosque",
+      "description": "Morning visit to Desert camping in the Wahiba Sands — Overnight dune-camp excursion with 4x4 dune driving. In the afternoon, continue to Sultan Qaboos Grand Mosque — Vast marble mosque with one of the world's largest hand-woven carpets, free to visit outside prayer times. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Desert camping in the Wahiba Sands",
+        "Sultan Qaboos Grand Mosque"
+      ],
+      "overnight": "Muscat"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Wadi Shab and Bimmah Sinkhole",
+      "description": "Full-day excursion to Wadi Shab and Bimmah Sinkhole, a popular side trip from Muscat. Return to Muscat in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Wadi Shab and Bimmah Sinkhole",
+        "Free evening"
+      ],
+      "overnight": "Muscat"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Wadi Shab canyon hike and pool — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Wadi Shab canyon hike and pool"
+      ],
+      "overnight": "Muscat"
+    },
+    {
+      "day": 6,
+      "title": "Muscat: Mutrah Corniche & Mutrah Souq",
+      "description": "Morning visit to Mutrah Corniche — Waterfront promenade beneath a rugged mountain backdrop. In the afternoon, continue to Mutrah Souq — Atmospheric traditional market of frankincense, textiles, and spices. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Mutrah Corniche",
+        "Mutrah Souq"
+      ],
+      "overnight": "Muscat"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Al Alam Palace or some souvenir shopping — before your private transfer to MCT for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Visit the Sultan Qaboos Grand Mosque before 11am (closed to non-Muslim visitors in the afternoon and on Fridays).",
+    "Rent a 4x4 or book a tour to reach Wadi Shab and the Bimmah Sinkhole — public transport doesn't cover them.",
+    "Bring cash for Mutrah Souq — many small stalls don't take cards.",
+    "Summer heat makes outdoor activities impractical outside early morning or evening.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Conservative clothing covering shoulders and knees, plus a headscarf for women visiting the Grand Mosque",
+    "Sturdy shoes for wadi hikes",
+    "Lightweight, breathable clothing for the heat"
+  ],
+  "thingsToDo": [
+    "Royal Opera House Muscat guided tour",
+    "Bimmah Sinkhole and Wadi Shab day trip",
+    "Dhow sunset cruise, Muscat harbor",
+    "Desert camping in the Wahiba Sands",
+    "Sultan Qaboos Grand Mosque",
+    "Mutrah Corniche",
+    "Mutrah Souq",
+    "Al Alam Palace",
+    "Wadi Shab canyon trek and swim",
+    "Wahiba Sands dune bashing and overnight camping",
+    "Snorkeling at the Daymaniyat Islands",
+    "Oman Across Ages Museum",
+    "Bimmah Sinkhole swim",
+    "Royal Opera House family programming"
+  ],
+  "thingsToAvoid": [
+    "Wearing revealing clothing in public areas outside resort pools/beaches.",
+    "Photographing local people, especially women, without asking first.",
+    "Scheduling wadi hikes or desert excursions during peak summer heat.",
+    "Assuming public transit will get you everywhere — a car or driver is often necessary."
+  ],
+  "topRestaurants": [
+    "Bait Al Luban — Traditional Omani ($$$)",
+    "Kargeen Caffe — Omani and Middle Eastern ($$)",
+    "Ubhar — Modern Omani fine dining ($$$$)",
+    "Automatic Restaurant — Lebanese casual ($$)"
+  ],
+  "topCafes": [
+    "Ubhar Café",
+    "Turtleback Coffee Roasters"
+  ],
+  "shoppingAreas": [
+    "Mutrah Souq",
+    "Muscat Grand Mall",
+    "Al Araimi Boulevard"
+  ],
+  "nightlife": [
+    "Hotel-based lounges (limited nightlife culture)",
+    "Mutrah Corniche evening strolls",
+    "Shisha cafés"
+  ],
+  "instagramSpots": [
+    "Sultan Qaboos Grand Mosque interior",
+    "Mutrah Corniche at sunset",
+    "Bimmah Sinkhole turquoise water",
+    "Al Alam Palace gates"
+  ],
+  "hiddenGems": [
+    "Wadi Shab canyon hike and pool",
+    "Qurum Nature Reserve",
+    "Old Muscat's Al Jalali and Al Mirani forts (viewed from outside)"
+  ],
+  "familyActivities": [
+    "Oman Across Ages Museum",
+    "Bimmah Sinkhole swim",
+    "Royal Opera House family programming"
+  ],
+  "adventureActivities": [
+    "Wadi Shab canyon trek and swim",
+    "Wahiba Sands dune bashing and overnight camping",
+    "Snorkeling at the Daymaniyat Islands"
+  ],
+  "luxuryExperiences": [
+    "Overnight luxury desert camp in Wahiba Sands",
+    "Private dhow sunset cruise with dinner",
+    "Suite stay at a Shangri-La-style Muscat resort"
+  ],
+  "honeymoonExperiences": [
+    "Sunset dhow cruise along the Mutrah coastline",
+    "Private desert camp under the stars",
+    "Wadi Shab hike and swim for two"
+  ],
+  "budgetExperiences": [
+    "Free visit to the Sultan Qaboos Grand Mosque",
+    "Mutrah Corniche and Souq wander",
+    "Bimmah Sinkhole (free public access)"
+  ],
+  "estimatedDailyBudgetUSD": [
+    70,
+    140,
+    280,
+    650
+  ],
+  "safetyRating": 5,
+  "internetRating": 4.5,
+  "publicTransportRating": 3,
+  "walkingScore": 40,
+  "accessibilityRating": 3.5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 34,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 38,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 39,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 38,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 37,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 36,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 33,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 29,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 26,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Muscat Festival",
+      "timing": "January-February"
+    },
+    {
+      "name": "Khareef Festival (Salalah, monsoon season)",
+      "timing": "July-August"
+    },
+    {
+      "name": "Oman National Day",
+      "timing": "November 18"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "9999",
+    "ambulance": "9999",
+    "fire": "9999"
+  },
+  "localEtiquette": [
+    "Dress conservatively in public — shoulders and knees covered for both men and women.",
+    "Omanis are known for warm hospitality — accepting offered coffee (kahwa) and dates is polite.",
+    "Friday is the start of the weekend; many businesses close for Friday prayers.",
+    "Ask permission before photographing local people, especially women."
+  ],
+  "localTransportGuide": "Muscat is spread along a long coastal strip with limited public transit — rideshare apps (or a rental car) are the practical way to get around, especially between Old Muscat, Mutrah, and the newer districts. Taxis should be pre-booked or use a metered app rather than street-hailed.",
+  "bestTimeToVisit": "October to April, for warm but manageable daytime temperatures — summer heat is extreme.",
+  "weather": "Hot desert climate — scorching, humid summers (highs 40°C+) and warm, pleasant winters (highs around 25-26°C).",
+  "visaInformation": "Most nationalities, including the US, UK, EU, Canada, Australia, and India, can obtain an Omani e-visa online in advance; some GCC-resident categories qualify for visa-on-arrival.",
+  "currency": "OMR",
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "timeZone": "GST (UTC+4)",
+  "averageFlightTime": "~9.4h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Muscat International Airport (MCT)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Muscat?",
+      "answer": "Most nationalities, including the US, UK, EU, Canada, Australia, and India, can obtain an Omani e-visa online in advance; some GCC-resident categories qualify for visa-on-arrival."
+    },
+    {
+      "question": "What is the best time to visit Muscat?",
+      "answer": "October to April, for warm but manageable daytime temperatures — summer heat is extreme. Hot desert climate — scorching, humid summers (highs 40°C+) and warm, pleasant winters (highs around 25-26°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Muscat safe for tourists?",
+      "answer": "Muscat is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Muscat?",
+      "answer": "The local currency is OMR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include Oman Across Ages Museum."
+    }
+  ],
+  "categories": [
+    "Culture",
+    "Adventure",
+    "Nature",
+    "Luxury",
+    "Family"
+  ],
+  "aiTags": [
+    "Muscat",
+    "Oman",
+    "Muscat, Oman",
+    "Middle East",
+    "Muscat tour package",
+    "Muscat vacation package",
+    "Muscat holiday package",
+    "things to do in Muscat",
+    "best time to visit Muscat",
+    "Muscat itinerary",
+    "7 day Muscat itinerary",
+    "Muscat flights and hotels",
+    "Muscat all inclusive package",
+    "cheap Muscat package",
+    "luxury Muscat package",
+    "Muscat honeymoon package",
+    "Muscat family vacation",
+    "Muscat solo trip",
+    "Muscat group tour",
+    "Muscat weekend getaway",
+    "Muscat guided tour",
+    "MCT flights",
+    "Muscat travel guide",
+    "book Muscat trip online",
+    "Muscat trip cost",
+    "Muscat packages 7 days",
+    "Muscat culture",
+    "Muscat adventure",
+    "Muscat nature",
+    "Muscat luxury",
+    "Muscat family",
+    "Royal Opera House Muscat guided tour",
+    "Bimmah Sinkhole and Wadi Shab day trip",
+    "Dhow sunset cruise, Muscat harbor",
+    "Desert camping in the Wahiba Sands",
+    "Sultan Qaboos Grand Mosque",
+    "Mutrah Corniche",
+    "Mutrah Souq",
+    "Al Alam Palace",
+    "Bait Al Luban",
+    "Kargeen Caffe",
+    "Ubhar",
+    "Automatic Restaurant",
+    "Sultan Qaboos Grand Mosque interior",
+    "Mutrah Corniche at sunset",
+    "Bimmah Sinkhole turquoise water",
+    "Al Alam Palace gates",
+    "Wadi Shab canyon hike and pool",
+    "Qurum Nature Reserve",
+    "Old Muscat's Al Jalali and Al Mirani forts (viewed from outside)"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Muscat, Oman — Sultan Qaboos Grand Mosque interior",
+      "keywords": [
+        "Muscat",
+        "Oman",
+        "Sultan Qaboos Grand Mosque interior",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Muscat Sultan Qaboos Grand Mosque interior",
+      "pexelsQuery": "Muscat Sultan Qaboos Grand Mosque interior",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Muscat, Oman — Sultan Qaboos Grand Mosque interior",
+      "keywords": [
+        "Muscat",
+        "Oman",
+        "Sultan Qaboos Grand Mosque interior",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Muscat Sultan Qaboos Grand Mosque interior",
+      "pexelsQuery": "Muscat Sultan Qaboos Grand Mosque interior",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Muscat, Oman — Mutrah Corniche sunset",
+      "keywords": [
+        "Muscat",
+        "Oman",
+        "Mutrah Corniche sunset",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Muscat Mutrah Corniche sunset",
+      "pexelsQuery": "Muscat Mutrah Corniche sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Muscat, Oman — Bimmah Sinkhole turquoise pool",
+      "keywords": [
+        "Muscat",
+        "Oman",
+        "Bimmah Sinkhole turquoise pool",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Muscat Bimmah Sinkhole turquoise pool",
+      "pexelsQuery": "Muscat Bimmah Sinkhole turquoise pool",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Muscat, Oman — Sultan Qaboos Grand Mosque interior",
+      "keywords": [
+        "Muscat",
+        "Oman",
+        "Sultan Qaboos Grand Mosque interior",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Muscat Sultan Qaboos Grand Mosque interior",
+      "pexelsQuery": "Muscat Sultan Qaboos Grand Mosque interior",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Muscat, Oman — Mutrah Corniche sunset",
+      "keywords": [
+        "Muscat",
+        "Oman",
+        "Mutrah Corniche sunset",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Muscat Mutrah Corniche sunset",
+      "pexelsQuery": "Muscat Mutrah Corniche sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Muscat, Oman — Bimmah Sinkhole turquoise pool",
+      "keywords": [
+        "Muscat",
+        "Oman",
+        "Bimmah Sinkhole turquoise pool",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Muscat Bimmah Sinkhole turquoise pool",
+      "pexelsQuery": "Muscat Bimmah Sinkhole turquoise pool",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Muscat, Oman — Wahiba Sands desert dunes",
+      "keywords": [
+        "Muscat",
+        "Oman",
+        "Wahiba Sands desert dunes",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Muscat Wahiba Sands desert dunes",
+      "pexelsQuery": "Muscat Wahiba Sands desert dunes",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Muscat, Oman — Royal Opera House Muscat guided tour",
+      "keywords": [
+        "Muscat",
+        "Oman",
+        "Royal Opera House Muscat guided tour",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Muscat Royal Opera House Muscat guided tour",
+      "pexelsQuery": "Muscat Royal Opera House Muscat guided tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Muscat, Oman — Bimmah Sinkhole and Wadi Shab day trip",
+      "keywords": [
+        "Muscat",
+        "Oman",
+        "Bimmah Sinkhole and Wadi Shab day trip",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Muscat Bimmah Sinkhole and Wadi Shab day trip",
+      "pexelsQuery": "Muscat Bimmah Sinkhole and Wadi Shab day trip",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Muscat, Oman — Dhow sunset cruise, Muscat harbor",
+      "keywords": [
+        "Muscat",
+        "Oman",
+        "Dhow sunset cruise, Muscat harbor",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Muscat Dhow sunset cruise, Muscat harbor",
+      "pexelsQuery": "Muscat Dhow sunset cruise, Muscat harbor",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Muscat, Oman — Desert camping in the Wahiba Sands",
+      "keywords": [
+        "Muscat",
+        "Oman",
+        "Desert camping in the Wahiba Sands",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Muscat Desert camping in the Wahiba Sands",
+      "pexelsQuery": "Muscat Desert camping in the Wahiba Sands",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-muscat-7-1",
+      "author": "James Fernandez",
+      "country": "Spain",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3,
+      "date": "2025-07-22",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Muscat was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Al Alam Palace was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-muscat-7-2",
+      "author": "Grace Andersen",
+      "country": "Singapore",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-10-11",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Desert camping in the Wahiba Sands and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-3",
+      "author": "Lukas Andersen",
+      "country": "UAE",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-01",
+      "title": "Loved every moment",
+      "body": "Muscat is stunning and this package covered the essentials well, especially Desert camping in the Wahiba Sands. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-4",
+      "author": "Fatima Cohen",
+      "country": "Australia",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-01-18",
+      "title": "Worth every penny",
+      "body": "Bimmah Sinkhole and Wadi Shab day trip alone was worth the trip, but combined with Al Alam Palace this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-5",
+      "author": "Mia Garcia",
+      "country": "Canada",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-06-11",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Bimmah Sinkhole and Wadi Shab day trip and Sultan Qaboos Grand Mosque. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-6",
+      "author": "Sarah Tanaka",
+      "country": "Italy",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-09-15",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Muscat is stunning and this package covered the essentials well, especially Al Alam Palace. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-7",
+      "author": "Emma Costa",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-09",
+      "title": "Highly recommend this package",
+      "body": "Our trip to Muscat was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Sultan Qaboos Grand Mosque was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-8",
+      "author": "Olivia van Dijk",
+      "country": "UAE",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-09-15",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Muscat was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Desert camping in the Wahiba Sands was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-9",
+      "author": "Tom Nguyen",
+      "country": "UAE",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-01-20",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Desert camping in the Wahiba Sands and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-10",
+      "author": "Lukas Ibrahim",
+      "country": "Canada",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-12-23",
+      "title": "Best vacation we've had",
+      "body": "Muscat is stunning and this package covered the essentials well, especially Royal Opera House Muscat guided tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-11",
+      "author": "Hiroshi Tanaka",
+      "country": "Canada",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-27",
+      "title": "Adventure of a lifetime",
+      "body": "Bimmah Sinkhole and Wadi Shab day trip alone was worth the trip, but combined with Dhow sunset cruise, Muscat harbor this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-12",
+      "author": "Noah Garcia",
+      "country": "Singapore",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-11-01",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Muscat was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Desert camping in the Wahiba Sands was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-13",
+      "author": "Noah Cohen",
+      "country": "Switzerland",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-07-04",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Muscat was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Mutrah Souq was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-14",
+      "author": "Sarah Ibrahim",
+      "country": "Canada",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-04-07",
+      "title": "Unforgettable trip!",
+      "body": "Muscat is stunning and this package covered the essentials well, especially Royal Opera House Muscat guided tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-muscat-7-15",
+      "author": "Anna Botha",
+      "country": "France",
+      "rating": 4.6,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-03-24",
+      "title": "Adventure of a lifetime",
+      "body": "Muscat is stunning and this package covered the essentials well, especially Dhow sunset cruise, Muscat harbor. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-16",
+      "author": "Yuki Botha",
+      "country": "Brazil",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-03-15",
+      "title": "Great for families with kids",
+      "body": "Sultan Qaboos Grand Mosque alone was worth the trip, but combined with Sultan Qaboos Grand Mosque this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-17",
+      "author": "Olivia Dubois",
+      "country": "Japan",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-22",
+      "title": "Great for families with kids",
+      "body": "Our trip to Muscat was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Sultan Qaboos Grand Mosque was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-18",
+      "author": "Sofia van Dijk",
+      "country": "Saudi Arabia",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-07",
+      "title": "Worth every penny",
+      "body": "Booked this as a couple trip and it was well paced. Mutrah Souq in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-19",
+      "author": "Mohammed Sharma",
+      "country": "United States",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-10-11",
+      "title": "A little rushed but still wonderful",
+      "body": "Royal Opera House Muscat guided tour alone was worth the trip, but combined with Sultan Qaboos Grand Mosque this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-muscat-7-20",
+      "author": "Olivia Ivanov",
+      "country": "United States",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-02",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Muscat was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Royal Opera House Muscat guided tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.2,
+    "value": 4.2,
+    "cleanliness": 4.1,
+    "safety": 4.1,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Muscat Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 15,
+      "neighborhood": "Mutrah Souq"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Muscat Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 28,
+      "neighborhood": "Muscat Grand Mall"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Muscat Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 49,
+      "neighborhood": "Al Araimi Boulevard"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Muscat Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 63,
+      "neighborhood": "Hotel-based lounges (limited nightlife culture)"
+    },
+    {
+      "tier": "Resort",
+      "name": "Muscat Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 140,
+      "neighborhood": "Mutrah Corniche evening strolls"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Muscat Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 273,
+      "neighborhood": "Shisha cafés"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Muscat Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 325,
+      "neighborhood": "Ubhar Café"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        896,
+        1423
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        899,
+        1428
+      ],
+      "estimatedFlightHours": 16.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        497,
+        790
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        481,
+        764
+      ],
+      "estimatedFlightHours": 8.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        451,
+        716
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        415,
+        659
+      ],
+      "estimatedFlightHours": 7.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        512,
+        813
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        474,
+        753
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        446,
+        709
+      ],
+      "estimatedFlightHours": 7.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        921,
+        1462
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1076,
+        1709
+      ],
+      "estimatedFlightHours": 19.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        218,
+        347
+      ],
+      "estimatedFlightHours": 3.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        637,
+        1011
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        553,
+        879
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        473,
+        751
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        405,
+        644
+      ],
+      "estimatedFlightHours": 6.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        451,
+        716
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        525,
+        834
+      ],
+      "estimatedFlightHours": 9.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        553,
+        879
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        459,
+        729
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        103,
+        163
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        162,
+        258
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        128,
+        204
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        165,
+        262
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        541,
+        859
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        978,
+        1553
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Muscat International Airport (MCT)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1135,
+        1802
+      ],
+      "estimatedFlightHours": 20.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Royal Opera House Muscat guided tour",
+    "Bimmah Sinkhole and Wadi Shab day trip",
+    "Dhow sunset cruise, Muscat harbor",
+    "Desert camping in the Wahiba Sands",
+    "Sultan Qaboos Grand Mosque",
+    "Mutrah Corniche",
+    "Mutrah Souq",
+    "Al Alam Palace",
+    "Wadi Shab and Bimmah Sinkhole",
+    "Nizwa fort and souq",
+    "Wahiba Sands desert",
+    "Oman Across Ages Museum",
+    "National Museum of Oman",
+    "Bait Al Zubair",
+    "Qurum Natural Park",
+    "Riyam Park",
+    "Qurum Beach",
+    "Al Bustan Beach",
+    "Yiti Beach",
+    "Sultan Qaboos Grand Mosque interior",
+    "Mutrah Corniche at sunset",
+    "Bimmah Sinkhole turquoise water",
+    "Al Alam Palace gates"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Royal Opera House Muscat guided tour",
+      "priceUSD": 10
+    },
+    {
+      "name": "Bimmah Sinkhole and Wadi Shab day trip",
+      "priceUSD": 50
+    },
+    {
+      "name": "Dhow sunset cruise, Muscat harbor",
+      "priceUSD": 40
+    },
+    {
+      "name": "Desert camping in the Wahiba Sands",
+      "priceUSD": 130
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Sultan Qaboos Grand Mosque",
+    "Mutrah Corniche",
+    "Mutrah Souq",
+    "Al Alam Palace"
+  ],
+  "museums": [
+    "Oman Across Ages Museum",
+    "National Museum of Oman",
+    "Bait Al Zubair"
+  ],
+  "parks": [
+    "Qurum Natural Park",
+    "Riyam Park"
+  ],
+  "beaches": [
+    "Qurum Beach",
+    "Al Bustan Beach",
+    "Yiti Beach"
+  ],
+  "dayTrips": [
+    "Wadi Shab and Bimmah Sinkhole",
+    "Nizwa fort and souq",
+    "Wahiba Sands desert"
+  ],
+  "fromPriceUSD": 1963,
+  "seo": {
+    "title": "Muscat 7-Day Cultural Tour | Flights, Hotels & Tours Included",
+    "slug": "muscat-7-day-package",
+    "keywords": [
+      "Muscat",
+      "Oman",
+      "Muscat, Oman",
+      "Middle East",
+      "Muscat tour package",
+      "Muscat vacation package",
+      "Muscat holiday package",
+      "things to do in Muscat",
+      "best time to visit Muscat",
+      "Muscat itinerary",
+      "7 day Muscat itinerary",
+      "Muscat flights and hotels",
+      "Muscat all inclusive package",
+      "cheap Muscat package",
+      "luxury Muscat package"
+    ],
+    "canonicalUrl": "/packages/muscat-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Muscat Package",
+        "url": "/packages/muscat-5-day-package"
+      },
+      {
+        "title": "10-Day Muscat Package",
+        "url": "/packages/muscat-10-day-package"
+      },
+      {
+        "title": "Paro, Bhutan 7-Day Bucket List Trip",
+        "url": "/packages/paro-bhutan-7-day-package"
+      },
+      {
+        "title": "Abu Dhabi 7-Day Luxury Escape",
+        "url": "/packages/abu-dhabi-7-day-package"
+      },
+      {
+        "title": "Doha 7-Day Luxury Escape",
+        "url": "/packages/doha-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Muscat — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Muscat"
+      },
+      {
+        "title": "Muscat — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Muscat"
+      }
+    ]
+  }
+}

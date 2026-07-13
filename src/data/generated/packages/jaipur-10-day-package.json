@@ -1,0 +1,1673 @@
+{
+  "id": "PKG-jaipur-10D",
+  "slug": "jaipur-10-day-package",
+  "destinationSlug": "jaipur",
+  "destinationName": "Jaipur",
+  "country": "India",
+  "region": "Rajasthan",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Jaipur 10-Day Cultural Tour",
+  "metaTitle": "Jaipur 10-Day Cultural Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Jaipur, India: round-trip flights, hotel, breakfast, transfers, and guided tours including Amber Fort and City Palace. Prices from $1510 per person (estimate).",
+  "highlights": [
+    "Amber Fort",
+    "City Palace",
+    "Johari Bazaar",
+    "Pushkar"
+  ],
+  "overview": "Spend 10 days discovering Jaipur, India — Semi-arid climate with scorching summers (highs 39-42°C in May-June), a short but heavy monsoon July-September, and mild, dry winters (highs 22-24°C, cool nights). October to March, with pleasant highs of 22-29°C, ideal for fort-hopping and rooftop dining; avoid May-June (highs 40°C+). This itinerary blends Amber Fort, City Palace, Johari Bazaar with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Amber Fort, City Palace, Johari Bazaar",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Jaipur",
+      "description": "Land at Jaipur International Airport (JAI) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Amber Fort — Hilltop Rajput fort-palace with mirrored Sheesh Mahal. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Amber Fort"
+      ],
+      "overnight": "Jaipur"
+    },
+    {
+      "day": 2,
+      "title": "Jaipur: City Palace & Hawa Mahal",
+      "description": "Morning visit to City Palace — Royal residence complex with museums and courtyards. In the afternoon, continue to Hawa Mahal — Ornate five-story \"Palace of Winds\" facade with 953 windows. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "City Palace",
+        "Hawa Mahal"
+      ],
+      "overnight": "Jaipur"
+    },
+    {
+      "day": 3,
+      "title": "Jaipur: Jantar Mantar, Jaipur & Nahargarh Fort",
+      "description": "Morning visit to Jantar Mantar, Jaipur — UNESCO-listed 18th-century astronomical observatory. In the afternoon, continue to Nahargarh Fort — Hilltop fort with panoramic sunset views over the city. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Jantar Mantar, Jaipur",
+        "Nahargarh Fort"
+      ],
+      "overnight": "Jaipur"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Pushkar",
+      "description": "Full-day excursion to Pushkar, a popular side trip from Jaipur. Return to Jaipur in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Pushkar",
+        "Free evening"
+      ],
+      "overnight": "Jaipur"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Panna Meena ka Kund stepwell — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Panna Meena ka Kund stepwell"
+      ],
+      "overnight": "Jaipur"
+    },
+    {
+      "day": 6,
+      "title": "Jaipur: Jaigarh Fort & Albert Hall Museum",
+      "description": "Morning visit to Jaigarh Fort — Fort housing the world's largest cannon on wheels, Jaivana. In the afternoon, continue to Albert Hall Museum — Indo-Saracenic museum of art and antiquities in Ram Niwas Garden. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Jaigarh Fort",
+        "Albert Hall Museum"
+      ],
+      "overnight": "Jaipur"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Ajmer Sharif Dargah",
+      "description": "Full-day excursion to Ajmer Sharif Dargah, a popular side trip from Jaipur. Return to Jaipur in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Ajmer Sharif Dargah",
+        "Free evening"
+      ],
+      "overnight": "Jaipur"
+    },
+    {
+      "day": 8,
+      "title": "Jaipur: Jal Mahal (exterior viewing) & Chokhi Dhani",
+      "description": "Morning visit to Jal Mahal (exterior viewing) — Palace floating in the middle of Man Sagar Lake. In the afternoon, continue to Chokhi Dhani — Rajasthani village-themed cultural resort and dinner show. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Jal Mahal (exterior viewing)",
+        "Chokhi Dhani"
+      ],
+      "overnight": "Jaipur"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Galtaji Temple monkey sanctuary — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Galtaji Temple monkey sanctuary"
+      ],
+      "overnight": "Jaipur"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Johari Bazaar or some souvenir shopping — before your private transfer to JAI for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Visit Amber Fort early morning to beat both heat and tour-bus crowds.",
+    "Buy the composite ticket covering Amber Fort, Nahargarh, Jaigarh, Hawa Mahal and other monuments for better value.",
+    "Skip elephant rides up to Amber Fort and take the jeep or walk instead for animal welfare reasons.",
+    "Sunset at Nahargarh Fort offers one of the best panoramic views of the Pink City.",
+    "Gem and carpet \"cooperative\" shops often pay commissions to guides/drivers who bring tourists — verify prices independently before buying.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Light cotton clothing plus a scarf for sun and modesty at forts/temples",
+    "Comfortable shoes for steep fort staircases and cobbled bazaar lanes",
+    "A light jacket for cool winter evenings",
+    "Sunglasses and sunscreen for the strong desert sun"
+  ],
+  "thingsToDo": [
+    "Amber Fort",
+    "City Palace",
+    "Hawa Mahal",
+    "Jantar Mantar, Jaipur",
+    "Nahargarh Fort",
+    "Jaigarh Fort",
+    "Albert Hall Museum",
+    "Jal Mahal (exterior viewing)",
+    "Chokhi Dhani",
+    "Johari Bazaar",
+    "Bapu Bazaar",
+    "Patrika Gate",
+    "Galtaji Temple grounds",
+    "Pink City walls and gates",
+    "Central Park",
+    "Hot-air ballooning over Amber Fort and the Aravallis",
+    "Zip-lining at Amber Fort (\"Flying Fox\")",
+    "Trekking to Nahargarh Fort at sunrise",
+    "Off-roading jeep safaris in the Aravalli hills",
+    "Chokhi Dhani village experience"
+  ],
+  "thingsToAvoid": [
+    "Gemstone \"investment\" scams where shops claim stones can be resold abroad at a profit.",
+    "Unlicensed guides loitering at fort entrances — book through your hotel or the tourism counter.",
+    "Overpaying for photos with snake charmers or decorated camels/elephants near tourist sites.",
+    "Walking through Johari Bazaar during peak evening traffic hours if avoiding crowds and rickshaw congestion.",
+    "Drinking tap water — stick to sealed bottled water."
+  ],
+  "topRestaurants": [
+    "Suvarna Mahal (Rambagh Palace) — Royal Rajasthani ($$$$)",
+    "Laxmi Misthan Bhandar (LMB) — Rajasthani Vegetarian ($)",
+    "Chokhi Dhani — Rajasthani Thali & Cultural Dinner ($$)",
+    "1135 AD (Amber Fort) — Royal Mughlai-Rajasthani ($$$$)",
+    "Peacock Rooftop Restaurant — North Indian ($$)",
+    "Rawat Mishthan Bhandar — Kachori & Sweets ($)",
+    "Tapri Central — Cafe & Chai ($)",
+    "Handi Restaurant, MI Road — Rajasthani & North Indian ($$)"
+  ],
+  "topCafes": [
+    "Tapri Central",
+    "Anokhi Cafe",
+    "Wind View Cafe (Hawa Mahal view)",
+    "Curious Life Coffee Roasters",
+    "World Trade Park cafes"
+  ],
+  "shoppingAreas": [
+    "Johari Bazaar",
+    "Bapu Bazaar",
+    "Tripolia Bazaar",
+    "Nehru Bazaar",
+    "Chandpole Bazaar"
+  ],
+  "nightlife": [
+    "Chokhi Dhani cultural dinner and folk dance show",
+    "Bar Palladio",
+    "Rooftop bars along MI Road",
+    "Wind View Cafe sunset gatherings"
+  ],
+  "instagramSpots": [
+    "Hawa Mahal facade at sunrise",
+    "Patrika Gate murals",
+    "Amber Fort Sheesh Mahal",
+    "Nahargarh Fort sunset viewpoint",
+    "Pink City rooftop lanes"
+  ],
+  "hiddenGems": [
+    "Panna Meena ka Kund stepwell",
+    "Galtaji Temple monkey sanctuary",
+    "Sisodia Rani Garden",
+    "Amrapali Museum"
+  ],
+  "familyActivities": [
+    "Chokhi Dhani village experience",
+    "Jaipur Zoo & Central Park",
+    "Elephant sanctuary visit near Amber Fort (ethical, no-ride options)",
+    "Nahargarh Biological Park"
+  ],
+  "adventureActivities": [
+    "Hot-air ballooning over Amber Fort and the Aravallis",
+    "Zip-lining at Amber Fort (\"Flying Fox\")",
+    "Trekking to Nahargarh Fort at sunrise",
+    "Off-roading jeep safaris in the Aravalli hills"
+  ],
+  "luxuryExperiences": [
+    "Overnight stay at Rambagh Palace, a former royal residence",
+    "Private heritage walk of the Pink City with a royal-family historian",
+    "Fine dining at Suvarna Mahal",
+    "Private evening at Amber Fort with 1135 AD dinner"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at Nahargarh Fort overlooking the city",
+    "Candlelight dinner at a Rambagh Palace terrace",
+    "Couple's cooking class in Rajasthani cuisine",
+    "Horse-drawn carriage ride through the old city at dusk"
+  ],
+  "budgetExperiences": [
+    "Street food crawl for kachori and lassi near Rawat Mishthan Bhandar",
+    "Self-guided Pink City walking tour",
+    "Free viewpoints at Patrika Gate and Jal Mahal",
+    "Shared auto-rickshaw fort-hopping day"
+  ],
+  "estimatedDailyBudgetUSD": [
+    18,
+    55,
+    130,
+    320
+  ],
+  "safetyRating": 3,
+  "internetRating": 3,
+  "publicTransportRating": 3,
+  "walkingScore": 40,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 37,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 40,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 39,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 33,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 23,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Jaipur Literature Festival",
+      "timing": "Late January"
+    },
+    {
+      "name": "Teej Festival",
+      "timing": "July-August (per lunar calendar)"
+    },
+    {
+      "name": "Gangaur Festival",
+      "timing": "March-April (per lunar calendar)"
+    },
+    {
+      "name": "Jaipur Kite Festival (Makar Sankranti)",
+      "timing": "January 14"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101"
+  },
+  "localEtiquette": [
+    "Dress modestly when visiting City Palace, Amber Fort and temples — shoulders and knees covered.",
+    "Bargaining is the norm in bazaars like Johari Bazaar and Bapu Bazaar; start at roughly half the quoted price.",
+    "Ask permission before photographing local people, especially women in traditional dress.",
+    "Remove shoes before entering temple sanctums; some, like Govind Dev Ji Temple, have specific darshan (viewing) timings.",
+    "Elephant rides up Amber Fort are controversial for animal welfare — many travelers now opt for the jeep or walking route instead."
+  ],
+  "localTransportGuide": "Auto-rickshaws and Ola/Uber cabs cover the city well; the Jaipur Metro runs a limited line between Mansarovar and Chandpole, useful mainly for the Pink City area. For fort-hopping (Amber, Nahargarh, Jaigarh), hiring an auto or car for a half-day is more efficient than individual rides.",
+  "bestTimeToVisit": "October to March, with pleasant highs of 22-29°C, ideal for fort-hopping and rooftop dining; avoid May-June (highs 40°C+).",
+  "weather": "Semi-arid climate with scorching summers (highs 39-42°C in May-June), a short but heavy monsoon July-September, and mild, dry winters (highs 22-24°C, cool nights).",
+  "visaInformation": "Most foreign nationals require an Indian e-Visa applied for online before travel. Indian citizens need no visa, and OCI/PIO cardholders travel visa-free with a linked foreign passport — a frequent arrangement for NRIs visiting Rajasthan on family trips.",
+  "currency": "INR",
+  "languages": [
+    "Hindi",
+    "Rajasthani"
+  ],
+  "timeZone": "IST (UTC+5:30)",
+  "averageFlightTime": "~9.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Jaipur International Airport (JAI)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Jaipur?",
+      "answer": "Most foreign nationals require an Indian e-Visa applied for online before travel. Indian citizens need no visa, and OCI/PIO cardholders travel visa-free with a linked foreign passport — a frequent arrangement for NRIs visiting Rajasthan on family trips."
+    },
+    {
+      "question": "What is the best time to visit Jaipur?",
+      "answer": "October to March, with pleasant highs of 22-29°C, ideal for fort-hopping and rooftop dining; avoid May-June (highs 40°C+). Semi-arid climate with scorching summers (highs 39-42°C in May-June), a short but heavy monsoon July-September, and mild, dry winters (highs 22-24°C, cool nights)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Jaipur safe for tourists?",
+      "answer": "Jaipur is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Jaipur?",
+      "answer": "The local currency is INR. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include Chokhi Dhani village experience."
+    }
+  ],
+  "categories": [
+    "Culture",
+    "History",
+    "Shopping",
+    "Family",
+    "City Break",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Jaipur",
+    "India",
+    "Jaipur, India",
+    "Rajasthan",
+    "Jaipur tour package",
+    "Jaipur vacation package",
+    "Jaipur holiday package",
+    "things to do in Jaipur",
+    "best time to visit Jaipur",
+    "Jaipur itinerary",
+    "10 day Jaipur itinerary",
+    "Jaipur flights and hotels",
+    "Jaipur all inclusive package",
+    "cheap Jaipur package",
+    "luxury Jaipur package",
+    "Jaipur honeymoon package",
+    "Jaipur family vacation",
+    "Jaipur solo trip",
+    "Jaipur group tour",
+    "Jaipur weekend getaway",
+    "Jaipur guided tour",
+    "JAI flights",
+    "Jaipur travel guide",
+    "book Jaipur trip online",
+    "Jaipur trip cost",
+    "Jaipur packages 10 days",
+    "Jaipur culture",
+    "Jaipur history",
+    "Jaipur shopping",
+    "Jaipur family",
+    "Jaipur city break",
+    "Jaipur bucket list",
+    "Amber Fort",
+    "City Palace",
+    "Hawa Mahal",
+    "Jantar Mantar, Jaipur",
+    "Nahargarh Fort",
+    "Jaigarh Fort",
+    "Albert Hall Museum",
+    "Jal Mahal (exterior viewing)",
+    "Chokhi Dhani",
+    "Johari Bazaar",
+    "Bapu Bazaar",
+    "Patrika Gate",
+    "Galtaji Temple grounds",
+    "Pink City walls and gates",
+    "Central Park",
+    "Suvarna Mahal (Rambagh Palace)",
+    "Laxmi Misthan Bhandar (LMB)",
+    "1135 AD (Amber Fort)"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Jaipur, India — Amber Fort courtyard",
+      "keywords": [
+        "Jaipur",
+        "India",
+        "Amber Fort courtyard",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Jaipur Amber Fort courtyard",
+      "pexelsQuery": "Jaipur Amber Fort courtyard",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Jaipur, India — Amber Fort courtyard",
+      "keywords": [
+        "Jaipur",
+        "India",
+        "Amber Fort courtyard",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Jaipur Amber Fort courtyard",
+      "pexelsQuery": "Jaipur Amber Fort courtyard",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Jaipur, India — Hawa Mahal facade",
+      "keywords": [
+        "Jaipur",
+        "India",
+        "Hawa Mahal facade",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Jaipur Hawa Mahal facade",
+      "pexelsQuery": "Jaipur Hawa Mahal facade",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Jaipur, India — Pink City streets",
+      "keywords": [
+        "Jaipur",
+        "India",
+        "Pink City streets",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Jaipur Pink City streets",
+      "pexelsQuery": "Jaipur Pink City streets",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Jaipur, India — Amber Fort courtyard",
+      "keywords": [
+        "Jaipur",
+        "India",
+        "Amber Fort courtyard",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Jaipur Amber Fort courtyard",
+      "pexelsQuery": "Jaipur Amber Fort courtyard",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jaipur, India — Hawa Mahal facade",
+      "keywords": [
+        "Jaipur",
+        "India",
+        "Hawa Mahal facade",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Jaipur Hawa Mahal facade",
+      "pexelsQuery": "Jaipur Hawa Mahal facade",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jaipur, India — Pink City streets",
+      "keywords": [
+        "Jaipur",
+        "India",
+        "Pink City streets",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Jaipur Pink City streets",
+      "pexelsQuery": "Jaipur Pink City streets",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jaipur, India — Nahargarh Fort sunset",
+      "keywords": [
+        "Jaipur",
+        "India",
+        "Nahargarh Fort sunset",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Jaipur Nahargarh Fort sunset",
+      "pexelsQuery": "Jaipur Nahargarh Fort sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jaipur, India — Amber Fort",
+      "keywords": [
+        "Jaipur",
+        "India",
+        "Amber Fort",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Jaipur Amber Fort",
+      "pexelsQuery": "Jaipur Amber Fort",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jaipur, India — City Palace",
+      "keywords": [
+        "Jaipur",
+        "India",
+        "City Palace",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Jaipur City Palace",
+      "pexelsQuery": "Jaipur City Palace",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jaipur, India — Hawa Mahal",
+      "keywords": [
+        "Jaipur",
+        "India",
+        "Hawa Mahal",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Jaipur Hawa Mahal",
+      "pexelsQuery": "Jaipur Hawa Mahal",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Jaipur, India — Jantar Mantar, Jaipur",
+      "keywords": [
+        "Jaipur",
+        "India",
+        "Jantar Mantar, Jaipur",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Jaipur Jantar Mantar, Jaipur",
+      "pexelsQuery": "Jaipur Jantar Mantar, Jaipur",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-jaipur-10-1",
+      "author": "Yuki Larsen",
+      "country": "United Kingdom",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-07",
+      "title": "Consultant made it effortless",
+      "body": "City Palace alone was worth the trip, but combined with Amber Fort this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-2",
+      "author": "Wei Novak",
+      "country": "Italy",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-20",
+      "title": "Great for families with kids",
+      "body": "Booked this as a couple trip and it was well paced. Pink City walls and gates in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-3",
+      "author": "Isabella Silva",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-05",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Jantar Mantar, Jaipur and Pink City walls and gates. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-4",
+      "author": "David Ibrahim",
+      "country": "South Korea",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-05",
+      "title": "Smooth from start to finish",
+      "body": "Jaipur is stunning and this package covered the essentials well, especially Jal Mahal (exterior viewing). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-5",
+      "author": "Liam Sharma",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-08-14",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Jaipur was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Jal Mahal (exterior viewing) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-6",
+      "author": "Nadia Dubois",
+      "country": "Japan",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-04-25",
+      "title": "Beautiful destination, well organized",
+      "body": "Jaipur is stunning and this package covered the essentials well, especially Jal Mahal (exterior viewing). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-7",
+      "author": "Isabella Rossi",
+      "country": "Netherlands",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-21",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Bapu Bazaar and Jantar Mantar, Jaipur. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-8",
+      "author": "Liam Dubois",
+      "country": "Brazil",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-12-31",
+      "title": "Great value for money",
+      "body": "Our trip to Jaipur was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Chokhi Dhani was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-9",
+      "author": "Omar Santos",
+      "country": "Saudi Arabia",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-02-20",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Galtaji Temple grounds and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-10",
+      "author": "Ethan Novak",
+      "country": "Italy",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-08",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Pink City walls and gates and Jal Mahal (exterior viewing). Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-11",
+      "author": "Priya Cohen",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-06",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a family of 4 trip and it was well paced. Chokhi Dhani in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-12",
+      "author": "Tom Brown",
+      "country": "UAE",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-01-27",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Jaigarh Fort and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-13",
+      "author": "Fatima Novak",
+      "country": "India",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-29",
+      "title": "Worth every penny",
+      "body": "Nahargarh Fort alone was worth the trip, but combined with City Palace this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-14",
+      "author": "Arjun Sharma",
+      "country": "South Korea",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-09-03",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a couple trip and it was well paced. Jal Mahal (exterior viewing) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-15",
+      "author": "Grace Brown",
+      "country": "Germany",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-01-05",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Jantar Mantar, Jaipur and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-16",
+      "author": "James Garcia",
+      "country": "Mexico",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-04-27",
+      "title": "Exceeded our expectations",
+      "body": "Our trip to Jaipur was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Pink City walls and gates was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-17",
+      "author": "Omar Patel",
+      "country": "Australia",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-12-04",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Hawa Mahal and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-18",
+      "author": "Anna Sharma",
+      "country": "Italy",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-15",
+      "title": "Smooth from start to finish",
+      "body": "Jaipur is stunning and this package covered the essentials well, especially Central Park. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-19",
+      "author": "James Botha",
+      "country": "Spain",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-01-09",
+      "title": "Five stars, will return",
+      "body": "Our trip to Jaipur was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Central Park was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-jaipur-10-20",
+      "author": "Sofia Novak",
+      "country": "United Kingdom",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-12",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a group trip and it was well paced. City Palace in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.4,
+    "transportation": 4.3,
+    "activities": 4.4,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Jaipur Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 4,
+      "neighborhood": "Johari Bazaar"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Jaipur Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 7,
+      "neighborhood": "Bapu Bazaar"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Jaipur Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 19,
+      "neighborhood": "Tripolia Bazaar"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Jaipur Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 25,
+      "neighborhood": "Nehru Bazaar"
+    },
+    {
+      "tier": "Resort",
+      "name": "Jaipur Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 65,
+      "neighborhood": "Chandpole Bazaar"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Jaipur Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 134,
+      "neighborhood": "Chokhi Dhani cultural dinner and folk dance show"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Jaipur Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "Bar Palladio"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        934,
+        1484
+      ],
+      "estimatedFlightHours": 16.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        927,
+        1472
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        564,
+        896
+      ],
+      "estimatedFlightHours": 9.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        554,
+        880
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        520,
+        826
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        503,
+        799
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        602,
+        956
+      ],
+      "estimatedFlightHours": 10.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        539,
+        856
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        522,
+        829
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        830,
+        1318
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        980,
+        1557
+      ],
+      "estimatedFlightHours": 17.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 1.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        513,
+        815
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        430,
+        683
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        375,
+        595
+      ],
+      "estimatedFlightHours": 6.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        290,
+        460
+      ],
+      "estimatedFlightHours": 4.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        353,
+        560
+      ],
+      "estimatedFlightHours": 5.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        436,
+        693
+      ],
+      "estimatedFlightHours": 7.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        428,
+        680
+      ],
+      "estimatedFlightHours": 7.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        343,
+        545
+      ],
+      "estimatedFlightHours": 5.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        225,
+        358
+      ],
+      "estimatedFlightHours": 3.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        287,
+        456
+      ],
+      "estimatedFlightHours": 4.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        252,
+        400
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        274,
+        435
+      ],
+      "estimatedFlightHours": 4.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        641,
+        1018
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1107,
+        1758
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Jaipur International Airport (JAI)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1148,
+        1824
+      ],
+      "estimatedFlightHours": 20.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Amber Fort",
+    "City Palace",
+    "Hawa Mahal",
+    "Jantar Mantar, Jaipur",
+    "Nahargarh Fort",
+    "Jaigarh Fort",
+    "Albert Hall Museum",
+    "Jal Mahal (exterior viewing)",
+    "Chokhi Dhani",
+    "Johari Bazaar",
+    "Bapu Bazaar",
+    "Patrika Gate",
+    "Galtaji Temple grounds",
+    "Pink City walls and gates",
+    "Central Park",
+    "Pushkar",
+    "Ajmer Sharif Dargah",
+    "Samode Palace and village",
+    "Ranthambore National Park",
+    "City Palace Museum",
+    "Amrapali Museum",
+    "Ram Niwas Garden",
+    "Sisodia Rani Garden",
+    "Hawa Mahal facade at sunrise",
+    "Patrika Gate murals",
+    "Amber Fort Sheesh Mahal",
+    "Nahargarh Fort sunset viewpoint",
+    "Pink City rooftop lanes"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Amber Fort",
+      "priceUSD": 6
+    },
+    {
+      "name": "City Palace",
+      "priceUSD": 10
+    },
+    {
+      "name": "Hawa Mahal",
+      "priceUSD": 3
+    },
+    {
+      "name": "Jantar Mantar, Jaipur",
+      "priceUSD": 3
+    },
+    {
+      "name": "Nahargarh Fort",
+      "priceUSD": 3
+    },
+    {
+      "name": "Jaigarh Fort",
+      "priceUSD": 3
+    },
+    {
+      "name": "Albert Hall Museum",
+      "priceUSD": 3
+    },
+    {
+      "name": "Jal Mahal (exterior viewing)",
+      "priceUSD": 1
+    },
+    {
+      "name": "Chokhi Dhani",
+      "priceUSD": 15
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Johari Bazaar",
+    "Bapu Bazaar",
+    "Patrika Gate",
+    "Galtaji Temple grounds",
+    "Pink City walls and gates",
+    "Central Park"
+  ],
+  "museums": [
+    "Albert Hall Museum",
+    "City Palace Museum",
+    "Amrapali Museum"
+  ],
+  "parks": [
+    "Ram Niwas Garden",
+    "Central Park",
+    "Sisodia Rani Garden"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Pushkar",
+    "Ajmer Sharif Dargah",
+    "Samode Palace and village",
+    "Ranthambore National Park"
+  ],
+  "fromPriceUSD": 1510,
+  "seo": {
+    "title": "Jaipur 10-Day Cultural Tour | Flights, Hotels & Tours Included",
+    "slug": "jaipur-10-day-package",
+    "keywords": [
+      "Jaipur",
+      "India",
+      "Jaipur, India",
+      "Rajasthan",
+      "Jaipur tour package",
+      "Jaipur vacation package",
+      "Jaipur holiday package",
+      "things to do in Jaipur",
+      "best time to visit Jaipur",
+      "Jaipur itinerary",
+      "10 day Jaipur itinerary",
+      "Jaipur flights and hotels",
+      "Jaipur all inclusive package",
+      "cheap Jaipur package",
+      "luxury Jaipur package"
+    ],
+    "canonicalUrl": "/packages/jaipur-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Jaipur Package",
+        "url": "/packages/jaipur-7-day-package"
+      },
+      {
+        "title": "14-Day Jaipur Package",
+        "url": "/packages/jaipur-14-day-package"
+      },
+      {
+        "title": "London 10-Day City Break",
+        "url": "/packages/london-10-day-package"
+      },
+      {
+        "title": "Istanbul 10-Day City Break",
+        "url": "/packages/istanbul-10-day-package"
+      },
+      {
+        "title": "Seoul 10-Day City Break",
+        "url": "/packages/seoul-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Jaipur — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jaipur"
+      },
+      {
+        "title": "Jaipur — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Jaipur"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1528 @@
+{
+  "id": "PKG-tel-aviv-3D",
+  "slug": "tel-aviv-3-day-package",
+  "destinationSlug": "tel-aviv",
+  "destinationName": "Tel Aviv",
+  "country": "Israel",
+  "region": "Middle East",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Tel Aviv 3-Day Beach Getaway",
+  "metaTitle": "Tel Aviv 3-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Tel Aviv, Israel: round-trip flights, hotel, breakfast, transfers, and guided tours including Tel Aviv Museum of Art and ANU Museum of the Jewish People. Prices from $1405 per person (estimate).",
+  "highlights": [
+    "Tel Aviv Museum of Art",
+    "ANU Museum of the Jewish People",
+    "Tel Aviv beaches",
+    "Jerusalem (45 minutes)"
+  ],
+  "overview": "Spend 3 days discovering Tel Aviv, Israel — Mediterranean climate — hot, humid summers (highs around 30-31°C) and mild, occasionally rainy winters (highs around 18°C). April-May and September-October, for warm, comfortable weather without peak summer humidity. This itinerary blends Tel Aviv Museum of Art, ANU Museum of the Jewish People, Tel Aviv beaches with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Tel Aviv Museum of Art, ANU Museum of the Jewish People, Tel Aviv beaches",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Tel Aviv",
+      "description": "Land at Ben Gurion Airport (TLV) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Tel Aviv Museum of Art — Major collection of modern and contemporary art. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Tel Aviv Museum of Art"
+      ],
+      "overnight": "Tel Aviv"
+    },
+    {
+      "day": 2,
+      "title": "Tel Aviv: ANU Museum of the Jewish People & Old Jaffa walking tour",
+      "description": "Morning visit to ANU Museum of the Jewish People — Comprehensive museum on Jewish history and culture. In the afternoon, continue to Old Jaffa walking tour — Guided tour of the ancient port town's alleys and flea market. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "ANU Museum of the Jewish People",
+        "Old Jaffa walking tour"
+      ],
+      "overnight": "Tel Aviv"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Independence Hall or some souvenir shopping — before your private transfer to TLV for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Public transport largely shuts down for Shabbat — plan Friday evening/Saturday transport via taxi or rideshare, or stay walkable to your hotel.",
+    "Rent a Tel-O-Fun bike for an easy way to cover the boulevard, port, and beach areas.",
+    "Visit Carmel Market for lunch — the stalls and adjoining Levinsky Market are a real local food scene.",
+    "Combine a Tel Aviv beach trip with a Jerusalem day trip — they're under an hour apart.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Beachwear and sandals for the boardwalk",
+    "Light, breathable clothing for the heat and humidity",
+    "A modest cover-up for visiting religious or historic sites"
+  ],
+  "thingsToDo": [
+    "Tel Aviv Museum of Art",
+    "ANU Museum of the Jewish People",
+    "Old Jaffa walking tour",
+    "Independence Hall",
+    "Tel Aviv beaches",
+    "Rothschild Boulevard",
+    "Carmel Market (Shuk HaCarmel)",
+    "Old Jaffa",
+    "Neve Tzedek",
+    "Surfing and paddleboarding off Tel Aviv beaches",
+    "Cycling the Tel Aviv coastal path",
+    "Day trip to float in the Dead Sea",
+    "Tel Aviv beaches and boardwalk",
+    "Tel Aviv Port promenade",
+    "Luna Park amusement park"
+  ],
+  "thingsToAvoid": [
+    "Assuming buses and trains run on Shabbat — they generally don't.",
+    "Leaving valuables unattended on the beach.",
+    "Booking travel without checking current regional advisories, given the security situation can change."
+  ],
+  "topRestaurants": [
+    "Miznon — Israeli street food (pita) ($)",
+    "Taizu — Pan-Asian fusion ($$$$)",
+    "Dr. Shakshuka — Libyan-Israeli, shakshuka specialist ($$)",
+    "Port Sa'id — Israeli-Mediterranean small plates ($$$)"
+  ],
+  "topCafes": [
+    "Cafelix",
+    "Nahat Coffee Boutique",
+    "Café Xoho"
+  ],
+  "shoppingAreas": [
+    "Carmel Market",
+    "Sarona Market",
+    "Dizengoff Street boutiques"
+  ],
+  "nightlife": [
+    "Rothschild Boulevard bars",
+    "Florentin neighborhood clubs",
+    "Old Jaffa Flea Market bars"
+  ],
+  "instagramSpots": [
+    "Old Jaffa alleys and sea views",
+    "Bauhaus buildings on Rothschild Boulevard",
+    "Tel Aviv Port boardwalk",
+    "Carmel Market stalls"
+  ],
+  "hiddenGems": [
+    "Levinsky Market spice shops",
+    "Hatachana renovated railway complex",
+    "Sarona Market food hall"
+  ],
+  "familyActivities": [
+    "Tel Aviv beaches and boardwalk",
+    "Tel Aviv Port promenade",
+    "Luna Park amusement park"
+  ],
+  "adventureActivities": [
+    "Surfing and paddleboarding off Tel Aviv beaches",
+    "Cycling the Tel Aviv coastal path",
+    "Day trip to float in the Dead Sea"
+  ],
+  "luxuryExperiences": [
+    "Suite stay at a boutique Neve Tzedek hotel",
+    "Private Old Jaffa and Bauhaus architecture tour",
+    "Fine dining at Taizu"
+  ],
+  "honeymoonExperiences": [
+    "Sunset walk through Old Jaffa",
+    "Beachfront dinner on the Tel Aviv promenade",
+    "Boutique hotel stay in Neve Tzedek"
+  ],
+  "budgetExperiences": [
+    "Free beach days along the Mediterranean",
+    "Carmel Market wander and street food",
+    "Free self-guided Bauhaus architecture walk"
+  ],
+  "estimatedDailyBudgetUSD": [
+    85,
+    165,
+    320,
+    700
+  ],
+  "safetyRating": 3.5,
+  "internetRating": 5,
+  "publicTransportRating": 4,
+  "walkingScore": 75,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 21,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 24,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 29,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 30,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 31,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 28,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 24,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 19,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Tel Aviv Pride",
+      "timing": "June"
+    },
+    {
+      "name": "White Night (Layla Lavan)",
+      "timing": "June"
+    },
+    {
+      "name": "Tel Aviv Marathon",
+      "timing": "February"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "101",
+    "fire": "102"
+  },
+  "localEtiquette": [
+    "Tel Aviv is famously casual and beach-focused — dress is relaxed compared to Jerusalem.",
+    "Shabbat (Friday evening to Saturday evening) means many businesses close, though Tel Aviv stays livelier than most Israeli cities.",
+    "Tipping around 12% is standard at restaurants."
+  ],
+  "localTransportGuide": "Tel Aviv is highly walkable and bike-friendly, with a citywide bike-share system (Tel-O-Fun) that's popular for getting between beach, market, and boulevard neighborhoods. Buses cover the rest of the city; note that public transit largely stops for Shabbat (Friday evening to Saturday evening), when taxis and rideshare apps are the main options.",
+  "bestTimeToVisit": "April-May and September-October, for warm, comfortable weather without peak summer humidity.",
+  "weather": "Mediterranean climate — hot, humid summers (highs around 30-31°C) and mild, occasionally rainy winters (highs around 18°C).",
+  "visaInformation": "Visa-free entry for stays up to 90 days for US, UK, EU, Canadian, and Australian passport holders. Indian nationals need an e-visa arranged in advance. Check current entry requirements and regional travel advisories before booking, as conditions can change.",
+  "currency": "ILS",
+  "languages": [
+    "Hebrew",
+    "Arabic"
+  ],
+  "timeZone": "IST (UTC+2)",
+  "averageFlightTime": "~9.6h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Ben Gurion Airport (TLV)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Tel Aviv?",
+      "answer": "Visa-free entry for stays up to 90 days for US, UK, EU, Canadian, and Australian passport holders. Indian nationals need an e-visa arranged in advance. Check current entry requirements and regional travel advisories before booking, as conditions can change."
+    },
+    {
+      "question": "What is the best time to visit Tel Aviv?",
+      "answer": "April-May and September-October, for warm, comfortable weather without peak summer humidity. Mediterranean climate — hot, humid summers (highs around 30-31°C) and mild, occasionally rainy winters (highs around 18°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Tel Aviv safe for tourists?",
+      "answer": "Tel Aviv is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Tel Aviv?",
+      "answer": "The local currency is ILS. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "City Break",
+    "Nightlife",
+    "Culture",
+    "Food",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Tel Aviv",
+    "Israel",
+    "Tel Aviv, Israel",
+    "Middle East",
+    "Tel Aviv tour package",
+    "Tel Aviv vacation package",
+    "Tel Aviv holiday package",
+    "things to do in Tel Aviv",
+    "best time to visit Tel Aviv",
+    "Tel Aviv itinerary",
+    "3 day Tel Aviv itinerary",
+    "Tel Aviv flights and hotels",
+    "Tel Aviv all inclusive package",
+    "cheap Tel Aviv package",
+    "luxury Tel Aviv package",
+    "Tel Aviv honeymoon package",
+    "Tel Aviv family vacation",
+    "Tel Aviv solo trip",
+    "Tel Aviv group tour",
+    "Tel Aviv weekend getaway",
+    "Tel Aviv guided tour",
+    "TLV flights",
+    "Tel Aviv travel guide",
+    "book Tel Aviv trip online",
+    "Tel Aviv trip cost",
+    "Tel Aviv packages 3 days",
+    "Tel Aviv beach",
+    "Tel Aviv city break",
+    "Tel Aviv nightlife",
+    "Tel Aviv culture",
+    "Tel Aviv food",
+    "Tel Aviv Museum of Art",
+    "ANU Museum of the Jewish People",
+    "Old Jaffa walking tour",
+    "Independence Hall",
+    "Tel Aviv beaches",
+    "Rothschild Boulevard",
+    "Carmel Market (Shuk HaCarmel)",
+    "Old Jaffa",
+    "Neve Tzedek",
+    "Miznon",
+    "Taizu",
+    "Dr. Shakshuka",
+    "Port Sa'id",
+    "Old Jaffa alleys and sea views",
+    "Bauhaus buildings on Rothschild Boulevard",
+    "Tel Aviv Port boardwalk",
+    "Carmel Market stalls",
+    "Levinsky Market spice shops",
+    "Hatachana renovated railway complex"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Tel Aviv, Israel — Tel Aviv beach skyline",
+      "keywords": [
+        "Tel Aviv",
+        "Israel",
+        "Tel Aviv beach skyline",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Tel Aviv Tel Aviv beach skyline",
+      "pexelsQuery": "Tel Aviv Tel Aviv beach skyline",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Tel Aviv, Israel — Tel Aviv beach skyline",
+      "keywords": [
+        "Tel Aviv",
+        "Israel",
+        "Tel Aviv beach skyline",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Tel Aviv Tel Aviv beach skyline",
+      "pexelsQuery": "Tel Aviv Tel Aviv beach skyline",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Tel Aviv, Israel — Old Jaffa alleys sunset",
+      "keywords": [
+        "Tel Aviv",
+        "Israel",
+        "Old Jaffa alleys sunset",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Tel Aviv Old Jaffa alleys sunset",
+      "pexelsQuery": "Tel Aviv Old Jaffa alleys sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Tel Aviv, Israel — Bauhaus architecture Rothschild",
+      "keywords": [
+        "Tel Aviv",
+        "Israel",
+        "Bauhaus architecture Rothschild",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Tel Aviv Bauhaus architecture Rothschild",
+      "pexelsQuery": "Tel Aviv Bauhaus architecture Rothschild",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Tel Aviv, Israel — Tel Aviv beach skyline",
+      "keywords": [
+        "Tel Aviv",
+        "Israel",
+        "Tel Aviv beach skyline",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Tel Aviv Tel Aviv beach skyline",
+      "pexelsQuery": "Tel Aviv Tel Aviv beach skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tel Aviv, Israel — Old Jaffa alleys sunset",
+      "keywords": [
+        "Tel Aviv",
+        "Israel",
+        "Old Jaffa alleys sunset",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Tel Aviv Old Jaffa alleys sunset",
+      "pexelsQuery": "Tel Aviv Old Jaffa alleys sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tel Aviv, Israel — Bauhaus architecture Rothschild",
+      "keywords": [
+        "Tel Aviv",
+        "Israel",
+        "Bauhaus architecture Rothschild",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Tel Aviv Bauhaus architecture Rothschild",
+      "pexelsQuery": "Tel Aviv Bauhaus architecture Rothschild",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tel Aviv, Israel — Carmel Market stalls",
+      "keywords": [
+        "Tel Aviv",
+        "Israel",
+        "Carmel Market stalls",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Tel Aviv Carmel Market stalls",
+      "pexelsQuery": "Tel Aviv Carmel Market stalls",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tel Aviv, Israel — Tel Aviv Museum of Art",
+      "keywords": [
+        "Tel Aviv",
+        "Israel",
+        "Tel Aviv Museum of Art",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Tel Aviv Tel Aviv Museum of Art",
+      "pexelsQuery": "Tel Aviv Tel Aviv Museum of Art",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tel Aviv, Israel — ANU Museum of the Jewish People",
+      "keywords": [
+        "Tel Aviv",
+        "Israel",
+        "ANU Museum of the Jewish People",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Tel Aviv ANU Museum of the Jewish People",
+      "pexelsQuery": "Tel Aviv ANU Museum of the Jewish People",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tel Aviv, Israel — Old Jaffa walking tour",
+      "keywords": [
+        "Tel Aviv",
+        "Israel",
+        "Old Jaffa walking tour",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Tel Aviv Old Jaffa walking tour",
+      "pexelsQuery": "Tel Aviv Old Jaffa walking tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Tel Aviv, Israel — Independence Hall",
+      "keywords": [
+        "Tel Aviv",
+        "Israel",
+        "Independence Hall",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Tel Aviv Independence Hall",
+      "pexelsQuery": "Tel Aviv Independence Hall",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-tel-aviv-3-1",
+      "author": "Arjun Tanaka",
+      "country": "United Kingdom",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-12-06",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a solo trip and it was well paced. Tel Aviv Museum of Art in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-2",
+      "author": "Mohammed Andersen",
+      "country": "Singapore",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-12-31",
+      "title": "Adventure of a lifetime",
+      "body": "Tel Aviv beaches alone was worth the trip, but combined with ANU Museum of the Jewish People this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-3",
+      "author": "Hiroshi Botha",
+      "country": "Mexico",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-07-31",
+      "title": "Solid mid-range package",
+      "body": "Old Jaffa alone was worth the trip, but combined with Rothschild Boulevard this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-tel-aviv-3-4",
+      "author": "Wei Silva",
+      "country": "South Korea",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-06",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a group trip and it was well paced. Tel Aviv beaches in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-tel-aviv-3-5",
+      "author": "Noah Sharma",
+      "country": "Saudi Arabia",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-23",
+      "title": "Worth every penny",
+      "body": "Our trip to Tel Aviv was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Old Jaffa was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-6",
+      "author": "Olivia Nguyen",
+      "country": "Netherlands",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-02",
+      "title": "Exceeded our expectations",
+      "body": "Our trip to Tel Aviv was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Carmel Market (Shuk HaCarmel) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-7",
+      "author": "Noah Garcia",
+      "country": "United States",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-10",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Tel Aviv was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Tel Aviv Museum of Art was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-tel-aviv-3-8",
+      "author": "Emma Santos",
+      "country": "Switzerland",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-05-22",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Tel Aviv was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Carmel Market (Shuk HaCarmel) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-9",
+      "author": "Tom Cohen",
+      "country": "Netherlands",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-03-28",
+      "title": "Five stars, will return",
+      "body": "We added a couple of optional activities beyond Carmel Market (Shuk HaCarmel) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-10",
+      "author": "Anna Silva",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-11-14",
+      "title": "Luxury without the hassle",
+      "body": "Tel Aviv is stunning and this package covered the essentials well, especially Tel Aviv beaches. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-11",
+      "author": "Hiroshi Williams",
+      "country": "Mexico",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-11-02",
+      "title": "Great value for money",
+      "body": "Neve Tzedek alone was worth the trip, but combined with Rothschild Boulevard this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-12",
+      "author": "Liam Smith",
+      "country": "Saudi Arabia",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-05-06",
+      "title": "Great value for money",
+      "body": "Our trip to Tel Aviv was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Old Jaffa was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-tel-aviv-3-13",
+      "author": "Mohammed Rossi",
+      "country": "Germany",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-28",
+      "title": "Smooth from start to finish",
+      "body": "ANU Museum of the Jewish People alone was worth the trip, but combined with Rothschild Boulevard this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-tel-aviv-3-14",
+      "author": "Sarah Rossi",
+      "country": "Germany",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-01-08",
+      "title": "Highly recommend this package",
+      "body": "Tel Aviv is stunning and this package covered the essentials well, especially ANU Museum of the Jewish People. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-15",
+      "author": "Isabella Brown",
+      "country": "United Kingdom",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-03-17",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Tel Aviv Museum of Art and Rothschild Boulevard. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-16",
+      "author": "Tom Santos",
+      "country": "Mexico",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-04-13",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Neve Tzedek and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-17",
+      "author": "Fatima Rossi",
+      "country": "France",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-02-26",
+      "title": "Exceeded our expectations",
+      "body": "Old Jaffa walking tour alone was worth the trip, but combined with ANU Museum of the Jewish People this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-18",
+      "author": "Emma Patel",
+      "country": "Canada",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-11-08",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Tel Aviv was fantastic from start to finish. The hotel was clean and well located, and the guided visit to ANU Museum of the Jewish People was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-tel-aviv-3-19",
+      "author": "Priya Wang",
+      "country": "South Africa",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-05-18",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a family of 4 trip and it was well paced. Rothschild Boulevard in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-tel-aviv-3-20",
+      "author": "Sofia Khan",
+      "country": "South Africa",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-27",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a group trip and it was well paced. Rothschild Boulevard in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.1,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.1,
+    "activities": 4.1,
+    "value": 4.1,
+    "cleanliness": 4.2,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Tel Aviv Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 19,
+      "neighborhood": "Carmel Market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Tel Aviv Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 34,
+      "neighborhood": "Sarona Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Tel Aviv Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 58,
+      "neighborhood": "Dizengoff Street boutiques"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Tel Aviv Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 74,
+      "neighborhood": "Rothschild Boulevard bars"
+    },
+    {
+      "tier": "Resort",
+      "name": "Tel Aviv Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "Florentin neighborhood clubs"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Tel Aviv Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 294,
+      "neighborhood": "Old Jaffa Flea Market bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Tel Aviv Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 350,
+      "neighborhood": "Cafelix"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        735,
+        1168
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        746,
+        1185
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        333,
+        529
+      ],
+      "estimatedFlightHours": 5.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        314,
+        498
+      ],
+      "estimatedFlightHours": 5.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        289,
+        459
+      ],
+      "estimatedFlightHours": 4.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        239,
+        379
+      ],
+      "estimatedFlightHours": 3.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        332,
+        528
+      ],
+      "estimatedFlightHours": 5.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        315,
+        500
+      ],
+      "estimatedFlightHours": 5.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        278,
+        441
+      ],
+      "estimatedFlightHours": 4.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1101,
+        1748
+      ],
+      "estimatedFlightHours": 19.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1256,
+        1995
+      ],
+      "estimatedFlightHours": 22.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        370,
+        587
+      ],
+      "estimatedFlightHours": 6.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        738,
+        1172
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        660,
+        1049
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        652,
+        1035
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        577,
+        917
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        630,
+        1000
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        706,
+        1122
+      ],
+      "estimatedFlightHours": 12.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        712,
+        1131
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        631,
+        1002
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        231,
+        367
+      ],
+      "estimatedFlightHours": 3.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        179,
+        285
+      ],
+      "estimatedFlightHours": 2.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        207,
+        328
+      ],
+      "estimatedFlightHours": 3.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        170,
+        270
+      ],
+      "estimatedFlightHours": 2.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        547,
+        869
+      ],
+      "estimatedFlightHours": 9.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        844,
+        1341
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Ben Gurion Airport (TLV)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        978,
+        1553
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Tel Aviv Museum of Art",
+    "ANU Museum of the Jewish People",
+    "Old Jaffa walking tour",
+    "Independence Hall",
+    "Tel Aviv beaches",
+    "Rothschild Boulevard",
+    "Carmel Market (Shuk HaCarmel)",
+    "Old Jaffa",
+    "Neve Tzedek",
+    "Jerusalem (45 minutes)",
+    "Caesarea Roman ruins",
+    "Dead Sea",
+    "Eretz Israel Museum",
+    "HaYarkon Park",
+    "Independence Park",
+    "Gordon Beach",
+    "Frishman Beach",
+    "Jaffa Beach",
+    "Old Jaffa alleys and sea views",
+    "Bauhaus buildings on Rothschild Boulevard",
+    "Tel Aviv Port boardwalk",
+    "Carmel Market stalls"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Tel Aviv Museum of Art",
+      "priceUSD": 16
+    },
+    {
+      "name": "ANU Museum of the Jewish People",
+      "priceUSD": 15
+    },
+    {
+      "name": "Old Jaffa walking tour",
+      "priceUSD": 20
+    },
+    {
+      "name": "Independence Hall",
+      "priceUSD": 8
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Tel Aviv beaches",
+    "Rothschild Boulevard",
+    "Carmel Market (Shuk HaCarmel)",
+    "Old Jaffa",
+    "Neve Tzedek"
+  ],
+  "museums": [
+    "Tel Aviv Museum of Art",
+    "ANU Museum of the Jewish People",
+    "Eretz Israel Museum"
+  ],
+  "parks": [
+    "HaYarkon Park",
+    "Independence Park",
+    "Rothschild Boulevard"
+  ],
+  "beaches": [
+    "Gordon Beach",
+    "Frishman Beach",
+    "Jaffa Beach"
+  ],
+  "dayTrips": [
+    "Jerusalem (45 minutes)",
+    "Caesarea Roman ruins",
+    "Dead Sea"
+  ],
+  "fromPriceUSD": 1405,
+  "seo": {
+    "title": "Tel Aviv 3-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "tel-aviv-3-day-package",
+    "keywords": [
+      "Tel Aviv",
+      "Israel",
+      "Tel Aviv, Israel",
+      "Middle East",
+      "Tel Aviv tour package",
+      "Tel Aviv vacation package",
+      "Tel Aviv holiday package",
+      "things to do in Tel Aviv",
+      "best time to visit Tel Aviv",
+      "Tel Aviv itinerary",
+      "3 day Tel Aviv itinerary",
+      "Tel Aviv flights and hotels",
+      "Tel Aviv all inclusive package",
+      "cheap Tel Aviv package",
+      "luxury Tel Aviv package"
+    ],
+    "canonicalUrl": "/packages/tel-aviv-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Tel Aviv Package",
+        "url": "/packages/tel-aviv-2-day-package"
+      },
+      {
+        "title": "5-Day Tel Aviv Package",
+        "url": "/packages/tel-aviv-5-day-package"
+      },
+      {
+        "title": "Barcelona 3-Day City Break",
+        "url": "/packages/barcelona-3-day-package"
+      },
+      {
+        "title": "Sydney 3-Day City Break",
+        "url": "/packages/sydney-3-day-package"
+      },
+      {
+        "title": "Busan 3-Day Beach Getaway",
+        "url": "/packages/busan-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Tel Aviv — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tel_Aviv"
+      },
+      {
+        "title": "Tel Aviv — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Tel_Aviv"
+      }
+    ]
+  }
+}

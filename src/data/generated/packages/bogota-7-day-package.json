@@ -1,0 +1,1586 @@
+{
+  "id": "PKG-bogota-7D",
+  "slug": "bogota-7-day-package",
+  "destinationSlug": "bogota",
+  "destinationName": "Bogotá",
+  "country": "Colombia",
+  "region": "South America",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Bogotá 7-Day City Break",
+  "metaTitle": "Bogotá 7-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Bogotá, Colombia: round-trip flights, hotel, breakfast, transfers, and guided tours including Museo del Oro (Gold Museum) and Monserrate. Prices from $875 per person (estimate).",
+  "highlights": [
+    "Museo del Oro (Gold Museum)",
+    "Monserrate",
+    "La Candelaria",
+    "Zipaquirá Salt Cathedral"
+  ],
+  "overview": "Spend 7 days discovering Bogotá, Colombia — Mild, spring-like climate year-round thanks to its 2,640m altitude — daytime highs rarely stray from the high teens Celsius, with frequent afternoon showers regardless of season. December to March and July to August — the driest months, though Bogotá's high altitude keeps it cool and spring-like nearly year-round. This itinerary blends Museo del Oro (Gold Museum), Monserrate, La Candelaria with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Museo del Oro (Gold Museum), Monserrate, La Candelaria",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Bogotá",
+      "description": "Land at El Dorado International Airport (BOG) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Museo del Oro (Gold Museum) — World's largest collection of pre-Hispanic gold artifacts. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Museo del Oro (Gold Museum)"
+      ],
+      "overnight": "Bogotá"
+    },
+    {
+      "day": 2,
+      "title": "Bogotá: Monserrate & Catedral de Sal de Zipaquirá",
+      "description": "Morning visit to Monserrate — Mountaintop church reached by cable car or funicular, panoramic city views. In the afternoon, continue to Catedral de Sal de Zipaquirá — Underground salt-mine cathedral, a popular day trip. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Monserrate",
+        "Catedral de Sal de Zipaquirá"
+      ],
+      "overnight": "Bogotá"
+    },
+    {
+      "day": 3,
+      "title": "Bogotá: Bogotá graffiti walking tour & Casa de Moneda",
+      "description": "Morning visit to Bogotá graffiti walking tour — Guided street-art tour through La Candelaria. In the afternoon, continue to Casa de Moneda — Colonial-era mint building and coin history museum. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Bogotá graffiti walking tour",
+        "Casa de Moneda"
+      ],
+      "overnight": "Bogotá"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Zipaquirá Salt Cathedral",
+      "description": "Full-day excursion to Zipaquirá Salt Cathedral, a popular side trip from Bogotá. Return to Bogotá in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Zipaquirá Salt Cathedral",
+        "Free evening"
+      ],
+      "overnight": "Bogotá"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Jardín Botánico de Bogotá — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Jardín Botánico de Bogotá"
+      ],
+      "overnight": "Bogotá"
+    },
+    {
+      "day": 6,
+      "title": "Bogotá: Quinta de Bolívar & La Candelaria",
+      "description": "Morning visit to Quinta de Bolívar — Restored colonial house museum once home to Simón Bolívar. In the afternoon, continue to La Candelaria — Colorful colonial-era historic center with cobblestone streets. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Quinta de Bolívar",
+        "La Candelaria"
+      ],
+      "overnight": "Bogotá"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Museo Botero or some souvenir shopping — before your private transfer to BOG for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Take it easy on arrival — the 2,640m altitude can cause mild breathlessness for the first day or two.",
+    "Use rideshare apps rather than hailing street taxis, especially at night.",
+    "Sundays bring the Ciclovía, when major avenues close to cars for cyclists and runners — a great free activity.",
+    "Carry only the cash you need and keep phones out of sight in crowded areas of downtown.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Layers — mornings and evenings are cool at altitude even though days feel mild",
+    "A light rain jacket, since afternoon showers are frequent",
+    "Comfortable walking shoes for La Candelaria's cobblestones"
+  ],
+  "thingsToDo": [
+    "Museo del Oro (Gold Museum)",
+    "Monserrate",
+    "Catedral de Sal de Zipaquirá",
+    "Bogotá graffiti walking tour",
+    "Casa de Moneda",
+    "Quinta de Bolívar",
+    "La Candelaria",
+    "Museo Botero",
+    "Plaza de Bolívar",
+    "Chorro de Quevedo",
+    "Parque de la Independencia",
+    "Paragliding over the Sabana de Bogotá",
+    "Cycling the Sunday Ciclovía street closures",
+    "Day-hike in Chingaza National Park",
+    "Maloka interactive science museum",
+    "Bogotá Zoo",
+    "Simón Bolívar Metropolitan Park"
+  ],
+  "thingsToAvoid": [
+    "Hailing an unmetered street taxi rather than booking through an app.",
+    "Walking alone in La Candelaria or downtown late at night.",
+    "Flashing expensive jewelry, watches, or phones in crowded public areas."
+  ],
+  "topRestaurants": [
+    "Andrés Carne de Res — Colombian grill, dinner theater ($$$)",
+    "Leo Cocina y Cava — Amazonian-Colombian fine dining ($$$$)",
+    "La Puerta Falsa — Traditional Colombian, tamales and ajiaco ($)",
+    "Prudencia — Modern Colombian ($$$)",
+    "Salvo Patria — Contemporary Colombian ($$$)"
+  ],
+  "topCafes": [
+    "Café San Alberto",
+    "Azahar Coffee",
+    "Catación Pública"
+  ],
+  "shoppingAreas": [
+    "Usaquén Sunday flea market",
+    "Zona Rosa boutiques",
+    "Centro Comercial Andino"
+  ],
+  "nightlife": [
+    "Zona Rosa bars and clubs",
+    "La Candelaria salsa bars",
+    "Chapinero craft-beer scene"
+  ],
+  "instagramSpots": [
+    "Monserrate at sunset",
+    "La Candelaria colorful balconies",
+    "Graffiti-covered walls of La Candelaria",
+    "Usaquén cobblestone plaza"
+  ],
+  "hiddenGems": [
+    "Jardín Botánico de Bogotá",
+    "Quebrada de la Vieja nature trail",
+    "Paloquemao Market"
+  ],
+  "familyActivities": [
+    "Maloka interactive science museum",
+    "Bogotá Zoo",
+    "Simón Bolívar Metropolitan Park"
+  ],
+  "adventureActivities": [
+    "Paragliding over the Sabana de Bogotá",
+    "Cycling the Sunday Ciclovía street closures",
+    "Day-hike in Chingaza National Park"
+  ],
+  "luxuryExperiences": [
+    "Private Zipaquirá salt cathedral tour with driver",
+    "Tasting menu at Leo Cocina y Cava",
+    "Suite stay at a restored colonial hotel in La Candelaria"
+  ],
+  "honeymoonExperiences": [
+    "Sunset cable car up Monserrate",
+    "Private dinner in a La Candelaria courtyard restaurant",
+    "Day trip to the Zipaquirá Salt Cathedral"
+  ],
+  "budgetExperiences": [
+    "Free Sunday Ciclovía when major roads close to cyclists",
+    "Museo Botero (free entry)",
+    "Wandering La Candelaria's free street art"
+  ],
+  "estimatedDailyBudgetUSD": [
+    35,
+    70,
+    140,
+    320
+  ],
+  "safetyRating": 3,
+  "internetRating": 4,
+  "publicTransportRating": 3.5,
+  "walkingScore": 58,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 17,
+      "crowd": "High"
+    },
+    {
+      "month": "Aug",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 19,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Bogotá Ibero-American Theatre Festival",
+      "timing": "March-April, biennial"
+    },
+    {
+      "name": "Rock al Parque",
+      "timing": "July"
+    },
+    {
+      "name": "Festival de Luces (Christmas lights)",
+      "timing": "December"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "123",
+    "ambulance": "123",
+    "fire": "119"
+  },
+  "localEtiquette": [
+    "Greet with a handshake on first meeting; close friends may greet with a single cheek kiss.",
+    "Use the formal \"usted\" with strangers, service staff, and elders until invited to switch to \"tú\".",
+    "Dress is generally smart-casual — Bogotanos dress a notch more formally than in beach cities.",
+    "Punctuality is loosely observed socially but expected for business meetings."
+  ],
+  "localTransportGuide": "The TransMilenio bus rapid transit system covers most of the city on dedicated lanes and is the cheapest way to get around, though it gets very crowded at rush hour. Rideshare apps (Uber, Didi) are widely used and generally more comfortable for visitors; taxis should be booked via app rather than hailed on the street.",
+  "bestTimeToVisit": "December to March and July to August — the driest months, though Bogotá's high altitude keeps it cool and spring-like nearly year-round.",
+  "weather": "Mild, spring-like climate year-round thanks to its 2,640m altitude — daytime highs rarely stray from the high teens Celsius, with frequent afternoon showers regardless of season.",
+  "visaInformation": "Visa-free entry for stays up to 90 days for US, UK, EU, Canadian, and Australian passport holders. Indian nationals need a Colombian e-visa arranged in advance.",
+  "currency": "COP",
+  "languages": [
+    "Spanish"
+  ],
+  "timeZone": "COT (UTC-5)",
+  "averageFlightTime": "~17h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "El Dorado International Airport (BOG)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Bogotá?",
+      "answer": "Visa-free entry for stays up to 90 days for US, UK, EU, Canadian, and Australian passport holders. Indian nationals need a Colombian e-visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Bogotá?",
+      "answer": "December to March and July to August — the driest months, though Bogotá's high altitude keeps it cool and spring-like nearly year-round. Mild, spring-like climate year-round thanks to its 2,640m altitude — daytime highs rarely stray from the high teens Celsius, with frequent afternoon showers regardless of season."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Bogotá safe for tourists?",
+      "answer": "Bogotá is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Bogotá?",
+      "answer": "The local currency is COP. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "History",
+    "Food",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Bogotá",
+    "Colombia",
+    "Bogotá, Colombia",
+    "South America",
+    "Bogotá tour package",
+    "Bogotá vacation package",
+    "Bogotá holiday package",
+    "things to do in Bogotá",
+    "best time to visit Bogotá",
+    "Bogotá itinerary",
+    "7 day Bogotá itinerary",
+    "Bogotá flights and hotels",
+    "Bogotá all inclusive package",
+    "cheap Bogotá package",
+    "luxury Bogotá package",
+    "Bogotá honeymoon package",
+    "Bogotá family vacation",
+    "Bogotá solo trip",
+    "Bogotá group tour",
+    "Bogotá weekend getaway",
+    "Bogotá guided tour",
+    "BOG flights",
+    "Bogotá travel guide",
+    "book Bogotá trip online",
+    "Bogotá trip cost",
+    "Bogotá packages 7 days",
+    "Bogotá city break",
+    "Bogotá culture",
+    "Bogotá history",
+    "Bogotá food",
+    "Bogotá bucket list",
+    "Museo del Oro (Gold Museum)",
+    "Monserrate",
+    "Catedral de Sal de Zipaquirá",
+    "Bogotá graffiti walking tour",
+    "Casa de Moneda",
+    "Quinta de Bolívar",
+    "La Candelaria",
+    "Museo Botero",
+    "Plaza de Bolívar",
+    "Chorro de Quevedo",
+    "Parque de la Independencia",
+    "Andrés Carne de Res",
+    "Leo Cocina y Cava",
+    "La Puerta Falsa",
+    "Prudencia",
+    "Salvo Patria",
+    "Monserrate at sunset",
+    "La Candelaria colorful balconies",
+    "Graffiti-covered walls of La Candelaria"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Bogotá, Colombia — La Candelaria colonial streets",
+      "keywords": [
+        "Bogotá",
+        "Colombia",
+        "La Candelaria colonial streets",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Bogotá La Candelaria colonial streets",
+      "pexelsQuery": "Bogotá La Candelaria colonial streets",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Bogotá, Colombia — La Candelaria colonial streets",
+      "keywords": [
+        "Bogotá",
+        "Colombia",
+        "La Candelaria colonial streets",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Bogotá La Candelaria colonial streets",
+      "pexelsQuery": "Bogotá La Candelaria colonial streets",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Bogotá, Colombia — Monserrate cable car view",
+      "keywords": [
+        "Bogotá",
+        "Colombia",
+        "Monserrate cable car view",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Bogotá Monserrate cable car view",
+      "pexelsQuery": "Bogotá Monserrate cable car view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Bogotá, Colombia — Bogotá graffiti art",
+      "keywords": [
+        "Bogotá",
+        "Colombia",
+        "Bogotá graffiti art",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Bogotá Bogotá graffiti art",
+      "pexelsQuery": "Bogotá Bogotá graffiti art",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Bogotá, Colombia — La Candelaria colonial streets",
+      "keywords": [
+        "Bogotá",
+        "Colombia",
+        "La Candelaria colonial streets",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Bogotá La Candelaria colonial streets",
+      "pexelsQuery": "Bogotá La Candelaria colonial streets",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bogotá, Colombia — Monserrate cable car view",
+      "keywords": [
+        "Bogotá",
+        "Colombia",
+        "Monserrate cable car view",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Bogotá Monserrate cable car view",
+      "pexelsQuery": "Bogotá Monserrate cable car view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bogotá, Colombia — Bogotá graffiti art",
+      "keywords": [
+        "Bogotá",
+        "Colombia",
+        "Bogotá graffiti art",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Bogotá Bogotá graffiti art",
+      "pexelsQuery": "Bogotá Bogotá graffiti art",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bogotá, Colombia — Plaza de Bolívar",
+      "keywords": [
+        "Bogotá",
+        "Colombia",
+        "Plaza de Bolívar",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Bogotá Plaza de Bolívar",
+      "pexelsQuery": "Bogotá Plaza de Bolívar",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bogotá, Colombia — Museo del Oro (Gold Museum)",
+      "keywords": [
+        "Bogotá",
+        "Colombia",
+        "Museo del Oro (Gold Museum)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Bogotá Museo del Oro (Gold Museum)",
+      "pexelsQuery": "Bogotá Museo del Oro (Gold Museum)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bogotá, Colombia — Monserrate",
+      "keywords": [
+        "Bogotá",
+        "Colombia",
+        "Monserrate",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Bogotá Monserrate",
+      "pexelsQuery": "Bogotá Monserrate",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bogotá, Colombia — Catedral de Sal de Zipaquirá",
+      "keywords": [
+        "Bogotá",
+        "Colombia",
+        "Catedral de Sal de Zipaquirá",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Bogotá Catedral de Sal de Zipaquirá",
+      "pexelsQuery": "Bogotá Catedral de Sal de Zipaquirá",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Bogotá, Colombia — Bogotá graffiti walking tour",
+      "keywords": [
+        "Bogotá",
+        "Colombia",
+        "Bogotá graffiti walking tour",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Bogotá Bogotá graffiti walking tour",
+      "pexelsQuery": "Bogotá Bogotá graffiti walking tour",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-bogota-7-1",
+      "author": "Anna Fernandez",
+      "country": "Saudi Arabia",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-05-03",
+      "title": "Perfect for our honeymoon",
+      "body": "Bogotá is stunning and this package covered the essentials well, especially Plaza de Bolívar. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-2",
+      "author": "Sofia Santos",
+      "country": "India",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-24",
+      "title": "Adventure of a lifetime",
+      "body": "Booked this as a couple trip and it was well paced. Bogotá graffiti walking tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-3",
+      "author": "Lucas Williams",
+      "country": "New Zealand",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-08-18",
+      "title": "Highly recommend this package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Museo Botero and Catedral de Sal de Zipaquirá. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-4",
+      "author": "Priya Kowalski",
+      "country": "India",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-12-27",
+      "title": "Loved every moment",
+      "body": "Booked this as a group trip and it was well paced. Bogotá graffiti walking tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-5",
+      "author": "Mia Nguyen",
+      "country": "United Kingdom",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-20",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Museo del Oro (Gold Museum) and Bogotá graffiti walking tour. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-6",
+      "author": "Fatima Cohen",
+      "country": "United States",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-22",
+      "title": "A little rushed but still wonderful",
+      "body": "Museo del Oro (Gold Museum) alone was worth the trip, but combined with Catedral de Sal de Zipaquirá this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-7",
+      "author": "Liam Dubois",
+      "country": "Canada",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-06-05",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Bogotá was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Monserrate was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-bogota-7-8",
+      "author": "Ava Wang",
+      "country": "United States",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-06-26",
+      "title": "A little rushed but still wonderful",
+      "body": "Museo del Oro (Gold Museum) alone was worth the trip, but combined with Bogotá graffiti walking tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-9",
+      "author": "Mia Kim",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-01-11",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Catedral de Sal de Zipaquirá and Plaza de Bolívar. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-10",
+      "author": "Nadia Johnson",
+      "country": "Spain",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-02-19",
+      "title": "Solid mid-range package",
+      "body": "Bogotá is stunning and this package covered the essentials well, especially Parque de la Independencia. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-bogota-7-11",
+      "author": "Olivia Wang",
+      "country": "United States",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-07",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Bogotá was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Museo del Oro (Gold Museum) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-12",
+      "author": "Nadia Nguyen",
+      "country": "Spain",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-06-22",
+      "title": "Perfect for our honeymoon",
+      "body": "Bogotá is stunning and this package covered the essentials well, especially Parque de la Independencia. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-13",
+      "author": "Hiroshi Silva",
+      "country": "Saudi Arabia",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-10",
+      "title": "A little rushed but still wonderful",
+      "body": "Chorro de Quevedo alone was worth the trip, but combined with Plaza de Bolívar this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-14",
+      "author": "Tom Fernandez",
+      "country": "South Africa",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-20",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond La Candelaria and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-15",
+      "author": "Noah Santos",
+      "country": "UAE",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-11-14",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Bogotá was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Casa de Moneda was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-16",
+      "author": "Elena Silva",
+      "country": "Brazil",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-08-22",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond La Candelaria and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-17",
+      "author": "Daniel Cohen",
+      "country": "Germany",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-09-15",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Catedral de Sal de Zipaquirá and Quinta de Bolívar. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-18",
+      "author": "Ava Müller",
+      "country": "South Africa",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-03-14",
+      "title": "Luxury without the hassle",
+      "body": "La Candelaria alone was worth the trip, but combined with Catedral de Sal de Zipaquirá this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-bogota-7-19",
+      "author": "Hiroshi Ibrahim",
+      "country": "Singapore",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-31",
+      "title": "Five stars, will return",
+      "body": "Casa de Moneda alone was worth the trip, but combined with Plaza de Bolívar this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-bogota-7-20",
+      "author": "Ava Kowalski",
+      "country": "Singapore",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-05-24",
+      "title": "Solid mid-range package",
+      "body": "Casa de Moneda alone was worth the trip, but combined with Chorro de Quevedo this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Bogotá Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 8,
+      "neighborhood": "Usaquén Sunday flea market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Bogotá Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 14,
+      "neighborhood": "Zona Rosa boutiques"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Bogotá Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 25,
+      "neighborhood": "Centro Comercial Andino"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Bogotá Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "Zona Rosa bars and clubs"
+    },
+    {
+      "tier": "Resort",
+      "name": "Bogotá Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 70,
+      "neighborhood": "La Candelaria salsa bars"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Bogotá Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 134,
+      "neighborhood": "Chapinero craft-beer scene"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Bogotá Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "Café San Alberto"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        366,
+        581
+      ],
+      "estimatedFlightHours": 6.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        392,
+        622
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        690,
+        1096
+      ],
+      "estimatedFlightHours": 12.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        700,
+        1111
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        734,
+        1165
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        754,
+        1197
+      ],
+      "estimatedFlightHours": 13.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        655,
+        1041
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        716,
+        1137
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        732,
+        1162
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1112,
+        1766
+      ],
+      "estimatedFlightHours": 20.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        958,
+        1521
+      ],
+      "estimatedFlightHours": 17.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1175,
+        1866
+      ],
+      "estimatedFlightHours": 21.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        1111,
+        1764
+      ],
+      "estimatedFlightHours": 20.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1148,
+        1824
+      ],
+      "estimatedFlightHours": 20.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1471,
+        2337
+      ],
+      "estimatedFlightHours": 26.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1368,
+        2172
+      ],
+      "estimatedFlightHours": 24.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1451,
+        2304
+      ],
+      "estimatedFlightHours": 26.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1509,
+        2396
+      ],
+      "estimatedFlightHours": 27.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1327,
+        2107
+      ],
+      "estimatedFlightHours": 24.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1397,
+        2219
+      ],
+      "estimatedFlightHours": 25.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1060,
+        1683
+      ],
+      "estimatedFlightHours": 19.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1003,
+        1593
+      ],
+      "estimatedFlightHours": 18.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1035,
+        1644
+      ],
+      "estimatedFlightHours": 18.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1000,
+        1588
+      ],
+      "estimatedFlightHours": 18,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        904,
+        1435
+      ],
+      "estimatedFlightHours": 16.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        389,
+        618
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "El Dorado International Airport (BOG)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        306,
+        486
+      ],
+      "estimatedFlightHours": 5,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Museo del Oro (Gold Museum)",
+    "Monserrate",
+    "Catedral de Sal de Zipaquirá",
+    "Bogotá graffiti walking tour",
+    "Casa de Moneda",
+    "Quinta de Bolívar",
+    "La Candelaria",
+    "Museo Botero",
+    "Plaza de Bolívar",
+    "Chorro de Quevedo",
+    "Parque de la Independencia",
+    "Zipaquirá Salt Cathedral",
+    "Guatavita Lagoon",
+    "Villa de Leyva colonial town",
+    "Museo del Oro",
+    "Museo Nacional de Colombia",
+    "Maloka",
+    "Parque Simón Bolívar",
+    "Jardín Botánico de Bogotá",
+    "Monserrate at sunset",
+    "La Candelaria colorful balconies",
+    "Graffiti-covered walls of La Candelaria",
+    "Usaquén cobblestone plaza"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Museo del Oro (Gold Museum)",
+      "priceUSD": 4
+    },
+    {
+      "name": "Monserrate",
+      "priceUSD": 13
+    },
+    {
+      "name": "Catedral de Sal de Zipaquirá",
+      "priceUSD": 17
+    },
+    {
+      "name": "Bogotá graffiti walking tour",
+      "priceUSD": 15
+    },
+    {
+      "name": "Casa de Moneda",
+      "priceUSD": 3
+    },
+    {
+      "name": "Quinta de Bolívar",
+      "priceUSD": 3
+    }
+  ],
+  "attractionsFreeTop20": [
+    "La Candelaria",
+    "Museo Botero",
+    "Plaza de Bolívar",
+    "Chorro de Quevedo",
+    "Parque de la Independencia"
+  ],
+  "museums": [
+    "Museo del Oro",
+    "Museo Botero",
+    "Museo Nacional de Colombia",
+    "Maloka"
+  ],
+  "parks": [
+    "Parque Simón Bolívar",
+    "Jardín Botánico de Bogotá",
+    "Parque de la Independencia"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Zipaquirá Salt Cathedral",
+    "Guatavita Lagoon",
+    "Villa de Leyva colonial town"
+  ],
+  "fromPriceUSD": 875,
+  "seo": {
+    "title": "Bogotá 7-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "bogota-7-day-package",
+    "keywords": [
+      "Bogotá",
+      "Colombia",
+      "Bogotá, Colombia",
+      "South America",
+      "Bogotá tour package",
+      "Bogotá vacation package",
+      "Bogotá holiday package",
+      "things to do in Bogotá",
+      "best time to visit Bogotá",
+      "Bogotá itinerary",
+      "7 day Bogotá itinerary",
+      "Bogotá flights and hotels",
+      "Bogotá all inclusive package",
+      "cheap Bogotá package",
+      "luxury Bogotá package"
+    ],
+    "canonicalUrl": "/packages/bogota-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Bogotá Package",
+        "url": "/packages/bogota-5-day-package"
+      },
+      {
+        "title": "10-Day Bogotá Package",
+        "url": "/packages/bogota-10-day-package"
+      },
+      {
+        "title": "Rome 7-Day City Break",
+        "url": "/packages/rome-7-day-package"
+      },
+      {
+        "title": "Florence 7-Day Cultural Tour",
+        "url": "/packages/florence-7-day-package"
+      },
+      {
+        "title": "Istanbul 7-Day City Break",
+        "url": "/packages/istanbul-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Bogotá — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bogotá"
+      },
+      {
+        "title": "Bogotá — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Bogotá"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1557 @@
+{
+  "id": "PKG-chiang-mai-7D",
+  "slug": "chiang-mai-7-day-package",
+  "destinationSlug": "chiang-mai",
+  "destinationName": "Chiang Mai",
+  "country": "Thailand",
+  "region": "Southeast Asia",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Chiang Mai 7-Day Cultural Tour",
+  "metaTitle": "Chiang Mai 7-Day Cultural Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Chiang Mai, Thailand: round-trip flights, hotel, breakfast, transfers, and guided tours including Wat Phra That Doi Suthep and Elephant Nature Park. Prices from $1649 per person (estimate).",
+  "highlights": [
+    "Wat Phra That Doi Suthep",
+    "Elephant Nature Park",
+    "Old City temple walk",
+    "Multi-day trekking to hill-tribe villages",
+    "Doi Inthanon National Park"
+  ],
+  "overview": "Spend 7 days discovering Chiang Mai, Thailand — Tropical climate with three seasons — cool and dry (Nov-Feb, highs around 28°C), hot (Mar-May, highs 35°C+), and rainy (Jun-Oct). November to February — the cool, dry season with comfortable temperatures ideal for temple-hopping and trekking. This itinerary blends Wat Phra That Doi Suthep, Elephant Nature Park, Old City temple walk with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Wat Phra That Doi Suthep, Elephant Nature Park, Old City temple walk",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Chiang Mai",
+      "description": "Land at Chiang Mai International Airport (CNX) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Wat Phra That Doi Suthep — Golden hilltop temple overlooking the city, reached by a 300-step staircase or cable car. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Wat Phra That Doi Suthep"
+      ],
+      "overnight": "Chiang Mai"
+    },
+    {
+      "day": 2,
+      "title": "Chiang Mai: Elephant Nature Park & Doi Inthanon National Park",
+      "description": "Morning visit to Elephant Nature Park — Ethical elephant sanctuary focused on rescue and rehabilitation (no riding). In the afternoon, continue to Doi Inthanon National Park — Thailand's highest peak, with waterfalls and hill-tribe villages. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Elephant Nature Park",
+        "Doi Inthanon National Park"
+      ],
+      "overnight": "Chiang Mai"
+    },
+    {
+      "day": 3,
+      "title": "Chiang Mai: Chiang Mai Night Safari & Old City temple walk",
+      "description": "Morning visit to Chiang Mai Night Safari — Nighttime zoo tram tour. In the afternoon, continue to Old City temple walk — Wat Chedi Luang, Wat Phra Singh, and dozens more within the moated old town. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Chiang Mai Night Safari",
+        "Old City temple walk"
+      ],
+      "overnight": "Chiang Mai"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Doi Inthanon National Park",
+      "description": "Full-day excursion to Doi Inthanon National Park, a popular side trip from Chiang Mai. Return to Chiang Mai in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Doi Inthanon National Park",
+        "Free evening"
+      ],
+      "overnight": "Chiang Mai"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Wat Umong forest temple — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Wat Umong forest temple"
+      ],
+      "overnight": "Chiang Mai"
+    },
+    {
+      "day": 6,
+      "title": "Chiang Mai: Sunday Walking Street market & Nimmanhaemin neighborhood",
+      "description": "Morning visit to Sunday Walking Street market — Weekly night market along Ratchadamnoen Road. In the afternoon, continue to Nimmanhaemin neighborhood — Trendy area of cafés, galleries, and boutiques. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Sunday Walking Street market",
+        "Nimmanhaemin neighborhood"
+      ],
+      "overnight": "Chiang Mai"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Wat Phra That Doi Suthep or some souvenir shopping — before your private transfer to CNX for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Visit Wat Phra That Doi Suthep early morning to avoid both heat and tour-bus crowds.",
+    "Choose an ethical, no-riding elephant sanctuary like Elephant Nature Park.",
+    "Book Yi Peng lantern festival tickets months ahead if visiting in November — it sells out.",
+    "Use Grab rather than street-hailing a songthaew if unsure of fair pricing.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Layers — cool-season mornings and evenings can be surprisingly chilly",
+    "Modest clothing for temples",
+    "Comfortable shoes for temple stairs and trekking",
+    "Light rain gear in the wet season"
+  ],
+  "thingsToDo": [
+    "Wat Phra That Doi Suthep",
+    "Elephant Nature Park",
+    "Doi Inthanon National Park",
+    "Chiang Mai Night Safari",
+    "Old City temple walk",
+    "Sunday Walking Street market",
+    "Nimmanhaemin neighborhood",
+    "Multi-day trekking to hill-tribe villages",
+    "Whitewater rafting on the Mae Taeng River",
+    "Zipline canopy tours near Mae Rim",
+    "Elephant Nature Park ethical sanctuary visit",
+    "Chiang Mai Zoo and Night Safari",
+    "Old City temple bike tour"
+  ],
+  "thingsToAvoid": [
+    "Booking elephant \"riding\" camps — choose an ethical sanctuary instead.",
+    "Pointing your feet at people, Buddha images, or temple altars.",
+    "Visiting in March-April without checking air-quality (seasonal agricultural burning causes regional haze)."
+  ],
+  "topRestaurants": [
+    "Huen Phen — Northern Thai (Lanna) cuisine ($$)",
+    "Khao Soi Mae Sai — Khao soi noodle specialist ($)",
+    "The Riverside Bar & Restaurant — Thai and international, riverside ($$)"
+  ],
+  "topCafes": [
+    "Ristr8to Coffee",
+    "Graph Cafe"
+  ],
+  "shoppingAreas": [
+    "Sunday Walking Street market",
+    "Saturday Walking Street (Wua Lai)",
+    "Chiang Mai Night Bazaar"
+  ],
+  "nightlife": [
+    "Nimmanhaemin bar scene",
+    "Zoe in Yellow bar complex",
+    "Riverside live-music bars"
+  ],
+  "instagramSpots": [
+    "Wat Phra That Doi Suthep golden pagoda",
+    "Yi Peng lantern release (November)",
+    "Old City temple ruins at Wat Chedi Luang",
+    "Doi Inthanon mist and waterfalls"
+  ],
+  "hiddenGems": [
+    "Wat Umong forest temple",
+    "Bo Sang umbrella-making village",
+    "Mae Kampong mountain village homestay"
+  ],
+  "familyActivities": [
+    "Elephant Nature Park ethical sanctuary visit",
+    "Chiang Mai Zoo and Night Safari",
+    "Old City temple bike tour"
+  ],
+  "adventureActivities": [
+    "Multi-day trekking to hill-tribe villages",
+    "Whitewater rafting on the Mae Taeng River",
+    "Zipline canopy tours near Mae Rim"
+  ],
+  "luxuryExperiences": [
+    "Private hilltop resort stay near Doi Suthep",
+    "Private Elephant Nature Park visit with a naturalist guide",
+    "Fine dining Northern Thai tasting menu"
+  ],
+  "honeymoonExperiences": [
+    "Yi Peng lantern release together (November)",
+    "Private mountain resort spa retreat",
+    "Sunset at Wat Phra That Doi Suthep"
+  ],
+  "budgetExperiences": [
+    "Free Old City temple walking tour",
+    "Sunday Walking Street market",
+    "Street food at a local noodle stall"
+  ],
+  "estimatedDailyBudgetUSD": [
+    25,
+    55,
+    120,
+    280
+  ],
+  "safetyRating": 4.5,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 55,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 29,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 35,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 36,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 34,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 28,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 28,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Yi Peng Lantern Festival",
+      "timing": "November (full moon)"
+    },
+    {
+      "name": "Songkran (Thai New Year water festival)",
+      "timing": "April 13-15"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "191",
+    "ambulance": "1669",
+    "fire": "199"
+  },
+  "localEtiquette": [
+    "Dress modestly at temples — shoulders and knees covered, shoes removed before entering.",
+    "Never touch anyone's head or point your feet at a person or Buddha image.",
+    "The wai (palms-together bow) is the traditional greeting — return it when offered."
+  ],
+  "localTransportGuide": "Songthaews (shared red pickup-truck taxis) are the classic way to get around Chiang Mai cheaply; Grab rideshare is also widely available and often easier for visitors. The Old City itself is compact and walkable or cyclable.",
+  "bestTimeToVisit": "November to February — the cool, dry season with comfortable temperatures ideal for temple-hopping and trekking.",
+  "weather": "Tropical climate with three seasons — cool and dry (Nov-Feb, highs around 28°C), hot (Mar-May, highs 35°C+), and rainy (Jun-Oct).",
+  "visaInformation": "Thailand is visa-free for stays up to 30-60 days for most nationalities including the US, UK, EU, Canada, Australia, and India, depending on nationality and entry method.",
+  "currency": "THB",
+  "languages": [
+    "Thai"
+  ],
+  "timeZone": "ICT (UTC+7)",
+  "averageFlightTime": "~10.2h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Chiang Mai International Airport (CNX)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Chiang Mai?",
+      "answer": "Thailand is visa-free for stays up to 30-60 days for most nationalities including the US, UK, EU, Canada, Australia, and India, depending on nationality and entry method."
+    },
+    {
+      "question": "What is the best time to visit Chiang Mai?",
+      "answer": "November to February — the cool, dry season with comfortable temperatures ideal for temple-hopping and trekking. Tropical climate with three seasons — cool and dry (Nov-Feb, highs around 28°C), hot (Mar-May, highs 35°C+), and rainy (Jun-Oct)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Chiang Mai safe for tourists?",
+      "answer": "Chiang Mai is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Chiang Mai?",
+      "answer": "The local currency is THB. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Culture",
+    "Adventure",
+    "Nature",
+    "Food",
+    "History"
+  ],
+  "aiTags": [
+    "Chiang Mai",
+    "Thailand",
+    "Chiang Mai, Thailand",
+    "Southeast Asia",
+    "Chiang Mai tour package",
+    "Chiang Mai vacation package",
+    "Chiang Mai holiday package",
+    "things to do in Chiang Mai",
+    "best time to visit Chiang Mai",
+    "Chiang Mai itinerary",
+    "7 day Chiang Mai itinerary",
+    "Chiang Mai flights and hotels",
+    "Chiang Mai all inclusive package",
+    "cheap Chiang Mai package",
+    "luxury Chiang Mai package",
+    "Chiang Mai honeymoon package",
+    "Chiang Mai family vacation",
+    "Chiang Mai solo trip",
+    "Chiang Mai group tour",
+    "Chiang Mai weekend getaway",
+    "Chiang Mai guided tour",
+    "CNX flights",
+    "Chiang Mai travel guide",
+    "book Chiang Mai trip online",
+    "Chiang Mai trip cost",
+    "Chiang Mai packages 7 days",
+    "Chiang Mai culture",
+    "Chiang Mai adventure",
+    "Chiang Mai nature",
+    "Chiang Mai food",
+    "Chiang Mai history",
+    "Wat Phra That Doi Suthep",
+    "Elephant Nature Park",
+    "Doi Inthanon National Park",
+    "Chiang Mai Night Safari",
+    "Old City temple walk",
+    "Sunday Walking Street market",
+    "Nimmanhaemin neighborhood",
+    "Huen Phen",
+    "Khao Soi Mae Sai",
+    "The Riverside Bar & Restaurant",
+    "Wat Phra That Doi Suthep golden pagoda",
+    "Yi Peng lantern release (November)",
+    "Old City temple ruins at Wat Chedi Luang",
+    "Doi Inthanon mist and waterfalls",
+    "Wat Umong forest temple",
+    "Bo Sang umbrella-making village",
+    "Mae Kampong mountain village homestay",
+    "Thailand tourism",
+    "Southeast Asia travel"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Chiang Mai, Thailand — Wat Phra That Doi Suthep golden temple",
+      "keywords": [
+        "Chiang Mai",
+        "Thailand",
+        "Wat Phra That Doi Suthep golden temple",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Chiang Mai Wat Phra That Doi Suthep golden temple",
+      "pexelsQuery": "Chiang Mai Wat Phra That Doi Suthep golden temple",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Chiang Mai, Thailand — Wat Phra That Doi Suthep golden temple",
+      "keywords": [
+        "Chiang Mai",
+        "Thailand",
+        "Wat Phra That Doi Suthep golden temple",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Chiang Mai Wat Phra That Doi Suthep golden temple",
+      "pexelsQuery": "Chiang Mai Wat Phra That Doi Suthep golden temple",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Chiang Mai, Thailand — Yi Peng lantern festival",
+      "keywords": [
+        "Chiang Mai",
+        "Thailand",
+        "Yi Peng lantern festival",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Chiang Mai Yi Peng lantern festival",
+      "pexelsQuery": "Chiang Mai Yi Peng lantern festival",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Chiang Mai, Thailand — Old City temple ruins",
+      "keywords": [
+        "Chiang Mai",
+        "Thailand",
+        "Old City temple ruins",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Chiang Mai Old City temple ruins",
+      "pexelsQuery": "Chiang Mai Old City temple ruins",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Chiang Mai, Thailand — Wat Phra That Doi Suthep golden temple",
+      "keywords": [
+        "Chiang Mai",
+        "Thailand",
+        "Wat Phra That Doi Suthep golden temple",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Chiang Mai Wat Phra That Doi Suthep golden temple",
+      "pexelsQuery": "Chiang Mai Wat Phra That Doi Suthep golden temple",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Chiang Mai, Thailand — Yi Peng lantern festival",
+      "keywords": [
+        "Chiang Mai",
+        "Thailand",
+        "Yi Peng lantern festival",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Chiang Mai Yi Peng lantern festival",
+      "pexelsQuery": "Chiang Mai Yi Peng lantern festival",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Chiang Mai, Thailand — Old City temple ruins",
+      "keywords": [
+        "Chiang Mai",
+        "Thailand",
+        "Old City temple ruins",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Chiang Mai Old City temple ruins",
+      "pexelsQuery": "Chiang Mai Old City temple ruins",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Chiang Mai, Thailand — Elephant Nature Park sanctuary",
+      "keywords": [
+        "Chiang Mai",
+        "Thailand",
+        "Elephant Nature Park sanctuary",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Chiang Mai Elephant Nature Park sanctuary",
+      "pexelsQuery": "Chiang Mai Elephant Nature Park sanctuary",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Chiang Mai, Thailand — Wat Phra That Doi Suthep",
+      "keywords": [
+        "Chiang Mai",
+        "Thailand",
+        "Wat Phra That Doi Suthep",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Chiang Mai Wat Phra That Doi Suthep",
+      "pexelsQuery": "Chiang Mai Wat Phra That Doi Suthep",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Chiang Mai, Thailand — Elephant Nature Park",
+      "keywords": [
+        "Chiang Mai",
+        "Thailand",
+        "Elephant Nature Park",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Chiang Mai Elephant Nature Park",
+      "pexelsQuery": "Chiang Mai Elephant Nature Park",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Chiang Mai, Thailand — Doi Inthanon National Park",
+      "keywords": [
+        "Chiang Mai",
+        "Thailand",
+        "Doi Inthanon National Park",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Chiang Mai Doi Inthanon National Park",
+      "pexelsQuery": "Chiang Mai Doi Inthanon National Park",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Chiang Mai, Thailand — Chiang Mai Night Safari",
+      "keywords": [
+        "Chiang Mai",
+        "Thailand",
+        "Chiang Mai Night Safari",
+        "Culture",
+        "Adventure"
+      ],
+      "unsplashQuery": "Chiang Mai Chiang Mai Night Safari",
+      "pexelsQuery": "Chiang Mai Chiang Mai Night Safari",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-chiang-mai-7-1",
+      "author": "Daniel Kowalski",
+      "country": "United Kingdom",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-09",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Wat Phra That Doi Suthep and Old City temple walk. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-2",
+      "author": "Hiroshi Silva",
+      "country": "United Kingdom",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-26",
+      "title": "So many hidden gems included",
+      "body": "Wat Phra That Doi Suthep alone was worth the trip, but combined with Sunday Walking Street market this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-3",
+      "author": "Sofia Rossi",
+      "country": "Saudi Arabia",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-18",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a family of 4 trip and it was well paced. Sunday Walking Street market in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-4",
+      "author": "Anna Rossi",
+      "country": "South Africa",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-04-18",
+      "title": "So many hidden gems included",
+      "body": "Chiang Mai is stunning and this package covered the essentials well, especially Old City temple walk. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-5",
+      "author": "Lukas Costa",
+      "country": "United Kingdom",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-05-11",
+      "title": "Adventure of a lifetime",
+      "body": "Chiang Mai is stunning and this package covered the essentials well, especially Wat Phra That Doi Suthep. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-6",
+      "author": "Elena Rossi",
+      "country": "UAE",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-02-06",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Doi Inthanon National Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-chiang-mai-7-7",
+      "author": "Mohammed Sharma",
+      "country": "Australia",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-16",
+      "title": "Exceeded our expectations",
+      "body": "Elephant Nature Park alone was worth the trip, but combined with Wat Phra That Doi Suthep this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-8",
+      "author": "Yuki Johnson",
+      "country": "France",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-21",
+      "title": "Would book again in a heartbeat",
+      "body": "Elephant Nature Park alone was worth the trip, but combined with Old City temple walk this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-chiang-mai-7-9",
+      "author": "James Botha",
+      "country": "India",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-08-27",
+      "title": "Highly recommend this package",
+      "body": "Our trip to Chiang Mai was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Doi Inthanon National Park was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-10",
+      "author": "Emma Botha",
+      "country": "Mexico",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-13",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Chiang Mai was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Nimmanhaemin neighborhood was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-11",
+      "author": "Chen Costa",
+      "country": "New Zealand",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-22",
+      "title": "Loved every moment",
+      "body": "Booked this as a family of 4 trip and it was well paced. Old City temple walk in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-12",
+      "author": "David Tanaka",
+      "country": "Netherlands",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-06",
+      "title": "Great for families with kids",
+      "body": "Chiang Mai is stunning and this package covered the essentials well, especially Sunday Walking Street market. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-13",
+      "author": "Grace Costa",
+      "country": "Mexico",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-01-30",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Nimmanhaemin neighborhood and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-14",
+      "author": "Nadia Dubois",
+      "country": "Mexico",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-01-15",
+      "title": "Solid mid-range package",
+      "body": "Chiang Mai is stunning and this package covered the essentials well, especially Nimmanhaemin neighborhood. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-15",
+      "author": "Noah Kowalski",
+      "country": "South Korea",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-10-31",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Chiang Mai was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Chiang Mai Night Safari was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-16",
+      "author": "Sofia Ibrahim",
+      "country": "Japan",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-10",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a group trip and it was well paced. Chiang Mai Night Safari in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-17",
+      "author": "James Rossi",
+      "country": "South Africa",
+      "rating": 3.6,
+      "foodRating": 3,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-09-14",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to Chiang Mai was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Old City temple walk was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-18",
+      "author": "Nadia Kim",
+      "country": "New Zealand",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-01",
+      "title": "Solid mid-range package",
+      "body": "Chiang Mai is stunning and this package covered the essentials well, especially Old City temple walk. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-19",
+      "author": "Isabella Santos",
+      "country": "Netherlands",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-11-15",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Sunday Walking Street market and Sunday Walking Street market. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-chiang-mai-7-20",
+      "author": "Marco Kim",
+      "country": "Brazil",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-04",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond Old City temple walk and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.2,
+    "transportation": 4.4,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Chiang Mai Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 6,
+      "neighborhood": "Sunday Walking Street market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Chiang Mai Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 10,
+      "neighborhood": "Saturday Walking Street (Wua Lai)"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Chiang Mai Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 19,
+      "neighborhood": "Chiang Mai Night Bazaar"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Chiang Mai Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 25,
+      "neighborhood": "Nimmanhaemin bar scene"
+    },
+    {
+      "tier": "Resort",
+      "name": "Chiang Mai Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 60,
+      "neighborhood": "Zoe in Yellow bar complex"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Chiang Mai Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 118,
+      "neighborhood": "Riverside live-music bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Chiang Mai Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 140,
+      "neighborhood": "Ristr8to Coffee"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1042,
+        1655
+      ],
+      "estimatedFlightHours": 18.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1021,
+        1621
+      ],
+      "estimatedFlightHours": 18.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        726,
+        1153
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        721,
+        1145
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        686,
+        1089
+      ],
+      "estimatedFlightHours": 12.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        679,
+        1079
+      ],
+      "estimatedFlightHours": 12,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        776,
+        1233
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        700,
+        1112
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        692,
+        1099
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        659,
+        1046
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        802,
+        1274
+      ],
+      "estimatedFlightHours": 14.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        255,
+        405
+      ],
+      "estimatedFlightHours": 4.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        394,
+        626
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        324,
+        514
+      ],
+      "estimatedFlightHours": 5.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        222,
+        352
+      ],
+      "estimatedFlightHours": 3.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        118,
+        188
+      ],
+      "estimatedFlightHours": 1.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        204,
+        324
+      ],
+      "estimatedFlightHours": 3.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        286,
+        455
+      ],
+      "estimatedFlightHours": 4.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        249,
+        396
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        164,
+        261
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        405,
+        643
+      ],
+      "estimatedFlightHours": 6.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        468,
+        743
+      ],
+      "estimatedFlightHours": 8.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        432,
+        686
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        457,
+        726
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        737,
+        1170
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1263,
+        2006
+      ],
+      "estimatedFlightHours": 23,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Chiang Mai International Airport (CNX)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1184,
+        1881
+      ],
+      "estimatedFlightHours": 21.5,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Wat Phra That Doi Suthep",
+    "Elephant Nature Park",
+    "Doi Inthanon National Park",
+    "Chiang Mai Night Safari",
+    "Old City temple walk",
+    "Sunday Walking Street market",
+    "Nimmanhaemin neighborhood",
+    "Mae Kampong village",
+    "Chiang Rai (White and Blue Temples, further)",
+    "Chiang Mai National Museum",
+    "Museum of World Insects",
+    "Huai Tung Tao Lake",
+    "Wat Phra That Doi Suthep golden pagoda",
+    "Yi Peng lantern release (November)",
+    "Old City temple ruins at Wat Chedi Luang",
+    "Doi Inthanon mist and waterfalls"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Wat Phra That Doi Suthep",
+      "priceUSD": 3
+    },
+    {
+      "name": "Elephant Nature Park",
+      "priceUSD": 75
+    },
+    {
+      "name": "Doi Inthanon National Park",
+      "priceUSD": 10
+    },
+    {
+      "name": "Chiang Mai Night Safari",
+      "priceUSD": 25
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Old City temple walk",
+    "Sunday Walking Street market",
+    "Nimmanhaemin neighborhood"
+  ],
+  "museums": [
+    "Chiang Mai National Museum",
+    "Museum of World Insects"
+  ],
+  "parks": [
+    "Doi Inthanon National Park",
+    "Huai Tung Tao Lake"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Doi Inthanon National Park",
+    "Mae Kampong village",
+    "Chiang Rai (White and Blue Temples, further)"
+  ],
+  "fromPriceUSD": 1649,
+  "seo": {
+    "title": "Chiang Mai 7-Day Cultural Tour | Flights, Hotels & Tours Included",
+    "slug": "chiang-mai-7-day-package",
+    "keywords": [
+      "Chiang Mai",
+      "Thailand",
+      "Chiang Mai, Thailand",
+      "Southeast Asia",
+      "Chiang Mai tour package",
+      "Chiang Mai vacation package",
+      "Chiang Mai holiday package",
+      "things to do in Chiang Mai",
+      "best time to visit Chiang Mai",
+      "Chiang Mai itinerary",
+      "7 day Chiang Mai itinerary",
+      "Chiang Mai flights and hotels",
+      "Chiang Mai all inclusive package",
+      "cheap Chiang Mai package",
+      "luxury Chiang Mai package"
+    ],
+    "canonicalUrl": "/packages/chiang-mai-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Chiang Mai Package",
+        "url": "/packages/chiang-mai-5-day-package"
+      },
+      {
+        "title": "10-Day Chiang Mai Package",
+        "url": "/packages/chiang-mai-10-day-package"
+      },
+      {
+        "title": "Hanoi 7-Day City Break",
+        "url": "/packages/hanoi-7-day-package"
+      },
+      {
+        "title": "Siem Reap 7-Day Cultural Tour",
+        "url": "/packages/siem-reap-7-day-package"
+      },
+      {
+        "title": "Cape Town 7-Day City Break",
+        "url": "/packages/cape-town-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Chiang Mai — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chiang_Mai"
+      },
+      {
+        "title": "Chiang Mai — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Chiang_Mai"
+      }
+    ]
+  }
+}

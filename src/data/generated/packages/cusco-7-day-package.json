@@ -1,0 +1,1653 @@
+{
+  "id": "PKG-cusco-7D",
+  "slug": "cusco-7-day-package",
+  "destinationSlug": "cusco",
+  "destinationName": "Cusco",
+  "country": "Peru",
+  "region": "Cusco Region",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Cusco 7-Day Bucket List Trip",
+  "metaTitle": "Cusco 7-Day Bucket List Trip | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Cusco, Peru: round-trip flights, hotel, breakfast, transfers, and guided tours including Machu Picchu and Sacsayhuamán. Prices from $1124 per person (estimate).",
+  "highlights": [
+    "Machu Picchu",
+    "Sacsayhuamán",
+    "Plaza de Armas, Cusco",
+    "Trekking the classic Inca Trail to Machu Picchu",
+    "Machu Picchu (via Ollantaytambo train)"
+  ],
+  "overview": "Spend 7 days discovering Cusco, Peru — High-altitude (~3,400m) mountain climate with cool days and cold nights year-round (highs around 19-20°C, dropping toward 17-18°C in the wetter months) and a pronounced dry season (May-September) versus wet season (December-March) with big diurnal temperature swings. May to September is the dry season with the clearest trail and mountain conditions, though also the busiest and coolest window (chilly nights); shoulder months (April, October) offer fewer crowds. This itinerary blends Machu Picchu, Sacsayhuamán, Plaza de Armas, Cusco with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Machu Picchu, Sacsayhuamán, Plaza de Armas, Cusco",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Cusco",
+      "description": "Land at Alejandro Velasco Astete International Airport (CUZ) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Machu Picchu — The iconic 15th-century Inca citadel, Peru's premier bucket-list site. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Machu Picchu"
+      ],
+      "overnight": "Cusco"
+    },
+    {
+      "day": 2,
+      "title": "Cusco: Sacsayhuamán & Qorikancha (Temple of the Sun) and Santo Domingo Convent",
+      "description": "Morning visit to Sacsayhuamán — Massive Inca fortress with megalithic zigzag stone walls overlooking Cusco. In the afternoon, continue to Qorikancha (Temple of the Sun) and Santo Domingo Convent — Inca temple foundations beneath a colonial church. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Sacsayhuamán",
+        "Qorikancha (Temple of the Sun) and Santo Domingo Convent"
+      ],
+      "overnight": "Cusco"
+    },
+    {
+      "day": 3,
+      "title": "Cusco: Sacred Valley full-day tour (Pisac, Ollantaytambo) & Rainbow Mountain (Vinicunca) day trek",
+      "description": "Morning visit to Sacred Valley full-day tour (Pisac, Ollantaytambo) — Guided tour of Inca ruins and markets in the Sacred Valley. In the afternoon, continue to Rainbow Mountain (Vinicunca) day trek — Striking multicolored mountain at over 5,000m elevation. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Sacred Valley full-day tour (Pisac, Ollantaytambo)",
+        "Rainbow Mountain (Vinicunca) day trek"
+      ],
+      "overnight": "Cusco"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Machu Picchu (via Ollantaytambo train)",
+      "description": "Full-day excursion to Machu Picchu (via Ollantaytambo train), a popular side trip from Cusco. Return to Cusco in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Machu Picchu (via Ollantaytambo train)",
+        "Free evening"
+      ],
+      "overnight": "Cusco"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Humantay Lake glacial hike — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Humantay Lake glacial hike"
+      ],
+      "overnight": "Cusco"
+    },
+    {
+      "day": 6,
+      "title": "Cusco: Cusco Cathedral & Museo Inka",
+      "description": "Morning visit to Cusco Cathedral — Grand colonial cathedral on the Plaza de Armas, built over an Inca palace. In the afternoon, continue to Museo Inka — Comprehensive museum of Inca and pre-Inca artifacts. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Cusco Cathedral",
+        "Museo Inka"
+      ],
+      "overnight": "Cusco"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Inca Trail to Machu Picchu (multi-day trek) or some souvenir shopping — before your private transfer to CUZ for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Spend at least one full day in Cusco to acclimatize to the altitude (3,400m) before any strenuous trekking.",
+    "Book Machu Picchu entry tickets and the Inca Trail permit months in advance — daily visitor numbers are strictly capped.",
+    "Drink coca tea and stay hydrated in the first 48 hours to ease altitude sickness symptoms.",
+    "Visit Rainbow Mountain very early morning — afternoon clouds frequently obscure the summit.",
+    "The dry season (May-September) is best for trail conditions but also the coldest at night and the most crowded.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Warm layers for cold nights even in the dry season — altitude means big temperature swings",
+    "Comfortable, broken-in hiking shoes for Inca Trail or day treks",
+    "Coca leaves/tea or altitude medication to help acclimatize",
+    "Sun protection — UV is intense at this elevation despite cool air temperatures"
+  ],
+  "thingsToDo": [
+    "Machu Picchu",
+    "Sacsayhuamán",
+    "Qorikancha (Temple of the Sun) and Santo Domingo Convent",
+    "Sacred Valley full-day tour (Pisac, Ollantaytambo)",
+    "Rainbow Mountain (Vinicunca) day trek",
+    "Cusco Cathedral",
+    "Museo Inka",
+    "Inca Trail to Machu Picchu (multi-day trek)",
+    "Maras Salt Mines and Moray terraces tour",
+    "Humantay Lake day trek",
+    "Tambomachay and Puka Pukara ruins tour",
+    "Plaza de Armas, Cusco",
+    "San Blas neighborhood",
+    "Doce Angulos (Twelve-Angled Stone)",
+    "San Pedro Market exterior and stalls",
+    "Cristo Blanco viewpoint",
+    "Plazoleta de San Blas",
+    "Mirador de San Cristóbal",
+    "Avenida El Sol colonial architecture walk",
+    "Trekking the classic Inca Trail to Machu Picchu"
+  ],
+  "thingsToAvoid": [
+    "Arriving and immediately attempting strenuous activity — altitude sickness is a real risk without acclimatization.",
+    "Booking Inca Trail treks last-minute — permits sell out months ahead, especially June-August.",
+    "Underestimating night cold — even in the warm season, temperatures can drop near freezing after dark.",
+    "Skipping travel insurance that covers high-altitude trekking and medical evacuation.",
+    "Buying \"alpaca\" goods from unlicensed street vendors — quality and authenticity vary widely versus reputable shops."
+  ],
+  "topRestaurants": [
+    "Chicha por Gastón Acurio — Andean-Peruvian Fine Dining ($$$)",
+    "Cicciolina — Peruvian-Mediterranean ($$$)",
+    "MAP Café — Contemporary Peruvian, in the Museo de Arte Precolombino courtyard ($$$$)",
+    "Jack's Café Bar — International Comfort Food ($$)",
+    "Pachapapa — Traditional Andean, San Blas courtyard ($$)",
+    "Green Point Cusco — Vegetarian/Vegan Peruvian ($$)",
+    "San Pedro Market food stalls — Local Peruvian Street Food ($)",
+    "Uchu Peruvian Steakhouse — Peruvian Grill ($$$)",
+    "Morena Peruvian Kitchen — Modern Peruvian ($$)"
+  ],
+  "topCafes": [
+    "La Bodega 138",
+    "Café Ayllu",
+    "Qura Coffee",
+    "Museo del Café Cusco",
+    "Yanapay Café"
+  ],
+  "shoppingAreas": [
+    "San Pedro Market",
+    "San Blas artisan studios",
+    "Centro Artesanal Cusco",
+    "Avenida El Sol alpaca wool shops",
+    "Feria de Pisac (Sacred Valley market day trip)"
+  ],
+  "nightlife": [
+    "Plaza de Armas bars and clubs",
+    "Mama Africa nightclub",
+    "Los Perros Bar",
+    "Paddy's Irish Pub (claims to be the highest Irish pub in the world)",
+    "Museo del Pisco bar"
+  ],
+  "instagramSpots": [
+    "Machu Picchu classic overlook",
+    "Rainbow Mountain (Vinicunca)",
+    "Sacsayhuamán megalithic walls",
+    "San Blas cobblestone streets",
+    "Maras Salt Mines terraces"
+  ],
+  "hiddenGems": [
+    "Humantay Lake glacial hike",
+    "Tipón agricultural terraces",
+    "Moray circular terraces",
+    "Q'enqo ceremonial rock site",
+    "Chinchero weaving cooperatives"
+  ],
+  "familyActivities": [
+    "Sacred Valley day tour with llamas and alpacas",
+    "Museo Inka exhibits",
+    "Cusco Chocolate Museum (ChocoMuseo) workshop",
+    "Cristo Blanco viewpoint walk",
+    "Planetarium Cusco stargazing tour"
+  ],
+  "adventureActivities": [
+    "Trekking the classic Inca Trail to Machu Picchu",
+    "Hiking Rainbow Mountain (Vinicunca)",
+    "Mountain biking the Sacred Valley",
+    "White-water rafting the Urubamba River"
+  ],
+  "luxuryExperiences": [
+    "Belmond Hiram Bingham luxury train to Machu Picchu",
+    "Private guided Sacred Valley tour with a llama trek",
+    "Suite stay at a converted colonial monastery hotel",
+    "Fine dining tasting menu at MAP Café"
+  ],
+  "honeymoonExperiences": [
+    "Sunrise entry to Machu Picchu for two",
+    "Private Sacred Valley picnic among Inca ruins",
+    "Luxury train journey through the Andes",
+    "Candlelit dinner in a San Blas courtyard restaurant"
+  ],
+  "budgetExperiences": [
+    "Free wander through San Blas cobblestone streets",
+    "Local menú del día lunch for a few dollars near San Pedro Market",
+    "Free viewpoint hike to Cristo Blanco",
+    "Explore the free Doce Angulos Inca stonework wall"
+  ],
+  "estimatedDailyBudgetUSD": [
+    40,
+    100,
+    220,
+    450
+  ],
+  "safetyRating": 4,
+  "internetRating": 3,
+  "publicTransportRating": 3,
+  "walkingScore": 68,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 19,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 19,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 19,
+      "crowd": "Low"
+    },
+    {
+      "month": "Apr",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 20,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 19,
+      "crowd": "Low"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Inti Raymi (Festival of the Sun)",
+      "timing": "June 24"
+    },
+    {
+      "name": "Corpus Christi Cusco",
+      "timing": "Late May to June (moveable feast)"
+    },
+    {
+      "name": "Cusco Anniversary celebrations",
+      "timing": "June"
+    },
+    {
+      "name": "Virgen del Carmen (Paucartambo)",
+      "timing": "Mid-July"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "105",
+    "ambulance": "106",
+    "fire": "116"
+  },
+  "localEtiquette": [
+    "Altitude sickness is common for new arrivals — locals recommend coca tea (mate de coca) and taking the first day slow.",
+    "Quechua culture and Indigenous heritage are central to Cusco's identity — ask permission before photographing local people in traditional dress.",
+    "Tipping guides and porters on Inca Trail treks is expected and often a meaningful part of their income.",
+    "Bargaining at San Pedro Market or craft stalls is normal and expected, done with good humor.",
+    "Many religious and archaeological sites are considered sacred — dress modestly and stay on marked paths."
+  ],
+  "localTransportGuide": "Cusco's historic center is compact and walkable, though steep cobblestone streets and high altitude make it slower going than sea-level cities. Reaching Machu Picchu requires a train from Ollantaytambo or Poroy (no direct road access) followed by a shuttle bus up to the citadel; colectivo vans and organized tour buses cover the Sacred Valley.",
+  "bestTimeToVisit": "May to September is the dry season with the clearest trail and mountain conditions, though also the busiest and coolest window (chilly nights); shoulder months (April, October) offer fewer crowds.",
+  "weather": "High-altitude (~3,400m) mountain climate with cool days and cold nights year-round (highs around 19-20°C, dropping toward 17-18°C in the wetter months) and a pronounced dry season (May-September) versus wet season (December-March) with big diurnal temperature swings.",
+  "visaInformation": "Visa-free entry for most Western passport holders (US, UK, EU, Canada, Australia) for tourist stays up to 90 days, same national entry as Lima. Indian nationals typically need a Peruvian visa arranged in advance; a separate Boleto Turístico (tourist ticket) and Machu Picchu entry permit must be booked ahead regardless of nationality.",
+  "currency": "PEN",
+  "languages": [
+    "Spanish",
+    "Quechua"
+  ],
+  "timeZone": "PET (UTC-5)",
+  "averageFlightTime": "~17.9h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Cusco?",
+      "answer": "Visa-free entry for most Western passport holders (US, UK, EU, Canada, Australia) for tourist stays up to 90 days, same national entry as Lima. Indian nationals typically need a Peruvian visa arranged in advance; a separate Boleto Turístico (tourist ticket) and Machu Picchu entry permit must be booked ahead regardless of nationality."
+    },
+    {
+      "question": "What is the best time to visit Cusco?",
+      "answer": "May to September is the dry season with the clearest trail and mountain conditions, though also the busiest and coolest window (chilly nights); shoulder months (April, October) offer fewer crowds. High-altitude (~3,400m) mountain climate with cool days and cold nights year-round (highs around 19-20°C, dropping toward 17-18°C in the wetter months) and a pronounced dry season (May-September) versus wet season (December-March) with big diurnal temperature swings."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Cusco safe for tourists?",
+      "answer": "Cusco is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Cusco?",
+      "answer": "The local currency is PEN. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Bucket List",
+    "Adventure",
+    "Culture",
+    "History",
+    "Nature"
+  ],
+  "aiTags": [
+    "Cusco",
+    "Peru",
+    "Cusco, Peru",
+    "Cusco Region",
+    "Cusco tour package",
+    "Cusco vacation package",
+    "Cusco holiday package",
+    "things to do in Cusco",
+    "best time to visit Cusco",
+    "Cusco itinerary",
+    "7 day Cusco itinerary",
+    "Cusco flights and hotels",
+    "Cusco all inclusive package",
+    "cheap Cusco package",
+    "luxury Cusco package",
+    "Cusco honeymoon package",
+    "Cusco family vacation",
+    "Cusco solo trip",
+    "Cusco group tour",
+    "Cusco weekend getaway",
+    "Cusco guided tour",
+    "CUZ flights",
+    "Cusco travel guide",
+    "book Cusco trip online",
+    "Cusco trip cost",
+    "Cusco packages 7 days",
+    "Cusco bucket list",
+    "Cusco adventure",
+    "Cusco culture",
+    "Cusco history",
+    "Cusco nature",
+    "Machu Picchu",
+    "Sacsayhuamán",
+    "Qorikancha (Temple of the Sun) and Santo Domingo Convent",
+    "Sacred Valley full-day tour (Pisac, Ollantaytambo)",
+    "Rainbow Mountain (Vinicunca) day trek",
+    "Cusco Cathedral",
+    "Museo Inka",
+    "Inca Trail to Machu Picchu (multi-day trek)",
+    "Maras Salt Mines and Moray terraces tour",
+    "Humantay Lake day trek",
+    "Tambomachay and Puka Pukara ruins tour",
+    "Plaza de Armas, Cusco",
+    "San Blas neighborhood",
+    "Doce Angulos (Twelve-Angled Stone)",
+    "San Pedro Market exterior and stalls",
+    "Cristo Blanco viewpoint",
+    "Plazoleta de San Blas",
+    "Mirador de San Cristóbal",
+    "Avenida El Sol colonial architecture walk"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Cusco, Peru — Machu Picchu sunrise",
+      "keywords": [
+        "Cusco",
+        "Peru",
+        "Machu Picchu sunrise",
+        "Bucket List",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cusco Machu Picchu sunrise",
+      "pexelsQuery": "Cusco Machu Picchu sunrise",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Cusco, Peru — Machu Picchu sunrise",
+      "keywords": [
+        "Cusco",
+        "Peru",
+        "Machu Picchu sunrise",
+        "Bucket List",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cusco Machu Picchu sunrise",
+      "pexelsQuery": "Cusco Machu Picchu sunrise",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Cusco, Peru — Rainbow Mountain Vinicunca",
+      "keywords": [
+        "Cusco",
+        "Peru",
+        "Rainbow Mountain Vinicunca",
+        "Bucket List",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cusco Rainbow Mountain Vinicunca",
+      "pexelsQuery": "Cusco Rainbow Mountain Vinicunca",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Cusco, Peru — Sacsayhuamán stone walls",
+      "keywords": [
+        "Cusco",
+        "Peru",
+        "Sacsayhuamán stone walls",
+        "Bucket List",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cusco Sacsayhuamán stone walls",
+      "pexelsQuery": "Cusco Sacsayhuamán stone walls",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Cusco, Peru — Machu Picchu sunrise",
+      "keywords": [
+        "Cusco",
+        "Peru",
+        "Machu Picchu sunrise",
+        "Bucket List",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cusco Machu Picchu sunrise",
+      "pexelsQuery": "Cusco Machu Picchu sunrise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cusco, Peru — Rainbow Mountain Vinicunca",
+      "keywords": [
+        "Cusco",
+        "Peru",
+        "Rainbow Mountain Vinicunca",
+        "Bucket List",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cusco Rainbow Mountain Vinicunca",
+      "pexelsQuery": "Cusco Rainbow Mountain Vinicunca",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cusco, Peru — Sacsayhuamán stone walls",
+      "keywords": [
+        "Cusco",
+        "Peru",
+        "Sacsayhuamán stone walls",
+        "Bucket List",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cusco Sacsayhuamán stone walls",
+      "pexelsQuery": "Cusco Sacsayhuamán stone walls",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cusco, Peru — Sacred Valley terraces",
+      "keywords": [
+        "Cusco",
+        "Peru",
+        "Sacred Valley terraces",
+        "Bucket List",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cusco Sacred Valley terraces",
+      "pexelsQuery": "Cusco Sacred Valley terraces",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cusco, Peru — Machu Picchu",
+      "keywords": [
+        "Cusco",
+        "Peru",
+        "Machu Picchu",
+        "Bucket List",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cusco Machu Picchu",
+      "pexelsQuery": "Cusco Machu Picchu",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cusco, Peru — Sacsayhuamán",
+      "keywords": [
+        "Cusco",
+        "Peru",
+        "Sacsayhuamán",
+        "Bucket List",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cusco Sacsayhuamán",
+      "pexelsQuery": "Cusco Sacsayhuamán",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cusco, Peru — Qorikancha (Temple of the Sun) and Santo Domingo Convent",
+      "keywords": [
+        "Cusco",
+        "Peru",
+        "Qorikancha (Temple of the Sun) and Santo Domingo Convent",
+        "Bucket List",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cusco Qorikancha (Temple of the Sun) and Santo Domingo Convent",
+      "pexelsQuery": "Cusco Qorikancha (Temple of the Sun) and Santo Domingo Convent",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cusco, Peru — Sacred Valley full-day tour (Pisac, Ollantaytambo)",
+      "keywords": [
+        "Cusco",
+        "Peru",
+        "Sacred Valley full-day tour (Pisac, Ollantaytambo)",
+        "Bucket List",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cusco Sacred Valley full-day tour (Pisac, Ollantaytambo)",
+      "pexelsQuery": "Cusco Sacred Valley full-day tour (Pisac, Ollantaytambo)",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-cusco-7-1",
+      "author": "Anna Cohen",
+      "country": "South Korea",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-04-06",
+      "title": "Best vacation we've had",
+      "body": "Cusco is stunning and this package covered the essentials well, especially Maras Salt Mines and Moray terraces tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-2",
+      "author": "Sarah Wang",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-01",
+      "title": "Best vacation we've had",
+      "body": "Cusco is stunning and this package covered the essentials well, especially San Pedro Market exterior and stalls. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-3",
+      "author": "Mohammed Tanaka",
+      "country": "Australia",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-05-16",
+      "title": "Five stars, will return",
+      "body": "Sacred Valley full-day tour (Pisac, Ollantaytambo) alone was worth the trip, but combined with Plazoleta de San Blas this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-cusco-7-4",
+      "author": "Noah Wang",
+      "country": "UAE",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-01-28",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Cusco was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Inca Trail to Machu Picchu (multi-day trek) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-5",
+      "author": "Daniel Cohen",
+      "country": "France",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-06",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Cusco Cathedral and Cristo Blanco viewpoint. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-6",
+      "author": "Chen Larsen",
+      "country": "Germany",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-01",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a couple trip and it was well paced. Sacred Valley full-day tour (Pisac, Ollantaytambo) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-7",
+      "author": "Hiroshi Andersen",
+      "country": "Singapore",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-06-03",
+      "title": "Would book again in a heartbeat",
+      "body": "Inca Trail to Machu Picchu (multi-day trek) alone was worth the trip, but combined with Machu Picchu this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-8",
+      "author": "Isabella van Dijk",
+      "country": "France",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-10-04",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Cusco Cathedral and Qorikancha (Temple of the Sun) and Santo Domingo Convent. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-9",
+      "author": "Noah Santos",
+      "country": "Singapore",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-03-07",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Cusco was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Inca Trail to Machu Picchu (multi-day trek) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-10",
+      "author": "Isabella Andersen",
+      "country": "Switzerland",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-02-13",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to San Pedro Market exterior and stalls and Plaza de Armas, Cusco. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-11",
+      "author": "Noah Botha",
+      "country": "United States",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-07-11",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Cusco was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Machu Picchu was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-12",
+      "author": "Ava Andersen",
+      "country": "South Korea",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-06-11",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Maras Salt Mines and Moray terraces tour alone was worth the trip, but combined with Plazoleta de San Blas this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-13",
+      "author": "Liam Ibrahim",
+      "country": "Italy",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-15",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Cusco was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Mirador de San Cristóbal was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-14",
+      "author": "Liam Cohen",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-08-07",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Cusco was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Humantay Lake day trek was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-15",
+      "author": "Priya Larsen",
+      "country": "France",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-04-01",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a family of 4 trip and it was well paced. Rainbow Mountain (Vinicunca) day trek in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-16",
+      "author": "David Garcia",
+      "country": "India",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-04-16",
+      "title": "Best vacation we've had",
+      "body": "Cusco is stunning and this package covered the essentials well, especially Museo Inka. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-17",
+      "author": "Fatima van Dijk",
+      "country": "United States",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-23",
+      "title": "So many hidden gems included",
+      "body": "Machu Picchu alone was worth the trip, but combined with Cusco Cathedral this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-18",
+      "author": "Mohammed Silva",
+      "country": "Italy",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-01",
+      "title": "Adventure of a lifetime",
+      "body": "Mirador de San Cristóbal alone was worth the trip, but combined with Cristo Blanco viewpoint this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cusco-7-19",
+      "author": "Lucas Smith",
+      "country": "Brazil",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-12-25",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Tambomachay and Puka Pukara ruins tour and Inca Trail to Machu Picchu (multi-day trek). Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-cusco-7-20",
+      "author": "Emma Cohen",
+      "country": "Canada",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-05-15",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Cusco was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Qorikancha (Temple of the Sun) and Santo Domingo Convent was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.1,
+    "food": 4.2,
+    "hotel": 4.1,
+    "transportation": 4.1,
+    "activities": 4.1,
+    "value": 4.1,
+    "cleanliness": 4,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Cusco Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 9,
+      "neighborhood": "San Pedro Market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Cusco Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 16,
+      "neighborhood": "San Blas artisan studios"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Cusco Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 35,
+      "neighborhood": "Centro Artesanal Cusco"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Cusco Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 45,
+      "neighborhood": "Avenida El Sol alpaca wool shops"
+    },
+    {
+      "tier": "Resort",
+      "name": "Cusco Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 110,
+      "neighborhood": "Feria de Pisac (Sacred Valley market day trip)"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Cusco Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 189,
+      "neighborhood": "Plaza de Armas bars and clubs"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Cusco Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 225,
+      "neighborhood": "Mama Africa nightclub"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        513,
+        814
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        539,
+        856
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        797,
+        1266
+      ],
+      "estimatedFlightHours": 14.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        801,
+        1272
+      ],
+      "estimatedFlightHours": 14.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        836,
+        1327
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        840,
+        1334
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        743,
+        1180
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        823,
+        1307
+      ],
+      "estimatedFlightHours": 14.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        829,
+        1316
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1018,
+        1617
+      ],
+      "estimatedFlightHours": 18.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        877,
+        1393
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1263,
+        2006
+      ],
+      "estimatedFlightHours": 23,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        1233,
+        1959
+      ],
+      "estimatedFlightHours": 22.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1287,
+        2044
+      ],
+      "estimatedFlightHours": 23.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1420,
+        2255
+      ],
+      "estimatedFlightHours": 25.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1464,
+        2325
+      ],
+      "estimatedFlightHours": 26.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1425,
+        2264
+      ],
+      "estimatedFlightHours": 26,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1363,
+        2165
+      ],
+      "estimatedFlightHours": 24.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1421,
+        2257
+      ],
+      "estimatedFlightHours": 25.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1499,
+        2380
+      ],
+      "estimatedFlightHours": 27.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1114,
+        1770
+      ],
+      "estimatedFlightHours": 20.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1052,
+        1671
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1087,
+        1727
+      ],
+      "estimatedFlightHours": 19.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1061,
+        1685
+      ],
+      "estimatedFlightHours": 19.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        822,
+        1305
+      ],
+      "estimatedFlightHours": 14.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        285,
+        452
+      ],
+      "estimatedFlightHours": 4.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        417,
+        663
+      ],
+      "estimatedFlightHours": 7.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Machu Picchu",
+    "Sacsayhuamán",
+    "Qorikancha (Temple of the Sun) and Santo Domingo Convent",
+    "Sacred Valley full-day tour (Pisac, Ollantaytambo)",
+    "Rainbow Mountain (Vinicunca) day trek",
+    "Cusco Cathedral",
+    "Museo Inka",
+    "Inca Trail to Machu Picchu (multi-day trek)",
+    "Maras Salt Mines and Moray terraces tour",
+    "Humantay Lake day trek",
+    "Tambomachay and Puka Pukara ruins tour",
+    "Plaza de Armas, Cusco",
+    "San Blas neighborhood",
+    "Doce Angulos (Twelve-Angled Stone)",
+    "San Pedro Market exterior and stalls",
+    "Cristo Blanco viewpoint",
+    "Plazoleta de San Blas",
+    "Mirador de San Cristóbal",
+    "Avenida El Sol colonial architecture walk",
+    "Machu Picchu (via Ollantaytambo train)",
+    "Sacred Valley (Pisac, Ollantaytambo, Chinchero)",
+    "Rainbow Mountain (Vinicunca)",
+    "Maras Salt Mines and Moray terraces",
+    "Museo de Arte Precolombino (MAP)",
+    "Museo Histórico Regional",
+    "ChocoMuseo",
+    "Parque Arqueológico de Sacsayhuamán",
+    "Qoricancha gardens",
+    "Parque de la Madre",
+    "Machu Picchu classic overlook",
+    "Sacsayhuamán megalithic walls",
+    "San Blas cobblestone streets",
+    "Maras Salt Mines terraces"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Machu Picchu",
+      "priceUSD": 45
+    },
+    {
+      "name": "Sacsayhuamán",
+      "priceUSD": 22
+    },
+    {
+      "name": "Qorikancha (Temple of the Sun) and Santo Domingo Convent",
+      "priceUSD": 6
+    },
+    {
+      "name": "Sacred Valley full-day tour (Pisac, Ollantaytambo)",
+      "priceUSD": 45
+    },
+    {
+      "name": "Rainbow Mountain (Vinicunca) day trek",
+      "priceUSD": 45
+    },
+    {
+      "name": "Cusco Cathedral",
+      "priceUSD": 10
+    },
+    {
+      "name": "Museo Inka",
+      "priceUSD": 4
+    },
+    {
+      "name": "Inca Trail to Machu Picchu (multi-day trek)",
+      "priceUSD": 700
+    },
+    {
+      "name": "Maras Salt Mines and Moray terraces tour",
+      "priceUSD": 40
+    },
+    {
+      "name": "Humantay Lake day trek",
+      "priceUSD": 40
+    },
+    {
+      "name": "Tambomachay and Puka Pukara ruins tour",
+      "priceUSD": 15
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Plaza de Armas, Cusco",
+    "San Blas neighborhood",
+    "Doce Angulos (Twelve-Angled Stone)",
+    "San Pedro Market exterior and stalls",
+    "Cristo Blanco viewpoint",
+    "Plazoleta de San Blas",
+    "Mirador de San Cristóbal",
+    "Avenida El Sol colonial architecture walk"
+  ],
+  "museums": [
+    "Museo Inka",
+    "Museo de Arte Precolombino (MAP)",
+    "Museo Histórico Regional",
+    "ChocoMuseo"
+  ],
+  "parks": [
+    "Parque Arqueológico de Sacsayhuamán",
+    "Qoricancha gardens",
+    "Parque de la Madre"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Machu Picchu (via Ollantaytambo train)",
+    "Sacred Valley (Pisac, Ollantaytambo, Chinchero)",
+    "Rainbow Mountain (Vinicunca)",
+    "Maras Salt Mines and Moray terraces"
+  ],
+  "fromPriceUSD": 1124,
+  "seo": {
+    "title": "Cusco 7-Day Bucket List Trip | Flights, Hotels & Tours Included",
+    "slug": "cusco-7-day-package",
+    "keywords": [
+      "Cusco",
+      "Peru",
+      "Cusco, Peru",
+      "Cusco Region",
+      "Cusco tour package",
+      "Cusco vacation package",
+      "Cusco holiday package",
+      "things to do in Cusco",
+      "best time to visit Cusco",
+      "Cusco itinerary",
+      "7 day Cusco itinerary",
+      "Cusco flights and hotels",
+      "Cusco all inclusive package",
+      "cheap Cusco package",
+      "luxury Cusco package"
+    ],
+    "canonicalUrl": "/packages/cusco-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Cusco Package",
+        "url": "/packages/cusco-5-day-package"
+      },
+      {
+        "title": "10-Day Cusco Package",
+        "url": "/packages/cusco-10-day-package"
+      },
+      {
+        "title": "Siem Reap 7-Day Cultural Tour",
+        "url": "/packages/siem-reap-7-day-package"
+      },
+      {
+        "title": "Kathmandu 7-Day Cultural Tour",
+        "url": "/packages/kathmandu-7-day-package"
+      },
+      {
+        "title": "Amman 7-Day Heritage Tour",
+        "url": "/packages/amman-petra-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Cusco — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cusco"
+      },
+      {
+        "title": "Cusco — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Cusco"
+      }
+    ]
+  }
+}

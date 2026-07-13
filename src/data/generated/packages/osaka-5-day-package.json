@@ -1,0 +1,1537 @@
+{
+  "id": "PKG-osaka-5D",
+  "slug": "osaka-5-day-package",
+  "destinationSlug": "osaka",
+  "destinationName": "Osaka",
+  "country": "Japan",
+  "region": "East Asia",
+  "durationDays": 5,
+  "durationNights": 4,
+  "title": "Osaka 5-Day Food & Culture Tour",
+  "metaTitle": "Osaka 5-Day Food & Culture Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 5-day trip to Osaka, Japan: round-trip flights, hotel, breakfast, transfers, and guided tours including Osaka Castle and Universal Studios Japan. Prices from $1688 per person (estimate).",
+  "highlights": [
+    "Osaka Castle",
+    "Universal Studios Japan",
+    "Dotonbori",
+    "Nara (deer park and Todai-ji Temple)"
+  ],
+  "overview": "Spend 5 days discovering Osaka, Japan — Humid subtropical climate — hot, humid summers (highs around 33°C) and cool, dry winters (highs around 9-10°C), with a rainy season in June. March-April for cherry blossoms, and October-November for autumn foliage — both offer mild, pleasant weather. This itinerary blends Osaka Castle, Universal Studios Japan, Dotonbori with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "4 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Osaka Castle, Universal Studios Japan, Dotonbori",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Osaka",
+      "description": "Land at Kansai International Airport (KIX) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Osaka Castle — Reconstructed 16th-century castle with a museum inside, set in a park. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Osaka Castle"
+      ],
+      "overnight": "Osaka"
+    },
+    {
+      "day": 2,
+      "title": "Osaka: Universal Studios Japan & Osaka Aquarium Kaiyukan",
+      "description": "Morning visit to Universal Studios Japan — Major theme park including a Super Nintendo World zone. In the afternoon, continue to Osaka Aquarium Kaiyukan — One of the world's largest aquariums, centered on a whale shark tank. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Universal Studios Japan",
+        "Osaka Aquarium Kaiyukan"
+      ],
+      "overnight": "Osaka"
+    },
+    {
+      "day": 3,
+      "title": "Osaka: Umeda Sky Building observation deck & Dotonbori",
+      "description": "Morning visit to Umeda Sky Building observation deck — Futuristic connected-towers building with a rooftop open-air deck. In the afternoon, continue to Dotonbori — Neon-lit canal-side district famous for the Glico Running Man sign and street food. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Umeda Sky Building observation deck",
+        "Dotonbori"
+      ],
+      "overnight": "Osaka"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Nara (deer park and Todai-ji Temple)",
+      "description": "Full-day excursion to Nara (deer park and Todai-ji Temple), a popular side trip from Osaka. Return to Osaka in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Nara (deer park and Todai-ji Temple)",
+        "Free evening"
+      ],
+      "overnight": "Osaka"
+    },
+    {
+      "day": 5,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Shinsekai or some souvenir shopping — before your private transfer to KIX for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Get an ICOCA IC card on arrival for seamless travel on trains, subways, and buses.",
+    "Eat your way through Dotonbori — Osaka is nicknamed \"the nation's kitchen\" for good reason.",
+    "Osaka is a great, less-crowded, more affordable base for day trips to Kyoto and Nara.",
+    "Stand on the right on escalators in Osaka — the opposite convention from Tokyo.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Insulated jacket and warm layers for cold weather",
+    "Comfortable shoes for extensive walking and standing at street food stalls",
+    "Layers for seasonal temperature swings",
+    "A reusable IC transit card picked up on arrival"
+  ],
+  "thingsToDo": [
+    "Osaka Castle",
+    "Universal Studios Japan",
+    "Osaka Aquarium Kaiyukan",
+    "Umeda Sky Building observation deck",
+    "Dotonbori",
+    "Shinsekai",
+    "Osaka Castle Park",
+    "Cycling along the Yodo River",
+    "Day trip hiking in nearby Nara or Kyoto hills",
+    "Umeda Sky Building rooftop deck (heights)"
+  ],
+  "thingsToAvoid": [
+    "Visiting Universal Studios Japan on a weekend or Japanese holiday without an express pass — waits can exceed 2 hours.",
+    "Assuming all restaurants take credit cards — many smaller stalls and izakayas are cash-only.",
+    "Standing on the wrong side of the escalator (right side stand is local Osaka convention)."
+  ],
+  "topRestaurants": [
+    "Dotonbori takoyaki stalls — Octopus balls, Osaka's signature street food ($)",
+    "Kani Doraku — Crab specialist ($$$)",
+    "Mizuno — Okonomiyaki (savory pancake) ($$)",
+    "Hozenji Yokocho izakaya alley — Traditional izakaya small plates ($$)"
+  ],
+  "topCafes": [
+    "% Arabica Osaka",
+    "Streamer Coffee Company"
+  ],
+  "shoppingAreas": [
+    "Shinsaibashi shopping arcade",
+    "Umeda department stores",
+    "Kuromon Ichiba Market"
+  ],
+  "nightlife": [
+    "Dotonbori bars and izakayas",
+    "Namba Yasaka Shrine area",
+    "Hozenji Yokocho alley"
+  ],
+  "instagramSpots": [
+    "Dotonbori Glico Running Man sign at night",
+    "Osaka Castle with cherry blossoms",
+    "Shinsekai Tsutenkaku Tower",
+    "Kuromon Ichiba Market stalls"
+  ],
+  "hiddenGems": [
+    "Nakazakicho retro café district",
+    "Sumiyoshi Taisha shrine",
+    "Tempozan Ferris Wheel views over the bay"
+  ],
+  "familyActivities": [
+    "Universal Studios Japan",
+    "Osaka Aquarium Kaiyukan",
+    "Osaka Castle Park"
+  ],
+  "adventureActivities": [
+    "Cycling along the Yodo River",
+    "Day trip hiking in nearby Nara or Kyoto hills",
+    "Umeda Sky Building rooftop deck (heights)"
+  ],
+  "luxuryExperiences": [
+    "Suite stay overlooking Osaka Castle Park",
+    "Private kaiseki multi-course dinner",
+    "VIP Universal Studios Japan express-pass day"
+  ],
+  "honeymoonExperiences": [
+    "Evening walk through illuminated Dotonbori",
+    "Cherry blossom picnic at Osaka Castle Park (spring)",
+    "Private dinner in a traditional Hozenji Yokocho izakaya"
+  ],
+  "budgetExperiences": [
+    "Free Dotonbori and Shinsekai wander",
+    "Kuromon Ichiba Market street-food tasting",
+    "Osaka Castle Park grounds (free, castle interior paid separately)"
+  ],
+  "estimatedDailyBudgetUSD": [
+    65,
+    130,
+    260,
+    580
+  ],
+  "safetyRating": 5,
+  "internetRating": 4.5,
+  "publicTransportRating": 5,
+  "walkingScore": 80,
+  "accessibilityRating": 4.5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 9,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 10,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 14,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Apr",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "May",
+      "highC": 24,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 27,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Aug",
+      "highC": 33,
+      "crowd": "High"
+    },
+    {
+      "month": "Sep",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 23,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 17,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 12,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Osaka Tenjin Festival",
+      "timing": "July"
+    },
+    {
+      "name": "Cherry blossom season at Osaka Castle Park",
+      "timing": "Late March-early April"
+    },
+    {
+      "name": "Osaka Marathon",
+      "timing": "November"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "110",
+    "ambulance": "119",
+    "fire": "119"
+  },
+  "localEtiquette": [
+    "Osakans are known for being more outgoing and food-obsessed than the rest of Japan — casual banter with vendors is welcomed.",
+    "Slurping noodles is polite, not rude, and signals enjoyment.",
+    "Queue in an orderly line for trains and escalators (stand on the right in Osaka, opposite of Tokyo's left-standing convention)."
+  ],
+  "localTransportGuide": "The Osaka Metro and JR loop line cover the city efficiently and are simple to navigate with English signage; an IC card (ICOCA or Suica) works seamlessly across trains, subways, and buses. Osaka is a very walkable city, especially the Dotonbori-Shinsaibashi-Namba core.",
+  "bestTimeToVisit": "March-April for cherry blossoms, and October-November for autumn foliage — both offer mild, pleasant weather.",
+  "weather": "Humid subtropical climate — hot, humid summers (highs around 33°C) and cool, dry winters (highs around 9-10°C), with a rainy season in June.",
+  "visaInformation": "Japan is visa-free for stays up to 90 days for most Western passport holders including the US, UK, EU, Canada, and Australia. Indian nationals generally need a visa arranged in advance, though eligible frequent travelers may qualify for simplified processing.",
+  "currency": "JPY",
+  "languages": [
+    "Japanese"
+  ],
+  "timeZone": "JST (UTC+9)",
+  "averageFlightTime": "~11.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Kansai International Airport (KIX)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Osaka?",
+      "answer": "Japan is visa-free for stays up to 90 days for most Western passport holders including the US, UK, EU, Canada, and Australia. Indian nationals generally need a visa arranged in advance, though eligible frequent travelers may qualify for simplified processing."
+    },
+    {
+      "question": "What is the best time to visit Osaka?",
+      "answer": "March-April for cherry blossoms, and October-November for autumn foliage — both offer mild, pleasant weather. Humid subtropical climate — hot, humid summers (highs around 33°C) and cool, dry winters (highs around 9-10°C), with a rainy season in June."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Osaka safe for tourists?",
+      "answer": "Osaka is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Osaka?",
+      "answer": "The local currency is JPY. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include Universal Studios Japan."
+    }
+  ],
+  "categories": [
+    "Food",
+    "City Break",
+    "Nightlife",
+    "Family",
+    "Culture"
+  ],
+  "aiTags": [
+    "Osaka",
+    "Japan",
+    "Osaka, Japan",
+    "East Asia",
+    "Osaka tour package",
+    "Osaka vacation package",
+    "Osaka holiday package",
+    "things to do in Osaka",
+    "best time to visit Osaka",
+    "Osaka itinerary",
+    "5 day Osaka itinerary",
+    "Osaka flights and hotels",
+    "Osaka all inclusive package",
+    "cheap Osaka package",
+    "luxury Osaka package",
+    "Osaka honeymoon package",
+    "Osaka family vacation",
+    "Osaka solo trip",
+    "Osaka group tour",
+    "Osaka weekend getaway",
+    "Osaka guided tour",
+    "KIX flights",
+    "Osaka travel guide",
+    "book Osaka trip online",
+    "Osaka trip cost",
+    "Osaka packages 5 days",
+    "Osaka food",
+    "Osaka city break",
+    "Osaka nightlife",
+    "Osaka family",
+    "Osaka culture",
+    "Osaka Castle",
+    "Universal Studios Japan",
+    "Osaka Aquarium Kaiyukan",
+    "Umeda Sky Building observation deck",
+    "Dotonbori",
+    "Shinsekai",
+    "Osaka Castle Park",
+    "Dotonbori takoyaki stalls",
+    "Kani Doraku",
+    "Mizuno",
+    "Hozenji Yokocho izakaya alley",
+    "Dotonbori Glico Running Man sign at night",
+    "Osaka Castle with cherry blossoms",
+    "Shinsekai Tsutenkaku Tower",
+    "Kuromon Ichiba Market stalls",
+    "Nakazakicho retro café district",
+    "Sumiyoshi Taisha shrine",
+    "Tempozan Ferris Wheel views over the bay",
+    "Japan tourism"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Osaka, Japan — Dotonbori neon canal night",
+      "keywords": [
+        "Osaka",
+        "Japan",
+        "Dotonbori neon canal night",
+        "Food",
+        "City Break"
+      ],
+      "unsplashQuery": "Osaka Dotonbori neon canal night",
+      "pexelsQuery": "Osaka Dotonbori neon canal night",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Osaka, Japan — Dotonbori neon canal night",
+      "keywords": [
+        "Osaka",
+        "Japan",
+        "Dotonbori neon canal night",
+        "Food",
+        "City Break"
+      ],
+      "unsplashQuery": "Osaka Dotonbori neon canal night",
+      "pexelsQuery": "Osaka Dotonbori neon canal night",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Osaka, Japan — Osaka Castle cherry blossoms",
+      "keywords": [
+        "Osaka",
+        "Japan",
+        "Osaka Castle cherry blossoms",
+        "Food",
+        "City Break"
+      ],
+      "unsplashQuery": "Osaka Osaka Castle cherry blossoms",
+      "pexelsQuery": "Osaka Osaka Castle cherry blossoms",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Osaka, Japan — Shinsekai Tsutenkaku Tower",
+      "keywords": [
+        "Osaka",
+        "Japan",
+        "Shinsekai Tsutenkaku Tower",
+        "Food",
+        "City Break"
+      ],
+      "unsplashQuery": "Osaka Shinsekai Tsutenkaku Tower",
+      "pexelsQuery": "Osaka Shinsekai Tsutenkaku Tower",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Osaka, Japan — Dotonbori neon canal night",
+      "keywords": [
+        "Osaka",
+        "Japan",
+        "Dotonbori neon canal night",
+        "Food",
+        "City Break"
+      ],
+      "unsplashQuery": "Osaka Dotonbori neon canal night",
+      "pexelsQuery": "Osaka Dotonbori neon canal night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Osaka, Japan — Osaka Castle cherry blossoms",
+      "keywords": [
+        "Osaka",
+        "Japan",
+        "Osaka Castle cherry blossoms",
+        "Food",
+        "City Break"
+      ],
+      "unsplashQuery": "Osaka Osaka Castle cherry blossoms",
+      "pexelsQuery": "Osaka Osaka Castle cherry blossoms",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Osaka, Japan — Shinsekai Tsutenkaku Tower",
+      "keywords": [
+        "Osaka",
+        "Japan",
+        "Shinsekai Tsutenkaku Tower",
+        "Food",
+        "City Break"
+      ],
+      "unsplashQuery": "Osaka Shinsekai Tsutenkaku Tower",
+      "pexelsQuery": "Osaka Shinsekai Tsutenkaku Tower",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Osaka, Japan — Takoyaki street food stall",
+      "keywords": [
+        "Osaka",
+        "Japan",
+        "Takoyaki street food stall",
+        "Food",
+        "City Break"
+      ],
+      "unsplashQuery": "Osaka Takoyaki street food stall",
+      "pexelsQuery": "Osaka Takoyaki street food stall",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Osaka, Japan — Osaka Castle",
+      "keywords": [
+        "Osaka",
+        "Japan",
+        "Osaka Castle",
+        "Food",
+        "City Break"
+      ],
+      "unsplashQuery": "Osaka Osaka Castle",
+      "pexelsQuery": "Osaka Osaka Castle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Osaka, Japan — Universal Studios Japan",
+      "keywords": [
+        "Osaka",
+        "Japan",
+        "Universal Studios Japan",
+        "Food",
+        "City Break"
+      ],
+      "unsplashQuery": "Osaka Universal Studios Japan",
+      "pexelsQuery": "Osaka Universal Studios Japan",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Osaka, Japan — Osaka Aquarium Kaiyukan",
+      "keywords": [
+        "Osaka",
+        "Japan",
+        "Osaka Aquarium Kaiyukan",
+        "Food",
+        "City Break"
+      ],
+      "unsplashQuery": "Osaka Osaka Aquarium Kaiyukan",
+      "pexelsQuery": "Osaka Osaka Aquarium Kaiyukan",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Osaka, Japan — Umeda Sky Building observation deck",
+      "keywords": [
+        "Osaka",
+        "Japan",
+        "Umeda Sky Building observation deck",
+        "Food",
+        "City Break"
+      ],
+      "unsplashQuery": "Osaka Umeda Sky Building observation deck",
+      "pexelsQuery": "Osaka Umeda Sky Building observation deck",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-osaka-5-1",
+      "author": "Yuki Botha",
+      "country": "Switzerland",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-10",
+      "title": "Adventure of a lifetime",
+      "body": "Shinsekai alone was worth the trip, but combined with Dotonbori this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-2",
+      "author": "James Cohen",
+      "country": "France",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-02-25",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Osaka was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Universal Studios Japan was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-osaka-5-3",
+      "author": "Ava Rossi",
+      "country": "Spain",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-14",
+      "title": "Highly recommend this package",
+      "body": "Osaka Castle Park alone was worth the trip, but combined with Osaka Castle this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-4",
+      "author": "Emma Patel",
+      "country": "India",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-03-31",
+      "title": "Five stars, will return",
+      "body": "Our trip to Osaka was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Osaka Aquarium Kaiyukan was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-osaka-5-5",
+      "author": "Olivia Botha",
+      "country": "South Korea",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-04",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Osaka was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Umeda Sky Building observation deck was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-osaka-5-6",
+      "author": "Elena Ibrahim",
+      "country": "South Korea",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-27",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Umeda Sky Building observation deck and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-7",
+      "author": "Sofia Cohen",
+      "country": "United States",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-26",
+      "title": "Five stars, will return",
+      "body": "Booked this as a family of 4 trip and it was well paced. Osaka Castle in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-8",
+      "author": "Wei Williams",
+      "country": "South Africa",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-07-09",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a group trip and it was well paced. Dotonbori in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-9",
+      "author": "Sofia Johnson",
+      "country": "Spain",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-25",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a solo trip and it was well paced. Osaka Castle Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-osaka-5-10",
+      "author": "Arjun Silva",
+      "country": "New Zealand",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-02-14",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a couple trip and it was well paced. Dotonbori in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-11",
+      "author": "Olivia van Dijk",
+      "country": "Japan",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-01-07",
+      "title": "Five stars, will return",
+      "body": "Our trip to Osaka was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Umeda Sky Building observation deck was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-12",
+      "author": "Wei Larsen",
+      "country": "Italy",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-03-26",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a group trip and it was well paced. Osaka Castle Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-13",
+      "author": "Yuki Andersen",
+      "country": "Netherlands",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-01-29",
+      "title": "Five stars, will return",
+      "body": "Shinsekai alone was worth the trip, but combined with Shinsekai this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-14",
+      "author": "Elena Costa",
+      "country": "Spain",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-01-15",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Osaka Castle Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-15",
+      "author": "David Cohen",
+      "country": "South Africa",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-05-10",
+      "title": "Would book again in a heartbeat",
+      "body": "Osaka is stunning and this package covered the essentials well, especially Dotonbori. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-16",
+      "author": "Grace Cohen",
+      "country": "France",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-08-26",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Osaka Aquarium Kaiyukan and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-17",
+      "author": "Ava Tanaka",
+      "country": "Brazil",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-06-13",
+      "title": "A little rushed but still wonderful",
+      "body": "Umeda Sky Building observation deck alone was worth the trip, but combined with Umeda Sky Building observation deck this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-18",
+      "author": "Olivia Fernandez",
+      "country": "United Kingdom",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-08-06",
+      "title": "Worth every penny",
+      "body": "Our trip to Osaka was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Osaka Castle was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-19",
+      "author": "Lukas Andersen",
+      "country": "UAE",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-12",
+      "title": "Consultant made it effortless",
+      "body": "Osaka is stunning and this package covered the essentials well, especially Osaka Aquarium Kaiyukan. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-osaka-5-20",
+      "author": "Yuki Cohen",
+      "country": "United States",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-27",
+      "title": "Best vacation we've had",
+      "body": "Osaka Castle alone was worth the trip, but combined with Shinsekai this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.1,
+    "activities": 4.2,
+    "value": 4.1,
+    "cleanliness": 4.2,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Osaka Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 14,
+      "neighborhood": "Shinsaibashi shopping arcade"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Osaka Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 26,
+      "neighborhood": "Umeda department stores"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Osaka Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 46,
+      "neighborhood": "Kuromon Ichiba Market"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Osaka Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 59,
+      "neighborhood": "Dotonbori bars and izakayas"
+    },
+    {
+      "tier": "Resort",
+      "name": "Osaka Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 130,
+      "neighborhood": "Namba Yasaka Shrine area"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Osaka Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 244,
+      "neighborhood": "Hozenji Yokocho alley"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Osaka Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 290,
+      "neighborhood": "% Arabica Osaka"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        879,
+        1396
+      ],
+      "estimatedFlightHours": 15.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        843,
+        1339
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        762,
+        1211
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        773,
+        1227
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        744,
+        1181
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        778,
+        1235
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        848,
+        1347
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        742,
+        1179
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        761,
+        1208
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        640,
+        1017
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        722,
+        1146
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        473,
+        751
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        105,
+        166
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        136,
+        216
+      ],
+      "estimatedFlightHours": 1.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        434,
+        690
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        381,
+        605
+      ],
+      "estimatedFlightHours": 6.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        434,
+        690
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        470,
+        747
+      ],
+      "estimatedFlightHours": 8.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        269,
+        428
+      ],
+      "estimatedFlightHours": 4.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        362,
+        575
+      ],
+      "estimatedFlightHours": 6.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        626,
+        994
+      ],
+      "estimatedFlightHours": 11,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        682,
+        1083
+      ],
+      "estimatedFlightHours": 12.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        649,
+        1031
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        655,
+        1040
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1026,
+        1629
+      ],
+      "estimatedFlightHours": 18.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1432,
+        2275
+      ],
+      "estimatedFlightHours": 26.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Kansai International Airport (KIX)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        921,
+        1462
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Osaka Castle",
+    "Universal Studios Japan",
+    "Osaka Aquarium Kaiyukan",
+    "Umeda Sky Building observation deck",
+    "Dotonbori",
+    "Shinsekai",
+    "Osaka Castle Park",
+    "Nara (deer park and Todai-ji Temple)",
+    "Kyoto (30 minutes by train)",
+    "Kobe (Mount Rokko and Kobe beef)",
+    "Osaka Museum of History",
+    "National Museum of Art, Osaka",
+    "Osaka Castle Museum",
+    "Nakanoshima Park",
+    "Utsubo Park",
+    "Dotonbori Glico Running Man sign at night",
+    "Osaka Castle with cherry blossoms",
+    "Shinsekai Tsutenkaku Tower",
+    "Kuromon Ichiba Market stalls"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Osaka Castle",
+      "priceUSD": 5
+    },
+    {
+      "name": "Universal Studios Japan",
+      "priceUSD": 75
+    },
+    {
+      "name": "Osaka Aquarium Kaiyukan",
+      "priceUSD": 22
+    },
+    {
+      "name": "Umeda Sky Building observation deck",
+      "priceUSD": 11
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Dotonbori",
+    "Shinsekai",
+    "Osaka Castle Park"
+  ],
+  "museums": [
+    "Osaka Museum of History",
+    "National Museum of Art, Osaka",
+    "Osaka Castle Museum"
+  ],
+  "parks": [
+    "Osaka Castle Park",
+    "Nakanoshima Park",
+    "Utsubo Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Nara (deer park and Todai-ji Temple)",
+    "Kyoto (30 minutes by train)",
+    "Kobe (Mount Rokko and Kobe beef)"
+  ],
+  "fromPriceUSD": 1688,
+  "seo": {
+    "title": "Osaka 5-Day Food & Culture Tour | Flights, Hotels & Tours Included",
+    "slug": "osaka-5-day-package",
+    "keywords": [
+      "Osaka",
+      "Japan",
+      "Osaka, Japan",
+      "East Asia",
+      "Osaka tour package",
+      "Osaka vacation package",
+      "Osaka holiday package",
+      "things to do in Osaka",
+      "best time to visit Osaka",
+      "Osaka itinerary",
+      "5 day Osaka itinerary",
+      "Osaka flights and hotels",
+      "Osaka all inclusive package",
+      "cheap Osaka package",
+      "luxury Osaka package"
+    ],
+    "canonicalUrl": "/packages/osaka-5-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Osaka Package",
+        "url": "/packages/osaka-3-day-package"
+      },
+      {
+        "title": "7-Day Osaka Package",
+        "url": "/packages/osaka-7-day-package"
+      },
+      {
+        "title": "London 5-Day City Break",
+        "url": "/packages/london-5-day-package"
+      },
+      {
+        "title": "Barcelona 5-Day City Break",
+        "url": "/packages/barcelona-5-day-package"
+      },
+      {
+        "title": "Lisbon 5-Day City Break",
+        "url": "/packages/lisbon-5-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Osaka — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Osaka"
+      },
+      {
+        "title": "Osaka — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Osaka"
+      }
+    ]
+  }
+}

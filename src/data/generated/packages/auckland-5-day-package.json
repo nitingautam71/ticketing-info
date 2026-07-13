@@ -1,0 +1,1551 @@
+{
+  "id": "PKG-auckland-5D",
+  "slug": "auckland-5-day-package",
+  "destinationSlug": "auckland",
+  "destinationName": "Auckland",
+  "country": "New Zealand",
+  "region": "Oceania",
+  "durationDays": 5,
+  "durationNights": 4,
+  "title": "Auckland 5-Day City Break",
+  "metaTitle": "Auckland 5-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 5-day trip to Auckland, New Zealand: round-trip flights, hotel, breakfast, transfers, and guided tours including Sky Tower and Auckland War Memorial Museum. Prices from $2062 per person (estimate).",
+  "highlights": [
+    "Sky Tower",
+    "Auckland War Memorial Museum",
+    "Auckland Domain",
+    "SkyJump/SkyWalk off the Sky Tower",
+    "Waiheke Island"
+  ],
+  "overview": "Spend 5 days discovering Auckland, New Zealand — Temperate maritime climate — mild, humid summers (highs around 23-24°C) and cool, wet winters (highs around 14-15°C), rarely extreme in either direction. December-February (summer) for warm weather and outdoor activities; September-November (spring) for fewer crowds. This itinerary blends Sky Tower, Auckland War Memorial Museum, Auckland Domain with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "4 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Sky Tower, Auckland War Memorial Museum, Auckland Domain",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Auckland",
+      "description": "Land at Auckland Airport (AKL) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Sky Tower — Southern Hemisphere's tallest tower, with an observation deck and SkyJump/SkyWalk options. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Sky Tower"
+      ],
+      "overnight": "Auckland"
+    },
+    {
+      "day": 2,
+      "title": "Auckland: Auckland War Memorial Museum & Waiheke Island wine tour",
+      "description": "Morning visit to Auckland War Memorial Museum — Natural history, Māori and Pacific culture, and war history collections. In the afternoon, continue to Waiheke Island wine tour — Ferry to a vineyard-covered island in the Hauraki Gulf. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Auckland War Memorial Museum",
+        "Waiheke Island wine tour"
+      ],
+      "overnight": "Auckland"
+    },
+    {
+      "day": 3,
+      "title": "Auckland: Rangitoto Island volcano hike & Auckland Domain",
+      "description": "Morning visit to Rangitoto Island volcano hike — Ferry and hike up a young volcanic island cone. In the afternoon, continue to Auckland Domain — The city's oldest park, surrounding the War Memorial Museum. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Rangitoto Island volcano hike",
+        "Auckland Domain"
+      ],
+      "overnight": "Auckland"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Waiheke Island",
+      "description": "Full-day excursion to Waiheke Island, a popular side trip from Auckland. Return to Auckland in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Waiheke Island",
+        "Free evening"
+      ],
+      "overnight": "Auckland"
+    },
+    {
+      "day": 5,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Mission Bay Beach or some souvenir shopping — before your private transfer to AKL for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Get an AT HOP card for trains, buses, and ferries.",
+    "Take the ferry to Waiheke Island for a half or full day of wineries and beaches.",
+    "Hike Rangitoto Island in the morning to allow enough time for the return ferry.",
+    "New Zealand's UV is intense even on cool or cloudy days — wear sunscreen regardless of temperature.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Swimwear and reef-safe sunscreen",
+    "Layers for changeable maritime weather",
+    "A light rain jacket year-round",
+    "Swimwear for beach and island day trips",
+    "Sun protection — New Zealand's UV index runs high"
+  ],
+  "thingsToDo": [
+    "Sky Tower",
+    "Auckland War Memorial Museum",
+    "Waiheke Island wine tour",
+    "Rangitoto Island volcano hike",
+    "Auckland Domain",
+    "Mission Bay Beach",
+    "Wynyard Quarter",
+    "One Tree Hill / Maungakiekie",
+    "SkyJump/SkyWalk off the Sky Tower",
+    "Surfing at Piha Beach",
+    "Hiking Rangitoto Island's volcanic cone",
+    "SEA LIFE Auckland Aquarium",
+    "Auckland Domain and Museum",
+    "Rangitoto Island ferry and hike"
+  ],
+  "thingsToAvoid": [
+    "Underestimating New Zealand's UV strength because of mild-feeling temperatures.",
+    "Skipping a rain jacket, even in summer — Auckland weather changes quickly.",
+    "Swimming at west-coast beaches like Piha and Muriwai outside patrolled flags — surf and rip currents can be dangerous."
+  ],
+  "topRestaurants": [
+    "The Grove — Modern New Zealand fine dining ($$$$)",
+    "Depot Eatery — Modern New Zealand small plates ($$$)",
+    "Ponsonby Road restaurants — Diverse international ($$$)"
+  ],
+  "topCafes": [
+    "Ozone Coffee Roasters",
+    "Kokako Organic Coffee"
+  ],
+  "shoppingAreas": [
+    "Queen Street",
+    "Britomart precinct",
+    "Ponsonby Road boutiques"
+  ],
+  "nightlife": [
+    "Viaduct Harbour bars",
+    "Ponsonby Road bar scene",
+    "Karangahape Road (K Road) nightlife"
+  ],
+  "instagramSpots": [
+    "Sky Tower skyline view",
+    "Waiheke Island vineyards",
+    "One Tree Hill panoramic view",
+    "Mission Bay Beach at sunset"
+  ],
+  "hiddenGems": [
+    "Devonport village and North Head",
+    "Cornwall Park",
+    "West Coast black-sand beaches (Piha, Muriwai)"
+  ],
+  "familyActivities": [
+    "SEA LIFE Auckland Aquarium",
+    "Auckland Domain and Museum",
+    "Rangitoto Island ferry and hike"
+  ],
+  "adventureActivities": [
+    "SkyJump/SkyWalk off the Sky Tower",
+    "Surfing at Piha Beach",
+    "Hiking Rangitoto Island's volcanic cone"
+  ],
+  "luxuryExperiences": [
+    "Private Waiheke Island wine tour with a driver",
+    "Suite stay overlooking the Viaduct Harbour",
+    "Fine dining tasting menu at The Grove"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at Mission Bay",
+    "Private Waiheke Island vineyard lunch",
+    "Devonport village day trip together"
+  ],
+  "budgetExperiences": [
+    "Free Auckland Domain and Museum grounds",
+    "One Tree Hill viewpoint",
+    "Mission Bay Beach walk"
+  ],
+  "estimatedDailyBudgetUSD": [
+    75,
+    150,
+    290,
+    620
+  ],
+  "safetyRating": 4.5,
+  "internetRating": 4.5,
+  "publicTransportRating": 4,
+  "walkingScore": 65,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 24,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 22,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 17,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 15,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 14,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 15,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 22,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Auckland Anniversary Day Regatta",
+      "timing": "January"
+    },
+    {
+      "name": "Pasifika Festival",
+      "timing": "March"
+    },
+    {
+      "name": "Diwali Festival of Lights (large Indian diaspora celebration)",
+      "timing": "October/November"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "111",
+    "ambulance": "111",
+    "fire": "111"
+  },
+  "localEtiquette": [
+    "A handshake is standard; a hongi (pressing of noses and foreheads) may be offered at Māori cultural events as a sign of welcome.",
+    "Tipping is not customary in New Zealand.",
+    "Respect for Māori culture and language (te reo Māori) runs through everyday life — place names and greetings (\"Kia ora\") are widely used."
+  ],
+  "localTransportGuide": "Auckland's train, bus, and ferry network runs on a single AT HOP card; ferries from the downtown terminal are the easiest way to reach Waiheke and Rangitoto Islands. Central Auckland and Ponsonby are walkable, though a car is useful for west-coast beach day trips.",
+  "bestTimeToVisit": "December-February (summer) for warm weather and outdoor activities; September-November (spring) for fewer crowds.",
+  "weather": "Temperate maritime climate — mild, humid summers (highs around 23-24°C) and cool, wet winters (highs around 14-15°C), rarely extreme in either direction.",
+  "visaInformation": "New Zealand requires a New Zealand Electronic Travel Authority (NZeTA) for most visa-waiver nationalities including the US, UK, EU, Canada, and Australia, applied for online before travel. Indian nationals need a visitor visa arranged in advance.",
+  "currency": "NZD",
+  "languages": [
+    "English",
+    "Māori"
+  ],
+  "timeZone": "NZST (UTC+12)",
+  "averageFlightTime": "~17.6h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Auckland Airport (AKL)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Auckland?",
+      "answer": "New Zealand requires a New Zealand Electronic Travel Authority (NZeTA) for most visa-waiver nationalities including the US, UK, EU, Canada, and Australia, applied for online before travel. Indian nationals need a visitor visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Auckland?",
+      "answer": "December-February (summer) for warm weather and outdoor activities; September-November (spring) for fewer crowds. Temperate maritime climate — mild, humid summers (highs around 23-24°C) and cool, wet winters (highs around 14-15°C), rarely extreme in either direction."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Auckland safe for tourists?",
+      "answer": "Auckland is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Auckland?",
+      "answer": "The local currency is NZD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Nature",
+    "Adventure",
+    "Food",
+    "Culture"
+  ],
+  "aiTags": [
+    "Auckland",
+    "New Zealand",
+    "Auckland, New Zealand",
+    "Oceania",
+    "Auckland tour package",
+    "Auckland vacation package",
+    "Auckland holiday package",
+    "things to do in Auckland",
+    "best time to visit Auckland",
+    "Auckland itinerary",
+    "5 day Auckland itinerary",
+    "Auckland flights and hotels",
+    "Auckland all inclusive package",
+    "cheap Auckland package",
+    "luxury Auckland package",
+    "Auckland honeymoon package",
+    "Auckland family vacation",
+    "Auckland solo trip",
+    "Auckland group tour",
+    "Auckland weekend getaway",
+    "Auckland guided tour",
+    "AKL flights",
+    "Auckland travel guide",
+    "book Auckland trip online",
+    "Auckland trip cost",
+    "Auckland packages 5 days",
+    "Auckland city break",
+    "Auckland nature",
+    "Auckland adventure",
+    "Auckland food",
+    "Auckland culture",
+    "Sky Tower",
+    "Auckland War Memorial Museum",
+    "Waiheke Island wine tour",
+    "Rangitoto Island volcano hike",
+    "Auckland Domain",
+    "Mission Bay Beach",
+    "Wynyard Quarter",
+    "One Tree Hill / Maungakiekie",
+    "The Grove",
+    "Depot Eatery",
+    "Ponsonby Road restaurants",
+    "Sky Tower skyline view",
+    "Waiheke Island vineyards",
+    "One Tree Hill panoramic view",
+    "Mission Bay Beach at sunset",
+    "Devonport village and North Head",
+    "Cornwall Park",
+    "West Coast black-sand beaches (Piha, Muriwai)",
+    "New Zealand tourism"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Auckland, New Zealand — Sky Tower Auckland skyline",
+      "keywords": [
+        "Auckland",
+        "New Zealand",
+        "Sky Tower Auckland skyline",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Auckland Sky Tower Auckland skyline",
+      "pexelsQuery": "Auckland Sky Tower Auckland skyline",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Auckland, New Zealand — Sky Tower Auckland skyline",
+      "keywords": [
+        "Auckland",
+        "New Zealand",
+        "Sky Tower Auckland skyline",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Auckland Sky Tower Auckland skyline",
+      "pexelsQuery": "Auckland Sky Tower Auckland skyline",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Auckland, New Zealand — Waiheke Island vineyards",
+      "keywords": [
+        "Auckland",
+        "New Zealand",
+        "Waiheke Island vineyards",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Auckland Waiheke Island vineyards",
+      "pexelsQuery": "Auckland Waiheke Island vineyards",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Auckland, New Zealand — One Tree Hill panoramic view",
+      "keywords": [
+        "Auckland",
+        "New Zealand",
+        "One Tree Hill panoramic view",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Auckland One Tree Hill panoramic view",
+      "pexelsQuery": "Auckland One Tree Hill panoramic view",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Auckland, New Zealand — Sky Tower Auckland skyline",
+      "keywords": [
+        "Auckland",
+        "New Zealand",
+        "Sky Tower Auckland skyline",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Auckland Sky Tower Auckland skyline",
+      "pexelsQuery": "Auckland Sky Tower Auckland skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Auckland, New Zealand — Waiheke Island vineyards",
+      "keywords": [
+        "Auckland",
+        "New Zealand",
+        "Waiheke Island vineyards",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Auckland Waiheke Island vineyards",
+      "pexelsQuery": "Auckland Waiheke Island vineyards",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Auckland, New Zealand — One Tree Hill panoramic view",
+      "keywords": [
+        "Auckland",
+        "New Zealand",
+        "One Tree Hill panoramic view",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Auckland One Tree Hill panoramic view",
+      "pexelsQuery": "Auckland One Tree Hill panoramic view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Auckland, New Zealand — Mission Bay Beach sunset",
+      "keywords": [
+        "Auckland",
+        "New Zealand",
+        "Mission Bay Beach sunset",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Auckland Mission Bay Beach sunset",
+      "pexelsQuery": "Auckland Mission Bay Beach sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Auckland, New Zealand — Sky Tower",
+      "keywords": [
+        "Auckland",
+        "New Zealand",
+        "Sky Tower",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Auckland Sky Tower",
+      "pexelsQuery": "Auckland Sky Tower",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Auckland, New Zealand — Auckland War Memorial Museum",
+      "keywords": [
+        "Auckland",
+        "New Zealand",
+        "Auckland War Memorial Museum",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Auckland Auckland War Memorial Museum",
+      "pexelsQuery": "Auckland Auckland War Memorial Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Auckland, New Zealand — Waiheke Island wine tour",
+      "keywords": [
+        "Auckland",
+        "New Zealand",
+        "Waiheke Island wine tour",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Auckland Waiheke Island wine tour",
+      "pexelsQuery": "Auckland Waiheke Island wine tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Auckland, New Zealand — Rangitoto Island volcano hike",
+      "keywords": [
+        "Auckland",
+        "New Zealand",
+        "Rangitoto Island volcano hike",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Auckland Rangitoto Island volcano hike",
+      "pexelsQuery": "Auckland Rangitoto Island volcano hike",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-auckland-5-1",
+      "author": "Yuki van Dijk",
+      "country": "Spain",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-09",
+      "title": "Perfect for our honeymoon",
+      "body": "One Tree Hill / Maungakiekie alone was worth the trip, but combined with One Tree Hill / Maungakiekie this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-2",
+      "author": "Tom Brown",
+      "country": "South Africa",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-04-14",
+      "title": "Loved every moment",
+      "body": "We added a couple of optional activities beyond Mission Bay Beach and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-3",
+      "author": "Elena Botha",
+      "country": "United Kingdom",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-09-14",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond Sky Tower and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-4",
+      "author": "James Sharma",
+      "country": "Netherlands",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-28",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Auckland was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Mission Bay Beach was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-5",
+      "author": "Tom Smith",
+      "country": "Canada",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-26",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Auckland War Memorial Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-6",
+      "author": "Noah Silva",
+      "country": "France",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-08-27",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Auckland was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Waiheke Island wine tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-7",
+      "author": "Noah Botha",
+      "country": "United Kingdom",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-17",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Auckland was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Sky Tower was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-8",
+      "author": "Olivia Garcia",
+      "country": "Spain",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-02-12",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to Auckland was fantastic from start to finish. The hotel was clean and well located, and the guided visit to One Tree Hill / Maungakiekie was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-9",
+      "author": "David Wang",
+      "country": "Japan",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-26",
+      "title": "Exceeded our expectations",
+      "body": "Auckland is stunning and this package covered the essentials well, especially Auckland Domain. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-auckland-5-10",
+      "author": "Anna Fernandez",
+      "country": "Brazil",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-28",
+      "title": "Beautiful destination, well organized",
+      "body": "Auckland is stunning and this package covered the essentials well, especially Auckland Domain. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-11",
+      "author": "Liam Ivanov",
+      "country": "France",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-05-08",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Auckland was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Waiheke Island wine tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-12",
+      "author": "Elena Silva",
+      "country": "France",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-02-08",
+      "title": "Unforgettable trip!",
+      "body": "We added a couple of optional activities beyond Waiheke Island wine tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-13",
+      "author": "Mohammed Costa",
+      "country": "Netherlands",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-13",
+      "title": "So many hidden gems included",
+      "body": "Mission Bay Beach alone was worth the trip, but combined with Mission Bay Beach this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-auckland-5-14",
+      "author": "Anna Fernandez",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-04-16",
+      "title": "Luxury without the hassle",
+      "body": "Auckland is stunning and this package covered the essentials well, especially Auckland Domain. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-15",
+      "author": "Ethan Johnson",
+      "country": "Canada",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-28",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Auckland War Memorial Museum and Auckland War Memorial Museum. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-16",
+      "author": "Mohammed Müller",
+      "country": "UAE",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-02-01",
+      "title": "So many hidden gems included",
+      "body": "Waiheke Island wine tour alone was worth the trip, but combined with One Tree Hill / Maungakiekie this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-17",
+      "author": "Fatima Kowalski",
+      "country": "Singapore",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-04-19",
+      "title": "Consultant made it effortless",
+      "body": "Rangitoto Island volcano hike alone was worth the trip, but combined with Auckland War Memorial Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-18",
+      "author": "Daniel Sharma",
+      "country": "Mexico",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-09-10",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to One Tree Hill / Maungakiekie and Auckland Domain. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-19",
+      "author": "Daniel Costa",
+      "country": "Canada",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-29",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Sky Tower and Sky Tower. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-auckland-5-20",
+      "author": "Lucas Williams",
+      "country": "Netherlands",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-10-04",
+      "title": "Perfect for our honeymoon",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Mission Bay Beach and Auckland War Memorial Museum. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.2,
+    "hotel": 4.3,
+    "transportation": 4.4,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.3,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Auckland Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 17,
+      "neighborhood": "Queen Street"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Auckland Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 30,
+      "neighborhood": "Britomart precinct"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Auckland Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 53,
+      "neighborhood": "Ponsonby Road boutiques"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Auckland Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 68,
+      "neighborhood": "Viaduct Harbour bars"
+    },
+    {
+      "tier": "Resort",
+      "name": "Auckland Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 145,
+      "neighborhood": "Ponsonby Road bar scene"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Auckland Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 260,
+      "neighborhood": "Karangahape Road (K Road) nightlife"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Auckland Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 310,
+      "neighborhood": "Ozone Coffee Roasters"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1102,
+        1750
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1080,
+        1715
+      ],
+      "estimatedFlightHours": 19.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        1402,
+        2226
+      ],
+      "estimatedFlightHours": 25.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1416,
+        2249
+      ],
+      "estimatedFlightHours": 25.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        1389,
+        2206
+      ],
+      "estimatedFlightHours": 25.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1405,
+        2232
+      ],
+      "estimatedFlightHours": 25.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        1493,
+        2371
+      ],
+      "estimatedFlightHours": 27.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1386,
+        2201
+      ],
+      "estimatedFlightHours": 25.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1405,
+        2232
+      ],
+      "estimatedFlightHours": 25.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        232,
+        369
+      ],
+      "estimatedFlightHours": 3.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        978,
+        1554
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        716,
+        1137
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        772,
+        1226
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        684,
+        1087
+      ],
+      "estimatedFlightHours": 12.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        768,
+        1220
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        707,
+        1123
+      ],
+      "estimatedFlightHours": 12.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        628,
+        998
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        656,
+        1042
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        717,
+        1138
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1102,
+        1751
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1156,
+        1836
+      ],
+      "estimatedFlightHours": 21,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1127,
+        1790
+      ],
+      "estimatedFlightHours": 20.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1165,
+        1850
+      ],
+      "estimatedFlightHours": 21.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        957,
+        1520
+      ],
+      "estimatedFlightHours": 17.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        945,
+        1501
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Auckland Airport (AKL)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        868,
+        1378
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Sky Tower",
+    "Auckland War Memorial Museum",
+    "Waiheke Island wine tour",
+    "Rangitoto Island volcano hike",
+    "Auckland Domain",
+    "Mission Bay Beach",
+    "Wynyard Quarter",
+    "One Tree Hill / Maungakiekie",
+    "Waiheke Island",
+    "Rangitoto Island",
+    "Piha and the west coast beaches",
+    "Waitomo Glowworm Caves (further)",
+    "Auckland Art Gallery",
+    "New Zealand Maritime Museum",
+    "Cornwall Park",
+    "Western Springs Park",
+    "Piha Beach",
+    "Muriwai Beach",
+    "Sky Tower skyline view",
+    "Waiheke Island vineyards",
+    "One Tree Hill panoramic view",
+    "Mission Bay Beach at sunset"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Sky Tower",
+      "priceUSD": 25
+    },
+    {
+      "name": "Auckland War Memorial Museum",
+      "priceUSD": 15
+    },
+    {
+      "name": "Waiheke Island wine tour",
+      "priceUSD": 90
+    },
+    {
+      "name": "Rangitoto Island volcano hike",
+      "priceUSD": 40
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Auckland Domain",
+    "Mission Bay Beach",
+    "Wynyard Quarter",
+    "One Tree Hill / Maungakiekie"
+  ],
+  "museums": [
+    "Auckland War Memorial Museum",
+    "Auckland Art Gallery",
+    "New Zealand Maritime Museum"
+  ],
+  "parks": [
+    "Auckland Domain",
+    "Cornwall Park",
+    "Western Springs Park"
+  ],
+  "beaches": [
+    "Mission Bay Beach",
+    "Piha Beach",
+    "Muriwai Beach"
+  ],
+  "dayTrips": [
+    "Waiheke Island",
+    "Rangitoto Island",
+    "Piha and the west coast beaches",
+    "Waitomo Glowworm Caves (further)"
+  ],
+  "fromPriceUSD": 2062,
+  "seo": {
+    "title": "Auckland 5-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "auckland-5-day-package",
+    "keywords": [
+      "Auckland",
+      "New Zealand",
+      "Auckland, New Zealand",
+      "Oceania",
+      "Auckland tour package",
+      "Auckland vacation package",
+      "Auckland holiday package",
+      "things to do in Auckland",
+      "best time to visit Auckland",
+      "Auckland itinerary",
+      "5 day Auckland itinerary",
+      "Auckland flights and hotels",
+      "Auckland all inclusive package",
+      "cheap Auckland package",
+      "luxury Auckland package"
+    ],
+    "canonicalUrl": "/packages/auckland-5-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Auckland Package",
+        "url": "/packages/auckland-3-day-package"
+      },
+      {
+        "title": "7-Day Auckland Package",
+        "url": "/packages/auckland-7-day-package"
+      },
+      {
+        "title": "Cape Town 5-Day City Break",
+        "url": "/packages/cape-town-5-day-package"
+      },
+      {
+        "title": "Santiago 5-Day City Break",
+        "url": "/packages/santiago-5-day-package"
+      },
+      {
+        "title": "Bangkok 5-Day City Break",
+        "url": "/packages/bangkok-5-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Auckland — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Auckland"
+      },
+      {
+        "title": "Auckland — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Auckland"
+      }
+    ]
+  }
+}

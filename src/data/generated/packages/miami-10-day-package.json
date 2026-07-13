@@ -1,0 +1,1670 @@
+{
+  "id": "PKG-miami-10D",
+  "slug": "miami-10-day-package",
+  "destinationSlug": "miami",
+  "destinationName": "Miami",
+  "country": "United States",
+  "region": "Florida",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Miami 10-Day Beach Getaway",
+  "metaTitle": "Miami 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Miami, United States: round-trip flights, hotel, breakfast, transfers, and guided tours including Vizcaya Museum and Gardens and Zoo Miami. Prices from $1690 per person (estimate).",
+  "highlights": [
+    "Vizcaya Museum and Gardens",
+    "Zoo Miami",
+    "South Beach",
+    "Oceanfront suite at a South Beach luxury hotel",
+    "Everglades National Park"
+  ],
+  "overview": "Spend 10 days discovering Miami, United States — Tropical monsoon climate: hot, humid summers (highs 31-33°C, near-daily afternoon thunderstorms) and Atlantic hurricane season June-November, with warm, drier and more comfortable winters (highs 24-26°C). December to April for warm, dry, comfortable weather (highs 24-28°C) and lower hurricane risk; June-November is Atlantic hurricane season with hot, humid, storm-prone conditions. This itinerary blends Vizcaya Museum and Gardens, Zoo Miami, South Beach with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Vizcaya Museum and Gardens, Zoo Miami, South Beach",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Miami",
+      "description": "Land at Miami International Airport (MIA) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Vizcaya Museum and Gardens — Italian Renaissance-style villa and gardens on Biscayne Bay. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Vizcaya Museum and Gardens"
+      ],
+      "overnight": "Miami"
+    },
+    {
+      "day": 2,
+      "title": "Miami: Zoo Miami & Phillip and Patricia Frost Museum of Science",
+      "description": "Morning visit to Zoo Miami — One of the largest tropical zoos in the US. In the afternoon, continue to Phillip and Patricia Frost Museum of Science — Interactive science museum with a planetarium and aquarium. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Zoo Miami",
+        "Phillip and Patricia Frost Museum of Science"
+      ],
+      "overnight": "Miami"
+    },
+    {
+      "day": 3,
+      "title": "Miami: Pérez Art Museum Miami (PAMM) & Jungle Island",
+      "description": "Morning visit to Pérez Art Museum Miami (PAMM) — Contemporary art museum on the waterfront. In the afternoon, continue to Jungle Island — Exotic wildlife park and zoo. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Pérez Art Museum Miami (PAMM)",
+        "Jungle Island"
+      ],
+      "overnight": "Miami"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Everglades National Park",
+      "description": "Full-day excursion to Everglades National Park, a popular side trip from Miami. Return to Miami in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Everglades National Park",
+        "Free evening"
+      ],
+      "overnight": "Miami"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Coral Castle, Homestead — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Coral Castle, Homestead"
+      ],
+      "overnight": "Miami"
+    },
+    {
+      "day": 6,
+      "title": "Miami: Everglades airboat tour (Everglades National Park, day trip) & Wynwood Walls",
+      "description": "Morning visit to Everglades airboat tour (Everglades National Park, day trip) — Airboat rides through the sawgrass marshes to spot alligators. In the afternoon, continue to Wynwood Walls — Curated outdoor street-art museum in the Wynwood Arts District. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Everglades airboat tour (Everglades National Park, day trip)",
+        "Wynwood Walls"
+      ],
+      "overnight": "Miami"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Key West",
+      "description": "Full-day excursion to Key West, a popular side trip from Miami. Return to Miami in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Key West",
+        "Free evening"
+      ],
+      "overnight": "Miami"
+    },
+    {
+      "day": 8,
+      "title": "Miami: South Beach & Ocean Drive Art Deco Historic District",
+      "description": "Morning visit to South Beach — Iconic Art Deco beachfront. In the afternoon, continue to Ocean Drive Art Deco Historic District — Pastel-colored 1930s architecture strip. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "South Beach",
+        "Ocean Drive Art Deco Historic District"
+      ],
+      "overnight": "Miami"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Morningside Park waterfront — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Morningside Park waterfront"
+      ],
+      "overnight": "Miami"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Wynwood Walls murals (exterior street art) or some souvenir shopping — before your private transfer to MIA for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Everglades airboat tours for the morning — wildlife is more active and it's cooler before midday heat.",
+    "December-April is peak season with the best weather and highest hotel prices; book well ahead for Art Basel week in early December.",
+    "Parking in South Beach is expensive and limited — consider rideshare instead of a rental car for that specific area.",
+    "Cuban coffee (cafecito) at a Little Havana walk-up window is a quintessential, cheap local experience.",
+    "Track hurricane forecasts if traveling June-November — the season peaks in August-October.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Lightweight, breathable summer clothing year-round",
+    "A rain jacket for near-daily afternoon summer thunderstorms",
+    "Reef-safe sunscreen and swimwear",
+    "A smart-casual outfit for South Beach nightclub dress codes"
+  ],
+  "thingsToDo": [
+    "Vizcaya Museum and Gardens",
+    "Zoo Miami",
+    "Phillip and Patricia Frost Museum of Science",
+    "Pérez Art Museum Miami (PAMM)",
+    "Jungle Island",
+    "Everglades airboat tour (Everglades National Park, day trip)",
+    "Wynwood Walls",
+    "South Beach",
+    "Ocean Drive Art Deco Historic District",
+    "Wynwood Walls murals (exterior street art)",
+    "Little Havana / Calle Ocho",
+    "Bayside Marketplace",
+    "Miami Beach Boardwalk",
+    "Bayfront Park",
+    "Airboat tours through Everglades National Park",
+    "Jet skiing and parasailing off South Beach",
+    "Deep-sea fishing charters",
+    "Kayaking through Oleta River State Park mangroves",
+    "Everglades airboat tour"
+  ],
+  "thingsToAvoid": [
+    "Renting a car solely for South Beach — parking is scarce and pricey; use it only for out-of-town day trips.",
+    "Swimming during Atlantic hurricane season without checking rip current/beach flag warnings.",
+    "Skipping travel/medical insurance — US healthcare costs for foreign visitors can be extremely high.",
+    "Timeshare-presentation \"free gift\" pitches on Ocean Drive and near tourist attractions.",
+    "Underestimating summer humidity — outdoor sightseeing is best done morning or evening June-September."
+  ],
+  "topRestaurants": [
+    "Joe's Stone Crab — Seafood, Miami institution ($$$$)",
+    "Versailles Restaurant — Cuban ($$)",
+    "Yardbird Southern Table & Bar — Southern American ($$$)",
+    "La Sandwicherie — French Sandwiches ($)",
+    "Kush — Gastropub ($$)",
+    "Puerto Sagua — Cuban Diner ($)",
+    "Zuma Miami — Contemporary Japanese ($$$$)"
+  ],
+  "topCafes": [
+    "Panther Coffee, Wynwood",
+    "Vicky Bakery (Cuban coffee)",
+    "All Day Cafe",
+    "Pinecrest Bakery",
+    "Segafredo Espresso South Beach"
+  ],
+  "shoppingAreas": [
+    "Lincoln Road Mall",
+    "Bayside Marketplace",
+    "Aventura Mall",
+    "Design District boutiques",
+    "Dolphin Mall"
+  ],
+  "nightlife": [
+    "LIV nightclub (Fontainebleau)",
+    "Story Nightclub",
+    "Ball & Chain, Little Havana",
+    "Mango's Tropical Cafe, Ocean Drive",
+    "Sweet Liberty Drinks & Supply Co."
+  ],
+  "instagramSpots": [
+    "Ocean Drive Art Deco pastel hotels",
+    "Wynwood Walls murals",
+    "South Pointe Park pier",
+    "Vizcaya Museum gardens",
+    "Miami skyline from Key Biscayne"
+  ],
+  "hiddenGems": [
+    "Coral Castle, Homestead",
+    "Morningside Park waterfront",
+    "The Underline linear park",
+    "Deering Estate"
+  ],
+  "familyActivities": [
+    "Zoo Miami",
+    "Jungle Island",
+    "Phillip and Patricia Frost Museum of Science",
+    "Everglades airboat tour"
+  ],
+  "adventureActivities": [
+    "Airboat tours through Everglades National Park",
+    "Jet skiing and parasailing off South Beach",
+    "Deep-sea fishing charters",
+    "Kayaking through Oleta River State Park mangroves"
+  ],
+  "luxuryExperiences": [
+    "Oceanfront suite at a South Beach luxury hotel",
+    "Private yacht charter around Biscayne Bay",
+    "VIP table service at LIV or Story nightclub",
+    "Fine dining omakase or tasting menu in the Design District"
+  ],
+  "honeymoonExperiences": [
+    "Sunset stroll along Ocean Drive",
+    "Private sailing charter at sunset on Biscayne Bay",
+    "Couple's spa day at a South Beach resort",
+    "Rooftop dinner overlooking the Miami skyline"
+  ],
+  "budgetExperiences": [
+    "Free South Beach and Miami Beach Boardwalk time",
+    "Wynwood Walls street-art self-guided walk",
+    "Little Havana Calle Ocho walking tour",
+    "Free Bayfront Park events and concerts"
+  ],
+  "estimatedDailyBudgetUSD": [
+    90,
+    190,
+    350,
+    750
+  ],
+  "safetyRating": 3,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 55,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Apr",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 25,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Art Basel Miami Beach",
+      "timing": "Early December"
+    },
+    {
+      "name": "Miami Carnival",
+      "timing": "October, Caribbean culture parade"
+    },
+    {
+      "name": "Calle Ocho Festival",
+      "timing": "March, Little Havana street festival"
+    },
+    {
+      "name": "South Beach Wine & Food Festival",
+      "timing": "February"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Tipping 18-20% at restaurants is standard and expected, not optional.",
+    "South Beach and Art Deco district have relaxed swimwear norms right on the sand, but cover up when entering restaurants and shops.",
+    "Spanish is widely spoken, especially in Little Havana — a friendly \"gracias\" is always appreciated.",
+    "Nightclub dress codes are enforced (no flip-flops, athletic wear) at most South Beach venues."
+  ],
+  "localTransportGuide": "Miami is car-dependent overall, but South Beach and downtown are walkable, with the free Metromover downtown people-mover and Uber/Lyft covering the rest. Renting a car is recommended for day trips to the Everglades or Key West.",
+  "bestTimeToVisit": "December to April for warm, dry, comfortable weather (highs 24-28°C) and lower hurricane risk; June-November is Atlantic hurricane season with hot, humid, storm-prone conditions.",
+  "weather": "Tropical monsoon climate: hot, humid summers (highs 31-33°C, near-daily afternoon thunderstorms) and Atlantic hurricane season June-November, with warm, drier and more comfortable winters (highs 24-26°C).",
+  "visaInformation": "Citizens of Visa Waiver Program countries (including most of Western Europe, UK, Australia, Japan) can enter with an approved ESTA for stays up to 90 days. Other nationalities, including Indian passport holders, need a B1/B2 visitor visa obtained in advance through a US embassy/consulate interview — a key planning consideration for this site's Indian traveler audience, since processing/interview wait times can run into months.",
+  "currency": "USD",
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "timeZone": "EST (UTC-5)",
+  "averageFlightTime": "~15.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Miami International Airport (MIA)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Miami?",
+      "answer": "Citizens of Visa Waiver Program countries (including most of Western Europe, UK, Australia, Japan) can enter with an approved ESTA for stays up to 90 days. Other nationalities, including Indian passport holders, need a B1/B2 visitor visa obtained in advance through a US embassy/consulate interview — a key planning consideration for this site's Indian traveler audience, since processing/interview wait times can run into months."
+    },
+    {
+      "question": "What is the best time to visit Miami?",
+      "answer": "December to April for warm, dry, comfortable weather (highs 24-28°C) and lower hurricane risk; June-November is Atlantic hurricane season with hot, humid, storm-prone conditions. Tropical monsoon climate: hot, humid summers (highs 31-33°C, near-daily afternoon thunderstorms) and Atlantic hurricane season June-November, with warm, drier and more comfortable winters (highs 24-26°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Miami safe for tourists?",
+      "answer": "Miami is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Miami?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Nightlife",
+    "Luxury",
+    "City Break",
+    "Food",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Miami",
+    "United States",
+    "Miami, United States",
+    "Florida",
+    "Miami tour package",
+    "Miami vacation package",
+    "Miami holiday package",
+    "things to do in Miami",
+    "best time to visit Miami",
+    "Miami itinerary",
+    "10 day Miami itinerary",
+    "Miami flights and hotels",
+    "Miami all inclusive package",
+    "cheap Miami package",
+    "luxury Miami package",
+    "Miami honeymoon package",
+    "Miami family vacation",
+    "Miami solo trip",
+    "Miami group tour",
+    "Miami weekend getaway",
+    "Miami guided tour",
+    "MIA flights",
+    "Miami travel guide",
+    "book Miami trip online",
+    "Miami trip cost",
+    "Miami packages 10 days",
+    "Miami beach",
+    "Miami nightlife",
+    "Miami luxury",
+    "Miami city break",
+    "Miami food",
+    "Miami bucket list",
+    "Vizcaya Museum and Gardens",
+    "Zoo Miami",
+    "Phillip and Patricia Frost Museum of Science",
+    "Pérez Art Museum Miami (PAMM)",
+    "Jungle Island",
+    "Everglades airboat tour (Everglades National Park, day trip)",
+    "Wynwood Walls",
+    "South Beach",
+    "Ocean Drive Art Deco Historic District",
+    "Wynwood Walls murals (exterior street art)",
+    "Little Havana / Calle Ocho",
+    "Bayside Marketplace",
+    "Miami Beach Boardwalk",
+    "Bayfront Park",
+    "Joe's Stone Crab",
+    "Versailles Restaurant",
+    "Yardbird Southern Table & Bar",
+    "La Sandwicherie"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Miami, United States — Ocean Drive Art Deco",
+      "keywords": [
+        "Miami",
+        "United States",
+        "Ocean Drive Art Deco",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Miami Ocean Drive Art Deco",
+      "pexelsQuery": "Miami Ocean Drive Art Deco",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Miami, United States — Ocean Drive Art Deco",
+      "keywords": [
+        "Miami",
+        "United States",
+        "Ocean Drive Art Deco",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Miami Ocean Drive Art Deco",
+      "pexelsQuery": "Miami Ocean Drive Art Deco",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Miami, United States — South Beach skyline",
+      "keywords": [
+        "Miami",
+        "United States",
+        "South Beach skyline",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Miami South Beach skyline",
+      "pexelsQuery": "Miami South Beach skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Miami, United States — Wynwood Walls mural",
+      "keywords": [
+        "Miami",
+        "United States",
+        "Wynwood Walls mural",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Miami Wynwood Walls mural",
+      "pexelsQuery": "Miami Wynwood Walls mural",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Miami, United States — Ocean Drive Art Deco",
+      "keywords": [
+        "Miami",
+        "United States",
+        "Ocean Drive Art Deco",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Miami Ocean Drive Art Deco",
+      "pexelsQuery": "Miami Ocean Drive Art Deco",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Miami, United States — South Beach skyline",
+      "keywords": [
+        "Miami",
+        "United States",
+        "South Beach skyline",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Miami South Beach skyline",
+      "pexelsQuery": "Miami South Beach skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Miami, United States — Wynwood Walls mural",
+      "keywords": [
+        "Miami",
+        "United States",
+        "Wynwood Walls mural",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Miami Wynwood Walls mural",
+      "pexelsQuery": "Miami Wynwood Walls mural",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Miami, United States — Miami sunset Biscayne Bay",
+      "keywords": [
+        "Miami",
+        "United States",
+        "Miami sunset Biscayne Bay",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Miami Miami sunset Biscayne Bay",
+      "pexelsQuery": "Miami Miami sunset Biscayne Bay",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Miami, United States — Vizcaya Museum and Gardens",
+      "keywords": [
+        "Miami",
+        "United States",
+        "Vizcaya Museum and Gardens",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Miami Vizcaya Museum and Gardens",
+      "pexelsQuery": "Miami Vizcaya Museum and Gardens",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Miami, United States — Zoo Miami",
+      "keywords": [
+        "Miami",
+        "United States",
+        "Zoo Miami",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Miami Zoo Miami",
+      "pexelsQuery": "Miami Zoo Miami",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Miami, United States — Phillip and Patricia Frost Museum of Science",
+      "keywords": [
+        "Miami",
+        "United States",
+        "Phillip and Patricia Frost Museum of Science",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Miami Phillip and Patricia Frost Museum of Science",
+      "pexelsQuery": "Miami Phillip and Patricia Frost Museum of Science",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Miami, United States — Pérez Art Museum Miami (PAMM)",
+      "keywords": [
+        "Miami",
+        "United States",
+        "Pérez Art Museum Miami (PAMM)",
+        "Beach",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Miami Pérez Art Museum Miami (PAMM)",
+      "pexelsQuery": "Miami Pérez Art Museum Miami (PAMM)",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-miami-10-1",
+      "author": "Omar Ivanov",
+      "country": "Switzerland",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-26",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Little Havana / Calle Ocho and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-miami-10-2",
+      "author": "Daniel Botha",
+      "country": "Mexico",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-22",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Miami Beach Boardwalk and Bayside Marketplace. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-3",
+      "author": "Wei Khan",
+      "country": "Saudi Arabia",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-19",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a family of 4 trip and it was well paced. Bayside Marketplace in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-4",
+      "author": "Noah Brown",
+      "country": "Mexico",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-18",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Miami was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Miami Beach Boardwalk was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-5",
+      "author": "Hiroshi Ibrahim",
+      "country": "South Korea",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-06-10",
+      "title": "A little rushed but still wonderful",
+      "body": "Wynwood Walls alone was worth the trip, but combined with Pérez Art Museum Miami (PAMM) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-miami-10-6",
+      "author": "Elena Sharma",
+      "country": "Italy",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-04-12",
+      "title": "Unforgettable trip!",
+      "body": "We added a couple of optional activities beyond Miami Beach Boardwalk and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-7",
+      "author": "Grace Cohen",
+      "country": "Singapore",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-27",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Wynwood Walls and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-8",
+      "author": "Wei Costa",
+      "country": "France",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-06-06",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a group trip and it was well paced. Pérez Art Museum Miami (PAMM) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-9",
+      "author": "Marco Khan",
+      "country": "Japan",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-05-23",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond South Beach and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-10",
+      "author": "Arjun Larsen",
+      "country": "Saudi Arabia",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-04",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a couple trip and it was well paced. Bayside Marketplace in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-miami-10-11",
+      "author": "Tom Rossi",
+      "country": "South Africa",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-06-06",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Ocean Drive Art Deco Historic District and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-12",
+      "author": "Sofia Costa",
+      "country": "UAE",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-09-19",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a group trip and it was well paced. Everglades airboat tour (Everglades National Park, day trip) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-13",
+      "author": "Lukas Williams",
+      "country": "New Zealand",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-08-21",
+      "title": "Smooth from start to finish",
+      "body": "Miami is stunning and this package covered the essentials well, especially Wynwood Walls murals (exterior street art). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-14",
+      "author": "Emma Ivanov",
+      "country": "Switzerland",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-03-17",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Miami was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Little Havana / Calle Ocho was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-15",
+      "author": "Omar Santos",
+      "country": "United States",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-02",
+      "title": "Best vacation we've had",
+      "body": "We added a couple of optional activities beyond Vizcaya Museum and Gardens and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-16",
+      "author": "David Sharma",
+      "country": "Spain",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-04-08",
+      "title": "Unforgettable trip!",
+      "body": "Miami is stunning and this package covered the essentials well, especially Bayfront Park. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-17",
+      "author": "Daniel Garcia",
+      "country": "Canada",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-11-12",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Phillip and Patricia Frost Museum of Science and Miami Beach Boardwalk. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-18",
+      "author": "Tom Williams",
+      "country": "South Africa",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-09",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Ocean Drive Art Deco Historic District and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-19",
+      "author": "Anna Garcia",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-08-08",
+      "title": "Beautiful destination, well organized",
+      "body": "Miami is stunning and this package covered the essentials well, especially Little Havana / Calle Ocho. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-miami-10-20",
+      "author": "Ethan van Dijk",
+      "country": "Netherlands",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-10-29",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Wynwood Walls murals (exterior street art) and Miami Beach Boardwalk. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.5,
+    "food": 4.5,
+    "hotel": 4.5,
+    "transportation": 4.5,
+    "activities": 4.5,
+    "value": 4.5,
+    "cleanliness": 4.5,
+    "safety": 4.5,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Miami Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 20,
+      "neighborhood": "Lincoln Road Mall"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Miami Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 36,
+      "neighborhood": "Bayside Marketplace"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Miami Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 67,
+      "neighborhood": "Aventura Mall"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Miami Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 86,
+      "neighborhood": "Design District boutiques"
+    },
+    {
+      "tier": "Resort",
+      "name": "Miami Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 175,
+      "neighborhood": "Dolphin Mall"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Miami Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 315,
+      "neighborhood": "LIV nightclub (Fontainebleau)"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Miami Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 375,
+      "neighborhood": "Story Nightclub"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        203,
+        323
+      ],
+      "estimatedFlightHours": 3.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        220,
+        350
+      ],
+      "estimatedFlightHours": 3.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        592,
+        940
+      ],
+      "estimatedFlightHours": 10.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        608,
+        965
+      ],
+      "estimatedFlightHours": 10.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        638,
+        1013
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        679,
+        1079
+      ],
+      "estimatedFlightHours": 12,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        589,
+        936
+      ],
+      "estimatedFlightHours": 10.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        615,
+        976
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        643,
+        1022
+      ],
+      "estimatedFlightHours": 11.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1162,
+        1845
+      ],
+      "estimatedFlightHours": 21.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1013,
+        1609
+      ],
+      "estimatedFlightHours": 18.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1052,
+        1671
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        944,
+        1499
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        974,
+        1547
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1302,
+        2068
+      ],
+      "estimatedFlightHours": 23.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1205,
+        1914
+      ],
+      "estimatedFlightHours": 21.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1290,
+        2049
+      ],
+      "estimatedFlightHours": 23.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1357,
+        2155
+      ],
+      "estimatedFlightHours": 24.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1159,
+        1840
+      ],
+      "estimatedFlightHours": 21,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1224,
+        1944
+      ],
+      "estimatedFlightHours": 22.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        987,
+        1567
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        944,
+        1500
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        967,
+        1536
+      ],
+      "estimatedFlightHours": 17.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        927,
+        1472
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1012,
+        1607
+      ],
+      "estimatedFlightHours": 18.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        551,
+        875
+      ],
+      "estimatedFlightHours": 9.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Miami International Airport (MIA)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        226,
+        359
+      ],
+      "estimatedFlightHours": 3.5,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Vizcaya Museum and Gardens",
+    "Zoo Miami",
+    "Phillip and Patricia Frost Museum of Science",
+    "Pérez Art Museum Miami (PAMM)",
+    "Jungle Island",
+    "Everglades airboat tour (Everglades National Park, day trip)",
+    "Wynwood Walls",
+    "South Beach",
+    "Ocean Drive Art Deco Historic District",
+    "Wynwood Walls murals (exterior street art)",
+    "Little Havana / Calle Ocho",
+    "Bayside Marketplace",
+    "Miami Beach Boardwalk",
+    "Bayfront Park",
+    "Everglades National Park",
+    "Key West",
+    "Fort Lauderdale",
+    "Coral Castle, Homestead",
+    "HistoryMiami Museum",
+    "South Pointe Park",
+    "Oleta River State Park",
+    "Key Biscayne Beach",
+    "Haulover Beach",
+    "Ocean Drive Art Deco pastel hotels",
+    "Wynwood Walls murals",
+    "South Pointe Park pier",
+    "Vizcaya Museum gardens",
+    "Miami skyline from Key Biscayne"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Vizcaya Museum and Gardens",
+      "priceUSD": 25
+    },
+    {
+      "name": "Zoo Miami",
+      "priceUSD": 30
+    },
+    {
+      "name": "Phillip and Patricia Frost Museum of Science",
+      "priceUSD": 30
+    },
+    {
+      "name": "Pérez Art Museum Miami (PAMM)",
+      "priceUSD": 18
+    },
+    {
+      "name": "Jungle Island",
+      "priceUSD": 45
+    },
+    {
+      "name": "Everglades airboat tour (Everglades National Park, day trip)",
+      "priceUSD": 45
+    },
+    {
+      "name": "Wynwood Walls",
+      "priceUSD": 12
+    }
+  ],
+  "attractionsFreeTop20": [
+    "South Beach",
+    "Ocean Drive Art Deco Historic District",
+    "Wynwood Walls murals (exterior street art)",
+    "Little Havana / Calle Ocho",
+    "Bayside Marketplace",
+    "Miami Beach Boardwalk",
+    "Bayfront Park"
+  ],
+  "museums": [
+    "Pérez Art Museum Miami (PAMM)",
+    "Phillip and Patricia Frost Museum of Science",
+    "HistoryMiami Museum"
+  ],
+  "parks": [
+    "South Pointe Park",
+    "Bayfront Park",
+    "Oleta River State Park"
+  ],
+  "beaches": [
+    "South Beach",
+    "Key Biscayne Beach",
+    "Haulover Beach"
+  ],
+  "dayTrips": [
+    "Everglades National Park",
+    "Key West",
+    "Fort Lauderdale",
+    "Coral Castle, Homestead"
+  ],
+  "fromPriceUSD": 1690,
+  "seo": {
+    "title": "Miami 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "miami-10-day-package",
+    "keywords": [
+      "Miami",
+      "United States",
+      "Miami, United States",
+      "Florida",
+      "Miami tour package",
+      "Miami vacation package",
+      "Miami holiday package",
+      "things to do in Miami",
+      "best time to visit Miami",
+      "Miami itinerary",
+      "10 day Miami itinerary",
+      "Miami flights and hotels",
+      "Miami all inclusive package",
+      "cheap Miami package",
+      "luxury Miami package"
+    ],
+    "canonicalUrl": "/packages/miami-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Miami Package",
+        "url": "/packages/miami-7-day-package"
+      },
+      {
+        "title": "14-Day Miami Package",
+        "url": "/packages/miami-14-day-package"
+      },
+      {
+        "title": "Barcelona 10-Day City Break",
+        "url": "/packages/barcelona-10-day-package"
+      },
+      {
+        "title": "Singapore 10-Day City Break",
+        "url": "/packages/singapore-10-day-package"
+      },
+      {
+        "title": "Sydney 10-Day City Break",
+        "url": "/packages/sydney-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Miami — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Miami"
+      },
+      {
+        "title": "Miami — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Miami"
+      }
+    ]
+  }
+}

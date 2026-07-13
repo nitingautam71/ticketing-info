@@ -1,0 +1,1595 @@
+{
+  "id": "PKG-seville-3D",
+  "slug": "seville-3-day-package",
+  "destinationSlug": "seville",
+  "destinationName": "Seville",
+  "country": "Spain",
+  "region": "Andalusia",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Seville 3-Day Cultural Tour",
+  "metaTitle": "Seville 3-Day Cultural Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Seville, Spain: round-trip flights, hotel, breakfast, transfers, and guided tours including Real Alcázar of Seville and Seville Cathedral & Giralda Tower. Prices from $953 per person (estimate).",
+  "highlights": [
+    "Real Alcázar of Seville",
+    "Seville Cathedral & Giralda Tower",
+    "Plaza de España",
+    "Córdoba and the Mezquita"
+  ],
+  "overview": "Spend 3 days discovering Seville, Spain — One of Europe's hottest cities in summer, with highs around 36-37°C in July-August, and mild winters with highs around 16°C in January. March to May and October to November for pleasant temperatures before and after the intense summer heat. This itinerary blends Real Alcázar of Seville, Seville Cathedral & Giralda Tower, Plaza de España with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Real Alcázar of Seville, Seville Cathedral & Giralda Tower, Plaza de España",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Seville",
+      "description": "Land at Seville Airport (SVQ) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Real Alcázar of Seville — Stunning Mudéjar royal palace and gardens. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Real Alcázar of Seville"
+      ],
+      "overnight": "Seville"
+    },
+    {
+      "day": 2,
+      "title": "Seville: Seville Cathedral & Giralda Tower & Casa de Pilatos",
+      "description": "Morning visit to Seville Cathedral & Giralda Tower — World's largest Gothic cathedral with a climbable tower. In the afternoon, continue to Casa de Pilatos — Andalusian palace blending Mudéjar and Renaissance styles. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Seville Cathedral & Giralda Tower",
+        "Casa de Pilatos"
+      ],
+      "overnight": "Seville"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Metropol Parasol (Las Setas) or some souvenir shopping — before your private transfer to SVQ for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Avoid outdoor sightseeing during peak heat in July-August afternoons — go early morning or evening instead.",
+    "Book Real Alcázar tickets online for a timed entry slot.",
+    "Dinner reservations are rarely needed before 9pm as locals eat late.",
+    "Feria de Abril and Semana Santa require accommodation booked many months ahead.",
+    "A tapas crawl — bar to bar for small plates — is the most authentic and affordable way to eat.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Lightweight breathable clothing for intense summer heat",
+    "A hat and high-SPF sunscreen for shade-free plazas",
+    "A light scarf or shawl for cooler evenings and church visits",
+    "Comfortable shoes for cobblestones in Barrio Santa Cruz"
+  ],
+  "thingsToDo": [
+    "Real Alcázar of Seville",
+    "Seville Cathedral & Giralda Tower",
+    "Casa de Pilatos",
+    "Metropol Parasol (Las Setas)",
+    "Flamenco Dance Museum",
+    "Hospital de los Venerables",
+    "Torre del Oro",
+    "Real Maestranza Bullring tour",
+    "Palacio de las Dueñas",
+    "Flamenco show at a tablao",
+    "Plaza de España",
+    "Barrio Santa Cruz",
+    "Triana district",
+    "Puente de Isabel II (Triana Bridge)",
+    "Parque de María Luisa",
+    "Alameda de Hércules",
+    "Guadalquivir riverside promenade",
+    "Setas de Sevilla plaza",
+    "Kayaking the Guadalquivir River",
+    "Cycling Seville's SEVICI bike-lane network"
+  ],
+  "thingsToAvoid": [
+    "Visiting in July-August without adjusting your schedule around extreme heat.",
+    "Assuming shops are open during traditional afternoon siesta hours.",
+    "Overpaying for flamenco shows aimed purely at tour groups — seek out a proper tablao.",
+    "Wearing shorts or tank tops into the Cathedral or Alcázar.",
+    "Walking quieter alleys of Barrio Santa Cruz late at night without awareness of surroundings."
+  ],
+  "topRestaurants": [
+    "El Rinconcillo — Traditional Andalusian Tapas ($$)",
+    "Casa Morales — Traditional Tapas ($$)",
+    "Vinería San Telmo — Modern Andalusian ($$$)",
+    "Bar Las Teresas — Traditional Tapas ($$)",
+    "La Azotea — Modern Spanish ($$$)",
+    "Eslava — Creative Tapas ($$)",
+    "Abantal — Michelin Fine Dining ($$$$)",
+    "Freiduría La Isla — Fried Seafood ($$)"
+  ],
+  "topCafes": [
+    "Confitería La Campana",
+    "Filadelfia Café",
+    "La Cacharrería",
+    "Café Central",
+    "Bar El Comercio (churros)"
+  ],
+  "shoppingAreas": [
+    "Calle Sierpes",
+    "Calle Tetuán",
+    "El Corte Inglés",
+    "Mercado de Triana",
+    "Mercado Feria"
+  ],
+  "nightlife": [
+    "Alameda de Hércules bars",
+    "Triana flamenco bars",
+    "Antique Teatro Club",
+    "Bulebar Café",
+    "La Rejería"
+  ],
+  "instagramSpots": [
+    "Plaza de España's tiled alcoves",
+    "Barrio Santa Cruz whitewashed alleys",
+    "Giralda Tower from Plaza del Triunfo",
+    "Metropol Parasol rooftop walkway",
+    "Triana Bridge over the Guadalquivir"
+  ],
+  "hiddenGems": [
+    "Palacio de las Dueñas gardens",
+    "Basílica de la Macarena",
+    "Casa de Pilatos courtyards",
+    "Mercado de Triana ceramics stalls",
+    "Jardines de Murillo"
+  ],
+  "familyActivities": [
+    "Plaza de España rowing boat rentals",
+    "Isla Mágica theme park",
+    "Parque de María Luisa horse-carriage rides",
+    "Seville Aquarium"
+  ],
+  "adventureActivities": [
+    "Kayaking the Guadalquivir River",
+    "Cycling Seville's SEVICI bike-lane network",
+    "Horseback riding in the Andalusian countryside",
+    "Hot air balloon ride over Seville's countryside"
+  ],
+  "luxuryExperiences": [
+    "Private flamenco performance at a historic tablao",
+    "Dining at Abantal",
+    "Suite stay at Hotel Alfonso XIII",
+    "Private guided tour of the Real Alcázar before opening"
+  ],
+  "honeymoonExperiences": [
+    "Sunset horse-drawn carriage ride through Parque de María Luisa",
+    "Romantic dinner in Barrio Santa Cruz",
+    "Private flamenco show for two",
+    "Evening stroll along the Guadalquivir riverside"
+  ],
+  "budgetExperiences": [
+    "Free wander through Barrio Santa Cruz and Plaza de España",
+    "Tapas crawl at neighborhood bars",
+    "Parque de María Luisa picnic",
+    "Free flamenco street performances in Triana"
+  ],
+  "estimatedDailyBudgetUSD": [
+    60,
+    140,
+    260,
+    520
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 4,
+  "walkingScore": 82,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 17,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "May",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 36,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 36,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 16,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Semana Santa (Holy Week)",
+      "timing": "March/April, elaborate religious processions"
+    },
+    {
+      "name": "Feria de Abril",
+      "timing": "Two weeks after Easter, flamenco dresses and horse-drawn carriages"
+    },
+    {
+      "name": "Corpus Christi",
+      "timing": "May/June, religious procession with flower carpets"
+    },
+    {
+      "name": "Bienal de Flamenco",
+      "timing": "September, biennial flamenco festival"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112"
+  },
+  "localEtiquette": [
+    "Traditional siesta hours (roughly 2-5pm) mean many small shops close in early afternoon.",
+    "Dinner is eaten late, often after 9-10pm.",
+    "Flamenco shows are a serious art form — stay respectfully quiet during performances.",
+    "Dress modestly in the Cathedral and Real Alcázar.",
+    "Greet acquaintances with two cheek kisses."
+  ],
+  "localTransportGuide": "Seville is famously flat and one of Europe's most bike-friendly cities, with the SEVICI public bike-share system and dedicated cycle lanes throughout. The compact historic centre is best explored on foot, while a single tram line and bus network cover longer distances including to Santa Justa train station.",
+  "bestTimeToVisit": "March to May and October to November for pleasant temperatures before and after the intense summer heat.",
+  "weather": "One of Europe's hottest cities in summer, with highs around 36-37°C in July-August, and mild winters with highs around 16°C in January.",
+  "visaInformation": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance.",
+  "currency": "EUR",
+  "languages": [
+    "Spanish"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~11h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Seville Airport (SVQ)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Seville?",
+      "answer": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Seville?",
+      "answer": "March to May and October to November for pleasant temperatures before and after the intense summer heat. One of Europe's hottest cities in summer, with highs around 36-37°C in July-August, and mild winters with highs around 16°C in January."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Seville safe for tourists?",
+      "answer": "Seville is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Seville?",
+      "answer": "The local currency is EUR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Culture",
+    "History",
+    "Food",
+    "Romantic",
+    "City Break",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Seville",
+    "Spain",
+    "Seville, Spain",
+    "Andalusia",
+    "Seville tour package",
+    "Seville vacation package",
+    "Seville holiday package",
+    "things to do in Seville",
+    "best time to visit Seville",
+    "Seville itinerary",
+    "3 day Seville itinerary",
+    "Seville flights and hotels",
+    "Seville all inclusive package",
+    "cheap Seville package",
+    "luxury Seville package",
+    "Seville honeymoon package",
+    "Seville family vacation",
+    "Seville solo trip",
+    "Seville group tour",
+    "Seville weekend getaway",
+    "Seville guided tour",
+    "SVQ flights",
+    "Seville travel guide",
+    "book Seville trip online",
+    "Seville trip cost",
+    "Seville packages 3 days",
+    "Seville culture",
+    "Seville history",
+    "Seville food",
+    "Seville romantic",
+    "Seville city break",
+    "Real Alcázar of Seville",
+    "Seville Cathedral & Giralda Tower",
+    "Casa de Pilatos",
+    "Metropol Parasol (Las Setas)",
+    "Flamenco Dance Museum",
+    "Hospital de los Venerables",
+    "Torre del Oro",
+    "Real Maestranza Bullring tour",
+    "Palacio de las Dueñas",
+    "Flamenco show at a tablao",
+    "Plaza de España",
+    "Barrio Santa Cruz",
+    "Triana district",
+    "Puente de Isabel II (Triana Bridge)",
+    "Parque de María Luisa",
+    "Alameda de Hércules",
+    "Guadalquivir riverside promenade",
+    "Setas de Sevilla plaza",
+    "El Rinconcillo"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Seville, Spain — Plaza de España tiled alcoves",
+      "keywords": [
+        "Seville",
+        "Spain",
+        "Plaza de España tiled alcoves",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Seville Plaza de España tiled alcoves",
+      "pexelsQuery": "Seville Plaza de España tiled alcoves",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Seville, Spain — Plaza de España tiled alcoves",
+      "keywords": [
+        "Seville",
+        "Spain",
+        "Plaza de España tiled alcoves",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Seville Plaza de España tiled alcoves",
+      "pexelsQuery": "Seville Plaza de España tiled alcoves",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Seville, Spain — Real Alcázar gardens",
+      "keywords": [
+        "Seville",
+        "Spain",
+        "Real Alcázar gardens",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Seville Real Alcázar gardens",
+      "pexelsQuery": "Seville Real Alcázar gardens",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Seville, Spain — Giralda Tower Seville",
+      "keywords": [
+        "Seville",
+        "Spain",
+        "Giralda Tower Seville",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Seville Giralda Tower Seville",
+      "pexelsQuery": "Seville Giralda Tower Seville",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Seville, Spain — Plaza de España tiled alcoves",
+      "keywords": [
+        "Seville",
+        "Spain",
+        "Plaza de España tiled alcoves",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Seville Plaza de España tiled alcoves",
+      "pexelsQuery": "Seville Plaza de España tiled alcoves",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seville, Spain — Real Alcázar gardens",
+      "keywords": [
+        "Seville",
+        "Spain",
+        "Real Alcázar gardens",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Seville Real Alcázar gardens",
+      "pexelsQuery": "Seville Real Alcázar gardens",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seville, Spain — Giralda Tower Seville",
+      "keywords": [
+        "Seville",
+        "Spain",
+        "Giralda Tower Seville",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Seville Giralda Tower Seville",
+      "pexelsQuery": "Seville Giralda Tower Seville",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seville, Spain — Barrio Santa Cruz whitewashed alleys",
+      "keywords": [
+        "Seville",
+        "Spain",
+        "Barrio Santa Cruz whitewashed alleys",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Seville Barrio Santa Cruz whitewashed alleys",
+      "pexelsQuery": "Seville Barrio Santa Cruz whitewashed alleys",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seville, Spain — Real Alcázar of Seville",
+      "keywords": [
+        "Seville",
+        "Spain",
+        "Real Alcázar of Seville",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Seville Real Alcázar of Seville",
+      "pexelsQuery": "Seville Real Alcázar of Seville",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seville, Spain — Seville Cathedral & Giralda Tower",
+      "keywords": [
+        "Seville",
+        "Spain",
+        "Seville Cathedral & Giralda Tower",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Seville Seville Cathedral & Giralda Tower",
+      "pexelsQuery": "Seville Seville Cathedral & Giralda Tower",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seville, Spain — Casa de Pilatos",
+      "keywords": [
+        "Seville",
+        "Spain",
+        "Casa de Pilatos",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Seville Casa de Pilatos",
+      "pexelsQuery": "Seville Casa de Pilatos",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Seville, Spain — Metropol Parasol (Las Setas)",
+      "keywords": [
+        "Seville",
+        "Spain",
+        "Metropol Parasol (Las Setas)",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Seville Metropol Parasol (Las Setas)",
+      "pexelsQuery": "Seville Metropol Parasol (Las Setas)",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-seville-3-1",
+      "author": "Daniel Sharma",
+      "country": "France",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-30",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Flamenco Dance Museum and Palacio de las Dueñas. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-2",
+      "author": "Noah van Dijk",
+      "country": "Netherlands",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-05-16",
+      "title": "Loved every moment",
+      "body": "Our trip to Seville was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Puente de Isabel II (Triana Bridge) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-3",
+      "author": "Omar Dubois",
+      "country": "Japan",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-04-05",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Flamenco show at a tablao and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-4",
+      "author": "Priya Müller",
+      "country": "Italy",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-07-14",
+      "title": "Adventure of a lifetime",
+      "body": "Booked this as a group trip and it was well paced. Guadalquivir riverside promenade in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seville-3-5",
+      "author": "Ava Johnson",
+      "country": "United Kingdom",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-10-14",
+      "title": "Worth every penny",
+      "body": "Seville Cathedral & Giralda Tower alone was worth the trip, but combined with Plaza de España this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-6",
+      "author": "Tom Botha",
+      "country": "New Zealand",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-06-08",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Triana district and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-7",
+      "author": "Wei Brown",
+      "country": "Japan",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-10",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a family of 4 trip and it was well paced. Flamenco show at a tablao in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-8",
+      "author": "Olivia Cohen",
+      "country": "Canada",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-02-09",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Seville was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Casa de Pilatos was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seville-3-9",
+      "author": "Lucas Nguyen",
+      "country": "Spain",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-29",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Setas de Sevilla plaza and Barrio Santa Cruz. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-10",
+      "author": "Nadia Costa",
+      "country": "Japan",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-06",
+      "title": "Beautiful destination, well organized",
+      "body": "Seville is stunning and this package covered the essentials well, especially Flamenco show at a tablao. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seville-3-11",
+      "author": "James Smith",
+      "country": "New Zealand",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-03-27",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Seville was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Triana district was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seville-3-12",
+      "author": "Hiroshi Ivanov",
+      "country": "Saudi Arabia",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-03-30",
+      "title": "Exceeded our expectations",
+      "body": "Parque de María Luisa alone was worth the trip, but combined with Guadalquivir riverside promenade this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-13",
+      "author": "Priya Dubois",
+      "country": "UAE",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-26",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a solo trip and it was well paced. Torre del Oro in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-14",
+      "author": "Emma Costa",
+      "country": "United Kingdom",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-04-20",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Seville was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Seville Cathedral & Giralda Tower was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-15",
+      "author": "Daniel Tanaka",
+      "country": "United States",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-10-23",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Real Alcázar of Seville and Parque de María Luisa. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-16",
+      "author": "James van Dijk",
+      "country": "Spain",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-01-19",
+      "title": "Five stars, will return",
+      "body": "Our trip to Seville was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Setas de Sevilla plaza was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-17",
+      "author": "Arjun Smith",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-01-20",
+      "title": "Loved every moment",
+      "body": "Booked this as a solo trip and it was well paced. Flamenco show at a tablao in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-18",
+      "author": "Emma Brown",
+      "country": "Netherlands",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-29",
+      "title": "Great value for money",
+      "body": "Our trip to Seville was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Puente de Isabel II (Triana Bridge) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-seville-3-19",
+      "author": "Grace Ibrahim",
+      "country": "Australia",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-05-31",
+      "title": "Five stars, will return",
+      "body": "We added a couple of optional activities beyond Casa de Pilatos and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-seville-3-20",
+      "author": "Hiroshi van Dijk",
+      "country": "Mexico",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-04-09",
+      "title": "Best vacation we've had",
+      "body": "Alameda de Hércules alone was worth the trip, but combined with Puente de Isabel II (Triana Bridge) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.1,
+    "hotel": 4.1,
+    "transportation": 4,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.1,
+    "safety": 4.1,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Seville Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 13,
+      "neighborhood": "Calle Sierpes"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Seville Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 24,
+      "neighborhood": "Calle Tetuán"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Seville Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 49,
+      "neighborhood": "El Corte Inglés"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Seville Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 63,
+      "neighborhood": "Mercado de Triana"
+    },
+    {
+      "tier": "Resort",
+      "name": "Seville Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 130,
+      "neighborhood": "Mercado Feria"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Seville Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 218,
+      "neighborhood": "Alameda de Hércules bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Seville Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 260,
+      "neighborhood": "Triana flamenco bars"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        490,
+        779
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        513,
+        814
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        195,
+        309
+      ],
+      "estimatedFlightHours": 3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        180,
+        286
+      ],
+      "estimatedFlightHours": 2.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        209,
+        332
+      ],
+      "estimatedFlightHours": 3.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        196,
+        312
+      ],
+      "estimatedFlightHours": 3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        105,
+        166
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        212,
+        336
+      ],
+      "estimatedFlightHours": 3.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        194,
+        308
+      ],
+      "estimatedFlightHours": 2.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1371,
+        2178
+      ],
+      "estimatedFlightHours": 25,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1516,
+        2408
+      ],
+      "estimatedFlightHours": 27.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        623,
+        990
+      ],
+      "estimatedFlightHours": 11,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        882,
+        1401
+      ],
+      "estimatedFlightHours": 15.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        827,
+        1314
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        918,
+        1458
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        834,
+        1324
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        896,
+        1423
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        975,
+        1548
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        944,
+        1500
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        886,
+        1407
+      ],
+      "estimatedFlightHours": 15.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        501,
+        795
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        448,
+        711
+      ],
+      "estimatedFlightHours": 7.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        477,
+        757
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        439,
+        698
+      ],
+      "estimatedFlightHours": 7.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        649,
+        1030
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        655,
+        1040
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Seville Airport (SVQ)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        725,
+        1152
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Real Alcázar of Seville",
+    "Seville Cathedral & Giralda Tower",
+    "Casa de Pilatos",
+    "Metropol Parasol (Las Setas)",
+    "Flamenco Dance Museum",
+    "Hospital de los Venerables",
+    "Torre del Oro",
+    "Real Maestranza Bullring tour",
+    "Palacio de las Dueñas",
+    "Flamenco show at a tablao",
+    "Plaza de España",
+    "Barrio Santa Cruz",
+    "Triana district",
+    "Puente de Isabel II (Triana Bridge)",
+    "Parque de María Luisa",
+    "Alameda de Hércules",
+    "Guadalquivir riverside promenade",
+    "Setas de Sevilla plaza",
+    "Córdoba and the Mezquita",
+    "Cádiz coastal city",
+    "Ronda's clifftop bridge",
+    "Carmona hilltop town",
+    "Museum of Fine Arts of Seville",
+    "Casa de la Memoria",
+    "Archivo de Indias",
+    "Jardines de Murillo",
+    "Jardines del Alcázar",
+    "Plaza de España's tiled alcoves",
+    "Barrio Santa Cruz whitewashed alleys",
+    "Giralda Tower from Plaza del Triunfo",
+    "Metropol Parasol rooftop walkway",
+    "Triana Bridge over the Guadalquivir"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Real Alcázar of Seville",
+      "priceUSD": 21
+    },
+    {
+      "name": "Seville Cathedral & Giralda Tower",
+      "priceUSD": 15
+    },
+    {
+      "name": "Casa de Pilatos",
+      "priceUSD": 12
+    },
+    {
+      "name": "Metropol Parasol (Las Setas)",
+      "priceUSD": 5
+    },
+    {
+      "name": "Flamenco Dance Museum",
+      "priceUSD": 10
+    },
+    {
+      "name": "Hospital de los Venerables",
+      "priceUSD": 10
+    },
+    {
+      "name": "Torre del Oro",
+      "priceUSD": 3
+    },
+    {
+      "name": "Real Maestranza Bullring tour",
+      "priceUSD": 10
+    },
+    {
+      "name": "Palacio de las Dueñas",
+      "priceUSD": 12
+    },
+    {
+      "name": "Flamenco show at a tablao",
+      "priceUSD": 25
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Plaza de España",
+    "Barrio Santa Cruz",
+    "Triana district",
+    "Puente de Isabel II (Triana Bridge)",
+    "Parque de María Luisa",
+    "Alameda de Hércules",
+    "Guadalquivir riverside promenade",
+    "Setas de Sevilla plaza"
+  ],
+  "museums": [
+    "Flamenco Dance Museum",
+    "Museum of Fine Arts of Seville",
+    "Casa de la Memoria",
+    "Archivo de Indias"
+  ],
+  "parks": [
+    "Parque de María Luisa",
+    "Jardines de Murillo",
+    "Alameda de Hércules",
+    "Jardines del Alcázar"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Córdoba and the Mezquita",
+    "Cádiz coastal city",
+    "Ronda's clifftop bridge",
+    "Carmona hilltop town"
+  ],
+  "fromPriceUSD": 953,
+  "seo": {
+    "title": "Seville 3-Day Cultural Tour | Flights, Hotels & Tours Included",
+    "slug": "seville-3-day-package",
+    "keywords": [
+      "Seville",
+      "Spain",
+      "Seville, Spain",
+      "Andalusia",
+      "Seville tour package",
+      "Seville vacation package",
+      "Seville holiday package",
+      "things to do in Seville",
+      "best time to visit Seville",
+      "Seville itinerary",
+      "3 day Seville itinerary",
+      "Seville flights and hotels",
+      "Seville all inclusive package",
+      "cheap Seville package",
+      "luxury Seville package"
+    ],
+    "canonicalUrl": "/packages/seville-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Seville Package",
+        "url": "/packages/seville-2-day-package"
+      },
+      {
+        "title": "5-Day Seville Package",
+        "url": "/packages/seville-5-day-package"
+      },
+      {
+        "title": "Paris 3-Day City Break",
+        "url": "/packages/paris-3-day-package"
+      },
+      {
+        "title": "Rome 3-Day City Break",
+        "url": "/packages/rome-3-day-package"
+      },
+      {
+        "title": "Florence 3-Day Cultural Tour",
+        "url": "/packages/florence-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Seville — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seville"
+      },
+      {
+        "title": "Seville — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Seville"
+      }
+    ]
+  }
+}

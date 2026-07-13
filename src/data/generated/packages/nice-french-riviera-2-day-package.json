@@ -1,0 +1,1519 @@
+{
+  "id": "PKG-nice-french-riviera-2D",
+  "slug": "nice-french-riviera-2-day-package",
+  "destinationSlug": "nice-french-riviera",
+  "destinationName": "Nice",
+  "country": "France",
+  "region": "Southern Europe",
+  "durationDays": 2,
+  "durationNights": 1,
+  "title": "Nice 2-Day Beach Getaway",
+  "metaTitle": "Nice 2-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 2-day trip to Nice, France: round-trip flights, hotel, breakfast, transfers, and guided tours including Musée Matisse and Villa Ephrussi de Rothschild. Prices from $983 per person (estimate).",
+  "highlights": [
+    "Musée Matisse",
+    "Villa Ephrussi de Rothschild",
+    "Promenade des Anglais",
+    "Day trip to Monte Carlo with casino visit",
+    "Monaco and Monte Carlo"
+  ],
+  "overview": "Spend 2 days discovering Nice, France — Mediterranean climate — hot, dry summers (highs around 27-28°C) and mild winters (highs around 13°C), with over 300 sunny days a year. May-June and September for warm weather without peak-August crowds and prices. This itinerary blends Musée Matisse, Villa Ephrussi de Rothschild, Promenade des Anglais with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "1 night accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Musée Matisse, Villa Ephrussi de Rothschild, Promenade des Anglais",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Nice",
+      "description": "Land at Nice Côte d'Azur Airport (NCE) and take your included private transfer to your hotel. With limited time on the ground, head straight out to Musée Matisse — Collection spanning Henri Matisse's career, in a 17th-century villa. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Musée Matisse"
+      ],
+      "overnight": "Nice"
+    },
+    {
+      "day": 2,
+      "title": "Nice Highlights & Departure",
+      "description": "Start early with a visit to Villa Ephrussi de Rothschild — Belle Époque villa and gardens overlooking the bay, Saint-Jean-Cap-Ferrat. Grab a last taste of local life before your private transfer to NCE for your onward flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Villa Ephrussi de Rothschild",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Take the coastal train, not a car, for day trips to Monaco, Èze, or Cannes — parking is scarce and pricey.",
+    "Try socca, Nice's signature chickpea-flour street food, from a stall in the Old Town.",
+    "Book Villa Ephrussi de Rothschild and Èze perfumery tours ahead in peak summer.",
+    "Bring water shoes or sandals — Nice's beaches are pebble, not sand.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Swimwear and reef-safe sunscreen",
+    "Swimwear and a beach towel — Nice's beaches are pebble, so water shoes help",
+    "Smart-casual clothing for dinner and casino visits in Monaco",
+    "Sun protection for the long, sunny Riviera days"
+  ],
+  "thingsToDo": [
+    "Musée Matisse",
+    "Villa Ephrussi de Rothschild",
+    "Monaco and Monte Carlo day trip",
+    "Èze village and perfumery tour",
+    "Musée National Marc Chagall",
+    "Promenade des Anglais",
+    "Vieux Nice (Old Town)",
+    "Colline du Château",
+    "Cours Saleya Market",
+    "Coastal cycling toward Villefranche-sur-Mer",
+    "Hiking the Cap Ferrat coastal path",
+    "Paragliding over the bay from the surrounding hills",
+    "Nice beach days (pebble beaches with paid loungers)",
+    "Parc Phoenix botanical and zoological park",
+    "Musée d'Histoire Naturelle"
+  ],
+  "thingsToAvoid": [
+    "Renting a car for day trips along the coast — traffic and parking are much worse than the train.",
+    "Expecting sandy beaches — pack accordingly for pebbles.",
+    "Skipping a reservation at well-known restaurants like La Petite Maison, especially in summer."
+  ],
+  "topRestaurants": [
+    "La Petite Maison — Niçoise Mediterranean ($$$$)",
+    "Chez Pipo — Socca (chickpea pancake) specialist ($)",
+    "Le Bistrot d'Antoine — French bistro ($$$)",
+    "Restaurant Flaveur — Modern French-Italian fine dining ($$$$)"
+  ],
+  "topCafes": [
+    "Café de Turin",
+    "Malongo Café",
+    "La Part des Anges wine bar"
+  ],
+  "shoppingAreas": [
+    "Cours Saleya market",
+    "Rue Masséna pedestrian shopping street",
+    "Nice Étoile mall"
+  ],
+  "nightlife": [
+    "Old Town wine bars",
+    "Promenade des Anglais beach clubs",
+    "Rue de France bars"
+  ],
+  "instagramSpots": [
+    "Promenade des Anglais at sunset",
+    "Colline du Château viewpoint over the bay",
+    "Vieux Nice colorful facades",
+    "Cours Saleya flower market"
+  ],
+  "hiddenGems": [
+    "Russian Orthodox Cathedral of Nice",
+    "Port Lympia's pastel harbor houses",
+    "Cimiez neighborhood Roman ruins"
+  ],
+  "familyActivities": [
+    "Nice beach days (pebble beaches with paid loungers)",
+    "Parc Phoenix botanical and zoological park",
+    "Musée d'Histoire Naturelle"
+  ],
+  "adventureActivities": [
+    "Coastal cycling toward Villefranche-sur-Mer",
+    "Hiking the Cap Ferrat coastal path",
+    "Paragliding over the bay from the surrounding hills"
+  ],
+  "luxuryExperiences": [
+    "Day trip to Monte Carlo with casino visit",
+    "Private yacht day charter along the Riviera coast",
+    "Suite stay at a Belle Époque promenade hotel"
+  ],
+  "honeymoonExperiences": [
+    "Sunset stroll along the Promenade des Anglais",
+    "Private day trip to Èze and the perfumeries",
+    "Dinner in a Vieux Nice courtyard restaurant"
+  ],
+  "budgetExperiences": [
+    "Free walk along the Promenade des Anglais",
+    "Vieux Nice and Cours Saleya market wander",
+    "Free viewpoint hike up Colline du Château"
+  ],
+  "estimatedDailyBudgetUSD": [
+    75,
+    150,
+    290,
+    650
+  ],
+  "safetyRating": 4,
+  "internetRating": 4.5,
+  "publicTransportRating": 4,
+  "walkingScore": 78,
+  "accessibilityRating": 3.5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 13,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 13,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 15,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 17,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 24,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 24,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 16,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 13,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Nice Carnival",
+      "timing": "February"
+    },
+    {
+      "name": "Nice Jazz Festival",
+      "timing": "July"
+    },
+    {
+      "name": "Cannes Film Festival (nearby)",
+      "timing": "May"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18"
+  },
+  "localEtiquette": [
+    "A polite \"Bonjour\" on entering any shop or café is expected before making a request.",
+    "Meals, especially dinner, are a leisurely affair — service can feel slow by design.",
+    "Beachwear is for the beach and promenade only, not restaurants in town."
+  ],
+  "localTransportGuide": "Nice's tram and bus network covers the city well and connects to the airport; the Promenade des Anglais and Old Town are best explored on foot. Trains along the coast make day trips to Monaco, Èze, Cannes, and Antibes quick and scenic.",
+  "bestTimeToVisit": "May-June and September for warm weather without peak-August crowds and prices.",
+  "weather": "Mediterranean climate — hot, dry summers (highs around 27-28°C) and mild winters (highs around 13°C), with over 300 sunny days a year.",
+  "visaInformation": "Schengen area — visa-free entry for stays up to 90 days within a 180-day period for US, UK, Canadian, Australian, and EU passport holders. Other nationalities, including India, should check Schengen short-stay visa requirements in advance.",
+  "currency": "EUR",
+  "languages": [
+    "French"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~10h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Nice Côte d'Azur Airport (NCE)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Nice?",
+      "answer": "Schengen area — visa-free entry for stays up to 90 days within a 180-day period for US, UK, Canadian, Australian, and EU passport holders. Other nationalities, including India, should check Schengen short-stay visa requirements in advance."
+    },
+    {
+      "question": "What is the best time to visit Nice?",
+      "answer": "May-June and September for warm weather without peak-August crowds and prices. Mediterranean climate — hot, dry summers (highs around 27-28°C) and mild winters (highs around 13°C), with over 300 sunny days a year."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Nice safe for tourists?",
+      "answer": "Nice is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Nice?",
+      "answer": "The local currency is EUR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Luxury",
+    "Romantic",
+    "City Break",
+    "Summer",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Nice",
+    "France",
+    "Nice, France",
+    "Southern Europe",
+    "Nice tour package",
+    "Nice vacation package",
+    "Nice holiday package",
+    "things to do in Nice",
+    "best time to visit Nice",
+    "Nice itinerary",
+    "2 day Nice itinerary",
+    "Nice flights and hotels",
+    "Nice all inclusive package",
+    "cheap Nice package",
+    "luxury Nice package",
+    "Nice honeymoon package",
+    "Nice family vacation",
+    "Nice solo trip",
+    "Nice group tour",
+    "Nice weekend getaway",
+    "Nice guided tour",
+    "NCE flights",
+    "Nice travel guide",
+    "book Nice trip online",
+    "Nice trip cost",
+    "Nice packages 2 days",
+    "Nice beach",
+    "Nice luxury",
+    "Nice romantic",
+    "Nice city break",
+    "Nice summer",
+    "Musée Matisse",
+    "Villa Ephrussi de Rothschild",
+    "Monaco and Monte Carlo day trip",
+    "Èze village and perfumery tour",
+    "Musée National Marc Chagall",
+    "Promenade des Anglais",
+    "Vieux Nice (Old Town)",
+    "Colline du Château",
+    "Cours Saleya Market",
+    "La Petite Maison",
+    "Chez Pipo",
+    "Le Bistrot d'Antoine",
+    "Restaurant Flaveur",
+    "Promenade des Anglais at sunset",
+    "Colline du Château viewpoint over the bay",
+    "Vieux Nice colorful facades",
+    "Cours Saleya flower market",
+    "Russian Orthodox Cathedral of Nice",
+    "Port Lympia's pastel harbor houses"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Nice, France — Promenade des Anglais sunset",
+      "keywords": [
+        "Nice",
+        "France",
+        "Promenade des Anglais sunset",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nice Promenade des Anglais sunset",
+      "pexelsQuery": "Nice Promenade des Anglais sunset",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Nice, France — Promenade des Anglais sunset",
+      "keywords": [
+        "Nice",
+        "France",
+        "Promenade des Anglais sunset",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nice Promenade des Anglais sunset",
+      "pexelsQuery": "Nice Promenade des Anglais sunset",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Nice, France — Vieux Nice pastel facades",
+      "keywords": [
+        "Nice",
+        "France",
+        "Vieux Nice pastel facades",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nice Vieux Nice pastel facades",
+      "pexelsQuery": "Nice Vieux Nice pastel facades",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Nice, France — Colline du Château bay view",
+      "keywords": [
+        "Nice",
+        "France",
+        "Colline du Château bay view",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nice Colline du Château bay view",
+      "pexelsQuery": "Nice Colline du Château bay view",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Nice, France — Promenade des Anglais sunset",
+      "keywords": [
+        "Nice",
+        "France",
+        "Promenade des Anglais sunset",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nice Promenade des Anglais sunset",
+      "pexelsQuery": "Nice Promenade des Anglais sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nice, France — Vieux Nice pastel facades",
+      "keywords": [
+        "Nice",
+        "France",
+        "Vieux Nice pastel facades",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nice Vieux Nice pastel facades",
+      "pexelsQuery": "Nice Vieux Nice pastel facades",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nice, France — Colline du Château bay view",
+      "keywords": [
+        "Nice",
+        "France",
+        "Colline du Château bay view",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nice Colline du Château bay view",
+      "pexelsQuery": "Nice Colline du Château bay view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nice, France — Èze village clifftop",
+      "keywords": [
+        "Nice",
+        "France",
+        "Èze village clifftop",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nice Èze village clifftop",
+      "pexelsQuery": "Nice Èze village clifftop",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nice, France — Musée Matisse",
+      "keywords": [
+        "Nice",
+        "France",
+        "Musée Matisse",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nice Musée Matisse",
+      "pexelsQuery": "Nice Musée Matisse",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nice, France — Villa Ephrussi de Rothschild",
+      "keywords": [
+        "Nice",
+        "France",
+        "Villa Ephrussi de Rothschild",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nice Villa Ephrussi de Rothschild",
+      "pexelsQuery": "Nice Villa Ephrussi de Rothschild",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nice, France — Monaco and Monte Carlo day trip",
+      "keywords": [
+        "Nice",
+        "France",
+        "Monaco and Monte Carlo day trip",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nice Monaco and Monte Carlo day trip",
+      "pexelsQuery": "Nice Monaco and Monte Carlo day trip",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nice, France — Èze village and perfumery tour",
+      "keywords": [
+        "Nice",
+        "France",
+        "Èze village and perfumery tour",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nice Èze village and perfumery tour",
+      "pexelsQuery": "Nice Èze village and perfumery tour",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-nice-french-riviera-2-1",
+      "author": "Marco Nguyen",
+      "country": "Saudi Arabia",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-27",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Colline du Château and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-2",
+      "author": "Lukas Patel",
+      "country": "UAE",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-04-22",
+      "title": "Great value for money",
+      "body": "Nice is stunning and this package covered the essentials well, especially Èze village and perfumery tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-nice-french-riviera-2-3",
+      "author": "Noah Cohen",
+      "country": "South Africa",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-02-12",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Nice was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Promenade des Anglais was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-4",
+      "author": "Mia Patel",
+      "country": "Saudi Arabia",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-03-14",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Colline du Château and Monaco and Monte Carlo day trip. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-5",
+      "author": "Mohammed Kim",
+      "country": "Canada",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-12",
+      "title": "Highly recommend this package",
+      "body": "Villa Ephrussi de Rothschild alone was worth the trip, but combined with Èze village and perfumery tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-6",
+      "author": "David Khan",
+      "country": "Brazil",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-11-05",
+      "title": "Great for families with kids",
+      "body": "Nice is stunning and this package covered the essentials well, especially Promenade des Anglais. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-7",
+      "author": "Ethan Patel",
+      "country": "Switzerland",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-02-02",
+      "title": "Highly recommend this package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Colline du Château and Colline du Château. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-8",
+      "author": "Lucas Ibrahim",
+      "country": "New Zealand",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-18",
+      "title": "Highly recommend this package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Vieux Nice (Old Town) and Villa Ephrussi de Rothschild. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-9",
+      "author": "Isabella Williams",
+      "country": "India",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-11",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Monaco and Monte Carlo day trip and Musée Matisse. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-10",
+      "author": "Emma Ibrahim",
+      "country": "Switzerland",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-01-01",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Nice was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Vieux Nice (Old Town) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-nice-french-riviera-2-11",
+      "author": "Elena Cohen",
+      "country": "South Korea",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-07-26",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Musée National Marc Chagall and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-12",
+      "author": "Olivia Silva",
+      "country": "South Korea",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-01-26",
+      "title": "Worth every penny",
+      "body": "Our trip to Nice was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Musée National Marc Chagall was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-13",
+      "author": "Isabella Johnson",
+      "country": "South Africa",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-04",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Promenade des Anglais and Colline du Château. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-nice-french-riviera-2-14",
+      "author": "Sofia Sharma",
+      "country": "Italy",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-08-02",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a couple trip and it was well paced. Cours Saleya Market in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-15",
+      "author": "Sarah Larsen",
+      "country": "Switzerland",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-02-02",
+      "title": "Smooth from start to finish",
+      "body": "Nice is stunning and this package covered the essentials well, especially Vieux Nice (Old Town). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-16",
+      "author": "James Khan",
+      "country": "Brazil",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-04-02",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Nice was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Musée National Marc Chagall was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-17",
+      "author": "Anna Rossi",
+      "country": "India",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-13",
+      "title": "Great value for money",
+      "body": "Nice is stunning and this package covered the essentials well, especially Monaco and Monte Carlo day trip. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-18",
+      "author": "Elena van Dijk",
+      "country": "South Korea",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-01-06",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Musée National Marc Chagall and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-19",
+      "author": "Mia Novak",
+      "country": "Mexico",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-21",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Colline du Château and Èze village and perfumery tour. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nice-french-riviera-2-20",
+      "author": "Hiroshi Tanaka",
+      "country": "Italy",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-09-18",
+      "title": "Best vacation we've had",
+      "body": "Cours Saleya Market alone was worth the trip, but combined with Vieux Nice (Old Town) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.4,
+    "hotel": 4.2,
+    "transportation": 4.4,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Nice Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 17,
+      "neighborhood": "Cours Saleya market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Nice Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 30,
+      "neighborhood": "Rue Masséna pedestrian shopping street"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Nice Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 53,
+      "neighborhood": "Nice Étoile mall"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Nice Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 68,
+      "neighborhood": "Old Town wine bars"
+    },
+    {
+      "tier": "Resort",
+      "name": "Nice Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 145,
+      "neighborhood": "Promenade des Anglais beach clubs"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Nice Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 273,
+      "neighborhood": "Rue de France bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Nice Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 325,
+      "neighborhood": "Café de Turin"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        541,
+        859
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        554,
+        880
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        150,
+        239
+      ],
+      "estimatedFlightHours": 2.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        126,
+        200
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        128,
+        204
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        111,
+        176
+      ],
+      "estimatedFlightHours": 1.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        147,
+        234
+      ],
+      "estimatedFlightHours": 2.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        147,
+        234
+      ],
+      "estimatedFlightHours": 2.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        107,
+        170
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1285,
+        2041
+      ],
+      "estimatedFlightHours": 23.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1428,
+        2268
+      ],
+      "estimatedFlightHours": 26.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        532,
+        845
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        796,
+        1265
+      ],
+      "estimatedFlightHours": 14.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        736,
+        1169
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        830,
+        1319
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        742,
+        1179
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        808,
+        1283
+      ],
+      "estimatedFlightHours": 14.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        890,
+        1413
+      ],
+      "estimatedFlightHours": 16,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        849,
+        1349
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        793,
+        1260
+      ],
+      "estimatedFlightHours": 14.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        422,
+        670
+      ],
+      "estimatedFlightHours": 7.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        376,
+        597
+      ],
+      "estimatedFlightHours": 6.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        400,
+        635
+      ],
+      "estimatedFlightHours": 6.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        360,
+        571
+      ],
+      "estimatedFlightHours": 6.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        659,
+        1046
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        747,
+        1187
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Nice Côte d'Azur Airport (NCE)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        782,
+        1242
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Musée Matisse",
+    "Villa Ephrussi de Rothschild",
+    "Monaco and Monte Carlo day trip",
+    "Èze village and perfumery tour",
+    "Musée National Marc Chagall",
+    "Promenade des Anglais",
+    "Vieux Nice (Old Town)",
+    "Colline du Château",
+    "Cours Saleya Market",
+    "Monaco and Monte Carlo",
+    "Èze village",
+    "Cannes and Antibes",
+    "Saint-Paul-de-Vence",
+    "Musée d'Art Moderne et d'Art Contemporain (MAMAC)",
+    "Parc Phoenix",
+    "Promenade du Paillon",
+    "Plage Publique des Ponchettes",
+    "Plage de la Ravise",
+    "Coco Beach",
+    "Promenade des Anglais at sunset",
+    "Colline du Château viewpoint over the bay",
+    "Vieux Nice colorful facades",
+    "Cours Saleya flower market"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Musée Matisse",
+      "priceUSD": 12
+    },
+    {
+      "name": "Villa Ephrussi de Rothschild",
+      "priceUSD": 18
+    },
+    {
+      "name": "Monaco and Monte Carlo day trip",
+      "priceUSD": 40
+    },
+    {
+      "name": "Èze village and perfumery tour",
+      "priceUSD": 35
+    },
+    {
+      "name": "Musée National Marc Chagall",
+      "priceUSD": 11
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Promenade des Anglais",
+    "Vieux Nice (Old Town)",
+    "Colline du Château",
+    "Cours Saleya Market"
+  ],
+  "museums": [
+    "Musée Matisse",
+    "Musée National Marc Chagall",
+    "Musée d'Art Moderne et d'Art Contemporain (MAMAC)"
+  ],
+  "parks": [
+    "Colline du Château",
+    "Parc Phoenix",
+    "Promenade du Paillon"
+  ],
+  "beaches": [
+    "Plage Publique des Ponchettes",
+    "Plage de la Ravise",
+    "Coco Beach"
+  ],
+  "dayTrips": [
+    "Monaco and Monte Carlo",
+    "Èze village",
+    "Cannes and Antibes",
+    "Saint-Paul-de-Vence"
+  ],
+  "fromPriceUSD": 983,
+  "seo": {
+    "title": "Nice 2-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "nice-french-riviera-2-day-package",
+    "keywords": [
+      "Nice",
+      "France",
+      "Nice, France",
+      "Southern Europe",
+      "Nice tour package",
+      "Nice vacation package",
+      "Nice holiday package",
+      "things to do in Nice",
+      "best time to visit Nice",
+      "Nice itinerary",
+      "2 day Nice itinerary",
+      "Nice flights and hotels",
+      "Nice all inclusive package",
+      "cheap Nice package",
+      "luxury Nice package"
+    ],
+    "canonicalUrl": "/packages/nice-french-riviera-2-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Nice Package",
+        "url": "/packages/nice-french-riviera-3-day-package"
+      },
+      {
+        "title": "5-Day Nice Package",
+        "url": "/packages/nice-french-riviera-5-day-package"
+      },
+      {
+        "title": "Santorini 2-Day Beach Getaway",
+        "url": "/packages/santorini-2-day-package"
+      },
+      {
+        "title": "Mykonos 2-Day Beach Getaway",
+        "url": "/packages/mykonos-2-day-package"
+      },
+      {
+        "title": "Barcelona 2-Day City Break",
+        "url": "/packages/barcelona-2-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Nice — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nice"
+      },
+      {
+        "title": "Nice — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Nice"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1748 @@
+{
+  "id": "PKG-austin-14D",
+  "slug": "austin-14-day-package",
+  "destinationSlug": "austin",
+  "destinationName": "Austin",
+  "country": "United States",
+  "region": "Texas",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Austin 14-Day City Break",
+  "metaTitle": "Austin 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Austin, United States: round-trip flights, hotel, breakfast, transfers, and guided tours including LBJ Presidential Library and Bullock Texas State History Museum. Prices from $2196 per person (estimate).",
+  "highlights": [
+    "LBJ Presidential Library",
+    "Bullock Texas State History Museum",
+    "Texas State Capitol grounds",
+    "Fredericksburg wine country"
+  ],
+  "overview": "Spend 14 days discovering Austin, United States — Hot-summer humid subtropical climate with mild winters (highs around 15-16°C) and very hot summers (highs 35-36°C, intense sun); spring brings the highest severe-storm risk. March to May and October to November offer warm-but-manageable days and are also when SXSW (March) and Austin City Limits (October) draw big crowds — book early if attending. This itinerary blends LBJ Presidential Library, Bullock Texas State History Museum, Texas State Capitol grounds with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including LBJ Presidential Library, Bullock Texas State History Museum, Texas State Capitol grounds",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Austin",
+      "description": "Land at Austin-Bergstrom International Airport (AUS) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to LBJ Presidential Library — Lyndon B. Johnson presidential archive and museum. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "LBJ Presidential Library"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 2,
+      "title": "Austin: Bullock Texas State History Museum & Texas State Capitol tour",
+      "description": "Morning visit to Bullock Texas State History Museum — Interactive exhibits covering Texas history, with an IMAX theater. In the afternoon, continue to Texas State Capitol tour — Guided tour of the grand 1888 state capitol building. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Bullock Texas State History Museum",
+        "Texas State Capitol tour"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 3,
+      "title": "Austin: Blanton Museum of Art & The Contemporary Austin - Laguna Gloria",
+      "description": "Morning visit to Blanton Museum of Art — University of Texas fine art museum with a major Latin American collection. In the afternoon, continue to The Contemporary Austin - Laguna Gloria — Modern art museum set in a lakeside villa and sculpture park. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Blanton Museum of Art",
+        "The Contemporary Austin - Laguna Gloria"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Fredericksburg wine country",
+      "description": "Full-day excursion to Fredericksburg wine country, a popular side trip from Austin. Return to Austin in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Fredericksburg wine country",
+        "Free evening"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Hamilton Pool Preserve grotto — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Hamilton Pool Preserve grotto"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 6,
+      "title": "Austin: Austin Aquarium & Sixth Street pedicab/pub crawl tour",
+      "description": "Morning visit to Austin Aquarium — Family-oriented aquarium and animal encounters. In the afternoon, continue to Sixth Street pedicab/pub crawl tour — Guided evening tour of Austin's entertainment district. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Austin Aquarium",
+        "Sixth Street pedicab/pub crawl tour"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to San Antonio and the Alamo",
+      "description": "Full-day excursion to San Antonio and the Alamo, a popular side trip from Austin. Return to Austin in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: San Antonio and the Alamo",
+        "Free evening"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 8,
+      "title": "Austin: Barton Springs Pool & Texas Memorial Museum",
+      "description": "Morning visit to Barton Springs Pool — Spring-fed municipal pool that stays 20°C year-round. In the afternoon, continue to Texas Memorial Museum — Natural history and dinosaur fossil exhibits at UT Austin. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Barton Springs Pool",
+        "Texas Memorial Museum"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include McKinney Falls State Park — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "McKinney Falls State Park"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Hamilton Pool Preserve",
+      "description": "Full-day excursion to Hamilton Pool Preserve, a popular side trip from Austin. Return to Austin in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Hamilton Pool Preserve",
+        "Free evening"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 11,
+      "title": "Austin: Cathedral of Junk tour & Schlitterbahn-style tubing on the Comal/Guadalupe (day trip)",
+      "description": "Morning visit to Cathedral of Junk tour — Whimsical backyard sculpture made of found objects, donation-based. In the afternoon, continue to Schlitterbahn-style tubing on the Comal/Guadalupe (day trip) — Popular river-tubing excursion outside the city. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Cathedral of Junk tour",
+        "Schlitterbahn-style tubing on the Comal/Guadalupe (day trip)"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 12,
+      "title": "Austin: Texas State Capitol grounds & South Congress Avenue (SoCo)",
+      "description": "Morning visit to Texas State Capitol grounds — Free to explore capitol grounds and building exterior. In the afternoon, continue to South Congress Avenue (SoCo) — Boutique-lined street with the \"I Love You So Much\" mural. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Texas State Capitol grounds",
+        "South Congress Avenue (SoCo)"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Elisabet Ney Museum — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Elisabet Ney Museum"
+      ],
+      "overnight": "Austin"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Lady Bird Lake Hike-and-Bike Trail or some souvenir shopping — before your private transfer to AUS for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Arrive at Franklin Barbecue by 8-9am — it regularly sells out by early afternoon and the line is part of the ritual.",
+    "Book hotels 6+ months ahead for SXSW (March) or Austin City Limits (October) — prices spike dramatically.",
+    "Watch the Congress Avenue Bridge bats emerge at dusk from March through October for free.",
+    "Avoid driving I-35 through downtown during rush hour — it's consistently one of the most congested corridors in Texas.",
+    "Summer heat is no joke — plan outdoor activities like Hamilton Pool or Barton Springs for morning or late afternoon.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Strong sunscreen and a hat — Texas sun is intense even in spring",
+    "Breathable, lightweight clothing for summer heat",
+    "A swimsuit for Barton Springs or river tubing",
+    "Comfortable boots if visiting during SXSW or ACL for long festival days"
+  ],
+  "thingsToDo": [
+    "LBJ Presidential Library",
+    "Bullock Texas State History Museum",
+    "Texas State Capitol tour",
+    "Blanton Museum of Art",
+    "The Contemporary Austin - Laguna Gloria",
+    "Austin Aquarium",
+    "Sixth Street pedicab/pub crawl tour",
+    "Barton Springs Pool",
+    "Texas Memorial Museum",
+    "Cathedral of Junk tour",
+    "Schlitterbahn-style tubing on the Comal/Guadalupe (day trip)",
+    "Texas State Capitol grounds",
+    "South Congress Avenue (SoCo)",
+    "Lady Bird Lake Hike-and-Bike Trail",
+    "Congress Avenue Bridge bats",
+    "Mount Bonnell",
+    "Zilker Park",
+    "Graffiti Park at Castle Hill (HOPE Outdoor Gallery)",
+    "Sixth Street",
+    "Texas State Capitol grounds statues and monuments"
+  ],
+  "thingsToAvoid": [
+    "Underestimating July-August heat — heatstroke risk is real without hydration and shade breaks.",
+    "Parking downtown without checking meters/apps — enforcement is active and tickets add up.",
+    "Skipping reservations for Uchi or other top restaurants on weekend nights.",
+    "Swimming in Barton Springs or Hamilton Pool without checking current water-quality advisories after heavy rain.",
+    "Assuming Sixth Street is representative of all Austin nightlife — it skews touristy compared to Rainey Street or East Austin."
+  ],
+  "topRestaurants": [
+    "Franklin Barbecue — Texas Barbecue ($$)",
+    "Uchi — Modern Japanese/Sushi ($$$$)",
+    "Terry Black's Barbecue — Texas Barbecue ($$)",
+    "Torchy's Tacos — Tex-Mex Tacos ($)",
+    "Matt's El Rancho — Tex-Mex ($$)",
+    "Home Slice Pizza — New York-Style Pizza ($$)",
+    "Salt Lick BBQ — Texas Barbecue ($$)",
+    "Odd Duck — Farm-to-Table ($$$)",
+    "Veracruz All Natural — Mexican Food Trucks ($)"
+  ],
+  "topCafes": [
+    "Jo's Coffee (SoCo)",
+    "Radio Coffee & Beer",
+    "Cuvee Coffee",
+    "Houndstooth Coffee",
+    "Merit Coffee",
+    "Fleet Coffee"
+  ],
+  "shoppingAreas": [
+    "South Congress Avenue (SoCo)",
+    "The Domain",
+    "Second Street District",
+    "Austin Flea markets",
+    "Rainey Street boutiques"
+  ],
+  "nightlife": [
+    "Sixth Street bar strip",
+    "Rainey Street bungalow bars",
+    "The Continental Club",
+    "Mohawk Austin",
+    "Container Bar",
+    "Elephant Room jazz club"
+  ],
+  "instagramSpots": [
+    "\"I Love You So Much\" mural on South Congress",
+    "Congress Avenue Bridge at bat emergence",
+    "Mount Bonnell overlook",
+    "Graffiti Park murals",
+    "Texas State Capitol dome"
+  ],
+  "hiddenGems": [
+    "Hamilton Pool Preserve grotto",
+    "McKinney Falls State Park",
+    "Elisabet Ney Museum",
+    "Deep Eddy Pool",
+    "Thinkery children's museum courtyard"
+  ],
+  "familyActivities": [
+    "Austin Aquarium",
+    "Zilker Park and Barton Springs Pool",
+    "Thinkery children's museum",
+    "Austin Nature and Science Center",
+    "Congress Avenue Bridge bat watching"
+  ],
+  "adventureActivities": [
+    "Kayaking or SUP on Lady Bird Lake",
+    "Swimming Hamilton Pool Preserve",
+    "Tubing the Guadalupe or Comal River",
+    "Mountain biking the Barton Creek Greenbelt"
+  ],
+  "luxuryExperiences": [
+    "Private wine tasting in the Texas Hill Country",
+    "Tasting menu at Uchi",
+    "Rooftop suite at The Fairmont Austin",
+    "Private sunset boat cruise on Lake Austin"
+  ],
+  "honeymoonExperiences": [
+    "Sunset picnic and swim at Barton Springs Pool",
+    "Hill Country winery tour for two",
+    "Live music date night at The Continental Club",
+    "Couples spa retreat at a Hill Country resort"
+  ],
+  "budgetExperiences": [
+    "Free bat-watching at the Congress Avenue Bridge",
+    "Wander South Congress murals and shops",
+    "Swim at Barton Springs Pool for a few dollars",
+    "Free live music at many Sixth Street bars on weeknights"
+  ],
+  "estimatedDailyBudgetUSD": [
+    85,
+    185,
+    330,
+    620
+  ],
+  "safetyRating": 4,
+  "internetRating": 5,
+  "publicTransportRating": 3,
+  "walkingScore": 55,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 15,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 18,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Apr",
+      "highC": 27,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 34,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 36,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 36,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Nov",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 16,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "South by Southwest (SXSW)",
+      "timing": "Mid-March"
+    },
+    {
+      "name": "Austin City Limits Music Festival",
+      "timing": "Two weekends in early-to-mid October"
+    },
+    {
+      "name": "Eeyore's Birthday Party",
+      "timing": "Last Saturday in April"
+    },
+    {
+      "name": "Austin Film Festival",
+      "timing": "Late October"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "\"Keep Austin Weird\" is a genuine local ethos — quirky, casual dress and behavior are welcomed, not judged.",
+    "Tipping 18-20% at restaurants, bars and for food trucks with a tip jar is standard.",
+    "Live music venues often expect a cover charge or a minimum bar tab — check before sitting down.",
+    "Texas hospitality means friendly small talk with strangers is normal and appreciated.",
+    "Outdoor patio and rooftop culture is huge — reservations for popular spots fill fast on weekend evenings."
+  ],
+  "localTransportGuide": "Capital Metro buses and the MetroRail commuter line connect key areas, but Austin is largely built for cars and rideshare is the most practical way to cover downtown, South Congress and the Domain in one trip. Downtown, Rainey Street and South Congress are walkable individually, just not well linked to each other on foot.",
+  "bestTimeToVisit": "March to May and October to November offer warm-but-manageable days and are also when SXSW (March) and Austin City Limits (October) draw big crowds — book early if attending.",
+  "weather": "Hot-summer humid subtropical climate with mild winters (highs around 15-16°C) and very hot summers (highs 35-36°C, intense sun); spring brings the highest severe-storm risk.",
+  "visaInformation": "Visa-free ESTA entry for UK, EU, Australian and other Visa Waiver Program passport holders for stays up to 90 days. Indian nationals and most other nationalities require a US B1/B2 visitor visa arranged in advance.",
+  "currency": "USD",
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "timeZone": "CST (UTC-6)",
+  "averageFlightTime": "~15.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Austin-Bergstrom International Airport (AUS)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Austin?",
+      "answer": "Visa-free ESTA entry for UK, EU, Australian and other Visa Waiver Program passport holders for stays up to 90 days. Indian nationals and most other nationalities require a US B1/B2 visitor visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Austin?",
+      "answer": "March to May and October to November offer warm-but-manageable days and are also when SXSW (March) and Austin City Limits (October) draw big crowds — book early if attending. Hot-summer humid subtropical climate with mild winters (highs around 15-16°C) and very hot summers (highs 35-36°C, intense sun); spring brings the highest severe-storm risk."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Austin safe for tourists?",
+      "answer": "Austin is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Austin?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Nightlife",
+    "Food",
+    "Culture",
+    "Weekend Getaway",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Austin",
+    "United States",
+    "Austin, United States",
+    "Texas",
+    "Austin tour package",
+    "Austin vacation package",
+    "Austin holiday package",
+    "things to do in Austin",
+    "best time to visit Austin",
+    "Austin itinerary",
+    "14 day Austin itinerary",
+    "Austin flights and hotels",
+    "Austin all inclusive package",
+    "cheap Austin package",
+    "luxury Austin package",
+    "Austin honeymoon package",
+    "Austin family vacation",
+    "Austin solo trip",
+    "Austin group tour",
+    "Austin weekend getaway",
+    "Austin guided tour",
+    "AUS flights",
+    "Austin travel guide",
+    "book Austin trip online",
+    "Austin trip cost",
+    "Austin packages 14 days",
+    "Austin city break",
+    "Austin nightlife",
+    "Austin food",
+    "Austin culture",
+    "Austin bucket list",
+    "LBJ Presidential Library",
+    "Bullock Texas State History Museum",
+    "Texas State Capitol tour",
+    "Blanton Museum of Art",
+    "The Contemporary Austin - Laguna Gloria",
+    "Austin Aquarium",
+    "Sixth Street pedicab/pub crawl tour",
+    "Barton Springs Pool",
+    "Texas Memorial Museum",
+    "Cathedral of Junk tour",
+    "Schlitterbahn-style tubing on the Comal/Guadalupe (day trip)",
+    "Texas State Capitol grounds",
+    "South Congress Avenue (SoCo)",
+    "Lady Bird Lake Hike-and-Bike Trail",
+    "Congress Avenue Bridge bats",
+    "Mount Bonnell",
+    "Zilker Park",
+    "Graffiti Park at Castle Hill (HOPE Outdoor Gallery)",
+    "Sixth Street"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Austin, United States — Austin skyline at Lady Bird Lake",
+      "keywords": [
+        "Austin",
+        "United States",
+        "Austin skyline at Lady Bird Lake",
+        "City Break",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Austin Austin skyline at Lady Bird Lake",
+      "pexelsQuery": "Austin Austin skyline at Lady Bird Lake",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Austin, United States — Austin skyline at Lady Bird Lake",
+      "keywords": [
+        "Austin",
+        "United States",
+        "Austin skyline at Lady Bird Lake",
+        "City Break",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Austin Austin skyline at Lady Bird Lake",
+      "pexelsQuery": "Austin Austin skyline at Lady Bird Lake",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Austin, United States — Congress Avenue Bridge bats at dusk",
+      "keywords": [
+        "Austin",
+        "United States",
+        "Congress Avenue Bridge bats at dusk",
+        "City Break",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Austin Congress Avenue Bridge bats at dusk",
+      "pexelsQuery": "Austin Congress Avenue Bridge bats at dusk",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Austin, United States — South Congress mural",
+      "keywords": [
+        "Austin",
+        "United States",
+        "South Congress mural",
+        "City Break",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Austin South Congress mural",
+      "pexelsQuery": "Austin South Congress mural",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Austin, United States — Austin skyline at Lady Bird Lake",
+      "keywords": [
+        "Austin",
+        "United States",
+        "Austin skyline at Lady Bird Lake",
+        "City Break",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Austin Austin skyline at Lady Bird Lake",
+      "pexelsQuery": "Austin Austin skyline at Lady Bird Lake",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Austin, United States — Congress Avenue Bridge bats at dusk",
+      "keywords": [
+        "Austin",
+        "United States",
+        "Congress Avenue Bridge bats at dusk",
+        "City Break",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Austin Congress Avenue Bridge bats at dusk",
+      "pexelsQuery": "Austin Congress Avenue Bridge bats at dusk",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Austin, United States — South Congress mural",
+      "keywords": [
+        "Austin",
+        "United States",
+        "South Congress mural",
+        "City Break",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Austin South Congress mural",
+      "pexelsQuery": "Austin South Congress mural",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Austin, United States — Texas Capitol dome",
+      "keywords": [
+        "Austin",
+        "United States",
+        "Texas Capitol dome",
+        "City Break",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Austin Texas Capitol dome",
+      "pexelsQuery": "Austin Texas Capitol dome",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Austin, United States — LBJ Presidential Library",
+      "keywords": [
+        "Austin",
+        "United States",
+        "LBJ Presidential Library",
+        "City Break",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Austin LBJ Presidential Library",
+      "pexelsQuery": "Austin LBJ Presidential Library",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Austin, United States — Bullock Texas State History Museum",
+      "keywords": [
+        "Austin",
+        "United States",
+        "Bullock Texas State History Museum",
+        "City Break",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Austin Bullock Texas State History Museum",
+      "pexelsQuery": "Austin Bullock Texas State History Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Austin, United States — Texas State Capitol tour",
+      "keywords": [
+        "Austin",
+        "United States",
+        "Texas State Capitol tour",
+        "City Break",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Austin Texas State Capitol tour",
+      "pexelsQuery": "Austin Texas State Capitol tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Austin, United States — Blanton Museum of Art",
+      "keywords": [
+        "Austin",
+        "United States",
+        "Blanton Museum of Art",
+        "City Break",
+        "Nightlife"
+      ],
+      "unsplashQuery": "Austin Blanton Museum of Art",
+      "pexelsQuery": "Austin Blanton Museum of Art",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-austin-14-1",
+      "author": "Marco Johnson",
+      "country": "Spain",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-04-23",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Texas State Capitol grounds statues and monuments and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-2",
+      "author": "Liam Tanaka",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-07-05",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Austin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Barton Springs Pool was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-austin-14-3",
+      "author": "Sofia Johnson",
+      "country": "UAE",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-17",
+      "title": "Great for families with kids",
+      "body": "Booked this as a family of 4 trip and it was well paced. Barton Springs Pool in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-4",
+      "author": "Daniel Williams",
+      "country": "Spain",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-15",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Texas State Capitol grounds statues and monuments and Lady Bird Lake Hike-and-Bike Trail. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-5",
+      "author": "Elena Patel",
+      "country": "Netherlands",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-12-14",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Congress Avenue Bridge bats and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-austin-14-6",
+      "author": "Liam Dubois",
+      "country": "Brazil",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-04-11",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Austin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Texas State Capitol grounds was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-7",
+      "author": "Mia Dubois",
+      "country": "Australia",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-25",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Blanton Museum of Art and Congress Avenue Bridge bats. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-8",
+      "author": "Emma Kowalski",
+      "country": "Saudi Arabia",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-03",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Austin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Zilker Park was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-9",
+      "author": "Mia Garcia",
+      "country": "Brazil",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-23",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Texas State Capitol grounds and The Contemporary Austin - Laguna Gloria. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-austin-14-10",
+      "author": "Sofia Garcia",
+      "country": "Switzerland",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-01",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a couple trip and it was well paced. Mount Bonnell in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-11",
+      "author": "Emma Kowalski",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-16",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Austin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Barton Springs Pool was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-12",
+      "author": "James Ibrahim",
+      "country": "Mexico",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-25",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Austin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Graffiti Park at Castle Hill (HOPE Outdoor Gallery) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-13",
+      "author": "Emma Santos",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-03-26",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Austin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Schlitterbahn-style tubing on the Comal/Guadalupe (day trip) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-14",
+      "author": "Lukas Khan",
+      "country": "Brazil",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-04-10",
+      "title": "Great for families with kids",
+      "body": "Austin is stunning and this package covered the essentials well, especially Texas State Capitol grounds. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-15",
+      "author": "Noah Brown",
+      "country": "Saudi Arabia",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-12-31",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Austin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Zilker Park was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-16",
+      "author": "Arjun Kim",
+      "country": "Germany",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-26",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a group trip and it was well paced. The Contemporary Austin - Laguna Gloria in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-austin-14-17",
+      "author": "Lukas Santos",
+      "country": "Canada",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-14",
+      "title": "Best vacation we've had",
+      "body": "Austin is stunning and this package covered the essentials well, especially Texas State Capitol tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-18",
+      "author": "Wei Cohen",
+      "country": "South Korea",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-17",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a couple trip and it was well paced. Cathedral of Junk tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-19",
+      "author": "Olivia Khan",
+      "country": "South Korea",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-02-15",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Austin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Cathedral of Junk tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-austin-14-20",
+      "author": "Noah Fernandez",
+      "country": "Spain",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-02-02",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Austin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Texas State Capitol grounds statues and monuments was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.1,
+    "food": 4.2,
+    "hotel": 4.1,
+    "transportation": 4.1,
+    "activities": 4.2,
+    "value": 4.2,
+    "cleanliness": 4.2,
+    "safety": 4.1,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Austin Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 19,
+      "neighborhood": "South Congress Avenue (SoCo)"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Austin Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 34,
+      "neighborhood": "The Domain"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Austin Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 65,
+      "neighborhood": "Second Street District"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Austin Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 83,
+      "neighborhood": "Austin Flea markets"
+    },
+    {
+      "tier": "Resort",
+      "name": "Austin Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 165,
+      "neighborhood": "Rainey Street boutiques"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Austin Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 260,
+      "neighborhood": "Sixth Street bar strip"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Austin Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 310,
+      "neighborhood": "Rainey Street bungalow bars"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        252,
+        401
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        235,
+        374
+      ],
+      "estimatedFlightHours": 3.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        648,
+        1029
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        669,
+        1062
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        693,
+        1100
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        747,
+        1187
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        669,
+        1062
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        667,
+        1060
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        704,
+        1118
+      ],
+      "estimatedFlightHours": 12.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1062,
+        1686
+      ],
+      "estimatedFlightHours": 19.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        927,
+        1472
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1048,
+        1665
+      ],
+      "estimatedFlightHours": 18.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        838,
+        1331
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        882,
+        1401
+      ],
+      "estimatedFlightHours": 15.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1220,
+        1937
+      ],
+      "estimatedFlightHours": 22.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1142,
+        1813
+      ],
+      "estimatedFlightHours": 20.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1216,
+        1931
+      ],
+      "estimatedFlightHours": 22.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1255,
+        1993
+      ],
+      "estimatedFlightHours": 22.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1054,
+        1674
+      ],
+      "estimatedFlightHours": 19.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1142,
+        1814
+      ],
+      "estimatedFlightHours": 20.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1031,
+        1638
+      ],
+      "estimatedFlightHours": 18.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1003,
+        1593
+      ],
+      "estimatedFlightHours": 18.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1017,
+        1616
+      ],
+      "estimatedFlightHours": 18.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        977,
+        1551
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1141,
+        1812
+      ],
+      "estimatedFlightHours": 20.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        661,
+        1050
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Austin-Bergstrom International Airport (AUS)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        164,
+        261
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "LBJ Presidential Library",
+    "Bullock Texas State History Museum",
+    "Texas State Capitol tour",
+    "Blanton Museum of Art",
+    "The Contemporary Austin - Laguna Gloria",
+    "Austin Aquarium",
+    "Sixth Street pedicab/pub crawl tour",
+    "Barton Springs Pool",
+    "Texas Memorial Museum",
+    "Cathedral of Junk tour",
+    "Schlitterbahn-style tubing on the Comal/Guadalupe (day trip)",
+    "Texas State Capitol grounds",
+    "South Congress Avenue (SoCo)",
+    "Lady Bird Lake Hike-and-Bike Trail",
+    "Congress Avenue Bridge bats",
+    "Mount Bonnell",
+    "Zilker Park",
+    "Graffiti Park at Castle Hill (HOPE Outdoor Gallery)",
+    "Sixth Street",
+    "Texas State Capitol grounds statues and monuments",
+    "Fredericksburg wine country",
+    "San Antonio and the Alamo",
+    "Hamilton Pool Preserve",
+    "New Braunfels river tubing",
+    "The Contemporary Austin",
+    "Lady Bird Johnson Wildflower Center",
+    "McKinney Falls State Park",
+    "\"I Love You So Much\" mural on South Congress",
+    "Congress Avenue Bridge at bat emergence",
+    "Mount Bonnell overlook",
+    "Graffiti Park murals",
+    "Texas State Capitol dome"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "LBJ Presidential Library",
+      "priceUSD": 12
+    },
+    {
+      "name": "Bullock Texas State History Museum",
+      "priceUSD": 15
+    },
+    {
+      "name": "Texas State Capitol tour",
+      "priceUSD": 0
+    },
+    {
+      "name": "Blanton Museum of Art",
+      "priceUSD": 15
+    },
+    {
+      "name": "The Contemporary Austin - Laguna Gloria",
+      "priceUSD": 10
+    },
+    {
+      "name": "Austin Aquarium",
+      "priceUSD": 30
+    },
+    {
+      "name": "Sixth Street pedicab/pub crawl tour",
+      "priceUSD": 40
+    },
+    {
+      "name": "Barton Springs Pool",
+      "priceUSD": 9
+    },
+    {
+      "name": "Texas Memorial Museum",
+      "priceUSD": 8
+    },
+    {
+      "name": "Cathedral of Junk tour",
+      "priceUSD": 10
+    },
+    {
+      "name": "Schlitterbahn-style tubing on the Comal/Guadalupe (day trip)",
+      "priceUSD": 25
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Texas State Capitol grounds",
+    "South Congress Avenue (SoCo)",
+    "Lady Bird Lake Hike-and-Bike Trail",
+    "Congress Avenue Bridge bats",
+    "Mount Bonnell",
+    "Zilker Park",
+    "Graffiti Park at Castle Hill (HOPE Outdoor Gallery)",
+    "Sixth Street",
+    "Texas State Capitol grounds statues and monuments"
+  ],
+  "museums": [
+    "Bullock Texas State History Museum",
+    "Blanton Museum of Art",
+    "LBJ Presidential Library",
+    "The Contemporary Austin"
+  ],
+  "parks": [
+    "Zilker Park",
+    "Lady Bird Johnson Wildflower Center",
+    "McKinney Falls State Park",
+    "Mount Bonnell"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Fredericksburg wine country",
+    "San Antonio and the Alamo",
+    "Hamilton Pool Preserve",
+    "New Braunfels river tubing"
+  ],
+  "fromPriceUSD": 2196,
+  "seo": {
+    "title": "Austin 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "austin-14-day-package",
+    "keywords": [
+      "Austin",
+      "United States",
+      "Austin, United States",
+      "Texas",
+      "Austin tour package",
+      "Austin vacation package",
+      "Austin holiday package",
+      "things to do in Austin",
+      "best time to visit Austin",
+      "Austin itinerary",
+      "14 day Austin itinerary",
+      "Austin flights and hotels",
+      "Austin all inclusive package",
+      "cheap Austin package",
+      "luxury Austin package"
+    ],
+    "canonicalUrl": "/packages/austin-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Austin Package",
+        "url": "/packages/austin-10-day-package"
+      },
+      {
+        "title": "7-Day Austin Package",
+        "url": "/packages/austin-7-day-package"
+      },
+      {
+        "title": "Nashville 14-Day City Break",
+        "url": "/packages/nashville-14-day-package"
+      },
+      {
+        "title": "London 14-Day City Break",
+        "url": "/packages/london-14-day-package"
+      },
+      {
+        "title": "Barcelona 14-Day City Break",
+        "url": "/packages/barcelona-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Austin — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Austin"
+      },
+      {
+        "title": "Austin — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Austin"
+      }
+    ]
+  }
+}

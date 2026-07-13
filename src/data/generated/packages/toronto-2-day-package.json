@@ -1,0 +1,1594 @@
+{
+  "id": "PKG-toronto-2D",
+  "slug": "toronto-2-day-package",
+  "destinationSlug": "toronto",
+  "destinationName": "Toronto",
+  "country": "Canada",
+  "region": "Ontario",
+  "durationDays": 2,
+  "durationNights": 1,
+  "title": "Toronto 2-Day City Break",
+  "metaTitle": "Toronto 2-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 2-day trip to Toronto, Canada: round-trip flights, hotel, breakfast, transfers, and guided tours including CN Tower and Royal Ontario Museum (ROM). Prices from $443 per person (estimate).",
+  "highlights": [
+    "CN Tower",
+    "Royal Ontario Museum (ROM)",
+    "Distillery District",
+    "Niagara Falls"
+  ],
+  "overview": "Spend 2 days discovering Toronto, Canada — Humid continental climate with cold, snowy winters (highs near or below 0°C, Dec-Feb) and warm, humid summers (highs around 27°C, Jun-Aug). May to September brings warm days for exploring waterfront and patios; September-October adds fall foliage with lighter crowds than summer. This itinerary blends CN Tower, Royal Ontario Museum (ROM), Distillery District with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "1 night accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including CN Tower, Royal Ontario Museum (ROM), Distillery District",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Toronto",
+      "description": "Land at Toronto Pearson International Airport (YYZ) and take your included private transfer to your hotel. With limited time on the ground, head straight out to CN Tower — Iconic 553m tower with glass floor and EdgeWalk experience. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "CN Tower"
+      ],
+      "overnight": "Toronto"
+    },
+    {
+      "day": 2,
+      "title": "Toronto Highlights & Departure",
+      "description": "Start early with a visit to Royal Ontario Museum (ROM) — Canada's largest natural history and world culture museum. Grab a last taste of local life before your private transfer to YYZ for your onward flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Royal Ontario Museum (ROM)",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Buy CN Tower and Ripley's Aquarium combo tickets online in advance to skip long queues.",
+    "The UP Express airport train is faster and cheaper than a taxi from Pearson to downtown.",
+    "Book Niagara Falls day tours or car rentals ahead in summer — it's a very popular day trip.",
+    "TIFF (September) and Caribana (July/August) both cause hotel prices to spike — book early.",
+    "St. Lawrence Market is closed on Sundays and Mondays — plan your visit around that.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "A heavy winter coat, boots and layers if visiting December-February — cold is serious",
+    "Light layers for humid summer days that can turn cool at night",
+    "Comfortable shoes for extensive subway/streetcar walking",
+    "An umbrella for year-round rain showers"
+  ],
+  "thingsToDo": [
+    "CN Tower",
+    "Royal Ontario Museum (ROM)",
+    "Ripley's Aquarium of Canada",
+    "Casa Loma",
+    "Art Gallery of Ontario (AGO)",
+    "Toronto Zoo",
+    "Hockey Hall of Fame",
+    "Ontario Science Centre",
+    "Distillery District walking tour",
+    "Toronto Islands ferry and rentals",
+    "St. Lawrence Market food tour",
+    "Distillery District",
+    "Kensington Market",
+    "Toronto Islands",
+    "St. Lawrence Market exterior and stalls",
+    "Graffiti Alley",
+    "High Park",
+    "Harbourfront Centre",
+    "Nathan Phillips Square",
+    "Chinatown and Little Italy"
+  ],
+  "thingsToAvoid": [
+    "Underestimating winter cold — wind chill can make it feel far colder than the forecast high suggests.",
+    "Driving downtown during rush hour — Toronto traffic and parking costs are notoriously bad.",
+    "Assuming US dollars are accepted everywhere — carry or withdraw Canadian dollars for smaller vendors.",
+    "Skipping travel insurance — Canadian healthcare is not free for foreign visitors and costs add up quickly.",
+    "Jaywalking near streetcar tracks — streetcars can't swerve and take longer to stop than buses."
+  ],
+  "topRestaurants": [
+    "Alo Restaurant — French Fine Dining ($$$$)",
+    "St. Lawrence Market vendors — Peameal Bacon Sandwiches ($)",
+    "Pai Northern Thai Kitchen — Thai ($$)",
+    "Buster's Sea Cove — Seafood ($$)",
+    "Terroni — Italian ($$)",
+    "Khao San Road — Thai Street Food ($$)",
+    "Richmond Station — Modern Canadian ($$$)",
+    "Fran's Restaurant — Classic Diner ($)",
+    "Byblos Toronto — Eastern Mediterranean ($$$)"
+  ],
+  "topCafes": [
+    "Balzac's Coffee Roasters",
+    "Dark Horse Espresso Bar",
+    "Boxcar Social",
+    "Manic Coffee",
+    "Jimmy's Coffee",
+    "Pilot Coffee Roasters"
+  ],
+  "shoppingAreas": [
+    "Eaton Centre",
+    "Queen Street West boutiques",
+    "Kensington Market",
+    "Yorkville luxury district",
+    "St. Lawrence Market"
+  ],
+  "nightlife": [
+    "Entertainment District clubs",
+    "King Street West bars",
+    "Kensington Market speakeasies",
+    "Distillery District craft breweries",
+    "The Rex Hotel Jazz Bar"
+  ],
+  "instagramSpots": [
+    "Toronto sign at Nathan Phillips Square",
+    "CN Tower from Toronto Islands",
+    "Distillery District cobblestones",
+    "Graffiti Alley",
+    "Casa Loma facade"
+  ],
+  "hiddenGems": [
+    "Cloud Gardens Conservatory",
+    "Evergreen Brick Works",
+    "Elgin and Winter Garden Theatre Centre",
+    "Leslie Street Spit nature trail",
+    "Riverdale Farm"
+  ],
+  "familyActivities": [
+    "Ripley's Aquarium of Canada",
+    "Toronto Zoo",
+    "Ontario Science Centre",
+    "Toronto Islands Centreville amusement park",
+    "High Park Zoo"
+  ],
+  "adventureActivities": [
+    "EdgeWalk hands-free walk around the CN Tower rim",
+    "Kayaking around the Toronto Islands",
+    "Cycling the Martin Goodman waterfront trail",
+    "Rock climbing at a Distillery District gym"
+  ],
+  "luxuryExperiences": [
+    "Tasting menu at Alo Restaurant",
+    "Private Niagara wine country day tour",
+    "Suite stay at the Ritz-Carlton Toronto",
+    "VIP box at a Maple Leafs or Raptors game"
+  ],
+  "honeymoonExperiences": [
+    "Sunset dinner cruise on Lake Ontario",
+    "Romantic stroll through the Distillery District at dusk",
+    "Couples spa day at a downtown luxury hotel",
+    "Private Niagara-on-the-Lake winery escape"
+  ],
+  "budgetExperiences": [
+    "Free ferry-adjacent wander of the Toronto Islands",
+    "Browse Kensington Market and Graffiti Alley",
+    "Free events at Harbourfront Centre",
+    "Cherry blossoms in High Park (spring, free)"
+  ],
+  "estimatedDailyBudgetUSD": [
+    80,
+    175,
+    320,
+    580
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 82,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": -1,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 0,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 5,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 12,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 24,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 22,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 15,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 8,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 2,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Toronto International Film Festival (TIFF)",
+      "timing": "Early-to-mid September"
+    },
+    {
+      "name": "Caribana (Toronto Caribbean Carnival)",
+      "timing": "Late July to early August"
+    },
+    {
+      "name": "Toronto Jazz Festival",
+      "timing": "Late June"
+    },
+    {
+      "name": "Nuit Blanche Toronto",
+      "timing": "One night in early October"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Canadians are famously polite — saying \"sorry\" even when it isn't your fault is normal, and reciprocating is appreciated.",
+    "Tipping 15-20% at restaurants and bars is standard and expected.",
+    "Queueing (lining up) is taken seriously — cutting a line is a real social faux pas.",
+    "Toronto is one of the world's most multicultural cities; neighborhoods reflect distinct communities that deserve respectful visiting.",
+    "Escalator etiquette: stand right, walk left, especially in the subway."
+  ],
+  "localTransportGuide": "The TTC subway, streetcars and buses cover the city well — tap a PRESTO card or contactless bank card for one fare across the system. The UP Express train runs directly from Pearson Airport to Union Station downtown in about 25 minutes, far faster than a taxi in traffic.",
+  "bestTimeToVisit": "May to September brings warm days for exploring waterfront and patios; September-October adds fall foliage with lighter crowds than summer.",
+  "weather": "Humid continental climate with cold, snowy winters (highs near or below 0°C, Dec-Feb) and warm, humid summers (highs around 27°C, Jun-Aug).",
+  "visaInformation": "Visa-exempt eTA (Electronic Travel Authorization) for UK, EU, Australian and other eligible passport holders arriving by air for short stays. Indian nationals and most other nationalities require a Canadian visitor visa (TRV) arranged in advance.",
+  "currency": "CAD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "EST (UTC-5)",
+  "averageFlightTime": "~13.8h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Toronto Pearson International Airport (YYZ)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Toronto?",
+      "answer": "Visa-exempt eTA (Electronic Travel Authorization) for UK, EU, Australian and other eligible passport holders arriving by air for short stays. Indian nationals and most other nationalities require a Canadian visitor visa (TRV) arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Toronto?",
+      "answer": "May to September brings warm days for exploring waterfront and patios; September-October adds fall foliage with lighter crowds than summer. Humid continental climate with cold, snowy winters (highs near or below 0°C, Dec-Feb) and warm, humid summers (highs around 27°C, Jun-Aug)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Toronto safe for tourists?",
+      "answer": "Toronto is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Toronto?",
+      "answer": "The local currency is CAD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Food",
+    "Shopping",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Toronto",
+    "Canada",
+    "Toronto, Canada",
+    "Ontario",
+    "Toronto tour package",
+    "Toronto vacation package",
+    "Toronto holiday package",
+    "things to do in Toronto",
+    "best time to visit Toronto",
+    "Toronto itinerary",
+    "2 day Toronto itinerary",
+    "Toronto flights and hotels",
+    "Toronto all inclusive package",
+    "cheap Toronto package",
+    "luxury Toronto package",
+    "Toronto honeymoon package",
+    "Toronto family vacation",
+    "Toronto solo trip",
+    "Toronto group tour",
+    "Toronto weekend getaway",
+    "Toronto guided tour",
+    "YYZ flights",
+    "Toronto travel guide",
+    "book Toronto trip online",
+    "Toronto trip cost",
+    "Toronto packages 2 days",
+    "Toronto city break",
+    "Toronto culture",
+    "Toronto food",
+    "Toronto shopping",
+    "CN Tower",
+    "Royal Ontario Museum (ROM)",
+    "Ripley's Aquarium of Canada",
+    "Casa Loma",
+    "Art Gallery of Ontario (AGO)",
+    "Toronto Zoo",
+    "Hockey Hall of Fame",
+    "Ontario Science Centre",
+    "Distillery District walking tour",
+    "Toronto Islands ferry and rentals",
+    "St. Lawrence Market food tour",
+    "Distillery District",
+    "Kensington Market",
+    "Toronto Islands",
+    "St. Lawrence Market exterior and stalls",
+    "Graffiti Alley",
+    "High Park",
+    "Harbourfront Centre",
+    "Nathan Phillips Square",
+    "Chinatown and Little Italy"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Toronto, Canada — CN Tower skyline",
+      "keywords": [
+        "Toronto",
+        "Canada",
+        "CN Tower skyline",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Toronto CN Tower skyline",
+      "pexelsQuery": "Toronto CN Tower skyline",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Toronto, Canada — CN Tower skyline",
+      "keywords": [
+        "Toronto",
+        "Canada",
+        "CN Tower skyline",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Toronto CN Tower skyline",
+      "pexelsQuery": "Toronto CN Tower skyline",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Toronto, Canada — Distillery District cobblestones",
+      "keywords": [
+        "Toronto",
+        "Canada",
+        "Distillery District cobblestones",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Toronto Distillery District cobblestones",
+      "pexelsQuery": "Toronto Distillery District cobblestones",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Toronto, Canada — Toronto sign at City Hall",
+      "keywords": [
+        "Toronto",
+        "Canada",
+        "Toronto sign at City Hall",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Toronto Toronto sign at City Hall",
+      "pexelsQuery": "Toronto Toronto sign at City Hall",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Toronto, Canada — CN Tower skyline",
+      "keywords": [
+        "Toronto",
+        "Canada",
+        "CN Tower skyline",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Toronto CN Tower skyline",
+      "pexelsQuery": "Toronto CN Tower skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Toronto, Canada — Distillery District cobblestones",
+      "keywords": [
+        "Toronto",
+        "Canada",
+        "Distillery District cobblestones",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Toronto Distillery District cobblestones",
+      "pexelsQuery": "Toronto Distillery District cobblestones",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Toronto, Canada — Toronto sign at City Hall",
+      "keywords": [
+        "Toronto",
+        "Canada",
+        "Toronto sign at City Hall",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Toronto Toronto sign at City Hall",
+      "pexelsQuery": "Toronto Toronto sign at City Hall",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Toronto, Canada — Toronto Islands skyline view",
+      "keywords": [
+        "Toronto",
+        "Canada",
+        "Toronto Islands skyline view",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Toronto Toronto Islands skyline view",
+      "pexelsQuery": "Toronto Toronto Islands skyline view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Toronto, Canada — CN Tower",
+      "keywords": [
+        "Toronto",
+        "Canada",
+        "CN Tower",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Toronto CN Tower",
+      "pexelsQuery": "Toronto CN Tower",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Toronto, Canada — Royal Ontario Museum (ROM)",
+      "keywords": [
+        "Toronto",
+        "Canada",
+        "Royal Ontario Museum (ROM)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Toronto Royal Ontario Museum (ROM)",
+      "pexelsQuery": "Toronto Royal Ontario Museum (ROM)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Toronto, Canada — Ripley's Aquarium of Canada",
+      "keywords": [
+        "Toronto",
+        "Canada",
+        "Ripley's Aquarium of Canada",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Toronto Ripley's Aquarium of Canada",
+      "pexelsQuery": "Toronto Ripley's Aquarium of Canada",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Toronto, Canada — Casa Loma",
+      "keywords": [
+        "Toronto",
+        "Canada",
+        "Casa Loma",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Toronto Casa Loma",
+      "pexelsQuery": "Toronto Casa Loma",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-toronto-2-1",
+      "author": "Chen Rossi",
+      "country": "South Africa",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-07-17",
+      "title": "Worth every penny",
+      "body": "Booked this as a solo trip and it was well paced. Kensington Market in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-2",
+      "author": "Ava Garcia",
+      "country": "Netherlands",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-20",
+      "title": "Luxury without the hassle",
+      "body": "St. Lawrence Market exterior and stalls alone was worth the trip, but combined with St. Lawrence Market food tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-3",
+      "author": "Wei Tanaka",
+      "country": "Canada",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-02",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a family of 4 trip and it was well paced. Ripley's Aquarium of Canada in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-4",
+      "author": "Ava Botha",
+      "country": "United States",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-09-24",
+      "title": "Consultant made it effortless",
+      "body": "CN Tower alone was worth the trip, but combined with Toronto Islands this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-5",
+      "author": "Daniel Ibrahim",
+      "country": "Singapore",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-06-21",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Distillery District walking tour and St. Lawrence Market food tour. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-6",
+      "author": "Mia Rossi",
+      "country": "United States",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-27",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to CN Tower and Casa Loma. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-7",
+      "author": "Ethan Williams",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-10",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Art Gallery of Ontario (AGO) and Harbourfront Centre. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-8",
+      "author": "Ethan Ivanov",
+      "country": "Singapore",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-26",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Distillery District walking tour and Chinatown and Little Italy. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-9",
+      "author": "Mia Khan",
+      "country": "Brazil",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-10",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Distillery District and Royal Ontario Museum (ROM). Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-10",
+      "author": "Sarah Tanaka",
+      "country": "Netherlands",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-26",
+      "title": "Unforgettable trip!",
+      "body": "Toronto is stunning and this package covered the essentials well, especially St. Lawrence Market exterior and stalls. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-11",
+      "author": "Ethan Tanaka",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-08-31",
+      "title": "A little rushed but still wonderful",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Art Gallery of Ontario (AGO) and CN Tower. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-12",
+      "author": "Ava Santos",
+      "country": "Germany",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-14",
+      "title": "Perfect for our honeymoon",
+      "body": "Art Gallery of Ontario (AGO) alone was worth the trip, but combined with Casa Loma this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-13",
+      "author": "Ava Andersen",
+      "country": "France",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-02-07",
+      "title": "Great for families with kids",
+      "body": "Toronto Zoo alone was worth the trip, but combined with Nathan Phillips Square this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-14",
+      "author": "Olivia Dubois",
+      "country": "France",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-15",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Toronto was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Toronto Zoo was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-15",
+      "author": "Sarah Botha",
+      "country": "India",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-20",
+      "title": "Best vacation we've had",
+      "body": "Toronto is stunning and this package covered the essentials well, especially Hockey Hall of Fame. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-16",
+      "author": "Mohammed Silva",
+      "country": "Italy",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-06-15",
+      "title": "Adventure of a lifetime",
+      "body": "Nathan Phillips Square alone was worth the trip, but combined with Distillery District this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-17",
+      "author": "Lukas Smith",
+      "country": "Mexico",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-29",
+      "title": "Solid mid-range package",
+      "body": "Toronto is stunning and this package covered the essentials well, especially Harbourfront Centre. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-18",
+      "author": "Yuki Andersen",
+      "country": "Mexico",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-19",
+      "title": "Great for families with kids",
+      "body": "Harbourfront Centre alone was worth the trip, but combined with Harbourfront Centre this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-toronto-2-19",
+      "author": "David Kowalski",
+      "country": "Brazil",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-01-28",
+      "title": "Unforgettable trip!",
+      "body": "Toronto is stunning and this package covered the essentials well, especially Distillery District. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-toronto-2-20",
+      "author": "Sarah Andersen",
+      "country": "Canada",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-04-09",
+      "title": "So many hidden gems included",
+      "body": "Toronto is stunning and this package covered the essentials well, especially Ripley's Aquarium of Canada. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.1,
+    "transportation": 4.2,
+    "activities": 4.3,
+    "value": 4.1,
+    "cleanliness": 4.3,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Toronto Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Eaton Centre"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Toronto Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "Queen Street West boutiques"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Toronto Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 61,
+      "neighborhood": "Kensington Market"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Toronto Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 79,
+      "neighborhood": "Yorkville luxury district"
+    },
+    {
+      "tier": "Resort",
+      "name": "Toronto Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "St. Lawrence Market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Toronto Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 244,
+      "neighborhood": "Entertainment District clubs"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Toronto Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 290,
+      "neighborhood": "King Street West bars"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        116,
+        185
+      ],
+      "estimatedFlightHours": 1.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        490,
+        778
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        510,
+        810
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        534,
+        848
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        588,
+        934
+      ],
+      "estimatedFlightHours": 10.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        513,
+        814
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        508,
+        807
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        545,
+        865
+      ],
+      "estimatedFlightHours": 9.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1201,
+        1908
+      ],
+      "estimatedFlightHours": 21.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1080,
+        1715
+      ],
+      "estimatedFlightHours": 19.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        917,
+        1457
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        825,
+        1310
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        842,
+        1338
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1160,
+        1843
+      ],
+      "estimatedFlightHours": 21,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1062,
+        1686
+      ],
+      "estimatedFlightHours": 19.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1147,
+        1821
+      ],
+      "estimatedFlightHours": 20.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1219,
+        1936
+      ],
+      "estimatedFlightHours": 22.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1031,
+        1638
+      ],
+      "estimatedFlightHours": 18.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1083,
+        1720
+      ],
+      "estimatedFlightHours": 19.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        876,
+        1392
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        845,
+        1342
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        861,
+        1368
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        819,
+        1301
+      ],
+      "estimatedFlightHours": 14.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1040,
+        1652
+      ],
+      "estimatedFlightHours": 18.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        668,
+        1061
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Toronto Pearson International Airport (YYZ)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        312,
+        495
+      ],
+      "estimatedFlightHours": 5.2,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "CN Tower",
+    "Royal Ontario Museum (ROM)",
+    "Ripley's Aquarium of Canada",
+    "Casa Loma",
+    "Art Gallery of Ontario (AGO)",
+    "Toronto Zoo",
+    "Hockey Hall of Fame",
+    "Ontario Science Centre",
+    "Distillery District walking tour",
+    "Toronto Islands ferry and rentals",
+    "St. Lawrence Market food tour",
+    "Distillery District",
+    "Kensington Market",
+    "Toronto Islands",
+    "St. Lawrence Market exterior and stalls",
+    "Graffiti Alley",
+    "High Park",
+    "Harbourfront Centre",
+    "Nathan Phillips Square",
+    "Chinatown and Little Italy",
+    "Niagara Falls",
+    "Niagara-on-the-Lake wine country",
+    "Blue Mountain (Collingwood)",
+    "Prince Edward County",
+    "Bata Shoe Museum",
+    "Trinity Bellwoods Park",
+    "Evergreen Brick Works",
+    "Woodbine Beach",
+    "Cherry Beach",
+    "Toronto sign at Nathan Phillips Square",
+    "CN Tower from Toronto Islands",
+    "Distillery District cobblestones",
+    "Casa Loma facade"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "CN Tower",
+      "priceUSD": 38
+    },
+    {
+      "name": "Royal Ontario Museum (ROM)",
+      "priceUSD": 21
+    },
+    {
+      "name": "Ripley's Aquarium of Canada",
+      "priceUSD": 33
+    },
+    {
+      "name": "Casa Loma",
+      "priceUSD": 27
+    },
+    {
+      "name": "Art Gallery of Ontario (AGO)",
+      "priceUSD": 20
+    },
+    {
+      "name": "Toronto Zoo",
+      "priceUSD": 27
+    },
+    {
+      "name": "Hockey Hall of Fame",
+      "priceUSD": 20
+    },
+    {
+      "name": "Ontario Science Centre",
+      "priceUSD": 24
+    },
+    {
+      "name": "Distillery District walking tour",
+      "priceUSD": 25
+    },
+    {
+      "name": "Toronto Islands ferry and rentals",
+      "priceUSD": 10
+    },
+    {
+      "name": "St. Lawrence Market food tour",
+      "priceUSD": 55
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Distillery District",
+    "Kensington Market",
+    "Toronto Islands",
+    "St. Lawrence Market exterior and stalls",
+    "Graffiti Alley",
+    "High Park",
+    "Harbourfront Centre",
+    "Nathan Phillips Square",
+    "Chinatown and Little Italy"
+  ],
+  "museums": [
+    "Royal Ontario Museum (ROM)",
+    "Art Gallery of Ontario (AGO)",
+    "Hockey Hall of Fame",
+    "Bata Shoe Museum"
+  ],
+  "parks": [
+    "High Park",
+    "Toronto Islands",
+    "Trinity Bellwoods Park",
+    "Evergreen Brick Works"
+  ],
+  "beaches": [
+    "Woodbine Beach",
+    "Cherry Beach"
+  ],
+  "dayTrips": [
+    "Niagara Falls",
+    "Niagara-on-the-Lake wine country",
+    "Blue Mountain (Collingwood)",
+    "Prince Edward County"
+  ],
+  "fromPriceUSD": 443,
+  "seo": {
+    "title": "Toronto 2-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "toronto-2-day-package",
+    "keywords": [
+      "Toronto",
+      "Canada",
+      "Toronto, Canada",
+      "Ontario",
+      "Toronto tour package",
+      "Toronto vacation package",
+      "Toronto holiday package",
+      "things to do in Toronto",
+      "best time to visit Toronto",
+      "Toronto itinerary",
+      "2 day Toronto itinerary",
+      "Toronto flights and hotels",
+      "Toronto all inclusive package",
+      "cheap Toronto package",
+      "luxury Toronto package"
+    ],
+    "canonicalUrl": "/packages/toronto-2-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Toronto Package",
+        "url": "/packages/toronto-3-day-package"
+      },
+      {
+        "title": "5-Day Toronto Package",
+        "url": "/packages/toronto-5-day-package"
+      },
+      {
+        "title": "London 2-Day City Break",
+        "url": "/packages/london-2-day-package"
+      },
+      {
+        "title": "Istanbul 2-Day City Break",
+        "url": "/packages/istanbul-2-day-package"
+      },
+      {
+        "title": "Bangkok 2-Day City Break",
+        "url": "/packages/bangkok-2-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Toronto — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Toronto"
+      },
+      {
+        "title": "Toronto — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Toronto"
+      }
+    ]
+  }
+}

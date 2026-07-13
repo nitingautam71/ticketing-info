@@ -1,0 +1,1613 @@
+{
+  "id": "PKG-varanasi-7D",
+  "slug": "varanasi-7-day-package",
+  "destinationSlug": "varanasi",
+  "destinationName": "Varanasi",
+  "country": "India",
+  "region": "North India",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Varanasi 7-Day Cultural Tour",
+  "metaTitle": "Varanasi 7-Day Cultural Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Varanasi, India: round-trip flights, hotel, breakfast, transfers, and guided tours including Sarnath Archaeological Museum and Ramnagar Fort. Prices from $1435 per person (estimate).",
+  "highlights": [
+    "Sarnath Archaeological Museum",
+    "Ramnagar Fort",
+    "Dashashwamedh Ghat",
+    "Sarnath"
+  ],
+  "overview": "Spend 7 days discovering Varanasi, India — Hot continental climate typical of the Gangetic plains: scorching summers (highs 40-42°C in May-June), a humid monsoon July-September that raises the river level significantly, and cool, foggy winters (highs 22-24°C, cold mornings near 8-10°C). October to March, with cooler mornings (highs 22-27°C) ideal for sunrise boat rides on the Ganges; avoid the extreme heat of May-June. This itinerary blends Sarnath Archaeological Museum, Ramnagar Fort, Dashashwamedh Ghat with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Sarnath Archaeological Museum, Ramnagar Fort, Dashashwamedh Ghat",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Varanasi",
+      "description": "Land at Lal Bahadur Shastri International Airport (VNS) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Sarnath Archaeological Museum — Ashokan-era Buddhist relics near where Buddha gave his first sermon. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Sarnath Archaeological Museum"
+      ],
+      "overnight": "Varanasi"
+    },
+    {
+      "day": 2,
+      "title": "Varanasi: Ramnagar Fort & Sarnath Dhamek Stupa complex",
+      "description": "Morning visit to Ramnagar Fort — Riverside fort-palace of the former Maharaja of Varanasi, with a vintage museum. In the afternoon, continue to Sarnath Dhamek Stupa complex — Excavated ruins of ancient monasteries and stupas. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Ramnagar Fort",
+        "Sarnath Dhamek Stupa complex"
+      ],
+      "overnight": "Varanasi"
+    },
+    {
+      "day": 3,
+      "title": "Varanasi: Bharat Kala Bhavan Museum (BHU) & Ganges sunrise boat ride",
+      "description": "Morning visit to Bharat Kala Bhavan Museum (BHU) — Art and archaeology museum inside Banaras Hindu University. In the afternoon, continue to Ganges sunrise boat ride — Rowboat past the ghats at dawn as rituals begin. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Bharat Kala Bhavan Museum (BHU)",
+        "Ganges sunrise boat ride"
+      ],
+      "overnight": "Varanasi"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Sarnath",
+      "description": "Full-day excursion to Sarnath, a popular side trip from Varanasi. Return to Varanasi in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Sarnath",
+        "Free evening"
+      ],
+      "overnight": "Varanasi"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Ramnagar Fort museum — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Ramnagar Fort museum"
+      ],
+      "overnight": "Varanasi"
+    },
+    {
+      "day": 6,
+      "title": "Varanasi: Ganges evening boat ride for Ganga Aarti & Dashashwamedh Ghat",
+      "description": "Morning visit to Ganges evening boat ride for Ganga Aarti — Boat positioned on the river to view the aarti ceremony. In the afternoon, continue to Dashashwamedh Ghat — Main ghat, site of the nightly Ganga Aarti ceremony. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Ganges evening boat ride for Ganga Aarti",
+        "Dashashwamedh Ghat"
+      ],
+      "overnight": "Varanasi"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Manikarnika Ghat or some souvenir shopping — before your private transfer to VNS for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Take the sunrise boat ride first thing (before 6:30am) for the best light and calmest water.",
+    "Attend the Ganga Aarti at Dashashwamedh Ghat by arriving 45-60 minutes early to get a good spot, or view it from a boat on the river.",
+    "Kashi Vishwanath Temple has strict security — leave phones, bags and electronics at your hotel or in a locker.",
+    "Hire a licensed boatman through your hotel rather than the first tout who approaches you at the ghat.",
+    "Dev Deepawali (Nov) is spectacular but extremely crowded — book accommodation and boats months ahead.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Modest, conservative clothing — shoulders and knees covered",
+    "Layers for cold winter mornings on the river",
+    "Closed shoes tolerant of uneven, sometimes wet ghat steps",
+    "A shawl or scarf for temple visits"
+  ],
+  "thingsToDo": [
+    "Sarnath Archaeological Museum",
+    "Ramnagar Fort",
+    "Sarnath Dhamek Stupa complex",
+    "Bharat Kala Bhavan Museum (BHU)",
+    "Ganges sunrise boat ride",
+    "Ganges evening boat ride for Ganga Aarti",
+    "Dashashwamedh Ghat",
+    "Manikarnika Ghat",
+    "Assi Ghat",
+    "Kashi Vishwanath Temple corridor",
+    "Banaras Hindu University campus",
+    "Vishwanath Gali",
+    "Man Mandir Ghat",
+    "Rowing your own boat along the ghats",
+    "Cycling tour through the old-city lanes",
+    "Village cycling excursion to Sarnath",
+    "Early-morning heritage walk through Vishwanath Gali",
+    "Sunrise boat ride on the Ganges",
+    "Sarnath Buddhist heritage site visit",
+    "BHU campus and museum visit"
+  ],
+  "thingsToAvoid": [
+    "Photographing cremation ceremonies at Manikarnika or Harishchandra Ghat.",
+    "\"Holy man\" and fake priest scams demanding money for impromptu blessings or forced flower offerings.",
+    "Drinking or bathing in the Ganges water — it carries a high bacterial load despite its spiritual significance.",
+    "Unlicensed boatmen quoting inflated tourist prices — agree the fare before boarding.",
+    "Wandering narrow ghat lanes alone late at night."
+  ],
+  "topRestaurants": [
+    "Kashi Chat Bhandar — Street Chaat ($)",
+    "Blue Lassi Shop — Lassi & Snacks ($)",
+    "Brown Bread Bakery — Bakery & Continental ($$)",
+    "Dolphin Restaurant — Multi-cuisine, riverside rooftop ($$)",
+    "Deena Chaat Bhandar — Street Chaat ($)",
+    "Pizzeria Vaatika Cafe — Italian & Continental, riverside ($$)",
+    "Keshari Restaurant — North Indian ($)"
+  ],
+  "topCafes": [
+    "Brown Bread Bakery",
+    "Pizzeria Vaatika Cafe",
+    "Blue Lassi Shop",
+    "Open Hand Cafe",
+    "Assi Ghat cafes"
+  ],
+  "shoppingAreas": [
+    "Vishwanath Gali",
+    "Thatheri Bazaar (brassware)",
+    "Banarasi silk sari shops around Chowk",
+    "Godowlia Market"
+  ],
+  "nightlife": [
+    "Ganga Aarti ceremony at Dashashwamedh Ghat",
+    "Classical music evenings near Assi Ghat",
+    "Riverside rooftop dinners overlooking the ghats"
+  ],
+  "instagramSpots": [
+    "Sunrise boat ride facing the ghats",
+    "Ganga Aarti fire ceremony at dusk",
+    "Kashi Vishwanath Corridor",
+    "Manikarnika Ghat skyline (respectfully, from a distance)",
+    "Assi Ghat sunrise yoga"
+  ],
+  "hiddenGems": [
+    "Ramnagar Fort museum",
+    "Man Mandir Ghat observatory",
+    "Sarai Mohana pottery village across the river",
+    "Alamgir Mosque (Beni Madhav)"
+  ],
+  "familyActivities": [
+    "Sunrise boat ride on the Ganges",
+    "Sarnath Buddhist heritage site visit",
+    "BHU campus and museum visit",
+    "Kite flying at Assi Ghat"
+  ],
+  "adventureActivities": [
+    "Rowing your own boat along the ghats",
+    "Cycling tour through the old-city lanes",
+    "Village cycling excursion to Sarnath",
+    "Early-morning heritage walk through Vishwanath Gali"
+  ],
+  "luxuryExperiences": [
+    "Private heritage boat with breakfast facing the ghats at sunrise",
+    "Suite stay at a restored riverside haveli hotel",
+    "Private classical music (sitar/tabla) evening performance",
+    "Guided private tour with a Banaras Hindu University Sanskrit scholar"
+  ],
+  "honeymoonExperiences": [
+    "Sunrise boat ride together past the ghats",
+    "Evening Ganga Aarti viewed from a private boat",
+    "Rooftop dinner overlooking the river",
+    "Sunset walk along Assi Ghat"
+  ],
+  "budgetExperiences": [
+    "Shared sunrise rowboat ride split among travelers",
+    "Free viewing of the Ganga Aarti from the ghat steps",
+    "Street chaat crawl at Kashi Chat Bhandar and Deena Chaat",
+    "Walking tour of the old-city lanes"
+  ],
+  "estimatedDailyBudgetUSD": [
+    15,
+    50,
+    120,
+    300
+  ],
+  "safetyRating": 3,
+  "internetRating": 3,
+  "publicTransportRating": 3,
+  "walkingScore": 35,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 38,
+      "crowd": "Low"
+    },
+    {
+      "month": "May",
+      "highC": 41,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 39,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 33,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 23,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Dev Deepawali",
+      "timing": "Full moon night in November, thousands of lamps lit along the ghats"
+    },
+    {
+      "name": "Maha Shivratri",
+      "timing": "February-March (per lunar calendar)"
+    },
+    {
+      "name": "Ganga Mahotsav",
+      "timing": "November, five-day cultural festival before Dev Deepawali"
+    },
+    {
+      "name": "Bharat Milap",
+      "timing": "October-November, part of Ramlila celebrations"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101"
+  },
+  "localEtiquette": [
+    "Dress conservatively — shoulders and knees covered — especially near the ghats and temples.",
+    "Ask permission before photographing cremation rites at Manikarnika or Harishchandra Ghat; many locals consider it deeply disrespectful to photograph the ceremonies themselves.",
+    "Remove shoes before entering the Kashi Vishwanath Temple; expect airport-style security and no phones/cameras inside.",
+    "Do not touch the Ganges water with your feet if others are performing rituals nearby — approach quietly and respectfully.",
+    "Alcohol and meat are frowned upon in much of the old city near the ghats."
+  ],
+  "localTransportGuide": "The old city around the ghats is a maze of narrow lanes only navigable on foot or by cycle-rickshaw; auto-rickshaws and Ola/Uber cover the wider city and the route to Sarnath. Boats are the standard way to move along the riverfront between ghats.",
+  "bestTimeToVisit": "October to March, with cooler mornings (highs 22-27°C) ideal for sunrise boat rides on the Ganges; avoid the extreme heat of May-June.",
+  "weather": "Hot continental climate typical of the Gangetic plains: scorching summers (highs 40-42°C in May-June), a humid monsoon July-September that raises the river level significantly, and cool, foggy winters (highs 22-24°C, cold mornings near 8-10°C).",
+  "visaInformation": "Most foreign nationals require an Indian e-Visa applied for online before travel. Indian citizens need no visa, and OCI/PIO cardholders travel visa-free with a linked foreign passport, common for diaspora visitors on a pilgrimage or heritage trip.",
+  "currency": "INR",
+  "languages": [
+    "Hindi",
+    "Bhojpuri"
+  ],
+  "timeZone": "IST (UTC+5:30)",
+  "averageFlightTime": "~9.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Lal Bahadur Shastri International Airport (VNS)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Varanasi?",
+      "answer": "Most foreign nationals require an Indian e-Visa applied for online before travel. Indian citizens need no visa, and OCI/PIO cardholders travel visa-free with a linked foreign passport, common for diaspora visitors on a pilgrimage or heritage trip."
+    },
+    {
+      "question": "What is the best time to visit Varanasi?",
+      "answer": "October to March, with cooler mornings (highs 22-27°C) ideal for sunrise boat rides on the Ganges; avoid the extreme heat of May-June. Hot continental climate typical of the Gangetic plains: scorching summers (highs 40-42°C in May-June), a humid monsoon July-September that raises the river level significantly, and cool, foggy winters (highs 22-24°C, cold mornings near 8-10°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Varanasi safe for tourists?",
+      "answer": "Varanasi is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Varanasi?",
+      "answer": "The local currency is INR. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Culture",
+    "History",
+    "Bucket List",
+    "Nightlife"
+  ],
+  "aiTags": [
+    "Varanasi",
+    "India",
+    "Varanasi, India",
+    "North India",
+    "Varanasi tour package",
+    "Varanasi vacation package",
+    "Varanasi holiday package",
+    "things to do in Varanasi",
+    "best time to visit Varanasi",
+    "Varanasi itinerary",
+    "7 day Varanasi itinerary",
+    "Varanasi flights and hotels",
+    "Varanasi all inclusive package",
+    "cheap Varanasi package",
+    "luxury Varanasi package",
+    "Varanasi honeymoon package",
+    "Varanasi family vacation",
+    "Varanasi solo trip",
+    "Varanasi group tour",
+    "Varanasi weekend getaway",
+    "Varanasi guided tour",
+    "VNS flights",
+    "Varanasi travel guide",
+    "book Varanasi trip online",
+    "Varanasi trip cost",
+    "Varanasi packages 7 days",
+    "Varanasi culture",
+    "Varanasi history",
+    "Varanasi bucket list",
+    "Varanasi nightlife",
+    "Sarnath Archaeological Museum",
+    "Ramnagar Fort",
+    "Sarnath Dhamek Stupa complex",
+    "Bharat Kala Bhavan Museum (BHU)",
+    "Ganges sunrise boat ride",
+    "Ganges evening boat ride for Ganga Aarti",
+    "Dashashwamedh Ghat",
+    "Manikarnika Ghat",
+    "Assi Ghat",
+    "Kashi Vishwanath Temple corridor",
+    "Banaras Hindu University campus",
+    "Vishwanath Gali",
+    "Man Mandir Ghat",
+    "Kashi Chat Bhandar",
+    "Blue Lassi Shop",
+    "Brown Bread Bakery",
+    "Dolphin Restaurant",
+    "Deena Chaat Bhandar",
+    "Sunrise boat ride facing the ghats",
+    "Ganga Aarti fire ceremony at dusk"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Varanasi, India — Ganga Aarti ceremony",
+      "keywords": [
+        "Varanasi",
+        "India",
+        "Ganga Aarti ceremony",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Varanasi Ganga Aarti ceremony",
+      "pexelsQuery": "Varanasi Ganga Aarti ceremony",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Varanasi, India — Ganga Aarti ceremony",
+      "keywords": [
+        "Varanasi",
+        "India",
+        "Ganga Aarti ceremony",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Varanasi Ganga Aarti ceremony",
+      "pexelsQuery": "Varanasi Ganga Aarti ceremony",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Varanasi, India — Varanasi ghats sunrise",
+      "keywords": [
+        "Varanasi",
+        "India",
+        "Varanasi ghats sunrise",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Varanasi Varanasi ghats sunrise",
+      "pexelsQuery": "Varanasi Varanasi ghats sunrise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Varanasi, India — Dashashwamedh Ghat",
+      "keywords": [
+        "Varanasi",
+        "India",
+        "Dashashwamedh Ghat",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Varanasi Dashashwamedh Ghat",
+      "pexelsQuery": "Varanasi Dashashwamedh Ghat",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Varanasi, India — Ganga Aarti ceremony",
+      "keywords": [
+        "Varanasi",
+        "India",
+        "Ganga Aarti ceremony",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Varanasi Ganga Aarti ceremony",
+      "pexelsQuery": "Varanasi Ganga Aarti ceremony",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Varanasi, India — Varanasi ghats sunrise",
+      "keywords": [
+        "Varanasi",
+        "India",
+        "Varanasi ghats sunrise",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Varanasi Varanasi ghats sunrise",
+      "pexelsQuery": "Varanasi Varanasi ghats sunrise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Varanasi, India — Dashashwamedh Ghat",
+      "keywords": [
+        "Varanasi",
+        "India",
+        "Dashashwamedh Ghat",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Varanasi Dashashwamedh Ghat",
+      "pexelsQuery": "Varanasi Dashashwamedh Ghat",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Varanasi, India — Ganges boat ride",
+      "keywords": [
+        "Varanasi",
+        "India",
+        "Ganges boat ride",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Varanasi Ganges boat ride",
+      "pexelsQuery": "Varanasi Ganges boat ride",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Varanasi, India — Sarnath Archaeological Museum",
+      "keywords": [
+        "Varanasi",
+        "India",
+        "Sarnath Archaeological Museum",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Varanasi Sarnath Archaeological Museum",
+      "pexelsQuery": "Varanasi Sarnath Archaeological Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Varanasi, India — Ramnagar Fort",
+      "keywords": [
+        "Varanasi",
+        "India",
+        "Ramnagar Fort",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Varanasi Ramnagar Fort",
+      "pexelsQuery": "Varanasi Ramnagar Fort",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Varanasi, India — Sarnath Dhamek Stupa complex",
+      "keywords": [
+        "Varanasi",
+        "India",
+        "Sarnath Dhamek Stupa complex",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Varanasi Sarnath Dhamek Stupa complex",
+      "pexelsQuery": "Varanasi Sarnath Dhamek Stupa complex",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Varanasi, India — Bharat Kala Bhavan Museum (BHU)",
+      "keywords": [
+        "Varanasi",
+        "India",
+        "Bharat Kala Bhavan Museum (BHU)",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Varanasi Bharat Kala Bhavan Museum (BHU)",
+      "pexelsQuery": "Varanasi Bharat Kala Bhavan Museum (BHU)",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-varanasi-7-1",
+      "author": "Liam Williams",
+      "country": "India",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-01-22",
+      "title": "Five stars, will return",
+      "body": "Our trip to Varanasi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Ganges sunrise boat ride was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-2",
+      "author": "James Müller",
+      "country": "United Kingdom",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-04",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Varanasi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Ramnagar Fort was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-3",
+      "author": "Daniel Sharma",
+      "country": "India",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-19",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Ganges sunrise boat ride and Kashi Vishwanath Temple corridor. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-varanasi-7-4",
+      "author": "Ava Sharma",
+      "country": "Japan",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-20",
+      "title": "Consultant made it effortless",
+      "body": "Dashashwamedh Ghat alone was worth the trip, but combined with Banaras Hindu University campus this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-5",
+      "author": "Ava Silva",
+      "country": "South Korea",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-07-26",
+      "title": "Luxury without the hassle",
+      "body": "Ganges evening boat ride for Ganga Aarti alone was worth the trip, but combined with Banaras Hindu University campus this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-6",
+      "author": "Elena Larsen",
+      "country": "Australia",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-04-16",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond Sarnath Dhamek Stupa complex and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-7",
+      "author": "David Wang",
+      "country": "Switzerland",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-02-26",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Varanasi is stunning and this package covered the essentials well, especially Banaras Hindu University campus. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-8",
+      "author": "Lukas Kowalski",
+      "country": "India",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-16",
+      "title": "Solid mid-range package",
+      "body": "Varanasi is stunning and this package covered the essentials well, especially Bharat Kala Bhavan Museum (BHU). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-9",
+      "author": "Sarah Sharma",
+      "country": "France",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-04-22",
+      "title": "Great for families with kids",
+      "body": "Varanasi is stunning and this package covered the essentials well, especially Bharat Kala Bhavan Museum (BHU). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-10",
+      "author": "Isabella van Dijk",
+      "country": "New Zealand",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-27",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Assi Ghat and Manikarnika Ghat. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-varanasi-7-11",
+      "author": "Sofia Andersen",
+      "country": "Italy",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-21",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a family of 4 trip and it was well paced. Vishwanath Gali in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-varanasi-7-12",
+      "author": "Liam Fernandez",
+      "country": "India",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-07-10",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Varanasi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Ganges sunrise boat ride was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-varanasi-7-13",
+      "author": "Fatima van Dijk",
+      "country": "France",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-29",
+      "title": "So many hidden gems included",
+      "body": "Bharat Kala Bhavan Museum (BHU) alone was worth the trip, but combined with Sarnath Archaeological Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-14",
+      "author": "Priya Dubois",
+      "country": "Brazil",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-03-04",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a couple trip and it was well paced. Manikarnika Ghat in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-15",
+      "author": "Wei Kowalski",
+      "country": "United Kingdom",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4.5,
+      "date": "2025-11-26",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a family of 4 trip and it was well paced. Sarnath Archaeological Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-16",
+      "author": "Fatima Rossi",
+      "country": "Canada",
+      "rating": 3.9,
+      "foodRating": 4.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-01-28",
+      "title": "Great value for money",
+      "body": "Ramnagar Fort alone was worth the trip, but combined with Banaras Hindu University campus this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-17",
+      "author": "Hiroshi Larsen",
+      "country": "Mexico",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-02-01",
+      "title": "Great value for money",
+      "body": "Vishwanath Gali alone was worth the trip, but combined with Man Mandir Ghat this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-18",
+      "author": "Nadia Santos",
+      "country": "United States",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-03-07",
+      "title": "Would book again in a heartbeat",
+      "body": "Varanasi is stunning and this package covered the essentials well, especially Sarnath Archaeological Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-19",
+      "author": "Ava Tanaka",
+      "country": "Singapore",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-16",
+      "title": "Highly recommend this package",
+      "body": "Ganges evening boat ride for Ganga Aarti alone was worth the trip, but combined with Sarnath Dhamek Stupa complex this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-varanasi-7-20",
+      "author": "David Sharma",
+      "country": "Netherlands",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-12-04",
+      "title": "Smooth from start to finish",
+      "body": "Varanasi is stunning and this package covered the essentials well, especially Kashi Vishwanath Temple corridor. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.2,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Varanasi Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 3,
+      "neighborhood": "Vishwanath Gali"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Varanasi Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 6,
+      "neighborhood": "Thatheri Bazaar (brassware)"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Varanasi Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Banarasi silk sari shops around Chowk"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Varanasi Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 23,
+      "neighborhood": "Godowlia Market"
+    },
+    {
+      "tier": "Resort",
+      "name": "Varanasi Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 60,
+      "neighborhood": "Ganga Aarti ceremony at Dashashwamedh Ghat"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Varanasi Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 126,
+      "neighborhood": "Classical music evenings near Assi Ghat"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Varanasi Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 150,
+      "neighborhood": "Riverside rooftop dinners overlooking the ghats"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        965,
+        1532
+      ],
+      "estimatedFlightHours": 17.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        954,
+        1515
+      ],
+      "estimatedFlightHours": 17.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        609,
+        967
+      ],
+      "estimatedFlightHours": 10.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        601,
+        954
+      ],
+      "estimatedFlightHours": 10.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        566,
+        899
+      ],
+      "estimatedFlightHours": 9.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        553,
+        879
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        651,
+        1034
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        583,
+        926
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        570,
+        905
+      ],
+      "estimatedFlightHours": 10,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        781,
+        1241
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        930,
+        1477
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        126,
+        200
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        472,
+        749
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        390,
+        620
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        328,
+        521
+      ],
+      "estimatedFlightHours": 5.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        238,
+        378
+      ],
+      "estimatedFlightHours": 3.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        306,
+        486
+      ],
+      "estimatedFlightHours": 5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        391,
+        621
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        375,
+        595
+      ],
+      "estimatedFlightHours": 6.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        291,
+        462
+      ],
+      "estimatedFlightHours": 4.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        277,
+        440
+      ],
+      "estimatedFlightHours": 4.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        340,
+        540
+      ],
+      "estimatedFlightHours": 5.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        304,
+        483
+      ],
+      "estimatedFlightHours": 5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        327,
+        520
+      ],
+      "estimatedFlightHours": 5.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        671,
+        1065
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1156,
+        1836
+      ],
+      "estimatedFlightHours": 21,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Lal Bahadur Shastri International Airport (VNS)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1163,
+        1847
+      ],
+      "estimatedFlightHours": 21.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Sarnath Archaeological Museum",
+    "Ramnagar Fort",
+    "Sarnath Dhamek Stupa complex",
+    "Bharat Kala Bhavan Museum (BHU)",
+    "Ganges sunrise boat ride",
+    "Ganges evening boat ride for Ganga Aarti",
+    "Dashashwamedh Ghat",
+    "Manikarnika Ghat",
+    "Assi Ghat",
+    "Kashi Vishwanath Temple corridor",
+    "Banaras Hindu University campus",
+    "Vishwanath Gali",
+    "Man Mandir Ghat",
+    "Sarnath",
+    "Chunar Fort",
+    "Vindhyachal Temple",
+    "Ramnagar Fort Museum",
+    "BHU campus gardens",
+    "Alfred Park (Company Bagh)",
+    "Sunrise boat ride facing the ghats",
+    "Ganga Aarti fire ceremony at dusk",
+    "Kashi Vishwanath Corridor",
+    "Manikarnika Ghat skyline (respectfully, from a distance)",
+    "Assi Ghat sunrise yoga"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Sarnath Archaeological Museum",
+      "priceUSD": 3
+    },
+    {
+      "name": "Ramnagar Fort",
+      "priceUSD": 4
+    },
+    {
+      "name": "Sarnath Dhamek Stupa complex",
+      "priceUSD": 1
+    },
+    {
+      "name": "Bharat Kala Bhavan Museum (BHU)",
+      "priceUSD": 2
+    },
+    {
+      "name": "Ganges sunrise boat ride",
+      "priceUSD": 6
+    },
+    {
+      "name": "Ganges evening boat ride for Ganga Aarti",
+      "priceUSD": 8
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Dashashwamedh Ghat",
+    "Manikarnika Ghat",
+    "Assi Ghat",
+    "Kashi Vishwanath Temple corridor",
+    "Banaras Hindu University campus",
+    "Vishwanath Gali",
+    "Man Mandir Ghat"
+  ],
+  "museums": [
+    "Bharat Kala Bhavan Museum (BHU)",
+    "Sarnath Archaeological Museum",
+    "Ramnagar Fort Museum"
+  ],
+  "parks": [
+    "BHU campus gardens",
+    "Alfred Park (Company Bagh)"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Sarnath",
+    "Chunar Fort",
+    "Vindhyachal Temple",
+    "Ramnagar Fort"
+  ],
+  "fromPriceUSD": 1435,
+  "seo": {
+    "title": "Varanasi 7-Day Cultural Tour | Flights, Hotels & Tours Included",
+    "slug": "varanasi-7-day-package",
+    "keywords": [
+      "Varanasi",
+      "India",
+      "Varanasi, India",
+      "North India",
+      "Varanasi tour package",
+      "Varanasi vacation package",
+      "Varanasi holiday package",
+      "things to do in Varanasi",
+      "best time to visit Varanasi",
+      "Varanasi itinerary",
+      "7 day Varanasi itinerary",
+      "Varanasi flights and hotels",
+      "Varanasi all inclusive package",
+      "cheap Varanasi package",
+      "luxury Varanasi package"
+    ],
+    "canonicalUrl": "/packages/varanasi-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Varanasi Package",
+        "url": "/packages/varanasi-5-day-package"
+      },
+      {
+        "title": "10-Day Varanasi Package",
+        "url": "/packages/varanasi-10-day-package"
+      },
+      {
+        "title": "Havana 7-Day City Break",
+        "url": "/packages/havana-7-day-package"
+      },
+      {
+        "title": "London 7-Day City Break",
+        "url": "/packages/london-7-day-package"
+      },
+      {
+        "title": "Rome 7-Day City Break",
+        "url": "/packages/rome-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Varanasi — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Varanasi"
+      },
+      {
+        "title": "Varanasi — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Varanasi"
+      }
+    ]
+  }
+}
