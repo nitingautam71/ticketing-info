@@ -1,0 +1,78 @@
+// Standalone Prisma Schema for Cruise Vertical
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model CruiseLine {
+  id               String   @id
+  name             String
+  slug             String   @unique
+  logoUrl          String?
+  category         String[]
+  riverCruise      Boolean
+  expeditionCruise Boolean
+  adultsOnly       Boolean
+  luxuryLevel      String
+  commissionRate   Float
+  hqCountry        String
+  description      String
+  keySellingPoints String[]
+  ships            Ship[]
+}
+
+model Ship {
+  id                String   @id
+  cruiseLineId      String
+  cruiseLineName    String
+  name              String
+  shipClass         String?
+  launchYear        Int
+  lastRenovation    Int?
+  passengerCapacity Int
+  crewSize          Int
+  tonnage           Float
+  lengthMeters      Float
+  decks             Int
+  totalCabins       Int
+  maxOccupancy      Int
+  averageAge        Float
+  rating            Float
+  description       String
+  features          String[]
+  cruiseLine        CruiseLine @relation(fields: [cruiseLineId], references: [id])
+}
+
+model CruisePort {
+  id                 String   @id
+  name               String
+  code               String
+  city               String
+  country            String
+  countryCode        String
+  region             String
+  lat                Float
+  lon                Float
+  overview           String
+  history            String?
+  thingsToDo         String[]
+  topAttractions     String[]
+  restaurants        String[]
+  shopping           String[]
+  beaches            String[]
+  museums            String[]
+  walkingTours       String[]
+  transportation     String
+  estimatedBudgetUSD Float
+  accessibility      String
+  safety             String
+  currency           String
+  languages          String[]
+  timeZone           String
+  visaSummary        String
+}

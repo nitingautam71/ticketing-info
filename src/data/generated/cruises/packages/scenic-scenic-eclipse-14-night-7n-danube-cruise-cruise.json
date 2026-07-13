@@ -1,0 +1,1591 @@
+{
+  "id": "PKG-CRUISE-SCENIC-SCENIC-ECLIPSE-14-NIGHT-7N-DANUBE-CRUISE-CRUISE",
+  "slug": "scenic-scenic-eclipse-14-night-7n-danube-cruise-cruise",
+  "title": "14-Night Danube River Classic Itinerary",
+  "cruiseName": "14-Night Danube River Classic Itinerary",
+  "cruiseLineId": "scenic",
+  "cruiseLineName": "Scenic Cruises",
+  "shipId": "scenic-eclipse",
+  "shipName": "Scenic Eclipse",
+  "shipSpecs": {
+    "name": "Scenic Eclipse",
+    "shipClass": "Discovery Yacht",
+    "launchYear": 2019,
+    "passengerCapacity": 228,
+    "crewSize": 176,
+    "tonnage": 17085,
+    "lengthMeters": 168,
+    "decks": 8,
+    "totalCabins": 114,
+    "maxOccupancy": 228,
+    "averageAge": 7,
+    "rating": 5
+  },
+  "categories": [
+    "River Cruises",
+    "Luxury Cruises",
+    "Expedition Cruises"
+  ],
+  "destination": "Danube River",
+  "departurePortId": "vienna-port",
+  "departurePortName": "Reichsbrücke Danube Port",
+  "arrivalPortId": "budapest-port",
+  "arrivalPortName": "Budapest River Cruise Terminal",
+  "durationNights": 14,
+  "embarkationTime": "12:00 PM - 03:30 PM",
+  "disembarkationTime": "07:00 AM - 09:30 AM",
+  "seaDays": 4,
+  "portDays": 11,
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "portId": "vienna-port",
+      "portName": "Vienna",
+      "arrivalTime": "Embarkation",
+      "departureTime": "Overnight",
+      "distanceKm": 0,
+      "activities": [
+        "Embarkation on river ship",
+        "Welcome cocktails with Captain",
+        "Evening tour of illuminated Vienna"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Fine Dining Room - Austrian Specialties"
+      ],
+      "eveningEntertainment": [
+        "Private Mozart & Strauss salon concert"
+      ]
+    },
+    {
+      "day": 2,
+      "portId": "vienna-port",
+      "portName": "Vienna",
+      "arrivalTime": "Overnight",
+      "departureTime": "06:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Tour Schönbrunn Palace",
+        "Sample Viennese coffee and cakes",
+        "Bike tour along the Ringstrasse"
+      ],
+      "suggestedExcursions": [
+        "Schönbrunn Palace Tour & Royal Gardens",
+        "Vienna Coffee House Culture Guided Walk"
+      ],
+      "diningRecommendations": [
+        "Traditional Viennese Café",
+        "Danube Fine Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Live music in lounge, cruising overnight"
+      ]
+    },
+    {
+      "day": 3,
+      "portName": "Dürnstein & Melk (Wachau Valley)",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "07:00 PM",
+      "distanceKm": 85,
+      "activities": [
+        "Hike up to Dürnstein Castle ruins",
+        "Taste Wachau Valley apricot specialties",
+        "Visit magnificent Melk Abbey"
+      ],
+      "suggestedExcursions": [
+        "Melk Abbey Guided Tour",
+        "Wachau Valley Wine Tasting & Bike Tour"
+      ],
+      "diningRecommendations": [
+        "Local Gasthof lunch",
+        "Fine Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Naturalist discussion of the Wachau wine region"
+      ]
+    },
+    {
+      "day": 4,
+      "portName": "Linz (Salzburg)",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "08:30 PM",
+      "distanceKm": 120,
+      "activities": [
+        "Full day trip to Salzburg (Sound of Music sights)",
+        "See Linz Old Town square",
+        "Taste Linzer Torte cake"
+      ],
+      "suggestedExcursions": [
+        "Full Day Excursion to Historic Salzburg",
+        "Linz Walking Tour & Cake Tasting Class"
+      ],
+      "diningRecommendations": [
+        "Cafe Jindrak (Linz)",
+        "Fine Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Onboard Bavarian musical trio performance"
+      ]
+    },
+    {
+      "day": 5,
+      "portName": "Bratislava",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 210,
+      "activities": [
+        "Walk old town center of Bratislava",
+        "Visit coronation cathedrals",
+        "Take road train to Bratislava Castle"
+      ],
+      "suggestedExcursions": [
+        "Bratislava Old Town Walking Tour",
+        "Castle Hill & Communist History Tour"
+      ],
+      "diningRecommendations": [
+        "Slovak Pub lunch",
+        "Fine Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Onboard team trivia contest"
+      ]
+    },
+    {
+      "day": 6,
+      "portId": "budapest-port",
+      "portName": "Budapest",
+      "arrivalTime": "09:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 130,
+      "activities": [
+        "Soak in Széchenyi thermal baths",
+        "Walk historic Castle Hill of Buda",
+        "Explore Great Market Hall"
+      ],
+      "suggestedExcursions": [
+        "Budapest City Highlights & Buda Castle Tour",
+        "Széchenyi Thermal Baths Relaxation Excursion"
+      ],
+      "diningRecommendations": [
+        "Great Market Hall food stalls",
+        "Fine Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Illuminated Danube Night Cruise"
+      ]
+    },
+    {
+      "day": 7,
+      "portId": "budapest-port",
+      "portName": "Budapest",
+      "arrivalTime": "Overnight",
+      "departureTime": "Overnight",
+      "distanceKm": 0,
+      "activities": [
+        "See Parliament building interior",
+        "Visit Hospital in the Rock nuclear bunker museum",
+        "Relax in Margitsziget park"
+      ],
+      "suggestedExcursions": [
+        "Hungarian Parliament Guided Tour",
+        "Jewish Quarter Synagogue & Ruin Bar Tour"
+      ],
+      "diningRecommendations": [
+        "Borkonyha Winekitchen dinner",
+        "Fine Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Local gypsy band music performance in lounge"
+      ]
+    },
+    {
+      "day": 8,
+      "portId": "budapest-port",
+      "portName": "Budapest",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 0,
+      "activities": [
+        "Breakfast on ship",
+        "Disembark and transfer to airport"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 9,
+      "portId": "vienna-port",
+      "portName": "Vienna",
+      "arrivalTime": "Embarkation",
+      "departureTime": "Overnight",
+      "distanceKm": 0,
+      "activities": [
+        "Embarkation on river ship",
+        "Welcome cocktails with Captain",
+        "Evening tour of illuminated Vienna"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Fine Dining Room - Austrian Specialties"
+      ],
+      "eveningEntertainment": [
+        "Private Mozart & Strauss salon concert"
+      ]
+    },
+    {
+      "day": 10,
+      "portId": "vienna-port",
+      "portName": "Vienna",
+      "arrivalTime": "Overnight",
+      "departureTime": "06:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Tour Schönbrunn Palace",
+        "Sample Viennese coffee and cakes",
+        "Bike tour along the Ringstrasse"
+      ],
+      "suggestedExcursions": [
+        "Schönbrunn Palace Tour & Royal Gardens",
+        "Vienna Coffee House Culture Guided Walk"
+      ],
+      "diningRecommendations": [
+        "Traditional Viennese Café",
+        "Danube Fine Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Live music in lounge, cruising overnight"
+      ]
+    },
+    {
+      "day": 11,
+      "portName": "Dürnstein & Melk (Wachau Valley)",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "07:00 PM",
+      "distanceKm": 85,
+      "activities": [
+        "Hike up to Dürnstein Castle ruins",
+        "Taste Wachau Valley apricot specialties",
+        "Visit magnificent Melk Abbey"
+      ],
+      "suggestedExcursions": [
+        "Melk Abbey Guided Tour",
+        "Wachau Valley Wine Tasting & Bike Tour"
+      ],
+      "diningRecommendations": [
+        "Local Gasthof lunch",
+        "Fine Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Naturalist discussion of the Wachau wine region"
+      ]
+    },
+    {
+      "day": 12,
+      "portName": "Linz (Salzburg)",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "08:30 PM",
+      "distanceKm": 120,
+      "activities": [
+        "Full day trip to Salzburg (Sound of Music sights)",
+        "See Linz Old Town square",
+        "Taste Linzer Torte cake"
+      ],
+      "suggestedExcursions": [
+        "Full Day Excursion to Historic Salzburg",
+        "Linz Walking Tour & Cake Tasting Class"
+      ],
+      "diningRecommendations": [
+        "Cafe Jindrak (Linz)",
+        "Fine Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Onboard Bavarian musical trio performance"
+      ]
+    },
+    {
+      "day": 13,
+      "portName": "Bratislava",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 210,
+      "activities": [
+        "Walk old town center of Bratislava",
+        "Visit coronation cathedrals",
+        "Take road train to Bratislava Castle"
+      ],
+      "suggestedExcursions": [
+        "Bratislava Old Town Walking Tour",
+        "Castle Hill & Communist History Tour"
+      ],
+      "diningRecommendations": [
+        "Slovak Pub lunch",
+        "Fine Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Onboard team trivia contest"
+      ]
+    },
+    {
+      "day": 14,
+      "portId": "budapest-port",
+      "portName": "Budapest",
+      "arrivalTime": "09:00 AM",
+      "departureTime": "Overnight",
+      "distanceKm": 130,
+      "activities": [
+        "Soak in Széchenyi thermal baths",
+        "Walk historic Castle Hill of Buda",
+        "Explore Great Market Hall"
+      ],
+      "suggestedExcursions": [
+        "Budapest City Highlights & Buda Castle Tour",
+        "Széchenyi Thermal Baths Relaxation Excursion"
+      ],
+      "diningRecommendations": [
+        "Great Market Hall food stalls",
+        "Fine Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Illuminated Danube Night Cruise"
+      ]
+    },
+    {
+      "day": 15,
+      "portId": "budapest-port",
+      "portName": "Budapest",
+      "arrivalTime": "Disembarkation",
+      "departureTime": "Disembarkation",
+      "distanceKm": 0,
+      "activities": [
+        "See Parliament building interior",
+        "Visit Hospital in the Rock nuclear bunker museum",
+        "Relax in Margitsziget park"
+      ],
+      "suggestedExcursions": [
+        "Hungarian Parliament Guided Tour",
+        "Jewish Quarter Synagogue & Ruin Bar Tour"
+      ],
+      "diningRecommendations": [
+        "Borkonyha Winekitchen dinner",
+        "Fine Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Local gypsy band music performance in lounge"
+      ]
+    }
+  ],
+  "shoreExcursions": [
+    {
+      "id": "EXC-vienna-0",
+      "name": "Scenic Route of Vienna",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 209,
+      "description": "A wonderful half-day tours exploring the sights of Vienna. This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-vienna-1",
+      "name": "Highlights of Vienna",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 118,
+      "description": "A wonderful full-day tours exploring the sights of Vienna. This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-d-rnstein---melk--wachau-valley--2",
+      "name": "Best of Dürnstein & Melk (Wachau Valley)",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Dürnstein & Melk (Wachau Valley). This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-linz--salzburg--3",
+      "name": "Highlights of Linz (Salzburg)",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 110,
+      "description": "A wonderful full-day tours exploring the sights of Linz (Salzburg). This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-bratislava-4",
+      "name": "Discover Bratislava",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 154,
+      "description": "A wonderful full-day tours exploring the sights of Bratislava. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-budapest-5",
+      "name": "Scenic Route of Budapest",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 193,
+      "description": "A wonderful half-day tours exploring the sights of Budapest. This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-budapest-6",
+      "name": "Best of Budapest",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Budapest. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-budapest-7",
+      "name": "Adventure in Budapest",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 179,
+      "description": "A wonderful half-day tours exploring the sights of Budapest. This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-vienna-8",
+      "name": "Scenic Route of Vienna",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 223,
+      "description": "A wonderful half-day tours exploring the sights of Vienna. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-vienna-9",
+      "name": "Secrets of Vienna",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 249,
+      "description": "A wonderful half-day tours exploring the sights of Vienna. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-d-rnstein---melk--wachau-valley--10",
+      "name": "Scenic Route of Dürnstein & Melk (Wachau Valley)",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 225,
+      "description": "A wonderful half-day tours exploring the sights of Dürnstein & Melk (Wachau Valley). This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-linz--salzburg--11",
+      "name": "Highlights of Linz (Salzburg)",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 92,
+      "description": "A wonderful full-day tours exploring the sights of Linz (Salzburg). This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-bratislava-12",
+      "name": "Secrets of Bratislava",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 251,
+      "description": "A wonderful half-day tours exploring the sights of Bratislava. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-budapest-13",
+      "name": "Best of Budapest",
+      "type": "Paid Excursions",
+      "duration": "Full-Day Tours",
+      "priceUSD": 72,
+      "description": "A wonderful full-day tours exploring the sights of Budapest. This paid excursions covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-budapest-14",
+      "name": "Scenic Route of Budapest",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 222,
+      "description": "A wonderful half-day tours exploring the sights of Budapest. This food tours covers main landmarks, guided by a local historian."
+    }
+  ],
+  "onboardExperience": {
+    "restaurants": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "specialtyDining": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian",
+      "Jacques French Bistro",
+      "Red Ginger Pan-Asian"
+    ],
+    "bars": [
+      "Schooner Piano Bar",
+      "Pool Bar",
+      "Sunset Lounge"
+    ],
+    "lounges": [
+      "Viking Crown Lounge",
+      "Explorer's Lounge"
+    ],
+    "pools": 1,
+    "waterParks": false,
+    "casino": false,
+    "spa": true,
+    "fitnessCenter": true,
+    "kidsClub": false,
+    "teenClub": false,
+    "theater": false,
+    "broadwayShows": [],
+    "comedy": false,
+    "nightclubs": false,
+    "shopping": [
+      "Boutique Gift Shop"
+    ],
+    "artGallery": false,
+    "sportsFeatures": [
+      "Fitness jogging track",
+      "Shuffleboard"
+    ],
+    "movieTheater": false,
+    "library": true,
+    "businessCenter": true,
+    "medicalCenter": true,
+    "weddingChapel": false
+  },
+  "dining": {
+    "complimentary": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "buffets": [
+      "Main Lounge Buffet"
+    ],
+    "specialty": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian",
+      "Jacques French Bistro",
+      "Red Ginger Pan-Asian"
+    ],
+    "chefsTable": false,
+    "roomService": "24-hour complimentary room service available (late-night service fee may apply on some tiers)",
+    "dietaryOptions": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": false,
+      "kosher": false,
+      "glutenFree": true
+    },
+    "kidsMenu": true
+  },
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Luxury cruise ship Scenic Eclipse sailing in Danube River",
+      "keywords": [
+        "Scenic Eclipse",
+        "Danube River",
+        "cruise ship"
+      ],
+      "unsplashQuery": "cruise ship danube river",
+      "pexelsQuery": "cruise ship danube river"
+    },
+    {
+      "role": "ship",
+      "altText": "Scenic Eclipse cruise ship deck view and design",
+      "keywords": [
+        "Scenic Eclipse",
+        "exterior",
+        "cruise deck"
+      ],
+      "unsplashQuery": "cruise ship deck",
+      "pexelsQuery": "cruise ship exterior"
+    },
+    {
+      "role": "cabin",
+      "altText": "Balcony stateroom cabin on board Scenic Eclipse",
+      "keywords": [
+        "cruise cabin",
+        "stateroom",
+        "balcony room"
+      ],
+      "unsplashQuery": "cruise cabin",
+      "pexelsQuery": "hotel room balcony view"
+    },
+    {
+      "role": "restaurant",
+      "altText": "Gourmet fine dining restaurant onboard cruise ship",
+      "keywords": [
+        "cruise dining",
+        "restaurant",
+        "fine dining"
+      ],
+      "unsplashQuery": "fine dining restaurant",
+      "pexelsQuery": "luxury restaurant"
+    },
+    {
+      "role": "pool",
+      "altText": "Main resort-style swimming pool on the ship deck",
+      "keywords": [
+        "cruise pool",
+        "swimming pool",
+        "deck pools"
+      ],
+      "unsplashQuery": "cruise ship pool",
+      "pexelsQuery": "resort pool"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-1",
+      "author": "Guest Traveler 1",
+      "country": "Canada",
+      "date": "2026-07-08",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-2",
+      "author": "Guest Traveler 2",
+      "country": "Canada",
+      "date": "2026-07-03",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-3",
+      "author": "Guest Traveler 3",
+      "country": "Australia",
+      "date": "2026-06-28",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-4",
+      "author": "Guest Traveler 4",
+      "country": "Singapore",
+      "date": "2026-06-23",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-5",
+      "author": "Guest Traveler 5",
+      "country": "Germany",
+      "date": "2026-06-18",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-6",
+      "author": "Guest Traveler 6",
+      "country": "United Kingdom",
+      "date": "2026-06-13",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-7",
+      "author": "Guest Traveler 7",
+      "country": "United Kingdom",
+      "date": "2026-06-08",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-8",
+      "author": "Guest Traveler 8",
+      "country": "United Kingdom",
+      "date": "2026-06-03",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 3.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-9",
+      "author": "Guest Traveler 9",
+      "country": "Canada",
+      "date": "2026-05-29",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-10",
+      "author": "Guest Traveler 10",
+      "country": "Germany",
+      "date": "2026-05-24",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-11",
+      "author": "Guest Traveler 11",
+      "country": "Australia",
+      "date": "2026-05-19",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-12",
+      "author": "Guest Traveler 12",
+      "country": "Germany",
+      "date": "2026-05-14",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-13",
+      "author": "Guest Traveler 13",
+      "country": "United States",
+      "date": "2026-05-09",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-14",
+      "author": "Guest Traveler 14",
+      "country": "United Kingdom",
+      "date": "2026-05-04",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-15",
+      "author": "Guest Traveler 15",
+      "country": "Australia",
+      "date": "2026-04-29",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-16",
+      "author": "Guest Traveler 16",
+      "country": "Canada",
+      "date": "2026-04-24",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-17",
+      "author": "Guest Traveler 17",
+      "country": "United Kingdom",
+      "date": "2026-04-19",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-18",
+      "author": "Guest Traveler 18",
+      "country": "Australia",
+      "date": "2026-04-14",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-19",
+      "author": "Guest Traveler 19",
+      "country": "United Kingdom",
+      "date": "2026-04-09",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-20",
+      "author": "Guest Traveler 20",
+      "country": "United States",
+      "date": "2026-04-04",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-21",
+      "author": "Guest Traveler 21",
+      "country": "Germany",
+      "date": "2026-03-30",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-22",
+      "author": "Guest Traveler 22",
+      "country": "Germany",
+      "date": "2026-03-25",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-23",
+      "author": "Guest Traveler 23",
+      "country": "Australia",
+      "date": "2026-03-20",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-24",
+      "author": "Guest Traveler 24",
+      "country": "Singapore",
+      "date": "2026-03-15",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-25",
+      "author": "Guest Traveler 25",
+      "country": "Australia",
+      "date": "2026-03-10",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-26",
+      "author": "Guest Traveler 26",
+      "country": "Singapore",
+      "date": "2026-03-05",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-27",
+      "author": "Guest Traveler 27",
+      "country": "Australia",
+      "date": "2026-02-28",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-28",
+      "author": "Guest Traveler 28",
+      "country": "Australia",
+      "date": "2026-02-23",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-29",
+      "author": "Guest Traveler 29",
+      "country": "Germany",
+      "date": "2026-02-18",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-14-night-danube-river-classic-itinerary-30",
+      "author": "Guest Traveler 30",
+      "country": "United Kingdom",
+      "date": "2026-02-13",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 14-Night Danube River Classic Itinerary and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 3.5,
+        "cleanliness": 3.5,
+        "value": 3.5,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    }
+  ],
+  "seo": {
+    "title": "14-Night Danube River Classic Itinerary | Scenic Eclipse | Scenic Cruises",
+    "slug": "scenic-scenic-eclipse-14-night-7n-danube-cruise-cruise",
+    "metaDescription": "Book a 14-night Danube River cruise onboard Scenic Eclipse of Scenic Cruises. Visiting Vienna, Vienna, Dürnstein & Melk (Wachau Valley). Standard & luxury cabins available. Get a quote today.",
+    "keywords": [
+      "Danube River cruise",
+      "Scenic Cruises packages",
+      "Scenic Eclipse staterooms",
+      "14 day cruise deals",
+      "cruise vacation"
+    ],
+    "canonicalUrl": "/cruises/scenic-scenic-eclipse-14-night-7n-danube-cruise-cruise",
+    "openGraph": {
+      "title": "14-Night Danube River Classic Itinerary - Scenic Cruises",
+      "description": "Book a 14-night Danube River cruise onboard Scenic Eclipse of Scenic Cruises. Visiting Vienna, Vienna, Dürnstein & Melk (Wachau Valley). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/scenic-eclipse-hero.jpg",
+      "type": "website"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "title": "14-Night Danube River Classic Itinerary - Scenic Cruises",
+      "description": "Book a 14-night Danube River cruise onboard Scenic Eclipse of Scenic Cruises. Visiting Vienna, Vienna, Dürnstein & Melk (Wachau Valley). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/scenic-eclipse-hero.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "14-Night Danube River Classic Itinerary",
+      "description": "Book a 14-night Danube River cruise onboard Scenic Eclipse of Scenic Cruises. Visiting Vienna, Vienna, Dürnstein & Melk (Wachau Valley). Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/scenic-eclipse-hero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "5189",
+        "highPrice": "20756",
+        "offerCount": "10",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Interior Cabin",
+            "price": "5189",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ocean View",
+            "price": "6443",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Balcony Cabin",
+            "price": "8199",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Junior Suite",
+            "price": "10708",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Suite",
+            "price": "14218",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Suite",
+            "price": "21240",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Owner's Suite",
+            "price": "32777",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Family Cabin",
+            "price": "9954",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Accessible Cabin",
+            "price": "5690",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Solo Cabin",
+            "price": "4437",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "reviewCount": "30"
+      }
+    }
+  },
+  "aiSearchTags": [
+    "danube river cruise",
+    "scenic cruises",
+    "scenic eclipse",
+    "14 night cruise",
+    "reichsbrücke danube port departure",
+    "budapest river cruise terminal arrival",
+    "family friendly cruise",
+    "river cruise",
+    "luxury cruise",
+    "balcony cabin available",
+    "all inclusive options",
+    "kids club onboard",
+    "specialty dining included",
+    "shore excursions available",
+    "visit vienna",
+    "visit vienna",
+    "visit dürnstein & melk (wachau valley)",
+    "visit linz (salzburg)",
+    "visit bratislava",
+    "visit budapest",
+    "visit budapest",
+    "visit budapest",
+    "visit vienna",
+    "visit vienna",
+    "visit dürnstein & melk (wachau valley)",
+    "visit linz (salzburg)",
+    "visit bratislava",
+    "visit budapest",
+    "visit budapest",
+    "eat at pinnacle grill steakhouse",
+    "eat at tuscan grille italian",
+    "eat at jacques french bistro",
+    "eat at red ginger pan-asian",
+    "onboard fitness jogging track",
+    "onboard shuffleboard",
+    "cruise discount tag 35",
+    "cruise discount tag 36",
+    "cruise discount tag 37",
+    "cruise discount tag 38",
+    "cruise discount tag 39",
+    "cruise discount tag 40",
+    "cruise discount tag 41",
+    "cruise discount tag 42",
+    "cruise discount tag 43",
+    "cruise discount tag 44",
+    "cruise discount tag 45",
+    "cruise discount tag 46",
+    "cruise discount tag 47",
+    "cruise discount tag 48",
+    "cruise discount tag 49",
+    "cruise discount tag 50",
+    "cruise discount tag 51",
+    "cruise discount tag 52",
+    "cruise discount tag 53",
+    "cruise discount tag 54",
+    "cruise discount tag 55",
+    "cruise discount tag 56",
+    "cruise discount tag 57",
+    "cruise discount tag 58",
+    "cruise discount tag 59",
+    "cruise discount tag 60",
+    "cruise discount tag 61",
+    "cruise discount tag 62",
+    "cruise discount tag 63",
+    "cruise discount tag 64",
+    "cruise discount tag 65",
+    "cruise discount tag 66",
+    "cruise discount tag 67",
+    "cruise discount tag 68",
+    "cruise discount tag 69",
+    "cruise discount tag 70",
+    "cruise discount tag 71",
+    "cruise discount tag 72",
+    "cruise discount tag 73",
+    "cruise discount tag 74"
+  ],
+  "filters": {
+    "cruiseLine": [
+      "Scenic Cruises"
+    ],
+    "ship": [
+      "Scenic Eclipse"
+    ],
+    "shipClass": [
+      "Discovery Yacht"
+    ],
+    "destination": [
+      "Danube River"
+    ],
+    "departurePort": [
+      "Reichsbrücke Danube Port"
+    ],
+    "arrivalPort": [
+      "Budapest River Cruise Terminal"
+    ],
+    "cabinType": [
+      "Interior Cabin",
+      "Ocean View",
+      "Balcony Cabin",
+      "Suite"
+    ],
+    "duration": [
+      "9-14 Nights"
+    ],
+    "budget": [
+      "Premium"
+    ],
+    "luxury": true,
+    "family": true,
+    "adultsOnly": false,
+    "accessible": true,
+    "petFriendly": false,
+    "riverCruise": true,
+    "oceanCruise": false,
+    "expedition": true,
+    "season": [
+      "Summer",
+      "Winter"
+    ],
+    "month": [
+      "March",
+      "July"
+    ],
+    "schoolHolidays": true,
+    "christmas": false,
+    "newYear": false,
+    "summer": true,
+    "winter": false,
+    "spring": false,
+    "autumn": false,
+    "visaRequired": false,
+    "noVisa": false,
+    "wheelchairAccessible": true,
+    "internetIncluded": true,
+    "drinksIncluded": true,
+    "flightsIncluded": true,
+    "transfersIncluded": true
+  },
+  "ratings": {
+    "overall": 4.4,
+    "cabin": 4.5,
+    "dining": 4.4,
+    "entertainment": 4.5,
+    "service": 4.5,
+    "excursion": 4.5,
+    "cleanliness": 4.5,
+    "value": 4.3,
+    "internet": 4.4,
+    "family": 4.4,
+    "luxury": 4.5,
+    "reviewCount": 30
+  },
+  "fromPriceUSD": 5189
+}

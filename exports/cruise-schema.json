@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CruisePackage",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "cruiseLineName": {
+      "type": "string"
+    },
+    "shipName": {
+      "type": "string"
+    },
+    "destination": {
+      "type": "string"
+    },
+    "durationNights": {
+      "type": "integer"
+    },
+    "fromPriceUSD": {
+      "type": "number"
+    },
+    "ratingOverall": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "id",
+    "slug",
+    "title",
+    "cruiseLineName",
+    "shipName",
+    "destination",
+    "durationNights",
+    "fromPriceUSD"
+  ]
+}

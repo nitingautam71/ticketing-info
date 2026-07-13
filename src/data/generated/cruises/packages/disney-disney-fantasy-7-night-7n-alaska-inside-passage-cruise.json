@@ -1,0 +1,1367 @@
+{
+  "id": "PKG-CRUISE-DISNEY-DISNEY-FANTASY-7-NIGHT-7N-ALASKA-INSIDE-PASSAGE-CRUISE",
+  "slug": "disney-disney-fantasy-7-night-7n-alaska-inside-passage-cruise",
+  "title": "7-Night Alaska Inside Passage Voyage",
+  "cruiseName": "7-Night Alaska Inside Passage Voyage",
+  "cruiseLineId": "disney",
+  "cruiseLineName": "Disney Cruise Line",
+  "shipId": "disney-fantasy",
+  "shipName": "Disney Fantasy",
+  "shipSpecs": {
+    "name": "Disney Fantasy",
+    "shipClass": "Dream Class",
+    "launchYear": 2012,
+    "passengerCapacity": 2500,
+    "crewSize": 1450,
+    "tonnage": 129690,
+    "lengthMeters": 340,
+    "decks": 14,
+    "totalCabins": 1250,
+    "maxOccupancy": 4000,
+    "averageAge": 14,
+    "rating": 4.7
+  },
+  "categories": [
+    "Ocean Cruises",
+    "Family Cruises"
+  ],
+  "destination": "Alaska",
+  "departurePortId": "seattle-port",
+  "departurePortName": "Bell Street Pier & Smith Cove Terminals",
+  "arrivalPortId": "seattle-port",
+  "arrivalPortName": "Bell Street Pier & Smith Cove Terminals",
+  "durationNights": 7,
+  "embarkationTime": "12:00 PM - 03:30 PM",
+  "disembarkationTime": "07:00 AM - 09:30 AM",
+  "seaDays": 2,
+  "portDays": 6,
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "portId": "seattle-port",
+      "portName": "Seattle",
+      "arrivalTime": "Embarkation",
+      "departureTime": "04:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cruise orientation",
+        "Enjoy Seattle skyline sailaway",
+        "Hot tub relaxation"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Poolside grill"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard musical performance"
+      ]
+    },
+    {
+      "day": 2,
+      "portName": "Cruising the Inside Passage",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 620,
+      "activities": [
+        "Wildlife watching (binoculars provided)",
+        "Alaska naturalist presentation",
+        "Indoor warm pool swimming"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Seafood Restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Casino slots tournament",
+        "Acoustic lounge music"
+      ]
+    },
+    {
+      "day": 3,
+      "portId": "juneau",
+      "portName": "Juneau",
+      "arrivalTime": "12:00 PM",
+      "departureTime": "10:00 PM",
+      "distanceKm": 580,
+      "activities": [
+        "See massive Mendenhall Glacier",
+        "Go whale watching for humpbacks",
+        "Ride Goldbelt Tramway to mountain tops"
+      ],
+      "suggestedExcursions": [
+        "Mendenhall Glacier & Whale Watching Combo",
+        "Dog Sledding on Mendenhall Glacier by Helicopter"
+      ],
+      "diningRecommendations": [
+        "Tracy's King Crab Shack",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Red Dog Saloon historic tavern drinks"
+      ]
+    },
+    {
+      "day": 4,
+      "portName": "Skagway",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "08:30 PM",
+      "distanceKm": 150,
+      "activities": [
+        "Ride historic White Pass & Yukon Route Railroad",
+        "Explore gold rush town shops",
+        "Tour historical brothel saloons"
+      ],
+      "suggestedExcursions": [
+        "White Pass & Yukon Route Scenic Railroad",
+        "Gold Rush History and Sled Dog Camp Tour"
+      ],
+      "diningRecommendations": [
+        "Red Onion Saloon lunch",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Naturalist Q&A",
+        "Trivia night in lounge"
+      ]
+    },
+    {
+      "day": 5,
+      "portName": "Endicott Arm & Dawes Glacier",
+      "arrivalTime": "05:00 AM",
+      "departureTime": "10:00 AM",
+      "distanceKm": 180,
+      "activities": [
+        "Scenic glacier fjord cruising",
+        "Photograph icebergs and waterfalls",
+        "Naturalist talks on helicopter deck"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Observation Lounge morning hot chocolate",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Outdoor Movies on deck (wrapped in blankets)"
+      ]
+    },
+    {
+      "day": 6,
+      "portName": "Ketchikan",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "01:00 PM",
+      "distanceKm": 340,
+      "activities": [
+        "Visit historic Creek Street boardwalk",
+        "See totem poles in Saxman Native Village",
+        "Hike through rainforests"
+      ],
+      "suggestedExcursions": [
+        "Creek Street & Totem Heritage Center Tour",
+        "Great Alaskan Lumberjack Show Tour"
+      ],
+      "diningRecommendations": [
+        "Alaska Fish House lunch",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Karaoke and piano lounge music"
+      ]
+    },
+    {
+      "day": 7,
+      "portName": "Victoria (British Columbia)",
+      "arrivalTime": "07:30 PM",
+      "departureTime": "11:59 PM",
+      "distanceKm": 980,
+      "activities": [
+        "Explore illuminated Parliament Buildings",
+        "Walk around Inner Harbour",
+        "Visit Butchart Gardens (night tour)"
+      ],
+      "suggestedExcursions": [
+        "Butchart Gardens at Night Excursion",
+        "Historic Victoria City Highlights Tour"
+      ],
+      "diningRecommendations": [
+        "Empress Hotel afternoon high tea (early dinner)",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Late night DJ dance party"
+      ]
+    },
+    {
+      "day": 8,
+      "portId": "seattle-port",
+      "portName": "Seattle",
+      "arrivalTime": "Disembarkation",
+      "departureTime": "Disembarkation",
+      "distanceKm": 120,
+      "activities": [
+        "Final breakfast",
+        "Customs and transfer to SeaTac airport"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    }
+  ],
+  "shoreExcursions": [
+    {
+      "id": "EXC-seattle-0",
+      "name": "Adventure in Seattle",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 162,
+      "description": "A wonderful half-day tours exploring the sights of Seattle. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-cruising-the-inside-passage-1",
+      "name": "Best of Cruising the Inside Passage",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Cruising the Inside Passage. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-juneau-2",
+      "name": "Best of Juneau",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Juneau. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-skagway-3",
+      "name": "Scenic Route of Skagway",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 193,
+      "description": "A wonderful half-day tours exploring the sights of Skagway. This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-endicott-arm---dawes-glacier-4",
+      "name": "Highlights of Endicott Arm & Dawes Glacier",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 103,
+      "description": "A wonderful full-day tours exploring the sights of Endicott Arm & Dawes Glacier. This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-ketchikan-5",
+      "name": "Discover Ketchikan",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 148,
+      "description": "A wonderful full-day tours exploring the sights of Ketchikan. This family activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-victoria--british-columbia--6",
+      "name": "Secrets of Victoria (British Columbia)",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 230,
+      "description": "A wonderful half-day tours exploring the sights of Victoria (British Columbia). This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-seattle-7",
+      "name": "Discover Seattle",
+      "type": "Family Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 137,
+      "description": "A wonderful full-day tours exploring the sights of Seattle. This family activities covers main landmarks, guided by a local historian."
+    }
+  ],
+  "onboardExperience": {
+    "restaurants": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "specialtyDining": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "bars": [
+      "Schooner Piano Bar",
+      "Pool Bar",
+      "Sunset Lounge"
+    ],
+    "lounges": [
+      "Viking Crown Lounge",
+      "Explorer's Lounge"
+    ],
+    "pools": 2,
+    "waterParks": false,
+    "casino": true,
+    "spa": true,
+    "fitnessCenter": true,
+    "kidsClub": true,
+    "teenClub": false,
+    "theater": true,
+    "broadwayShows": [
+      "Jersey Boys"
+    ],
+    "comedy": true,
+    "nightclubs": true,
+    "shopping": [
+      "Boutique Gift Shop"
+    ],
+    "artGallery": true,
+    "sportsFeatures": [
+      "Fitness jogging track",
+      "Shuffleboard"
+    ],
+    "movieTheater": true,
+    "library": true,
+    "businessCenter": true,
+    "medicalCenter": true,
+    "weddingChapel": true
+  },
+  "dining": {
+    "complimentary": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "buffets": [
+      "Lido Buffet",
+      "Windjammer Café"
+    ],
+    "specialty": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "chefsTable": true,
+    "roomService": "24-hour complimentary room service available (late-night service fee may apply on some tiers)",
+    "dietaryOptions": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": true,
+      "kosher": true,
+      "glutenFree": true
+    },
+    "kidsMenu": true
+  },
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Luxury cruise ship Disney Fantasy sailing in Alaska",
+      "keywords": [
+        "Disney Fantasy",
+        "Alaska",
+        "cruise ship"
+      ],
+      "unsplashQuery": "cruise ship alaska",
+      "pexelsQuery": "cruise ship alaska"
+    },
+    {
+      "role": "ship",
+      "altText": "Disney Fantasy cruise ship deck view and design",
+      "keywords": [
+        "Disney Fantasy",
+        "exterior",
+        "cruise deck"
+      ],
+      "unsplashQuery": "cruise ship deck",
+      "pexelsQuery": "cruise ship exterior"
+    },
+    {
+      "role": "cabin",
+      "altText": "Balcony stateroom cabin on board Disney Fantasy",
+      "keywords": [
+        "cruise cabin",
+        "stateroom",
+        "balcony room"
+      ],
+      "unsplashQuery": "cruise cabin",
+      "pexelsQuery": "hotel room balcony view"
+    },
+    {
+      "role": "restaurant",
+      "altText": "Gourmet fine dining restaurant onboard cruise ship",
+      "keywords": [
+        "cruise dining",
+        "restaurant",
+        "fine dining"
+      ],
+      "unsplashQuery": "fine dining restaurant",
+      "pexelsQuery": "luxury restaurant"
+    },
+    {
+      "role": "pool",
+      "altText": "Main resort-style swimming pool on the ship deck",
+      "keywords": [
+        "cruise pool",
+        "swimming pool",
+        "deck pools"
+      ],
+      "unsplashQuery": "cruise ship pool",
+      "pexelsQuery": "resort pool"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-1",
+      "author": "Guest Traveler 1",
+      "country": "Canada",
+      "date": "2026-07-08",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-2",
+      "author": "Guest Traveler 2",
+      "country": "United States",
+      "date": "2026-07-03",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 3.5,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-3",
+      "author": "Guest Traveler 3",
+      "country": "United Kingdom",
+      "date": "2026-06-28",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 3.5,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-4",
+      "author": "Guest Traveler 4",
+      "country": "United States",
+      "date": "2026-06-23",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 3.5,
+        "service": 4,
+        "excursion": 3.5,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 3.5,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-5",
+      "author": "Guest Traveler 5",
+      "country": "Singapore",
+      "date": "2026-06-18",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-6",
+      "author": "Guest Traveler 6",
+      "country": "United Kingdom",
+      "date": "2026-06-13",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-7",
+      "author": "Guest Traveler 7",
+      "country": "Canada",
+      "date": "2026-06-08",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-8",
+      "author": "Guest Traveler 8",
+      "country": "United States",
+      "date": "2026-06-03",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 3.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 3.5,
+        "excursion": 3.5,
+        "cleanliness": 3.5,
+        "value": 3.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-9",
+      "author": "Guest Traveler 9",
+      "country": "United States",
+      "date": "2026-05-29",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-10",
+      "author": "Guest Traveler 10",
+      "country": "United States",
+      "date": "2026-05-24",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-11",
+      "author": "Guest Traveler 11",
+      "country": "Germany",
+      "date": "2026-05-19",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-12",
+      "author": "Guest Traveler 12",
+      "country": "Canada",
+      "date": "2026-05-14",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-13",
+      "author": "Guest Traveler 13",
+      "country": "United States",
+      "date": "2026-05-09",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 3.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-14",
+      "author": "Guest Traveler 14",
+      "country": "Canada",
+      "date": "2026-05-04",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-15",
+      "author": "Guest Traveler 15",
+      "country": "Australia",
+      "date": "2026-04-29",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-16",
+      "author": "Guest Traveler 16",
+      "country": "Canada",
+      "date": "2026-04-24",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-17",
+      "author": "Guest Traveler 17",
+      "country": "Australia",
+      "date": "2026-04-19",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-18",
+      "author": "Guest Traveler 18",
+      "country": "United Kingdom",
+      "date": "2026-04-14",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-19",
+      "author": "Guest Traveler 19",
+      "country": "Australia",
+      "date": "2026-04-09",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-20",
+      "author": "Guest Traveler 20",
+      "country": "Australia",
+      "date": "2026-04-04",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-21",
+      "author": "Guest Traveler 21",
+      "country": "Singapore",
+      "date": "2026-03-30",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-22",
+      "author": "Guest Traveler 22",
+      "country": "Singapore",
+      "date": "2026-03-25",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-23",
+      "author": "Guest Traveler 23",
+      "country": "Singapore",
+      "date": "2026-03-20",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-24",
+      "author": "Guest Traveler 24",
+      "country": "United Kingdom",
+      "date": "2026-03-15",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 3.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-25",
+      "author": "Guest Traveler 25",
+      "country": "Singapore",
+      "date": "2026-03-10",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-26",
+      "author": "Guest Traveler 26",
+      "country": "United Kingdom",
+      "date": "2026-03-05",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-27",
+      "author": "Guest Traveler 27",
+      "country": "Germany",
+      "date": "2026-02-28",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-28",
+      "author": "Guest Traveler 28",
+      "country": "United States",
+      "date": "2026-02-23",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 3.8,
+        "cabin": 3.5,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 3.5,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 3.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-29",
+      "author": "Guest Traveler 29",
+      "country": "Canada",
+      "date": "2026-02-18",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-7-night-alaska-inside-passage-voyage-30",
+      "author": "Guest Traveler 30",
+      "country": "United Kingdom",
+      "date": "2026-02-13",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 7-Night Alaska Inside Passage Voyage and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 3.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    }
+  ],
+  "seo": {
+    "title": "7-Night Alaska Inside Passage Voyage | Disney Fantasy | Disney Cruise Line",
+    "slug": "disney-disney-fantasy-7-night-7n-alaska-inside-passage-cruise",
+    "metaDescription": "Book a 7-night Alaska cruise onboard Disney Fantasy of Disney Cruise Line. Visiting Seattle, Cruising the Inside Passage, Juneau. Standard & luxury cabins available. Get a quote today.",
+    "keywords": [
+      "Alaska cruise",
+      "Disney Cruise Line packages",
+      "Disney Fantasy staterooms",
+      "7 day cruise deals",
+      "cruise vacation"
+    ],
+    "canonicalUrl": "/cruises/disney-disney-fantasy-7-night-7n-alaska-inside-passage-cruise",
+    "openGraph": {
+      "title": "7-Night Alaska Inside Passage Voyage - Disney Cruise Line",
+      "description": "Book a 7-night Alaska cruise onboard Disney Fantasy of Disney Cruise Line. Visiting Seattle, Cruising the Inside Passage, Juneau. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/disney-fantasy-hero.jpg",
+      "type": "website"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "title": "7-Night Alaska Inside Passage Voyage - Disney Cruise Line",
+      "description": "Book a 7-night Alaska cruise onboard Disney Fantasy of Disney Cruise Line. Visiting Seattle, Cruising the Inside Passage, Juneau. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/disney-fantasy-hero.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "7-Night Alaska Inside Passage Voyage",
+      "description": "Book a 7-night Alaska cruise onboard Disney Fantasy of Disney Cruise Line. Visiting Seattle, Cruising the Inside Passage, Juneau. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/disney-fantasy-hero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "1568",
+        "highPrice": "6272",
+        "offerCount": "10",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Interior Cabin",
+            "price": "1568",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ocean View",
+            "price": "1902",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Balcony Cabin",
+            "price": "2370",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Junior Suite",
+            "price": "3059",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Suite",
+            "price": "3995",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Suite",
+            "price": "5869",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Owner's Suite",
+            "price": "8944",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Family Cabin",
+            "price": "2839",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Accessible Cabin",
+            "price": "1702",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Solo Cabin",
+            "price": "1368",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.3",
+        "reviewCount": "30"
+      }
+    }
+  },
+  "aiSearchTags": [
+    "alaska cruise",
+    "disney cruise line",
+    "disney fantasy",
+    "7 night cruise",
+    "bell street pier & smith cove terminals departure",
+    "bell street pier & smith cove terminals arrival",
+    "family friendly cruise",
+    "ocean cruise",
+    "affordable cruise",
+    "balcony cabin available",
+    "all inclusive options",
+    "kids club onboard",
+    "specialty dining included",
+    "shore excursions available",
+    "visit seattle",
+    "visit cruising the inside passage",
+    "visit juneau",
+    "visit skagway",
+    "visit endicott arm & dawes glacier",
+    "visit ketchikan",
+    "visit victoria (british columbia)",
+    "visit seattle",
+    "eat at pinnacle grill steakhouse",
+    "eat at tuscan grille italian",
+    "onboard fitness jogging track",
+    "onboard shuffleboard",
+    "cruise discount tag 26",
+    "cruise discount tag 27",
+    "cruise discount tag 28",
+    "cruise discount tag 29",
+    "cruise discount tag 30",
+    "cruise discount tag 31",
+    "cruise discount tag 32",
+    "cruise discount tag 33",
+    "cruise discount tag 34",
+    "cruise discount tag 35",
+    "cruise discount tag 36",
+    "cruise discount tag 37",
+    "cruise discount tag 38",
+    "cruise discount tag 39",
+    "cruise discount tag 40",
+    "cruise discount tag 41",
+    "cruise discount tag 42",
+    "cruise discount tag 43",
+    "cruise discount tag 44",
+    "cruise discount tag 45",
+    "cruise discount tag 46",
+    "cruise discount tag 47",
+    "cruise discount tag 48",
+    "cruise discount tag 49",
+    "cruise discount tag 50",
+    "cruise discount tag 51",
+    "cruise discount tag 52",
+    "cruise discount tag 53",
+    "cruise discount tag 54",
+    "cruise discount tag 55",
+    "cruise discount tag 56",
+    "cruise discount tag 57",
+    "cruise discount tag 58",
+    "cruise discount tag 59",
+    "cruise discount tag 60",
+    "cruise discount tag 61",
+    "cruise discount tag 62",
+    "cruise discount tag 63",
+    "cruise discount tag 64",
+    "cruise discount tag 65",
+    "cruise discount tag 66",
+    "cruise discount tag 67",
+    "cruise discount tag 68",
+    "cruise discount tag 69",
+    "cruise discount tag 70",
+    "cruise discount tag 71",
+    "cruise discount tag 72",
+    "cruise discount tag 73",
+    "cruise discount tag 74"
+  ],
+  "filters": {
+    "cruiseLine": [
+      "Disney Cruise Line"
+    ],
+    "ship": [
+      "Disney Fantasy"
+    ],
+    "shipClass": [
+      "Dream Class"
+    ],
+    "destination": [
+      "Alaska"
+    ],
+    "departurePort": [
+      "Bell Street Pier & Smith Cove Terminals"
+    ],
+    "arrivalPort": [
+      "Bell Street Pier & Smith Cove Terminals"
+    ],
+    "cabinType": [
+      "Interior Cabin",
+      "Ocean View",
+      "Balcony Cabin",
+      "Suite"
+    ],
+    "duration": [
+      "5-8 Nights"
+    ],
+    "budget": [
+      "Mid-range"
+    ],
+    "luxury": false,
+    "family": true,
+    "adultsOnly": false,
+    "accessible": true,
+    "petFriendly": false,
+    "riverCruise": false,
+    "oceanCruise": true,
+    "expedition": false,
+    "season": [
+      "Summer",
+      "Winter"
+    ],
+    "month": [
+      "August",
+      "December"
+    ],
+    "schoolHolidays": true,
+    "christmas": false,
+    "newYear": false,
+    "summer": true,
+    "winter": false,
+    "spring": false,
+    "autumn": false,
+    "visaRequired": false,
+    "noVisa": false,
+    "wheelchairAccessible": true,
+    "internetIncluded": false,
+    "drinksIncluded": false,
+    "flightsIncluded": false,
+    "transfersIncluded": false
+  },
+  "ratings": {
+    "overall": 4.3,
+    "cabin": 4.3,
+    "dining": 4.3,
+    "entertainment": 4.3,
+    "service": 4.3,
+    "excursion": 4.3,
+    "cleanliness": 4.2,
+    "value": 4.3,
+    "internet": 4.3,
+    "family": 4.3,
+    "luxury": 4.2,
+    "reviewCount": 30
+  },
+  "fromPriceUSD": 1568
+}

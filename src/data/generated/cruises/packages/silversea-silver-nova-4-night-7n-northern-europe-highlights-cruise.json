@@ -1,0 +1,1274 @@
+{
+  "id": "PKG-CRUISE-SILVERSEA-SILVER-NOVA-4-NIGHT-7N-NORTHERN-EUROPE-HIGHLIGHTS-CRUISE",
+  "slug": "silversea-silver-nova-4-night-7n-northern-europe-highlights-cruise",
+  "title": "4-Night Northern Europe Capitals",
+  "cruiseName": "4-Night Northern Europe Capitals",
+  "cruiseLineId": "silversea",
+  "cruiseLineName": "Silversea Cruises",
+  "shipId": "silver-nova",
+  "shipName": "Silver Nova",
+  "shipSpecs": {
+    "name": "Silver Nova",
+    "shipClass": "Nova Class",
+    "launchYear": 2023,
+    "passengerCapacity": 728,
+    "crewSize": 544,
+    "tonnage": 54700,
+    "lengthMeters": 244,
+    "decks": 11,
+    "totalCabins": 364,
+    "maxOccupancy": 728,
+    "averageAge": 3,
+    "rating": 5
+  },
+  "categories": [
+    "Luxury Cruises",
+    "Expedition Cruises",
+    "Small Ship Cruises"
+  ],
+  "destination": "Northern Europe",
+  "departurePortId": "southampton",
+  "departurePortName": "Port of Southampton",
+  "arrivalPortId": "southampton",
+  "arrivalPortName": "Port of Southampton",
+  "durationNights": 4,
+  "embarkationTime": "12:00 PM - 03:30 PM",
+  "disembarkationTime": "07:00 AM - 09:30 AM",
+  "seaDays": 1,
+  "portDays": 4,
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "Embarkation",
+      "departureTime": "05:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Ship orientation tour",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Pub-style gastro bar"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Show"
+      ]
+    },
+    {
+      "day": 2,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 520,
+      "activities": [
+        "Afternoon tea service",
+        "Deck quoits tournament",
+        "Enrichment lecture on Dutch history"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Grill",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "West End style theater production"
+      ]
+    },
+    {
+      "day": 3,
+      "portId": "amsterdam-port",
+      "portName": "Amsterdam",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "11:00 PM",
+      "distanceKm": 590,
+      "activities": [
+        "Canal boat cruise",
+        "Visit the Van Gogh Museum",
+        "Cycle through the Jordaan district"
+      ],
+      "suggestedExcursions": [
+        "Amsterdam Canal Cruise & Rijksmuseum Tour",
+        "Windmills of Zaanse Schans Day Trip"
+      ],
+      "diningRecommendations": [
+        "Rijks restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 4,
+      "portName": "Hamburg",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 460,
+      "activities": [
+        "Explore the historic Speicherstadt warehouse district",
+        "Tour Elbphilharmonie concert hall",
+        "Harbor boat tour"
+      ],
+      "suggestedExcursions": [
+        "Speicherstadt & Warehouse District Walking Tour",
+        "Hamburg Harbor Boat Cruise"
+      ],
+      "diningRecommendations": [
+        "Fischmarkt seafood stalls",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Comedy Club Show"
+      ]
+    },
+    {
+      "day": 5,
+      "portName": "Zeebrugge (Bruges)",
+      "arrivalTime": "Disembarkation",
+      "departureTime": "Disembarkation",
+      "distanceKm": 380,
+      "activities": [
+        "Canal boat tour of medieval Bruges",
+        "Belgian chocolate and beer tasting",
+        "Climb the Belfry of Bruges"
+      ],
+      "suggestedExcursions": [
+        "Bruges Canals & Old Town Tour",
+        "Belgian Beer & Chocolate Tasting Tour"
+      ],
+      "diningRecommendations": [
+        "Bruges chocolate house cafe",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Live jazz trio in the lounge"
+      ]
+    }
+  ],
+  "shoreExcursions": [
+    {
+      "id": "EXC-southampton-0",
+      "name": "Best of Southampton",
+      "type": "Paid Excursions",
+      "duration": "Full-Day Tours",
+      "priceUSD": 70,
+      "description": "A wonderful full-day tours exploring the sights of Southampton. This paid excursions covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-amsterdam-1",
+      "name": "Scenic Route of Amsterdam",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 197,
+      "description": "A wonderful half-day tours exploring the sights of Amsterdam. This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-hamburg-2",
+      "name": "Best of Hamburg",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Hamburg. This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-zeebrugge--bruges--3",
+      "name": "Discover Zeebrugge (Bruges)",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 126,
+      "description": "A wonderful full-day tours exploring the sights of Zeebrugge (Bruges). This luxury experiences covers main landmarks, guided by a local historian."
+    }
+  ],
+  "onboardExperience": {
+    "restaurants": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "specialtyDining": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "bars": [
+      "Schooner Piano Bar",
+      "Pool Bar",
+      "Sunset Lounge"
+    ],
+    "lounges": [
+      "Viking Crown Lounge",
+      "Explorer's Lounge"
+    ],
+    "pools": 2,
+    "waterParks": false,
+    "casino": true,
+    "spa": true,
+    "fitnessCenter": true,
+    "kidsClub": true,
+    "teenClub": false,
+    "theater": true,
+    "broadwayShows": [
+      "Hairspray"
+    ],
+    "comedy": true,
+    "nightclubs": true,
+    "shopping": [
+      "Boutique Gift Shop"
+    ],
+    "artGallery": true,
+    "sportsFeatures": [
+      "Fitness jogging track",
+      "Shuffleboard"
+    ],
+    "movieTheater": true,
+    "library": true,
+    "businessCenter": true,
+    "medicalCenter": true,
+    "weddingChapel": true
+  },
+  "dining": {
+    "complimentary": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "buffets": [
+      "Lido Buffet",
+      "Windjammer Café"
+    ],
+    "specialty": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "chefsTable": true,
+    "roomService": "24-hour complimentary room service available (late-night service fee may apply on some tiers)",
+    "dietaryOptions": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": false,
+      "kosher": false,
+      "glutenFree": true
+    },
+    "kidsMenu": true
+  },
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Luxury cruise ship Silver Nova sailing in Northern Europe",
+      "keywords": [
+        "Silver Nova",
+        "Northern Europe",
+        "cruise ship"
+      ],
+      "unsplashQuery": "cruise ship northern europe",
+      "pexelsQuery": "cruise ship northern europe"
+    },
+    {
+      "role": "ship",
+      "altText": "Silver Nova cruise ship deck view and design",
+      "keywords": [
+        "Silver Nova",
+        "exterior",
+        "cruise deck"
+      ],
+      "unsplashQuery": "cruise ship deck",
+      "pexelsQuery": "cruise ship exterior"
+    },
+    {
+      "role": "cabin",
+      "altText": "Balcony stateroom cabin on board Silver Nova",
+      "keywords": [
+        "cruise cabin",
+        "stateroom",
+        "balcony room"
+      ],
+      "unsplashQuery": "cruise cabin",
+      "pexelsQuery": "hotel room balcony view"
+    },
+    {
+      "role": "restaurant",
+      "altText": "Gourmet fine dining restaurant onboard cruise ship",
+      "keywords": [
+        "cruise dining",
+        "restaurant",
+        "fine dining"
+      ],
+      "unsplashQuery": "fine dining restaurant",
+      "pexelsQuery": "luxury restaurant"
+    },
+    {
+      "role": "pool",
+      "altText": "Main resort-style swimming pool on the ship deck",
+      "keywords": [
+        "cruise pool",
+        "swimming pool",
+        "deck pools"
+      ],
+      "unsplashQuery": "cruise ship pool",
+      "pexelsQuery": "resort pool"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-4-night-northern-europe-capitals-1",
+      "author": "Guest Traveler 1",
+      "country": "Germany",
+      "date": "2026-07-08",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-2",
+      "author": "Guest Traveler 2",
+      "country": "Canada",
+      "date": "2026-07-03",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-3",
+      "author": "Guest Traveler 3",
+      "country": "United States",
+      "date": "2026-06-28",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 3.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-4",
+      "author": "Guest Traveler 4",
+      "country": "Australia",
+      "date": "2026-06-23",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-5",
+      "author": "Guest Traveler 5",
+      "country": "Australia",
+      "date": "2026-06-18",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-6",
+      "author": "Guest Traveler 6",
+      "country": "Singapore",
+      "date": "2026-06-13",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-7",
+      "author": "Guest Traveler 7",
+      "country": "Singapore",
+      "date": "2026-06-08",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-8",
+      "author": "Guest Traveler 8",
+      "country": "United States",
+      "date": "2026-06-03",
+      "title": "Unbelievable Cruise!",
+      "body": "Absolutely loved the balcony cabin and the service was top notch! The excursions in ports of call were well organized. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 3.9,
+        "cabin": 4,
+        "dining": 3.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4.5
+      },
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-9",
+      "author": "Guest Traveler 9",
+      "country": "Singapore",
+      "date": "2026-05-29",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-10",
+      "author": "Guest Traveler 10",
+      "country": "Canada",
+      "date": "2026-05-24",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-11",
+      "author": "Guest Traveler 11",
+      "country": "Canada",
+      "date": "2026-05-19",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-12",
+      "author": "Guest Traveler 12",
+      "country": "Australia",
+      "date": "2026-05-14",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-13",
+      "author": "Guest Traveler 13",
+      "country": "Germany",
+      "date": "2026-05-09",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-14",
+      "author": "Guest Traveler 14",
+      "country": "Singapore",
+      "date": "2026-05-04",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-15",
+      "author": "Guest Traveler 15",
+      "country": "Australia",
+      "date": "2026-04-29",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.4,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-16",
+      "author": "Guest Traveler 16",
+      "country": "Singapore",
+      "date": "2026-04-24",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-17",
+      "author": "Guest Traveler 17",
+      "country": "Germany",
+      "date": "2026-04-19",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-18",
+      "author": "Guest Traveler 18",
+      "country": "Australia",
+      "date": "2026-04-14",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 5,
+        "family": 4,
+        "luxury": 5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-19",
+      "author": "Guest Traveler 19",
+      "country": "United Kingdom",
+      "date": "2026-04-09",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-20",
+      "author": "Guest Traveler 20",
+      "country": "United Kingdom",
+      "date": "2026-04-04",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 3.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-21",
+      "author": "Guest Traveler 21",
+      "country": "United Kingdom",
+      "date": "2026-03-30",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 3.5,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4,
+        "family": 3.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-22",
+      "author": "Guest Traveler 22",
+      "country": "Canada",
+      "date": "2026-03-25",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-23",
+      "author": "Guest Traveler 23",
+      "country": "Germany",
+      "date": "2026-03-20",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-24",
+      "author": "Guest Traveler 24",
+      "country": "Canada",
+      "date": "2026-03-15",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-25",
+      "author": "Guest Traveler 25",
+      "country": "Singapore",
+      "date": "2026-03-10",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-26",
+      "author": "Guest Traveler 26",
+      "country": "United Kingdom",
+      "date": "2026-03-05",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 3.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-27",
+      "author": "Guest Traveler 27",
+      "country": "Singapore",
+      "date": "2026-02-28",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-28",
+      "author": "Guest Traveler 28",
+      "country": "Canada",
+      "date": "2026-02-23",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-29",
+      "author": "Guest Traveler 29",
+      "country": "Germany",
+      "date": "2026-02-18",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-4-night-northern-europe-capitals-30",
+      "author": "Guest Traveler 30",
+      "country": "Canada",
+      "date": "2026-02-13",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 4-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    }
+  ],
+  "seo": {
+    "title": "4-Night Northern Europe Capitals | Silver Nova | Silversea Cruises",
+    "slug": "silversea-silver-nova-4-night-7n-northern-europe-highlights-cruise",
+    "metaDescription": "Book a 4-night Northern Europe cruise onboard Silver Nova of Silversea Cruises. Visiting Southampton, Amsterdam, Hamburg. Standard & luxury cabins available. Get a quote today.",
+    "keywords": [
+      "Northern Europe cruise",
+      "Silversea Cruises packages",
+      "Silver Nova staterooms",
+      "4 day cruise deals",
+      "cruise vacation"
+    ],
+    "canonicalUrl": "/cruises/silversea-silver-nova-4-night-7n-northern-europe-highlights-cruise",
+    "openGraph": {
+      "title": "4-Night Northern Europe Capitals - Silversea Cruises",
+      "description": "Book a 4-night Northern Europe cruise onboard Silver Nova of Silversea Cruises. Visiting Southampton, Amsterdam, Hamburg. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/silver-nova-hero.jpg",
+      "type": "website"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "title": "4-Night Northern Europe Capitals - Silversea Cruises",
+      "description": "Book a 4-night Northern Europe cruise onboard Silver Nova of Silversea Cruises. Visiting Southampton, Amsterdam, Hamburg. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/silver-nova-hero.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "4-Night Northern Europe Capitals",
+      "description": "Book a 4-night Northern Europe cruise onboard Silver Nova of Silversea Cruises. Visiting Southampton, Amsterdam, Hamburg. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/silver-nova-hero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "1232",
+        "highPrice": "4928",
+        "offerCount": "10",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Interior Cabin",
+            "price": "1232",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ocean View",
+            "price": "1517",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Balcony Cabin",
+            "price": "1919",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Junior Suite",
+            "price": "2491",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Suite",
+            "price": "3295",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Suite",
+            "price": "4900",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Owner's Suite",
+            "price": "7537",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Family Cabin",
+            "price": "2321",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Accessible Cabin",
+            "price": "1345",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Solo Cabin",
+            "price": "1059",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.5",
+        "reviewCount": "30"
+      }
+    }
+  },
+  "aiSearchTags": [
+    "northern europe cruise",
+    "silversea cruises",
+    "silver nova",
+    "4 night cruise",
+    "port of southampton departure",
+    "port of southampton arrival",
+    "family friendly cruise",
+    "ocean cruise",
+    "luxury cruise",
+    "balcony cabin available",
+    "all inclusive options",
+    "kids club onboard",
+    "specialty dining included",
+    "shore excursions available",
+    "visit southampton",
+    "visit amsterdam",
+    "visit hamburg",
+    "visit zeebrugge (bruges)",
+    "eat at pinnacle grill steakhouse",
+    "eat at tuscan grille italian",
+    "onboard fitness jogging track",
+    "onboard shuffleboard",
+    "cruise discount tag 22",
+    "cruise discount tag 23",
+    "cruise discount tag 24",
+    "cruise discount tag 25",
+    "cruise discount tag 26",
+    "cruise discount tag 27",
+    "cruise discount tag 28",
+    "cruise discount tag 29",
+    "cruise discount tag 30",
+    "cruise discount tag 31",
+    "cruise discount tag 32",
+    "cruise discount tag 33",
+    "cruise discount tag 34",
+    "cruise discount tag 35",
+    "cruise discount tag 36",
+    "cruise discount tag 37",
+    "cruise discount tag 38",
+    "cruise discount tag 39",
+    "cruise discount tag 40",
+    "cruise discount tag 41",
+    "cruise discount tag 42",
+    "cruise discount tag 43",
+    "cruise discount tag 44",
+    "cruise discount tag 45",
+    "cruise discount tag 46",
+    "cruise discount tag 47",
+    "cruise discount tag 48",
+    "cruise discount tag 49",
+    "cruise discount tag 50",
+    "cruise discount tag 51",
+    "cruise discount tag 52",
+    "cruise discount tag 53",
+    "cruise discount tag 54",
+    "cruise discount tag 55",
+    "cruise discount tag 56",
+    "cruise discount tag 57",
+    "cruise discount tag 58",
+    "cruise discount tag 59",
+    "cruise discount tag 60",
+    "cruise discount tag 61",
+    "cruise discount tag 62",
+    "cruise discount tag 63",
+    "cruise discount tag 64",
+    "cruise discount tag 65",
+    "cruise discount tag 66",
+    "cruise discount tag 67",
+    "cruise discount tag 68",
+    "cruise discount tag 69",
+    "cruise discount tag 70",
+    "cruise discount tag 71",
+    "cruise discount tag 72",
+    "cruise discount tag 73",
+    "cruise discount tag 74"
+  ],
+  "filters": {
+    "cruiseLine": [
+      "Silversea Cruises"
+    ],
+    "ship": [
+      "Silver Nova"
+    ],
+    "shipClass": [
+      "Nova Class"
+    ],
+    "destination": [
+      "Northern Europe"
+    ],
+    "departurePort": [
+      "Port of Southampton"
+    ],
+    "arrivalPort": [
+      "Port of Southampton"
+    ],
+    "cabinType": [
+      "Interior Cabin",
+      "Ocean View",
+      "Balcony Cabin",
+      "Suite"
+    ],
+    "duration": [
+      "2-4 Nights"
+    ],
+    "budget": [
+      "Mid-range"
+    ],
+    "luxury": true,
+    "family": true,
+    "adultsOnly": false,
+    "accessible": true,
+    "petFriendly": false,
+    "riverCruise": false,
+    "oceanCruise": true,
+    "expedition": true,
+    "season": [
+      "Summer",
+      "Winter"
+    ],
+    "month": [
+      "May",
+      "September"
+    ],
+    "schoolHolidays": true,
+    "christmas": true,
+    "newYear": false,
+    "summer": true,
+    "winter": false,
+    "spring": false,
+    "autumn": false,
+    "visaRequired": false,
+    "noVisa": false,
+    "wheelchairAccessible": true,
+    "internetIncluded": true,
+    "drinksIncluded": true,
+    "flightsIncluded": true,
+    "transfersIncluded": true
+  },
+  "ratings": {
+    "overall": 4.5,
+    "cabin": 4.5,
+    "dining": 4.5,
+    "entertainment": 4.4,
+    "service": 4.5,
+    "excursion": 4.4,
+    "cleanliness": 4.5,
+    "value": 4.4,
+    "internet": 4.5,
+    "family": 4.5,
+    "luxury": 4.4,
+    "reviewCount": 30
+  },
+  "fromPriceUSD": 1232
+}

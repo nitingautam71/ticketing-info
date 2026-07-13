@@ -1,0 +1,1361 @@
+[
+  {
+    "id": "icon-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "cruiseLineName": "Royal Caribbean International",
+    "specs": {
+      "name": "Icon of the Seas",
+      "shipClass": "Icon Class",
+      "launchYear": 2024,
+      "passengerCapacity": 5610,
+      "crewSize": 2350,
+      "tonnage": 248663,
+      "lengthMeters": 365,
+      "decks": 20,
+      "totalCabins": 2805,
+      "maxOccupancy": 7600,
+      "averageAge": 2,
+      "rating": 5
+    },
+    "description": "The revolutionary first vessel of the Icon Class, representing the ultimate family vacation, featuring Category 6 (the largest waterpark at sea) and the AquaDome.",
+    "features": [
+      "Category 6 Waterpark",
+      "Surfside family neighborhood",
+      "AquaDome show venue",
+      "Crown's Edge ropes course",
+      "Absolute Zero ice rink"
+    ]
+  },
+  {
+    "id": "wonder-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "cruiseLineName": "Royal Caribbean International",
+    "specs": {
+      "name": "Wonder of the Seas",
+      "shipClass": "Oasis Class",
+      "launchYear": 2022,
+      "passengerCapacity": 5734,
+      "crewSize": 2300,
+      "tonnage": 236857,
+      "lengthMeters": 362,
+      "decks": 18,
+      "totalCabins": 2867,
+      "maxOccupancy": 6988,
+      "averageAge": 4,
+      "rating": 4.9
+    },
+    "description": "An Oasis-class masterpiece featuring eight unique neighborhoods, including the new Suite Neighborhood, and the towering Ultimate Abyss slide.",
+    "features": [
+      "Central Park with real plants",
+      "Ultimate Abyss 10-story slide",
+      "AquaTheater dive shows",
+      "Perfect Day at CocoCay stops",
+      "Boardwalk carousel"
+    ]
+  },
+  {
+    "id": "symphony-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "cruiseLineName": "Royal Caribbean International",
+    "specs": {
+      "name": "Symphony of the Seas",
+      "shipClass": "Oasis Class",
+      "launchYear": 2018,
+      "passengerCapacity": 5518,
+      "crewSize": 2200,
+      "tonnage": 228081,
+      "lengthMeters": 362,
+      "decks": 18,
+      "totalCabins": 2759,
+      "maxOccupancy": 6680,
+      "averageAge": 8,
+      "rating": 4.8
+    },
+    "description": "Brings together the best of Oasis Class innovations, featuring jaw-dropping entertainment, high-tech venues, and family-friendly dining options.",
+    "features": [
+      "Hairspray Broadway musical",
+      "Laser tag arena",
+      "Two FlowRider surf simulators",
+      "Bionic Bar robotic bartenders"
+    ]
+  },
+  {
+    "id": "odyssey-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "cruiseLineName": "Royal Caribbean International",
+    "specs": {
+      "name": "Odyssey of the Seas",
+      "shipClass": "Quantum Ultra Class",
+      "launchYear": 2021,
+      "passengerCapacity": 4198,
+      "crewSize": 1550,
+      "tonnage": 169300,
+      "lengthMeters": 347,
+      "decks": 16,
+      "totalCabins": 2105,
+      "maxOccupancy": 4805,
+      "averageAge": 5,
+      "rating": 4.7
+    },
+    "description": "A tech-forward Quantum Ultra-class ship featuring the SeaPlex indoor sports complex, North Star observation capsule, and RipCord by iFly skydiving.",
+    "features": [
+      "North Star glass capsule",
+      "RipCord by iFly skydiving simulator",
+      "SeaPlex bumper cars",
+      "Two70 high-tech entertainment lounge"
+    ]
+  },
+  {
+    "id": "mariner-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "cruiseLineName": "Royal Caribbean International",
+    "specs": {
+      "name": "Mariner of the Seas",
+      "shipClass": "Voyager Class",
+      "launchYear": 2003,
+      "lastRenovation": 2018,
+      "passengerCapacity": 3114,
+      "crewSize": 1180,
+      "tonnage": 138279,
+      "lengthMeters": 311,
+      "decks": 15,
+      "totalCabins": 1557,
+      "maxOccupancy": 4000,
+      "averageAge": 23,
+      "rating": 4.4
+    },
+    "description": "An amplified Voyager-class favorite, packed with additions like the Sky Pad VR bungee trampoline and the Perfect Storm water slides.",
+    "features": [
+      "The Perfect Storm waterslides",
+      "Sky Pad VR bungee trampoline",
+      "Studio B ice-skating show",
+      "Royal Promenade shopping & dining"
+    ]
+  },
+  {
+    "id": "carnival-jubilee",
+    "cruiseLineId": "carnival",
+    "cruiseLineName": "Carnival Cruise Line",
+    "specs": {
+      "name": "Carnival Jubilee",
+      "shipClass": "Excel Class",
+      "launchYear": 2023,
+      "passengerCapacity": 5374,
+      "crewSize": 1735,
+      "tonnage": 183521,
+      "lengthMeters": 344,
+      "decks": 19,
+      "totalCabins": 2687,
+      "maxOccupancy": 6500,
+      "averageAge": 3,
+      "rating": 4.7
+    },
+    "description": "The third ship in Carnival's innovative Excel class, powered by eco-friendly LNG and home to BOLT, the first rollercoaster at sea.",
+    "features": [
+      "BOLT rollercoaster at sea",
+      "Grand Central atrium venue",
+      "Emeril's Bistro 1396",
+      "Family Harbor cabins & lounge"
+    ]
+  },
+  {
+    "id": "carnival-celebration",
+    "cruiseLineId": "carnival",
+    "cruiseLineName": "Carnival Cruise Line",
+    "specs": {
+      "name": "Carnival Celebration",
+      "shipClass": "Excel Class",
+      "launchYear": 2022,
+      "passengerCapacity": 5374,
+      "crewSize": 1735,
+      "tonnage": 183521,
+      "lengthMeters": 344,
+      "decks": 19,
+      "totalCabins": 2687,
+      "maxOccupancy": 6500,
+      "averageAge": 4,
+      "rating": 4.7
+    },
+    "description": "Celebrating 50 years of Carnival fun, featuring retro-inspired zones, the BOLT roller coaster, and extensive dining venues.",
+    "features": [
+      "BOLT rollercoaster",
+      "The Golden Jubilee legacy bar",
+      "Guy's Pig & Anchor Smokehouse",
+      "Cloud 9 Spa"
+    ]
+  },
+  {
+    "id": "mardi-gras",
+    "cruiseLineId": "carnival",
+    "cruiseLineName": "Carnival Cruise Line",
+    "specs": {
+      "name": "Mardi Gras",
+      "shipClass": "Excel Class",
+      "launchYear": 2021,
+      "passengerCapacity": 5282,
+      "crewSize": 1735,
+      "tonnage": 180800,
+      "lengthMeters": 344,
+      "decks": 19,
+      "totalCabins": 2641,
+      "maxOccupancy": 6465,
+      "averageAge": 5,
+      "rating": 4.6
+    },
+    "description": "Pioneered the BOLT sea coaster and revolutionized Carnival's onboard dining, grouping venues into six distinct themed zones.",
+    "features": [
+      "BOLT Sea Coaster",
+      "Brezza Cove pool area",
+      "Chibugan Filipino restaurant",
+      "RedFrog Tiki Bar"
+    ]
+  },
+  {
+    "id": "carnival-horizon",
+    "cruiseLineId": "carnival",
+    "cruiseLineName": "Carnival Cruise Line",
+    "specs": {
+      "name": "Carnival Horizon",
+      "shipClass": "Vista Class",
+      "launchYear": 2018,
+      "passengerCapacity": 3960,
+      "crewSize": 1450,
+      "tonnage": 133500,
+      "lengthMeters": 322,
+      "decks": 15,
+      "totalCabins": 1980,
+      "maxOccupancy": 4977,
+      "averageAge": 8,
+      "rating": 4.4
+    },
+    "description": "Vista-class ship offering family-focused Havana cabins and suites, the SkyRide aerial bike, and an IMAX Theater at sea.",
+    "features": [
+      "SkyRide aerial pedaling track",
+      "IMAX Theater",
+      "Havana Pool & exclusive bar",
+      "Dr. Seuss WaterWorks"
+    ]
+  },
+  {
+    "id": "norwegian-viva",
+    "cruiseLineId": "norwegian",
+    "cruiseLineName": "Norwegian Cruise Line",
+    "specs": {
+      "name": "Norwegian Viva",
+      "shipClass": "Prima Class",
+      "launchYear": 2023,
+      "passengerCapacity": 3099,
+      "crewSize": 1500,
+      "tonnage": 143535,
+      "lengthMeters": 294,
+      "decks": 16,
+      "totalCabins": 1646,
+      "maxOccupancy": 3950,
+      "averageAge": 3,
+      "rating": 4.8
+    },
+    "description": "Second ship in the innovative Prima Class, offering wide open spaces, the Ocean Boulevard waterfront boardwalk, and a 3-level racetrack.",
+    "features": [
+      "Viva Speedway 3-level racetrack",
+      "Indulge Food Hall (11 stations)",
+      "The Drop dry slide (10 stories)",
+      "Ocean Boulevard infinity pools"
+    ]
+  },
+  {
+    "id": "norwegian-prima",
+    "cruiseLineId": "norwegian",
+    "cruiseLineName": "Norwegian Cruise Line",
+    "specs": {
+      "name": "Norwegian Prima",
+      "shipClass": "Prima Class",
+      "launchYear": 2022,
+      "passengerCapacity": 3099,
+      "crewSize": 1500,
+      "tonnage": 143535,
+      "lengthMeters": 294,
+      "decks": 16,
+      "totalCabins": 1646,
+      "maxOccupancy": 3950,
+      "averageAge": 4,
+      "rating": 4.7
+    },
+    "description": "Broke records for guest space and luxurious public areas in the contemporary segment. Home to the upscale Haven suite complex.",
+    "features": [
+      "The Haven premium enclave",
+      "Prima Speedway racetrack",
+      "Syd Norman's Pour House",
+      "Metropolitan Eco-Bar"
+    ]
+  },
+  {
+    "id": "norwegian-encore",
+    "cruiseLineId": "norwegian",
+    "cruiseLineName": "Norwegian Cruise Line",
+    "specs": {
+      "name": "Norwegian Encore",
+      "shipClass": "Breakaway Plus Class",
+      "launchYear": 2019,
+      "passengerCapacity": 3998,
+      "crewSize": 1735,
+      "tonnage": 169116,
+      "lengthMeters": 326,
+      "decks": 20,
+      "totalCabins": 2043,
+      "maxOccupancy": 4903,
+      "averageAge": 7,
+      "rating": 4.6
+    },
+    "description": "The final Breakaway Plus class ship, carrying a massive laser tag arena, a huge go-kart track, and award-winning Broadway shows.",
+    "features": [
+      "Encore Speedway kart track",
+      "The Choir of Man show",
+      "Galaxy Pavilion VR arcade",
+      "Ocean Loops drop slides"
+    ]
+  },
+  {
+    "id": "norwegian-bliss",
+    "cruiseLineId": "norwegian",
+    "cruiseLineName": "Norwegian Cruise Line",
+    "specs": {
+      "name": "Norwegian Bliss",
+      "shipClass": "Breakaway Plus Class",
+      "launchYear": 2018,
+      "passengerCapacity": 4004,
+      "crewSize": 1716,
+      "tonnage": 168028,
+      "lengthMeters": 326,
+      "decks": 20,
+      "totalCabins": 2043,
+      "maxOccupancy": 4900,
+      "averageAge": 8,
+      "rating": 4.6
+    },
+    "description": "Designed specifically for Alaska cruises, featuring an expansive Observation Lounge with 180-degree views and a double-deck racetrack.",
+    "features": [
+      "Observation Lounge (Alaska-optimized)",
+      "Jersey Boys Broadway show",
+      "Cagney's Steakhouse",
+      "Q Texas Smokehouse"
+    ]
+  },
+  {
+    "id": "msc-world-europa",
+    "cruiseLineId": "msc",
+    "cruiseLineName": "MSC Cruises",
+    "specs": {
+      "name": "MSC World Europa",
+      "shipClass": "World Class",
+      "launchYear": 2022,
+      "passengerCapacity": 5400,
+      "crewSize": 2138,
+      "tonnage": 215863,
+      "lengthMeters": 333,
+      "decks": 22,
+      "totalCabins": 2626,
+      "maxOccupancy": 6762,
+      "averageAge": 4,
+      "rating": 4.6
+    },
+    "description": "An futuristic LNG-powered mega-ship with a striking Y-shaped open aft, a 104-meter-long outdoor promenade, and the Venom Drop slide.",
+    "features": [
+      "Venom Drop spiral dry slide",
+      "MSC Yacht Club",
+      "World Promenade",
+      "Craft Beer Brewery (sea water)",
+      "Aurora Borealis light shows"
+    ]
+  },
+  {
+    "id": "msc-euribia",
+    "cruiseLineId": "msc",
+    "cruiseLineName": "MSC Cruises",
+    "specs": {
+      "name": "MSC Euribia",
+      "shipClass": "Meraviglia Plus Class",
+      "launchYear": 2023,
+      "passengerCapacity": 4838,
+      "crewSize": 1410,
+      "tonnage": 184011,
+      "lengthMeters": 331,
+      "decks": 19,
+      "totalCabins": 2419,
+      "maxOccupancy": 6334,
+      "averageAge": 3,
+      "rating": 4.5
+    },
+    "description": "Named after the ancient goddess Eurybia, featuring a stunning hull art design representing marine conservation, and an indoor LED dome promenade.",
+    "features": [
+      "LED dome promenade ceiling",
+      "Coral Reef Waterpark",
+      "Delphi Theatre shows",
+      "Jean-Philippe Chocolate shop"
+    ]
+  },
+  {
+    "id": "msc-seascape",
+    "cruiseLineId": "msc",
+    "cruiseLineName": "MSC Cruises",
+    "specs": {
+      "name": "MSC Seascape",
+      "shipClass": "Seaside EVO Class",
+      "launchYear": 2022,
+      "passengerCapacity": 4540,
+      "crewSize": 1648,
+      "tonnage": 170400,
+      "lengthMeters": 339,
+      "decks": 20,
+      "totalCabins": 2270,
+      "maxOccupancy": 5877,
+      "averageAge": 4,
+      "rating": 4.4
+    },
+    "description": "Designed to connect guests with the ocean, featuring a waterfront promenade, glass-floored Bridge of Sighs, and the Robotron amusement ride.",
+    "features": [
+      "Robotron robotic arm ride",
+      "Bridge of Sighs glass walkway",
+      "Pirates Cove Aquapark",
+      "MSC Yacht Club pool & deck"
+    ]
+  },
+  {
+    "id": "sun-princess",
+    "cruiseLineId": "princess",
+    "cruiseLineName": "Princess Cruises",
+    "specs": {
+      "name": "Sun Princess",
+      "shipClass": "Sphere Class",
+      "launchYear": 2024,
+      "passengerCapacity": 4300,
+      "crewSize": 1600,
+      "tonnage": 175500,
+      "lengthMeters": 345,
+      "decks": 21,
+      "totalCabins": 2150,
+      "maxOccupancy": 5189,
+      "averageAge": 2,
+      "rating": 4.8
+    },
+    "description": "The first Sphere-class vessel, powered by LNG and featuring \"The Dome,\" a multi-level activity and entertainment space inspired by the terraces of Santorini.",
+    "features": [
+      "The Dome entertainment space",
+      "Spellbound magic experience",
+      "MedallionClass service",
+      "Signature Collection suites"
+    ]
+  },
+  {
+    "id": "discovery-princess",
+    "cruiseLineId": "princess",
+    "cruiseLineName": "Princess Cruises",
+    "specs": {
+      "name": "Discovery Princess",
+      "shipClass": "Royal Class",
+      "launchYear": 2022,
+      "passengerCapacity": 3660,
+      "crewSize": 1346,
+      "tonnage": 145000,
+      "lengthMeters": 330,
+      "decks": 19,
+      "totalCabins": 1830,
+      "maxOccupancy": 4610,
+      "averageAge": 4,
+      "rating": 4.6
+    },
+    "description": "The final Royal-class ship, featuring Sky Suites with 270-degree views, a rich selection of specialty dining, and the MedallionClass tech.",
+    "features": [
+      "Sky Suites with largest balconies",
+      "Sabatinis Italian Trattoria",
+      "Gigi's Pizzeria",
+      "Lotus Spa"
+    ]
+  },
+  {
+    "id": "enchanted-princess",
+    "cruiseLineId": "princess",
+    "cruiseLineName": "Princess Cruises",
+    "specs": {
+      "name": "Enchanted Princess",
+      "shipClass": "Royal Class",
+      "launchYear": 2020,
+      "passengerCapacity": 3660,
+      "crewSize": 1346,
+      "tonnage": 145000,
+      "lengthMeters": 330,
+      "decks": 19,
+      "totalCabins": 1830,
+      "maxOccupancy": 4610,
+      "averageAge": 6,
+      "rating": 4.6
+    },
+    "description": "Offers refined elegance, a sanctuary adults-only retreat, and world-class live performance venues.",
+    "features": [
+      "The Sanctuary adults enclave",
+      "Princess Live! broadcast studio",
+      "Crown Grill steakhouse",
+      "MedallionNet high-speed internet"
+    ]
+  },
+  {
+    "id": "celebrity-ascent",
+    "cruiseLineId": "celebrity",
+    "cruiseLineName": "Celebrity Cruises",
+    "specs": {
+      "name": "Celebrity Ascent",
+      "shipClass": "Edge Class",
+      "launchYear": 2023,
+      "passengerCapacity": 3260,
+      "crewSize": 1400,
+      "tonnage": 140600,
+      "lengthMeters": 327,
+      "decks": 17,
+      "totalCabins": 1630,
+      "maxOccupancy": 3837,
+      "averageAge": 3,
+      "rating": 4.9
+    },
+    "description": "The fourth Edge-class ship, elevating modern luxury with outward-facing design, the Magic Carpet cantilevered platform, and a redesigned Rooftop Garden.",
+    "features": [
+      "Magic Carpet moving platform",
+      "Eden multi-level lounge & restaurant",
+      "Infinite Veranda cabins",
+      "The Retreat exclusive sun deck"
+    ]
+  },
+  {
+    "id": "celebrity-beyond",
+    "cruiseLineId": "celebrity",
+    "cruiseLineName": "Celebrity Cruises",
+    "specs": {
+      "name": "Celebrity Beyond",
+      "shipClass": "Edge Class",
+      "launchYear": 2022,
+      "passengerCapacity": 3260,
+      "crewSize": 1400,
+      "tonnage": 140600,
+      "lengthMeters": 327,
+      "decks": 17,
+      "totalCabins": 1630,
+      "maxOccupancy": 3837,
+      "averageAge": 4,
+      "rating": 4.9
+    },
+    "description": "Elongated Edge-class version featuring interiors designed by Kelly Hoppen, dining by Daniel Boulud, and wellness programs curated by Gwyneth Paltrow.",
+    "features": [
+      "Le Voyage by Daniel Boulud",
+      "Rooftop Garden float pools",
+      "Sunset Bar Moroccan-style",
+      "The Grand Plaza"
+    ]
+  },
+  {
+    "id": "celebrity-edge",
+    "cruiseLineId": "celebrity",
+    "cruiseLineName": "Celebrity Cruises",
+    "specs": {
+      "name": "Celebrity Edge",
+      "shipClass": "Edge Class",
+      "launchYear": 2018,
+      "passengerCapacity": 2918,
+      "crewSize": 1320,
+      "tonnage": 130818,
+      "lengthMeters": 306,
+      "decks": 15,
+      "totalCabins": 1467,
+      "maxOccupancy": 3373,
+      "averageAge": 8,
+      "rating": 4.7
+    },
+    "description": "The ship that redefined cruise ship architecture with the Infinite Veranda, removing the barrier between guest and sea.",
+    "features": [
+      "Magic Carpet deck",
+      "Infinite Verandas",
+      "Rooftop Garden",
+      "Fine Cut Steakhouse"
+    ]
+  },
+  {
+    "id": "celebrity-flora",
+    "cruiseLineId": "celebrity",
+    "cruiseLineName": "Celebrity Cruises",
+    "specs": {
+      "name": "Celebrity Flora",
+      "shipClass": "Expedition Class",
+      "launchYear": 2019,
+      "passengerCapacity": 100,
+      "crewSize": 80,
+      "tonnage": 5739,
+      "lengthMeters": 101,
+      "decks": 6,
+      "totalCabins": 50,
+      "maxOccupancy": 100,
+      "averageAge": 7,
+      "rating": 4.8
+    },
+    "description": "Specifically built for the Galapagos Islands, this all-suite mega-yacht offers eco-friendly dynamic positioning and a high-end luxury base for wildlife expeditions.",
+    "features": [
+      "Galapagos-optimized zodiac marina",
+      "All-suite layout with personal attendants",
+      "Eco-friendly dynamic positioning (no anchor)",
+      "Darwin's Cove science hub"
+    ]
+  },
+  {
+    "id": "rotterdam",
+    "cruiseLineId": "holland-america",
+    "cruiseLineName": "Holland America Line",
+    "specs": {
+      "name": "Rotterdam",
+      "shipClass": "Pinnacle Class",
+      "launchYear": 2021,
+      "passengerCapacity": 2668,
+      "crewSize": 1025,
+      "tonnage": 99800,
+      "lengthMeters": 297,
+      "decks": 13,
+      "totalCabins": 1334,
+      "maxOccupancy": 3218,
+      "averageAge": 5,
+      "rating": 4.6
+    },
+    "description": "The flagship Pinnacle-class ship, highlighting Holland America's focus on music, culinary arts, and classic nautical style.",
+    "features": [
+      "B.B. King's Blues Club",
+      "Billboard Onboard dueling pianos",
+      "Pinnacle Grill steakhouse",
+      "Lincoln Center Stage classics"
+    ]
+  },
+  {
+    "id": "koningsdam",
+    "cruiseLineId": "holland-america",
+    "cruiseLineName": "Holland America Line",
+    "specs": {
+      "name": "Koningsdam",
+      "shipClass": "Pinnacle Class",
+      "launchYear": 2016,
+      "passengerCapacity": 2650,
+      "crewSize": 1025,
+      "tonnage": 99500,
+      "lengthMeters": 297,
+      "decks": 13,
+      "totalCabins": 1325,
+      "maxOccupancy": 3194,
+      "averageAge": 10,
+      "rating": 4.5
+    },
+    "description": "Combines traditional cruise roots with contemporary styling, showcasing a grand light-filled atrium and top-tier culinary training rooms.",
+    "features": [
+      "World Stage 270-degree screen",
+      "Rudi's Sel de Mer seafood bistro",
+      "Club Orange private dining",
+      "Rolling Stone Lounge rock music"
+    ]
+  },
+  {
+    "id": "disney-wish",
+    "cruiseLineId": "disney",
+    "cruiseLineName": "Disney Cruise Line",
+    "specs": {
+      "name": "Disney Wish",
+      "shipClass": "Triton Class",
+      "launchYear": 2022,
+      "passengerCapacity": 2500,
+      "crewSize": 1555,
+      "tonnage": 144000,
+      "lengthMeters": 341,
+      "decks": 15,
+      "totalCabins": 1254,
+      "maxOccupancy": 4000,
+      "averageAge": 4,
+      "rating": 4.9
+    },
+    "description": "A magical castle at sea, featuring the AquaMouse (the first Disney attraction at sea), Star Wars Hyperspace Lounge, and Frozen & Marvel themed dining.",
+    "features": [
+      "AquaMouse water coaster",
+      "Star Wars: Hyperspace Lounge",
+      "Arendelle: Frozen Dining Adventure",
+      "Worlds of Marvel interactive dinner"
+    ]
+  },
+  {
+    "id": "disney-fantasy",
+    "cruiseLineId": "disney",
+    "cruiseLineName": "Disney Cruise Line",
+    "specs": {
+      "name": "Disney Fantasy",
+      "shipClass": "Dream Class",
+      "launchYear": 2012,
+      "passengerCapacity": 2500,
+      "crewSize": 1450,
+      "tonnage": 129690,
+      "lengthMeters": 340,
+      "decks": 14,
+      "totalCabins": 1250,
+      "maxOccupancy": 4000,
+      "averageAge": 14,
+      "rating": 4.7
+    },
+    "description": "An elegant art-nouveau style vessel designed for longer Caribbean itineraries, hosting the AquaDuck water coaster and Animator's Palate magic dining.",
+    "features": [
+      "AquaDuck water coaster",
+      "Animator's Palate animation dining",
+      "Europa adult entertainment district",
+      "Bibbidi Bobbidi Boutique"
+    ]
+  },
+  {
+    "id": "scarlet-lady",
+    "cruiseLineId": "virgin-voyages",
+    "cruiseLineName": "Virgin Voyages",
+    "specs": {
+      "name": "Scarlet Lady",
+      "shipClass": "Lady Ships",
+      "launchYear": 2020,
+      "passengerCapacity": 2770,
+      "crewSize": 1160,
+      "tonnage": 110000,
+      "lengthMeters": 278,
+      "decks": 17,
+      "totalCabins": 1408,
+      "maxOccupancy": 2860,
+      "averageAge": 6,
+      "rating": 4.8
+    },
+    "description": "Rebellious luxury for adults (18+), boasting a tattoo studio, high-end design, athletic fitness centers, and a major focus on food-truck styling and fine dining.",
+    "features": [
+      "Squid Ink tattoo parlour",
+      "Red Room multi-form theater",
+      "The Manor nightclub",
+      "Gunbae Korean BBQ table dining"
+    ]
+  },
+  {
+    "id": "valiant-lady",
+    "cruiseLineId": "virgin-voyages",
+    "cruiseLineName": "Virgin Voyages",
+    "specs": {
+      "name": "Valiant Lady",
+      "shipClass": "Lady Ships",
+      "launchYear": 2022,
+      "passengerCapacity": 2770,
+      "crewSize": 1160,
+      "tonnage": 110000,
+      "lengthMeters": 278,
+      "decks": 17,
+      "totalCabins": 1408,
+      "maxOccupancy": 2860,
+      "averageAge": 4,
+      "rating": 4.8
+    },
+    "description": "Sails destination-rich European and Caribbean routes with the signature Virgin lifestyle, private day beds, and complimentary fitness classes.",
+    "features": [
+      "The Wake steak & seafood",
+      "Athletic Club outdoor gym",
+      "Richard's Rooftop VIP sun deck",
+      "Pink Agave upscale Mexican"
+    ]
+  },
+  {
+    "id": "queen-mary-2",
+    "cruiseLineId": "cunard",
+    "cruiseLineName": "Cunard Line",
+    "specs": {
+      "name": "Queen Mary 2",
+      "shipClass": "Ocean Liner",
+      "launchYear": 2004,
+      "lastRenovation": 2016,
+      "passengerCapacity": 2691,
+      "crewSize": 1292,
+      "tonnage": 149215,
+      "lengthMeters": 345,
+      "decks": 13,
+      "totalCabins": 1345,
+      "maxOccupancy": 3090,
+      "averageAge": 22,
+      "rating": 4.7
+    },
+    "description": "The world's only active true ocean liner, designed with a reinforced hull for transatlantic crossings, hosting the only planetarium at sea.",
+    "features": [
+      "Illuminations Planetarium",
+      "Queens Room grand ballroom",
+      "Canyon Ranch SpaClub",
+      "Kennel program for pets"
+    ]
+  },
+  {
+    "id": "queen-anne",
+    "cruiseLineId": "cunard",
+    "cruiseLineName": "Cunard Line",
+    "specs": {
+      "name": "Queen Anne",
+      "shipClass": "Pinnacle-based Class",
+      "launchYear": 2024,
+      "passengerCapacity": 2996,
+      "crewSize": 1225,
+      "tonnage": 113000,
+      "lengthMeters": 322,
+      "decks": 14,
+      "totalCabins": 1498,
+      "maxOccupancy": 3350,
+      "averageAge": 2,
+      "rating": 4.8
+    },
+    "description": "Cunard's newest luxury liner, blending heritage with modern design, offering updated grills concepts and elegant public areas.",
+    "features": [
+      "The Pavilion glass dome pool",
+      "Bright Lights Society venue",
+      "Queens Grill dining room",
+      "Mareel Wellness & Beauty"
+    ]
+  },
+  {
+    "id": "oceania-vista",
+    "cruiseLineId": "oceania",
+    "cruiseLineName": "Oceania Cruises",
+    "specs": {
+      "name": "Vista",
+      "shipClass": "Allura Class",
+      "launchYear": 2023,
+      "passengerCapacity": 1200,
+      "crewSize": 800,
+      "tonnage": 67000,
+      "lengthMeters": 241,
+      "decks": 11,
+      "totalCabins": 600,
+      "maxOccupancy": 1200,
+      "averageAge": 3,
+      "rating": 4.8
+    },
+    "description": "A masterpiece of boutique cruising, featuring all-veranda accommodation, a stunning grand staircase, and new culinary venues like Ember.",
+    "features": [
+      "Ember signature restaurant",
+      "Aquamar Spa + Vitality Center",
+      "Culinary Center hands-on cooking kitchen",
+      "Baristias espresso bar"
+    ]
+  },
+  {
+    "id": "seven-seas-grandeur",
+    "cruiseLineId": "regent-seven-seas",
+    "cruiseLineName": "Regent Seven Seas Cruises",
+    "specs": {
+      "name": "Seven Seas Grandeur",
+      "shipClass": "Explorer Class",
+      "launchYear": 2023,
+      "passengerCapacity": 746,
+      "crewSize": 548,
+      "tonnage": 55500,
+      "lengthMeters": 224,
+      "decks": 10,
+      "totalCabins": 373,
+      "maxOccupancy": 746,
+      "averageAge": 3,
+      "rating": 5
+    },
+    "description": "An ultra-luxury masterpiece defining modern heritage, featuring million-dollar art collections, a custom Fabergé Egg, and incredibly spacious suites.",
+    "features": [
+      "Compass Rose dining room",
+      "Fabergé Egg art centerpiece",
+      "All-suite all-balcony layouts",
+      "Included unlimited shore excursions"
+    ]
+  },
+  {
+    "id": "seven-seas-explorer",
+    "cruiseLineId": "regent-seven-seas",
+    "cruiseLineName": "Regent Seven Seas Cruises",
+    "specs": {
+      "name": "Seven Seas Explorer",
+      "shipClass": "Explorer Class",
+      "launchYear": 2016,
+      "passengerCapacity": 750,
+      "crewSize": 552,
+      "tonnage": 56000,
+      "lengthMeters": 224,
+      "decks": 10,
+      "totalCabins": 375,
+      "maxOccupancy": 750,
+      "averageAge": 10,
+      "rating": 4.9
+    },
+    "description": "Hailed as \"the most luxurious ship ever built\" upon launch, boasting Italian marble, crystal chandeliers, and the sprawling Regent Suite.",
+    "features": [
+      "Regent Suite with in-suite spa",
+      "Pacific Rim pan-asian dining",
+      "Prime 7 steakhouse",
+      "Constellation Theater"
+    ]
+  },
+  {
+    "id": "silver-nova",
+    "cruiseLineId": "silversea",
+    "cruiseLineName": "Silversea Cruises",
+    "specs": {
+      "name": "Silver Nova",
+      "shipClass": "Nova Class",
+      "launchYear": 2023,
+      "passengerCapacity": 728,
+      "crewSize": 544,
+      "tonnage": 54700,
+      "lengthMeters": 244,
+      "decks": 11,
+      "totalCabins": 364,
+      "maxOccupancy": 728,
+      "averageAge": 3,
+      "rating": 5
+    },
+    "description": "An architectural breakthrough in ultra-luxury cruise design, featuring an asymmetrical layout that opens out directly to the sea.",
+    "features": [
+      "Asymmetrical pool deck",
+      "S.A.L.T. Kitchen local culinary concept",
+      "Otium Spa concept",
+      "Personal butler for every suite"
+    ]
+  },
+  {
+    "id": "silver-origin",
+    "cruiseLineId": "silversea",
+    "cruiseLineName": "Silversea Cruises",
+    "specs": {
+      "name": "Silver Origin",
+      "shipClass": "Expedition Class",
+      "launchYear": 2020,
+      "passengerCapacity": 100,
+      "crewSize": 90,
+      "tonnage": 5800,
+      "lengthMeters": 101,
+      "decks": 5,
+      "totalCabins": 50,
+      "maxOccupancy": 100,
+      "averageAge": 6,
+      "rating": 4.9
+    },
+    "description": "Silversea's first destination-specific ship, crafted specifically for the Galapagos with Zodiacs, dynamic positioning, and butler service.",
+    "features": [
+      "Explorer Lounge with fire pit",
+      "Galapagos butler service",
+      "Basecamp interactive hub",
+      "Horizon balcony window suites"
+    ]
+  },
+  {
+    "id": "seabourn-ovation",
+    "cruiseLineId": "seabourn",
+    "cruiseLineName": "Seabourn Cruise Line",
+    "specs": {
+      "name": "Seabourn Ovation",
+      "shipClass": "Encore Class",
+      "launchYear": 2018,
+      "passengerCapacity": 600,
+      "crewSize": 450,
+      "tonnage": 40350,
+      "lengthMeters": 210,
+      "decks": 11,
+      "totalCabins": 300,
+      "maxOccupancy": 600,
+      "averageAge": 8,
+      "rating": 4.9
+    },
+    "description": "An ultra-luxury all-suite ship showcasing modern design, exceptional service, and dining collaborations with Chef Thomas Keller.",
+    "features": [
+      "The Grill by Thomas Keller",
+      "The Club lounge & dance venue",
+      "Seabourn Square central concierge hub",
+      "All-veranda luxury suite layout"
+    ]
+  },
+  {
+    "id": "seabourn-venture",
+    "cruiseLineId": "seabourn",
+    "cruiseLineName": "Seabourn Cruise Line",
+    "specs": {
+      "name": "Seabourn Venture",
+      "shipClass": "Expedition Class",
+      "launchYear": 2022,
+      "passengerCapacity": 264,
+      "crewSize": 120,
+      "tonnage": 23000,
+      "lengthMeters": 170,
+      "decks": 8,
+      "totalCabins": 132,
+      "maxOccupancy": 264,
+      "averageAge": 4,
+      "rating": 4.9
+    },
+    "description": "Seabourn's first purpose-built polar expedition ship, complete with two custom submarines, 24 Zodiacs, and a highly specialized science team.",
+    "features": [
+      "Two custom-built 6-guest submarines",
+      "Expedition Lounge",
+      "Bow Lounge observation post",
+      "PC6 Polar Class hull"
+    ]
+  },
+  {
+    "id": "azamara-onward",
+    "cruiseLineId": "azamara",
+    "cruiseLineName": "Azamara",
+    "specs": {
+      "name": "Azamara Onward",
+      "shipClass": "R-Class",
+      "launchYear": 1999,
+      "lastRenovation": 2022,
+      "passengerCapacity": 684,
+      "crewSize": 408,
+      "tonnage": 30277,
+      "lengthMeters": 180,
+      "decks": 11,
+      "totalCabins": 342,
+      "maxOccupancy": 700,
+      "averageAge": 27,
+      "rating": 4.5
+    },
+    "description": "Boutique R-class vessel offering club-like refinement, specialized destination integration, and intimate public spaces.",
+    "features": [
+      "Atlas Bar specialty cocktail lounge",
+      "The Patio pool-side grill",
+      "Prime C classic steakhouse",
+      "Aqualina Italian cuisine"
+    ]
+  },
+  {
+    "id": "viking-star",
+    "cruiseLineId": "viking-ocean",
+    "cruiseLineName": "Viking Ocean Cruises",
+    "specs": {
+      "name": "Viking Star",
+      "shipClass": "Viking Star Class",
+      "launchYear": 2015,
+      "passengerCapacity": 930,
+      "crewSize": 550,
+      "tonnage": 47800,
+      "lengthMeters": 227,
+      "decks": 9,
+      "totalCabins": 465,
+      "maxOccupancy": 930,
+      "averageAge": 11,
+      "rating": 4.8
+    },
+    "description": "Viking's award-winning first ocean ship, focusing on destination exploration, Scandinavian wellness, and all-veranda staterooms.",
+    "features": [
+      "Infinity pool off the stern",
+      "Thermal Suite snow grotto",
+      "Explorer's Dome stargazing lounge",
+      "Included beer and wine with meals"
+    ]
+  },
+  {
+    "id": "viking-sky",
+    "cruiseLineId": "viking-ocean",
+    "cruiseLineName": "Viking Ocean Cruises",
+    "specs": {
+      "name": "Viking Sky",
+      "shipClass": "Viking Star Class",
+      "launchYear": 2017,
+      "passengerCapacity": 930,
+      "crewSize": 550,
+      "tonnage": 47800,
+      "lengthMeters": 227,
+      "decks": 9,
+      "totalCabins": 465,
+      "maxOccupancy": 930,
+      "averageAge": 9,
+      "rating": 4.8
+    },
+    "description": "Offers cultural immersion, quiet luxury, and destination lectures instead of high-energy deck activities. Strictly adults-only (18+).",
+    "features": [
+      "Scandinavian-designed Living Room",
+      "Mamsen's Norwegian deli",
+      "Manfredi's Italian Restaurant",
+      "No kids or casino onboard"
+    ]
+  },
+  {
+    "id": "viking-alsvid",
+    "cruiseLineId": "viking-river",
+    "cruiseLineName": "Viking River Cruises",
+    "specs": {
+      "name": "Viking Alsvid",
+      "shipClass": "Longship Class",
+      "launchYear": 2014,
+      "passengerCapacity": 190,
+      "crewSize": 50,
+      "tonnage": 5000,
+      "lengthMeters": 135,
+      "decks": 4,
+      "totalCabins": 95,
+      "maxOccupancy": 190,
+      "averageAge": 12,
+      "rating": 4.6
+    },
+    "description": "A Viking Longship sailing Europe's Rhine, Main, and Danube rivers, featuring Aquavit Terrace open-air dining.",
+    "features": [
+      "Aquavit Terrace indoor/outdoor dining",
+      "Veranda suites with walk-out balconies",
+      "Organic herb garden onboard",
+      "Solar panels for green auxiliary power"
+    ]
+  },
+  {
+    "id": "viking-kara",
+    "cruiseLineId": "viking-river",
+    "cruiseLineName": "Viking River Cruises",
+    "specs": {
+      "name": "Viking Kara",
+      "shipClass": "Longship Class",
+      "launchYear": 2014,
+      "passengerCapacity": 190,
+      "crewSize": 50,
+      "tonnage": 5000,
+      "lengthMeters": 135,
+      "decks": 4,
+      "totalCabins": 95,
+      "maxOccupancy": 190,
+      "averageAge": 12,
+      "rating": 4.6
+    },
+    "description": "A Rhine and Danube river favorite, combining elegant Scandinavian minimalist design with panoramic river viewing windows.",
+    "features": [
+      "Aquavit Terrace",
+      "Boutique library & shop",
+      "Rhine & Danube itinerary maps",
+      "French Balcony cabins"
+    ]
+  },
+  {
+    "id": "amamagna",
+    "cruiseLineId": "amawaterways",
+    "cruiseLineName": "AmaWaterways",
+    "specs": {
+      "name": "AmaMagna",
+      "shipClass": "Magna Class",
+      "launchYear": 2019,
+      "passengerCapacity": 196,
+      "crewSize": 70,
+      "tonnage": 8000,
+      "lengthMeters": 135,
+      "decks": 4,
+      "totalCabins": 98,
+      "maxOccupancy": 196,
+      "averageAge": 7,
+      "rating": 4.9
+    },
+    "description": "A double-width river ship on the Danube, offering double the space, four unique dining venues, a Zen Wellness Studio, and water sports platform.",
+    "features": [
+      "Double-width river ship spacing",
+      "Zen Wellness Studio",
+      "Water sports platform with zodiac",
+      "Jimmy's Wine Bar Restaurant"
+    ]
+  },
+  {
+    "id": "amakristina",
+    "cruiseLineId": "amawaterways",
+    "cruiseLineName": "AmaWaterways",
+    "specs": {
+      "name": "AmaKristina",
+      "shipClass": "Violin Class",
+      "launchYear": 2017,
+      "passengerCapacity": 156,
+      "crewSize": 51,
+      "tonnage": 4000,
+      "lengthMeters": 110,
+      "decks": 4,
+      "totalCabins": 78,
+      "maxOccupancy": 156,
+      "averageAge": 9,
+      "rating": 4.7
+    },
+    "description": "Award-winning river cruise vessel featuring twin balconies, a heated sun deck pool with swim-up bar, and complimentary bicycles.",
+    "features": [
+      "Swim-up pool bar on sun deck",
+      "Twin balcony staterooms",
+      "The Chef's Table restaurant",
+      "Fleet of complimentary bicycles"
+    ]
+  },
+  {
+    "id": "avalon-envision",
+    "cruiseLineId": "avalon",
+    "cruiseLineName": "Avalon Waterways",
+    "specs": {
+      "name": "Avalon Envision",
+      "shipClass": "Suite Ship Class",
+      "launchYear": 2019,
+      "passengerCapacity": 166,
+      "crewSize": 47,
+      "tonnage": 4000,
+      "lengthMeters": 110,
+      "decks": 4,
+      "totalCabins": 83,
+      "maxOccupancy": 166,
+      "averageAge": 7,
+      "rating": 4.7
+    },
+    "description": "A signature Suite Ship hosting Panorama Suites with giant open-air balconies, wall-to-wall windows, and active excursion options.",
+    "features": [
+      "11-foot wall-to-wall Panorama windows",
+      "River-facing beds",
+      "Club lounge specialty coffee",
+      "Sky Deck whirlpool"
+    ]
+  },
+  {
+    "id": "scenic-eclipse",
+    "cruiseLineId": "scenic",
+    "cruiseLineName": "Scenic Cruises",
+    "specs": {
+      "name": "Scenic Eclipse",
+      "shipClass": "Discovery Yacht",
+      "launchYear": 2019,
+      "passengerCapacity": 228,
+      "crewSize": 176,
+      "tonnage": 17085,
+      "lengthMeters": 168,
+      "decks": 8,
+      "totalCabins": 114,
+      "maxOccupancy": 228,
+      "averageAge": 7,
+      "rating": 5
+    },
+    "description": "A 6-star ultra-luxury Discovery Yacht, featuring an ice-class PC6 hull for polar cruising, onboard helicopters, and a custom submarine.",
+    "features": [
+      "Onboard Airbus H130 helicopters",
+      "Scenic Neptune custom submarine",
+      "Senses Spa and yoga studio",
+      "10 fine dining experiences included"
+    ]
+  },
+  {
+    "id": "emerald-azzurra",
+    "cruiseLineId": "emerald",
+    "cruiseLineName": "Emerald Cruises",
+    "specs": {
+      "name": "Emerald Azzurra",
+      "shipClass": "Yacht Class",
+      "launchYear": 2022,
+      "passengerCapacity": 100,
+      "crewSize": 64,
+      "tonnage": 5300,
+      "lengthMeters": 110,
+      "decks": 6,
+      "totalCabins": 50,
+      "maxOccupancy": 100,
+      "averageAge": 4,
+      "rating": 4.7
+    },
+    "description": "A luxury motor yacht offering ocean cruising in the Adriatic, Red Sea, and Mediterranean, with a marina platform and infinity pool.",
+    "features": [
+      "Stern Marina platform with paddleboards",
+      "Infinity pool off the yacht aft",
+      "La Cucina dining room",
+      "Amici Bar & Lounge"
+    ]
+  },
+  {
+    "id": "ss-joie-de-vivre",
+    "cruiseLineId": "uniworld",
+    "cruiseLineName": "Uniworld Boutique River Cruises",
+    "specs": {
+      "name": "S.S. Joie de Vivre",
+      "shipClass": "Super Ship Class",
+      "launchYear": 2017,
+      "passengerCapacity": 128,
+      "crewSize": 54,
+      "tonnage": 3500,
+      "lengthMeters": 110,
+      "decks": 4,
+      "totalCabins": 64,
+      "maxOccupancy": 128,
+      "averageAge": 9,
+      "rating": 4.9
+    },
+    "description": "Designed specifically to sail Paris and Normandy on the Seine, reflecting French history and art-deco heritage with opulent interiors.",
+    "features": [
+      "Salon de Beaux-Arts lounge",
+      "Le Club L'Esprit pool & spa",
+      "La Cave du Vin private cooking class",
+      "Included local artisanal wines"
+    ]
+  },
+  {
+    "id": "le-commandant-charcot",
+    "cruiseLineId": "ponant",
+    "cruiseLineName": "Ponant",
+    "specs": {
+      "name": "Le Commandant Charcot",
+      "shipClass": "Polar Expedition Class",
+      "launchYear": 2021,
+      "passengerCapacity": 270,
+      "crewSize": 187,
+      "tonnage": 31283,
+      "lengthMeters": 150,
+      "decks": 9,
+      "totalCabins": 135,
+      "maxOccupancy": 270,
+      "averageAge": 5,
+      "rating": 5
+    },
+    "description": "The world's first hybrid-electric polar exploration vessel, featuring PC2 ice class (capable of reaching the geographic North Pole) in luxury.",
+    "features": [
+      "Geographic North Pole sailing capability",
+      "Noryang heated outdoor pool",
+      "Science laboratory on board",
+      "Ducasse Conseil fine dining"
+    ]
+  },
+  {
+    "id": "ms-roald-amundsen",
+    "cruiseLineId": "hurtigruten",
+    "cruiseLineName": "Hurtigruten",
+    "specs": {
+      "name": "MS Roald Amundsen",
+      "shipClass": "Polar Hybrid Class",
+      "launchYear": 2019,
+      "passengerCapacity": 530,
+      "crewSize": 150,
+      "tonnage": 20889,
+      "lengthMeters": 140,
+      "decks": 9,
+      "totalCabins": 265,
+      "maxOccupancy": 530,
+      "averageAge": 7,
+      "rating": 4.7
+    },
+    "description": "The world's first hybrid-powered cruise ship, featuring large battery packs to significantly reduce fuel consumption and CO2 emissions.",
+    "features": [
+      "Hybrid electric battery operation",
+      "Amundsen Science Center",
+      "Outdoor heated infinity pool",
+      "Fredheim international dining"
+    ]
+  },
+  {
+    "id": "wind-surf",
+    "cruiseLineId": "windstar",
+    "cruiseLineName": "Windstar Cruises",
+    "specs": {
+      "name": "Wind Surf",
+      "shipClass": "Sailing Yacht Class",
+      "launchYear": 1989,
+      "lastRenovation": 2019,
+      "passengerCapacity": 342,
+      "crewSize": 210,
+      "tonnage": 14745,
+      "lengthMeters": 187,
+      "decks": 6,
+      "totalCabins": 171,
+      "maxOccupancy": 342,
+      "averageAge": 37,
+      "rating": 4.7
+    },
+    "description": "The largest sailing ship in the world, featuring five towering masts, computerized sails, and a state-of-the-art water sports platform.",
+    "features": [
+      "Computerized self-furling sails",
+      "Watersports platform on the stern",
+      "Stella Bistro French dining",
+      "Open Bridge policy"
+    ]
+  }
+]

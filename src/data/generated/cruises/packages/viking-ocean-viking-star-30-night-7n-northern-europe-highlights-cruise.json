@@ -1,0 +1,1964 @@
+{
+  "id": "PKG-CRUISE-VIKING-OCEAN-VIKING-STAR-30-NIGHT-7N-NORTHERN-EUROPE-HIGHLIGHTS-CRUISE",
+  "slug": "viking-ocean-viking-star-30-night-7n-northern-europe-highlights-cruise",
+  "title": "30-Night Northern Europe Capitals",
+  "cruiseName": "30-Night Northern Europe Capitals",
+  "cruiseLineId": "viking-ocean",
+  "cruiseLineName": "Viking Ocean Cruises",
+  "shipId": "viking-star",
+  "shipName": "Viking Star",
+  "shipSpecs": {
+    "name": "Viking Star",
+    "shipClass": "Viking Star Class",
+    "launchYear": 2015,
+    "passengerCapacity": 930,
+    "crewSize": 550,
+    "tonnage": 47800,
+    "lengthMeters": 227,
+    "decks": 9,
+    "totalCabins": 465,
+    "maxOccupancy": 930,
+    "averageAge": 11,
+    "rating": 4.8
+  },
+  "categories": [
+    "Ocean Cruises",
+    "Adults-Only Cruises",
+    "Small Ship Cruises"
+  ],
+  "destination": "Northern Europe",
+  "departurePortId": "southampton",
+  "departurePortName": "Port of Southampton",
+  "arrivalPortId": "southampton",
+  "arrivalPortName": "Port of Southampton",
+  "durationNights": 30,
+  "embarkationTime": "12:00 PM - 03:30 PM",
+  "disembarkationTime": "07:00 AM - 09:30 AM",
+  "seaDays": 9,
+  "portDays": 22,
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "Embarkation",
+      "departureTime": "05:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Ship orientation tour",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Pub-style gastro bar"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Show"
+      ]
+    },
+    {
+      "day": 2,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 520,
+      "activities": [
+        "Afternoon tea service",
+        "Deck quoits tournament",
+        "Enrichment lecture on Dutch history"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Grill",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "West End style theater production"
+      ]
+    },
+    {
+      "day": 3,
+      "portId": "amsterdam-port",
+      "portName": "Amsterdam",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "11:00 PM",
+      "distanceKm": 590,
+      "activities": [
+        "Canal boat cruise",
+        "Visit the Van Gogh Museum",
+        "Cycle through the Jordaan district"
+      ],
+      "suggestedExcursions": [
+        "Amsterdam Canal Cruise & Rijksmuseum Tour",
+        "Windmills of Zaanse Schans Day Trip"
+      ],
+      "diningRecommendations": [
+        "Rijks restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 4,
+      "portName": "Hamburg",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 460,
+      "activities": [
+        "Explore the historic Speicherstadt warehouse district",
+        "Tour Elbphilharmonie concert hall",
+        "Harbor boat tour"
+      ],
+      "suggestedExcursions": [
+        "Speicherstadt & Warehouse District Walking Tour",
+        "Hamburg Harbor Boat Cruise"
+      ],
+      "diningRecommendations": [
+        "Fischmarkt seafood stalls",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Comedy Club Show"
+      ]
+    },
+    {
+      "day": 5,
+      "portName": "Zeebrugge (Bruges)",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "07:00 PM",
+      "distanceKm": 380,
+      "activities": [
+        "Canal boat tour of medieval Bruges",
+        "Belgian chocolate and beer tasting",
+        "Climb the Belfry of Bruges"
+      ],
+      "suggestedExcursions": [
+        "Bruges Canals & Old Town Tour",
+        "Belgian Beer & Chocolate Tasting Tour"
+      ],
+      "diningRecommendations": [
+        "Bruges chocolate house cafe",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Live jazz trio in the lounge"
+      ]
+    },
+    {
+      "day": 6,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 410,
+      "activities": [
+        "Culinary demonstration",
+        "Bridge and card tournaments",
+        "Farewell packing"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Gala Show"
+      ]
+    },
+    {
+      "day": 7,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 260,
+      "activities": [
+        "Final breakfast",
+        "Customs & departure transfers"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 8,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "Embarkation",
+      "departureTime": "05:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Ship orientation tour",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Pub-style gastro bar"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Show"
+      ]
+    },
+    {
+      "day": 9,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 520,
+      "activities": [
+        "Afternoon tea service",
+        "Deck quoits tournament",
+        "Enrichment lecture on Dutch history"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Grill",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "West End style theater production"
+      ]
+    },
+    {
+      "day": 10,
+      "portId": "amsterdam-port",
+      "portName": "Amsterdam",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "11:00 PM",
+      "distanceKm": 590,
+      "activities": [
+        "Canal boat cruise",
+        "Visit the Van Gogh Museum",
+        "Cycle through the Jordaan district"
+      ],
+      "suggestedExcursions": [
+        "Amsterdam Canal Cruise & Rijksmuseum Tour",
+        "Windmills of Zaanse Schans Day Trip"
+      ],
+      "diningRecommendations": [
+        "Rijks restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 11,
+      "portName": "Hamburg",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 460,
+      "activities": [
+        "Explore the historic Speicherstadt warehouse district",
+        "Tour Elbphilharmonie concert hall",
+        "Harbor boat tour"
+      ],
+      "suggestedExcursions": [
+        "Speicherstadt & Warehouse District Walking Tour",
+        "Hamburg Harbor Boat Cruise"
+      ],
+      "diningRecommendations": [
+        "Fischmarkt seafood stalls",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Comedy Club Show"
+      ]
+    },
+    {
+      "day": 12,
+      "portName": "Zeebrugge (Bruges)",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "07:00 PM",
+      "distanceKm": 380,
+      "activities": [
+        "Canal boat tour of medieval Bruges",
+        "Belgian chocolate and beer tasting",
+        "Climb the Belfry of Bruges"
+      ],
+      "suggestedExcursions": [
+        "Bruges Canals & Old Town Tour",
+        "Belgian Beer & Chocolate Tasting Tour"
+      ],
+      "diningRecommendations": [
+        "Bruges chocolate house cafe",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Live jazz trio in the lounge"
+      ]
+    },
+    {
+      "day": 13,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 410,
+      "activities": [
+        "Culinary demonstration",
+        "Bridge and card tournaments",
+        "Farewell packing"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Gala Show"
+      ]
+    },
+    {
+      "day": 14,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 260,
+      "activities": [
+        "Final breakfast",
+        "Customs & departure transfers"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 15,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "Embarkation",
+      "departureTime": "05:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Ship orientation tour",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Pub-style gastro bar"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Show"
+      ]
+    },
+    {
+      "day": 16,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 520,
+      "activities": [
+        "Afternoon tea service",
+        "Deck quoits tournament",
+        "Enrichment lecture on Dutch history"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Grill",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "West End style theater production"
+      ]
+    },
+    {
+      "day": 17,
+      "portId": "amsterdam-port",
+      "portName": "Amsterdam",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "11:00 PM",
+      "distanceKm": 590,
+      "activities": [
+        "Canal boat cruise",
+        "Visit the Van Gogh Museum",
+        "Cycle through the Jordaan district"
+      ],
+      "suggestedExcursions": [
+        "Amsterdam Canal Cruise & Rijksmuseum Tour",
+        "Windmills of Zaanse Schans Day Trip"
+      ],
+      "diningRecommendations": [
+        "Rijks restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 18,
+      "portName": "Hamburg",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 460,
+      "activities": [
+        "Explore the historic Speicherstadt warehouse district",
+        "Tour Elbphilharmonie concert hall",
+        "Harbor boat tour"
+      ],
+      "suggestedExcursions": [
+        "Speicherstadt & Warehouse District Walking Tour",
+        "Hamburg Harbor Boat Cruise"
+      ],
+      "diningRecommendations": [
+        "Fischmarkt seafood stalls",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Comedy Club Show"
+      ]
+    },
+    {
+      "day": 19,
+      "portName": "Zeebrugge (Bruges)",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "07:00 PM",
+      "distanceKm": 380,
+      "activities": [
+        "Canal boat tour of medieval Bruges",
+        "Belgian chocolate and beer tasting",
+        "Climb the Belfry of Bruges"
+      ],
+      "suggestedExcursions": [
+        "Bruges Canals & Old Town Tour",
+        "Belgian Beer & Chocolate Tasting Tour"
+      ],
+      "diningRecommendations": [
+        "Bruges chocolate house cafe",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Live jazz trio in the lounge"
+      ]
+    },
+    {
+      "day": 20,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 410,
+      "activities": [
+        "Culinary demonstration",
+        "Bridge and card tournaments",
+        "Farewell packing"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Gala Show"
+      ]
+    },
+    {
+      "day": 21,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 260,
+      "activities": [
+        "Final breakfast",
+        "Customs & departure transfers"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 22,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "Embarkation",
+      "departureTime": "05:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Ship orientation tour",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Pub-style gastro bar"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Show"
+      ]
+    },
+    {
+      "day": 23,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 520,
+      "activities": [
+        "Afternoon tea service",
+        "Deck quoits tournament",
+        "Enrichment lecture on Dutch history"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Grill",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "West End style theater production"
+      ]
+    },
+    {
+      "day": 24,
+      "portId": "amsterdam-port",
+      "portName": "Amsterdam",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "11:00 PM",
+      "distanceKm": 590,
+      "activities": [
+        "Canal boat cruise",
+        "Visit the Van Gogh Museum",
+        "Cycle through the Jordaan district"
+      ],
+      "suggestedExcursions": [
+        "Amsterdam Canal Cruise & Rijksmuseum Tour",
+        "Windmills of Zaanse Schans Day Trip"
+      ],
+      "diningRecommendations": [
+        "Rijks restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    },
+    {
+      "day": 25,
+      "portName": "Hamburg",
+      "arrivalTime": "08:00 AM",
+      "departureTime": "06:00 PM",
+      "distanceKm": 460,
+      "activities": [
+        "Explore the historic Speicherstadt warehouse district",
+        "Tour Elbphilharmonie concert hall",
+        "Harbor boat tour"
+      ],
+      "suggestedExcursions": [
+        "Speicherstadt & Warehouse District Walking Tour",
+        "Hamburg Harbor Boat Cruise"
+      ],
+      "diningRecommendations": [
+        "Fischmarkt seafood stalls",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Comedy Club Show"
+      ]
+    },
+    {
+      "day": 26,
+      "portName": "Zeebrugge (Bruges)",
+      "arrivalTime": "07:00 AM",
+      "departureTime": "07:00 PM",
+      "distanceKm": 380,
+      "activities": [
+        "Canal boat tour of medieval Bruges",
+        "Belgian chocolate and beer tasting",
+        "Climb the Belfry of Bruges"
+      ],
+      "suggestedExcursions": [
+        "Bruges Canals & Old Town Tour",
+        "Belgian Beer & Chocolate Tasting Tour"
+      ],
+      "diningRecommendations": [
+        "Bruges chocolate house cafe",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Live jazz trio in the lounge"
+      ]
+    },
+    {
+      "day": 27,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 410,
+      "activities": [
+        "Culinary demonstration",
+        "Bridge and card tournaments",
+        "Farewell packing"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Chef's Table Dining",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Farewell Gala Show"
+      ]
+    },
+    {
+      "day": 28,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "06:00 AM",
+      "departureTime": "Disembarkation",
+      "distanceKm": 260,
+      "activities": [
+        "Final breakfast",
+        "Customs & departure transfers"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Breakfast buffet"
+      ],
+      "eveningEntertainment": []
+    },
+    {
+      "day": 29,
+      "portId": "southampton",
+      "portName": "Southampton",
+      "arrivalTime": "Embarkation",
+      "departureTime": "05:00 PM",
+      "distanceKm": 0,
+      "activities": [
+        "Cabin check-in",
+        "Ship orientation tour",
+        "Safety muster drill"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Main Dining Room",
+        "Pub-style gastro bar"
+      ],
+      "eveningEntertainment": [
+        "Welcome Aboard Show"
+      ]
+    },
+    {
+      "day": 30,
+      "portName": "Cruising at Sea",
+      "arrivalTime": "At Sea",
+      "departureTime": "At Sea",
+      "distanceKm": 520,
+      "activities": [
+        "Afternoon tea service",
+        "Deck quoits tournament",
+        "Enrichment lecture on Dutch history"
+      ],
+      "suggestedExcursions": [],
+      "diningRecommendations": [
+        "Specialty Grill",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "West End style theater production"
+      ]
+    },
+    {
+      "day": 31,
+      "portId": "amsterdam-port",
+      "portName": "Amsterdam",
+      "arrivalTime": "Disembarkation",
+      "departureTime": "Disembarkation",
+      "distanceKm": 590,
+      "activities": [
+        "Canal boat cruise",
+        "Visit the Van Gogh Museum",
+        "Cycle through the Jordaan district"
+      ],
+      "suggestedExcursions": [
+        "Amsterdam Canal Cruise & Rijksmuseum Tour",
+        "Windmills of Zaanse Schans Day Trip"
+      ],
+      "diningRecommendations": [
+        "Rijks restaurant",
+        "Main Dining Room"
+      ],
+      "eveningEntertainment": [
+        "Overnight in port - optional shore nightlife"
+      ]
+    }
+  ],
+  "shoreExcursions": [
+    {
+      "id": "EXC-southampton-0",
+      "name": "Scenic Route of Southampton",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 207,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-amsterdam-1",
+      "name": "Secrets of Amsterdam",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 236,
+      "description": "A wonderful half-day tours exploring the sights of Amsterdam. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-hamburg-2",
+      "name": "Adventure in Hamburg",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 175,
+      "description": "A wonderful half-day tours exploring the sights of Hamburg. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-zeebrugge--bruges--3",
+      "name": "Best of Zeebrugge (Bruges)",
+      "type": "Free Activities",
+      "duration": "Full-Day Tours",
+      "priceUSD": 0,
+      "description": "A wonderful full-day tours exploring the sights of Zeebrugge (Bruges). This free activities covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-4",
+      "name": "Discover Southampton",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 126,
+      "description": "A wonderful full-day tours exploring the sights of Southampton. This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-5",
+      "name": "Scenic Route of Southampton",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 204,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-amsterdam-6",
+      "name": "Adventure in Amsterdam",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 159,
+      "description": "A wonderful half-day tours exploring the sights of Amsterdam. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-hamburg-7",
+      "name": "Discover Hamburg",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 124,
+      "description": "A wonderful full-day tours exploring the sights of Hamburg. This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-zeebrugge--bruges--8",
+      "name": "Highlights of Zeebrugge (Bruges)",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 103,
+      "description": "A wonderful full-day tours exploring the sights of Zeebrugge (Bruges). This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-9",
+      "name": "Highlights of Southampton",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 92,
+      "description": "A wonderful full-day tours exploring the sights of Southampton. This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-10",
+      "name": "Adventure in Southampton",
+      "type": "Nature Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 164,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This nature tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-amsterdam-11",
+      "name": "Highlights of Amsterdam",
+      "type": "Adventure Tours",
+      "duration": "Full-Day Tours",
+      "priceUSD": 90,
+      "description": "A wonderful full-day tours exploring the sights of Amsterdam. This adventure tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-hamburg-12",
+      "name": "Discover Hamburg",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 119,
+      "description": "A wonderful full-day tours exploring the sights of Hamburg. This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-zeebrugge--bruges--13",
+      "name": "Scenic Route of Zeebrugge (Bruges)",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 226,
+      "description": "A wonderful half-day tours exploring the sights of Zeebrugge (Bruges). This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-14",
+      "name": "Secrets of Southampton",
+      "type": "Private Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 260,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This private tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-15",
+      "name": "Scenic Route of Southampton",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 222,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-amsterdam-16",
+      "name": "Scenic Route of Amsterdam",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 201,
+      "description": "A wonderful half-day tours exploring the sights of Amsterdam. This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-hamburg-17",
+      "name": "Secrets of Hamburg",
+      "type": "Food Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 239,
+      "description": "A wonderful half-day tours exploring the sights of Hamburg. This food tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-zeebrugge--bruges--18",
+      "name": "Discover Zeebrugge (Bruges)",
+      "type": "Luxury Experiences",
+      "duration": "Full-Day Tours",
+      "priceUSD": 122,
+      "description": "A wonderful full-day tours exploring the sights of Zeebrugge (Bruges). This luxury experiences covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-19",
+      "name": "Scenic Route of Southampton",
+      "type": "Cultural Tours",
+      "duration": "Half-Day Tours",
+      "priceUSD": 205,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This cultural tours covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-southampton-20",
+      "name": "Adventure in Southampton",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 184,
+      "description": "A wonderful half-day tours exploring the sights of Southampton. This water sports covers main landmarks, guided by a local historian."
+    },
+    {
+      "id": "EXC-amsterdam-21",
+      "name": "Adventure in Amsterdam",
+      "type": "Water Sports",
+      "duration": "Half-Day Tours",
+      "priceUSD": 180,
+      "description": "A wonderful half-day tours exploring the sights of Amsterdam. This water sports covers main landmarks, guided by a local historian."
+    }
+  ],
+  "onboardExperience": {
+    "restaurants": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "specialtyDining": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "bars": [
+      "Schooner Piano Bar",
+      "Pool Bar",
+      "Sunset Lounge"
+    ],
+    "lounges": [
+      "Viking Crown Lounge",
+      "Explorer's Lounge"
+    ],
+    "pools": 2,
+    "waterParks": false,
+    "casino": false,
+    "spa": true,
+    "fitnessCenter": true,
+    "kidsClub": false,
+    "teenClub": false,
+    "theater": true,
+    "broadwayShows": [
+      "Six"
+    ],
+    "comedy": true,
+    "nightclubs": true,
+    "shopping": [
+      "Boutique Gift Shop"
+    ],
+    "artGallery": true,
+    "sportsFeatures": [
+      "Fitness jogging track",
+      "Shuffleboard"
+    ],
+    "movieTheater": true,
+    "library": true,
+    "businessCenter": true,
+    "medicalCenter": true,
+    "weddingChapel": true
+  },
+  "dining": {
+    "complimentary": [
+      "Grand Dining Room",
+      "Oceanview Café (Buffet)"
+    ],
+    "buffets": [
+      "Lido Buffet",
+      "Windjammer Café"
+    ],
+    "specialty": [
+      "Pinnacle Grill Steakhouse",
+      "Tuscan Grille Italian"
+    ],
+    "chefsTable": false,
+    "roomService": "24-hour complimentary room service available (late-night service fee may apply on some tiers)",
+    "dietaryOptions": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": false,
+      "kosher": false,
+      "glutenFree": true
+    },
+    "kidsMenu": false
+  },
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Luxury cruise ship Viking Star sailing in Northern Europe",
+      "keywords": [
+        "Viking Star",
+        "Northern Europe",
+        "cruise ship"
+      ],
+      "unsplashQuery": "cruise ship northern europe",
+      "pexelsQuery": "cruise ship northern europe"
+    },
+    {
+      "role": "ship",
+      "altText": "Viking Star cruise ship deck view and design",
+      "keywords": [
+        "Viking Star",
+        "exterior",
+        "cruise deck"
+      ],
+      "unsplashQuery": "cruise ship deck",
+      "pexelsQuery": "cruise ship exterior"
+    },
+    {
+      "role": "cabin",
+      "altText": "Balcony stateroom cabin on board Viking Star",
+      "keywords": [
+        "cruise cabin",
+        "stateroom",
+        "balcony room"
+      ],
+      "unsplashQuery": "cruise cabin",
+      "pexelsQuery": "hotel room balcony view"
+    },
+    {
+      "role": "restaurant",
+      "altText": "Gourmet fine dining restaurant onboard cruise ship",
+      "keywords": [
+        "cruise dining",
+        "restaurant",
+        "fine dining"
+      ],
+      "unsplashQuery": "fine dining restaurant",
+      "pexelsQuery": "luxury restaurant"
+    },
+    {
+      "role": "pool",
+      "altText": "Main resort-style swimming pool on the ship deck",
+      "keywords": [
+        "cruise pool",
+        "swimming pool",
+        "deck pools"
+      ],
+      "unsplashQuery": "cruise ship pool",
+      "pexelsQuery": "resort pool"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-30-night-northern-europe-capitals-1",
+      "author": "Guest Traveler 1",
+      "country": "Australia",
+      "date": "2026-07-08",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-2",
+      "author": "Guest Traveler 2",
+      "country": "Singapore",
+      "date": "2026-07-03",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-3",
+      "author": "Guest Traveler 3",
+      "country": "Germany",
+      "date": "2026-06-28",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-4",
+      "author": "Guest Traveler 4",
+      "country": "Singapore",
+      "date": "2026-06-23",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-5",
+      "author": "Guest Traveler 5",
+      "country": "Canada",
+      "date": "2026-06-18",
+      "title": "Perfect Getaway",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-6",
+      "author": "Guest Traveler 6",
+      "country": "Germany",
+      "date": "2026-06-13",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-7",
+      "author": "Guest Traveler 7",
+      "country": "United Kingdom",
+      "date": "2026-06-08",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-8",
+      "author": "Guest Traveler 8",
+      "country": "Singapore",
+      "date": "2026-06-03",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 5,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-9",
+      "author": "Guest Traveler 9",
+      "country": "Australia",
+      "date": "2026-05-29",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-10",
+      "author": "Guest Traveler 10",
+      "country": "Germany",
+      "date": "2026-05-24",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-11",
+      "author": "Guest Traveler 11",
+      "country": "United Kingdom",
+      "date": "2026-05-19",
+      "title": "Unbelievable Cruise!",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 3.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 3.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4
+      },
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-12",
+      "author": "Guest Traveler 12",
+      "country": "Singapore",
+      "date": "2026-05-14",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-13",
+      "author": "Guest Traveler 13",
+      "country": "Canada",
+      "date": "2026-05-09",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-14",
+      "author": "Guest Traveler 14",
+      "country": "Germany",
+      "date": "2026-05-04",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-15",
+      "author": "Guest Traveler 15",
+      "country": "Australia",
+      "date": "2026-04-29",
+      "title": "Fantastic value",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4,
+        "service": 5,
+        "excursion": 4,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-16",
+      "author": "Guest Traveler 16",
+      "country": "Singapore",
+      "date": "2026-04-24",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-17",
+      "author": "Guest Traveler 17",
+      "country": "Germany",
+      "date": "2026-04-19",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-18",
+      "author": "Guest Traveler 18",
+      "country": "Singapore",
+      "date": "2026-04-14",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-19",
+      "author": "Guest Traveler 19",
+      "country": "Canada",
+      "date": "2026-04-09",
+      "title": "Very relaxing experience",
+      "body": "Great family vacation. The kids club kept the children busy all day, letting us relax in the adults-only Solarium. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.3,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "largeFamily",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-20",
+      "author": "Guest Traveler 20",
+      "country": "Germany",
+      "date": "2026-04-04",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-21",
+      "author": "Guest Traveler 21",
+      "country": "Germany",
+      "date": "2026-03-30",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 5,
+        "value": 5,
+        "internet": 5,
+        "family": 5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-22",
+      "author": "Guest Traveler 22",
+      "country": "Singapore",
+      "date": "2026-03-25",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-23",
+      "author": "Guest Traveler 23",
+      "country": "Germany",
+      "date": "2026-03-20",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.6,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "senior",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-24",
+      "author": "Guest Traveler 24",
+      "country": "Germany",
+      "date": "2026-03-15",
+      "title": "Will cruise again",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.8,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-25",
+      "author": "Guest Traveler 25",
+      "country": "United Kingdom",
+      "date": "2026-03-10",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.2,
+        "cabin": 4.5,
+        "dining": 4,
+        "entertainment": 4.5,
+        "service": 4.5,
+        "excursion": 4,
+        "cleanliness": 4,
+        "value": 4,
+        "internet": 4.5,
+        "family": 4,
+        "luxury": 4
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-26",
+      "author": "Guest Traveler 26",
+      "country": "Singapore",
+      "date": "2026-03-05",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 5,
+        "dining": 5,
+        "entertainment": 4.5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-27",
+      "author": "Guest Traveler 27",
+      "country": "United Kingdom",
+      "date": "2026-02-28",
+      "title": "Perfect Getaway",
+      "body": "Dining options were amazing. Specialty restaurants were worth the cover charge. The theater shows were Broadway quality. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.1,
+        "cabin": 4,
+        "dining": 4,
+        "entertainment": 4,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4,
+        "internet": 4,
+        "family": 4,
+        "luxury": 4.5
+      },
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-28",
+      "author": "Guest Traveler 28",
+      "country": "Singapore",
+      "date": "2026-02-23",
+      "title": "Will cruise again",
+      "body": "Outstanding itineraries and beautiful scenery. Dining was a culinary highlight every single night. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.9,
+        "cabin": 4.5,
+        "dining": 5,
+        "entertainment": 5,
+        "service": 5,
+        "excursion": 5,
+        "cleanliness": 4.5,
+        "value": 5,
+        "internet": 4.5,
+        "family": 5,
+        "luxury": 4.5
+      },
+      "travelerType": "luxuryTraveler",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-29",
+      "author": "Guest Traveler 29",
+      "country": "Australia",
+      "date": "2026-02-18",
+      "title": "Very relaxing experience",
+      "body": "Refined atmosphere, excellent service, and beautiful ship design. Excursion slots filled up quickly, so book early. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.5,
+        "cabin": 4.5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 4.5,
+        "cleanliness": 4.5,
+        "value": 4.5,
+        "internet": 4.5,
+        "family": 4.5,
+        "luxury": 5
+      },
+      "travelerType": "group",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-30-night-northern-europe-capitals-30",
+      "author": "Guest Traveler 30",
+      "country": "Germany",
+      "date": "2026-02-13",
+      "title": "Fantastic value",
+      "body": "The ship was clean and well maintained. Wi-Fi was a bit slow in remote areas, but overall a great value cruise. Slipped off to 30-Night Northern Europe Capitals and had a fantastic time.",
+      "ratings": {
+        "overall": 4.7,
+        "cabin": 5,
+        "dining": 4.5,
+        "entertainment": 5,
+        "service": 4.5,
+        "excursion": 5,
+        "cleanliness": 5,
+        "value": 4.5,
+        "internet": 5,
+        "family": 4.5,
+        "luxury": 4.5
+      },
+      "travelerType": "honeymoon",
+      "verifiedBooking": true
+    }
+  ],
+  "seo": {
+    "title": "30-Night Northern Europe Capitals | Viking Star | Viking Ocean Cruises",
+    "slug": "viking-ocean-viking-star-30-night-7n-northern-europe-highlights-cruise",
+    "metaDescription": "Book a 30-night Northern Europe cruise onboard Viking Star of Viking Ocean Cruises. Visiting Southampton, Amsterdam, Hamburg. Standard & luxury cabins available. Get a quote today.",
+    "keywords": [
+      "Northern Europe cruise",
+      "Viking Ocean Cruises packages",
+      "Viking Star staterooms",
+      "30 day cruise deals",
+      "cruise vacation"
+    ],
+    "canonicalUrl": "/cruises/viking-ocean-viking-star-30-night-7n-northern-europe-highlights-cruise",
+    "openGraph": {
+      "title": "30-Night Northern Europe Capitals - Viking Ocean Cruises",
+      "description": "Book a 30-night Northern Europe cruise onboard Viking Star of Viking Ocean Cruises. Visiting Southampton, Amsterdam, Hamburg. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/viking-star-hero.jpg",
+      "type": "website"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "title": "30-Night Northern Europe Capitals - Viking Ocean Cruises",
+      "description": "Book a 30-night Northern Europe cruise onboard Viking Star of Viking Ocean Cruises. Visiting Southampton, Amsterdam, Hamburg. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/viking-star-hero.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "30-Night Northern Europe Capitals",
+      "description": "Book a 30-night Northern Europe cruise onboard Viking Star of Viking Ocean Cruises. Visiting Southampton, Amsterdam, Hamburg. Standard & luxury cabins available. Get a quote today.",
+      "image": "/images/cruises/viking-star-hero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "6557",
+        "highPrice": "26228",
+        "offerCount": "10",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Interior Cabin",
+            "price": "6557",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Ocean View",
+            "price": "7991",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Balcony Cabin",
+            "price": "9997",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Junior Suite",
+            "price": "12943",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Suite",
+            "price": "16956",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Suite",
+            "price": "24982",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Owner's Suite",
+            "price": "38167",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Family Cabin",
+            "price": "12004",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Accessible Cabin",
+            "price": "7130",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Solo Cabin",
+            "price": "5698",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.6",
+        "reviewCount": "30"
+      }
+    }
+  },
+  "aiSearchTags": [
+    "northern europe cruise",
+    "viking ocean cruises",
+    "viking star",
+    "30 night cruise",
+    "port of southampton departure",
+    "port of southampton arrival",
+    "adults only cruise",
+    "ocean cruise",
+    "affordable cruise",
+    "balcony cabin available",
+    "all inclusive options",
+    "kids club onboard",
+    "specialty dining included",
+    "shore excursions available",
+    "visit southampton",
+    "visit amsterdam",
+    "visit hamburg",
+    "visit zeebrugge (bruges)",
+    "visit southampton",
+    "visit southampton",
+    "visit amsterdam",
+    "visit hamburg",
+    "visit zeebrugge (bruges)",
+    "visit southampton",
+    "visit southampton",
+    "visit amsterdam",
+    "visit hamburg",
+    "visit zeebrugge (bruges)",
+    "visit southampton",
+    "visit southampton",
+    "visit amsterdam",
+    "visit hamburg",
+    "visit zeebrugge (bruges)",
+    "visit southampton",
+    "visit southampton",
+    "visit amsterdam",
+    "eat at pinnacle grill steakhouse",
+    "eat at tuscan grille italian",
+    "onboard fitness jogging track",
+    "onboard shuffleboard",
+    "cruise discount tag 40",
+    "cruise discount tag 41",
+    "cruise discount tag 42",
+    "cruise discount tag 43",
+    "cruise discount tag 44",
+    "cruise discount tag 45",
+    "cruise discount tag 46",
+    "cruise discount tag 47",
+    "cruise discount tag 48",
+    "cruise discount tag 49",
+    "cruise discount tag 50",
+    "cruise discount tag 51",
+    "cruise discount tag 52",
+    "cruise discount tag 53",
+    "cruise discount tag 54",
+    "cruise discount tag 55",
+    "cruise discount tag 56",
+    "cruise discount tag 57",
+    "cruise discount tag 58",
+    "cruise discount tag 59",
+    "cruise discount tag 60",
+    "cruise discount tag 61",
+    "cruise discount tag 62",
+    "cruise discount tag 63",
+    "cruise discount tag 64",
+    "cruise discount tag 65",
+    "cruise discount tag 66",
+    "cruise discount tag 67",
+    "cruise discount tag 68",
+    "cruise discount tag 69",
+    "cruise discount tag 70",
+    "cruise discount tag 71",
+    "cruise discount tag 72",
+    "cruise discount tag 73",
+    "cruise discount tag 74"
+  ],
+  "filters": {
+    "cruiseLine": [
+      "Viking Ocean Cruises"
+    ],
+    "ship": [
+      "Viking Star"
+    ],
+    "shipClass": [
+      "Viking Star Class"
+    ],
+    "destination": [
+      "Northern Europe"
+    ],
+    "departurePort": [
+      "Port of Southampton"
+    ],
+    "arrivalPort": [
+      "Port of Southampton"
+    ],
+    "cabinType": [
+      "Interior Cabin",
+      "Ocean View",
+      "Balcony Cabin",
+      "Suite"
+    ],
+    "duration": [
+      "15+ Nights"
+    ],
+    "budget": [
+      "Premium"
+    ],
+    "luxury": false,
+    "family": false,
+    "adultsOnly": true,
+    "accessible": true,
+    "petFriendly": false,
+    "riverCruise": false,
+    "oceanCruise": true,
+    "expedition": false,
+    "season": [
+      "Summer",
+      "Winter"
+    ],
+    "month": [
+      "July",
+      "November"
+    ],
+    "schoolHolidays": false,
+    "christmas": false,
+    "newYear": true,
+    "summer": true,
+    "winter": false,
+    "spring": false,
+    "autumn": false,
+    "visaRequired": false,
+    "noVisa": false,
+    "wheelchairAccessible": true,
+    "internetIncluded": true,
+    "drinksIncluded": false,
+    "flightsIncluded": false,
+    "transfersIncluded": false
+  },
+  "ratings": {
+    "overall": 4.6,
+    "cabin": 4.7,
+    "dining": 4.6,
+    "entertainment": 4.6,
+    "service": 4.7,
+    "excursion": 4.6,
+    "cleanliness": 4.7,
+    "value": 4.5,
+    "internet": 4.6,
+    "family": 4.5,
+    "luxury": 4.6,
+    "reviewCount": 30
+  },
+  "fromPriceUSD": 6557
+}
