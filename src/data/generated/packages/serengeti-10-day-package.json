@@ -1,0 +1,1578 @@
+{
+  "id": "PKG-serengeti-10D",
+  "slug": "serengeti-10-day-package",
+  "destinationSlug": "serengeti",
+  "destinationName": "Serengeti",
+  "country": "Tanzania",
+  "region": "East Africa",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Serengeti 10-Day Wildlife Safari",
+  "metaTitle": "Serengeti 10-Day Wildlife Safari | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Serengeti, Tanzania: round-trip flights, hotel, breakfast, transfers, and guided tours including Serengeti National Park entry and game drives and Hot air balloon safari at dawn. Prices from $3590 per person (estimate).",
+  "highlights": [
+    "Serengeti National Park entry and game drives",
+    "Hot air balloon safari at dawn",
+    "Camp/lodge wildlife viewing",
+    "Hot air balloon safari",
+    "Private-guide fly-in safari with a premium tented camp",
+    "Ngorongoro Crater"
+  ],
+  "overview": "Spend 10 days discovering Serengeti, Tanzania — Warm savanna climate with two rainy seasons (November-December short rains, March-May long rains); daytime highs stay around 25-28°C year-round. June to October for the dry season and Western Corridor river crossings; December to March to witness the wildebeest calving season in the southern plains. This itinerary blends Serengeti National Park entry and game drives, Hot air balloon safari at dawn, Camp/lodge wildlife viewing with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Serengeti National Park entry and game drives, Hot air balloon safari at dawn, Camp/lodge wildlife viewing",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Serengeti",
+      "description": "Land at Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Serengeti National Park entry and game drives — Vast plains hosting the Great Migration and dense predator populations. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Serengeti National Park entry and game drives"
+      ],
+      "overnight": "Serengeti"
+    },
+    {
+      "day": 2,
+      "title": "Serengeti: Hot air balloon safari at dawn & Olduvai Gorge museum stop",
+      "description": "Morning visit to Hot air balloon safari at dawn — Sunrise flight over the plains followed by a champagne bush breakfast. In the afternoon, continue to Olduvai Gorge museum stop — Site of major early-human fossil discoveries, en route to the Serengeti. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Hot air balloon safari at dawn",
+        "Olduvai Gorge museum stop"
+      ],
+      "overnight": "Serengeti"
+    },
+    {
+      "day": 3,
+      "title": "Serengeti: Ngorongoro Crater day excursion & Camp/lodge wildlife viewing",
+      "description": "Morning visit to Ngorongoro Crater day excursion — Descent into a wildlife-dense volcanic caldera, typically combined with a Serengeti trip. In the afternoon, continue to Camp/lodge wildlife viewing — Many tented camps see game passing directly through camp grounds. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Ngorongoro Crater day excursion",
+        "Camp/lodge wildlife viewing"
+      ],
+      "overnight": "Serengeti"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Ngorongoro Crater",
+      "description": "Full-day excursion to Ngorongoro Crater, a popular side trip from Serengeti. Return to Serengeti in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Ngorongoro Crater",
+        "Free evening"
+      ],
+      "overnight": "Serengeti"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Western Corridor during the migration's river-crossing window — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Western Corridor during the migration's river-crossing window"
+      ],
+      "overnight": "Serengeti"
+    },
+    {
+      "day": 6,
+      "title": "Serengeti: Serengeti National Park entry and game drives & Hot air balloon safari at dawn",
+      "description": "Morning visit to Serengeti National Park entry and game drives — Vast plains hosting the Great Migration and dense predator populations. In the afternoon, continue to Hot air balloon safari at dawn — Sunrise flight over the plains followed by a champagne bush breakfast. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Serengeti National Park entry and game drives",
+        "Hot air balloon safari at dawn"
+      ],
+      "overnight": "Serengeti"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Olduvai Gorge",
+      "description": "Full-day excursion to Olduvai Gorge, a popular side trip from Serengeti. Return to Serengeti in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Olduvai Gorge",
+        "Free evening"
+      ],
+      "overnight": "Serengeti"
+    },
+    {
+      "day": 8,
+      "title": "Serengeti: Olduvai Gorge museum stop & Ngorongoro Crater day excursion",
+      "description": "Morning visit to Olduvai Gorge museum stop — Site of major early-human fossil discoveries, en route to the Serengeti. In the afternoon, continue to Ngorongoro Crater day excursion — Descent into a wildlife-dense volcanic caldera, typically combined with a Serengeti trip. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Olduvai Gorge museum stop",
+        "Ngorongoro Crater day excursion"
+      ],
+      "overnight": "Serengeti"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Moru Kopjes rock art sites — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Moru Kopjes rock art sites"
+      ],
+      "overnight": "Serengeti"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Camp/lodge wildlife viewing or some souvenir shopping — before your private transfer to JRO for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book migration-season safaris (especially river crossings) 6-12 months in advance — camps sell out.",
+    "A hot air balloon safari at dawn is the single most memorable optional add-on most travelers choose.",
+    "Combine the Serengeti with the Ngorongoro Crater for a very different, more concentrated wildlife experience.",
+    "Follow your guide's vehicle-exit rules strictly — this is genuinely dangerous wildlife territory.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Neutral safari colors (khaki, olive) — avoid bright colors and dark blue/black which attract tsetse flies",
+    "Warm layers for cold early-morning game drives",
+    "Binoculars and a zoom-lens camera",
+    "Malaria prophylaxis as advised by a doctor"
+  ],
+  "thingsToDo": [
+    "Serengeti National Park entry and game drives",
+    "Hot air balloon safari at dawn",
+    "Olduvai Gorge museum stop",
+    "Ngorongoro Crater day excursion",
+    "Camp/lodge wildlife viewing",
+    "Hot air balloon safari",
+    "Walking safari with an armed ranger (select conservancies)",
+    "Multi-day mobile camping safari following the migration",
+    "Family-friendly tented camps with junior ranger programs",
+    "Olduvai Gorge educational stop",
+    "Game drives suited to older children"
+  ],
+  "thingsToAvoid": [
+    "Booking during the wrong migration window for your priority sighting — research crossing timing carefully.",
+    "Underestimating flight/drive logistics between Arusha and the various Serengeti zones.",
+    "Skipping travel and medical evacuation insurance for a remote safari."
+  ],
+  "topRestaurants": [
+    "Camp/lodge dining (all-inclusive) — International and East African, bush-camp style ($$$$)"
+  ],
+  "topCafes": [
+    "Lodge and camp coffee/tea service"
+  ],
+  "shoppingAreas": [
+    "Curio shops at lodges and the Ngorongoro Crater rim"
+  ],
+  "nightlife": [
+    "Campfire evenings with guides sharing bush stories"
+  ],
+  "instagramSpots": [
+    "Wildebeest river crossing action shots",
+    "Hot air balloon over the plains at sunrise",
+    "Big cats on a kopje rock outcrop",
+    "Endless savanna horizon at sunset"
+  ],
+  "hiddenGems": [
+    "Western Corridor during the migration's river-crossing window",
+    "Moru Kopjes rock art sites",
+    "Ndutu Plains for calving season"
+  ],
+  "familyActivities": [
+    "Family-friendly tented camps with junior ranger programs",
+    "Olduvai Gorge educational stop",
+    "Game drives suited to older children"
+  ],
+  "adventureActivities": [
+    "Hot air balloon safari",
+    "Walking safari with an armed ranger (select conservancies)",
+    "Multi-day mobile camping safari following the migration"
+  ],
+  "luxuryExperiences": [
+    "Private-guide fly-in safari with a premium tented camp",
+    "Hot air balloon safari with champagne breakfast",
+    "Exclusive-use villa camp with a dedicated vehicle"
+  ],
+  "honeymoonExperiences": [
+    "Private sundowner overlooking the plains",
+    "Star-bed night under the open sky at select camps",
+    "Champagne breakfast after a hot air balloon flight"
+  ],
+  "budgetExperiences": [
+    "Public-campsite self-drive safari (for experienced overlanders)",
+    "Group-vehicle lodge safari packages"
+  ],
+  "estimatedDailyBudgetUSD": [
+    150,
+    300,
+    600,
+    1400
+  ],
+  "safetyRating": 4,
+  "internetRating": 2,
+  "publicTransportRating": 2.5,
+  "walkingScore": 20,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "Feb",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 27,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 26,
+      "crowd": "Low"
+    },
+    {
+      "month": "May",
+      "highC": 25,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 25,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Oct",
+      "highC": 28,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 27,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 27,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Great Migration river crossings (natural event, not a festival)",
+      "timing": "July-September (Grumeti/Mara) and Feb-March (calving)"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112"
+  },
+  "localEtiquette": [
+    "Follow your guide's instructions at all times during game drives — never exit the vehicle outside designated areas.",
+    "Keep noise low during wildlife sightings.",
+    "Tipping guides and camp staff (15-20 USD per day) is standard practice."
+  ],
+  "localTransportGuide": "Access is by light aircraft to a bush airstrip or by 4x4 safari vehicle from Arusha, typically arranged entirely through a tour operator. There is no independent public transport within the park — all movement happens with a licensed guide and vehicle as part of a booked safari.",
+  "bestTimeToVisit": "June to October for the dry season and Western Corridor river crossings; December to March to witness the wildebeest calving season in the southern plains.",
+  "weather": "Warm savanna climate with two rainy seasons (November-December short rains, March-May long rains); daytime highs stay around 25-28°C year-round.",
+  "visaInformation": "Tanzania offers an e-visa or visa-on-arrival for most nationalities including the US, UK, EU, Canada, Australia, and India — arranging the e-visa in advance is recommended to avoid arrival queues.",
+  "currency": "TZS",
+  "languages": [
+    "Swahili",
+    "English"
+  ],
+  "timeZone": "EAT (UTC+3)",
+  "averageFlightTime": "~11.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Serengeti?",
+      "answer": "Tanzania offers an e-visa or visa-on-arrival for most nationalities including the US, UK, EU, Canada, Australia, and India — arranging the e-visa in advance is recommended to avoid arrival queues."
+    },
+    {
+      "question": "What is the best time to visit Serengeti?",
+      "answer": "June to October for the dry season and Western Corridor river crossings; December to March to witness the wildebeest calving season in the southern plains. Warm savanna climate with two rainy seasons (November-December short rains, March-May long rains); daytime highs stay around 25-28°C year-round."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Serengeti safe for tourists?",
+      "answer": "Serengeti is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Serengeti?",
+      "answer": "The local currency is TZS. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Wildlife",
+    "Nature",
+    "Adventure",
+    "Luxury",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Serengeti",
+    "Tanzania",
+    "Serengeti, Tanzania",
+    "East Africa",
+    "Serengeti tour package",
+    "Serengeti vacation package",
+    "Serengeti holiday package",
+    "things to do in Serengeti",
+    "best time to visit Serengeti",
+    "Serengeti itinerary",
+    "10 day Serengeti itinerary",
+    "Serengeti flights and hotels",
+    "Serengeti all inclusive package",
+    "cheap Serengeti package",
+    "luxury Serengeti package",
+    "Serengeti honeymoon package",
+    "Serengeti family vacation",
+    "Serengeti solo trip",
+    "Serengeti group tour",
+    "Serengeti weekend getaway",
+    "Serengeti guided tour",
+    "JRO flights",
+    "Serengeti travel guide",
+    "book Serengeti trip online",
+    "Serengeti trip cost",
+    "Serengeti packages 10 days",
+    "Serengeti wildlife",
+    "Serengeti nature",
+    "Serengeti adventure",
+    "Serengeti luxury",
+    "Serengeti bucket list",
+    "Serengeti National Park entry and game drives",
+    "Hot air balloon safari at dawn",
+    "Olduvai Gorge museum stop",
+    "Ngorongoro Crater day excursion",
+    "Camp/lodge wildlife viewing",
+    "Camp/lodge dining (all-inclusive)",
+    "Wildebeest river crossing action shots",
+    "Hot air balloon over the plains at sunrise",
+    "Big cats on a kopje rock outcrop",
+    "Endless savanna horizon at sunset",
+    "Western Corridor during the migration's river-crossing window",
+    "Moru Kopjes rock art sites",
+    "Ndutu Plains for calving season",
+    "Tanzania tourism",
+    "East Africa travel",
+    "international vacation packages",
+    "Serengeti travel deals",
+    "Serengeti sightseeing",
+    "Serengeti tour operator"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Serengeti, Tanzania — Wildebeest river crossing",
+      "keywords": [
+        "Serengeti",
+        "Tanzania",
+        "Wildebeest river crossing",
+        "Wildlife",
+        "Nature"
+      ],
+      "unsplashQuery": "Serengeti Wildebeest river crossing",
+      "pexelsQuery": "Serengeti Wildebeest river crossing",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Serengeti, Tanzania — Wildebeest river crossing",
+      "keywords": [
+        "Serengeti",
+        "Tanzania",
+        "Wildebeest river crossing",
+        "Wildlife",
+        "Nature"
+      ],
+      "unsplashQuery": "Serengeti Wildebeest river crossing",
+      "pexelsQuery": "Serengeti Wildebeest river crossing",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Serengeti, Tanzania — Hot air balloon safari sunrise",
+      "keywords": [
+        "Serengeti",
+        "Tanzania",
+        "Hot air balloon safari sunrise",
+        "Wildlife",
+        "Nature"
+      ],
+      "unsplashQuery": "Serengeti Hot air balloon safari sunrise",
+      "pexelsQuery": "Serengeti Hot air balloon safari sunrise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Serengeti, Tanzania — Lion on kopje rock",
+      "keywords": [
+        "Serengeti",
+        "Tanzania",
+        "Lion on kopje rock",
+        "Wildlife",
+        "Nature"
+      ],
+      "unsplashQuery": "Serengeti Lion on kopje rock",
+      "pexelsQuery": "Serengeti Lion on kopje rock",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Serengeti, Tanzania — Wildebeest river crossing",
+      "keywords": [
+        "Serengeti",
+        "Tanzania",
+        "Wildebeest river crossing",
+        "Wildlife",
+        "Nature"
+      ],
+      "unsplashQuery": "Serengeti Wildebeest river crossing",
+      "pexelsQuery": "Serengeti Wildebeest river crossing",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Serengeti, Tanzania — Hot air balloon safari sunrise",
+      "keywords": [
+        "Serengeti",
+        "Tanzania",
+        "Hot air balloon safari sunrise",
+        "Wildlife",
+        "Nature"
+      ],
+      "unsplashQuery": "Serengeti Hot air balloon safari sunrise",
+      "pexelsQuery": "Serengeti Hot air balloon safari sunrise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Serengeti, Tanzania — Lion on kopje rock",
+      "keywords": [
+        "Serengeti",
+        "Tanzania",
+        "Lion on kopje rock",
+        "Wildlife",
+        "Nature"
+      ],
+      "unsplashQuery": "Serengeti Lion on kopje rock",
+      "pexelsQuery": "Serengeti Lion on kopje rock",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Serengeti, Tanzania — Serengeti savanna sunset",
+      "keywords": [
+        "Serengeti",
+        "Tanzania",
+        "Serengeti savanna sunset",
+        "Wildlife",
+        "Nature"
+      ],
+      "unsplashQuery": "Serengeti Serengeti savanna sunset",
+      "pexelsQuery": "Serengeti Serengeti savanna sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Serengeti, Tanzania — Serengeti National Park entry and game drives",
+      "keywords": [
+        "Serengeti",
+        "Tanzania",
+        "Serengeti National Park entry and game drives",
+        "Wildlife",
+        "Nature"
+      ],
+      "unsplashQuery": "Serengeti Serengeti National Park entry and game drives",
+      "pexelsQuery": "Serengeti Serengeti National Park entry and game drives",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Serengeti, Tanzania — Hot air balloon safari at dawn",
+      "keywords": [
+        "Serengeti",
+        "Tanzania",
+        "Hot air balloon safari at dawn",
+        "Wildlife",
+        "Nature"
+      ],
+      "unsplashQuery": "Serengeti Hot air balloon safari at dawn",
+      "pexelsQuery": "Serengeti Hot air balloon safari at dawn",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Serengeti, Tanzania — Olduvai Gorge museum stop",
+      "keywords": [
+        "Serengeti",
+        "Tanzania",
+        "Olduvai Gorge museum stop",
+        "Wildlife",
+        "Nature"
+      ],
+      "unsplashQuery": "Serengeti Olduvai Gorge museum stop",
+      "pexelsQuery": "Serengeti Olduvai Gorge museum stop",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Serengeti, Tanzania — Ngorongoro Crater day excursion",
+      "keywords": [
+        "Serengeti",
+        "Tanzania",
+        "Ngorongoro Crater day excursion",
+        "Wildlife",
+        "Nature"
+      ],
+      "unsplashQuery": "Serengeti Ngorongoro Crater day excursion",
+      "pexelsQuery": "Serengeti Ngorongoro Crater day excursion",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-serengeti-10-1",
+      "author": "Anna Novak",
+      "country": "Japan",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-13",
+      "title": "Highly recommend this package",
+      "body": "Serengeti is stunning and this package covered the essentials well, especially Olduvai Gorge museum stop. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-2",
+      "author": "Omar Müller",
+      "country": "Brazil",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-12",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Olduvai Gorge museum stop and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-3",
+      "author": "Emma Rossi",
+      "country": "Singapore",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-05-31",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Serengeti was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Olduvai Gorge museum stop was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-4",
+      "author": "Ava Johnson",
+      "country": "Italy",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-07-30",
+      "title": "Loved every moment",
+      "body": "Camp/lodge wildlife viewing alone was worth the trip, but combined with Serengeti National Park entry and game drives this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-5",
+      "author": "Mohammed Rossi",
+      "country": "Canada",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-02-11",
+      "title": "Loved every moment",
+      "body": "Serengeti National Park entry and game drives alone was worth the trip, but combined with Hot air balloon safari at dawn this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-6",
+      "author": "Olivia Kim",
+      "country": "New Zealand",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-01-15",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Serengeti was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Ngorongoro Crater day excursion was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-serengeti-10-7",
+      "author": "Lucas Müller",
+      "country": "Mexico",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-12-17",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Camp/lodge wildlife viewing and Camp/lodge wildlife viewing. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-8",
+      "author": "Anna Novak",
+      "country": "United States",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-15",
+      "title": "Adventure of a lifetime",
+      "body": "Serengeti is stunning and this package covered the essentials well, especially Serengeti National Park entry and game drives. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-serengeti-10-9",
+      "author": "Lukas Cohen",
+      "country": "South Korea",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-11-08",
+      "title": "Best vacation we've had",
+      "body": "Serengeti is stunning and this package covered the essentials well, especially Olduvai Gorge museum stop. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-10",
+      "author": "Ethan Kowalski",
+      "country": "Saudi Arabia",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-07",
+      "title": "A little rushed but still wonderful",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Camp/lodge wildlife viewing and Hot air balloon safari at dawn. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-11",
+      "author": "Priya Tanaka",
+      "country": "Singapore",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-04-08",
+      "title": "Five stars, will return",
+      "body": "Booked this as a family of 4 trip and it was well paced. Olduvai Gorge museum stop in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-12",
+      "author": "Yuki Williams",
+      "country": "UAE",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-02-15",
+      "title": "Perfect for our honeymoon",
+      "body": "Hot air balloon safari at dawn alone was worth the trip, but combined with Camp/lodge wildlife viewing this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-serengeti-10-13",
+      "author": "Mia Wang",
+      "country": "United States",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-02-17",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Serengeti National Park entry and game drives and Camp/lodge wildlife viewing. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-14",
+      "author": "Nadia Patel",
+      "country": "Germany",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-11-25",
+      "title": "Exceeded our expectations",
+      "body": "Serengeti is stunning and this package covered the essentials well, especially Hot air balloon safari at dawn. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-15",
+      "author": "Nadia Kim",
+      "country": "Singapore",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-05-22",
+      "title": "Exceeded our expectations",
+      "body": "Serengeti is stunning and this package covered the essentials well, especially Olduvai Gorge museum stop. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-16",
+      "author": "James Silva",
+      "country": "United States",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-29",
+      "title": "Loved every moment",
+      "body": "Our trip to Serengeti was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Serengeti National Park entry and game drives was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-17",
+      "author": "Liam Sharma",
+      "country": "India",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-30",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Serengeti was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Hot air balloon safari at dawn was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-18",
+      "author": "Fatima Costa",
+      "country": "UAE",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-05-22",
+      "title": "Adventure of a lifetime",
+      "body": "Hot air balloon safari at dawn alone was worth the trip, but combined with Hot air balloon safari at dawn this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-19",
+      "author": "Noah Brown",
+      "country": "New Zealand",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-30",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Serengeti was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Ngorongoro Crater day excursion was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-serengeti-10-20",
+      "author": "Emma Silva",
+      "country": "Brazil",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-11-07",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Serengeti was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Olduvai Gorge museum stop was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.3,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.2,
+    "value": 4.1,
+    "cleanliness": 4.1,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Serengeti Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 33,
+      "neighborhood": "Curio shops at lodges and the Ngorongoro Crater rim"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Serengeti Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 60,
+      "neighborhood": "Campfire evenings with guides sharing bush stories"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Serengeti Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 105,
+      "neighborhood": "Lodge and camp coffee/tea service"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Serengeti Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 135,
+      "neighborhood": "Curio shops at lodges and the Ngorongoro Crater rim"
+    },
+    {
+      "tier": "Resort",
+      "name": "Serengeti Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 300,
+      "neighborhood": "Campfire evenings with guides sharing bush stories"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Serengeti Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 588,
+      "neighborhood": "Lodge and camp coffee/tea service"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Serengeti Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 700,
+      "neighborhood": "Curio shops at lodges and the Ngorongoro Crater rim"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        926,
+        1470
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        952,
+        1512
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        570,
+        906
+      ],
+      "estimatedFlightHours": 10,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        546,
+        867
+      ],
+      "estimatedFlightHours": 9.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        535,
+        849
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        468,
+        743
+      ],
+      "estimatedFlightHours": 8.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        521,
+        828
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        560,
+        890
+      ],
+      "estimatedFlightHours": 9.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        517,
+        821
+      ],
+      "estimatedFlightHours": 9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        962,
+        1528
+      ],
+      "estimatedFlightHours": 17.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1089,
+        1729
+      ],
+      "estimatedFlightHours": 19.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        487,
+        774
+      ],
+      "estimatedFlightHours": 8.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        907,
+        1440
+      ],
+      "estimatedFlightHours": 16.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        825,
+        1310
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        632,
+        1003
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        615,
+        977
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        615,
+        977
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        654,
+        1038
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        774,
+        1230
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        660,
+        1048
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        349,
+        555
+      ],
+      "estimatedFlightHours": 5.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        313,
+        497
+      ],
+      "estimatedFlightHours": 5.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        334,
+        531
+      ],
+      "estimatedFlightHours": 5.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        350,
+        556
+      ],
+      "estimatedFlightHours": 5.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        275,
+        437
+      ],
+      "estimatedFlightHours": 4.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        729,
+        1158
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Kilimanjaro International Airport (main gateway; onward light-aircraft transfer to Serengeti airstrips) (JRO)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1136,
+        1805
+      ],
+      "estimatedFlightHours": 20.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Serengeti National Park entry and game drives",
+    "Hot air balloon safari at dawn",
+    "Olduvai Gorge museum stop",
+    "Ngorongoro Crater day excursion",
+    "Camp/lodge wildlife viewing",
+    "Ngorongoro Crater",
+    "Olduvai Gorge",
+    "Olduvai Gorge Museum",
+    "Serengeti National Park",
+    "Ngorongoro Conservation Area",
+    "Wildebeest river crossing action shots",
+    "Hot air balloon over the plains at sunrise",
+    "Big cats on a kopje rock outcrop",
+    "Endless savanna horizon at sunset"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Serengeti National Park entry and game drives",
+      "priceUSD": 82
+    },
+    {
+      "name": "Hot air balloon safari at dawn",
+      "priceUSD": 600
+    },
+    {
+      "name": "Olduvai Gorge museum stop",
+      "priceUSD": 15
+    },
+    {
+      "name": "Ngorongoro Crater day excursion",
+      "priceUSD": 70
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Camp/lodge wildlife viewing"
+  ],
+  "museums": [
+    "Olduvai Gorge Museum"
+  ],
+  "parks": [
+    "Serengeti National Park",
+    "Ngorongoro Conservation Area"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Ngorongoro Crater",
+    "Olduvai Gorge"
+  ],
+  "fromPriceUSD": 3590,
+  "seo": {
+    "title": "Serengeti 10-Day Wildlife Safari | Flights, Hotels & Tours Included",
+    "slug": "serengeti-10-day-package",
+    "keywords": [
+      "Serengeti",
+      "Tanzania",
+      "Serengeti, Tanzania",
+      "East Africa",
+      "Serengeti tour package",
+      "Serengeti vacation package",
+      "Serengeti holiday package",
+      "things to do in Serengeti",
+      "best time to visit Serengeti",
+      "Serengeti itinerary",
+      "10 day Serengeti itinerary",
+      "Serengeti flights and hotels",
+      "Serengeti all inclusive package",
+      "cheap Serengeti package",
+      "luxury Serengeti package"
+    ],
+    "canonicalUrl": "/packages/serengeti-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Serengeti Package",
+        "url": "/packages/serengeti-7-day-package"
+      },
+      {
+        "title": "14-Day Serengeti Package",
+        "url": "/packages/serengeti-14-day-package"
+      },
+      {
+        "title": "Galápagos Islands 10-Day Wildlife Safari",
+        "url": "/packages/galapagos-islands-10-day-package"
+      },
+      {
+        "title": "Victoria Falls 10-Day Adventure Tour",
+        "url": "/packages/victoria-falls-10-day-package"
+      },
+      {
+        "title": "Kruger National Park 10-Day Wildlife Safari",
+        "url": "/packages/kruger-national-park-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Serengeti — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Serengeti"
+      },
+      {
+        "title": "Serengeti — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Serengeti"
+      }
+    ]
+  }
+}

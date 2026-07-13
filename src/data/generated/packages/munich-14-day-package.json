@@ -1,0 +1,1746 @@
+{
+  "id": "PKG-munich-14D",
+  "slug": "munich-14-day-package",
+  "destinationSlug": "munich",
+  "destinationName": "Munich",
+  "country": "Germany",
+  "region": "Bavaria",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Munich 14-Day City Break",
+  "metaTitle": "Munich 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Munich, Germany: round-trip flights, hotel, breakfast, transfers, and guided tours including Nymphenburg Palace and Munich Residenz. Prices from $2469 per person (estimate).",
+  "highlights": [
+    "Nymphenburg Palace",
+    "Munich Residenz",
+    "Marienplatz & Glockenspiel",
+    "Neuschwanstein Castle & Hohenschwangau"
+  ],
+  "overview": "Spend 14 days discovering Munich, Germany — Temperate continental climate with cold winters (highs around 3°C in January, occasional snow) and warm summers (highs around 23-24°C); Alpine \"foehn\" winds can bring sudden clear, warm spells any season. May to September for beer gardens and Alpine day trips, mid-September to early October for Oktoberfest, or December for the Christkindlmarkt Christmas markets. This itinerary blends Nymphenburg Palace, Munich Residenz, Marienplatz & Glockenspiel with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Nymphenburg Palace, Munich Residenz, Marienplatz & Glockenspiel",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Munich",
+      "description": "Land at Munich Airport (MUC) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Nymphenburg Palace — Baroque summer palace of the Wittelsbach rulers with formal gardens. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Nymphenburg Palace"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 2,
+      "title": "Munich: Munich Residenz & BMW Museum",
+      "description": "Morning visit to Munich Residenz — Former royal palace with the Treasury and Cuvilliés Theatre. In the afternoon, continue to BMW Museum — Automotive design and history museum beside BMW Welt. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Munich Residenz",
+        "BMW Museum"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 3,
+      "title": "Munich: Deutsches Museum & Alte Pinakothek",
+      "description": "Morning visit to Deutsches Museum — World's largest science and technology museum. In the afternoon, continue to Alte Pinakothek — Old master paintings from the 14th-18th centuries. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Deutsches Museum",
+        "Alte Pinakothek"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Neuschwanstein Castle & Hohenschwangau",
+      "description": "Full-day excursion to Neuschwanstein Castle & Hohenschwangau, a popular side trip from Munich. Return to Munich in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Neuschwanstein Castle & Hohenschwangau",
+        "Free evening"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Westpark — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Westpark"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 6,
+      "title": "Munich: Pinakothek der Moderne & Olympiaturm (Olympic Tower)",
+      "description": "Morning visit to Pinakothek der Moderne — Modern art, design and architecture under one roof. In the afternoon, continue to Olympiaturm (Olympic Tower) — Observation tower over the 1972 Olympic Park. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Pinakothek der Moderne",
+        "Olympiaturm (Olympic Tower)"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Dachau Memorial Site",
+      "description": "Full-day excursion to Dachau Memorial Site, a popular side trip from Munich. Return to Munich in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Dachau Memorial Site",
+        "Free evening"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 8,
+      "title": "Munich: Allianz Arena Tour & FC Bayern Museum & Neuschwanstein Castle (day trip)",
+      "description": "Morning visit to Allianz Arena Tour & FC Bayern Museum — Stadium tour and Bayern Munich's trophy museum. In the afternoon, continue to Neuschwanstein Castle (day trip) — Ludwig II's fairytale Alpine castle near Füssen. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Allianz Arena Tour & FC Bayern Museum",
+        "Neuschwanstein Castle (day trip)"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Flaucher riverside beer gardens on the Isar — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Flaucher riverside beer gardens on the Isar"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Zugspitze, Germany's highest peak",
+      "description": "Full-day excursion to Zugspitze, Germany's highest peak, a popular side trip from Munich. Return to Munich in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Zugspitze, Germany's highest peak",
+        "Free evening"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 11,
+      "title": "Munich: Frauenkirche Tower Climb & Munich Residenz Treasury",
+      "description": "Morning visit to Frauenkirche Tower Climb — Panoramic views from Munich's twin-domed cathedral. In the afternoon, continue to Munich Residenz Treasury — Crown jewels and royal regalia collection. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Frauenkirche Tower Climb",
+        "Munich Residenz Treasury"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 12,
+      "title": "Munich: Marienplatz & Glockenspiel & English Garden (Englischer Garten)",
+      "description": "Morning visit to Marienplatz & Glockenspiel — Central square with the New Town Hall's animated clock show. In the afternoon, continue to English Garden (Englischer Garten) — One of the largest urban parks in the world, larger than Central Park. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Marienplatz & Glockenspiel",
+        "English Garden (Englischer Garten)"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Olympiapark hillside sunset viewpoint — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Olympiapark hillside sunset viewpoint"
+      ],
+      "overnight": "Munich"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Viktualienmarkt or some souvenir shopping — before your private transfer to MUC for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Oktoberfest tent seating months in advance if visiting mid-September to October.",
+    "The Bayern-Ticket offers cheap regional rail travel for day trips, especially in small groups.",
+    "Most shops close on Sundays, so plan shopping and groceries around weekdays and Saturdays.",
+    "Buy Neuschwanstein Castle tickets online in advance to avoid multi-hour ticket-office queues.",
+    "Beer gardens with checkered tablecloths are table-service; plain wooden tables are self-service.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Layered clothing for changeable Alpine weather",
+    "Sturdy shoes for cobblestones and hiking day trips",
+    "A warm jacket even for summer evenings",
+    "Comfortable clothing for beer garden benches",
+    "Smart-casual outfit for opera or fine dining"
+  ],
+  "thingsToDo": [
+    "Nymphenburg Palace",
+    "Munich Residenz",
+    "BMW Museum",
+    "Deutsches Museum",
+    "Alte Pinakothek",
+    "Pinakothek der Moderne",
+    "Olympiaturm (Olympic Tower)",
+    "Allianz Arena Tour & FC Bayern Museum",
+    "Neuschwanstein Castle (day trip)",
+    "Frauenkirche Tower Climb",
+    "Munich Residenz Treasury",
+    "Marienplatz & Glockenspiel",
+    "English Garden (Englischer Garten)",
+    "Viktualienmarkt",
+    "Asamkirche",
+    "Odeonsplatz",
+    "Eisbach Surfers",
+    "Frauenkirche exterior",
+    "Königsplatz",
+    "Watching or learning to surf the Eisbach standing wave"
+  ],
+  "thingsToAvoid": [
+    "Overpriced tourist-trap restaurants right on Marienplatz — better value a few streets away.",
+    "Buying Oktoberfest merchandise from street vendors instead of official tents and shops.",
+    "Jaywalking — Germans take this seriously and police do issue fines.",
+    "Assuming shops or pharmacies are open on Sundays.",
+    "Underestimating how quickly Alpine weather changes on Zugspitze or Neuschwanstein day trips."
+  ],
+  "topRestaurants": [
+    "Hofbräuhaus München — Bavarian Beer Hall ($$)",
+    "Augustiner-Keller — Bavarian Beer Garden ($$)",
+    "Schneider Bräuhaus — Bavarian ($$)",
+    "Tantris — Fine Dining ($$$$)",
+    "Weisses Bräuhaus — Bavarian ($$)",
+    "Ratskeller München — German ($$)",
+    "Prinz Myshkin — Vegetarian ($$)",
+    "Broeding — Modern German ($$$)",
+    "Bratwurstherzl — Bavarian ($)"
+  ],
+  "topCafes": [
+    "Café Luitpold",
+    "Café Frischhut",
+    "Man Versus Machine",
+    "Chapterhouse Coffee",
+    "Café am Glockenspiel",
+    "Rischart"
+  ],
+  "shoppingAreas": [
+    "Kaufingerstraße & Neuhauser Straße",
+    "Maximilianstraße",
+    "Viktualienmarkt stalls",
+    "Schwabing boutiques",
+    "Fünf Höfe passage"
+  ],
+  "nightlife": [
+    "Hofbräuhaus",
+    "Blue Spa & Lounge (Bayerischer Hof rooftop)",
+    "Werksviertel-Mitte bars",
+    "Milchbar",
+    "Pacha Munich"
+  ],
+  "instagramSpots": [
+    "Marienplatz & Neues Rathaus",
+    "Nymphenburg Palace gardens",
+    "Eisbach surfers in the English Garden",
+    "Asamkirche gilded interior",
+    "Viktualienmarkt maypole"
+  ],
+  "hiddenGems": [
+    "Westpark",
+    "Flaucher riverside beer gardens on the Isar",
+    "Olympiapark hillside sunset viewpoint",
+    "Museum Brandhorst",
+    "Alter Südlicher Friedhof"
+  ],
+  "familyActivities": [
+    "Deutsches Museum interactive science exhibits",
+    "Munich Zoo (Tierpark Hellabrunn)",
+    "Legoland Deutschland day trip",
+    "English Garden bike rides and boat rentals"
+  ],
+  "adventureActivities": [
+    "Watching or learning to surf the Eisbach standing wave",
+    "Zugspitze cable car and Alpine hiking day trip",
+    "Cycling the Isar river cycle path",
+    "Paragliding over the Bavarian Alps"
+  ],
+  "luxuryExperiences": [
+    "Private BMW factory and museum tour",
+    "Michelin-starred dining at Tantris or Atelier",
+    "Suite stay at Bayerischer Hof with rooftop spa access",
+    "Private helicopter tour over the Alps"
+  ],
+  "honeymoonExperiences": [
+    "Sunset walk through Nymphenburg Palace gardens",
+    "Romantic dinner at Käfer Schänke",
+    "Private day trip to Neuschwanstein Castle",
+    "Horse-drawn carriage ride through the English Garden"
+  ],
+  "budgetExperiences": [
+    "Free wander through the English Garden and Eisbach surfers",
+    "Browsing Viktualienmarkt without buying",
+    "Free Glockenspiel show at Marienplatz",
+    "Self-guided Altstadt walking route"
+  ],
+  "estimatedDailyBudgetUSD": [
+    80,
+    170,
+    300,
+    600
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 82,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 3,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 5,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 10,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 22,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Oct",
+      "highC": 13,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 7,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 4,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Oktoberfest",
+      "timing": "Mid-September to the first Sunday of October"
+    },
+    {
+      "name": "Christkindlmarkt (Christmas Markets)",
+      "timing": "Late November to December 24"
+    },
+    {
+      "name": "Starkbierfest (Strong Beer Festival)",
+      "timing": "Two weeks in Lent, March"
+    },
+    {
+      "name": "Munich Opera Festival",
+      "timing": "Late June to July"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "110",
+    "ambulance": "112",
+    "fire": "112"
+  },
+  "localEtiquette": [
+    "Wait for the pedestrian signal to turn green even with no traffic in sight — jaywalking is frowned upon and locals will call it out.",
+    "Most shops are closed on Sundays (Ruhetag); plan grocery runs and errands around this.",
+    "Punctuality is taken seriously for tours, restaurant reservations and business meetings alike.",
+    "In beer gardens, it is acceptable to bring your own food if you buy drinks at the counter — this is a protected Bavarian tradition.",
+    "Recycling is separated meticulously (glass by color, paper, packaging); follow the labeled bins if staying in an apartment."
+  ],
+  "localTransportGuide": "Munich's MVV network of U-Bahn, S-Bahn, trams and buses is fast and punctual — a day pass covers the whole system including the S-Bahn to the airport. Trams and the U-Bahn are quickest around the Altstadt, while regional trains (RE/RB) or the Bayern-Ticket make Alpine day trips like Neuschwanstein or Zugspitze easy without a car.",
+  "bestTimeToVisit": "May to September for beer gardens and Alpine day trips, mid-September to early October for Oktoberfest, or December for the Christkindlmarkt Christmas markets.",
+  "weather": "Temperate continental climate with cold winters (highs around 3°C in January, occasional snow) and warm summers (highs around 23-24°C); Alpine \"foehn\" winds can bring sudden clear, warm spells any season.",
+  "visaInformation": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance; a visa issued by any Schengen member state covers Germany.",
+  "currency": "EUR",
+  "languages": [
+    "German"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~9.8h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Munich Airport (MUC)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Munich?",
+      "answer": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance; a visa issued by any Schengen member state covers Germany."
+    },
+    {
+      "question": "What is the best time to visit Munich?",
+      "answer": "May to September for beer gardens and Alpine day trips, mid-September to early October for Oktoberfest, or December for the Christkindlmarkt Christmas markets. Temperate continental climate with cold winters (highs around 3°C in January, occasional snow) and warm summers (highs around 23-24°C); Alpine \"foehn\" winds can bring sudden clear, warm spells any season."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Munich safe for tourists?",
+      "answer": "Munich is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Munich?",
+      "answer": "The local currency is EUR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Food",
+    "History",
+    "Nature",
+    "Winter",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Munich",
+    "Germany",
+    "Munich, Germany",
+    "Bavaria",
+    "Munich tour package",
+    "Munich vacation package",
+    "Munich holiday package",
+    "things to do in Munich",
+    "best time to visit Munich",
+    "Munich itinerary",
+    "14 day Munich itinerary",
+    "Munich flights and hotels",
+    "Munich all inclusive package",
+    "cheap Munich package",
+    "luxury Munich package",
+    "Munich honeymoon package",
+    "Munich family vacation",
+    "Munich solo trip",
+    "Munich group tour",
+    "Munich weekend getaway",
+    "Munich guided tour",
+    "MUC flights",
+    "Munich travel guide",
+    "book Munich trip online",
+    "Munich trip cost",
+    "Munich packages 14 days",
+    "Munich city break",
+    "Munich culture",
+    "Munich food",
+    "Munich history",
+    "Munich nature",
+    "Munich winter",
+    "Munich bucket list",
+    "Nymphenburg Palace",
+    "Munich Residenz",
+    "BMW Museum",
+    "Deutsches Museum",
+    "Alte Pinakothek",
+    "Pinakothek der Moderne",
+    "Olympiaturm (Olympic Tower)",
+    "Allianz Arena Tour & FC Bayern Museum",
+    "Neuschwanstein Castle (day trip)",
+    "Frauenkirche Tower Climb",
+    "Munich Residenz Treasury",
+    "Marienplatz & Glockenspiel",
+    "English Garden (Englischer Garten)",
+    "Viktualienmarkt",
+    "Asamkirche",
+    "Odeonsplatz",
+    "Eisbach Surfers"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Munich, Germany — Marienplatz Glockenspiel",
+      "keywords": [
+        "Munich",
+        "Germany",
+        "Marienplatz Glockenspiel",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Munich Marienplatz Glockenspiel",
+      "pexelsQuery": "Munich Marienplatz Glockenspiel",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Munich, Germany — Marienplatz Glockenspiel",
+      "keywords": [
+        "Munich",
+        "Germany",
+        "Marienplatz Glockenspiel",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Munich Marienplatz Glockenspiel",
+      "pexelsQuery": "Munich Marienplatz Glockenspiel",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Munich, Germany — Neuschwanstein Castle",
+      "keywords": [
+        "Munich",
+        "Germany",
+        "Neuschwanstein Castle",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Munich Neuschwanstein Castle",
+      "pexelsQuery": "Munich Neuschwanstein Castle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Munich, Germany — Oktoberfest beer tents",
+      "keywords": [
+        "Munich",
+        "Germany",
+        "Oktoberfest beer tents",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Munich Oktoberfest beer tents",
+      "pexelsQuery": "Munich Oktoberfest beer tents",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Munich, Germany — Marienplatz Glockenspiel",
+      "keywords": [
+        "Munich",
+        "Germany",
+        "Marienplatz Glockenspiel",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Munich Marienplatz Glockenspiel",
+      "pexelsQuery": "Munich Marienplatz Glockenspiel",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Munich, Germany — Neuschwanstein Castle",
+      "keywords": [
+        "Munich",
+        "Germany",
+        "Neuschwanstein Castle",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Munich Neuschwanstein Castle",
+      "pexelsQuery": "Munich Neuschwanstein Castle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Munich, Germany — Oktoberfest beer tents",
+      "keywords": [
+        "Munich",
+        "Germany",
+        "Oktoberfest beer tents",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Munich Oktoberfest beer tents",
+      "pexelsQuery": "Munich Oktoberfest beer tents",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Munich, Germany — English Garden surfers",
+      "keywords": [
+        "Munich",
+        "Germany",
+        "English Garden surfers",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Munich English Garden surfers",
+      "pexelsQuery": "Munich English Garden surfers",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Munich, Germany — Nymphenburg Palace",
+      "keywords": [
+        "Munich",
+        "Germany",
+        "Nymphenburg Palace",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Munich Nymphenburg Palace",
+      "pexelsQuery": "Munich Nymphenburg Palace",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Munich, Germany — Munich Residenz",
+      "keywords": [
+        "Munich",
+        "Germany",
+        "Munich Residenz",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Munich Munich Residenz",
+      "pexelsQuery": "Munich Munich Residenz",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Munich, Germany — BMW Museum",
+      "keywords": [
+        "Munich",
+        "Germany",
+        "BMW Museum",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Munich BMW Museum",
+      "pexelsQuery": "Munich BMW Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Munich, Germany — Deutsches Museum",
+      "keywords": [
+        "Munich",
+        "Germany",
+        "Deutsches Museum",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Munich Deutsches Museum",
+      "pexelsQuery": "Munich Deutsches Museum",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-munich-14-1",
+      "author": "Ethan Patel",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-13",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Alte Pinakothek and Allianz Arena Tour & FC Bayern Museum. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-2",
+      "author": "Lucas Nguyen",
+      "country": "Japan",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-04-26",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Munich Residenz Treasury and Frauenkirche Tower Climb. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-3",
+      "author": "Noah Dubois",
+      "country": "India",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-01-10",
+      "title": "Loved every moment",
+      "body": "Our trip to Munich was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Olympiaturm (Olympic Tower) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-4",
+      "author": "Isabella Costa",
+      "country": "India",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-01-25",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Olympiaturm (Olympic Tower) and Eisbach Surfers. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-munich-14-5",
+      "author": "Daniel Ivanov",
+      "country": "Singapore",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-02-12",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Allianz Arena Tour & FC Bayern Museum and Frauenkirche Tower Climb. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-6",
+      "author": "Lukas Santos",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-04-10",
+      "title": "Beautiful destination, well organized",
+      "body": "Munich is stunning and this package covered the essentials well, especially Asamkirche. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-munich-14-7",
+      "author": "Liam Ivanov",
+      "country": "Australia",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-09-10",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Munich was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Deutsches Museum was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-8",
+      "author": "Omar Brown",
+      "country": "United Kingdom",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-23",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Munich Residenz and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-9",
+      "author": "Ethan Wang",
+      "country": "Switzerland",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-21",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Asamkirche and Olympiaturm (Olympic Tower). Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-munich-14-10",
+      "author": "Wei Garcia",
+      "country": "France",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-25",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a couple trip and it was well paced. Pinakothek der Moderne in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-11",
+      "author": "Lukas Fernandez",
+      "country": "Spain",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-02-20",
+      "title": "Unforgettable trip!",
+      "body": "Munich is stunning and this package covered the essentials well, especially Königsplatz. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-munich-14-12",
+      "author": "Mia Cohen",
+      "country": "South Korea",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-14",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Frauenkirche Tower Climb and Allianz Arena Tour & FC Bayern Museum. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-13",
+      "author": "Tom Khan",
+      "country": "Canada",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-19",
+      "title": "Loved every moment",
+      "body": "We added a couple of optional activities beyond BMW Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-14",
+      "author": "Isabella Santos",
+      "country": "UAE",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-04-17",
+      "title": "Highly recommend this package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Olympiaturm (Olympic Tower) and BMW Museum. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-munich-14-15",
+      "author": "Sarah Nguyen",
+      "country": "France",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-01-14",
+      "title": "Adventure of a lifetime",
+      "body": "Munich is stunning and this package covered the essentials well, especially Pinakothek der Moderne. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-16",
+      "author": "Grace Garcia",
+      "country": "South Korea",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-08-02",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Neuschwanstein Castle (day trip) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-17",
+      "author": "Wei Patel",
+      "country": "New Zealand",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-12-20",
+      "title": "Five stars, will return",
+      "body": "Booked this as a solo trip and it was well paced. English Garden (Englischer Garten) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-munich-14-18",
+      "author": "Ethan Tanaka",
+      "country": "South Africa",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-24",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to English Garden (Englischer Garten) and Allianz Arena Tour & FC Bayern Museum. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-19",
+      "author": "Ava Garcia",
+      "country": "South Africa",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-04-17",
+      "title": "Solid mid-range package",
+      "body": "English Garden (Englischer Garten) alone was worth the trip, but combined with English Garden (Englischer Garten) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-munich-14-20",
+      "author": "Anna Dubois",
+      "country": "South Korea",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-12-28",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Munich is stunning and this package covered the essentials well, especially Frauenkirche Tower Climb. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.3,
+    "hotel": 4.4,
+    "transportation": 4.4,
+    "activities": 4.4,
+    "value": 4.5,
+    "cleanliness": 4.5,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Munich Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Kaufingerstraße & Neuhauser Straße"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Munich Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "Maximilianstraße"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Munich Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 59,
+      "neighborhood": "Viktualienmarkt stalls"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Munich Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 77,
+      "neighborhood": "Schwabing boutiques"
+    },
+    {
+      "tier": "Resort",
+      "name": "Munich Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 150,
+      "neighborhood": "Fünf Höfe passage"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Munich Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 252,
+      "neighborhood": "Hofbräuhaus"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Munich Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 300,
+      "neighborhood": "Blue Spa & Lounge (Bayerischer Hof rooftop)"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        546,
+        867
+      ],
+      "estimatedFlightHours": 9.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        555,
+        882
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        143,
+        227
+      ],
+      "estimatedFlightHours": 2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        126,
+        200
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        99,
+        157
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        127,
+        201
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        184,
+        292
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        125,
+        198
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        150
+      ],
+      "estimatedFlightHours": 1.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1256,
+        1995
+      ],
+      "estimatedFlightHours": 22.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1388,
+        2205
+      ],
+      "estimatedFlightHours": 25.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        504,
+        801
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        753,
+        1196
+      ],
+      "estimatedFlightHours": 13.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        694,
+        1102
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        803,
+        1276
+      ],
+      "estimatedFlightHours": 14.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        711,
+        1130
+      ],
+      "estimatedFlightHours": 12.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        781,
+        1241
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        864,
+        1373
+      ],
+      "estimatedFlightHours": 15.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        812,
+        1289
+      ],
+      "estimatedFlightHours": 14.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        762,
+        1210
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        406,
+        645
+      ],
+      "estimatedFlightHours": 6.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        367,
+        583
+      ],
+      "estimatedFlightHours": 6.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        388,
+        616
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        346,
+        549
+      ],
+      "estimatedFlightHours": 5.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        685,
+        1088
+      ],
+      "estimatedFlightHours": 12.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        788,
+        1251
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Munich Airport (MUC)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        788,
+        1251
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Nymphenburg Palace",
+    "Munich Residenz",
+    "BMW Museum",
+    "Deutsches Museum",
+    "Alte Pinakothek",
+    "Pinakothek der Moderne",
+    "Olympiaturm (Olympic Tower)",
+    "Allianz Arena Tour & FC Bayern Museum",
+    "Neuschwanstein Castle (day trip)",
+    "Frauenkirche Tower Climb",
+    "Munich Residenz Treasury",
+    "Marienplatz & Glockenspiel",
+    "English Garden (Englischer Garten)",
+    "Viktualienmarkt",
+    "Asamkirche",
+    "Odeonsplatz",
+    "Eisbach Surfers",
+    "Frauenkirche exterior",
+    "Königsplatz",
+    "Neuschwanstein Castle & Hohenschwangau",
+    "Dachau Memorial Site",
+    "Zugspitze, Germany's highest peak",
+    "Salzburg, Austria",
+    "English Garden",
+    "Westpark",
+    "Olympiapark",
+    "Nymphenburg Palace Park",
+    "Marienplatz & Neues Rathaus",
+    "Nymphenburg Palace gardens",
+    "Eisbach surfers in the English Garden",
+    "Asamkirche gilded interior",
+    "Viktualienmarkt maypole"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Nymphenburg Palace",
+      "priceUSD": 10
+    },
+    {
+      "name": "Munich Residenz",
+      "priceUSD": 10
+    },
+    {
+      "name": "BMW Museum",
+      "priceUSD": 12
+    },
+    {
+      "name": "Deutsches Museum",
+      "priceUSD": 15
+    },
+    {
+      "name": "Alte Pinakothek",
+      "priceUSD": 9
+    },
+    {
+      "name": "Pinakothek der Moderne",
+      "priceUSD": 11
+    },
+    {
+      "name": "Olympiaturm (Olympic Tower)",
+      "priceUSD": 13
+    },
+    {
+      "name": "Allianz Arena Tour & FC Bayern Museum",
+      "priceUSD": 25
+    },
+    {
+      "name": "Neuschwanstein Castle (day trip)",
+      "priceUSD": 21
+    },
+    {
+      "name": "Frauenkirche Tower Climb",
+      "priceUSD": 8
+    },
+    {
+      "name": "Munich Residenz Treasury",
+      "priceUSD": 10
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Marienplatz & Glockenspiel",
+    "English Garden (Englischer Garten)",
+    "Viktualienmarkt",
+    "Asamkirche",
+    "Odeonsplatz",
+    "Eisbach Surfers",
+    "Frauenkirche exterior",
+    "Königsplatz"
+  ],
+  "museums": [
+    "Deutsches Museum",
+    "Alte Pinakothek",
+    "Pinakothek der Moderne",
+    "BMW Museum"
+  ],
+  "parks": [
+    "English Garden",
+    "Westpark",
+    "Olympiapark",
+    "Nymphenburg Palace Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Neuschwanstein Castle & Hohenschwangau",
+    "Dachau Memorial Site",
+    "Zugspitze, Germany's highest peak",
+    "Salzburg, Austria"
+  ],
+  "fromPriceUSD": 2469,
+  "seo": {
+    "title": "Munich 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "munich-14-day-package",
+    "keywords": [
+      "Munich",
+      "Germany",
+      "Munich, Germany",
+      "Bavaria",
+      "Munich tour package",
+      "Munich vacation package",
+      "Munich holiday package",
+      "things to do in Munich",
+      "best time to visit Munich",
+      "Munich itinerary",
+      "14 day Munich itinerary",
+      "Munich flights and hotels",
+      "Munich all inclusive package",
+      "cheap Munich package",
+      "luxury Munich package"
+    ],
+    "canonicalUrl": "/packages/munich-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Munich Package",
+        "url": "/packages/munich-10-day-package"
+      },
+      {
+        "title": "7-Day Munich Package",
+        "url": "/packages/munich-7-day-package"
+      },
+      {
+        "title": "Vienna 14-Day Cultural Tour",
+        "url": "/packages/vienna-14-day-package"
+      },
+      {
+        "title": "Stockholm 14-Day City Break",
+        "url": "/packages/stockholm-14-day-package"
+      },
+      {
+        "title": "Paris 14-Day City Break",
+        "url": "/packages/paris-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Munich — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Munich"
+      },
+      {
+        "title": "Munich — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Munich"
+      }
+    ]
+  }
+}

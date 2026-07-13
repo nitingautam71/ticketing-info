@@ -1,0 +1,1744 @@
+{
+  "id": "PKG-budapest-14D",
+  "slug": "budapest-14-day-package",
+  "destinationSlug": "budapest",
+  "destinationName": "Budapest",
+  "country": "Hungary",
+  "region": "Central Hungary",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Budapest 14-Day City Break",
+  "metaTitle": "Budapest 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Budapest, Hungary: round-trip flights, hotel, breakfast, transfers, and guided tours including Buda Castle and Hungarian Parliament Building. Prices from $1971 per person (estimate).",
+  "highlights": [
+    "Buda Castle",
+    "Hungarian Parliament Building",
+    "Chain Bridge (Széchenyi Lánchíd)",
+    "Szentendre artists' riverside town"
+  ],
+  "overview": "Spend 14 days discovering Budapest, Hungary — Continental climate with cold winters (highs around 2-3°C in January) and hot summers (highs around 27-28°C in July-August). April to June and September to October for mild weather and thinner crowds; thermal baths are enjoyable year-round, including winter. This itinerary blends Buda Castle, Hungarian Parliament Building, Chain Bridge (Széchenyi Lánchíd) with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Buda Castle, Hungarian Parliament Building, Chain Bridge (Széchenyi Lánchíd)",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Budapest",
+      "description": "Land at Budapest Ferenc Liszt International Airport (BUD) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Buda Castle — Historic royal palace complex overlooking the Danube. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Buda Castle"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 2,
+      "title": "Budapest: Hungarian Parliament Building & Széchenyi Thermal Bath",
+      "description": "Morning visit to Hungarian Parliament Building — Neo-Gothic riverside icon with guided interior tours. In the afternoon, continue to Széchenyi Thermal Bath — Grand neo-Baroque outdoor thermal bath complex. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Hungarian Parliament Building",
+        "Széchenyi Thermal Bath"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 3,
+      "title": "Budapest: Gellért Thermal Bath & Fisherman's Bastion upper towers",
+      "description": "Morning visit to Gellért Thermal Bath — Art Nouveau spa with iconic mosaic-tiled pools. In the afternoon, continue to Fisherman's Bastion upper towers — Fairytale-style terrace with panoramic Danube views. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Gellért Thermal Bath",
+        "Fisherman's Bastion upper towers"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Szentendre artists' riverside town",
+      "description": "Full-day excursion to Szentendre artists' riverside town, a popular side trip from Budapest. Return to Budapest in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Szentendre artists' riverside town",
+        "Free evening"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Memento Park communist statues — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Memento Park communist statues"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 6,
+      "title": "Budapest: St. Stephen's Basilica dome climb & Hungarian State Opera House tour",
+      "description": "Morning visit to St. Stephen's Basilica dome climb — Panoramic dome views over the city. In the afternoon, continue to Hungarian State Opera House tour — Neo-Renaissance opera house guided tour. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "St. Stephen's Basilica dome climb",
+        "Hungarian State Opera House tour"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Eger wine region and thermal baths",
+      "description": "Full-day excursion to Eger wine region and thermal baths, a popular side trip from Budapest. Return to Budapest in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Eger wine region and thermal baths",
+        "Free evening"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 8,
+      "title": "Budapest: House of Terror Museum & Great Synagogue (Dohány Street)",
+      "description": "Morning visit to House of Terror Museum — Museum on Hungary's fascist and communist regimes. In the afternoon, continue to Great Synagogue (Dohány Street) — Europe's largest synagogue with a museum and memorial garden. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "House of Terror Museum",
+        "Great Synagogue (Dohány Street)"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Kerepesi Cemetery — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Kerepesi Cemetery"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Lake Balaton",
+      "description": "Full-day excursion to Lake Balaton, a popular side trip from Budapest. Return to Budapest in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Lake Balaton",
+        "Free evening"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 11,
+      "title": "Budapest: Danube dinner cruise & Memento Park",
+      "description": "Morning visit to Danube dinner cruise — Evening river cruise past illuminated landmarks. In the afternoon, continue to Memento Park — Open-air museum of relocated communist-era statues. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Danube dinner cruise",
+        "Memento Park"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 12,
+      "title": "Budapest: Chain Bridge (Széchenyi Lánchíd) & Fisherman's Bastion lower terrace",
+      "description": "Morning visit to Chain Bridge (Széchenyi Lánchíd) — Iconic 19th-century suspension bridge over the Danube. In the afternoon, continue to Fisherman's Bastion lower terrace — Fairytale terrace views of Pest and the river. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Chain Bridge (Széchenyi Lánchíd)",
+        "Fisherman's Bastion lower terrace"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Gellért Hill Cave chapel — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Gellért Hill Cave chapel"
+      ],
+      "overnight": "Budapest"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Shoes on the Danube Bank or some souvenir shopping — before your private transfer to BUD for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Buy combined tickets for Buda Castle sights to save money.",
+    "Visit Széchenyi or Gellért baths on a weekday morning to avoid the busiest crowds.",
+    "Ruin bars in the Jewish Quarter are best experienced by bar-hopping rather than picking just one.",
+    "The Budapest Card bundles transport with attraction discounts.",
+    "Book a Parliament Building tour well ahead as English-language slots sell out.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "A swimsuit and flip-flops for the thermal baths",
+    "Comfortable shoes for cobblestones in the Castle District",
+    "A warm coat for cold winters",
+    "Layered clothing for hot summer days"
+  ],
+  "thingsToDo": [
+    "Buda Castle",
+    "Hungarian Parliament Building",
+    "Széchenyi Thermal Bath",
+    "Gellért Thermal Bath",
+    "Fisherman's Bastion upper towers",
+    "St. Stephen's Basilica dome climb",
+    "Hungarian State Opera House tour",
+    "House of Terror Museum",
+    "Great Synagogue (Dohány Street)",
+    "Danube dinner cruise",
+    "Memento Park",
+    "Chain Bridge (Széchenyi Lánchíd)",
+    "Fisherman's Bastion lower terrace",
+    "Shoes on the Danube Bank",
+    "Great Market Hall (ground floor)",
+    "Margaret Island",
+    "Andrássy Avenue",
+    "Váci Street",
+    "Citadella & Gellért Hill",
+    "Cycling Margaret Island's car-free loop"
+  ],
+  "thingsToAvoid": [
+    "Unlicensed taxis at the airport — use official Főtaxi or app-based ride services.",
+    "Exchange booths advertising \"no commission\" rates that hide poor exchange rates.",
+    "Overpriced restaurants right on Váci Street with multilingual menus and no listed prices.",
+    "Staying too long in the thermal baths' hottest pools without breaks.",
+    "Walking on tram tracks along the riverside boulevards."
+  ],
+  "topRestaurants": [
+    "Csalogány 26 — Modern Hungarian ($$$)",
+    "Menza — Retro Hungarian ($$)",
+    "Rosenstein — Traditional Hungarian-Jewish ($$)",
+    "Kőleves — Hungarian Comfort Food ($$)",
+    "Onyx — Michelin Fine Dining ($$$$)",
+    "Great Market Hall food stalls — Hungarian Street Food ($)",
+    "Zeller Bistro — Modern Hungarian ($$$)",
+    "New York Café — Historic Grand Café Dining ($$$)"
+  ],
+  "topCafes": [
+    "New York Café",
+    "Café Gerbeaud",
+    "Central Kávéház",
+    "Massolit Books & Café",
+    "My Little Melbourne",
+    "Fekete"
+  ],
+  "shoppingAreas": [
+    "Váci Street",
+    "Great Market Hall",
+    "Andrássy Avenue boutiques",
+    "WestEnd City Center",
+    "Ecseri flea market"
+  ],
+  "nightlife": [
+    "Szimpla Kert ruin bar",
+    "Instant-Fogas complex",
+    "Ötkert",
+    "Csendes Café",
+    "Doboz ruin bar"
+  ],
+  "instagramSpots": [
+    "Fisherman's Bastion at sunrise",
+    "Chain Bridge lit up at night",
+    "Parliament Building from the Buda side",
+    "Szimpla Kert ruin bar interior",
+    "Gellért Thermal Bath mosaic pools"
+  ],
+  "hiddenGems": [
+    "Memento Park communist statues",
+    "Kerepesi Cemetery",
+    "Gellért Hill Cave chapel",
+    "Óbuda old town",
+    "Kopaszi-gát riverside park"
+  ],
+  "familyActivities": [
+    "Budapest Zoo & Botanical Garden",
+    "Margaret Island playgrounds and musical fountain",
+    "Palace of Wonders (Csodák Palotája) science centre",
+    "Danube river cruise for kids"
+  ],
+  "adventureActivities": [
+    "Cycling Margaret Island's car-free loop",
+    "Caving tours in the Buda hills (Pálvölgyi Cave)",
+    "Kayaking the Danube",
+    "Hiking Gellért Hill and the Buda Hills"
+  ],
+  "luxuryExperiences": [
+    "Private VIP thermal bath cabana at Gellért or Széchenyi",
+    "Michelin dining at Onyx",
+    "Suite stay at Four Seasons Gresham Palace overlooking the Chain Bridge",
+    "Private Danube sunset cruise with champagne"
+  ],
+  "honeymoonExperiences": [
+    "Evening Danube cruise past illuminated Parliament",
+    "Couples soak at Széchenyi or Gellért thermal baths",
+    "Romantic dinner at a rooftop restaurant overlooking the river",
+    "Sunset walk across the Chain Bridge"
+  ],
+  "budgetExperiences": [
+    "Free wander across the Chain Bridge and Fisherman's Bastion lower terrace",
+    "Margaret Island picnic",
+    "Great Market Hall browsing",
+    "Ruin bar hopping in the Jewish Quarter"
+  ],
+  "estimatedDailyBudgetUSD": [
+    55,
+    130,
+    250,
+    500
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 5,
+  "walkingScore": 78,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 2,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 5,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 10,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 25,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 22,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 8,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 3,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Sziget Festival",
+      "timing": "Early August, major international music festival"
+    },
+    {
+      "name": "Budapest Spring Festival",
+      "timing": "March-April, arts and culture"
+    },
+    {
+      "name": "St. Stephen's Day",
+      "timing": "August 20, national holiday with fireworks over the Danube"
+    },
+    {
+      "name": "Vörösmarty Square Christmas Market",
+      "timing": "Late November to December"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "107",
+    "ambulance": "104",
+    "fire": "105"
+  },
+  "localEtiquette": [
+    "Some older Hungarians still avoid clinking beer glasses, a custom tied to 1848 history — most locals shrug it off with tourists but it's worth knowing.",
+    "Dress modestly and respectfully when visiting synagogues and churches.",
+    "When paying, state the total amount you want to pay including tip rather than leaving cash on the table.",
+    "Swim caps are sometimes required in the lap-swimming pools at thermal baths, though not in the thermal pools themselves.",
+    "A polite \"Jó napot\" (good day) is appreciated when entering small shops."
+  ],
+  "localTransportGuide": "Budapest's BKK network of metro (including Continental Europe's oldest underground line), trams, buses and trolleybuses is cheap, extensive and covers the whole city on a single ticket or day pass. Tram 2 along the Danube is a scenic, practical way to see the riverside landmarks without a guided tour.",
+  "bestTimeToVisit": "April to June and September to October for mild weather and thinner crowds; thermal baths are enjoyable year-round, including winter.",
+  "weather": "Continental climate with cold winters (highs around 2-3°C in January) and hot summers (highs around 27-28°C in July-August).",
+  "visaInformation": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance.",
+  "currency": "HUF",
+  "languages": [
+    "Hungarian"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~9.6h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Budapest?",
+      "answer": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Budapest?",
+      "answer": "April to June and September to October for mild weather and thinner crowds; thermal baths are enjoyable year-round, including winter. Continental climate with cold winters (highs around 2-3°C in January) and hot summers (highs around 27-28°C in July-August)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Budapest safe for tourists?",
+      "answer": "Budapest is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Budapest?",
+      "answer": "The local currency is HUF. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "History",
+    "Food",
+    "Romantic",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Budapest",
+    "Hungary",
+    "Budapest, Hungary",
+    "Central Hungary",
+    "Budapest tour package",
+    "Budapest vacation package",
+    "Budapest holiday package",
+    "things to do in Budapest",
+    "best time to visit Budapest",
+    "Budapest itinerary",
+    "14 day Budapest itinerary",
+    "Budapest flights and hotels",
+    "Budapest all inclusive package",
+    "cheap Budapest package",
+    "luxury Budapest package",
+    "Budapest honeymoon package",
+    "Budapest family vacation",
+    "Budapest solo trip",
+    "Budapest group tour",
+    "Budapest weekend getaway",
+    "Budapest guided tour",
+    "BUD flights",
+    "Budapest travel guide",
+    "book Budapest trip online",
+    "Budapest trip cost",
+    "Budapest packages 14 days",
+    "Budapest city break",
+    "Budapest culture",
+    "Budapest history",
+    "Budapest food",
+    "Budapest romantic",
+    "Budapest bucket list",
+    "Buda Castle",
+    "Hungarian Parliament Building",
+    "Széchenyi Thermal Bath",
+    "Gellért Thermal Bath",
+    "Fisherman's Bastion upper towers",
+    "St. Stephen's Basilica dome climb",
+    "Hungarian State Opera House tour",
+    "House of Terror Museum",
+    "Great Synagogue (Dohány Street)",
+    "Danube dinner cruise",
+    "Memento Park",
+    "Chain Bridge (Széchenyi Lánchíd)",
+    "Fisherman's Bastion lower terrace",
+    "Shoes on the Danube Bank",
+    "Great Market Hall (ground floor)",
+    "Margaret Island",
+    "Andrássy Avenue",
+    "Váci Street"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Budapest, Hungary — Fisherman's Bastion sunrise",
+      "keywords": [
+        "Budapest",
+        "Hungary",
+        "Fisherman's Bastion sunrise",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Budapest Fisherman's Bastion sunrise",
+      "pexelsQuery": "Budapest Fisherman's Bastion sunrise",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Budapest, Hungary — Fisherman's Bastion sunrise",
+      "keywords": [
+        "Budapest",
+        "Hungary",
+        "Fisherman's Bastion sunrise",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Budapest Fisherman's Bastion sunrise",
+      "pexelsQuery": "Budapest Fisherman's Bastion sunrise",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Budapest, Hungary — Chain Bridge Budapest night",
+      "keywords": [
+        "Budapest",
+        "Hungary",
+        "Chain Bridge Budapest night",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Budapest Chain Bridge Budapest night",
+      "pexelsQuery": "Budapest Chain Bridge Budapest night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Budapest, Hungary — Széchenyi Thermal Bath",
+      "keywords": [
+        "Budapest",
+        "Hungary",
+        "Széchenyi Thermal Bath",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Budapest Széchenyi Thermal Bath",
+      "pexelsQuery": "Budapest Széchenyi Thermal Bath",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Budapest, Hungary — Fisherman's Bastion sunrise",
+      "keywords": [
+        "Budapest",
+        "Hungary",
+        "Fisherman's Bastion sunrise",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Budapest Fisherman's Bastion sunrise",
+      "pexelsQuery": "Budapest Fisherman's Bastion sunrise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Budapest, Hungary — Chain Bridge Budapest night",
+      "keywords": [
+        "Budapest",
+        "Hungary",
+        "Chain Bridge Budapest night",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Budapest Chain Bridge Budapest night",
+      "pexelsQuery": "Budapest Chain Bridge Budapest night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Budapest, Hungary — Széchenyi Thermal Bath",
+      "keywords": [
+        "Budapest",
+        "Hungary",
+        "Széchenyi Thermal Bath",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Budapest Széchenyi Thermal Bath",
+      "pexelsQuery": "Budapest Széchenyi Thermal Bath",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Budapest, Hungary — Hungarian Parliament Danube",
+      "keywords": [
+        "Budapest",
+        "Hungary",
+        "Hungarian Parliament Danube",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Budapest Hungarian Parliament Danube",
+      "pexelsQuery": "Budapest Hungarian Parliament Danube",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Budapest, Hungary — Buda Castle",
+      "keywords": [
+        "Budapest",
+        "Hungary",
+        "Buda Castle",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Budapest Buda Castle",
+      "pexelsQuery": "Budapest Buda Castle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Budapest, Hungary — Hungarian Parliament Building",
+      "keywords": [
+        "Budapest",
+        "Hungary",
+        "Hungarian Parliament Building",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Budapest Hungarian Parliament Building",
+      "pexelsQuery": "Budapest Hungarian Parliament Building",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Budapest, Hungary — Gellért Thermal Bath",
+      "keywords": [
+        "Budapest",
+        "Hungary",
+        "Gellért Thermal Bath",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Budapest Gellért Thermal Bath",
+      "pexelsQuery": "Budapest Gellért Thermal Bath",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Budapest, Hungary — Fisherman's Bastion at sunrise",
+      "keywords": [
+        "Budapest",
+        "Hungary",
+        "Fisherman's Bastion at sunrise",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Budapest Fisherman's Bastion at sunrise",
+      "pexelsQuery": "Budapest Fisherman's Bastion at sunrise",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-budapest-14-1",
+      "author": "Yuki Khan",
+      "country": "South Africa",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-18",
+      "title": "Highly recommend this package",
+      "body": "Chain Bridge (Széchenyi Lánchíd) alone was worth the trip, but combined with Andrássy Avenue this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-2",
+      "author": "Tom Botha",
+      "country": "South Korea",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-14",
+      "title": "Five stars, will return",
+      "body": "We added a couple of optional activities beyond Danube dinner cruise and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-3",
+      "author": "Ava Nguyen",
+      "country": "United States",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-01-31",
+      "title": "So many hidden gems included",
+      "body": "Buda Castle alone was worth the trip, but combined with Citadella & Gellért Hill this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-budapest-14-4",
+      "author": "Arjun Johnson",
+      "country": "Australia",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-12-23",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a group trip and it was well paced. Gellért Thermal Bath in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-5",
+      "author": "Lucas Kim",
+      "country": "South Africa",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-01-20",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Fisherman's Bastion lower terrace and Fisherman's Bastion upper towers. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-budapest-14-6",
+      "author": "Lukas Sharma",
+      "country": "South Korea",
+      "rating": 4.6,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-03",
+      "title": "Exceeded our expectations",
+      "body": "Budapest is stunning and this package covered the essentials well, especially Danube dinner cruise. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-7",
+      "author": "Mohammed Dubois",
+      "country": "UAE",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-06",
+      "title": "A little rushed but still wonderful",
+      "body": "House of Terror Museum alone was worth the trip, but combined with Danube dinner cruise this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-8",
+      "author": "Elena Botha",
+      "country": "Netherlands",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-26",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Shoes on the Danube Bank and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-budapest-14-9",
+      "author": "Fatima Müller",
+      "country": "Australia",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-04-01",
+      "title": "Great for families with kids",
+      "body": "Gellért Thermal Bath alone was worth the trip, but combined with Gellért Thermal Bath this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-10",
+      "author": "Marco Kim",
+      "country": "South Africa",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-07-27",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Chain Bridge (Széchenyi Lánchíd) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-11",
+      "author": "Mia Silva",
+      "country": "Mexico",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-02-06",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Váci Street and Great Synagogue (Dohány Street). Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-12",
+      "author": "Anna Costa",
+      "country": "Japan",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-18",
+      "title": "Highly recommend this package",
+      "body": "Budapest is stunning and this package covered the essentials well, especially Danube dinner cruise. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-budapest-14-13",
+      "author": "Emma Rossi",
+      "country": "Australia",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-02-06",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Budapest was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Gellért Thermal Bath was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-14",
+      "author": "Tom Dubois",
+      "country": "Japan",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-02-26",
+      "title": "Perfect for our honeymoon",
+      "body": "We added a couple of optional activities beyond Memento Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-15",
+      "author": "Liam Ibrahim",
+      "country": "Switzerland",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-08-23",
+      "title": "Great value for money",
+      "body": "Our trip to Budapest was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Great Market Hall (ground floor) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-16",
+      "author": "Noah van Dijk",
+      "country": "France",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-05-19",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Budapest was fantastic from start to finish. The hotel was clean and well located, and the guided visit to St. Stephen's Basilica dome climb was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-budapest-14-17",
+      "author": "Hiroshi Williams",
+      "country": "Netherlands",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-03-01",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Shoes on the Danube Bank alone was worth the trip, but combined with Andrássy Avenue this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-18",
+      "author": "David Novak",
+      "country": "Singapore",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-04-18",
+      "title": "So many hidden gems included",
+      "body": "Budapest is stunning and this package covered the essentials well, especially House of Terror Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-19",
+      "author": "Wei Smith",
+      "country": "United States",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-12-13",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a family of 4 trip and it was well paced. Buda Castle in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-budapest-14-20",
+      "author": "Priya Fernandez",
+      "country": "New Zealand",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-02",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a group trip and it was well paced. Shoes on the Danube Bank in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.2,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.2,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Budapest Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 12,
+      "neighborhood": "Váci Street"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Budapest Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 22,
+      "neighborhood": "Great Market Hall"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Budapest Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 46,
+      "neighborhood": "Andrássy Avenue boutiques"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Budapest Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 59,
+      "neighborhood": "WestEnd City Center"
+    },
+    {
+      "tier": "Resort",
+      "name": "Budapest Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 125,
+      "neighborhood": "Ecseri flea market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Budapest Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 210,
+      "neighborhood": "Szimpla Kert ruin bar"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Budapest Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 250,
+      "neighborhood": "Instant-Fogas complex"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        583,
+        926
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        592,
+        940
+      ],
+      "estimatedFlightHours": 10.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        181,
+        288
+      ],
+      "estimatedFlightHours": 2.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        167,
+        265
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        135,
+        215
+      ],
+      "estimatedFlightHours": 1.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        135,
+        215
+      ],
+      "estimatedFlightHours": 1.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        219,
+        348
+      ],
+      "estimatedFlightHours": 3.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        159,
+        252
+      ],
+      "estimatedFlightHours": 2.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        133,
+        212
+      ],
+      "estimatedFlightHours": 1.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1217,
+        1933
+      ],
+      "estimatedFlightHours": 22.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1356,
+        2153
+      ],
+      "estimatedFlightHours": 24.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        464,
+        737
+      ],
+      "estimatedFlightHours": 8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        730,
+        1160
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        666,
+        1058
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        763,
+        1212
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        672,
+        1068
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        741,
+        1177
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        825,
+        1310
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        776,
+        1233
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        723,
+        1148
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        367,
+        583
+      ],
+      "estimatedFlightHours": 6.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        330,
+        524
+      ],
+      "estimatedFlightHours": 5.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        349,
+        554
+      ],
+      "estimatedFlightHours": 5.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        308,
+        489
+      ],
+      "estimatedFlightHours": 5.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        672,
+        1068
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        818,
+        1299
+      ],
+      "estimatedFlightHours": 14.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Budapest Ferenc Liszt International Airport (BUD)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        825,
+        1311
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Buda Castle",
+    "Hungarian Parliament Building",
+    "Széchenyi Thermal Bath",
+    "Gellért Thermal Bath",
+    "Fisherman's Bastion upper towers",
+    "St. Stephen's Basilica dome climb",
+    "Hungarian State Opera House tour",
+    "House of Terror Museum",
+    "Great Synagogue (Dohány Street)",
+    "Danube dinner cruise",
+    "Memento Park",
+    "Chain Bridge (Széchenyi Lánchíd)",
+    "Fisherman's Bastion lower terrace",
+    "Shoes on the Danube Bank",
+    "Great Market Hall (ground floor)",
+    "Margaret Island",
+    "Andrássy Avenue",
+    "Váci Street",
+    "Citadella & Gellért Hill",
+    "Szentendre artists' riverside town",
+    "Eger wine region and thermal baths",
+    "Lake Balaton",
+    "Visegrád Castle and the Danube Bend",
+    "Hungarian National Museum",
+    "Museum of Fine Arts",
+    "City Park (Városliget)",
+    "Gellért Hill",
+    "Népliget",
+    "Fisherman's Bastion at sunrise",
+    "Chain Bridge lit up at night",
+    "Parliament Building from the Buda side",
+    "Szimpla Kert ruin bar interior",
+    "Gellért Thermal Bath mosaic pools"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Buda Castle",
+      "priceUSD": 12
+    },
+    {
+      "name": "Hungarian Parliament Building",
+      "priceUSD": 24
+    },
+    {
+      "name": "Széchenyi Thermal Bath",
+      "priceUSD": 24
+    },
+    {
+      "name": "Gellért Thermal Bath",
+      "priceUSD": 26
+    },
+    {
+      "name": "Fisherman's Bastion upper towers",
+      "priceUSD": 5
+    },
+    {
+      "name": "St. Stephen's Basilica dome climb",
+      "priceUSD": 8
+    },
+    {
+      "name": "Hungarian State Opera House tour",
+      "priceUSD": 12
+    },
+    {
+      "name": "House of Terror Museum",
+      "priceUSD": 12
+    },
+    {
+      "name": "Great Synagogue (Dohány Street)",
+      "priceUSD": 16
+    },
+    {
+      "name": "Danube dinner cruise",
+      "priceUSD": 45
+    },
+    {
+      "name": "Memento Park",
+      "priceUSD": 12
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Chain Bridge (Széchenyi Lánchíd)",
+    "Fisherman's Bastion lower terrace",
+    "Shoes on the Danube Bank",
+    "Great Market Hall (ground floor)",
+    "Margaret Island",
+    "Andrássy Avenue",
+    "Váci Street",
+    "Citadella & Gellért Hill"
+  ],
+  "museums": [
+    "House of Terror Museum",
+    "Hungarian National Museum",
+    "Museum of Fine Arts",
+    "Memento Park"
+  ],
+  "parks": [
+    "Margaret Island",
+    "City Park (Városliget)",
+    "Gellért Hill",
+    "Népliget"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Szentendre artists' riverside town",
+    "Eger wine region and thermal baths",
+    "Lake Balaton",
+    "Visegrád Castle and the Danube Bend"
+  ],
+  "fromPriceUSD": 1971,
+  "seo": {
+    "title": "Budapest 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "budapest-14-day-package",
+    "keywords": [
+      "Budapest",
+      "Hungary",
+      "Budapest, Hungary",
+      "Central Hungary",
+      "Budapest tour package",
+      "Budapest vacation package",
+      "Budapest holiday package",
+      "things to do in Budapest",
+      "best time to visit Budapest",
+      "Budapest itinerary",
+      "14 day Budapest itinerary",
+      "Budapest flights and hotels",
+      "Budapest all inclusive package",
+      "cheap Budapest package",
+      "luxury Budapest package"
+    ],
+    "canonicalUrl": "/packages/budapest-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Budapest Package",
+        "url": "/packages/budapest-10-day-package"
+      },
+      {
+        "title": "7-Day Budapest Package",
+        "url": "/packages/budapest-7-day-package"
+      },
+      {
+        "title": "Paris 14-Day City Break",
+        "url": "/packages/paris-14-day-package"
+      },
+      {
+        "title": "Rome 14-Day City Break",
+        "url": "/packages/rome-14-day-package"
+      },
+      {
+        "title": "Florence 14-Day Cultural Tour",
+        "url": "/packages/florence-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Budapest — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Budapest"
+      },
+      {
+        "title": "Budapest — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Budapest"
+      }
+    ]
+  }
+}

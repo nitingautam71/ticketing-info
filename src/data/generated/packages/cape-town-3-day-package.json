@@ -1575,16 +1575,16 @@
         "url": "/packages/cape-town-5-day-package"
       },
       {
+        "title": "Santiago 3-Day City Break",
+        "url": "/packages/santiago-3-day-package"
+      },
+      {
+        "title": "Auckland 3-Day City Break",
+        "url": "/packages/auckland-3-day-package"
+      },
+      {
         "title": "Bangkok 3-Day City Break",
         "url": "/packages/bangkok-3-day-package"
-      },
-      {
-        "title": "Hanoi 3-Day City Break",
-        "url": "/packages/hanoi-3-day-package"
-      },
-      {
-        "title": "Paris 3-Day City Break",
-        "url": "/packages/paris-3-day-package"
       }
     ],
     "externalLinks": [

@@ -1666,16 +1666,16 @@
         "url": "/packages/cape-town-14-day-package"
       },
       {
+        "title": "Santiago 10-Day City Break",
+        "url": "/packages/santiago-10-day-package"
+      },
+      {
+        "title": "Auckland 10-Day City Break",
+        "url": "/packages/auckland-10-day-package"
+      },
+      {
         "title": "Bangkok 10-Day City Break",
         "url": "/packages/bangkok-10-day-package"
-      },
-      {
-        "title": "Hanoi 10-Day City Break",
-        "url": "/packages/hanoi-10-day-package"
-      },
-      {
-        "title": "Paris 10-Day City Break",
-        "url": "/packages/paris-10-day-package"
       }
     ],
     "externalLinks": [

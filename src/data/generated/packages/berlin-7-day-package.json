@@ -1,0 +1,1602 @@
+{
+  "id": "PKG-berlin-7D",
+  "slug": "berlin-7-day-package",
+  "destinationSlug": "berlin",
+  "destinationName": "Berlin",
+  "country": "Germany",
+  "region": "Central Europe",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Berlin 7-Day City Break",
+  "metaTitle": "Berlin 7-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Berlin, Germany: round-trip flights, hotel, breakfast, transfers, and guided tours including Reichstag Dome and Museum Island (Pergamon, Neues, Altes Museum). Prices from $1437 per person (estimate).",
+  "highlights": [
+    "Reichstag Dome",
+    "Museum Island (Pergamon, Neues, Altes Museum)",
+    "Brandenburg Gate",
+    "Potsdam (Sanssouci Palace)"
+  ],
+  "overview": "Spend 7 days discovering Berlin, Germany — Temperate continental climate: warm summers (highs around 23-25°C), cold winters (highs near freezing, occasional snow). May to September for warm weather and long daylight hours; December for Christmas markets. This itinerary blends Reichstag Dome, Museum Island (Pergamon, Neues, Altes Museum), Brandenburg Gate with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Reichstag Dome, Museum Island (Pergamon, Neues, Altes Museum), Brandenburg Gate",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Berlin",
+      "description": "Land at Berlin Brandenburg Airport (BER) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Reichstag Dome — Glass dome atop the German parliament building, free but requires advance registration. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Reichstag Dome"
+      ],
+      "overnight": "Berlin"
+    },
+    {
+      "day": 2,
+      "title": "Berlin: Museum Island (Pergamon, Neues, Altes Museum) & East Side Gallery",
+      "description": "Morning visit to Museum Island (Pergamon, Neues, Altes Museum) — UNESCO World Heritage cluster of five major museums. In the afternoon, continue to East Side Gallery — Open-air gallery on a long-preserved stretch of the Berlin Wall. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Museum Island (Pergamon, Neues, Altes Museum)",
+        "East Side Gallery"
+      ],
+      "overnight": "Berlin"
+    },
+    {
+      "day": 3,
+      "title": "Berlin: Berlin Wall Memorial and Documentation Center & Checkpoint Charlie Museum",
+      "description": "Morning visit to Berlin Wall Memorial and Documentation Center — Preserved wall section with a multimedia exhibition. In the afternoon, continue to Checkpoint Charlie Museum — Cold War-era border crossing history museum. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Berlin Wall Memorial and Documentation Center",
+        "Checkpoint Charlie Museum"
+      ],
+      "overnight": "Berlin"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Potsdam (Sanssouci Palace)",
+      "description": "Full-day excursion to Potsdam (Sanssouci Palace), a popular side trip from Berlin. Return to Berlin in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Potsdam (Sanssouci Palace)",
+        "Free evening"
+      ],
+      "overnight": "Berlin"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Teufelsberg abandoned listening station — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Teufelsberg abandoned listening station"
+      ],
+      "overnight": "Berlin"
+    },
+    {
+      "day": 6,
+      "title": "Berlin: Sachsenhausen Memorial day trip & TV Tower (Fernsehturm) observation deck",
+      "description": "Morning visit to Sachsenhausen Memorial day trip — Former concentration camp memorial site outside the city. In the afternoon, continue to TV Tower (Fernsehturm) observation deck — Panoramic 360° views from Alexanderplatz's iconic tower. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Sachsenhausen Memorial day trip",
+        "TV Tower (Fernsehturm) observation deck"
+      ],
+      "overnight": "Berlin"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Brandenburg Gate or some souvenir shopping — before your private transfer to BER for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Validate your transit ticket before boarding — there are no gates, but plainclothes inspectors do check.",
+    "Book Reichstag Dome visits online in advance; it's free but capacity-limited.",
+    "Carry cash — many bars, markets, and smaller restaurants are still cash-preferred or cash-only.",
+    "Visit Museum Island early on a weekday to beat the crowds at the Pergamon and Neues museums.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "Layers year-round — weather shifts quickly",
+    "A warm coat and waterproof boots for winter",
+    "Comfortable shoes for extensive walking and cobblestones"
+  ],
+  "thingsToDo": [
+    "Reichstag Dome",
+    "Museum Island (Pergamon, Neues, Altes Museum)",
+    "East Side Gallery",
+    "Berlin Wall Memorial and Documentation Center",
+    "Checkpoint Charlie Museum",
+    "Sachsenhausen Memorial day trip",
+    "TV Tower (Fernsehturm) observation deck",
+    "Brandenburg Gate",
+    "Tiergarten",
+    "Memorial to the Murdered Jews of Europe",
+    "Alexanderplatz",
+    "Cycling the Berlin Wall Trail",
+    "Kayaking on the Spree River",
+    "Climbing at Teufelsberg's adventure park",
+    "Berlin Zoo and Aquarium",
+    "Legoland Discovery Centre",
+    "Deutsches Technikmuseum"
+  ],
+  "thingsToAvoid": [
+    "Jaywalking, especially in front of children — it's culturally frowned upon and can draw a fine.",
+    "Assuming credit cards are accepted everywhere — many small businesses are cash-only.",
+    "Skipping a ticket on public transit — fines for fare-dodging are strict and randomly enforced."
+  ],
+  "topRestaurants": [
+    "Curry 36 — Currywurst street food ($)",
+    "Restaurant Tim Raue — Asian-inspired fine dining ($$$$)",
+    "Mustafas Gemüse Kebap — Turkish-German kebab ($)",
+    "Katz Orange — Modern German ($$$)",
+    "Prater Garten — Traditional beer garden fare ($$)"
+  ],
+  "topCafes": [
+    "The Barn Coffee Roasters",
+    "Bonanza Coffee Heroes",
+    "Five Elephant"
+  ],
+  "shoppingAreas": [
+    "Kurfürstendamm",
+    "Bikini Berlin concept mall",
+    "Mauerpark flea market (Sundays)"
+  ],
+  "nightlife": [
+    "Berghain and the Friedrichshain club scene",
+    "Kreuzberg bars",
+    "RAW-Gelände nightlife complex"
+  ],
+  "instagramSpots": [
+    "East Side Gallery murals",
+    "Brandenburg Gate at sunrise",
+    "Museum Island reflections",
+    "Oberbaum Bridge over the Spree"
+  ],
+  "hiddenGems": [
+    "Teufelsberg abandoned listening station",
+    "Klunkerkranich rooftop bar/garden",
+    "Viktoriapark waterfall"
+  ],
+  "familyActivities": [
+    "Berlin Zoo and Aquarium",
+    "Legoland Discovery Centre",
+    "Deutsches Technikmuseum"
+  ],
+  "adventureActivities": [
+    "Cycling the Berlin Wall Trail",
+    "Kayaking on the Spree River",
+    "Climbing at Teufelsberg's adventure park"
+  ],
+  "luxuryExperiences": [
+    "Suite stay at Hotel Adlon Kempinski by the Brandenburg Gate",
+    "Private Cold War history tour with a historian guide",
+    "Fine-dining tasting menu at a Michelin-starred restaurant"
+  ],
+  "honeymoonExperiences": [
+    "Sunset river cruise on the Spree",
+    "Private evening tour of illuminated Museum Island",
+    "Rooftop dinner with skyline views"
+  ],
+  "budgetExperiences": [
+    "Free walking tour of central Berlin",
+    "East Side Gallery and Brandenburg Gate (both free)",
+    "Mauerpark Sunday flea market and karaoke"
+  ],
+  "estimatedDailyBudgetUSD": [
+    65,
+    130,
+    250,
+    550
+  ],
+  "safetyRating": 4.5,
+  "internetRating": 4.5,
+  "publicTransportRating": 5,
+  "walkingScore": 80,
+  "accessibilityRating": 4.5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 3,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 4,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 9,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 8,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 4,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Berlin International Film Festival (Berlinale)",
+      "timing": "February"
+    },
+    {
+      "name": "Karneval der Kulturen",
+      "timing": "Pentecost weekend, May/June"
+    },
+    {
+      "name": "Christmas markets across the city",
+      "timing": "Late November-December"
+    },
+    {
+      "name": "Festival of Lights",
+      "timing": "October"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "110",
+    "ambulance": "112",
+    "fire": "112"
+  },
+  "localEtiquette": [
+    "Punctuality is taken seriously for both business and social plans.",
+    "Jaywalking is frowned upon and can draw a fine — wait for the pedestrian light even with no traffic around.",
+    "Cash is still widely used and preferred at many smaller shops, bars, and markets.",
+    "Recycling is taken seriously — sort waste into the correct bins."
+  ],
+  "localTransportGuide": "Berlin's U-Bahn (subway) and S-Bahn (suburban rail) network is fast, extensive, and runs late — a single ticket covers both plus buses and trams within a zone. Validate paper tickets before boarding; there are no turnstiles, but inspectors do check and issue on-the-spot fines for fare dodging.",
+  "bestTimeToVisit": "May to September for warm weather and long daylight hours; December for Christmas markets.",
+  "weather": "Temperate continental climate: warm summers (highs around 23-25°C), cold winters (highs near freezing, occasional snow).",
+  "visaInformation": "Schengen area — visa-free entry for stays up to 90 days within a 180-day period for US, UK, Canadian, Australian, and EU passport holders. Other nationalities, including India, should check Schengen short-stay visa requirements in advance.",
+  "currency": "EUR",
+  "languages": [
+    "German"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~9.8h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Berlin Brandenburg Airport (BER)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Berlin?",
+      "answer": "Schengen area — visa-free entry for stays up to 90 days within a 180-day period for US, UK, Canadian, Australian, and EU passport holders. Other nationalities, including India, should check Schengen short-stay visa requirements in advance."
+    },
+    {
+      "question": "What is the best time to visit Berlin?",
+      "answer": "May to September for warm weather and long daylight hours; December for Christmas markets. Temperate continental climate: warm summers (highs around 23-25°C), cold winters (highs near freezing, occasional snow)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Berlin safe for tourists?",
+      "answer": "Berlin is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Berlin?",
+      "answer": "The local currency is EUR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "History",
+    "Culture",
+    "Nightlife",
+    "Food"
+  ],
+  "aiTags": [
+    "Berlin",
+    "Germany",
+    "Berlin, Germany",
+    "Central Europe",
+    "Berlin tour package",
+    "Berlin vacation package",
+    "Berlin holiday package",
+    "things to do in Berlin",
+    "best time to visit Berlin",
+    "Berlin itinerary",
+    "7 day Berlin itinerary",
+    "Berlin flights and hotels",
+    "Berlin all inclusive package",
+    "cheap Berlin package",
+    "luxury Berlin package",
+    "Berlin honeymoon package",
+    "Berlin family vacation",
+    "Berlin solo trip",
+    "Berlin group tour",
+    "Berlin weekend getaway",
+    "Berlin guided tour",
+    "BER flights",
+    "Berlin travel guide",
+    "book Berlin trip online",
+    "Berlin trip cost",
+    "Berlin packages 7 days",
+    "Berlin city break",
+    "Berlin history",
+    "Berlin culture",
+    "Berlin nightlife",
+    "Berlin food",
+    "Reichstag Dome",
+    "Museum Island (Pergamon, Neues, Altes Museum)",
+    "East Side Gallery",
+    "Berlin Wall Memorial and Documentation Center",
+    "Checkpoint Charlie Museum",
+    "Sachsenhausen Memorial day trip",
+    "TV Tower (Fernsehturm) observation deck",
+    "Brandenburg Gate",
+    "Tiergarten",
+    "Memorial to the Murdered Jews of Europe",
+    "Alexanderplatz",
+    "Curry 36",
+    "Restaurant Tim Raue",
+    "Mustafas Gemüse Kebap",
+    "Katz Orange",
+    "Prater Garten",
+    "East Side Gallery murals",
+    "Brandenburg Gate at sunrise",
+    "Museum Island reflections"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Berlin, Germany — Brandenburg Gate at dusk",
+      "keywords": [
+        "Berlin",
+        "Germany",
+        "Brandenburg Gate at dusk",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Berlin Brandenburg Gate at dusk",
+      "pexelsQuery": "Berlin Brandenburg Gate at dusk",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Berlin, Germany — Brandenburg Gate at dusk",
+      "keywords": [
+        "Berlin",
+        "Germany",
+        "Brandenburg Gate at dusk",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Berlin Brandenburg Gate at dusk",
+      "pexelsQuery": "Berlin Brandenburg Gate at dusk",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Berlin, Germany — East Side Gallery mural",
+      "keywords": [
+        "Berlin",
+        "Germany",
+        "East Side Gallery mural",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Berlin East Side Gallery mural",
+      "pexelsQuery": "Berlin East Side Gallery mural",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Berlin, Germany — Museum Island skyline",
+      "keywords": [
+        "Berlin",
+        "Germany",
+        "Museum Island skyline",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Berlin Museum Island skyline",
+      "pexelsQuery": "Berlin Museum Island skyline",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Berlin, Germany — Brandenburg Gate at dusk",
+      "keywords": [
+        "Berlin",
+        "Germany",
+        "Brandenburg Gate at dusk",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Berlin Brandenburg Gate at dusk",
+      "pexelsQuery": "Berlin Brandenburg Gate at dusk",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Berlin, Germany — East Side Gallery mural",
+      "keywords": [
+        "Berlin",
+        "Germany",
+        "East Side Gallery mural",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Berlin East Side Gallery mural",
+      "pexelsQuery": "Berlin East Side Gallery mural",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Berlin, Germany — Museum Island skyline",
+      "keywords": [
+        "Berlin",
+        "Germany",
+        "Museum Island skyline",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Berlin Museum Island skyline",
+      "pexelsQuery": "Berlin Museum Island skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Berlin, Germany — Berlin TV Tower Alexanderplatz",
+      "keywords": [
+        "Berlin",
+        "Germany",
+        "Berlin TV Tower Alexanderplatz",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Berlin Berlin TV Tower Alexanderplatz",
+      "pexelsQuery": "Berlin Berlin TV Tower Alexanderplatz",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Berlin, Germany — Reichstag Dome",
+      "keywords": [
+        "Berlin",
+        "Germany",
+        "Reichstag Dome",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Berlin Reichstag Dome",
+      "pexelsQuery": "Berlin Reichstag Dome",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Berlin, Germany — Museum Island (Pergamon, Neues, Altes Museum)",
+      "keywords": [
+        "Berlin",
+        "Germany",
+        "Museum Island (Pergamon, Neues, Altes Museum)",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Berlin Museum Island (Pergamon, Neues, Altes Museum)",
+      "pexelsQuery": "Berlin Museum Island (Pergamon, Neues, Altes Museum)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Berlin, Germany — East Side Gallery",
+      "keywords": [
+        "Berlin",
+        "Germany",
+        "East Side Gallery",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Berlin East Side Gallery",
+      "pexelsQuery": "Berlin East Side Gallery",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Berlin, Germany — Berlin Wall Memorial and Documentation Center",
+      "keywords": [
+        "Berlin",
+        "Germany",
+        "Berlin Wall Memorial and Documentation Center",
+        "City Break",
+        "History"
+      ],
+      "unsplashQuery": "Berlin Berlin Wall Memorial and Documentation Center",
+      "pexelsQuery": "Berlin Berlin Wall Memorial and Documentation Center",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-berlin-7-1",
+      "author": "Grace Dubois",
+      "country": "UAE",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-08-14",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Checkpoint Charlie Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-2",
+      "author": "Sofia Brown",
+      "country": "South Korea",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-29",
+      "title": "Loved every moment",
+      "body": "Booked this as a couple trip and it was well paced. Sachsenhausen Memorial day trip in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-3",
+      "author": "Sarah Müller",
+      "country": "Canada",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-04-01",
+      "title": "Smooth from start to finish",
+      "body": "Berlin is stunning and this package covered the essentials well, especially Museum Island (Pergamon, Neues, Altes Museum). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-berlin-7-4",
+      "author": "Elena Tanaka",
+      "country": "Canada",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-03-05",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Museum Island (Pergamon, Neues, Altes Museum) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-berlin-7-5",
+      "author": "Sofia Cohen",
+      "country": "South Africa",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-14",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a solo trip and it was well paced. Brandenburg Gate in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-6",
+      "author": "Ethan Garcia",
+      "country": "Italy",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-01-04",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Memorial to the Murdered Jews of Europe and Brandenburg Gate. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-7",
+      "author": "Elena Tanaka",
+      "country": "United States",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-11-03",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Reichstag Dome and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-8",
+      "author": "Arjun Novak",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-03-04",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a group trip and it was well paced. TV Tower (Fernsehturm) observation deck in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-berlin-7-9",
+      "author": "Liam Khan",
+      "country": "Italy",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-04-20",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Berlin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Memorial to the Murdered Jews of Europe was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-berlin-7-10",
+      "author": "Sofia Garcia",
+      "country": "Brazil",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-29",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a couple trip and it was well paced. TV Tower (Fernsehturm) observation deck in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-berlin-7-11",
+      "author": "Wei Cohen",
+      "country": "New Zealand",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-14",
+      "title": "Loved every moment",
+      "body": "Booked this as a family of 4 trip and it was well paced. East Side Gallery in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-12",
+      "author": "Mia Smith",
+      "country": "Brazil",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-05",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to TV Tower (Fernsehturm) observation deck and Tiergarten. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-13",
+      "author": "Fatima Tanaka",
+      "country": "Mexico",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-15",
+      "title": "Best vacation we've had",
+      "body": "Memorial to the Murdered Jews of Europe alone was worth the trip, but combined with TV Tower (Fernsehturm) observation deck this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-14",
+      "author": "Ethan Tanaka",
+      "country": "Switzerland",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-08",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Tiergarten and Checkpoint Charlie Museum. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-15",
+      "author": "Sarah Novak",
+      "country": "Singapore",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-02-22",
+      "title": "Worth every penny",
+      "body": "Berlin is stunning and this package covered the essentials well, especially Checkpoint Charlie Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-16",
+      "author": "Fatima Rossi",
+      "country": "South Korea",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-28",
+      "title": "Consultant made it effortless",
+      "body": "Sachsenhausen Memorial day trip alone was worth the trip, but combined with Memorial to the Murdered Jews of Europe this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-17",
+      "author": "Nadia Johnson",
+      "country": "Australia",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-11-07",
+      "title": "Highly recommend this package",
+      "body": "Berlin is stunning and this package covered the essentials well, especially East Side Gallery. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-18",
+      "author": "Sarah Garcia",
+      "country": "Canada",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-04-16",
+      "title": "Loved every moment",
+      "body": "Berlin is stunning and this package covered the essentials well, especially Museum Island (Pergamon, Neues, Altes Museum). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-berlin-7-19",
+      "author": "Olivia Williams",
+      "country": "Netherlands",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-08",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Berlin was fantastic from start to finish. The hotel was clean and well located, and the guided visit to East Side Gallery was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-berlin-7-20",
+      "author": "Isabella Müller",
+      "country": "Australia",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-01",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to East Side Gallery and Checkpoint Charlie Museum. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.4,
+    "hotel": 4.4,
+    "transportation": 4.4,
+    "activities": 4.3,
+    "value": 4.4,
+    "cleanliness": 4.5,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Berlin Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 14,
+      "neighborhood": "Kurfürstendamm"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Berlin Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 26,
+      "neighborhood": "Bikini Berlin concept mall"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Berlin Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 46,
+      "neighborhood": "Mauerpark flea market (Sundays)"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Berlin Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 59,
+      "neighborhood": "Berghain and the Friedrichshain club scene"
+    },
+    {
+      "tier": "Resort",
+      "name": "Berlin Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 125,
+      "neighborhood": "Kreuzberg bars"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Berlin Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 231,
+      "neighborhood": "RAW-Gelände nightlife complex"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Berlin Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 275,
+      "neighborhood": "The Barn Coffee Roasters"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        538,
+        855
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        544,
+        864
+      ],
+      "estimatedFlightHours": 9.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        144,
+        228
+      ],
+      "estimatedFlightHours": 2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        140,
+        223
+      ],
+      "estimatedFlightHours": 1.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        107,
+        170
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        162,
+        258
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        212,
+        336
+      ],
+      "estimatedFlightHours": 3.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        118,
+        188
+      ],
+      "estimatedFlightHours": 1.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        125,
+        198
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1239,
+        1968
+      ],
+      "estimatedFlightHours": 22.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1358,
+        2157
+      ],
+      "estimatedFlightHours": 24.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        494,
+        784
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        721,
+        1145
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        664,
+        1054
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        793,
+        1260
+      ],
+      "estimatedFlightHours": 14.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        698,
+        1108
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        771,
+        1224
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        856,
+        1359
+      ],
+      "estimatedFlightHours": 15.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        790,
+        1254
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        746,
+        1185
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        411,
+        652
+      ],
+      "estimatedFlightHours": 7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        377,
+        599
+      ],
+      "estimatedFlightHours": 6.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        394,
+        625
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        352,
+        559
+      ],
+      "estimatedFlightHours": 5.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        717,
+        1139
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        818,
+        1299
+      ],
+      "estimatedFlightHours": 14.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Berlin Brandenburg Airport (BER)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        779,
+        1238
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Reichstag Dome",
+    "Museum Island (Pergamon, Neues, Altes Museum)",
+    "East Side Gallery",
+    "Berlin Wall Memorial and Documentation Center",
+    "Checkpoint Charlie Museum",
+    "Sachsenhausen Memorial day trip",
+    "TV Tower (Fernsehturm) observation deck",
+    "Brandenburg Gate",
+    "Tiergarten",
+    "Memorial to the Murdered Jews of Europe",
+    "Alexanderplatz",
+    "Potsdam (Sanssouci Palace)",
+    "Sachsenhausen Memorial",
+    "Spreewald canal region",
+    "Pergamon Museum",
+    "Neues Museum",
+    "Jewish Museum Berlin",
+    "DDR Museum",
+    "Tempelhofer Feld (former airport turned park)",
+    "Treptower Park",
+    "Wannsee lake beach",
+    "Strandbar Mitte (urban river beach bar)",
+    "East Side Gallery murals",
+    "Brandenburg Gate at sunrise",
+    "Museum Island reflections",
+    "Oberbaum Bridge over the Spree"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Reichstag Dome",
+      "priceUSD": 0
+    },
+    {
+      "name": "Museum Island (Pergamon, Neues, Altes Museum)",
+      "priceUSD": 24
+    },
+    {
+      "name": "East Side Gallery",
+      "priceUSD": 0
+    },
+    {
+      "name": "Berlin Wall Memorial and Documentation Center",
+      "priceUSD": 0
+    },
+    {
+      "name": "Checkpoint Charlie Museum",
+      "priceUSD": 18
+    },
+    {
+      "name": "Sachsenhausen Memorial day trip",
+      "priceUSD": 0
+    },
+    {
+      "name": "TV Tower (Fernsehturm) observation deck",
+      "priceUSD": 25
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Brandenburg Gate",
+    "East Side Gallery",
+    "Tiergarten",
+    "Memorial to the Murdered Jews of Europe",
+    "Alexanderplatz"
+  ],
+  "museums": [
+    "Pergamon Museum",
+    "Neues Museum",
+    "Jewish Museum Berlin",
+    "DDR Museum"
+  ],
+  "parks": [
+    "Tiergarten",
+    "Tempelhofer Feld (former airport turned park)",
+    "Treptower Park"
+  ],
+  "beaches": [
+    "Wannsee lake beach",
+    "Strandbar Mitte (urban river beach bar)"
+  ],
+  "dayTrips": [
+    "Potsdam (Sanssouci Palace)",
+    "Sachsenhausen Memorial",
+    "Spreewald canal region"
+  ],
+  "fromPriceUSD": 1437,
+  "seo": {
+    "title": "Berlin 7-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "berlin-7-day-package",
+    "keywords": [
+      "Berlin",
+      "Germany",
+      "Berlin, Germany",
+      "Central Europe",
+      "Berlin tour package",
+      "Berlin vacation package",
+      "Berlin holiday package",
+      "things to do in Berlin",
+      "best time to visit Berlin",
+      "Berlin itinerary",
+      "7 day Berlin itinerary",
+      "Berlin flights and hotels",
+      "Berlin all inclusive package",
+      "cheap Berlin package",
+      "luxury Berlin package"
+    ],
+    "canonicalUrl": "/packages/berlin-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Berlin Package",
+        "url": "/packages/berlin-5-day-package"
+      },
+      {
+        "title": "10-Day Berlin Package",
+        "url": "/packages/berlin-10-day-package"
+      },
+      {
+        "title": "London 7-Day City Break",
+        "url": "/packages/london-7-day-package"
+      },
+      {
+        "title": "Lisbon 7-Day City Break",
+        "url": "/packages/lisbon-7-day-package"
+      },
+      {
+        "title": "Seoul 7-Day City Break",
+        "url": "/packages/seoul-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Berlin — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Berlin"
+      },
+      {
+        "title": "Berlin — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Berlin"
+      }
+    ]
+  }
+}

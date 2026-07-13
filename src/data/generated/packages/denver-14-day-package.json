@@ -1,0 +1,1744 @@
+{
+  "id": "PKG-denver-14D",
+  "slug": "denver-14-day-package",
+  "destinationSlug": "denver",
+  "destinationName": "Denver",
+  "country": "United States",
+  "region": "Colorado",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Denver 14-Day City Break",
+  "metaTitle": "Denver 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Denver, United States: round-trip flights, hotel, breakfast, transfers, and guided tours including Denver Art Museum and Denver Museum of Nature & Science. Prices from $2103 per person (estimate).",
+  "highlights": [
+    "Denver Art Museum",
+    "Denver Museum of Nature & Science",
+    "Red Rocks Park trails",
+    "Hiking Red Rocks and nearby foothills trails",
+    "Rocky Mountain National Park"
+  ],
+  "overview": "Spend 14 days discovering Denver, United States — Semi-arid high-plains climate at 1,600m elevation with over 300 sunny days a year, cold snowy winters (highs 5-7°C) and warm dry summers (highs around 30°C) with big day-to-night temperature swings. June to September for hiking and mountain access with warm, dry days; December to March for skiing in nearby Rocky Mountain resorts. This itinerary blends Denver Art Museum, Denver Museum of Nature & Science, Red Rocks Park trails with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Denver Art Museum, Denver Museum of Nature & Science, Red Rocks Park trails",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Denver",
+      "description": "Land at Denver International Airport (DEN) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Denver Art Museum — Major fine art museum known for its Indigenous American collection. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Denver Art Museum"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 2,
+      "title": "Denver: Denver Museum of Nature & Science & Denver Zoo",
+      "description": "Morning visit to Denver Museum of Nature & Science — Natural history museum with an IMAX and planetarium. In the afternoon, continue to Denver Zoo — One of the country's older zoos with a strong conservation program. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Denver Museum of Nature & Science",
+        "Denver Zoo"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 3,
+      "title": "Denver: Denver Botanic Gardens & Red Rocks Park & Amphitheatre visitor tour",
+      "description": "Morning visit to Denver Botanic Gardens — Extensive themed gardens in the heart of the city. In the afternoon, continue to Red Rocks Park & Amphitheatre visitor tour — Iconic red-sandstone concert venue and trails. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Denver Botanic Gardens",
+        "Red Rocks Park & Amphitheatre visitor tour"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Rocky Mountain National Park",
+      "description": "Full-day excursion to Rocky Mountain National Park, a popular side trip from Denver. Return to Denver in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Rocky Mountain National Park",
+        "Free evening"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Meow Wolf Convergence Station — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Meow Wolf Convergence Station"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 6,
+      "title": "Denver: Coors Field stadium tour & Molly Brown House Museum",
+      "description": "Morning visit to Coors Field stadium tour — Behind-the-scenes tour of the Colorado Rockies' ballpark. In the afternoon, continue to Molly Brown House Museum — Home of Titanic survivor \"Unsinkable\" Molly Brown. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Coors Field stadium tour",
+        "Molly Brown House Museum"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Red Rocks Park & Amphitheatre",
+      "description": "Full-day excursion to Red Rocks Park & Amphitheatre, a popular side trip from Denver. Return to Denver in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Red Rocks Park & Amphitheatre",
+        "Free evening"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 8,
+      "title": "Denver: Downtown Aquarium Denver & Wings Over the Rockies Air & Space Museum",
+      "description": "Morning visit to Downtown Aquarium Denver — Aquarium and dining complex with shark tanks. In the afternoon, continue to Wings Over the Rockies Air & Space Museum — Aviation and space history at a former Air Force base. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Downtown Aquarium Denver",
+        "Wings Over the Rockies Air & Space Museum"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Cheesman Park skyline/mountain view — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Cheesman Park skyline/mountain view"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Boulder",
+      "description": "Full-day excursion to Boulder, a popular side trip from Denver. Return to Denver in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Boulder",
+        "Free evening"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 11,
+      "title": "Denver: Rockmount Ranch Wear/History of Denver walking tour & Meow Wolf Denver (Convergence Station)",
+      "description": "Morning visit to Rockmount Ranch Wear/History of Denver walking tour — Guided historic downtown Denver walking tour. In the afternoon, continue to Meow Wolf Denver (Convergence Station) — Immersive surreal art experience across four fictional worlds. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Rockmount Ranch Wear/History of Denver walking tour",
+        "Meow Wolf Denver (Convergence Station)"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 12,
+      "title": "Denver: Red Rocks Park trails & Larimer Square",
+      "description": "Morning visit to Red Rocks Park trails — Free hiking access to the dramatic sandstone formations outside shows. In the afternoon, continue to Larimer Square — Denver's oldest and most historic block, restored Victorian buildings. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Red Rocks Park trails",
+        "Larimer Square"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Denver Firefighters Museum — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Denver Firefighters Museum"
+      ],
+      "overnight": "Denver"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Civic Center Park or some souvenir shopping — before your private transfer to DEN for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Give yourself a day to acclimatize to the mile-high elevation (1,609m) before strenuous hikes.",
+    "Book Red Rocks concert tickets or Rocky Mountain National Park timed-entry permits well in advance in summer.",
+    "The A Line train from DEN to Union Station is cheaper and often faster than a rideshare in traffic.",
+    "Afternoon thunderstorms are common June-August, especially in the mountains — plan hikes for early morning.",
+    "Alcohol hits harder at altitude — pace drinks the first day or two, especially if flying in from sea level.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Insulated jacket and warm layers for cold weather",
+    "Sunscreen and sunglasses — high altitude UV is stronger even in cool weather",
+    "Layers for large day-to-night temperature swings",
+    "A refillable water bottle to counter dehydration at altitude",
+    "Warm winter gear if skiing or visiting December-March"
+  ],
+  "thingsToDo": [
+    "Denver Art Museum",
+    "Denver Museum of Nature & Science",
+    "Denver Zoo",
+    "Denver Botanic Gardens",
+    "Red Rocks Park & Amphitheatre visitor tour",
+    "Coors Field stadium tour",
+    "Molly Brown House Museum",
+    "Downtown Aquarium Denver",
+    "Wings Over the Rockies Air & Space Museum",
+    "Rockmount Ranch Wear/History of Denver walking tour",
+    "Meow Wolf Denver (Convergence Station)",
+    "Red Rocks Park trails",
+    "Larimer Square",
+    "Civic Center Park",
+    "Colorado State Capitol grounds",
+    "Union Station",
+    "16th Street Mall",
+    "Cherry Creek Trail",
+    "City Park",
+    "RiNo Art District murals"
+  ],
+  "thingsToAvoid": [
+    "Consuming cannabis edibles too quickly — effects take longer to kick in at altitude and are easy to overdo.",
+    "Public cannabis consumption — it's illegal outside private property despite legal retail sales.",
+    "Underestimating I-70 mountain traffic on winter ski weekends — delays of hours are common.",
+    "Hiking above treeline without checking afternoon thunderstorm timing — lightning risk is serious in summer.",
+    "Skipping hydration and sun protection, assuming cool temperatures mean low UV exposure."
+  ],
+  "topRestaurants": [
+    "Root Down — Farm-to-Table American ($$$)",
+    "Snooze, an A.M. Eatery — American Brunch ($$)",
+    "Casa Bonita — Tex-Mex Entertainment Dining ($$)",
+    "Guard and Grace — Steakhouse ($$$$)",
+    "Biker Jim's Gourmet Dogs — Gourmet Hot Dogs ($)",
+    "Denver Biscuit Company — Southern Brunch ($$)",
+    "Work & Class — Latin-American ($$)",
+    "The Fort — Historic Western/Game Meats ($$$$)",
+    "Illegal Pete's — Burritos/Tex-Mex ($)"
+  ],
+  "topCafes": [
+    "Huckleberry Roasters",
+    "Corvus Coffee Roasters",
+    "Little Owl Coffee",
+    "Pablo's Coffee",
+    "Novo Coffee",
+    "Crema Coffee House"
+  ],
+  "shoppingAreas": [
+    "16th Street Mall",
+    "Cherry Creek Shopping Center",
+    "Larimer Square boutiques",
+    "RiNo Art District shops",
+    "South Broadway (SoBo) vintage stores"
+  ],
+  "nightlife": [
+    "RiNo Art District breweries",
+    "LoDo (Lower Downtown) bar district",
+    "Larimer Square cocktail bars",
+    "Red Rocks Amphitheatre concerts",
+    "Cervantes' Masterpiece Ballroom"
+  ],
+  "instagramSpots": [
+    "Red Rocks Amphitheatre at sunset",
+    "RiNo Art District murals",
+    "Colorado State Capitol mile-high step",
+    "Denver Botanic Gardens",
+    "Civic Center Park with mountain backdrop"
+  ],
+  "hiddenGems": [
+    "Meow Wolf Convergence Station",
+    "Cheesman Park skyline/mountain view",
+    "Denver Firefighters Museum",
+    "Comanche National Grassland day trip",
+    "Sunken Gardens Park"
+  ],
+  "familyActivities": [
+    "Denver Zoo",
+    "Denver Museum of Nature & Science",
+    "Downtown Aquarium",
+    "Denver Botanic Gardens",
+    "Elitch Gardens amusement park"
+  ],
+  "adventureActivities": [
+    "Hiking Red Rocks and nearby foothills trails",
+    "Whitewater rafting on Clear Creek",
+    "Day-trip skiing at Winter Park or Breckenridge",
+    "Mountain biking Green Mountain trails"
+  ],
+  "luxuryExperiences": [
+    "Concert at Red Rocks with VIP seating",
+    "Fine dining tasting menu at Guard and Grace",
+    "Private ski helicopter transfer to a resort",
+    "Luxury stay at The Ritz-Carlton Denver"
+  ],
+  "honeymoonExperiences": [
+    "Sunset picnic overlooking Red Rocks",
+    "Romantic gondola or hot springs day trip to the mountains",
+    "Wine dinner in Larimer Square",
+    "Couples spa day with mountain views"
+  ],
+  "budgetExperiences": [
+    "Free hiking at Red Rocks Park",
+    "Wander RiNo Art District murals",
+    "Free walk through Civic Center Park and the Capitol grounds",
+    "Happy hour at LoDo breweries"
+  ],
+  "estimatedDailyBudgetUSD": [
+    80,
+    180,
+    320,
+    600
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 61,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 7,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 9,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 13,
+      "crowd": "Low"
+    },
+    {
+      "month": "Apr",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 21,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 30,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 29,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 25,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 11,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 6,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Great American Beer Festival",
+      "timing": "Late September to early October"
+    },
+    {
+      "name": "Denver Union Station Days / Underground Music Showcase",
+      "timing": "Late July"
+    },
+    {
+      "name": "Cherry Creek Arts Festival",
+      "timing": "Fourth of July weekend"
+    },
+    {
+      "name": "National Western Stock Show",
+      "timing": "Mid-to-late January"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Outdoor/athletic casual dress is the norm nearly everywhere, including many restaurants.",
+    "Tipping 18-20% at restaurants and bars is standard.",
+    "Cannabis is legal for adults 21+ but consumption is restricted to private property — public use is illegal and fined.",
+    "Locals are generally laid-back and outdoorsy; talking about hiking or ski conditions is easy small talk.",
+    "Altitude affects newcomers — locals won't be offended if you pace yourself on hikes or skip a second drink the first night."
+  ],
+  "localTransportGuide": "The RTD A Line train connects Denver International Airport directly to Union Station downtown, and the free 16th Street Mall shuttle covers the core. Denver is otherwise fairly car-dependent for reaching the mountains or outlying neighborhoods, so renting a car is worthwhile if planning day trips to Red Rocks, Boulder or Rocky Mountain National Park.",
+  "bestTimeToVisit": "June to September for hiking and mountain access with warm, dry days; December to March for skiing in nearby Rocky Mountain resorts.",
+  "weather": "Semi-arid high-plains climate at 1,600m elevation with over 300 sunny days a year, cold snowy winters (highs 5-7°C) and warm dry summers (highs around 30°C) with big day-to-night temperature swings.",
+  "visaInformation": "Visa-free ESTA entry for UK, EU, Australian and other Visa Waiver Program passport holders for stays up to 90 days. Indian nationals and most other nationalities require a US B1/B2 visitor visa arranged in advance.",
+  "currency": "USD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "MST (UTC-7)",
+  "averageFlightTime": "~14.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Denver International Airport (DEN)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Denver?",
+      "answer": "Visa-free ESTA entry for UK, EU, Australian and other Visa Waiver Program passport holders for stays up to 90 days. Indian nationals and most other nationalities require a US B1/B2 visitor visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Denver?",
+      "answer": "June to September for hiking and mountain access with warm, dry days; December to March for skiing in nearby Rocky Mountain resorts. Semi-arid high-plains climate at 1,600m elevation with over 300 sunny days a year, cold snowy winters (highs 5-7°C) and warm dry summers (highs around 30°C) with big day-to-night temperature swings."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Denver safe for tourists?",
+      "answer": "Denver is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Denver?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Adventure",
+    "Nature",
+    "Road Trip",
+    "Weekend Getaway",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Denver",
+    "United States",
+    "Denver, United States",
+    "Colorado",
+    "Denver tour package",
+    "Denver vacation package",
+    "Denver holiday package",
+    "things to do in Denver",
+    "best time to visit Denver",
+    "Denver itinerary",
+    "14 day Denver itinerary",
+    "Denver flights and hotels",
+    "Denver all inclusive package",
+    "cheap Denver package",
+    "luxury Denver package",
+    "Denver honeymoon package",
+    "Denver family vacation",
+    "Denver solo trip",
+    "Denver group tour",
+    "Denver weekend getaway",
+    "Denver guided tour",
+    "DEN flights",
+    "Denver travel guide",
+    "book Denver trip online",
+    "Denver trip cost",
+    "Denver packages 14 days",
+    "Denver city break",
+    "Denver adventure",
+    "Denver nature",
+    "Denver road trip",
+    "Denver bucket list",
+    "Denver Art Museum",
+    "Denver Museum of Nature & Science",
+    "Denver Zoo",
+    "Denver Botanic Gardens",
+    "Red Rocks Park & Amphitheatre visitor tour",
+    "Coors Field stadium tour",
+    "Molly Brown House Museum",
+    "Downtown Aquarium Denver",
+    "Wings Over the Rockies Air & Space Museum",
+    "Rockmount Ranch Wear/History of Denver walking tour",
+    "Meow Wolf Denver (Convergence Station)",
+    "Red Rocks Park trails",
+    "Larimer Square",
+    "Civic Center Park",
+    "Colorado State Capitol grounds",
+    "Union Station",
+    "16th Street Mall",
+    "Cherry Creek Trail",
+    "City Park"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Denver, United States — Red Rocks Amphitheatre sunset",
+      "keywords": [
+        "Denver",
+        "United States",
+        "Red Rocks Amphitheatre sunset",
+        "City Break",
+        "Adventure"
+      ],
+      "unsplashQuery": "Denver Red Rocks Amphitheatre sunset",
+      "pexelsQuery": "Denver Red Rocks Amphitheatre sunset",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Denver, United States — Red Rocks Amphitheatre sunset",
+      "keywords": [
+        "Denver",
+        "United States",
+        "Red Rocks Amphitheatre sunset",
+        "City Break",
+        "Adventure"
+      ],
+      "unsplashQuery": "Denver Red Rocks Amphitheatre sunset",
+      "pexelsQuery": "Denver Red Rocks Amphitheatre sunset",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Denver, United States — Denver skyline with Rocky Mountains backdrop",
+      "keywords": [
+        "Denver",
+        "United States",
+        "Denver skyline with Rocky Mountains backdrop",
+        "City Break",
+        "Adventure"
+      ],
+      "unsplashQuery": "Denver Denver skyline with Rocky Mountains backdrop",
+      "pexelsQuery": "Denver Denver skyline with Rocky Mountains backdrop",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Denver, United States — Colorado State Capitol gold dome",
+      "keywords": [
+        "Denver",
+        "United States",
+        "Colorado State Capitol gold dome",
+        "City Break",
+        "Adventure"
+      ],
+      "unsplashQuery": "Denver Colorado State Capitol gold dome",
+      "pexelsQuery": "Denver Colorado State Capitol gold dome",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Denver, United States — Red Rocks Amphitheatre sunset",
+      "keywords": [
+        "Denver",
+        "United States",
+        "Red Rocks Amphitheatre sunset",
+        "City Break",
+        "Adventure"
+      ],
+      "unsplashQuery": "Denver Red Rocks Amphitheatre sunset",
+      "pexelsQuery": "Denver Red Rocks Amphitheatre sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Denver, United States — Denver skyline with Rocky Mountains backdrop",
+      "keywords": [
+        "Denver",
+        "United States",
+        "Denver skyline with Rocky Mountains backdrop",
+        "City Break",
+        "Adventure"
+      ],
+      "unsplashQuery": "Denver Denver skyline with Rocky Mountains backdrop",
+      "pexelsQuery": "Denver Denver skyline with Rocky Mountains backdrop",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Denver, United States — Colorado State Capitol gold dome",
+      "keywords": [
+        "Denver",
+        "United States",
+        "Colorado State Capitol gold dome",
+        "City Break",
+        "Adventure"
+      ],
+      "unsplashQuery": "Denver Colorado State Capitol gold dome",
+      "pexelsQuery": "Denver Colorado State Capitol gold dome",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Denver, United States — RiNo Art District mural",
+      "keywords": [
+        "Denver",
+        "United States",
+        "RiNo Art District mural",
+        "City Break",
+        "Adventure"
+      ],
+      "unsplashQuery": "Denver RiNo Art District mural",
+      "pexelsQuery": "Denver RiNo Art District mural",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Denver, United States — Denver Art Museum",
+      "keywords": [
+        "Denver",
+        "United States",
+        "Denver Art Museum",
+        "City Break",
+        "Adventure"
+      ],
+      "unsplashQuery": "Denver Denver Art Museum",
+      "pexelsQuery": "Denver Denver Art Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Denver, United States — Denver Museum of Nature & Science",
+      "keywords": [
+        "Denver",
+        "United States",
+        "Denver Museum of Nature & Science",
+        "City Break",
+        "Adventure"
+      ],
+      "unsplashQuery": "Denver Denver Museum of Nature & Science",
+      "pexelsQuery": "Denver Denver Museum of Nature & Science",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Denver, United States — Denver Zoo",
+      "keywords": [
+        "Denver",
+        "United States",
+        "Denver Zoo",
+        "City Break",
+        "Adventure"
+      ],
+      "unsplashQuery": "Denver Denver Zoo",
+      "pexelsQuery": "Denver Denver Zoo",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Denver, United States — Denver Botanic Gardens",
+      "keywords": [
+        "Denver",
+        "United States",
+        "Denver Botanic Gardens",
+        "City Break",
+        "Adventure"
+      ],
+      "unsplashQuery": "Denver Denver Botanic Gardens",
+      "pexelsQuery": "Denver Denver Botanic Gardens",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-denver-14-1",
+      "author": "Sarah Andersen",
+      "country": "Switzerland",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-03-15",
+      "title": "Consultant made it effortless",
+      "body": "Denver is stunning and this package covered the essentials well, especially Union Station. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-2",
+      "author": "Priya Khan",
+      "country": "Mexico",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-16",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a couple trip and it was well paced. Cherry Creek Trail in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-3",
+      "author": "Arjun Rossi",
+      "country": "Canada",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-03",
+      "title": "Adventure of a lifetime",
+      "body": "Booked this as a family of 4 trip and it was well paced. Denver Zoo in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-4",
+      "author": "Fatima Khan",
+      "country": "Japan",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-25",
+      "title": "Would book again in a heartbeat",
+      "body": "Meow Wolf Denver (Convergence Station) alone was worth the trip, but combined with Rockmount Ranch Wear/History of Denver walking tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-5",
+      "author": "Marco Ivanov",
+      "country": "Canada",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-11-01",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Denver Zoo and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-denver-14-6",
+      "author": "Marco Williams",
+      "country": "UAE",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-04",
+      "title": "Five stars, will return",
+      "body": "We added a couple of optional activities beyond Downtown Aquarium Denver and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-7",
+      "author": "Noah Nguyen",
+      "country": "Saudi Arabia",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-05",
+      "title": "Great for families with kids",
+      "body": "Our trip to Denver was fantastic from start to finish. The hotel was clean and well located, and the guided visit to 16th Street Mall was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-8",
+      "author": "Priya Fernandez",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-24",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a group trip and it was well paced. Meow Wolf Denver (Convergence Station) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-9",
+      "author": "Grace Smith",
+      "country": "New Zealand",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-09",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Civic Center Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-10",
+      "author": "Marco Dubois",
+      "country": "South Africa",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-21",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Larimer Square and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-11",
+      "author": "Isabella Johnson",
+      "country": "Mexico",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-15",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Cherry Creek Trail and Denver Zoo. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-12",
+      "author": "Elena Rossi",
+      "country": "Germany",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-09-15",
+      "title": "Best vacation we've had",
+      "body": "We added a couple of optional activities beyond Red Rocks Park & Amphitheatre visitor tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-denver-14-13",
+      "author": "Anna Larsen",
+      "country": "France",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2026-01-06",
+      "title": "Smooth from start to finish",
+      "body": "Denver is stunning and this package covered the essentials well, especially Coors Field stadium tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-14",
+      "author": "Mia Khan",
+      "country": "Spain",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-02-17",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to RiNo Art District murals and 16th Street Mall. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-15",
+      "author": "Emma Santos",
+      "country": "United Kingdom",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-02-16",
+      "title": "Five stars, will return",
+      "body": "Our trip to Denver was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Denver Museum of Nature & Science was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-16",
+      "author": "Priya Nguyen",
+      "country": "UAE",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-15",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a group trip and it was well paced. Downtown Aquarium Denver in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-17",
+      "author": "Omar Dubois",
+      "country": "Japan",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-06-25",
+      "title": "Best vacation we've had",
+      "body": "We added a couple of optional activities beyond Meow Wolf Denver (Convergence Station) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-18",
+      "author": "Omar Kim",
+      "country": "Japan",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-06-19",
+      "title": "Perfect for our honeymoon",
+      "body": "We added a couple of optional activities beyond Meow Wolf Denver (Convergence Station) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-19",
+      "author": "Elena Khan",
+      "country": "Switzerland",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-03",
+      "title": "Perfect for our honeymoon",
+      "body": "We added a couple of optional activities beyond Union Station and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-denver-14-20",
+      "author": "Grace Smith",
+      "country": "India",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-06",
+      "title": "Unforgettable trip!",
+      "body": "We added a couple of optional activities beyond Molly Brown House Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.5,
+    "food": 4.5,
+    "hotel": 4.6,
+    "transportation": 4.5,
+    "activities": 4.5,
+    "value": 4.4,
+    "cleanliness": 4.4,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Denver Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 18,
+      "neighborhood": "16th Street Mall"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Denver Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "Cherry Creek Shopping Center"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Denver Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 63,
+      "neighborhood": "Larimer Square boutiques"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Denver Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 81,
+      "neighborhood": "RiNo Art District shops"
+    },
+    {
+      "tier": "Resort",
+      "name": "Denver Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "South Broadway (SoBo) vintage stores"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Denver Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 252,
+      "neighborhood": "RiNo Art District breweries"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Denver Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 300,
+      "neighborhood": "LoDo (Lower Downtown) bar district"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        266,
+        423
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        233,
+        370
+      ],
+      "estimatedFlightHours": 3.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        621,
+        987
+      ],
+      "estimatedFlightHours": 11,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        644,
+        1023
+      ],
+      "estimatedFlightHours": 11.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        663,
+        1053
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        724,
+        1150
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        660,
+        1048
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        637,
+        1011
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        677,
+        1076
+      ],
+      "estimatedFlightHours": 12,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1046,
+        1661
+      ],
+      "estimatedFlightHours": 18.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        930,
+        1477
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        973,
+        1546
+      ],
+      "estimatedFlightHours": 17.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        751,
+        1192
+      ],
+      "estimatedFlightHours": 13.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        793,
+        1260
+      ],
+      "estimatedFlightHours": 14.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1131,
+        1796
+      ],
+      "estimatedFlightHours": 20.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1052,
+        1671
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1126,
+        1789
+      ],
+      "estimatedFlightHours": 20.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1169,
+        1856
+      ],
+      "estimatedFlightHours": 21.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        967,
+        1536
+      ],
+      "estimatedFlightHours": 17.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1053,
+        1673
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        980,
+        1557
+      ],
+      "estimatedFlightHours": 17.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        963,
+        1530
+      ],
+      "estimatedFlightHours": 17.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        972,
+        1543
+      ],
+      "estimatedFlightHours": 17.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        932,
+        1480
+      ],
+      "estimatedFlightHours": 16.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1192,
+        1893
+      ],
+      "estimatedFlightHours": 21.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        747,
+        1187
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Denver International Airport (DEN)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        245,
+        389
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Denver Art Museum",
+    "Denver Museum of Nature & Science",
+    "Denver Zoo",
+    "Denver Botanic Gardens",
+    "Red Rocks Park & Amphitheatre visitor tour",
+    "Coors Field stadium tour",
+    "Molly Brown House Museum",
+    "Downtown Aquarium Denver",
+    "Wings Over the Rockies Air & Space Museum",
+    "Rockmount Ranch Wear/History of Denver walking tour",
+    "Meow Wolf Denver (Convergence Station)",
+    "Red Rocks Park trails",
+    "Larimer Square",
+    "Civic Center Park",
+    "Colorado State Capitol grounds",
+    "Union Station",
+    "16th Street Mall",
+    "Cherry Creek Trail",
+    "City Park",
+    "RiNo Art District murals",
+    "Rocky Mountain National Park",
+    "Red Rocks Park & Amphitheatre",
+    "Boulder",
+    "Georgetown and Idaho Springs",
+    "Cheesman Park",
+    "Red Rocks Amphitheatre at sunset",
+    "Colorado State Capitol mile-high step",
+    "Civic Center Park with mountain backdrop"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Denver Art Museum",
+      "priceUSD": 18
+    },
+    {
+      "name": "Denver Museum of Nature & Science",
+      "priceUSD": 22
+    },
+    {
+      "name": "Denver Zoo",
+      "priceUSD": 27
+    },
+    {
+      "name": "Denver Botanic Gardens",
+      "priceUSD": 18
+    },
+    {
+      "name": "Red Rocks Park & Amphitheatre visitor tour",
+      "priceUSD": 0
+    },
+    {
+      "name": "Coors Field stadium tour",
+      "priceUSD": 14
+    },
+    {
+      "name": "Molly Brown House Museum",
+      "priceUSD": 16
+    },
+    {
+      "name": "Downtown Aquarium Denver",
+      "priceUSD": 25
+    },
+    {
+      "name": "Wings Over the Rockies Air & Space Museum",
+      "priceUSD": 15
+    },
+    {
+      "name": "Rockmount Ranch Wear/History of Denver walking tour",
+      "priceUSD": 25
+    },
+    {
+      "name": "Meow Wolf Denver (Convergence Station)",
+      "priceUSD": 45
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Red Rocks Park trails",
+    "Larimer Square",
+    "Civic Center Park",
+    "Colorado State Capitol grounds",
+    "Union Station",
+    "16th Street Mall",
+    "Cherry Creek Trail",
+    "City Park",
+    "RiNo Art District murals"
+  ],
+  "museums": [
+    "Denver Art Museum",
+    "Denver Museum of Nature & Science",
+    "Molly Brown House Museum",
+    "Wings Over the Rockies Air & Space Museum"
+  ],
+  "parks": [
+    "City Park",
+    "Denver Botanic Gardens",
+    "Civic Center Park",
+    "Cheesman Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Rocky Mountain National Park",
+    "Red Rocks Park & Amphitheatre",
+    "Boulder",
+    "Georgetown and Idaho Springs"
+  ],
+  "fromPriceUSD": 2103,
+  "seo": {
+    "title": "Denver 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "denver-14-day-package",
+    "keywords": [
+      "Denver",
+      "United States",
+      "Denver, United States",
+      "Colorado",
+      "Denver tour package",
+      "Denver vacation package",
+      "Denver holiday package",
+      "things to do in Denver",
+      "best time to visit Denver",
+      "Denver itinerary",
+      "14 day Denver itinerary",
+      "Denver flights and hotels",
+      "Denver all inclusive package",
+      "cheap Denver package",
+      "luxury Denver package"
+    ],
+    "canonicalUrl": "/packages/denver-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Denver Package",
+        "url": "/packages/denver-10-day-package"
+      },
+      {
+        "title": "7-Day Denver Package",
+        "url": "/packages/denver-7-day-package"
+      },
+      {
+        "title": "Vancouver 14-Day City Break",
+        "url": "/packages/vancouver-14-day-package"
+      },
+      {
+        "title": "Cape Town 14-Day City Break",
+        "url": "/packages/cape-town-14-day-package"
+      },
+      {
+        "title": "Rishikesh 14-Day Adventure Tour",
+        "url": "/packages/rishikesh-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Denver — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Denver"
+      },
+      {
+        "title": "Denver — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Denver"
+      }
+    ]
+  }
+}

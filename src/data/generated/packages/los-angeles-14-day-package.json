@@ -1,0 +1,1732 @@
+{
+  "id": "PKG-los-angeles-14D",
+  "slug": "los-angeles-14-day-package",
+  "destinationSlug": "los-angeles",
+  "destinationName": "Los Angeles",
+  "country": "United States",
+  "region": "California",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Los Angeles 14-Day City Break",
+  "metaTitle": "Los Angeles 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Los Angeles, United States: round-trip flights, hotel, breakfast, transfers, and guided tours including Universal Studios Hollywood and Getty Center. Prices from $2556 per person (estimate).",
+  "highlights": [
+    "Universal Studios Hollywood",
+    "Getty Center",
+    "Venice Beach Boardwalk",
+    "Disneyland, Anaheim"
+  ],
+  "overview": "Spend 14 days discovering Los Angeles, United States — Mediterranean climate with mild, dry conditions nearly year-round: warm summers (highs 27-29°C, virtually no rain), and mild winters (highs 18-20°C) with most of the region's modest annual rainfall concentrated December-March. March to May and September to November for mild, dry, uncrowded weather (highs 22-26°C); summer (Jun-Aug) is warm and busiest with tourists despite coastal \"June gloom\" morning cloud. This itinerary blends Universal Studios Hollywood, Getty Center, Venice Beach Boardwalk with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Universal Studios Hollywood, Getty Center, Venice Beach Boardwalk",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Los Angeles",
+      "description": "Land at Los Angeles International Airport (LAX) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Universal Studios Hollywood — Working film studio and theme park with movie-themed rides. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Universal Studios Hollywood"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 2,
+      "title": "Los Angeles: Getty Center & Griffith Observatory planetarium show",
+      "description": "Morning visit to Getty Center — Hilltop art museum and gardens with sweeping city views (free entry, paid parking). In the afternoon, continue to Griffith Observatory planetarium show — Iconic hilltop observatory with telescopes and city views (grounds free). Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Getty Center",
+        "Griffith Observatory planetarium show"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 3,
+      "title": "Los Angeles: Hollywood Walk of Fame & TCL Chinese Theatre tour & Disneyland Park, Anaheim",
+      "description": "Morning visit to Hollywood Walk of Fame & TCL Chinese Theatre tour — Celebrity handprints and Hollywood Boulevard stars. In the afternoon, continue to Disneyland Park, Anaheim — The original Disney theme park, roughly 45 minutes from downtown LA. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Hollywood Walk of Fame & TCL Chinese Theatre tour",
+        "Disneyland Park, Anaheim"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Disneyland, Anaheim",
+      "description": "Full-day excursion to Disneyland, Anaheim, a popular side trip from Los Angeles. Return to Los Angeles in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Disneyland, Anaheim",
+        "Free evening"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Venice Canals Historic District — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Venice Canals Historic District"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 6,
+      "title": "Los Angeles: The Broad museum (timed entry) & Warner Bros. Studio Tour Hollywood",
+      "description": "Morning visit to The Broad museum (timed entry) — Contemporary art museum including Yayoi Kusama Infinity Rooms. In the afternoon, continue to Warner Bros. Studio Tour Hollywood — Behind-the-scenes working studio backlot tour. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "The Broad museum (timed entry)",
+        "Warner Bros. Studio Tour Hollywood"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Malibu",
+      "description": "Full-day excursion to Malibu, a popular side trip from Los Angeles. Return to Los Angeles in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Malibu",
+        "Free evening"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 8,
+      "title": "Los Angeles: La Brea Tar Pits and Museum & Venice Beach Boardwalk",
+      "description": "Morning visit to La Brea Tar Pits and Museum — Active Ice Age fossil excavation site in the middle of the city. In the afternoon, continue to Venice Beach Boardwalk — Eclectic beachfront strip with street performers and Muscle Beach. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "La Brea Tar Pits and Museum",
+        "Venice Beach Boardwalk"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Griffith Park hiking trails beyond the observatory — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Griffith Park hiking trails beyond the observatory"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Catalina Island",
+      "description": "Full-day excursion to Catalina Island, a popular side trip from Los Angeles. Return to Los Angeles in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Catalina Island",
+        "Free evening"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 11,
+      "title": "Los Angeles: Santa Monica Pier & Griffith Observatory grounds",
+      "description": "Morning visit to Santa Monica Pier — Iconic pier with an amusement park and ocean views (rides ticketed separately). In the afternoon, continue to Griffith Observatory grounds — Free hilltop grounds with the Hollywood Sign view and city panorama. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Santa Monica Pier",
+        "Griffith Observatory grounds"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 12,
+      "title": "Los Angeles: Hollywood Sign viewpoints & The Grove & Original Farmers Market exterior",
+      "description": "Morning visit to Hollywood Sign viewpoints — Best seen from Griffith Observatory or Lake Hollywood Park. In the afternoon, continue to The Grove & Original Farmers Market exterior — Open-air shopping and dining district. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Hollywood Sign viewpoints",
+        "The Grove & Original Farmers Market exterior"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Angels Flight funicular, Downtown — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Angels Flight funicular, Downtown"
+      ],
+      "overnight": "Los Angeles"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Rodeo Drive or some souvenir shopping — before your private transfer to LAX for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Rent a car if visiting multiple neighborhoods — public transit coverage is limited relative to the city's size.",
+    "Visit Griffith Observatory at sunset for the best Hollywood Sign photos and city-light views afterward.",
+    "Book Universal Studios or Disneyland tickets online in advance with a specific date to secure lower pricing and entry time slots.",
+    "Santa Monica and Venice Beach are best combined into one beach-day itinerary via the beachfront bike path.",
+    "Traffic peaks roughly 7-10am and 4-7pm — schedule cross-town drives outside these windows when possible.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Layers for cool mornings/evenings and warm afternoons",
+    "Sunscreen and a hat for near-constant sun",
+    "Comfortable walking shoes for hiking Griffith Park or Runyon Canyon",
+    "A light jacket for coastal \"June gloom\" fog"
+  ],
+  "thingsToDo": [
+    "Universal Studios Hollywood",
+    "Getty Center",
+    "Griffith Observatory planetarium show",
+    "Hollywood Walk of Fame & TCL Chinese Theatre tour",
+    "Disneyland Park, Anaheim",
+    "The Broad museum (timed entry)",
+    "Warner Bros. Studio Tour Hollywood",
+    "La Brea Tar Pits and Museum",
+    "Venice Beach Boardwalk",
+    "Santa Monica Pier",
+    "Griffith Observatory grounds",
+    "Hollywood Sign viewpoints",
+    "The Grove & Original Farmers Market exterior",
+    "Rodeo Drive",
+    "Melrose Avenue",
+    "Hiking to the Hollywood Sign via Griffith Park trails",
+    "Surfing lessons at Malibu or Venice Beach",
+    "Zip-lining and canyoneering day trips near Malibu",
+    "Cycling the Marvin Braude beach bike path",
+    "Disneyland Park (Anaheim, day trip)"
+  ],
+  "thingsToAvoid": [
+    "Driving during rush hour between distant neighborhoods (e.g., Downtown to Santa Monica) without buffer time.",
+    "Star-map and celebrity-home-tour street vendors selling outdated or inaccurate maps near Hollywood Boulevard.",
+    "Leaving valuables visible in parked rental cars — break-ins are a known issue at trailheads and beach parking lots.",
+    "Assuming walkability between attractions — distances that look short on a map can be a long, unwalkable drive.",
+    "Skipping sunscreen — the UV index stays high even on cool or overcast days."
+  ],
+  "topRestaurants": [
+    "In-N-Out Burger — American Fast Food, California institution ($)",
+    "Nobu Malibu — Japanese Fine Dining ($$$$)",
+    "Grand Central Market vendors — Multi-cuisine food hall ($)",
+    "Pink's Hot Dogs — American Street Food ($)",
+    "Guelaguetza — Oaxacan Mexican ($$)",
+    "Republique — French Bistro ($$$)",
+    "Roscoe's House of Chicken and Waffles — Soul Food ($$)"
+  ],
+  "topCafes": [
+    "Intelligentsia Coffee, Silver Lake",
+    "Alfred Coffee",
+    "Verve Coffee Roasters",
+    "Blue Bottle Coffee, Downtown",
+    "Great White, Venice"
+  ],
+  "shoppingAreas": [
+    "Rodeo Drive, Beverly Hills",
+    "The Grove",
+    "Melrose Avenue",
+    "Santa Monica Third Street Promenade",
+    "Grand Central Market"
+  ],
+  "nightlife": [
+    "The Sunset Strip (West Hollywood)",
+    "Delilah nightclub",
+    "Broken Shaker rooftop bar",
+    "Comedy Store, Sunset Strip",
+    "Arts District breweries"
+  ],
+  "instagramSpots": [
+    "Griffith Observatory with the Hollywood Sign",
+    "Santa Monica Pier at sunset",
+    "Venice Beach canals",
+    "The Broad museum \"Infinity Mirror Room\"",
+    "Urban Light installation at LACMA"
+  ],
+  "hiddenGems": [
+    "Venice Canals Historic District",
+    "Griffith Park hiking trails beyond the observatory",
+    "Angels Flight funicular, Downtown",
+    "Self-Realization Fellowship Lake Shrine, Pacific Palisades"
+  ],
+  "familyActivities": [
+    "Universal Studios Hollywood",
+    "Disneyland Park (Anaheim, day trip)",
+    "La Brea Tar Pits and Museum",
+    "California Science Center"
+  ],
+  "adventureActivities": [
+    "Hiking to the Hollywood Sign via Griffith Park trails",
+    "Surfing lessons at Malibu or Venice Beach",
+    "Zip-lining and canyoneering day trips near Malibu",
+    "Cycling the Marvin Braude beach bike path"
+  ],
+  "luxuryExperiences": [
+    "Suite stay at the Beverly Hills Hotel",
+    "Private studio-lot tour with VIP access",
+    "Fine dining at Nobu Malibu with ocean views",
+    "Private helicopter tour over the LA coastline"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at Griffith Observatory overlooking the city",
+    "Beachfront dinner in Malibu",
+    "Private sunset sail off Marina del Rey",
+    "Couple's spa day at a Beverly Hills resort"
+  ],
+  "budgetExperiences": [
+    "Free grounds and telescope viewing at Griffith Observatory",
+    "Venice Beach Boardwalk people-watching",
+    "Free-entry days/timed tickets at The Broad museum",
+    "In-N-Out Burger and Grand Central Market food crawl"
+  ],
+  "estimatedDailyBudgetUSD": [
+    95,
+    200,
+    360,
+    800
+  ],
+  "safetyRating": 3,
+  "internetRating": 4,
+  "publicTransportRating": 2,
+  "walkingScore": 45,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 22,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 28,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 25,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 22,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 19,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Academy Awards (Oscars)",
+      "timing": "February-March"
+    },
+    {
+      "name": "LA Pride",
+      "timing": "June"
+    },
+    {
+      "name": "Hollywood Christmas Parade",
+      "timing": "Late November"
+    },
+    {
+      "name": "Coachella (Indio, day trip region)",
+      "timing": "April, two weekends"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Tipping 18-20% at restaurants and for rideshare/service is standard practice.",
+    "Celebrity-spotting is common but approaching for photos without consent is considered rude and can draw security intervention.",
+    "Jaywalking is technically illegal and can draw a fine in some areas, though widely done by locals.",
+    "Studio tours and sets often have strict no-photography rules in certain areas — follow posted signage."
+  ],
+  "localTransportGuide": "LA is famously car-centric and sprawling — renting a car is the most practical option for most visitors, though Metro rail lines (like the E Line to Santa Monica) and Uber/Lyft cover key tourist corridors. Traffic is heavy at nearly all hours, so budget extra time between neighborhoods.",
+  "bestTimeToVisit": "March to May and September to November for mild, dry, uncrowded weather (highs 22-26°C); summer (Jun-Aug) is warm and busiest with tourists despite coastal \"June gloom\" morning cloud.",
+  "weather": "Mediterranean climate with mild, dry conditions nearly year-round: warm summers (highs 27-29°C, virtually no rain), and mild winters (highs 18-20°C) with most of the region's modest annual rainfall concentrated December-March.",
+  "visaInformation": "Citizens of Visa Waiver Program countries can enter with an approved ESTA for stays up to 90 days. Other nationalities, including Indian passport holders, require a B1/B2 visitor visa obtained in advance via a US embassy/consulate interview — plan several weeks to months ahead given typical interview wait times.",
+  "currency": "USD",
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "timeZone": "PST (UTC-8)",
+  "averageFlightTime": "~15.2h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Los Angeles International Airport (LAX)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Los Angeles?",
+      "answer": "Citizens of Visa Waiver Program countries can enter with an approved ESTA for stays up to 90 days. Other nationalities, including Indian passport holders, require a B1/B2 visitor visa obtained in advance via a US embassy/consulate interview — plan several weeks to months ahead given typical interview wait times."
+    },
+    {
+      "question": "What is the best time to visit Los Angeles?",
+      "answer": "March to May and September to November for mild, dry, uncrowded weather (highs 22-26°C); summer (Jun-Aug) is warm and busiest with tourists despite coastal \"June gloom\" morning cloud. Mediterranean climate with mild, dry conditions nearly year-round: warm summers (highs 27-29°C, virtually no rain), and mild winters (highs 18-20°C) with most of the region's modest annual rainfall concentrated December-March."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Los Angeles safe for tourists?",
+      "answer": "Los Angeles is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Los Angeles?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include Universal Studios Hollywood."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Beach",
+    "Family",
+    "Shopping",
+    "Nightlife",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Los Angeles",
+    "United States",
+    "Los Angeles, United States",
+    "California",
+    "Los Angeles tour package",
+    "Los Angeles vacation package",
+    "Los Angeles holiday package",
+    "things to do in Los Angeles",
+    "best time to visit Los Angeles",
+    "Los Angeles itinerary",
+    "14 day Los Angeles itinerary",
+    "Los Angeles flights and hotels",
+    "Los Angeles all inclusive package",
+    "cheap Los Angeles package",
+    "luxury Los Angeles package",
+    "Los Angeles honeymoon package",
+    "Los Angeles family vacation",
+    "Los Angeles solo trip",
+    "Los Angeles group tour",
+    "Los Angeles weekend getaway",
+    "Los Angeles guided tour",
+    "LAX flights",
+    "Los Angeles travel guide",
+    "book Los Angeles trip online",
+    "Los Angeles trip cost",
+    "Los Angeles packages 14 days",
+    "Los Angeles city break",
+    "Los Angeles beach",
+    "Los Angeles family",
+    "Los Angeles shopping",
+    "Los Angeles nightlife",
+    "Los Angeles bucket list",
+    "Universal Studios Hollywood",
+    "Getty Center",
+    "Griffith Observatory planetarium show",
+    "Hollywood Walk of Fame & TCL Chinese Theatre tour",
+    "Disneyland Park, Anaheim",
+    "The Broad museum (timed entry)",
+    "Warner Bros. Studio Tour Hollywood",
+    "La Brea Tar Pits and Museum",
+    "Venice Beach Boardwalk",
+    "Santa Monica Pier",
+    "Griffith Observatory grounds",
+    "Hollywood Sign viewpoints",
+    "The Grove & Original Farmers Market exterior",
+    "Rodeo Drive",
+    "Melrose Avenue",
+    "In-N-Out Burger",
+    "Nobu Malibu",
+    "Grand Central Market vendors"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Los Angeles, United States — Hollywood Sign Griffith Observatory",
+      "keywords": [
+        "Los Angeles",
+        "United States",
+        "Hollywood Sign Griffith Observatory",
+        "City Break",
+        "Beach"
+      ],
+      "unsplashQuery": "Los Angeles Hollywood Sign Griffith Observatory",
+      "pexelsQuery": "Los Angeles Hollywood Sign Griffith Observatory",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Los Angeles, United States — Hollywood Sign Griffith Observatory",
+      "keywords": [
+        "Los Angeles",
+        "United States",
+        "Hollywood Sign Griffith Observatory",
+        "City Break",
+        "Beach"
+      ],
+      "unsplashQuery": "Los Angeles Hollywood Sign Griffith Observatory",
+      "pexelsQuery": "Los Angeles Hollywood Sign Griffith Observatory",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Los Angeles, United States — Santa Monica Pier sunset",
+      "keywords": [
+        "Los Angeles",
+        "United States",
+        "Santa Monica Pier sunset",
+        "City Break",
+        "Beach"
+      ],
+      "unsplashQuery": "Los Angeles Santa Monica Pier sunset",
+      "pexelsQuery": "Los Angeles Santa Monica Pier sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Los Angeles, United States — Venice Beach boardwalk",
+      "keywords": [
+        "Los Angeles",
+        "United States",
+        "Venice Beach boardwalk",
+        "City Break",
+        "Beach"
+      ],
+      "unsplashQuery": "Los Angeles Venice Beach boardwalk",
+      "pexelsQuery": "Los Angeles Venice Beach boardwalk",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Los Angeles, United States — Hollywood Sign Griffith Observatory",
+      "keywords": [
+        "Los Angeles",
+        "United States",
+        "Hollywood Sign Griffith Observatory",
+        "City Break",
+        "Beach"
+      ],
+      "unsplashQuery": "Los Angeles Hollywood Sign Griffith Observatory",
+      "pexelsQuery": "Los Angeles Hollywood Sign Griffith Observatory",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Los Angeles, United States — Santa Monica Pier sunset",
+      "keywords": [
+        "Los Angeles",
+        "United States",
+        "Santa Monica Pier sunset",
+        "City Break",
+        "Beach"
+      ],
+      "unsplashQuery": "Los Angeles Santa Monica Pier sunset",
+      "pexelsQuery": "Los Angeles Santa Monica Pier sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Los Angeles, United States — Venice Beach boardwalk",
+      "keywords": [
+        "Los Angeles",
+        "United States",
+        "Venice Beach boardwalk",
+        "City Break",
+        "Beach"
+      ],
+      "unsplashQuery": "Los Angeles Venice Beach boardwalk",
+      "pexelsQuery": "Los Angeles Venice Beach boardwalk",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Los Angeles, United States — Rodeo Drive Beverly Hills",
+      "keywords": [
+        "Los Angeles",
+        "United States",
+        "Rodeo Drive Beverly Hills",
+        "City Break",
+        "Beach"
+      ],
+      "unsplashQuery": "Los Angeles Rodeo Drive Beverly Hills",
+      "pexelsQuery": "Los Angeles Rodeo Drive Beverly Hills",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Los Angeles, United States — Universal Studios Hollywood",
+      "keywords": [
+        "Los Angeles",
+        "United States",
+        "Universal Studios Hollywood",
+        "City Break",
+        "Beach"
+      ],
+      "unsplashQuery": "Los Angeles Universal Studios Hollywood",
+      "pexelsQuery": "Los Angeles Universal Studios Hollywood",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Los Angeles, United States — Getty Center",
+      "keywords": [
+        "Los Angeles",
+        "United States",
+        "Getty Center",
+        "City Break",
+        "Beach"
+      ],
+      "unsplashQuery": "Los Angeles Getty Center",
+      "pexelsQuery": "Los Angeles Getty Center",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Los Angeles, United States — Griffith Observatory planetarium show",
+      "keywords": [
+        "Los Angeles",
+        "United States",
+        "Griffith Observatory planetarium show",
+        "City Break",
+        "Beach"
+      ],
+      "unsplashQuery": "Los Angeles Griffith Observatory planetarium show",
+      "pexelsQuery": "Los Angeles Griffith Observatory planetarium show",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Los Angeles, United States — Hollywood Walk of Fame & TCL Chinese Theatre tour",
+      "keywords": [
+        "Los Angeles",
+        "United States",
+        "Hollywood Walk of Fame & TCL Chinese Theatre tour",
+        "City Break",
+        "Beach"
+      ],
+      "unsplashQuery": "Los Angeles Hollywood Walk of Fame & TCL Chinese Theatre tour",
+      "pexelsQuery": "Los Angeles Hollywood Walk of Fame & TCL Chinese Theatre tour",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-los-angeles-14-1",
+      "author": "Fatima Fernandez",
+      "country": "Canada",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-13",
+      "title": "Smooth from start to finish",
+      "body": "Getty Center alone was worth the trip, but combined with Rodeo Drive this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-2",
+      "author": "Liam Müller",
+      "country": "Canada",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-21",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Los Angeles was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Getty Center was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-3",
+      "author": "Anna Williams",
+      "country": "United States",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-06-09",
+      "title": "Consultant made it effortless",
+      "body": "Los Angeles is stunning and this package covered the essentials well, especially Universal Studios Hollywood. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-los-angeles-14-4",
+      "author": "Isabella Rossi",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-01-13",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Venice Beach Boardwalk and The Broad museum (timed entry). Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-los-angeles-14-5",
+      "author": "Grace Tanaka",
+      "country": "Germany",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-29",
+      "title": "A little rushed but still wonderful",
+      "body": "We added a couple of optional activities beyond Hollywood Walk of Fame & TCL Chinese Theatre tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-los-angeles-14-6",
+      "author": "Omar Smith",
+      "country": "Mexico",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-09-01",
+      "title": "Consultant made it effortless",
+      "body": "We added a couple of optional activities beyond Rodeo Drive and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-7",
+      "author": "Elena Rossi",
+      "country": "Switzerland",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-02-24",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Hollywood Sign viewpoints and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-8",
+      "author": "Fatima Fernandez",
+      "country": "Brazil",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-09",
+      "title": "Exceeded our expectations",
+      "body": "Venice Beach Boardwalk alone was worth the trip, but combined with Griffith Observatory planetarium show this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-9",
+      "author": "Lucas Andersen",
+      "country": "UAE",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-27",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to The Broad museum (timed entry) and The Broad museum (timed entry). Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-10",
+      "author": "James Brown",
+      "country": "Canada",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-09-09",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Los Angeles was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Getty Center was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-los-angeles-14-11",
+      "author": "Olivia Ibrahim",
+      "country": "Switzerland",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-05-22",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Los Angeles was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Hollywood Sign viewpoints was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-12",
+      "author": "Liam Johnson",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-05-26",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Los Angeles was fantastic from start to finish. The hotel was clean and well located, and the guided visit to The Broad museum (timed entry) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-13",
+      "author": "Isabella Larsen",
+      "country": "UAE",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-01-21",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to The Broad museum (timed entry) and Rodeo Drive. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-14",
+      "author": "Mohammed Larsen",
+      "country": "Singapore",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-06-27",
+      "title": "Smooth from start to finish",
+      "body": "Warner Bros. Studio Tour Hollywood alone was worth the trip, but combined with Getty Center this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-los-angeles-14-15",
+      "author": "Isabella Costa",
+      "country": "South Africa",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-02-11",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Santa Monica Pier and Rodeo Drive. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-los-angeles-14-16",
+      "author": "James Nguyen",
+      "country": "Spain",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-03-24",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Los Angeles was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Melrose Avenue was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-17",
+      "author": "Priya Wang",
+      "country": "Germany",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-04-04",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a solo trip and it was well paced. Hollywood Walk of Fame & TCL Chinese Theatre tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-18",
+      "author": "Sofia Cohen",
+      "country": "Japan",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-05",
+      "title": "Great value for money",
+      "body": "Booked this as a couple trip and it was well paced. La Brea Tar Pits and Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-19",
+      "author": "Lucas Ibrahim",
+      "country": "Netherlands",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-05",
+      "title": "Great for families with kids",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Griffith Observatory grounds and Griffith Observatory grounds. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-los-angeles-14-20",
+      "author": "Priya Dubois",
+      "country": "Italy",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-05",
+      "title": "Smooth from start to finish",
+      "body": "Booked this as a group trip and it was well paced. Rodeo Drive in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.1,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.2,
+    "value": 4.2,
+    "cleanliness": 4.2,
+    "safety": 4.1,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Los Angeles Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 21,
+      "neighborhood": "Rodeo Drive, Beverly Hills"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Los Angeles Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 38,
+      "neighborhood": "The Grove"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Los Angeles Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 70,
+      "neighborhood": "Melrose Avenue"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Los Angeles Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 90,
+      "neighborhood": "Santa Monica Third Street Promenade"
+    },
+    {
+      "tier": "Resort",
+      "name": "Los Angeles Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 180,
+      "neighborhood": "Grand Central Market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Los Angeles Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 336,
+      "neighborhood": "The Sunset Strip (West Hollywood)"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Los Angeles Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 400,
+      "neighborhood": "Delilah nightclub"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        361,
+        574
+      ],
+      "estimatedFlightHours": 6.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        329,
+        522
+      ],
+      "estimatedFlightHours": 5.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        709,
+        1126
+      ],
+      "estimatedFlightHours": 12.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        733,
+        1164
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        749,
+        1189
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        813,
+        1291
+      ],
+      "estimatedFlightHours": 14.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        753,
+        1196
+      ],
+      "estimatedFlightHours": 13.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        723,
+        1148
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        764,
+        1214
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        949,
+        1507
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        835,
+        1326
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1006,
+        1597
+      ],
+      "estimatedFlightHours": 18.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        714,
+        1134
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        769,
+        1222
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1097,
+        1742
+      ],
+      "estimatedFlightHours": 19.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1038,
+        1648
+      ],
+      "estimatedFlightHours": 18.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1098,
+        1744
+      ],
+      "estimatedFlightHours": 19.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1120,
+        1779
+      ],
+      "estimatedFlightHours": 20.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        925,
+        1469
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1026,
+        1629
+      ],
+      "estimatedFlightHours": 18.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1044,
+        1658
+      ],
+      "estimatedFlightHours": 18.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1037,
+        1647
+      ],
+      "estimatedFlightHours": 18.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1040,
+        1651
+      ],
+      "estimatedFlightHours": 18.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1002,
+        1592
+      ],
+      "estimatedFlightHours": 18.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1281,
+        2034
+      ],
+      "estimatedFlightHours": 23.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        792,
+        1258
+      ],
+      "estimatedFlightHours": 14.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Los Angeles International Airport (LAX)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        257,
+        408
+      ],
+      "estimatedFlightHours": 4.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Universal Studios Hollywood",
+    "Getty Center",
+    "Griffith Observatory planetarium show",
+    "Hollywood Walk of Fame & TCL Chinese Theatre tour",
+    "Disneyland Park, Anaheim",
+    "The Broad museum (timed entry)",
+    "Warner Bros. Studio Tour Hollywood",
+    "La Brea Tar Pits and Museum",
+    "Venice Beach Boardwalk",
+    "Santa Monica Pier",
+    "Griffith Observatory grounds",
+    "Hollywood Sign viewpoints",
+    "The Grove & Original Farmers Market exterior",
+    "Rodeo Drive",
+    "Melrose Avenue",
+    "Disneyland, Anaheim",
+    "Malibu",
+    "Catalina Island",
+    "Santa Barbara",
+    "The Broad",
+    "Los Angeles County Museum of Art (LACMA)",
+    "California Science Center",
+    "Griffith Park",
+    "Runyon Canyon Park",
+    "Exposition Park",
+    "Venice Beach",
+    "Santa Monica State Beach",
+    "Malibu's Zuma Beach",
+    "Griffith Observatory with the Hollywood Sign",
+    "Santa Monica Pier at sunset",
+    "Venice Beach canals",
+    "The Broad museum \"Infinity Mirror Room\"",
+    "Urban Light installation at LACMA"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Universal Studios Hollywood",
+      "priceUSD": 130
+    },
+    {
+      "name": "Getty Center",
+      "priceUSD": 25
+    },
+    {
+      "name": "Griffith Observatory planetarium show",
+      "priceUSD": 10
+    },
+    {
+      "name": "Hollywood Walk of Fame & TCL Chinese Theatre tour",
+      "priceUSD": 15
+    },
+    {
+      "name": "Disneyland Park, Anaheim",
+      "priceUSD": 165
+    },
+    {
+      "name": "The Broad museum (timed entry)",
+      "priceUSD": 0
+    },
+    {
+      "name": "Warner Bros. Studio Tour Hollywood",
+      "priceUSD": 75
+    },
+    {
+      "name": "La Brea Tar Pits and Museum",
+      "priceUSD": 18
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Venice Beach Boardwalk",
+    "Santa Monica Pier",
+    "Griffith Observatory grounds",
+    "Hollywood Sign viewpoints",
+    "The Grove & Original Farmers Market exterior",
+    "Rodeo Drive",
+    "Melrose Avenue"
+  ],
+  "museums": [
+    "The Broad",
+    "Los Angeles County Museum of Art (LACMA)",
+    "La Brea Tar Pits and Museum",
+    "California Science Center"
+  ],
+  "parks": [
+    "Griffith Park",
+    "Runyon Canyon Park",
+    "Exposition Park"
+  ],
+  "beaches": [
+    "Venice Beach",
+    "Santa Monica State Beach",
+    "Malibu's Zuma Beach"
+  ],
+  "dayTrips": [
+    "Disneyland, Anaheim",
+    "Malibu",
+    "Catalina Island",
+    "Santa Barbara"
+  ],
+  "fromPriceUSD": 2556,
+  "seo": {
+    "title": "Los Angeles 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "los-angeles-14-day-package",
+    "keywords": [
+      "Los Angeles",
+      "United States",
+      "Los Angeles, United States",
+      "California",
+      "Los Angeles tour package",
+      "Los Angeles vacation package",
+      "Los Angeles holiday package",
+      "things to do in Los Angeles",
+      "best time to visit Los Angeles",
+      "Los Angeles itinerary",
+      "14 day Los Angeles itinerary",
+      "Los Angeles flights and hotels",
+      "Los Angeles all inclusive package",
+      "cheap Los Angeles package",
+      "luxury Los Angeles package"
+    ],
+    "canonicalUrl": "/packages/los-angeles-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Los Angeles Package",
+        "url": "/packages/los-angeles-10-day-package"
+      },
+      {
+        "title": "7-Day Los Angeles Package",
+        "url": "/packages/los-angeles-7-day-package"
+      },
+      {
+        "title": "Dubai 14-Day Luxury Escape",
+        "url": "/packages/dubai-14-day-package"
+      },
+      {
+        "title": "Singapore 14-Day City Break",
+        "url": "/packages/singapore-14-day-package"
+      },
+      {
+        "title": "London 14-Day City Break",
+        "url": "/packages/london-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Los Angeles — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Los_Angeles"
+      },
+      {
+        "title": "Los Angeles — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Los_Angeles"
+      }
+    ]
+  }
+}

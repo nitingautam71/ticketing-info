@@ -1,0 +1,1607 @@
+{
+  "id": "PKG-shimla-7D",
+  "slug": "shimla-7-day-package",
+  "destinationSlug": "shimla",
+  "destinationName": "Shimla",
+  "country": "India",
+  "region": "Himachal Pradesh",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Shimla 7-Day Nature Retreat",
+  "metaTitle": "Shimla 7-Day Nature Retreat | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Shimla, India: round-trip flights, hotel, breakfast, transfers, and guided tours including Kalka-Shimla Toy Train and Viceregal Lodge (Indian Institute of Advanced Study). Prices from $1392 per person (estimate).",
+  "highlights": [
+    "Kalka-Shimla Toy Train",
+    "Viceregal Lodge (Indian Institute of Advanced Study)",
+    "The Ridge",
+    "Kufri"
+  ],
+  "overview": "Spend 7 days discovering Shimla, India — Temperate Himalayan foothill climate: mild summers (highs 22-25°C, a welcome escape from the plains below), a wet monsoon July-August that can trigger landslides on access roads, and cold winters (highs 8-10°C, with occasional December-January snowfall). March to June for pleasant, mild weather (highs 20-25°C) before monsoon, and December-February for a chance of snow; avoid July-August landslide-prone monsoon rains on the mountain roads. This itinerary blends Kalka-Shimla Toy Train, Viceregal Lodge (Indian Institute of Advanced Study), The Ridge with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Kalka-Shimla Toy Train, Viceregal Lodge (Indian Institute of Advanced Study), The Ridge",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Shimla",
+      "description": "Land at Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Kalka-Shimla Toy Train — UNESCO World Heritage narrow-gauge railway winding through 100+ tunnels. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Kalka-Shimla Toy Train"
+      ],
+      "overnight": "Shimla"
+    },
+    {
+      "day": 2,
+      "title": "Shimla: Viceregal Lodge (Indian Institute of Advanced Study) & Shimla State Museum",
+      "description": "Morning visit to Viceregal Lodge (Indian Institute of Advanced Study) — Grand colonial-era residence of former British viceroys. In the afternoon, continue to Shimla State Museum — Himachali art, coins, sculpture and colonial-era artifacts. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Viceregal Lodge (Indian Institute of Advanced Study)",
+        "Shimla State Museum"
+      ],
+      "overnight": "Shimla"
+    },
+    {
+      "day": 3,
+      "title": "Shimla: Himalayan Bird Park & Mashobra adventure zip-line park",
+      "description": "Morning visit to Himalayan Bird Park — Small aviary near Jakhu Hill with regional bird species. In the afternoon, continue to Mashobra adventure zip-line park — Zip-lining and adventure activities near Mashobra, day trip from Shimla. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Himalayan Bird Park",
+        "Mashobra adventure zip-line park"
+      ],
+      "overnight": "Shimla"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Kufri",
+      "description": "Full-day excursion to Kufri, a popular side trip from Shimla. Return to Shimla in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Kufri",
+        "Free evening"
+      ],
+      "overnight": "Shimla"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Annandale Ground forest walk — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Annandale Ground forest walk"
+      ],
+      "overnight": "Shimla"
+    },
+    {
+      "day": 6,
+      "title": "Shimla: Kufri Fun World amusement park & The Ridge",
+      "description": "Morning visit to Kufri Fun World amusement park — Rides and go-karting near Kufri, day trip from Shimla. In the afternoon, continue to The Ridge — Open pedestrian plaza with panoramic mountain views. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Kufri Fun World amusement park",
+        "The Ridge"
+      ],
+      "overnight": "Shimla"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Mall Road or some souvenir shopping — before your private transfer to SLV for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book the Kalka-Shimla Toy Train's \"Vistadome\" or window seats in advance for the best views.",
+    "Reach central Shimla by lift from the Cart Road parking level rather than climbing the steep stairs with luggage.",
+    "Visit Jakhu Temple early morning to avoid both crowds and the more assertive resident monkeys.",
+    "December-January offers a real chance of snowfall in town — pack accordingly if that's the draw.",
+    "Landslides can close the Kalka-Shimla highway during heavy monsoon rain — check road conditions if driving in July-August.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Warm layers year-round — evenings are cool even in summer",
+    "A heavy jacket, gloves and waterproof shoes for winter snow",
+    "Comfortable shoes for steep pedestrian streets and stairways",
+    "Rain gear for the July-August monsoon"
+  ],
+  "thingsToDo": [
+    "Kalka-Shimla Toy Train",
+    "Viceregal Lodge (Indian Institute of Advanced Study)",
+    "Shimla State Museum",
+    "Himalayan Bird Park",
+    "Mashobra adventure zip-line park",
+    "Kufri Fun World amusement park",
+    "The Ridge",
+    "Mall Road",
+    "Christ Church",
+    "Jakhu Temple",
+    "Scandal Point",
+    "Annandale Ground",
+    "Trekking to Chadwick Falls",
+    "Zip-lining near Mashobra",
+    "Skiing day trips to Kufri/Narkanda (winter)",
+    "Paragliding near Kufri",
+    "Kufri Fun World amusement rides",
+    "Kalka-Shimla Toy Train ride",
+    "Ice skating at the Shimla Ice Skating Rink (winter)"
+  ],
+  "thingsToAvoid": [
+    "Carrying food or plastic bags visibly near Jakhu Temple — monkeys are known to snatch them.",
+    "Driving the mountain highway at night or during monsoon landslide warnings.",
+    "Overpriced \"shawl factory\" tour stops arranged by commission-earning taxi drivers.",
+    "Wearing open sandals on the steep, sometimes icy stairways of central Shimla in winter.",
+    "Assuming toy train tickets are available same-day in peak season — they sell out days ahead."
+  ],
+  "topRestaurants": [
+    "Cafe Simla Times — Cafe & Continental ($$)",
+    "Wake & Bake Cafe, Shimla — Cafe & Bakery ($$)",
+    "Baljees Restaurant — North Indian & Continental ($$)",
+    "Ashiana & Goofa (Ridge) — North Indian ($$)",
+    "Honey Hut — Cafe & Desserts ($)",
+    "Himachali Rasoi — Himachali Regional ($)",
+    "Sita Ram & Sons — Local Sweets & Snacks ($)"
+  ],
+  "topCafes": [
+    "Cafe Simla Times",
+    "Wake & Bake Cafe, Shimla",
+    "Indian Coffee House, Shimla",
+    "Honey Hut",
+    "Sunset Cafe, Mall Road"
+  ],
+  "shoppingAreas": [
+    "Mall Road",
+    "Lakkar Bazaar (wooden crafts)",
+    "Tibetan Market, Ridge",
+    "Lower Bazaar"
+  ],
+  "nightlife": [
+    "Mall Road evening promenade and live music cafes",
+    "Ridge evening gatherings with mountain views",
+    "Winter Carnival ice-skating evenings (Dec-Jan)"
+  ],
+  "instagramSpots": [
+    "The Ridge with Christ Church backdrop",
+    "Kalka-Shimla Toy Train through pine forests",
+    "Jakhu Temple statue and viewpoint",
+    "Mall Road colonial architecture",
+    "Scandal Point at sunset"
+  ],
+  "hiddenGems": [
+    "Annandale Ground forest walk",
+    "Chadwick Falls",
+    "Summer Hill quiet forest trails",
+    "Sankat Mochan Temple viewpoint"
+  ],
+  "familyActivities": [
+    "Kufri Fun World amusement rides",
+    "Himalayan Bird Park",
+    "Kalka-Shimla Toy Train ride",
+    "Ice skating at the Shimla Ice Skating Rink (winter)"
+  ],
+  "adventureActivities": [
+    "Trekking to Chadwick Falls",
+    "Zip-lining near Mashobra",
+    "Skiing day trips to Kufri/Narkanda (winter)",
+    "Paragliding near Kufri"
+  ],
+  "luxuryExperiences": [
+    "Suite stay at Wildflower Hall, a former Viceroy retreat",
+    "Private heritage walk of colonial-era Shimla",
+    "Fine dining at a heritage hotel restaurant",
+    "Private toy-train charter carriage experience"
+  ],
+  "honeymoonExperiences": [
+    "Sunset walk along the Ridge",
+    "Cozy stay in a colonial-era heritage hotel",
+    "Toy train ride together through pine forests",
+    "Snowfall walk in Kufri (winter)"
+  ],
+  "budgetExperiences": [
+    "Free promenade along Mall Road and the Ridge",
+    "Budget guesthouse with valley views",
+    "Local bus day trip to Kufri",
+    "Street snacks (momos, maggi points) around Lower Bazaar"
+  ],
+  "estimatedDailyBudgetUSD": [
+    18,
+    55,
+    130,
+    320
+  ],
+  "safetyRating": 4,
+  "internetRating": 3,
+  "publicTransportRating": 3,
+  "walkingScore": 50,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 10,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 12,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 17,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jun",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 21,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 18,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Nov",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 10,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Shimla Summer Festival",
+      "timing": "May-June"
+    },
+    {
+      "name": "International Himalayan Festival",
+      "timing": "Late December/early January"
+    },
+    {
+      "name": "Winter Carnival",
+      "timing": "December-January, ice skating and cultural events"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101"
+  },
+  "localEtiquette": [
+    "Dress warmly and modestly — Shimla is a conservative hill town compared to Indian metros.",
+    "Mall Road and the Ridge are pedestrian-only and vehicle-free — respect posted no-vehicle zones.",
+    "Remove shoes before entering temples such as Jakhu Temple.",
+    "Be cautious and respectful around the resident macaques at Jakhu Temple — do not carry visible food or plastic bags.",
+    "Smoking and littering on Mall Road are officially prohibited and can draw fines."
+  ],
+  "localTransportGuide": "Central Shimla (Mall Road, the Ridge) is entirely pedestrian, connected to lower parking areas by lifts and stairways; local taxis and shared cabs handle trips to Kufri, Mashobra and the airport/rail station in lower Shimla. The Kalka-Shimla Toy Train is a scenic (if slow) way to arrive from the plains.",
+  "bestTimeToVisit": "March to June for pleasant, mild weather (highs 20-25°C) before monsoon, and December-February for a chance of snow; avoid July-August landslide-prone monsoon rains on the mountain roads.",
+  "weather": "Temperate Himalayan foothill climate: mild summers (highs 22-25°C, a welcome escape from the plains below), a wet monsoon July-August that can trigger landslides on access roads, and cold winters (highs 8-10°C, with occasional December-January snowfall).",
+  "visaInformation": "Most foreign nationals require an Indian e-Visa applied for online before travel. Indian citizens need no visa, and OCI/PIO cardholders travel visa-free with a linked foreign passport, a popular hill-station combination for NRI family summer trips.",
+  "currency": "INR",
+  "languages": [
+    "Hindi",
+    "Pahari"
+  ],
+  "timeZone": "IST (UTC+5:30)",
+  "averageFlightTime": "~9.4h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Shimla?",
+      "answer": "Most foreign nationals require an Indian e-Visa applied for online before travel. Indian citizens need no visa, and OCI/PIO cardholders travel visa-free with a linked foreign passport, a popular hill-station combination for NRI family summer trips."
+    },
+    {
+      "question": "What is the best time to visit Shimla?",
+      "answer": "March to June for pleasant, mild weather (highs 20-25°C) before monsoon, and December-February for a chance of snow; avoid July-August landslide-prone monsoon rains on the mountain roads. Temperate Himalayan foothill climate: mild summers (highs 22-25°C, a welcome escape from the plains below), a wet monsoon July-August that can trigger landslides on access roads, and cold winters (highs 8-10°C, with occasional December-January snowfall)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Shimla safe for tourists?",
+      "answer": "Shimla is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Shimla?",
+      "answer": "The local currency is INR. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include Kufri Fun World amusement rides."
+    }
+  ],
+  "categories": [
+    "Nature",
+    "Family",
+    "Weekend Getaway",
+    "Culture",
+    "Winter"
+  ],
+  "aiTags": [
+    "Shimla",
+    "India",
+    "Shimla, India",
+    "Himachal Pradesh",
+    "Shimla tour package",
+    "Shimla vacation package",
+    "Shimla holiday package",
+    "things to do in Shimla",
+    "best time to visit Shimla",
+    "Shimla itinerary",
+    "7 day Shimla itinerary",
+    "Shimla flights and hotels",
+    "Shimla all inclusive package",
+    "cheap Shimla package",
+    "luxury Shimla package",
+    "Shimla honeymoon package",
+    "Shimla family vacation",
+    "Shimla solo trip",
+    "Shimla group tour",
+    "Shimla weekend getaway",
+    "Shimla guided tour",
+    "SLV flights",
+    "Shimla travel guide",
+    "book Shimla trip online",
+    "Shimla trip cost",
+    "Shimla packages 7 days",
+    "Shimla nature",
+    "Shimla family",
+    "Shimla culture",
+    "Shimla winter",
+    "Kalka-Shimla Toy Train",
+    "Viceregal Lodge (Indian Institute of Advanced Study)",
+    "Shimla State Museum",
+    "Himalayan Bird Park",
+    "Mashobra adventure zip-line park",
+    "Kufri Fun World amusement park",
+    "The Ridge",
+    "Mall Road",
+    "Christ Church",
+    "Jakhu Temple",
+    "Scandal Point",
+    "Annandale Ground",
+    "Cafe Simla Times",
+    "Wake & Bake Cafe, Shimla",
+    "Baljees Restaurant",
+    "Ashiana & Goofa (Ridge)",
+    "Honey Hut",
+    "The Ridge with Christ Church backdrop",
+    "Kalka-Shimla Toy Train through pine forests",
+    "Jakhu Temple statue and viewpoint"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Shimla, India — Kalka-Shimla toy train",
+      "keywords": [
+        "Shimla",
+        "India",
+        "Kalka-Shimla toy train",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Shimla Kalka-Shimla toy train",
+      "pexelsQuery": "Shimla Kalka-Shimla toy train",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Shimla, India — Kalka-Shimla toy train",
+      "keywords": [
+        "Shimla",
+        "India",
+        "Kalka-Shimla toy train",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Shimla Kalka-Shimla toy train",
+      "pexelsQuery": "Shimla Kalka-Shimla toy train",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Shimla, India — The Ridge Shimla",
+      "keywords": [
+        "Shimla",
+        "India",
+        "The Ridge Shimla",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Shimla The Ridge Shimla",
+      "pexelsQuery": "Shimla The Ridge Shimla",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Shimla, India — Christ Church colonial facade",
+      "keywords": [
+        "Shimla",
+        "India",
+        "Christ Church colonial facade",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Shimla Christ Church colonial facade",
+      "pexelsQuery": "Shimla Christ Church colonial facade",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Shimla, India — Kalka-Shimla toy train",
+      "keywords": [
+        "Shimla",
+        "India",
+        "Kalka-Shimla toy train",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Shimla Kalka-Shimla toy train",
+      "pexelsQuery": "Shimla Kalka-Shimla toy train",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Shimla, India — The Ridge Shimla",
+      "keywords": [
+        "Shimla",
+        "India",
+        "The Ridge Shimla",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Shimla The Ridge Shimla",
+      "pexelsQuery": "Shimla The Ridge Shimla",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Shimla, India — Christ Church colonial facade",
+      "keywords": [
+        "Shimla",
+        "India",
+        "Christ Church colonial facade",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Shimla Christ Church colonial facade",
+      "pexelsQuery": "Shimla Christ Church colonial facade",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Shimla, India — Jakhu Temple statue",
+      "keywords": [
+        "Shimla",
+        "India",
+        "Jakhu Temple statue",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Shimla Jakhu Temple statue",
+      "pexelsQuery": "Shimla Jakhu Temple statue",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Shimla, India — Viceregal Lodge (Indian Institute of Advanced Study)",
+      "keywords": [
+        "Shimla",
+        "India",
+        "Viceregal Lodge (Indian Institute of Advanced Study)",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Shimla Viceregal Lodge (Indian Institute of Advanced Study)",
+      "pexelsQuery": "Shimla Viceregal Lodge (Indian Institute of Advanced Study)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Shimla, India — Shimla State Museum",
+      "keywords": [
+        "Shimla",
+        "India",
+        "Shimla State Museum",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Shimla Shimla State Museum",
+      "pexelsQuery": "Shimla Shimla State Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Shimla, India — Himalayan Bird Park",
+      "keywords": [
+        "Shimla",
+        "India",
+        "Himalayan Bird Park",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Shimla Himalayan Bird Park",
+      "pexelsQuery": "Shimla Himalayan Bird Park",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Shimla, India — The Ridge with Christ Church backdrop",
+      "keywords": [
+        "Shimla",
+        "India",
+        "The Ridge with Christ Church backdrop",
+        "Nature",
+        "Family"
+      ],
+      "unsplashQuery": "Shimla The Ridge with Christ Church backdrop",
+      "pexelsQuery": "Shimla The Ridge with Christ Church backdrop",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-shimla-7-1",
+      "author": "Nadia Müller",
+      "country": "South Africa",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-08-18",
+      "title": "Consultant made it effortless",
+      "body": "Shimla is stunning and this package covered the essentials well, especially Mall Road. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-2",
+      "author": "James Costa",
+      "country": "United States",
+      "rating": 3.6,
+      "foodRating": 3,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3,
+      "date": "2025-08-26",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Shimla was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kalka-Shimla Toy Train was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-3",
+      "author": "Anna Smith",
+      "country": "Australia",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-06-30",
+      "title": "So many hidden gems included",
+      "body": "Shimla is stunning and this package covered the essentials well, especially Shimla State Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-4",
+      "author": "Isabella Müller",
+      "country": "South Korea",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-07",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Kufri Fun World amusement park and Jakhu Temple. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-5",
+      "author": "Wei Khan",
+      "country": "New Zealand",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-05",
+      "title": "Five stars, will return",
+      "body": "Booked this as a solo trip and it was well paced. Mall Road in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-shimla-7-6",
+      "author": "Hiroshi Patel",
+      "country": "South Korea",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-23",
+      "title": "Would book again in a heartbeat",
+      "body": "Kufri Fun World amusement park alone was worth the trip, but combined with Himalayan Bird Park this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-7",
+      "author": "Sofia Santos",
+      "country": "Saudi Arabia",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-13",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a family of 4 trip and it was well paced. Jakhu Temple in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-8",
+      "author": "Emma van Dijk",
+      "country": "South Korea",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-04",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to Shimla was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kufri Fun World amusement park was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-9",
+      "author": "Olivia Patel",
+      "country": "Brazil",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-05-04",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Shimla was fantastic from start to finish. The hotel was clean and well located, and the guided visit to The Ridge was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-10",
+      "author": "Chen Novak",
+      "country": "Switzerland",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-23",
+      "title": "Loved every moment",
+      "body": "Booked this as a couple trip and it was well paced. Jakhu Temple in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-11",
+      "author": "Olivia Johnson",
+      "country": "South Africa",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-14",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Shimla was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Mall Road was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-12",
+      "author": "Arjun Santos",
+      "country": "Italy",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-05-26",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a group trip and it was well paced. Annandale Ground in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-13",
+      "author": "Yuki Costa",
+      "country": "Saudi Arabia",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-21",
+      "title": "Would book again in a heartbeat",
+      "body": "Jakhu Temple alone was worth the trip, but combined with Jakhu Temple this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-14",
+      "author": "Emma Kowalski",
+      "country": "France",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-21",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Shimla was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Himalayan Bird Park was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-shimla-7-15",
+      "author": "Arjun Khan",
+      "country": "Spain",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-11-19",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a family of 4 trip and it was well paced. Annandale Ground in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-16",
+      "author": "Ava Fernandez",
+      "country": "France",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-08",
+      "title": "Beautiful destination, well organized",
+      "body": "Himalayan Bird Park alone was worth the trip, but combined with Mall Road this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-17",
+      "author": "Elena Khan",
+      "country": "France",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-05-30",
+      "title": "Worth every penny",
+      "body": "We added a couple of optional activities beyond Himalayan Bird Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-18",
+      "author": "Emma Andersen",
+      "country": "Germany",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-03-25",
+      "title": "Great for families with kids",
+      "body": "Our trip to Shimla was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Shimla State Museum was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-19",
+      "author": "Ava Santos",
+      "country": "Brazil",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-05-31",
+      "title": "Would book again in a heartbeat",
+      "body": "The Ridge alone was worth the trip, but combined with Shimla State Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-shimla-7-20",
+      "author": "Mia Müller",
+      "country": "Saudi Arabia",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-08-20",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Jakhu Temple and Shimla State Museum. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.1,
+    "food": 4.1,
+    "hotel": 4.1,
+    "transportation": 4.1,
+    "activities": 4.1,
+    "value": 3.9,
+    "cleanliness": 4.2,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Shimla Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 4,
+      "neighborhood": "Mall Road"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Shimla Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 7,
+      "neighborhood": "Lakkar Bazaar (wooden crafts)"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Shimla Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 19,
+      "neighborhood": "Tibetan Market, Ridge"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Shimla Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 25,
+      "neighborhood": "Lower Bazaar"
+    },
+    {
+      "tier": "Resort",
+      "name": "Shimla Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 65,
+      "neighborhood": "Mall Road evening promenade and live music cafes"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Shimla Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 134,
+      "neighborhood": "Ridge evening gatherings with mountain views"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Shimla Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 160,
+      "neighborhood": "Winter Carnival ice-skating evenings (Dec-Jan)"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        907,
+        1440
+      ],
+      "estimatedFlightHours": 16.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        898,
+        1426
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        547,
+        869
+      ],
+      "estimatedFlightHours": 9.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        539,
+        856
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        505,
+        802
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        493,
+        783
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        591,
+        938
+      ],
+      "estimatedFlightHours": 10.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        521,
+        828
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        508,
+        807
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        842,
+        1338
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        989,
+        1571
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        97,
+        154
+      ],
+      "estimatedFlightHours": 1.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        490,
+        779
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        407,
+        647
+      ],
+      "estimatedFlightHours": 6.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        389,
+        618
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        298,
+        474
+      ],
+      "estimatedFlightHours": 4.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        368,
+        585
+      ],
+      "estimatedFlightHours": 6.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        453,
+        720
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        424,
+        674
+      ],
+      "estimatedFlightHours": 7.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        349,
+        555
+      ],
+      "estimatedFlightHours": 5.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        238,
+        378
+      ],
+      "estimatedFlightHours": 3.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        298,
+        474
+      ],
+      "estimatedFlightHours": 4.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        264,
+        419
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        279,
+        443
+      ],
+      "estimatedFlightHours": 4.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        672,
+        1067
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1121,
+        1781
+      ],
+      "estimatedFlightHours": 20.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Shimla Airport (small; nearest major gateway: Chandigarh CHD) (SLV)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1115,
+        1771
+      ],
+      "estimatedFlightHours": 20.2,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Kalka-Shimla Toy Train",
+    "Viceregal Lodge (Indian Institute of Advanced Study)",
+    "Shimla State Museum",
+    "Himalayan Bird Park",
+    "Mashobra adventure zip-line park",
+    "Kufri Fun World amusement park",
+    "The Ridge",
+    "Mall Road",
+    "Christ Church",
+    "Jakhu Temple",
+    "Scandal Point",
+    "Annandale Ground",
+    "Kufri",
+    "Mashobra",
+    "Naldehra golf course",
+    "Chail (former royal retreat)",
+    "Viceregal Lodge museum rooms",
+    "Glen Forest",
+    "The Ridge with Christ Church backdrop",
+    "Kalka-Shimla Toy Train through pine forests",
+    "Jakhu Temple statue and viewpoint",
+    "Mall Road colonial architecture",
+    "Scandal Point at sunset"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Kalka-Shimla Toy Train",
+      "priceUSD": 8
+    },
+    {
+      "name": "Viceregal Lodge (Indian Institute of Advanced Study)",
+      "priceUSD": 3
+    },
+    {
+      "name": "Shimla State Museum",
+      "priceUSD": 1
+    },
+    {
+      "name": "Himalayan Bird Park",
+      "priceUSD": 1
+    },
+    {
+      "name": "Mashobra adventure zip-line park",
+      "priceUSD": 15
+    },
+    {
+      "name": "Kufri Fun World amusement park",
+      "priceUSD": 10
+    }
+  ],
+  "attractionsFreeTop20": [
+    "The Ridge",
+    "Mall Road",
+    "Christ Church",
+    "Jakhu Temple",
+    "Scandal Point",
+    "Annandale Ground"
+  ],
+  "museums": [
+    "Shimla State Museum",
+    "Viceregal Lodge museum rooms"
+  ],
+  "parks": [
+    "Annandale Ground",
+    "Glen Forest",
+    "Himalayan Bird Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Kufri",
+    "Mashobra",
+    "Naldehra golf course",
+    "Chail (former royal retreat)"
+  ],
+  "fromPriceUSD": 1392,
+  "seo": {
+    "title": "Shimla 7-Day Nature Retreat | Flights, Hotels & Tours Included",
+    "slug": "shimla-7-day-package",
+    "keywords": [
+      "Shimla",
+      "India",
+      "Shimla, India",
+      "Himachal Pradesh",
+      "Shimla tour package",
+      "Shimla vacation package",
+      "Shimla holiday package",
+      "things to do in Shimla",
+      "best time to visit Shimla",
+      "Shimla itinerary",
+      "7 day Shimla itinerary",
+      "Shimla flights and hotels",
+      "Shimla all inclusive package",
+      "cheap Shimla package",
+      "luxury Shimla package"
+    ],
+    "canonicalUrl": "/packages/shimla-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Shimla Package",
+        "url": "/packages/shimla-5-day-package"
+      },
+      {
+        "title": "10-Day Shimla Package",
+        "url": "/packages/shimla-10-day-package"
+      },
+      {
+        "title": "Darjeeling 7-Day Nature Retreat",
+        "url": "/packages/darjeeling-7-day-package"
+      },
+      {
+        "title": "Niagara Falls 7-Day Nature Retreat",
+        "url": "/packages/niagara-falls-7-day-package"
+      },
+      {
+        "title": "Rishikesh 7-Day Adventure Tour",
+        "url": "/packages/rishikesh-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Shimla — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shimla"
+      },
+      {
+        "title": "Shimla — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Shimla"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1612 @@
+{
+  "id": "PKG-pokhara-7D",
+  "slug": "pokhara-7-day-package",
+  "destinationSlug": "pokhara",
+  "destinationName": "Pokhara",
+  "country": "Nepal",
+  "region": "Gandaki Province",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Pokhara 7-Day Adventure Tour",
+  "metaTitle": "Pokhara 7-Day Adventure Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Pokhara, Nepal: round-trip flights, hotel, breakfast, transfers, and guided tours including Sarangkot sunrise viewpoint and World Peace Pagoda (Shanti Stupa). Prices from $1464 per person (estimate).",
+  "highlights": [
+    "Sarangkot sunrise viewpoint",
+    "World Peace Pagoda (Shanti Stupa)",
+    "Lakeside (Phewa Lake promenade)",
+    "Paragliding from Sarangkot over Phewa Lake",
+    "Sunrise together at Sarangkot",
+    "Sarangkot"
+  ],
+  "overview": "Spend 7 days discovering Pokhara, Nepal — Subtropical climate at a lower elevation (~820m) than Kathmandu, so noticeably warmer and more humid: hot, wet summers (highs 29-30°C with heavy monsoon rain June-September, as Pokhara is one of Nepal's wettest cities), and mild, drier winters (highs 20-22°C). October-November and March-April for the clearest views of the Annapurna range and mild highs of 24-28°C; the June-August monsoon frequently obscures mountain views with cloud. This itinerary blends Sarangkot sunrise viewpoint, World Peace Pagoda (Shanti Stupa), Lakeside (Phewa Lake promenade) with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Sarangkot sunrise viewpoint, World Peace Pagoda (Shanti Stupa), Lakeside (Phewa Lake promenade)",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Pokhara",
+      "description": "Land at Pokhara International Airport (PKR) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Sarangkot sunrise viewpoint — Hilltop viewpoint over the Annapurna and Machapuchare ranges. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Sarangkot sunrise viewpoint"
+      ],
+      "overnight": "Pokhara"
+    },
+    {
+      "day": 2,
+      "title": "Pokhara: World Peace Pagoda (Shanti Stupa) & Davis Falls (Patale Chhango)",
+      "description": "Morning visit to World Peace Pagoda (Shanti Stupa) — Hilltop Buddhist stupa reached by boat and hike or road. In the afternoon, continue to Davis Falls (Patale Chhango) — Dramatic waterfall that disappears into an underground tunnel. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "World Peace Pagoda (Shanti Stupa)",
+        "Davis Falls (Patale Chhango)"
+      ],
+      "overnight": "Pokhara"
+    },
+    {
+      "day": 3,
+      "title": "Pokhara: Gupteshwor Mahadev Cave & International Mountain Museum",
+      "description": "Morning visit to Gupteshwor Mahadev Cave — Limestone cave with a Shiva shrine, connected to Davis Falls. In the afternoon, continue to International Mountain Museum — Exhibits on Himalayan mountaineering history and culture. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Gupteshwor Mahadev Cave",
+        "International Mountain Museum"
+      ],
+      "overnight": "Pokhara"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Sarangkot",
+      "description": "Full-day excursion to Sarangkot, a popular side trip from Pokhara. Return to Pokhara in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Sarangkot",
+        "Free evening"
+      ],
+      "overnight": "Pokhara"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Begnas Lake, quieter than Phewa — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Begnas Lake, quieter than Phewa"
+      ],
+      "overnight": "Pokhara"
+    },
+    {
+      "day": 6,
+      "title": "Pokhara: Phewa Lake boating & Paragliding from Sarangkot",
+      "description": "Morning visit to Phewa Lake boating — Rowing or paddle boat across Pokhara's central lake. In the afternoon, continue to Paragliding from Sarangkot — Tandem paragliding over Phewa Lake with Annapurna views. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Phewa Lake boating",
+        "Paragliding from Sarangkot"
+      ],
+      "overnight": "Pokhara"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Lakeside (Phewa Lake promenade) or some souvenir shopping — before your private transfer to PKR for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Head to Sarangkot before dawn for the best chance of a clear, cloud-free Annapurna sunrise.",
+    "Book paragliding for the morning — winds tend to pick up and visibility can drop in the afternoon.",
+    "Pokhara is the standard starting point for the Annapurna Circuit and Poon Hill treks — arrange permits (TIMS card, ACAP) in town.",
+    "The 25-minute flight from Kathmandu saves a full day versus the winding mountain road.",
+    "Begnas Lake offers a quieter, less touristy alternative to Phewa Lake for a half-day escape.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Layered trekking-friendly clothing given the range of altitudes nearby",
+    "Rain gear for the heavy June-September monsoon",
+    "Comfortable trekking shoes even for short day hikes to Sarangkot",
+    "Sunglasses and sun protection for high-altitude viewpoints"
+  ],
+  "thingsToDo": [
+    "Sarangkot sunrise viewpoint",
+    "World Peace Pagoda (Shanti Stupa)",
+    "Davis Falls (Patale Chhango)",
+    "Gupteshwor Mahadev Cave",
+    "International Mountain Museum",
+    "Phewa Lake boating",
+    "Paragliding from Sarangkot",
+    "Lakeside (Phewa Lake promenade)",
+    "Bindhyabasini Temple",
+    "Old Pokhara Bazaar",
+    "Phewa Lake shoreline",
+    "Tal Barahi Temple exterior view",
+    "Paragliding from Sarangkot over Phewa Lake",
+    "Trekking toward Annapurna Base Camp or Poon Hill",
+    "Zip-lining, one of the world's longest and steepest",
+    "White-water rafting on the Seti or Trishuli rivers",
+    "Phewa Lake boat ride to Tal Barahi Temple",
+    "Davis Falls and Gupteshwor Cave visit",
+    "Pokhara Regional Museum"
+  ],
+  "thingsToAvoid": [
+    "Booking cut-rate trekking guides without proper licensing or insurance for high-altitude routes.",
+    "Paragliding with unlicensed operators — verify APPI/PPA certification.",
+    "Expecting mountain views during the monsoon (Jun-Sep) — cloud cover is the norm, not the exception.",
+    "Swimming in Phewa Lake far from designated areas — depths and currents vary.",
+    "Underestimating altitude effects if continuing straight onto a high trek without acclimatization."
+  ],
+  "topRestaurants": [
+    "Godfather's Restaurant — Nepali & Continental, lakeside ($$)",
+    "Boomerang Restaurant — Nepali & Continental, rooftop ($$)",
+    "Moondance Restaurant — International & Nepali ($$)",
+    "Thakali Kitchen, Pokhara — Thakali Nepali ($)",
+    "OR2K Pokhara — Vegetarian Middle Eastern ($)",
+    "Fewa Park Restaurant — Nepali, lakeside ($)"
+  ],
+  "topCafes": [
+    "Himalayan Java Coffee, Lakeside",
+    "Godfather's Restaurant terrace",
+    "Caffe Concerto",
+    "Once Upon A Time Cafe",
+    "Lemon Tree Cafe"
+  ],
+  "shoppingAreas": [
+    "Lakeside market street",
+    "Old Pokhara Bazaar",
+    "Trekking gear shops along Lakeside",
+    "Tibetan handicraft stalls"
+  ],
+  "nightlife": [
+    "Lakeside bar strip",
+    "Busy Bee Cafe live music",
+    "Sunset drinks at rooftop restaurants overlooking Phewa Lake",
+    "Cafe Concerto evening gatherings"
+  ],
+  "instagramSpots": [
+    "Phewa Lake with Annapurna reflection",
+    "Sarangkot sunrise over the Himalayas",
+    "World Peace Pagoda viewpoint",
+    "Tal Barahi Temple on the lake",
+    "Davis Falls"
+  ],
+  "hiddenGems": [
+    "Begnas Lake, quieter than Phewa",
+    "Kahun Danda viewpoint",
+    "Australian Base Camp short trek",
+    "Bat Cave (Chamere Gufa)"
+  ],
+  "familyActivities": [
+    "Phewa Lake boat ride to Tal Barahi Temple",
+    "International Mountain Museum",
+    "Davis Falls and Gupteshwor Cave visit",
+    "Pokhara Regional Museum"
+  ],
+  "adventureActivities": [
+    "Paragliding from Sarangkot over Phewa Lake",
+    "Trekking toward Annapurna Base Camp or Poon Hill",
+    "Zip-lining, one of the world's longest and steepest",
+    "White-water rafting on the Seti or Trishuli rivers"
+  ],
+  "luxuryExperiences": [
+    "Lakeside luxury resort stay with Annapurna views",
+    "Private helicopter mountain flight over the Annapurna range",
+    "Private sunrise tour to Sarangkot with breakfast",
+    "Fine dining at a boutique lakeside hotel"
+  ],
+  "honeymoonExperiences": [
+    "Sunrise together at Sarangkot",
+    "Private boat ride on Phewa Lake at sunset",
+    "Candlelight dinner lakeside at Boomerang Restaurant",
+    "Couple's tandem paragliding flight"
+  ],
+  "budgetExperiences": [
+    "Free lakeside promenade walk at Phewa Lake",
+    "Shared taxi/bus trip to Sarangkot for sunrise",
+    "Budget guesthouse along Lakeside",
+    "Rowboat rental split among a small group"
+  ],
+  "estimatedDailyBudgetUSD": [
+    20,
+    50,
+    120,
+    300
+  ],
+  "safetyRating": 4,
+  "internetRating": 3,
+  "publicTransportRating": 2,
+  "walkingScore": 40,
+  "accessibilityRating": 2,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 21,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 25,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 28,
+      "crowd": "Peak"
+    },
+    {
+      "month": "May",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 29,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 28,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 28,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 28,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Nov",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 19,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Pokhara Street Festival",
+      "timing": "December"
+    },
+    {
+      "name": "Tihar (Festival of Lights)",
+      "timing": "October-November"
+    },
+    {
+      "name": "International Mountain Film Festival",
+      "timing": "December"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101"
+  },
+  "localEtiquette": [
+    "Dress modestly and remove shoes at temples such as Bindhyabasini and the World Peace Pagoda.",
+    "Respect trekking-trail etiquette — yield the uphill side to pack animals (mules/dzos) and greet fellow trekkers with \"Namaste\".",
+    "Support locally-run teahouses and guesthouses on trekking routes rather than only large chains.",
+    "Ask permission before photographing porters or guides at work."
+  ],
+  "localTransportGuide": "Lakeside is compact and walkable, with taxis and rented scooters covering trips to Sarangkot or the airport; trekking trailheads (for Annapurna routes) are reached by local jeep or taxi from town. Tourist buses connect Pokhara to Kathmandu (roughly 6-7 hours by road, or a short 25-minute flight).",
+  "bestTimeToVisit": "October-November and March-April for the clearest views of the Annapurna range and mild highs of 24-28°C; the June-August monsoon frequently obscures mountain views with cloud.",
+  "weather": "Subtropical climate at a lower elevation (~820m) than Kathmandu, so noticeably warmer and more humid: hot, wet summers (highs 29-30°C with heavy monsoon rain June-September, as Pokhara is one of Nepal's wettest cities), and mild, drier winters (highs 20-22°C).",
+  "visaInformation": "Most foreign nationals can get a Nepal visa on arrival (paid in cash or card) at major entry points; Indian citizens need no visa at all to enter Nepal, only a valid photo ID, thanks to the open-border treaty between the two countries.",
+  "currency": "NPR",
+  "languages": [
+    "Nepali"
+  ],
+  "timeZone": "NPT (UTC+5:45)",
+  "averageFlightTime": "~9.6h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Pokhara International Airport (PKR)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Pokhara?",
+      "answer": "Most foreign nationals can get a Nepal visa on arrival (paid in cash or card) at major entry points; Indian citizens need no visa at all to enter Nepal, only a valid photo ID, thanks to the open-border treaty between the two countries."
+    },
+    {
+      "question": "What is the best time to visit Pokhara?",
+      "answer": "October-November and March-April for the clearest views of the Annapurna range and mild highs of 24-28°C; the June-August monsoon frequently obscures mountain views with cloud. Subtropical climate at a lower elevation (~820m) than Kathmandu, so noticeably warmer and more humid: hot, wet summers (highs 29-30°C with heavy monsoon rain June-September, as Pokhara is one of Nepal's wettest cities), and mild, drier winters (highs 20-22°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Pokhara safe for tourists?",
+      "answer": "Pokhara is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Pokhara?",
+      "answer": "The local currency is NPR. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Pokhara is one of our most-booked honeymoon destinations, especially the Sunrise together at Sarangkot experience."
+    }
+  ],
+  "categories": [
+    "Adventure",
+    "Nature",
+    "Honeymoon",
+    "Bucket List",
+    "Romantic"
+  ],
+  "aiTags": [
+    "Pokhara",
+    "Nepal",
+    "Pokhara, Nepal",
+    "Gandaki Province",
+    "Pokhara tour package",
+    "Pokhara vacation package",
+    "Pokhara holiday package",
+    "things to do in Pokhara",
+    "best time to visit Pokhara",
+    "Pokhara itinerary",
+    "7 day Pokhara itinerary",
+    "Pokhara flights and hotels",
+    "Pokhara all inclusive package",
+    "cheap Pokhara package",
+    "luxury Pokhara package",
+    "Pokhara honeymoon package",
+    "Pokhara family vacation",
+    "Pokhara solo trip",
+    "Pokhara group tour",
+    "Pokhara weekend getaway",
+    "Pokhara guided tour",
+    "PKR flights",
+    "Pokhara travel guide",
+    "book Pokhara trip online",
+    "Pokhara trip cost",
+    "Pokhara packages 7 days",
+    "Pokhara adventure",
+    "Pokhara nature",
+    "Pokhara honeymoon",
+    "Pokhara bucket list",
+    "Pokhara romantic",
+    "Sarangkot sunrise viewpoint",
+    "World Peace Pagoda (Shanti Stupa)",
+    "Davis Falls (Patale Chhango)",
+    "Gupteshwor Mahadev Cave",
+    "International Mountain Museum",
+    "Phewa Lake boating",
+    "Paragliding from Sarangkot",
+    "Lakeside (Phewa Lake promenade)",
+    "Bindhyabasini Temple",
+    "Old Pokhara Bazaar",
+    "Phewa Lake shoreline",
+    "Tal Barahi Temple exterior view",
+    "Godfather's Restaurant",
+    "Boomerang Restaurant",
+    "Moondance Restaurant",
+    "Thakali Kitchen, Pokhara",
+    "OR2K Pokhara",
+    "Phewa Lake with Annapurna reflection",
+    "Sarangkot sunrise over the Himalayas"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Pokhara, Nepal — Phewa Lake Annapurna reflection",
+      "keywords": [
+        "Pokhara",
+        "Nepal",
+        "Phewa Lake Annapurna reflection",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Pokhara Phewa Lake Annapurna reflection",
+      "pexelsQuery": "Pokhara Phewa Lake Annapurna reflection",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Pokhara, Nepal — Phewa Lake Annapurna reflection",
+      "keywords": [
+        "Pokhara",
+        "Nepal",
+        "Phewa Lake Annapurna reflection",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Pokhara Phewa Lake Annapurna reflection",
+      "pexelsQuery": "Pokhara Phewa Lake Annapurna reflection",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Pokhara, Nepal — Sarangkot sunrise",
+      "keywords": [
+        "Pokhara",
+        "Nepal",
+        "Sarangkot sunrise",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Pokhara Sarangkot sunrise",
+      "pexelsQuery": "Pokhara Sarangkot sunrise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Pokhara, Nepal — World Peace Pagoda Pokhara",
+      "keywords": [
+        "Pokhara",
+        "Nepal",
+        "World Peace Pagoda Pokhara",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Pokhara World Peace Pagoda Pokhara",
+      "pexelsQuery": "Pokhara World Peace Pagoda Pokhara",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Pokhara, Nepal — Phewa Lake Annapurna reflection",
+      "keywords": [
+        "Pokhara",
+        "Nepal",
+        "Phewa Lake Annapurna reflection",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Pokhara Phewa Lake Annapurna reflection",
+      "pexelsQuery": "Pokhara Phewa Lake Annapurna reflection",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Pokhara, Nepal — Sarangkot sunrise",
+      "keywords": [
+        "Pokhara",
+        "Nepal",
+        "Sarangkot sunrise",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Pokhara Sarangkot sunrise",
+      "pexelsQuery": "Pokhara Sarangkot sunrise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Pokhara, Nepal — World Peace Pagoda Pokhara",
+      "keywords": [
+        "Pokhara",
+        "Nepal",
+        "World Peace Pagoda Pokhara",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Pokhara World Peace Pagoda Pokhara",
+      "pexelsQuery": "Pokhara World Peace Pagoda Pokhara",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Pokhara, Nepal — Paragliding over Phewa Lake",
+      "keywords": [
+        "Pokhara",
+        "Nepal",
+        "Paragliding over Phewa Lake",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Pokhara Paragliding over Phewa Lake",
+      "pexelsQuery": "Pokhara Paragliding over Phewa Lake",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Pokhara, Nepal — Sarangkot sunrise viewpoint",
+      "keywords": [
+        "Pokhara",
+        "Nepal",
+        "Sarangkot sunrise viewpoint",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Pokhara Sarangkot sunrise viewpoint",
+      "pexelsQuery": "Pokhara Sarangkot sunrise viewpoint",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Pokhara, Nepal — World Peace Pagoda (Shanti Stupa)",
+      "keywords": [
+        "Pokhara",
+        "Nepal",
+        "World Peace Pagoda (Shanti Stupa)",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Pokhara World Peace Pagoda (Shanti Stupa)",
+      "pexelsQuery": "Pokhara World Peace Pagoda (Shanti Stupa)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Pokhara, Nepal — Davis Falls (Patale Chhango)",
+      "keywords": [
+        "Pokhara",
+        "Nepal",
+        "Davis Falls (Patale Chhango)",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Pokhara Davis Falls (Patale Chhango)",
+      "pexelsQuery": "Pokhara Davis Falls (Patale Chhango)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Pokhara, Nepal — Gupteshwor Mahadev Cave",
+      "keywords": [
+        "Pokhara",
+        "Nepal",
+        "Gupteshwor Mahadev Cave",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Pokhara Gupteshwor Mahadev Cave",
+      "pexelsQuery": "Pokhara Gupteshwor Mahadev Cave",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-pokhara-7-1",
+      "author": "Arjun Müller",
+      "country": "Switzerland",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-01-31",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a solo trip and it was well paced. Old Pokhara Bazaar in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-2",
+      "author": "Ethan Ivanov",
+      "country": "Australia",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-05-18",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Davis Falls (Patale Chhango) and Sarangkot sunrise viewpoint. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-pokhara-7-3",
+      "author": "Ava Wang",
+      "country": "Canada",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-10-16",
+      "title": "Perfect for our honeymoon",
+      "body": "World Peace Pagoda (Shanti Stupa) alone was worth the trip, but combined with Old Pokhara Bazaar this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-4",
+      "author": "James Costa",
+      "country": "Australia",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-02-10",
+      "title": "Loved every moment",
+      "body": "Our trip to Pokhara was fantastic from start to finish. The hotel was clean and well located, and the guided visit to World Peace Pagoda (Shanti Stupa) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-5",
+      "author": "Yuki Rossi",
+      "country": "United Kingdom",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-27",
+      "title": "Unforgettable trip!",
+      "body": "Sarangkot sunrise viewpoint alone was worth the trip, but combined with Davis Falls (Patale Chhango) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-6",
+      "author": "Grace Müller",
+      "country": "Saudi Arabia",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-06-15",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Phewa Lake shoreline and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-7",
+      "author": "David Larsen",
+      "country": "Spain",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-20",
+      "title": "Loved every moment",
+      "body": "Pokhara is stunning and this package covered the essentials well, especially Tal Barahi Temple exterior view. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-8",
+      "author": "Omar Müller",
+      "country": "Netherlands",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-12-29",
+      "title": "Adventure of a lifetime",
+      "body": "We added a couple of optional activities beyond Bindhyabasini Temple and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-9",
+      "author": "Nadia Dubois",
+      "country": "South Africa",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-09",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Pokhara is stunning and this package covered the essentials well, especially Lakeside (Phewa Lake promenade). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-10",
+      "author": "Yuki Tanaka",
+      "country": "France",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-10-09",
+      "title": "Highly recommend this package",
+      "body": "Gupteshwor Mahadev Cave alone was worth the trip, but combined with Phewa Lake boating this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-pokhara-7-11",
+      "author": "Chen Novak",
+      "country": "United States",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-11-13",
+      "title": "Great for families with kids",
+      "body": "Booked this as a family of 4 trip and it was well paced. Sarangkot sunrise viewpoint in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-12",
+      "author": "Noah Garcia",
+      "country": "Canada",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-18",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Pokhara was fantastic from start to finish. The hotel was clean and well located, and the guided visit to World Peace Pagoda (Shanti Stupa) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-13",
+      "author": "Emma Novak",
+      "country": "South Africa",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-05-01",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Pokhara was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Lakeside (Phewa Lake promenade) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-14",
+      "author": "Sofia van Dijk",
+      "country": "United States",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-08-27",
+      "title": "Smooth from start to finish",
+      "body": "Booked this as a couple trip and it was well paced. Sarangkot sunrise viewpoint in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-15",
+      "author": "Anna Nguyen",
+      "country": "South Africa",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-04-16",
+      "title": "Loved every moment",
+      "body": "Pokhara is stunning and this package covered the essentials well, especially Lakeside (Phewa Lake promenade). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-16",
+      "author": "Grace Ivanov",
+      "country": "UAE",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-09-20",
+      "title": "Best vacation we've had",
+      "body": "We added a couple of optional activities beyond International Mountain Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-17",
+      "author": "Ava Santos",
+      "country": "Brazil",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-09-21",
+      "title": "Would book again in a heartbeat",
+      "body": "Paragliding from Sarangkot alone was worth the trip, but combined with Sarangkot sunrise viewpoint this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-18",
+      "author": "Liam Silva",
+      "country": "United States",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-21",
+      "title": "Five stars, will return",
+      "body": "Our trip to Pokhara was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Sarangkot sunrise viewpoint was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-pokhara-7-19",
+      "author": "Ava Johnson",
+      "country": "France",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-27",
+      "title": "Smooth from start to finish",
+      "body": "Gupteshwor Mahadev Cave alone was worth the trip, but combined with Phewa Lake shoreline this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-pokhara-7-20",
+      "author": "Lukas Müller",
+      "country": "United Kingdom",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-05-26",
+      "title": "Consultant made it effortless",
+      "body": "Pokhara is stunning and this package covered the essentials well, especially Sarangkot sunrise viewpoint. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.2,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Pokhara Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 4,
+      "neighborhood": "Lakeside market street"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Pokhara Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 8,
+      "neighborhood": "Old Pokhara Bazaar"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Pokhara Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Trekking gear shops along Lakeside"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Pokhara Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 23,
+      "neighborhood": "Tibetan handicraft stalls"
+    },
+    {
+      "tier": "Resort",
+      "name": "Pokhara Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 60,
+      "neighborhood": "Lakeside bar strip"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Pokhara Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 126,
+      "neighborhood": "Busy Bee Cafe live music"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Pokhara Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 150,
+      "neighborhood": "Sunset drinks at rooftop restaurants overlooking Phewa Lake"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        945,
+        1501
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        932,
+        1481
+      ],
+      "estimatedFlightHours": 16.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        597,
+        948
+      ],
+      "estimatedFlightHours": 10.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        590,
+        937
+      ],
+      "estimatedFlightHours": 10.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        555,
+        882
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        546,
+        867
+      ],
+      "estimatedFlightHours": 9.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        643,
+        1021
+      ],
+      "estimatedFlightHours": 11.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        571,
+        907
+      ],
+      "estimatedFlightHours": 10,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        559,
+        888
+      ],
+      "estimatedFlightHours": 9.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        791,
+        1256
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        937,
+        1488
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        124,
+        197
+      ],
+      "estimatedFlightHours": 1.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        456,
+        724
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        373,
+        593
+      ],
+      "estimatedFlightHours": 6.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        341,
+        541
+      ],
+      "estimatedFlightHours": 5.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        246,
+        390
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        320,
+        508
+      ],
+      "estimatedFlightHours": 5.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        405,
+        643
+      ],
+      "estimatedFlightHours": 6.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        372,
+        591
+      ],
+      "estimatedFlightHours": 6.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        297,
+        471
+      ],
+      "estimatedFlightHours": 4.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        284,
+        451
+      ],
+      "estimatedFlightHours": 4.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        345,
+        548
+      ],
+      "estimatedFlightHours": 5.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        309,
+        491
+      ],
+      "estimatedFlightHours": 5.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        329,
+        522
+      ],
+      "estimatedFlightHours": 5.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        691,
+        1098
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1166,
+        1852
+      ],
+      "estimatedFlightHours": 21.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Pokhara International Airport (PKR)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1139,
+        1809
+      ],
+      "estimatedFlightHours": 20.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Sarangkot sunrise viewpoint",
+    "World Peace Pagoda (Shanti Stupa)",
+    "Davis Falls (Patale Chhango)",
+    "Gupteshwor Mahadev Cave",
+    "International Mountain Museum",
+    "Phewa Lake boating",
+    "Paragliding from Sarangkot",
+    "Lakeside (Phewa Lake promenade)",
+    "Bindhyabasini Temple",
+    "Old Pokhara Bazaar",
+    "Phewa Lake shoreline",
+    "Tal Barahi Temple exterior view",
+    "Sarangkot",
+    "Begnas Lake",
+    "Australian Base Camp",
+    "Ghorepani Poon Hill trek (multi-day)",
+    "Pokhara Regional Museum",
+    "Gurkha Memorial Museum",
+    "Phewa Lake shoreline park",
+    "Pumdikot Shiva Statue Park",
+    "Phewa Lake with Annapurna reflection",
+    "Sarangkot sunrise over the Himalayas",
+    "World Peace Pagoda viewpoint",
+    "Tal Barahi Temple on the lake",
+    "Davis Falls"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Sarangkot sunrise viewpoint",
+      "priceUSD": 1
+    },
+    {
+      "name": "World Peace Pagoda (Shanti Stupa)",
+      "priceUSD": 0
+    },
+    {
+      "name": "Davis Falls (Patale Chhango)",
+      "priceUSD": 1
+    },
+    {
+      "name": "Gupteshwor Mahadev Cave",
+      "priceUSD": 2
+    },
+    {
+      "name": "International Mountain Museum",
+      "priceUSD": 4
+    },
+    {
+      "name": "Phewa Lake boating",
+      "priceUSD": 5
+    },
+    {
+      "name": "Paragliding from Sarangkot",
+      "priceUSD": 75
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Lakeside (Phewa Lake promenade)",
+    "Bindhyabasini Temple",
+    "Old Pokhara Bazaar",
+    "Phewa Lake shoreline",
+    "Tal Barahi Temple exterior view"
+  ],
+  "museums": [
+    "International Mountain Museum",
+    "Pokhara Regional Museum",
+    "Gurkha Memorial Museum"
+  ],
+  "parks": [
+    "Phewa Lake shoreline park",
+    "Pumdikot Shiva Statue Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Sarangkot",
+    "Begnas Lake",
+    "Australian Base Camp",
+    "Ghorepani Poon Hill trek (multi-day)"
+  ],
+  "fromPriceUSD": 1464,
+  "seo": {
+    "title": "Pokhara 7-Day Adventure Tour | Flights, Hotels & Tours Included",
+    "slug": "pokhara-7-day-package",
+    "keywords": [
+      "Pokhara",
+      "Nepal",
+      "Pokhara, Nepal",
+      "Gandaki Province",
+      "Pokhara tour package",
+      "Pokhara vacation package",
+      "Pokhara holiday package",
+      "things to do in Pokhara",
+      "best time to visit Pokhara",
+      "Pokhara itinerary",
+      "7 day Pokhara itinerary",
+      "Pokhara flights and hotels",
+      "Pokhara all inclusive package",
+      "cheap Pokhara package",
+      "luxury Pokhara package"
+    ],
+    "canonicalUrl": "/packages/pokhara-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Pokhara Package",
+        "url": "/packages/pokhara-5-day-package"
+      },
+      {
+        "title": "10-Day Pokhara Package",
+        "url": "/packages/pokhara-10-day-package"
+      },
+      {
+        "title": "Reykjavik 7-Day Nature Retreat",
+        "url": "/packages/reykjavik-7-day-package"
+      },
+      {
+        "title": "Cappadocia 7-Day Adventure Tour",
+        "url": "/packages/cappadocia-7-day-package"
+      },
+      {
+        "title": "Queenstown 7-Day Adventure Tour",
+        "url": "/packages/queenstown-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Pokhara — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pokhara"
+      },
+      {
+        "title": "Pokhara — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Pokhara"
+      }
+    ]
+  }
+}

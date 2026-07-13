@@ -1,0 +1,1746 @@
+{
+  "id": "PKG-turks-and-caicos-14D",
+  "slug": "turks-and-caicos-14-day-package",
+  "destinationSlug": "turks-and-caicos",
+  "destinationName": "Turks and Caicos",
+  "country": "Turks and Caicos Islands",
+  "region": "Providenciales",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Turks and Caicos 14-Day Beach Getaway",
+  "metaTitle": "Turks and Caicos 14-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Turks and Caicos, Turks and Caicos Islands: round-trip flights, hotel, breakfast, transfers, and guided tours including Grace Bay watersports and snorkel excursion and Chalk Sound National Park boat tour. Prices from $3150 per person (estimate).",
+  "highlights": [
+    "Grace Bay watersports and snorkel excursion",
+    "Chalk Sound National Park boat tour",
+    "Grace Bay Beach",
+    "Scuba diving the Grace Bay/Grand Turk coral wall",
+    "Overwater-style beachfront villa on Grace Bay",
+    "Sunset sail along Grace Bay",
+    "Little Water Cay iguana excursion"
+  ],
+  "overview": "Spend 14 days discovering Turks and Caicos, Turks and Caicos Islands — Tropical climate, warm year-round (highs 28-32°C) with a wetter hurricane-risk season from June to November, peaking August-October. December to April is the dry season with the calmest seas and lowest humidity, and is the peak, priciest window for this luxury-leaning destination. This itinerary blends Grace Bay watersports and snorkel excursion, Chalk Sound National Park boat tour, Grace Bay Beach with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Grace Bay watersports and snorkel excursion, Chalk Sound National Park boat tour, Grace Bay Beach",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Turks and Caicos",
+      "description": "Land at Providenciales International Airport (PLS) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Grace Bay watersports and snorkel excursion — Guided snorkel or reef-boat tour off the world-famous beach. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Grace Bay watersports and snorkel excursion"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 2,
+      "title": "Turks and Caicos: Chalk Sound National Park boat tour & Half-day stingray and iguana snorkel tour (Little Water Cay)",
+      "description": "Morning visit to Chalk Sound National Park boat tour — Tour of the surreal turquoise lagoon dotted with small cays. In the afternoon, continue to Half-day stingray and iguana snorkel tour (Little Water Cay) — Boat trip to see rock iguanas and swim with stingrays. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Chalk Sound National Park boat tour",
+        "Half-day stingray and iguana snorkel tour (Little Water Cay)"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 3,
+      "title": "Turks and Caicos: Provo Ponds/Caicos Conch Farm tour & Scuba diving Grace Bay/Grand Turk wall",
+      "description": "Morning visit to Provo Ponds/Caicos Conch Farm tour — The world's only commercial conch farm, with tours and tastings. In the afternoon, continue to Scuba diving Grace Bay/Grand Turk wall — World-class wall diving along the coral drop-off. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Provo Ponds/Caicos Conch Farm tour",
+        "Scuba diving Grace Bay/Grand Turk wall"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Little Water Cay iguana excursion",
+      "description": "Full-day excursion to Little Water Cay iguana excursion, a popular side trip from Turks and Caicos. Return to Turks and Caicos in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Little Water Cay iguana excursion",
+        "Free evening"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Malcolm Roads Beach — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Malcolm Roads Beach"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 6,
+      "title": "Turks and Caicos: Big Blue Collective kayak/eco tour & Sunset sail catamaran cruise",
+      "description": "Morning visit to Big Blue Collective kayak/eco tour — Guided kayak eco-tour through mangroves and Chalk Sound. In the afternoon, continue to Sunset sail catamaran cruise — Evening sail along the coastline with drinks included. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Big Blue Collective kayak/eco tour",
+        "Sunset sail catamaran cruise"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Grand Turk (flight/boat day trip)",
+      "description": "Full-day excursion to Grand Turk (flight/boat day trip), a popular side trip from Turks and Caicos. Return to Turks and Caicos in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Grand Turk (flight/boat day trip)",
+        "Free evening"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 8,
+      "title": "Turks and Caicos: Grand Turk cruise-port day excursion (from Provo) & Deep-sea sport fishing charter",
+      "description": "Morning visit to Grand Turk cruise-port day excursion (from Provo) — Flight/boat combo day trip to Grand Turk's lighthouse and cenotes. In the afternoon, continue to Deep-sea sport fishing charter — Half or full-day charter for marlin, tuna and wahoo. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Grand Turk cruise-port day excursion (from Provo)",
+        "Deep-sea sport fishing charter"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Blue Hills fishing village conch stands — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Blue Hills fishing village conch stands"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Middle Caicos and Mudjin Harbour",
+      "description": "Full-day excursion to Middle Caicos and Mudjin Harbour, a popular side trip from Turks and Caicos. Return to Turks and Caicos in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Middle Caicos and Mudjin Harbour",
+        "Free evening"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 11,
+      "title": "Turks and Caicos: Horseback riding on Long Bay Beach & Turks and Caicos National Museum (Grand Turk)",
+      "description": "Morning visit to Horseback riding on Long Bay Beach — Guided beach horseback ride at sunrise or sunset. In the afternoon, continue to Turks and Caicos National Museum (Grand Turk) — History museum covering Lucayan heritage and shipwrecks. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Horseback riding on Long Bay Beach",
+        "Turks and Caicos National Museum (Grand Turk)"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 12,
+      "title": "Turks and Caicos: Grace Bay Beach & Chalk Sound National Park viewpoint",
+      "description": "Morning visit to Grace Bay Beach — Consistently ranked among the best beaches in the world, 12 miles of white sand. In the afternoon, continue to Chalk Sound National Park viewpoint — Free roadside and lookout views over the turquoise lagoon. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Grace Bay Beach",
+        "Chalk Sound National Park viewpoint"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Mudjin Harbour on Middle Caicos — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Mudjin Harbour on Middle Caicos"
+      ],
+      "overnight": "Turks and Caicos"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Sapodilla Bay or some souvenir shopping — before your private transfer to PLS for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Grace Bay resort accommodation well ahead for the December-April peak season — this island trends toward smaller, higher-end properties.",
+    "Snorkel Smith's Reef directly from the beach for a free alternative to a boat excursion.",
+    "A Little Water Cay tour is one of the best value excursions — reliable iguana and stingray sightings.",
+    "US dollars are the official currency, so no exchange is needed and pricing is straightforward.",
+    "Consider a day trip to Grand Turk for a quieter, more historic contrast to Providenciales' resort strip.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Reef-safe sunscreen only — many resorts and tour operators enforce this due to reef protection",
+    "Light, resort-casual clothing for evenings out",
+    "Water shoes for rockier snorkel entry points like Smith's Reef",
+    "A light cover-up for moving between beach and town areas"
+  ],
+  "thingsToDo": [
+    "Grace Bay watersports and snorkel excursion",
+    "Chalk Sound National Park boat tour",
+    "Half-day stingray and iguana snorkel tour (Little Water Cay)",
+    "Provo Ponds/Caicos Conch Farm tour",
+    "Scuba diving Grace Bay/Grand Turk wall",
+    "Big Blue Collective kayak/eco tour",
+    "Sunset sail catamaran cruise",
+    "Grand Turk cruise-port day excursion (from Provo)",
+    "Deep-sea sport fishing charter",
+    "Horseback riding on Long Bay Beach",
+    "Turks and Caicos National Museum (Grand Turk)",
+    "Grace Bay Beach",
+    "Chalk Sound National Park viewpoint",
+    "Sapodilla Bay",
+    "Bight Park (Grace Bay)",
+    "Blue Hills settlement",
+    "Malcolm Roads Beach",
+    "Smith's Reef",
+    "Wheeland Settlement historic sites",
+    "Scuba diving the Grace Bay/Grand Turk coral wall"
+  ],
+  "thingsToAvoid": [
+    "Touching or standing on coral — reef damage is taken seriously here and can carry fines.",
+    "Skipping travel insurance during hurricane season (June-November) — this island has been directly hit before.",
+    "Renting a car without confirming comfort driving on the left side of the road.",
+    "Expecting budget prices — Turks and Caicos is one of the pricier Caribbean destinations across all categories.",
+    "Wandering unlit areas outside Grace Bay resorts late at night without transport arranged."
+  ],
+  "topRestaurants": [
+    "Da Conch Shack — Fresh Conch/Seafood Shack ($$)",
+    "Grace's Cottage — Fine Dining Caribbean ($$$$)",
+    "Coco Bistro — Palm-Grove Fine Dining ($$$$)",
+    "Bugaloo's Conch Crawl — Local Seafood Shack ($$)",
+    "Coyaba Restaurant — Contemporary Caribbean ($$$$)",
+    "Somewhere Cafe & Lounge — Mexican/Caribbean, beachfront ($$$)",
+    "Baci Ristorante — Italian, waterfront ($$$)",
+    "Fire & Ice Beach Bar — International Grill ($$)",
+    "Sui-Ren — Asian Fusion/Sushi ($$$)"
+  ],
+  "topCafes": [
+    "Provo Coffee Roasters",
+    "Somewhere Cafe (breakfast)",
+    "Simply Delicious Bakery Cafe",
+    "Grace Bay Coffee Co.",
+    "Baja Cafe"
+  ],
+  "shoppingAreas": [
+    "Grace Bay Road boutiques",
+    "Saltmills Plaza",
+    "Regent Village shops",
+    "Provo Ponds/Caicos Conch Farm gift shop",
+    "Blue Hills local craft stalls"
+  ],
+  "nightlife": [
+    "Grace Bay beach bars",
+    "Fire & Ice Beach Bar",
+    "Somewhere Cafe & Lounge sunset drinks",
+    "Danny Buoy's Irish pub",
+    "Infiniti Bar at The Palms"
+  ],
+  "instagramSpots": [
+    "Grace Bay Beach aerial turquoise water",
+    "Chalk Sound National Park lagoon",
+    "Sapodilla Bay rock carvings",
+    "Iguana encounter at Little Water Cay",
+    "Smith's Reef snorkeling shoreline"
+  ],
+  "hiddenGems": [
+    "Malcolm Roads Beach",
+    "Blue Hills fishing village conch stands",
+    "Mudjin Harbour on Middle Caicos",
+    "Conch Bar Caves National Park",
+    "Bambarra Beach on Middle Caicos"
+  ],
+  "familyActivities": [
+    "Snorkeling right off Grace Bay Beach",
+    "Little Water Cay iguana and stingray excursion",
+    "Caicos Conch Farm tour",
+    "Bight Park playground and boardwalk",
+    "Glass-bottom boat tour of the reef"
+  ],
+  "adventureActivities": [
+    "Scuba diving the Grace Bay/Grand Turk coral wall",
+    "Kayaking through Chalk Sound mangroves",
+    "Deep-sea sport fishing charter",
+    "Kiteboarding at Long Bay Beach"
+  ],
+  "luxuryExperiences": [
+    "Overwater-style beachfront villa on Grace Bay",
+    "Private yacht charter to Chalk Sound and offshore cays",
+    "Fine dining tasting menu at Grace's Cottage",
+    "Private chef beachfront dinner setup"
+  ],
+  "honeymoonExperiences": [
+    "Sunset sail along Grace Bay",
+    "Private candlelit dinner in the sand at Coco Bistro",
+    "Couples spa day at a Grace Bay resort",
+    "Snorkeling with stingrays at Little Water Cay"
+  ],
+  "budgetExperiences": [
+    "Free swim and sunbathe at Grace Bay Beach",
+    "Conch fritters at Da Conch Shack for a modest price",
+    "Snorkel Smith's Reef directly from shore",
+    "Free roadside views of Chalk Sound National Park"
+  ],
+  "estimatedDailyBudgetUSD": [
+    130,
+    280,
+    520,
+    1100
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 25,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 28,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 28,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Nov",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 28,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Turks and Caicos Music and Cultural Festival",
+      "timing": "Late July to early August"
+    },
+    {
+      "name": "Provo Ag & Trade Show (Maskanoo precursor events)",
+      "timing": "Varies, autumn"
+    },
+    {
+      "name": "Maskanoo Festival",
+      "timing": "December 26 (Boxing Day)"
+    },
+    {
+      "name": "Turks and Caicos Conch Festival",
+      "timing": "November, Blue Hills"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Greet with \"Good morning/afternoon\" before any request — genuine island courtesy is expected.",
+    "Tipping 15% is standard; many resorts add automatic service charges — check the bill before double-tipping.",
+    "This is a low-key, exclusive island culture — flashy haggling or loud behavior off the beach is frowned upon.",
+    "Respect coral reef protections — Turks and Caicos has strict marine park rules against touching or removing coral.",
+    "Cover up when leaving the beach for restaurants or Providenciales town areas."
+  ],
+  "localTransportGuide": "Providenciales has no public bus system, so rental cars, resort shuttles and taxis (unmetered, fixed zone rates) are how most visitors get around; driving is on the left. Grace Bay's main strip is walkable for hopping between beachfront restaurants and shops, but reaching Chalk Sound, Blue Hills or the airport requires a car or taxi.",
+  "bestTimeToVisit": "December to April is the dry season with the calmest seas and lowest humidity, and is the peak, priciest window for this luxury-leaning destination.",
+  "weather": "Tropical climate, warm year-round (highs 28-32°C) with a wetter hurricane-risk season from June to November, peaking August-October.",
+  "visaInformation": "Visa-free entry for most Western passport holders (US, UK, EU, Canada, Australia) for tourist stays up to 90 days; the US dollar is the official currency. Indian passport holders should check current requirements — a valid US, UK, Canadian or Schengen visa often facilitates visa-free or visa-on-arrival entry.",
+  "currency": "USD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "EST (UTC-5)",
+  "averageFlightTime": "~15.4h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Providenciales International Airport (PLS)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Turks and Caicos?",
+      "answer": "Visa-free entry for most Western passport holders (US, UK, EU, Canada, Australia) for tourist stays up to 90 days; the US dollar is the official currency. Indian passport holders should check current requirements — a valid US, UK, Canadian or Schengen visa often facilitates visa-free or visa-on-arrival entry."
+    },
+    {
+      "question": "What is the best time to visit Turks and Caicos?",
+      "answer": "December to April is the dry season with the calmest seas and lowest humidity, and is the peak, priciest window for this luxury-leaning destination. Tropical climate, warm year-round (highs 28-32°C) with a wetter hurricane-risk season from June to November, peaking August-October."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Turks and Caicos safe for tourists?",
+      "answer": "Turks and Caicos is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Turks and Caicos?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Turks and Caicos is one of our most-booked honeymoon destinations, especially the Sunset sail along Grace Bay experience."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Luxury",
+    "Honeymoon",
+    "Romantic",
+    "Adventure",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Turks and Caicos",
+    "Turks and Caicos Islands",
+    "Turks and Caicos, Turks and Caicos Islands",
+    "Providenciales",
+    "Turks and Caicos tour package",
+    "Turks and Caicos vacation package",
+    "Turks and Caicos holiday package",
+    "things to do in Turks and Caicos",
+    "best time to visit Turks and Caicos",
+    "Turks and Caicos itinerary",
+    "14 day Turks and Caicos itinerary",
+    "Turks and Caicos flights and hotels",
+    "Turks and Caicos all inclusive package",
+    "cheap Turks and Caicos package",
+    "luxury Turks and Caicos package",
+    "Turks and Caicos honeymoon package",
+    "Turks and Caicos family vacation",
+    "Turks and Caicos solo trip",
+    "Turks and Caicos group tour",
+    "Turks and Caicos weekend getaway",
+    "Turks and Caicos guided tour",
+    "PLS flights",
+    "Turks and Caicos travel guide",
+    "book Turks and Caicos trip online",
+    "Turks and Caicos trip cost",
+    "Turks and Caicos packages 14 days",
+    "Turks and Caicos beach",
+    "Turks and Caicos luxury",
+    "Turks and Caicos honeymoon",
+    "Turks and Caicos romantic",
+    "Turks and Caicos adventure",
+    "Turks and Caicos bucket list",
+    "Grace Bay watersports and snorkel excursion",
+    "Chalk Sound National Park boat tour",
+    "Half-day stingray and iguana snorkel tour (Little Water Cay)",
+    "Provo Ponds/Caicos Conch Farm tour",
+    "Scuba diving Grace Bay/Grand Turk wall",
+    "Big Blue Collective kayak/eco tour",
+    "Sunset sail catamaran cruise",
+    "Grand Turk cruise-port day excursion (from Provo)",
+    "Deep-sea sport fishing charter",
+    "Horseback riding on Long Bay Beach",
+    "Turks and Caicos National Museum (Grand Turk)",
+    "Grace Bay Beach",
+    "Chalk Sound National Park viewpoint",
+    "Sapodilla Bay",
+    "Bight Park (Grace Bay)",
+    "Blue Hills settlement",
+    "Malcolm Roads Beach",
+    "Smith's Reef"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Turks and Caicos, Turks and Caicos Islands — Grace Bay Beach aerial turquoise water",
+      "keywords": [
+        "Turks and Caicos",
+        "Turks and Caicos Islands",
+        "Grace Bay Beach aerial turquoise water",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Turks and Caicos Grace Bay Beach aerial turquoise water",
+      "pexelsQuery": "Turks and Caicos Grace Bay Beach aerial turquoise water",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Turks and Caicos, Turks and Caicos Islands — Grace Bay Beach aerial turquoise water",
+      "keywords": [
+        "Turks and Caicos",
+        "Turks and Caicos Islands",
+        "Grace Bay Beach aerial turquoise water",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Turks and Caicos Grace Bay Beach aerial turquoise water",
+      "pexelsQuery": "Turks and Caicos Grace Bay Beach aerial turquoise water",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Turks and Caicos, Turks and Caicos Islands — Chalk Sound National Park lagoon",
+      "keywords": [
+        "Turks and Caicos",
+        "Turks and Caicos Islands",
+        "Chalk Sound National Park lagoon",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Turks and Caicos Chalk Sound National Park lagoon",
+      "pexelsQuery": "Turks and Caicos Chalk Sound National Park lagoon",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Turks and Caicos, Turks and Caicos Islands — iguana encounter Little Water Cay",
+      "keywords": [
+        "Turks and Caicos",
+        "Turks and Caicos Islands",
+        "iguana encounter Little Water Cay",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Turks and Caicos iguana encounter Little Water Cay",
+      "pexelsQuery": "Turks and Caicos iguana encounter Little Water Cay",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Turks and Caicos, Turks and Caicos Islands — Grace Bay Beach aerial turquoise water",
+      "keywords": [
+        "Turks and Caicos",
+        "Turks and Caicos Islands",
+        "Grace Bay Beach aerial turquoise water",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Turks and Caicos Grace Bay Beach aerial turquoise water",
+      "pexelsQuery": "Turks and Caicos Grace Bay Beach aerial turquoise water",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Turks and Caicos, Turks and Caicos Islands — Chalk Sound National Park lagoon",
+      "keywords": [
+        "Turks and Caicos",
+        "Turks and Caicos Islands",
+        "Chalk Sound National Park lagoon",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Turks and Caicos Chalk Sound National Park lagoon",
+      "pexelsQuery": "Turks and Caicos Chalk Sound National Park lagoon",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Turks and Caicos, Turks and Caicos Islands — iguana encounter Little Water Cay",
+      "keywords": [
+        "Turks and Caicos",
+        "Turks and Caicos Islands",
+        "iguana encounter Little Water Cay",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Turks and Caicos iguana encounter Little Water Cay",
+      "pexelsQuery": "Turks and Caicos iguana encounter Little Water Cay",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Turks and Caicos, Turks and Caicos Islands — overwater villa sunset Providenciales",
+      "keywords": [
+        "Turks and Caicos",
+        "Turks and Caicos Islands",
+        "overwater villa sunset Providenciales",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Turks and Caicos overwater villa sunset Providenciales",
+      "pexelsQuery": "Turks and Caicos overwater villa sunset Providenciales",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Turks and Caicos, Turks and Caicos Islands — Grace Bay watersports and snorkel excursion",
+      "keywords": [
+        "Turks and Caicos",
+        "Turks and Caicos Islands",
+        "Grace Bay watersports and snorkel excursion",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Turks and Caicos Grace Bay watersports and snorkel excursion",
+      "pexelsQuery": "Turks and Caicos Grace Bay watersports and snorkel excursion",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Turks and Caicos, Turks and Caicos Islands — Chalk Sound National Park boat tour",
+      "keywords": [
+        "Turks and Caicos",
+        "Turks and Caicos Islands",
+        "Chalk Sound National Park boat tour",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Turks and Caicos Chalk Sound National Park boat tour",
+      "pexelsQuery": "Turks and Caicos Chalk Sound National Park boat tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Turks and Caicos, Turks and Caicos Islands — Half-day stingray and iguana snorkel tour (Little Water Cay)",
+      "keywords": [
+        "Turks and Caicos",
+        "Turks and Caicos Islands",
+        "Half-day stingray and iguana snorkel tour (Little Water Cay)",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Turks and Caicos Half-day stingray and iguana snorkel tour (Little Water Cay)",
+      "pexelsQuery": "Turks and Caicos Half-day stingray and iguana snorkel tour (Little Water Cay)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Turks and Caicos, Turks and Caicos Islands — Provo Ponds/Caicos Conch Farm tour",
+      "keywords": [
+        "Turks and Caicos",
+        "Turks and Caicos Islands",
+        "Provo Ponds/Caicos Conch Farm tour",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Turks and Caicos Provo Ponds/Caicos Conch Farm tour",
+      "pexelsQuery": "Turks and Caicos Provo Ponds/Caicos Conch Farm tour",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-turks-and-caicos-14-1",
+      "author": "Isabella Andersen",
+      "country": "New Zealand",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-03-17",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Chalk Sound National Park viewpoint and Grace Bay watersports and snorkel excursion. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-2",
+      "author": "Wei Fernandez",
+      "country": "Italy",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-14",
+      "title": "Five stars, will return",
+      "body": "Booked this as a couple trip and it was well paced. Smith's Reef in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-3",
+      "author": "Tom Tanaka",
+      "country": "Netherlands",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-08-20",
+      "title": "Adventure of a lifetime",
+      "body": "We added a couple of optional activities beyond Sapodilla Bay and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-4",
+      "author": "Isabella Ivanov",
+      "country": "Italy",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-18",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Smith's Reef and Deep-sea sport fishing charter. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-5",
+      "author": "Lukas Santos",
+      "country": "India",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-10",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Turks and Caicos is stunning and this package covered the essentials well, especially Big Blue Collective kayak/eco tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-6",
+      "author": "Wei Fernandez",
+      "country": "South Africa",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-06",
+      "title": "Worth every penny",
+      "body": "Booked this as a couple trip and it was well paced. Grace Bay Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-7",
+      "author": "Lukas Smith",
+      "country": "South Africa",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-10-23",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Turks and Caicos is stunning and this package covered the essentials well, especially Grace Bay Beach. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-8",
+      "author": "Yuki Khan",
+      "country": "Japan",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-01-26",
+      "title": "Smooth from start to finish",
+      "body": "Turks and Caicos National Museum (Grand Turk) alone was worth the trip, but combined with Sapodilla Bay this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-9",
+      "author": "Noah Dubois",
+      "country": "Canada",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-01-31",
+      "title": "Worth every penny",
+      "body": "Our trip to Turks and Caicos was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Half-day stingray and iguana snorkel tour (Little Water Cay) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-10",
+      "author": "Priya Silva",
+      "country": "United States",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-15",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a couple trip and it was well paced. Grace Bay watersports and snorkel excursion in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-11",
+      "author": "Noah Fernandez",
+      "country": "United Kingdom",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-02-25",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Turks and Caicos was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Chalk Sound National Park boat tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-12",
+      "author": "Emma Silva",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-03-29",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Turks and Caicos was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Horseback riding on Long Bay Beach was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-turks-and-caicos-14-13",
+      "author": "Fatima Smith",
+      "country": "Brazil",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-27",
+      "title": "Great for families with kids",
+      "body": "Grace Bay Beach alone was worth the trip, but combined with Chalk Sound National Park viewpoint this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-14",
+      "author": "Lucas Dubois",
+      "country": "New Zealand",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-04-07",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Chalk Sound National Park viewpoint and Smith's Reef. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-15",
+      "author": "Nadia Wang",
+      "country": "Mexico",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-16",
+      "title": "Smooth from start to finish",
+      "body": "Turks and Caicos is stunning and this package covered the essentials well, especially Malcolm Roads Beach. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-turks-and-caicos-14-16",
+      "author": "Sofia Patel",
+      "country": "South Africa",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-06-04",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a group trip and it was well paced. Grace Bay Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-17",
+      "author": "Liam Wang",
+      "country": "United Kingdom",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-08",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Turks and Caicos was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Chalk Sound National Park boat tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-18",
+      "author": "Omar Patel",
+      "country": "Mexico",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-05-12",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Malcolm Roads Beach and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-turks-and-caicos-14-19",
+      "author": "Lukas Johnson",
+      "country": "Saudi Arabia",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-25",
+      "title": "Unforgettable trip!",
+      "body": "Turks and Caicos is stunning and this package covered the essentials well, especially Blue Hills settlement. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-turks-and-caicos-14-20",
+      "author": "Daniel van Dijk",
+      "country": "Australia",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-06-24",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Provo Ponds/Caicos Conch Farm tour and Blue Hills settlement. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.2,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Turks and Caicos Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 29,
+      "neighborhood": "Grace Bay Road boutiques"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Turks and Caicos Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 52,
+      "neighborhood": "Saltmills Plaza"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Turks and Caicos Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 98,
+      "neighborhood": "Regent Village shops"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Turks and Caicos Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 126,
+      "neighborhood": "Provo Ponds/Caicos Conch Farm gift shop"
+    },
+    {
+      "tier": "Resort",
+      "name": "Turks and Caicos Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 260,
+      "neighborhood": "Blue Hills local craft stalls"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Turks and Caicos Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 462,
+      "neighborhood": "Grace Bay beach bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Turks and Caicos Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 550,
+      "neighborhood": "Fire & Ice Beach Bar"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        229,
+        363
+      ],
+      "estimatedFlightHours": 3.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        258,
+        410
+      ],
+      "estimatedFlightHours": 4.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        575,
+        914
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        589,
+        936
+      ],
+      "estimatedFlightHours": 10.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        621,
+        986
+      ],
+      "estimatedFlightHours": 10.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        654,
+        1038
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        559,
+        888
+      ],
+      "estimatedFlightHours": 9.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        600,
+        953
+      ],
+      "estimatedFlightHours": 10.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        623,
+        990
+      ],
+      "estimatedFlightHours": 11,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1202,
+        1909
+      ],
+      "estimatedFlightHours": 21.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1047,
+        1663
+      ],
+      "estimatedFlightHours": 18.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1054,
+        1674
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        1001,
+        1590
+      ],
+      "estimatedFlightHours": 18.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1024,
+        1627
+      ],
+      "estimatedFlightHours": 18.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1335,
+        2120
+      ],
+      "estimatedFlightHours": 24.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1232,
+        1956
+      ],
+      "estimatedFlightHours": 22.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1317,
+        2091
+      ],
+      "estimatedFlightHours": 24,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1397,
+        2219
+      ],
+      "estimatedFlightHours": 25.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1212,
+        1925
+      ],
+      "estimatedFlightHours": 22,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1261,
+        2002
+      ],
+      "estimatedFlightHours": 22.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        966,
+        1534
+      ],
+      "estimatedFlightHours": 17.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        917,
+        1457
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        944,
+        1499
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        904,
+        1436
+      ],
+      "estimatedFlightHours": 16.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        946,
+        1503
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        492,
+        782
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Providenciales International Airport (PLS)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        279,
+        443
+      ],
+      "estimatedFlightHours": 4.5,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Grace Bay watersports and snorkel excursion",
+    "Chalk Sound National Park boat tour",
+    "Half-day stingray and iguana snorkel tour (Little Water Cay)",
+    "Provo Ponds/Caicos Conch Farm tour",
+    "Scuba diving Grace Bay/Grand Turk wall",
+    "Big Blue Collective kayak/eco tour",
+    "Sunset sail catamaran cruise",
+    "Grand Turk cruise-port day excursion (from Provo)",
+    "Deep-sea sport fishing charter",
+    "Horseback riding on Long Bay Beach",
+    "Turks and Caicos National Museum (Grand Turk)",
+    "Grace Bay Beach",
+    "Chalk Sound National Park viewpoint",
+    "Sapodilla Bay",
+    "Bight Park (Grace Bay)",
+    "Blue Hills settlement",
+    "Malcolm Roads Beach",
+    "Smith's Reef",
+    "Wheeland Settlement historic sites",
+    "Little Water Cay iguana excursion",
+    "Grand Turk (flight/boat day trip)",
+    "Middle Caicos and Mudjin Harbour",
+    "Chalk Sound National Park",
+    "Princess Alexandra National Park",
+    "Conch Bar Caves National Park",
+    "Grace Bay Beach aerial turquoise water",
+    "Chalk Sound National Park lagoon",
+    "Sapodilla Bay rock carvings",
+    "Iguana encounter at Little Water Cay",
+    "Smith's Reef snorkeling shoreline"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Grace Bay watersports and snorkel excursion",
+      "priceUSD": 85
+    },
+    {
+      "name": "Chalk Sound National Park boat tour",
+      "priceUSD": 65
+    },
+    {
+      "name": "Half-day stingray and iguana snorkel tour (Little Water Cay)",
+      "priceUSD": 90
+    },
+    {
+      "name": "Provo Ponds/Caicos Conch Farm tour",
+      "priceUSD": 15
+    },
+    {
+      "name": "Scuba diving Grace Bay/Grand Turk wall",
+      "priceUSD": 150
+    },
+    {
+      "name": "Big Blue Collective kayak/eco tour",
+      "priceUSD": 75
+    },
+    {
+      "name": "Sunset sail catamaran cruise",
+      "priceUSD": 90
+    },
+    {
+      "name": "Grand Turk cruise-port day excursion (from Provo)",
+      "priceUSD": 220
+    },
+    {
+      "name": "Deep-sea sport fishing charter",
+      "priceUSD": 600
+    },
+    {
+      "name": "Horseback riding on Long Bay Beach",
+      "priceUSD": 120
+    },
+    {
+      "name": "Turks and Caicos National Museum (Grand Turk)",
+      "priceUSD": 10
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Grace Bay Beach",
+    "Chalk Sound National Park viewpoint",
+    "Sapodilla Bay",
+    "Bight Park (Grace Bay)",
+    "Blue Hills settlement",
+    "Malcolm Roads Beach",
+    "Smith's Reef",
+    "Wheeland Settlement historic sites"
+  ],
+  "museums": [
+    "Turks and Caicos National Museum (Grand Turk)"
+  ],
+  "parks": [
+    "Chalk Sound National Park",
+    "Princess Alexandra National Park",
+    "Conch Bar Caves National Park"
+  ],
+  "beaches": [
+    "Grace Bay Beach",
+    "Sapodilla Bay",
+    "Malcolm Roads Beach"
+  ],
+  "dayTrips": [
+    "Little Water Cay iguana excursion",
+    "Grand Turk (flight/boat day trip)",
+    "Middle Caicos and Mudjin Harbour",
+    "Chalk Sound National Park boat tour"
+  ],
+  "fromPriceUSD": 3150,
+  "seo": {
+    "title": "Turks and Caicos 14-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "turks-and-caicos-14-day-package",
+    "keywords": [
+      "Turks and Caicos",
+      "Turks and Caicos Islands",
+      "Turks and Caicos, Turks and Caicos Islands",
+      "Providenciales",
+      "Turks and Caicos tour package",
+      "Turks and Caicos vacation package",
+      "Turks and Caicos holiday package",
+      "things to do in Turks and Caicos",
+      "best time to visit Turks and Caicos",
+      "Turks and Caicos itinerary",
+      "14 day Turks and Caicos itinerary",
+      "Turks and Caicos flights and hotels",
+      "Turks and Caicos all inclusive package",
+      "cheap Turks and Caicos package",
+      "luxury Turks and Caicos package"
+    ],
+    "canonicalUrl": "/packages/turks-and-caicos-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Turks and Caicos Package",
+        "url": "/packages/turks-and-caicos-10-day-package"
+      },
+      {
+        "title": "7-Day Turks and Caicos Package",
+        "url": "/packages/turks-and-caicos-7-day-package"
+      },
+      {
+        "title": "Fiji 14-Day Beach Getaway",
+        "url": "/packages/fiji-14-day-package"
+      },
+      {
+        "title": "Mauritius 14-Day Beach Getaway",
+        "url": "/packages/mauritius-14-day-package"
+      },
+      {
+        "title": "Maui 14-Day Beach Getaway",
+        "url": "/packages/maui-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Turks and Caicos — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Turks_and_Caicos"
+      },
+      {
+        "title": "Turks and Caicos — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Turks_and_Caicos"
+      }
+    ]
+  }
+}

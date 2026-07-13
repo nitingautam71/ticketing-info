@@ -1,0 +1,1560 @@
+{
+  "id": "PKG-boracay-7D",
+  "slug": "boracay-7-day-package",
+  "destinationSlug": "boracay",
+  "destinationName": "Boracay",
+  "country": "Philippines",
+  "region": "Southeast Asia",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Boracay 7-Day Beach Getaway",
+  "metaTitle": "Boracay 7-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Boracay, Philippines: round-trip flights, hotel, breakfast, transfers, and guided tours including Island-hopping boat tour (Crystal Cove, Crocodile Island) and Parasailing at White Beach. Prices from $1926 per person (estimate).",
+  "highlights": [
+    "Island-hopping boat tour (Crystal Cove, Crocodile Island)",
+    "Parasailing at White Beach",
+    "White Beach",
+    "Kitesurfing at Bulabog Beach (windy season)",
+    "Private sunset sailboat (paraw) cruise",
+    "Crystal Cove Island"
+  ],
+  "overview": "Spend 7 days discovering Boracay, Philippines — Tropical climate — warm year-round (highs around 30-32°C), with a wetter, occasionally typhoon-affected season June to October. November to April — the dry season, with calm seas and consistent sunshine. This itinerary blends Island-hopping boat tour (Crystal Cove, Crocodile Island), Parasailing at White Beach, White Beach with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Island-hopping boat tour (Crystal Cove, Crocodile Island), Parasailing at White Beach, White Beach",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Boracay",
+      "description": "Land at Godofredo P. Ramos Airport (Caticlan) (MPH) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Island-hopping boat tour (Crystal Cove, Crocodile Island) — Full-day boat trip to snorkeling spots and sea caves around Boracay. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Island-hopping boat tour (Crystal Cove, Crocodile Island)"
+      ],
+      "overnight": "Boracay"
+    },
+    {
+      "day": 2,
+      "title": "Boracay: Parasailing at White Beach & Helmet diving",
+      "description": "Morning visit to Parasailing at White Beach — Aerial views of the island from a towed parasail. In the afternoon, continue to Helmet diving — Walk on the seabed in a diving helmet without needing to swim. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Parasailing at White Beach",
+        "Helmet diving"
+      ],
+      "overnight": "Boracay"
+    },
+    {
+      "day": 3,
+      "title": "Boracay: Mount Luho viewpoint zipline & White Beach",
+      "description": "Morning visit to Mount Luho viewpoint zipline — Zipline ride to the island's highest viewpoint. In the afternoon, continue to White Beach — Boracay's famous 4km stretch of powder-white sand. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Mount Luho viewpoint zipline",
+        "White Beach"
+      ],
+      "overnight": "Boracay"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Crystal Cove Island",
+      "description": "Full-day excursion to Crystal Cove Island, a popular side trip from Boracay. Return to Boracay in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Crystal Cove Island",
+        "Free evening"
+      ],
+      "overnight": "Boracay"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Bulabog Beach kite-surfing side (quieter, different vibe from White Beach) — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Bulabog Beach kite-surfing side (quieter, different vibe from White Beach)"
+      ],
+      "overnight": "Boracay"
+    },
+    {
+      "day": 6,
+      "title": "Boracay: D'Mall shopping and dining strip & Puka Shell Beach",
+      "description": "Morning visit to D'Mall shopping and dining strip — Open-air pedestrian mall at White Beach's center. In the afternoon, continue to Puka Shell Beach — Quieter, shell-strewn beach on the island's north end. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "D'Mall shopping and dining strip",
+        "Puka Shell Beach"
+      ],
+      "overnight": "Boracay"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Island-hopping boat tour (Crystal Cove, Crocodile Island) or some souvenir shopping — before your private transfer to MPH for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book White Beach accommodation on the Station 1 or 2 stretch for the best sand and sunset views.",
+    "Island-hopping tours are cheaper and just as good booked through your resort or a beachfront kiosk rather than online in advance.",
+    "Visit Puka Shell Beach for a quieter alternative to the busier White Beach.",
+    "April-May can be extremely hot and crowded (LaBoracay season) — plan accordingly.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Swimwear and reef-safe sunscreen",
+    "Light, breathable clothing",
+    "Waterproof phone pouch for boat trips",
+    "Sandals suited to sand and boat decks"
+  ],
+  "thingsToDo": [
+    "Island-hopping boat tour (Crystal Cove, Crocodile Island)",
+    "Parasailing at White Beach",
+    "Helmet diving",
+    "Mount Luho viewpoint zipline",
+    "White Beach",
+    "D'Mall shopping and dining strip",
+    "Puka Shell Beach",
+    "Kitesurfing at Bulabog Beach (windy season)",
+    "Parasailing and banana boat rides",
+    "Diving at nearby reef sites",
+    "Island-hopping boat tour",
+    "D'Mall dining and shopping"
+  ],
+  "thingsToAvoid": [
+    "Bringing single-use plastic bags or bottles onto the beach — they're banned.",
+    "Swimming at Bulabog Beach during kitesurfing season without checking conditions.",
+    "Overpaying unlicensed tour touts — book through your resort or a marked booth."
+  ],
+  "topRestaurants": [
+    "Sunny Side Cafe — International breakfast, beachfront ($$)",
+    "Aria Boracay — Italian ($$$)",
+    "True Food — Filipino home cooking ($)",
+    "Cyma Greek Taverna — Greek ($$)"
+  ],
+  "topCafes": [
+    "Real Coffee & Tea Cafe",
+    "Cocomangas"
+  ],
+  "shoppingAreas": [
+    "D'Mall",
+    "D'Talipapa wet market"
+  ],
+  "nightlife": [
+    "Station 2 beach bars and fire dancers",
+    "Epic Boracay club",
+    "Summer Place beachfront lounges"
+  ],
+  "instagramSpots": [
+    "White Beach sunset",
+    "Puka Shell Beach",
+    "Mount Luho viewpoint",
+    "Crystal Cove sea cave"
+  ],
+  "hiddenGems": [
+    "Bulabog Beach kite-surfing side (quieter, different vibe from White Beach)",
+    "Ilig-Iligan Beach",
+    "Mount Luho sunrise hike"
+  ],
+  "familyActivities": [
+    "Island-hopping boat tour",
+    "Helmet diving",
+    "D'Mall dining and shopping"
+  ],
+  "adventureActivities": [
+    "Kitesurfing at Bulabog Beach (windy season)",
+    "Parasailing and banana boat rides",
+    "Diving at nearby reef sites"
+  ],
+  "luxuryExperiences": [
+    "Beachfront villa at a five-star White Beach resort",
+    "Private sunset sailing cruise",
+    "Spa day with an ocean-view treatment room"
+  ],
+  "honeymoonExperiences": [
+    "Private sunset sailboat (paraw) cruise",
+    "Beachfront dinner on White Beach",
+    "Couples spa treatment"
+  ],
+  "budgetExperiences": [
+    "Free White Beach sunset watching",
+    "D'Talipapa market meal (buy seafood, have it cooked nearby)",
+    "Puka Shell Beach visit"
+  ],
+  "estimatedDailyBudgetUSD": [
+    45,
+    90,
+    190,
+    450
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 55,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 30,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 32,
+      "crowd": "Peak"
+    },
+    {
+      "month": "May",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 30,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 30,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 30,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 30,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Ati-Atihan Festival (nearby Kalibo)",
+      "timing": "January"
+    },
+    {
+      "name": "LaBoracay festival week",
+      "timing": "May"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Filipino hospitality is warm — a smile and \"po/opo\" politeness markers are appreciated even from visitors attempting basic phrases.",
+    "Beachwear is fine on White Beach but cover up when leaving the immediate beachfront.",
+    "Environmental fees and rules (island closures, single-use plastic bans) are enforced — respect posted signage."
+  ],
+  "localTransportGuide": "Boracay is compact — walking, tricycles (motorized rickshaws), and e-trikes cover the island easily and cheaply. Getting to the island itself involves a boat from Caticlan or Kalibo jetty port after flying into the nearest airport.",
+  "bestTimeToVisit": "November to April — the dry season, with calm seas and consistent sunshine.",
+  "weather": "Tropical climate — warm year-round (highs around 30-32°C), with a wetter, occasionally typhoon-affected season June to October.",
+  "visaInformation": "The Philippines is visa-free for stays up to 30 days for most nationalities including the US, UK, EU, Canada, Australia, and India.",
+  "currency": "PHP",
+  "languages": [
+    "Filipino",
+    "English"
+  ],
+  "timeZone": "PHT (UTC+8)",
+  "averageFlightTime": "~11.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Boracay?",
+      "answer": "The Philippines is visa-free for stays up to 30 days for most nationalities including the US, UK, EU, Canada, Australia, and India."
+    },
+    {
+      "question": "What is the best time to visit Boracay?",
+      "answer": "November to April — the dry season, with calm seas and consistent sunshine. Tropical climate — warm year-round (highs around 30-32°C), with a wetter, occasionally typhoon-affected season June to October."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Boracay safe for tourists?",
+      "answer": "Boracay is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Boracay?",
+      "answer": "The local currency is PHP. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Boracay is one of our most-booked honeymoon destinations, especially the Private sunset sailboat (paraw) cruise experience."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Honeymoon",
+    "Nightlife",
+    "Adventure",
+    "Romantic"
+  ],
+  "aiTags": [
+    "Boracay",
+    "Philippines",
+    "Boracay, Philippines",
+    "Southeast Asia",
+    "Boracay tour package",
+    "Boracay vacation package",
+    "Boracay holiday package",
+    "things to do in Boracay",
+    "best time to visit Boracay",
+    "Boracay itinerary",
+    "7 day Boracay itinerary",
+    "Boracay flights and hotels",
+    "Boracay all inclusive package",
+    "cheap Boracay package",
+    "luxury Boracay package",
+    "Boracay honeymoon package",
+    "Boracay family vacation",
+    "Boracay solo trip",
+    "Boracay group tour",
+    "Boracay weekend getaway",
+    "Boracay guided tour",
+    "MPH flights",
+    "Boracay travel guide",
+    "book Boracay trip online",
+    "Boracay trip cost",
+    "Boracay packages 7 days",
+    "Boracay beach",
+    "Boracay honeymoon",
+    "Boracay nightlife",
+    "Boracay adventure",
+    "Boracay romantic",
+    "Island-hopping boat tour (Crystal Cove, Crocodile Island)",
+    "Parasailing at White Beach",
+    "Helmet diving",
+    "Mount Luho viewpoint zipline",
+    "White Beach",
+    "D'Mall shopping and dining strip",
+    "Puka Shell Beach",
+    "Sunny Side Cafe",
+    "Aria Boracay",
+    "True Food",
+    "Cyma Greek Taverna",
+    "White Beach sunset",
+    "Mount Luho viewpoint",
+    "Crystal Cove sea cave",
+    "Bulabog Beach kite-surfing side (quieter, different vibe from White Beach)",
+    "Ilig-Iligan Beach",
+    "Mount Luho sunrise hike",
+    "Philippines tourism",
+    "Southeast Asia travel"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Boracay, Philippines — White Beach powder sand sunset",
+      "keywords": [
+        "Boracay",
+        "Philippines",
+        "White Beach powder sand sunset",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Boracay White Beach powder sand sunset",
+      "pexelsQuery": "Boracay White Beach powder sand sunset",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Boracay, Philippines — White Beach powder sand sunset",
+      "keywords": [
+        "Boracay",
+        "Philippines",
+        "White Beach powder sand sunset",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Boracay White Beach powder sand sunset",
+      "pexelsQuery": "Boracay White Beach powder sand sunset",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Boracay, Philippines — Puka Shell Beach",
+      "keywords": [
+        "Boracay",
+        "Philippines",
+        "Puka Shell Beach",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Boracay Puka Shell Beach",
+      "pexelsQuery": "Boracay Puka Shell Beach",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Boracay, Philippines — Boracay island-hopping boat",
+      "keywords": [
+        "Boracay",
+        "Philippines",
+        "Boracay island-hopping boat",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Boracay Boracay island-hopping boat",
+      "pexelsQuery": "Boracay Boracay island-hopping boat",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Boracay, Philippines — White Beach powder sand sunset",
+      "keywords": [
+        "Boracay",
+        "Philippines",
+        "White Beach powder sand sunset",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Boracay White Beach powder sand sunset",
+      "pexelsQuery": "Boracay White Beach powder sand sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boracay, Philippines — Puka Shell Beach",
+      "keywords": [
+        "Boracay",
+        "Philippines",
+        "Puka Shell Beach",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Boracay Puka Shell Beach",
+      "pexelsQuery": "Boracay Puka Shell Beach",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boracay, Philippines — Boracay island-hopping boat",
+      "keywords": [
+        "Boracay",
+        "Philippines",
+        "Boracay island-hopping boat",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Boracay Boracay island-hopping boat",
+      "pexelsQuery": "Boracay Boracay island-hopping boat",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boracay, Philippines — Station 2 fire dancers",
+      "keywords": [
+        "Boracay",
+        "Philippines",
+        "Station 2 fire dancers",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Boracay Station 2 fire dancers",
+      "pexelsQuery": "Boracay Station 2 fire dancers",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boracay, Philippines — Island-hopping boat tour (Crystal Cove, Crocodile Island)",
+      "keywords": [
+        "Boracay",
+        "Philippines",
+        "Island-hopping boat tour (Crystal Cove, Crocodile Island)",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Boracay Island-hopping boat tour (Crystal Cove, Crocodile Island)",
+      "pexelsQuery": "Boracay Island-hopping boat tour (Crystal Cove, Crocodile Island)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boracay, Philippines — Parasailing at White Beach",
+      "keywords": [
+        "Boracay",
+        "Philippines",
+        "Parasailing at White Beach",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Boracay Parasailing at White Beach",
+      "pexelsQuery": "Boracay Parasailing at White Beach",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boracay, Philippines — Helmet diving",
+      "keywords": [
+        "Boracay",
+        "Philippines",
+        "Helmet diving",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Boracay Helmet diving",
+      "pexelsQuery": "Boracay Helmet diving",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Boracay, Philippines — Mount Luho viewpoint zipline",
+      "keywords": [
+        "Boracay",
+        "Philippines",
+        "Mount Luho viewpoint zipline",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Boracay Mount Luho viewpoint zipline",
+      "pexelsQuery": "Boracay Mount Luho viewpoint zipline",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-boracay-7-1",
+      "author": "Mohammed Müller",
+      "country": "United Kingdom",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-02-20",
+      "title": "Best vacation we've had",
+      "body": "Island-hopping boat tour (Crystal Cove, Crocodile Island) alone was worth the trip, but combined with D'Mall shopping and dining strip this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-2",
+      "author": "Anna Smith",
+      "country": "United States",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-07",
+      "title": "So many hidden gems included",
+      "body": "Boracay is stunning and this package covered the essentials well, especially Island-hopping boat tour (Crystal Cove, Crocodile Island). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-3",
+      "author": "Sarah Andersen",
+      "country": "Canada",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-10",
+      "title": "Luxury without the hassle",
+      "body": "Boracay is stunning and this package covered the essentials well, especially Island-hopping boat tour (Crystal Cove, Crocodile Island). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-4",
+      "author": "Mia van Dijk",
+      "country": "France",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-07-17",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Parasailing at White Beach and D'Mall shopping and dining strip. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-boracay-7-5",
+      "author": "Marco Kim",
+      "country": "New Zealand",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-01-12",
+      "title": "Worth every penny",
+      "body": "We added a couple of optional activities beyond White Beach and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-6",
+      "author": "Marco Williams",
+      "country": "Germany",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-07-21",
+      "title": "Best vacation we've had",
+      "body": "We added a couple of optional activities beyond Parasailing at White Beach and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-7",
+      "author": "Fatima Santos",
+      "country": "France",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-01",
+      "title": "Smooth from start to finish",
+      "body": "Parasailing at White Beach alone was worth the trip, but combined with Island-hopping boat tour (Crystal Cove, Crocodile Island) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-8",
+      "author": "Yuki Brown",
+      "country": "Netherlands",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-13",
+      "title": "Amazing itinerary, zero stress",
+      "body": "D'Mall shopping and dining strip alone was worth the trip, but combined with Mount Luho viewpoint zipline this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-9",
+      "author": "Tom Santos",
+      "country": "Australia",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-01-30",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Parasailing at White Beach and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-10",
+      "author": "Daniel Johnson",
+      "country": "South Africa",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4,
+      "date": "2025-11-12",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to White Beach and Island-hopping boat tour (Crystal Cove, Crocodile Island). Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-boracay-7-11",
+      "author": "Priya Costa",
+      "country": "United States",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-17",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a family of 4 trip and it was well paced. Island-hopping boat tour (Crystal Cove, Crocodile Island) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-12",
+      "author": "Liam Johnson",
+      "country": "Australia",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-05-22",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Boracay was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Parasailing at White Beach was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-13",
+      "author": "Lucas Khan",
+      "country": "France",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-16",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Helmet diving and D'Mall shopping and dining strip. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-14",
+      "author": "Mia Johnson",
+      "country": "United Kingdom",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-06-11",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Island-hopping boat tour (Crystal Cove, Crocodile Island) and D'Mall shopping and dining strip. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-15",
+      "author": "Arjun Kim",
+      "country": "United Kingdom",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-07",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a family of 4 trip and it was well paced. Island-hopping boat tour (Crystal Cove, Crocodile Island) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-16",
+      "author": "Yuki Johnson",
+      "country": "France",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-04-13",
+      "title": "Unforgettable trip!",
+      "body": "Parasailing at White Beach alone was worth the trip, but combined with D'Mall shopping and dining strip this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-17",
+      "author": "Liam Larsen",
+      "country": "Brazil",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-04-06",
+      "title": "Five stars, will return",
+      "body": "Our trip to Boracay was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Mount Luho viewpoint zipline was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-18",
+      "author": "Sofia Garcia",
+      "country": "Singapore",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-18",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a couple trip and it was well paced. Helmet diving in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-19",
+      "author": "Liam Garcia",
+      "country": "India",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-07-02",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to Boracay was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Helmet diving was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-boracay-7-20",
+      "author": "Olivia Ibrahim",
+      "country": "Mexico",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-04-11",
+      "title": "Five stars, will return",
+      "body": "Our trip to Boracay was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Puka Shell Beach was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.3,
+    "activities": 4.2,
+    "value": 4.2,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Boracay Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 10,
+      "neighborhood": "D'Mall"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Boracay Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 18,
+      "neighborhood": "D'Talipapa wet market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Boracay Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 31,
+      "neighborhood": "Station 2 beach bars and fire dancers"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Boracay Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 41,
+      "neighborhood": "Epic Boracay club"
+    },
+    {
+      "tier": "Resort",
+      "name": "Boracay Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 95,
+      "neighborhood": "Summer Place beachfront lounges"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Boracay Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 189,
+      "neighborhood": "Real Coffee & Tea Cafe"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Boracay Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 225,
+      "neighborhood": "Cocomangas"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1083,
+        1720
+      ],
+      "estimatedFlightHours": 19.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1049,
+        1666
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        874,
+        1388
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        874,
+        1388
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        841,
+        1335
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        847,
+        1346
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        939,
+        1492
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        849,
+        1349
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        851,
+        1351
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        507,
+        806
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        636,
+        1010
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        436,
+        693
+      ],
+      "estimatedFlightHours": 7.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        306,
+        486
+      ],
+      "estimatedFlightHours": 5.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        286,
+        454
+      ],
+      "estimatedFlightHours": 4.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        244,
+        387
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        245,
+        389
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        252,
+        401
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        266,
+        423
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        99,
+        157
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        197,
+        313
+      ],
+      "estimatedFlightHours": 3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        591,
+        938
+      ],
+      "estimatedFlightHours": 10.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        653,
+        1037
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        617,
+        980
+      ],
+      "estimatedFlightHours": 10.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        641,
+        1018
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        870,
+        1381
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1395,
+        2215
+      ],
+      "estimatedFlightHours": 25.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Godofredo P. Ramos Airport (Caticlan) (MPH)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1111,
+        1764
+      ],
+      "estimatedFlightHours": 20.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Island-hopping boat tour (Crystal Cove, Crocodile Island)",
+    "Parasailing at White Beach",
+    "Helmet diving",
+    "Mount Luho viewpoint zipline",
+    "White Beach",
+    "D'Mall shopping and dining strip",
+    "Puka Shell Beach",
+    "Crystal Cove Island",
+    "Crocodile Island snorkeling",
+    "Panay Island mainland trips",
+    "Bulabog Beach Watersports Park",
+    "Bulabog Beach",
+    "Diniwid Beach",
+    "White Beach sunset",
+    "Mount Luho viewpoint",
+    "Crystal Cove sea cave"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Island-hopping boat tour (Crystal Cove, Crocodile Island)",
+      "priceUSD": 30
+    },
+    {
+      "name": "Parasailing at White Beach",
+      "priceUSD": 45
+    },
+    {
+      "name": "Helmet diving",
+      "priceUSD": 40
+    },
+    {
+      "name": "Mount Luho viewpoint zipline",
+      "priceUSD": 20
+    }
+  ],
+  "attractionsFreeTop20": [
+    "White Beach",
+    "D'Mall shopping and dining strip",
+    "Puka Shell Beach"
+  ],
+  "museums": [],
+  "parks": [
+    "Bulabog Beach Watersports Park"
+  ],
+  "beaches": [
+    "White Beach",
+    "Puka Shell Beach",
+    "Bulabog Beach",
+    "Diniwid Beach"
+  ],
+  "dayTrips": [
+    "Crystal Cove Island",
+    "Crocodile Island snorkeling",
+    "Panay Island mainland trips"
+  ],
+  "fromPriceUSD": 1926,
+  "seo": {
+    "title": "Boracay 7-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "boracay-7-day-package",
+    "keywords": [
+      "Boracay",
+      "Philippines",
+      "Boracay, Philippines",
+      "Southeast Asia",
+      "Boracay tour package",
+      "Boracay vacation package",
+      "Boracay holiday package",
+      "things to do in Boracay",
+      "best time to visit Boracay",
+      "Boracay itinerary",
+      "7 day Boracay itinerary",
+      "Boracay flights and hotels",
+      "Boracay all inclusive package",
+      "cheap Boracay package",
+      "luxury Boracay package"
+    ],
+    "canonicalUrl": "/packages/boracay-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Boracay Package",
+        "url": "/packages/boracay-5-day-package"
+      },
+      {
+        "title": "10-Day Boracay Package",
+        "url": "/packages/boracay-10-day-package"
+      },
+      {
+        "title": "Bali 7-Day Beach Getaway",
+        "url": "/packages/bali-7-day-package"
+      },
+      {
+        "title": "Phuket 7-Day Beach Getaway",
+        "url": "/packages/phuket-7-day-package"
+      },
+      {
+        "title": "Fiji 7-Day Beach Getaway",
+        "url": "/packages/fiji-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Boracay — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Boracay"
+      },
+      {
+        "title": "Boracay — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Boracay"
+      }
+    ]
+  }
+}

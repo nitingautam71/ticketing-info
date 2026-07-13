@@ -1,0 +1,1572 @@
+{
+  "id": "PKG-udaipur-3D",
+  "slug": "udaipur-3-day-package",
+  "destinationSlug": "udaipur",
+  "destinationName": "Udaipur",
+  "country": "India",
+  "region": "Rajasthan",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Udaipur 3-Day Romantic Getaway",
+  "metaTitle": "Udaipur 3-Day Romantic Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Udaipur, India: round-trip flights, hotel, breakfast, transfers, and guided tours including City Palace, Udaipur and Jag Mandir. Prices from $1343 per person (estimate).",
+  "highlights": [
+    "City Palace, Udaipur",
+    "Jag Mandir",
+    "Ghats of Lake Pichola",
+    "Overnight stay at the Taj Lake Palace on Lake Pichola",
+    "Sunset boat ride to Jag Mandir",
+    "Kumbhalgarh Fort"
+  ],
+  "overview": "Spend 3 days discovering Udaipur, India — Milder than the Rajasthan desert cities thanks to its lake-and-hills setting: hot but not extreme summers (highs 36-38°C in May), a good monsoon July-September that fills the lakes, and pleasant winters (highs 25-27°C, cool nights around 8-10°C). September to March, when lake levels are good and highs sit around 24-32°C; avoid May-June heat, though the lakes can look dramatic post-monsoon in September. This itinerary blends City Palace, Udaipur, Jag Mandir, Ghats of Lake Pichola with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including City Palace, Udaipur, Jag Mandir, Ghats of Lake Pichola",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Udaipur",
+      "description": "Land at Maharana Pratap Airport (UDR) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to City Palace, Udaipur — Largest palace complex in Rajasthan overlooking Lake Pichola. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "City Palace, Udaipur"
+      ],
+      "overnight": "Udaipur"
+    },
+    {
+      "day": 2,
+      "title": "Udaipur: Jag Mandir & Lake Pichola boat ride",
+      "description": "Morning visit to Jag Mandir — Island palace reached by boat across Lake Pichola. In the afternoon, continue to Lake Pichola boat ride — Sunset cruise past Jag Niwas and Jag Mandir. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Jag Mandir",
+        "Lake Pichola boat ride"
+      ],
+      "overnight": "Udaipur"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Saheliyon Ki Bari or some souvenir shopping — before your private transfer to UDR for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book a sunset boat ride on Lake Pichola in advance during peak season (Oct-Mar) — slots fill fast.",
+    "Watch the nightly Dharohar folk dance show at Bagore Ki Haveli for an authentic Mewar culture experience.",
+    "Rooftop restaurants around Jagdish Temple offer some of the best value City Palace views.",
+    "Combine Kumbhalgarh Fort and Ranakpur Jain Temples into one full-day trip from Udaipur.",
+    "September, right after monsoon, offers full lakes and dramatic views with far fewer tourists than winter.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Light layers — warm days but cool lake-breeze evenings, especially Nov-Feb",
+    "Modest clothing for temples and the City Palace",
+    "Comfortable shoes for palace courtyards and ghat steps",
+    "A light jacket for winter mornings and Sajjangarh sunset visits"
+  ],
+  "thingsToDo": [
+    "City Palace, Udaipur",
+    "Jag Mandir",
+    "Lake Pichola boat ride",
+    "Saheliyon Ki Bari",
+    "Bagore Ki Haveli",
+    "Sajjangarh (Monsoon Palace)",
+    "Vintage Car Museum",
+    "Jagdish Temple",
+    "Ghats of Lake Pichola",
+    "Hathi Pol Bazaar",
+    "Fateh Sagar Lake promenade",
+    "Clock Tower (Ghanta Ghar)",
+    "Karni Mata Temple ropeway base",
+    "Paragliding over the Aravalli hills near Udaipur",
+    "Trekking to Sajjangarh through the wildlife sanctuary",
+    "Zip-lining and rappelling at nearby adventure parks",
+    "Cycling tours through rural villages around Udaipur",
+    "Fateh Sagar Lake boating and Nehru Garden island",
+    "Karni Mata ropeway ride",
+    "Shilpgram crafts village and puppet shows"
+  ],
+  "thingsToAvoid": [
+    "Miniature-painting shops that push hard-sell \"artist studio\" tours with inflated prices.",
+    "Unlicensed boat operators away from the official Lake Pichola jetty.",
+    "Overpaying for scooter rentals without checking the vehicle for existing damage first.",
+    "Visiting Sajjangarh (Monsoon Palace) in heavy monsoon fog when the view is obscured.",
+    "Wandering isolated ghats alone after dark."
+  ],
+  "topRestaurants": [
+    "Ambrai Restaurant — Rajasthani, lakeside dining ($$$)",
+    "Upre by 1559 AD — Modern Indian, rooftop ($$$)",
+    "Millets of Mewar — Organic Rajasthani ($$)",
+    "Jagat Niwas Palace Rooftop — North Indian ($$)",
+    "Sheesh Mahal (Fateh Prakash Palace) — Royal Rajasthani, fine dining ($$$$)",
+    "Cafe Edelweiss — Bakery & Cafe ($)",
+    "Savage Garden — Continental & Italian ($$)"
+  ],
+  "topCafes": [
+    "Cafe Edelweiss",
+    "Millets of Mewar",
+    "Ambrai Restaurant terrace",
+    "Jheel's Ginger Coffee Bar",
+    "Café Namaste India"
+  ],
+  "shoppingAreas": [
+    "Hathi Pol Bazaar",
+    "Bara Bazaar",
+    "Bapu Bazaar, Udaipur",
+    "Shilpgram crafts village"
+  ],
+  "nightlife": [
+    "Dharohar folk dance show at Bagore Ki Haveli",
+    "Sunset boat cruise on Lake Pichola",
+    "Upre by 1559 AD rooftop bar",
+    "Ambrai Ghat evening gatherings"
+  ],
+  "instagramSpots": [
+    "Lake Pichola with Jag Niwas at sunset",
+    "Bagore Ki Haveli ghat steps",
+    "Sajjangarh Monsoon Palace viewpoint",
+    "City Palace courtyards",
+    "Ambrai Ghat reflections"
+  ],
+  "hiddenGems": [
+    "Shilpgram rural arts village",
+    "Bohra Ganesh Temple",
+    "Sunset Point near Fateh Sagar",
+    "Sajjangarh Wildlife Sanctuary trails"
+  ],
+  "familyActivities": [
+    "Fateh Sagar Lake boating and Nehru Garden island",
+    "Vintage Car Museum",
+    "Karni Mata ropeway ride",
+    "Shilpgram crafts village and puppet shows"
+  ],
+  "adventureActivities": [
+    "Paragliding over the Aravalli hills near Udaipur",
+    "Trekking to Sajjangarh through the wildlife sanctuary",
+    "Zip-lining and rappelling at nearby adventure parks",
+    "Cycling tours through rural villages around Udaipur"
+  ],
+  "luxuryExperiences": [
+    "Overnight stay at the Taj Lake Palace on Lake Pichola",
+    "Private Jag Mandir island dinner",
+    "Royal heritage suite at Fateh Prakash Palace",
+    "Private sunset yacht cruise on Lake Pichola"
+  ],
+  "honeymoonExperiences": [
+    "Sunset boat ride to Jag Mandir",
+    "Candlelight dinner at Ambrai overlooking the City Palace",
+    "Couple's spa at a lakeside heritage hotel",
+    "Private photography session at Sajjangarh at golden hour"
+  ],
+  "budgetExperiences": [
+    "Rooftop cafe views of Lake Pichola without a boat ride",
+    "Free sunset watching from Ambrai Ghat",
+    "Walking tour of Hathi Pol miniature-painting workshops",
+    "Budget lake-view guesthouse rooftop dining"
+  ],
+  "estimatedDailyBudgetUSD": [
+    20,
+    60,
+    140,
+    350
+  ],
+  "safetyRating": 4,
+  "internetRating": 3,
+  "publicTransportRating": 3,
+  "walkingScore": 42,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 33,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 37,
+      "crowd": "Low"
+    },
+    {
+      "month": "May",
+      "highC": 38,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 35,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 28,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 25,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Mewar Festival",
+      "timing": "March-April, coinciding with Gangaur"
+    },
+    {
+      "name": "Shilpgram Utsav",
+      "timing": "Mid-December, rural arts and crafts fair"
+    },
+    {
+      "name": "World Music Festival, Udaipur",
+      "timing": "February"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101"
+  },
+  "localEtiquette": [
+    "Dress modestly at City Palace and temples — cover shoulders and knees.",
+    "Ask before photographing locals, particularly at ghats where daily rituals and washing take place.",
+    "Remove shoes before entering the Jagdish Temple and other shrines.",
+    "Bargain politely in Hathi Pol and Bara Bazaar, but expect fixed prices at government emporiums.",
+    "Lake Pichola and Fateh Sagar are considered sacred by many locals — avoid littering or disruptive behavior on boat tours."
+  ],
+  "localTransportGuide": "Udaipur's old city is compact and walkable around the lakes; auto-rickshaws and Ola/Uber cover longer hops like Sajjangarh or the airport. Renting a scooter is popular for exploring Fateh Sagar and nearby villages independently, though traffic can be chaotic near the Clock Tower area.",
+  "bestTimeToVisit": "September to March, when lake levels are good and highs sit around 24-32°C; avoid May-June heat, though the lakes can look dramatic post-monsoon in September.",
+  "weather": "Milder than the Rajasthan desert cities thanks to its lake-and-hills setting: hot but not extreme summers (highs 36-38°C in May), a good monsoon July-September that fills the lakes, and pleasant winters (highs 25-27°C, cool nights around 8-10°C).",
+  "visaInformation": "Most foreign nationals require an Indian e-Visa arranged online before arrival. Indian citizens travel visa-free, and OCI/PIO cardholders enter visa-free with a linked foreign passport — relevant for the many NRI couples who choose Udaipur for destination weddings.",
+  "currency": "INR",
+  "languages": [
+    "Hindi",
+    "Rajasthani",
+    "Mewari"
+  ],
+  "timeZone": "IST (UTC+5:30)",
+  "averageFlightTime": "~9.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Maharana Pratap Airport (UDR)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Udaipur?",
+      "answer": "Most foreign nationals require an Indian e-Visa arranged online before arrival. Indian citizens travel visa-free, and OCI/PIO cardholders enter visa-free with a linked foreign passport — relevant for the many NRI couples who choose Udaipur for destination weddings."
+    },
+    {
+      "question": "What is the best time to visit Udaipur?",
+      "answer": "September to March, when lake levels are good and highs sit around 24-32°C; avoid May-June heat, though the lakes can look dramatic post-monsoon in September. Milder than the Rajasthan desert cities thanks to its lake-and-hills setting: hot but not extreme summers (highs 36-38°C in May), a good monsoon July-September that fills the lakes, and pleasant winters (highs 25-27°C, cool nights around 8-10°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Udaipur safe for tourists?",
+      "answer": "Udaipur is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Udaipur?",
+      "answer": "The local currency is INR. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Udaipur is one of our most-booked honeymoon destinations, especially the Sunset boat ride to Jag Mandir experience."
+    }
+  ],
+  "categories": [
+    "Romantic",
+    "Honeymoon",
+    "Luxury",
+    "Culture",
+    "History",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Udaipur",
+    "India",
+    "Udaipur, India",
+    "Rajasthan",
+    "Udaipur tour package",
+    "Udaipur vacation package",
+    "Udaipur holiday package",
+    "things to do in Udaipur",
+    "best time to visit Udaipur",
+    "Udaipur itinerary",
+    "3 day Udaipur itinerary",
+    "Udaipur flights and hotels",
+    "Udaipur all inclusive package",
+    "cheap Udaipur package",
+    "luxury Udaipur package",
+    "Udaipur honeymoon package",
+    "Udaipur family vacation",
+    "Udaipur solo trip",
+    "Udaipur group tour",
+    "Udaipur weekend getaway",
+    "Udaipur guided tour",
+    "UDR flights",
+    "Udaipur travel guide",
+    "book Udaipur trip online",
+    "Udaipur trip cost",
+    "Udaipur packages 3 days",
+    "Udaipur romantic",
+    "Udaipur honeymoon",
+    "Udaipur luxury",
+    "Udaipur culture",
+    "Udaipur history",
+    "City Palace, Udaipur",
+    "Jag Mandir",
+    "Lake Pichola boat ride",
+    "Saheliyon Ki Bari",
+    "Bagore Ki Haveli",
+    "Sajjangarh (Monsoon Palace)",
+    "Vintage Car Museum",
+    "Jagdish Temple",
+    "Ghats of Lake Pichola",
+    "Hathi Pol Bazaar",
+    "Fateh Sagar Lake promenade",
+    "Clock Tower (Ghanta Ghar)",
+    "Karni Mata Temple ropeway base",
+    "Ambrai Restaurant",
+    "Upre by 1559 AD",
+    "Millets of Mewar",
+    "Jagat Niwas Palace Rooftop",
+    "Sheesh Mahal (Fateh Prakash Palace)",
+    "Lake Pichola with Jag Niwas at sunset"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Udaipur, India — Lake Pichola sunset",
+      "keywords": [
+        "Udaipur",
+        "India",
+        "Lake Pichola sunset",
+        "Romantic",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Udaipur Lake Pichola sunset",
+      "pexelsQuery": "Udaipur Lake Pichola sunset",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Udaipur, India — Lake Pichola sunset",
+      "keywords": [
+        "Udaipur",
+        "India",
+        "Lake Pichola sunset",
+        "Romantic",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Udaipur Lake Pichola sunset",
+      "pexelsQuery": "Udaipur Lake Pichola sunset",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Udaipur, India — City Palace Udaipur",
+      "keywords": [
+        "Udaipur",
+        "India",
+        "City Palace Udaipur",
+        "Romantic",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Udaipur City Palace Udaipur",
+      "pexelsQuery": "Udaipur City Palace Udaipur",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Udaipur, India — Jag Mandir island",
+      "keywords": [
+        "Udaipur",
+        "India",
+        "Jag Mandir island",
+        "Romantic",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Udaipur Jag Mandir island",
+      "pexelsQuery": "Udaipur Jag Mandir island",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Udaipur, India — Lake Pichola sunset",
+      "keywords": [
+        "Udaipur",
+        "India",
+        "Lake Pichola sunset",
+        "Romantic",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Udaipur Lake Pichola sunset",
+      "pexelsQuery": "Udaipur Lake Pichola sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Udaipur, India — City Palace Udaipur",
+      "keywords": [
+        "Udaipur",
+        "India",
+        "City Palace Udaipur",
+        "Romantic",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Udaipur City Palace Udaipur",
+      "pexelsQuery": "Udaipur City Palace Udaipur",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Udaipur, India — Jag Mandir island",
+      "keywords": [
+        "Udaipur",
+        "India",
+        "Jag Mandir island",
+        "Romantic",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Udaipur Jag Mandir island",
+      "pexelsQuery": "Udaipur Jag Mandir island",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Udaipur, India — Bagore Ki Haveli ghat",
+      "keywords": [
+        "Udaipur",
+        "India",
+        "Bagore Ki Haveli ghat",
+        "Romantic",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Udaipur Bagore Ki Haveli ghat",
+      "pexelsQuery": "Udaipur Bagore Ki Haveli ghat",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Udaipur, India — City Palace, Udaipur",
+      "keywords": [
+        "Udaipur",
+        "India",
+        "City Palace, Udaipur",
+        "Romantic",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Udaipur City Palace, Udaipur",
+      "pexelsQuery": "Udaipur City Palace, Udaipur",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Udaipur, India — Jag Mandir",
+      "keywords": [
+        "Udaipur",
+        "India",
+        "Jag Mandir",
+        "Romantic",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Udaipur Jag Mandir",
+      "pexelsQuery": "Udaipur Jag Mandir",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Udaipur, India — Lake Pichola boat ride",
+      "keywords": [
+        "Udaipur",
+        "India",
+        "Lake Pichola boat ride",
+        "Romantic",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Udaipur Lake Pichola boat ride",
+      "pexelsQuery": "Udaipur Lake Pichola boat ride",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Udaipur, India — Saheliyon Ki Bari",
+      "keywords": [
+        "Udaipur",
+        "India",
+        "Saheliyon Ki Bari",
+        "Romantic",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Udaipur Saheliyon Ki Bari",
+      "pexelsQuery": "Udaipur Saheliyon Ki Bari",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-udaipur-3-1",
+      "author": "Arjun Dubois",
+      "country": "UAE",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-12-31",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a solo trip and it was well paced. Bagore Ki Haveli in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-2",
+      "author": "Chen Ivanov",
+      "country": "United Kingdom",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-08-28",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a couple trip and it was well paced. City Palace, Udaipur in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-3",
+      "author": "Marco Silva",
+      "country": "South Korea",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-03-09",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Vintage Car Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-4",
+      "author": "Isabella Novak",
+      "country": "Australia",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-07",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Lake Pichola boat ride and Clock Tower (Ghanta Ghar). Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-5",
+      "author": "Anna Rossi",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-20",
+      "title": "Consultant made it effortless",
+      "body": "Udaipur is stunning and this package covered the essentials well, especially Vintage Car Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-6",
+      "author": "Mohammed Ibrahim",
+      "country": "Switzerland",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-05-10",
+      "title": "Best vacation we've had",
+      "body": "Hathi Pol Bazaar alone was worth the trip, but combined with Bagore Ki Haveli this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-7",
+      "author": "Arjun Botha",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-12",
+      "title": "Would book again in a heartbeat",
+      "body": "Booked this as a family of 4 trip and it was well paced. Jagdish Temple in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-8",
+      "author": "Mia Tanaka",
+      "country": "Saudi Arabia",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-05",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Fateh Sagar Lake promenade and Bagore Ki Haveli. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-9",
+      "author": "Yuki Botha",
+      "country": "Brazil",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-15",
+      "title": "Highly recommend this package",
+      "body": "Jagdish Temple alone was worth the trip, but combined with Saheliyon Ki Bari this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-10",
+      "author": "Mohammed Garcia",
+      "country": "New Zealand",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-10-27",
+      "title": "Five stars, will return",
+      "body": "Ghats of Lake Pichola alone was worth the trip, but combined with Hathi Pol Bazaar this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-11",
+      "author": "Tom Cohen",
+      "country": "United States",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-01-09",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond City Palace, Udaipur and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-udaipur-3-12",
+      "author": "Ethan Kowalski",
+      "country": "France",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-26",
+      "title": "Smooth from start to finish",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Saheliyon Ki Bari and Karni Mata Temple ropeway base. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-13",
+      "author": "Mohammed Costa",
+      "country": "South Africa",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-06",
+      "title": "Adventure of a lifetime",
+      "body": "Ghats of Lake Pichola alone was worth the trip, but combined with Karni Mata Temple ropeway base this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-14",
+      "author": "Yuki Ivanov",
+      "country": "Switzerland",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-06-07",
+      "title": "A little rushed but still wonderful",
+      "body": "Fateh Sagar Lake promenade alone was worth the trip, but combined with Vintage Car Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-15",
+      "author": "Sofia Sharma",
+      "country": "Saudi Arabia",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-08",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a family of 4 trip and it was well paced. Fateh Sagar Lake promenade in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-16",
+      "author": "Mia Ivanov",
+      "country": "United States",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-01-26",
+      "title": "Highly recommend this package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to City Palace, Udaipur and Lake Pichola boat ride. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-17",
+      "author": "Fatima Fernandez",
+      "country": "United States",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-05-20",
+      "title": "Perfect for our honeymoon",
+      "body": "City Palace, Udaipur alone was worth the trip, but combined with Vintage Car Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-udaipur-3-18",
+      "author": "Emma Smith",
+      "country": "India",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-07-11",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Udaipur was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Bagore Ki Haveli was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-19",
+      "author": "Yuki Wang",
+      "country": "Singapore",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-03",
+      "title": "Best vacation we've had",
+      "body": "Sajjangarh (Monsoon Palace) alone was worth the trip, but combined with Fateh Sagar Lake promenade this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-udaipur-3-20",
+      "author": "Anna Andersen",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-06",
+      "title": "So many hidden gems included",
+      "body": "Udaipur is stunning and this package covered the essentials well, especially Vintage Car Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.2,
+    "value": 4.2,
+    "cleanliness": 4.2,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Udaipur Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 4,
+      "neighborhood": "Hathi Pol Bazaar"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Udaipur Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 8,
+      "neighborhood": "Bara Bazaar"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Udaipur Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 21,
+      "neighborhood": "Bapu Bazaar, Udaipur"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Udaipur Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 27,
+      "neighborhood": "Shilpgram crafts village"
+    },
+    {
+      "tier": "Resort",
+      "name": "Udaipur Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 70,
+      "neighborhood": "Dharohar folk dance show at Bagore Ki Haveli"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Udaipur Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 147,
+      "neighborhood": "Sunset boat cruise on Lake Pichola"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Udaipur Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 175,
+      "neighborhood": "Upre by 1559 AD rooftop bar"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        945,
+        1501
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        939,
+        1492
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        568,
+        902
+      ],
+      "estimatedFlightHours": 9.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        556,
+        883
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        523,
+        830
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        502,
+        797
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        600,
+        953
+      ],
+      "estimatedFlightHours": 10.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        542,
+        861
+      ],
+      "estimatedFlightHours": 9.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        524,
+        832
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        831,
+        1320
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        983,
+        1562
+      ],
+      "estimatedFlightHours": 17.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        117,
+        186
+      ],
+      "estimatedFlightHours": 1.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        535,
+        849
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        452,
+        718
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        376,
+        597
+      ],
+      "estimatedFlightHours": 6.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        298,
+        473
+      ],
+      "estimatedFlightHours": 4.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        354,
+        562
+      ],
+      "estimatedFlightHours": 5.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        435,
+        691
+      ],
+      "estimatedFlightHours": 7.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        441,
+        701
+      ],
+      "estimatedFlightHours": 7.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        350,
+        556
+      ],
+      "estimatedFlightHours": 5.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        211,
+        335
+      ],
+      "estimatedFlightHours": 3.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        274,
+        435
+      ],
+      "estimatedFlightHours": 4.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        238,
+        378
+      ],
+      "estimatedFlightHours": 3.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        264,
+        420
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        617,
+        980
+      ],
+      "estimatedFlightHours": 10.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1089,
+        1729
+      ],
+      "estimatedFlightHours": 19.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Maharana Pratap Airport (UDR)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1165,
+        1850
+      ],
+      "estimatedFlightHours": 21.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "City Palace, Udaipur",
+    "Jag Mandir",
+    "Lake Pichola boat ride",
+    "Saheliyon Ki Bari",
+    "Bagore Ki Haveli",
+    "Sajjangarh (Monsoon Palace)",
+    "Vintage Car Museum",
+    "Jagdish Temple",
+    "Ghats of Lake Pichola",
+    "Hathi Pol Bazaar",
+    "Fateh Sagar Lake promenade",
+    "Clock Tower (Ghanta Ghar)",
+    "Karni Mata Temple ropeway base",
+    "Kumbhalgarh Fort",
+    "Ranakpur Jain Temples",
+    "Chittorgarh Fort",
+    "Eklingji Temple",
+    "City Palace Museum",
+    "Bagore Ki Haveli Museum",
+    "Fateh Sagar Nehru Garden (island park)",
+    "Gulab Bagh",
+    "Lake Pichola with Jag Niwas at sunset",
+    "Bagore Ki Haveli ghat steps",
+    "Sajjangarh Monsoon Palace viewpoint",
+    "City Palace courtyards",
+    "Ambrai Ghat reflections"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "City Palace, Udaipur",
+      "priceUSD": 8
+    },
+    {
+      "name": "Jag Mandir",
+      "priceUSD": 12
+    },
+    {
+      "name": "Lake Pichola boat ride",
+      "priceUSD": 10
+    },
+    {
+      "name": "Saheliyon Ki Bari",
+      "priceUSD": 1
+    },
+    {
+      "name": "Bagore Ki Haveli",
+      "priceUSD": 4
+    },
+    {
+      "name": "Sajjangarh (Monsoon Palace)",
+      "priceUSD": 3
+    },
+    {
+      "name": "Vintage Car Museum",
+      "priceUSD": 5
+    },
+    {
+      "name": "Jagdish Temple",
+      "priceUSD": 0
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Ghats of Lake Pichola",
+    "Hathi Pol Bazaar",
+    "Fateh Sagar Lake promenade",
+    "Clock Tower (Ghanta Ghar)",
+    "Karni Mata Temple ropeway base"
+  ],
+  "museums": [
+    "Vintage Car Museum",
+    "City Palace Museum",
+    "Bagore Ki Haveli Museum"
+  ],
+  "parks": [
+    "Saheliyon Ki Bari",
+    "Fateh Sagar Nehru Garden (island park)",
+    "Gulab Bagh"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Kumbhalgarh Fort",
+    "Ranakpur Jain Temples",
+    "Chittorgarh Fort",
+    "Eklingji Temple"
+  ],
+  "fromPriceUSD": 1343,
+  "seo": {
+    "title": "Udaipur 3-Day Romantic Getaway | Flights, Hotels & Tours Included",
+    "slug": "udaipur-3-day-package",
+    "keywords": [
+      "Udaipur",
+      "India",
+      "Udaipur, India",
+      "Rajasthan",
+      "Udaipur tour package",
+      "Udaipur vacation package",
+      "Udaipur holiday package",
+      "things to do in Udaipur",
+      "best time to visit Udaipur",
+      "Udaipur itinerary",
+      "3 day Udaipur itinerary",
+      "Udaipur flights and hotels",
+      "Udaipur all inclusive package",
+      "cheap Udaipur package",
+      "luxury Udaipur package"
+    ],
+    "canonicalUrl": "/packages/udaipur-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Udaipur Package",
+        "url": "/packages/udaipur-2-day-package"
+      },
+      {
+        "title": "5-Day Udaipur Package",
+        "url": "/packages/udaipur-5-day-package"
+      },
+      {
+        "title": "Paris 3-Day City Break",
+        "url": "/packages/paris-3-day-package"
+      },
+      {
+        "title": "Venice 3-Day Romantic Getaway",
+        "url": "/packages/venice-3-day-package"
+      },
+      {
+        "title": "Agra 3-Day Heritage Tour",
+        "url": "/packages/agra-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Udaipur — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Udaipur"
+      },
+      {
+        "title": "Udaipur — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Udaipur"
+      }
+    ]
+  }
+}

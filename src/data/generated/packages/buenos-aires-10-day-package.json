@@ -1,0 +1,1698 @@
+{
+  "id": "PKG-buenos-aires-10D",
+  "slug": "buenos-aires-10-day-package",
+  "destinationSlug": "buenos-aires",
+  "destinationName": "Buenos Aires",
+  "country": "Argentina",
+  "region": "Buenos Aires Province",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Buenos Aires 10-Day City Break",
+  "metaTitle": "Buenos Aires 10-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Buenos Aires, Argentina: round-trip flights, hotel, breakfast, transfers, and guided tours including Teatro Colón guided tour and MALBA (Museo de Arte Latinoamericano de Buenos Aires). Prices from $878 per person (estimate).",
+  "highlights": [
+    "Teatro Colón guided tour",
+    "MALBA (Museo de Arte Latinoamericano de Buenos Aires)",
+    "Plaza de Mayo",
+    "Tigre Delta"
+  ],
+  "overview": "Spend 10 days discovering Buenos Aires, Argentina — Humid subtropical climate with a reversed Southern Hemisphere calendar — hot, humid summers (highs 28-30°C, Dec-Feb) and cool, damp winters (highs around 14-15°C, Jun-Aug). March to May (fall) and September to November (spring) bring mild, comfortable weather; December-February is the Southern Hemisphere summer, warm and lively but with some businesses closing for local holidays. This itinerary blends Teatro Colón guided tour, MALBA (Museo de Arte Latinoamericano de Buenos Aires), Plaza de Mayo with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Teatro Colón guided tour, MALBA (Museo de Arte Latinoamericano de Buenos Aires), Plaza de Mayo",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Buenos Aires",
+      "description": "Land at Ministro Pistarini International Airport (Ezeiza) (EZE) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Teatro Colón guided tour — One of the world's great opera houses, exceptional acoustics. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Teatro Colón guided tour"
+      ],
+      "overnight": "Buenos Aires"
+    },
+    {
+      "day": 2,
+      "title": "Buenos Aires: MALBA (Museo de Arte Latinoamericano de Buenos Aires) & Tango show with dinner (San Telmo/La Ventana)",
+      "description": "Morning visit to MALBA (Museo de Arte Latinoamericano de Buenos Aires) — Leading Latin American modern art museum. In the afternoon, continue to Tango show with dinner (San Telmo/La Ventana) — Classic tango dinner-show experience. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "MALBA (Museo de Arte Latinoamericano de Buenos Aires)",
+        "Tango show with dinner (San Telmo/La Ventana)"
+      ],
+      "overnight": "Buenos Aires"
+    },
+    {
+      "day": 3,
+      "title": "Buenos Aires: Recoleta Cemetery guided tour & Caminito open-air museum (La Boca)",
+      "description": "Morning visit to Recoleta Cemetery guided tour — Elaborate mausoleum cemetery, resting place of Eva Perón. In the afternoon, continue to Caminito open-air museum (La Boca) — Colorful street museum in the historic dockside barrio. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Recoleta Cemetery guided tour",
+        "Caminito open-air museum (La Boca)"
+      ],
+      "overnight": "Buenos Aires"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Tigre Delta",
+      "description": "Full-day excursion to Tigre Delta, a popular side trip from Buenos Aires. Return to Buenos Aires in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Tigre Delta",
+        "Free evening"
+      ],
+      "overnight": "Buenos Aires"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Feria de Mataderos gaucho folk fair — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Feria de Mataderos gaucho folk fair"
+      ],
+      "overnight": "Buenos Aires"
+    },
+    {
+      "day": 6,
+      "title": "Buenos Aires: Palacio Barolo tower tour & El Ateneo Grand Splendid bookstore tour",
+      "description": "Morning visit to Palacio Barolo tower tour — Dante-inspired early skyscraper with a rooftop city view. In the afternoon, continue to El Ateneo Grand Splendid bookstore tour — Former theater converted into a stunning bookstore. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Palacio Barolo tower tour",
+        "El Ateneo Grand Splendid bookstore tour"
+      ],
+      "overnight": "Buenos Aires"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Colonia del Sacramento, Uruguay (via ferry)",
+      "description": "Full-day excursion to Colonia del Sacramento, Uruguay (via ferry), a popular side trip from Buenos Aires. Return to Buenos Aires in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Colonia del Sacramento, Uruguay (via ferry)",
+        "Free evening"
+      ],
+      "overnight": "Buenos Aires"
+    },
+    {
+      "day": 8,
+      "title": "Buenos Aires: Puerto Madero river dinner cruise & Estancia day trip with asado and horseback riding",
+      "description": "Morning visit to Puerto Madero river dinner cruise — Evening cruise along the Río de la Plata waterfront district. In the afternoon, continue to Estancia day trip with asado and horseback riding — Traditional gaucho ranch day tour from the city. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Puerto Madero river dinner cruise",
+        "Estancia day trip with asado and horseback riding"
+      ],
+      "overnight": "Buenos Aires"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Almacén Secreto speakeasy bar — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Almacén Secreto speakeasy bar"
+      ],
+      "overnight": "Buenos Aires"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Museo Evita or some souvenir shopping — before your private transfer to EZE for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Research the current informal (\"blue dollar\") exchange rate before your trip — bringing USD or EUR cash to exchange often yields far better rates than a bank withdrawal.",
+    "Dinner reservations before 9pm may find restaurants still setting up — locals eat late.",
+    "Book a Don Julio or La Cabrera table well in advance, or arrive right at opening to avoid a long wait.",
+    "A tango show plus dinner is touristy but worthwhile once — for a more local scene, seek out a milonga.",
+    "The Tienda León airport shuttle is a reliable, safer alternative to street-hailed taxis from Ezeiza.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Layers — the city can swing from warm afternoons to cool evenings even outside winter",
+    "A nicer outfit for dinner, as Buenos Aires dining and nightlife lean smart-casual",
+    "A crossbody bag with secure closures for busy pedestrian areas",
+    "Cash in small denominations given the fluctuating exchange-rate environment"
+  ],
+  "thingsToDo": [
+    "Teatro Colón guided tour",
+    "MALBA (Museo de Arte Latinoamericano de Buenos Aires)",
+    "Tango show with dinner (San Telmo/La Ventana)",
+    "Recoleta Cemetery guided tour",
+    "Caminito open-air museum (La Boca)",
+    "Palacio Barolo tower tour",
+    "El Ateneo Grand Splendid bookstore tour",
+    "Puerto Madero river dinner cruise",
+    "Estancia day trip with asado and horseback riding",
+    "Museo Evita",
+    "Fútbol match at La Bombonera or El Monumental",
+    "Plaza de Mayo",
+    "Recoleta Cemetery grounds",
+    "Caminito street art (exterior)",
+    "San Telmo Sunday Market",
+    "Puerto Madero waterfront",
+    "Palermo Soho and Palermo Hollywood",
+    "Bosques de Palermo (Palermo Woods)",
+    "Avenida 9 de Julio and the Obelisco",
+    "El Ateneo Grand Splendid interior browsing"
+  ],
+  "thingsToAvoid": [
+    "Exchanging money at official bank rates when informal exchange options offer significantly better value.",
+    "Hailing unmarked taxis on the street, especially from the airport — use a radio taxi, app, or the Tienda León shuttle.",
+    "Walking around La Boca outside the touristy Caminito core, which can be unsafe.",
+    "Carrying excess cash or flashing phones/cameras openly in crowded areas like Florida Street or the Subte.",
+    "Assuming credit cards get a good exchange rate — cash often works out considerably cheaper given currency volatility."
+  ],
+  "topRestaurants": [
+    "Don Julio — Argentine Steakhouse (Parrilla) ($$$$)",
+    "La Cabrera — Argentine Steakhouse ($$$)",
+    "El Preferido de Palermo — Traditional Argentine Bodegón ($$)",
+    "Chori (choripán stand) — Argentine Street Food ($)",
+    "Aramburu — Contemporary Tasting Menu ($$$$)",
+    "Pizzería Güerrín — Argentine-Italian Pizza ($)",
+    "Proper Restaurant — Modern Argentine ($$$)",
+    "La Brigada — Traditional Parrilla, San Telmo ($$$)",
+    "Almacén Secreto — Hidden-bar Tapas ($$)"
+  ],
+  "topCafes": [
+    "Café Tortoni",
+    "Las Violetas",
+    "LAB Training Center Coffee",
+    "Full City Coffee House",
+    "Café de García",
+    "La Poesía"
+  ],
+  "shoppingAreas": [
+    "San Telmo Sunday Antique Market",
+    "Palermo Soho boutiques",
+    "Florida Street pedestrian shopping",
+    "Recoleta Village shopping mall",
+    "Feria de Mataderos crafts"
+  ],
+  "nightlife": [
+    "Palermo Hollywood bars",
+    "Milonga tango dance halls (Salón Canning)",
+    "Niceto Club",
+    "Kika Nightclub",
+    "Rooftop bars in Puerto Madero"
+  ],
+  "instagramSpots": [
+    "Caminito colorful houses in La Boca",
+    "El Ateneo Grand Splendid bookstore interior",
+    "Recoleta Cemetery mausoleums",
+    "Puente de la Mujer in Puerto Madero",
+    "Palacio Barolo rooftop view"
+  ],
+  "hiddenGems": [
+    "Feria de Mataderos gaucho folk fair",
+    "Almacén Secreto speakeasy bar",
+    "Chacarita Cemetery (less touristy than Recoleta)",
+    "Villa Crespo emerging boutiques",
+    "Galería Bond Street punk/vintage arcade"
+  ],
+  "familyActivities": [
+    "Palermo Woods paddle boats and rose garden",
+    "Buenos Aires Zoo/EcoParque",
+    "Museo Participativo de Ciencias (hands-on science)",
+    "Puerto Madero waterfront walk",
+    "Tren de la Costa day trip"
+  ],
+  "adventureActivities": [
+    "Estancia horseback riding day trip",
+    "Cycling the Puerto Madero and Costanera Sur paths",
+    "Kayaking the Tigre Delta (day trip)",
+    "Football stadium tour and live match"
+  ],
+  "luxuryExperiences": [
+    "Private tango lesson and dinner show",
+    "Fine dining tasting menu at Aramburu",
+    "Suite stay at the Alvear Palace Hotel",
+    "Private estancia asado experience with a personal gaucho guide"
+  ],
+  "honeymoonExperiences": [
+    "Private tango lesson followed by a milonga night out",
+    "Sunset dinner cruise on the Río de la Plata",
+    "Wine dinner featuring Mendoza Malbec",
+    "Romantic walk through Recoleta and Palermo at dusk"
+  ],
+  "budgetExperiences": [
+    "Free wander through Caminito and La Boca",
+    "Choripán from a street stand for a couple of dollars",
+    "Browse the San Telmo Sunday Market",
+    "Free entry to Recoleta Cemetery and El Ateneo bookstore"
+  ],
+  "estimatedDailyBudgetUSD": [
+    40,
+    100,
+    220,
+    450
+  ],
+  "safetyRating": 3,
+  "internetRating": 4,
+  "publicTransportRating": 4,
+  "walkingScore": 80,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "Feb",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 26,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 22,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 18,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 15,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 21,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 25,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 28,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Buenos Aires Tango Festival and World Cup",
+      "timing": "Mid-to-late August"
+    },
+    {
+      "name": "Feria de Mataderos (year-round folk fair)",
+      "timing": "Weekends year-round"
+    },
+    {
+      "name": "Buenos Aires Jazz Festival",
+      "timing": "November"
+    },
+    {
+      "name": "Vendimia (grape harvest season, celebrated nationally)",
+      "timing": "March-April"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "107",
+    "fire": "100"
+  },
+  "localEtiquette": [
+    "Greeting with a single cheek kiss is standard, even between new acquaintances of any gender.",
+    "Dinner runs late — many locals don't sit down to eat before 9-10pm, and nightlife often starts after midnight.",
+    "Tipping 10% is customary but not always automatically added — check the bill for \"cubierto\" (cover charge), which is separate.",
+    "Mate (a shared herbal tea) is a deeply social ritual — if offered, it's polite to accept and pass it back properly.",
+    "Argentina has a complex, fast-moving currency situation — asking about \"blue dollar\" exchange rates is common practice among travelers, not taboo."
+  ],
+  "localTransportGuide": "The Subte (subway) is fast and cheap for crossing the city center, complemented by an extensive bus network — load a SUBE card for both. Ezeiza Airport is roughly 40-60 minutes from downtown by taxi/remis or the Tienda León shuttle bus, which is a safer, more predictable option than hailing a street taxi on arrival.",
+  "bestTimeToVisit": "March to May (fall) and September to November (spring) bring mild, comfortable weather; December-February is the Southern Hemisphere summer, warm and lively but with some businesses closing for local holidays.",
+  "weather": "Humid subtropical climate with a reversed Southern Hemisphere calendar — hot, humid summers (highs 28-30°C, Dec-Feb) and cool, damp winters (highs around 14-15°C, Jun-Aug).",
+  "visaInformation": "Visa-free entry for most Western passport holders (US, UK, EU, Canada, Australia) for tourist stays up to 90 days. Indian nationals typically need an Argentine visa arranged in advance, though eligibility for an easier e-visa pathway should be checked before booking, as rules have shifted in recent years.",
+  "currency": "ARS",
+  "languages": [
+    "Spanish"
+  ],
+  "timeZone": "ART (UTC-3)",
+  "averageFlightTime": "~13.9h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Buenos Aires?",
+      "answer": "Visa-free entry for most Western passport holders (US, UK, EU, Canada, Australia) for tourist stays up to 90 days. Indian nationals typically need an Argentine visa arranged in advance, though eligibility for an easier e-visa pathway should be checked before booking, as rules have shifted in recent years."
+    },
+    {
+      "question": "What is the best time to visit Buenos Aires?",
+      "answer": "March to May (fall) and September to November (spring) bring mild, comfortable weather; December-February is the Southern Hemisphere summer, warm and lively but with some businesses closing for local holidays. Humid subtropical climate with a reversed Southern Hemisphere calendar — hot, humid summers (highs 28-30°C, Dec-Feb) and cool, damp winters (highs around 14-15°C, Jun-Aug)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Buenos Aires safe for tourists?",
+      "answer": "Buenos Aires is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Buenos Aires?",
+      "answer": "The local currency is ARS. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Food",
+    "Nightlife",
+    "Romantic",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Buenos Aires",
+    "Argentina",
+    "Buenos Aires, Argentina",
+    "Buenos Aires Province",
+    "Buenos Aires tour package",
+    "Buenos Aires vacation package",
+    "Buenos Aires holiday package",
+    "things to do in Buenos Aires",
+    "best time to visit Buenos Aires",
+    "Buenos Aires itinerary",
+    "10 day Buenos Aires itinerary",
+    "Buenos Aires flights and hotels",
+    "Buenos Aires all inclusive package",
+    "cheap Buenos Aires package",
+    "luxury Buenos Aires package",
+    "Buenos Aires honeymoon package",
+    "Buenos Aires family vacation",
+    "Buenos Aires solo trip",
+    "Buenos Aires group tour",
+    "Buenos Aires weekend getaway",
+    "Buenos Aires guided tour",
+    "EZE flights",
+    "Buenos Aires travel guide",
+    "book Buenos Aires trip online",
+    "Buenos Aires trip cost",
+    "Buenos Aires packages 10 days",
+    "Buenos Aires city break",
+    "Buenos Aires culture",
+    "Buenos Aires food",
+    "Buenos Aires nightlife",
+    "Buenos Aires romantic",
+    "Buenos Aires bucket list",
+    "Teatro Colón guided tour",
+    "MALBA (Museo de Arte Latinoamericano de Buenos Aires)",
+    "Tango show with dinner (San Telmo/La Ventana)",
+    "Recoleta Cemetery guided tour",
+    "Caminito open-air museum (La Boca)",
+    "Palacio Barolo tower tour",
+    "El Ateneo Grand Splendid bookstore tour",
+    "Puerto Madero river dinner cruise",
+    "Estancia day trip with asado and horseback riding",
+    "Museo Evita",
+    "Fútbol match at La Bombonera or El Monumental",
+    "Plaza de Mayo",
+    "Recoleta Cemetery grounds",
+    "Caminito street art (exterior)",
+    "San Telmo Sunday Market",
+    "Puerto Madero waterfront",
+    "Palermo Soho and Palermo Hollywood",
+    "Bosques de Palermo (Palermo Woods)"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Buenos Aires, Argentina — tango dancers La Boca Caminito",
+      "keywords": [
+        "Buenos Aires",
+        "Argentina",
+        "tango dancers La Boca Caminito",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Buenos Aires tango dancers La Boca Caminito",
+      "pexelsQuery": "Buenos Aires tango dancers La Boca Caminito",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Buenos Aires, Argentina — tango dancers La Boca Caminito",
+      "keywords": [
+        "Buenos Aires",
+        "Argentina",
+        "tango dancers La Boca Caminito",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Buenos Aires tango dancers La Boca Caminito",
+      "pexelsQuery": "Buenos Aires tango dancers La Boca Caminito",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Buenos Aires, Argentina — Recoleta Cemetery mausoleums",
+      "keywords": [
+        "Buenos Aires",
+        "Argentina",
+        "Recoleta Cemetery mausoleums",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Buenos Aires Recoleta Cemetery mausoleums",
+      "pexelsQuery": "Buenos Aires Recoleta Cemetery mausoleums",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Buenos Aires, Argentina — El Ateneo Grand Splendid bookstore",
+      "keywords": [
+        "Buenos Aires",
+        "Argentina",
+        "El Ateneo Grand Splendid bookstore",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Buenos Aires El Ateneo Grand Splendid bookstore",
+      "pexelsQuery": "Buenos Aires El Ateneo Grand Splendid bookstore",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Buenos Aires, Argentina — tango dancers La Boca Caminito",
+      "keywords": [
+        "Buenos Aires",
+        "Argentina",
+        "tango dancers La Boca Caminito",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Buenos Aires tango dancers La Boca Caminito",
+      "pexelsQuery": "Buenos Aires tango dancers La Boca Caminito",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Buenos Aires, Argentina — Recoleta Cemetery mausoleums",
+      "keywords": [
+        "Buenos Aires",
+        "Argentina",
+        "Recoleta Cemetery mausoleums",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Buenos Aires Recoleta Cemetery mausoleums",
+      "pexelsQuery": "Buenos Aires Recoleta Cemetery mausoleums",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Buenos Aires, Argentina — El Ateneo Grand Splendid bookstore",
+      "keywords": [
+        "Buenos Aires",
+        "Argentina",
+        "El Ateneo Grand Splendid bookstore",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Buenos Aires El Ateneo Grand Splendid bookstore",
+      "pexelsQuery": "Buenos Aires El Ateneo Grand Splendid bookstore",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Buenos Aires, Argentina — Obelisco Buenos Aires skyline",
+      "keywords": [
+        "Buenos Aires",
+        "Argentina",
+        "Obelisco Buenos Aires skyline",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Buenos Aires Obelisco Buenos Aires skyline",
+      "pexelsQuery": "Buenos Aires Obelisco Buenos Aires skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Buenos Aires, Argentina — Teatro Colón guided tour",
+      "keywords": [
+        "Buenos Aires",
+        "Argentina",
+        "Teatro Colón guided tour",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Buenos Aires Teatro Colón guided tour",
+      "pexelsQuery": "Buenos Aires Teatro Colón guided tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Buenos Aires, Argentina — MALBA (Museo de Arte Latinoamericano de Buenos Aires)",
+      "keywords": [
+        "Buenos Aires",
+        "Argentina",
+        "MALBA (Museo de Arte Latinoamericano de Buenos Aires)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Buenos Aires MALBA (Museo de Arte Latinoamericano de Buenos Aires)",
+      "pexelsQuery": "Buenos Aires MALBA (Museo de Arte Latinoamericano de Buenos Aires)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Buenos Aires, Argentina — Tango show with dinner (San Telmo/La Ventana)",
+      "keywords": [
+        "Buenos Aires",
+        "Argentina",
+        "Tango show with dinner (San Telmo/La Ventana)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Buenos Aires Tango show with dinner (San Telmo/La Ventana)",
+      "pexelsQuery": "Buenos Aires Tango show with dinner (San Telmo/La Ventana)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Buenos Aires, Argentina — Recoleta Cemetery guided tour",
+      "keywords": [
+        "Buenos Aires",
+        "Argentina",
+        "Recoleta Cemetery guided tour",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Buenos Aires Recoleta Cemetery guided tour",
+      "pexelsQuery": "Buenos Aires Recoleta Cemetery guided tour",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-buenos-aires-10-1",
+      "author": "Mohammed Silva",
+      "country": "Italy",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-10",
+      "title": "Smooth from start to finish",
+      "body": "Avenida 9 de Julio and the Obelisco alone was worth the trip, but combined with El Ateneo Grand Splendid interior browsing this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-2",
+      "author": "Tom Johnson",
+      "country": "Netherlands",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-07-13",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond San Telmo Sunday Market and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-buenos-aires-10-3",
+      "author": "Arjun van Dijk",
+      "country": "Switzerland",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-15",
+      "title": "Great for families with kids",
+      "body": "Booked this as a family of 4 trip and it was well paced. Puerto Madero waterfront in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-4",
+      "author": "James Larsen",
+      "country": "France",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-10-07",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Buenos Aires was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Palacio Barolo tower tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-5",
+      "author": "Mia Ibrahim",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-12-04",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Caminito open-air museum (La Boca) and Avenida 9 de Julio and the Obelisco. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-6",
+      "author": "David Müller",
+      "country": "Singapore",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-25",
+      "title": "Adventure of a lifetime",
+      "body": "Buenos Aires is stunning and this package covered the essentials well, especially Estancia day trip with asado and horseback riding. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-7",
+      "author": "Fatima Andersen",
+      "country": "Switzerland",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-08-29",
+      "title": "So many hidden gems included",
+      "body": "Puerto Madero waterfront alone was worth the trip, but combined with Palermo Soho and Palermo Hollywood this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-8",
+      "author": "Ethan Cohen",
+      "country": "Australia",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-09-25",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Recoleta Cemetery guided tour and Estancia day trip with asado and horseback riding. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-9",
+      "author": "Arjun Müller",
+      "country": "India",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-07",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a solo trip and it was well paced. El Ateneo Grand Splendid bookstore tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-10",
+      "author": "Anna Williams",
+      "country": "Australia",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-05-19",
+      "title": "Solid mid-range package",
+      "body": "Buenos Aires is stunning and this package covered the essentials well, especially Recoleta Cemetery guided tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-buenos-aires-10-11",
+      "author": "Ava Johnson",
+      "country": "South Korea",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-09-19",
+      "title": "Would book again in a heartbeat",
+      "body": "Museo Evita alone was worth the trip, but combined with Recoleta Cemetery grounds this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-12",
+      "author": "Omar Rossi",
+      "country": "Australia",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-13",
+      "title": "Best vacation we've had",
+      "body": "We added a couple of optional activities beyond Recoleta Cemetery guided tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-13",
+      "author": "Daniel Novak",
+      "country": "South Korea",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-25",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Museo Evita and El Ateneo Grand Splendid bookstore tour. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-14",
+      "author": "Isabella Khan",
+      "country": "South Africa",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-28",
+      "title": "A little rushed but still wonderful",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Recoleta Cemetery grounds and Teatro Colón guided tour. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-15",
+      "author": "Ethan Johnson",
+      "country": "Brazil",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-06-23",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Plaza de Mayo and Fútbol match at La Bombonera or El Monumental. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-16",
+      "author": "Elena Larsen",
+      "country": "Australia",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-06-02",
+      "title": "Unforgettable trip!",
+      "body": "We added a couple of optional activities beyond Recoleta Cemetery guided tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-17",
+      "author": "Fatima Patel",
+      "country": "Spain",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-29",
+      "title": "Five stars, will return",
+      "body": "El Ateneo Grand Splendid interior browsing alone was worth the trip, but combined with Palacio Barolo tower tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-18",
+      "author": "Yuki Williams",
+      "country": "Australia",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-18",
+      "title": "Five stars, will return",
+      "body": "Recoleta Cemetery guided tour alone was worth the trip, but combined with Avenida 9 de Julio and the Obelisco this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-19",
+      "author": "Olivia Garcia",
+      "country": "New Zealand",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-14",
+      "title": "Worth every penny",
+      "body": "Our trip to Buenos Aires was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Caminito street art (exterior) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-buenos-aires-10-20",
+      "author": "James Botha",
+      "country": "Mexico",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-30",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Buenos Aires was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Bosques de Palermo (Palermo Woods) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.2,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.2,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Buenos Aires Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 9,
+      "neighborhood": "San Telmo Sunday Antique Market"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Buenos Aires Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 16,
+      "neighborhood": "Palermo Soho boutiques"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Buenos Aires Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 35,
+      "neighborhood": "Florida Street pedestrian shopping"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Buenos Aires Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 45,
+      "neighborhood": "Recoleta Village shopping mall"
+    },
+    {
+      "tier": "Resort",
+      "name": "Buenos Aires Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 110,
+      "neighborhood": "Feria de Mataderos crafts"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Buenos Aires Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 189,
+      "neighborhood": "Palermo Hollywood bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Buenos Aires Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 225,
+      "neighborhood": "Milonga tango dance halls (Salón Canning)"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        187,
+        297
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        225,
+        358
+      ],
+      "estimatedFlightHours": 3.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        434,
+        689
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        447,
+        710
+      ],
+      "estimatedFlightHours": 7.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        479,
+        761
+      ],
+      "estimatedFlightHours": 8.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        515,
+        818
+      ],
+      "estimatedFlightHours": 9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        422,
+        671
+      ],
+      "estimatedFlightHours": 7.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        458,
+        728
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        482,
+        765
+      ],
+      "estimatedFlightHours": 8.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1327,
+        2107
+      ],
+      "estimatedFlightHours": 24.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1180,
+        1874
+      ],
+      "estimatedFlightHours": 21.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        913,
+        1450
+      ],
+      "estimatedFlightHours": 16.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        942,
+        1496
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        942,
+        1496
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1204,
+        1913
+      ],
+      "estimatedFlightHours": 21.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1102,
+        1750
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1184,
+        1881
+      ],
+      "estimatedFlightHours": 21.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1270,
+        2017
+      ],
+      "estimatedFlightHours": 23.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1127,
+        1790
+      ],
+      "estimatedFlightHours": 20.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1140,
+        1810
+      ],
+      "estimatedFlightHours": 20.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        825,
+        1311
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        779,
+        1238
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        805,
+        1278
+      ],
+      "estimatedFlightHours": 14.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        764,
+        1214
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        894,
+        1420
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        553,
+        878
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Ministro Pistarini International Airport (Ezeiza) (EZE)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        390,
+        620
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Teatro Colón guided tour",
+    "MALBA (Museo de Arte Latinoamericano de Buenos Aires)",
+    "Tango show with dinner (San Telmo/La Ventana)",
+    "Recoleta Cemetery guided tour",
+    "Caminito open-air museum (La Boca)",
+    "Palacio Barolo tower tour",
+    "El Ateneo Grand Splendid bookstore tour",
+    "Puerto Madero river dinner cruise",
+    "Estancia day trip with asado and horseback riding",
+    "Museo Evita",
+    "Fútbol match at La Bombonera or El Monumental",
+    "Plaza de Mayo",
+    "Recoleta Cemetery grounds",
+    "Caminito street art (exterior)",
+    "San Telmo Sunday Market",
+    "Puerto Madero waterfront",
+    "Palermo Soho and Palermo Hollywood",
+    "Bosques de Palermo (Palermo Woods)",
+    "Avenida 9 de Julio and the Obelisco",
+    "El Ateneo Grand Splendid interior browsing",
+    "Tigre Delta",
+    "Colonia del Sacramento, Uruguay (via ferry)",
+    "San Antonio de Areco (gaucho town)",
+    "Estancia countryside day tour",
+    "MALBA",
+    "Museo Nacional de Bellas Artes",
+    "Museo Histórico Nacional",
+    "Bosques de Palermo",
+    "Reserva Ecológica Costanera Sur",
+    "Parque Tres de Febrero",
+    "Jardín Botánico Carlos Thays",
+    "Caminito colorful houses in La Boca",
+    "El Ateneo Grand Splendid bookstore interior",
+    "Recoleta Cemetery mausoleums",
+    "Puente de la Mujer in Puerto Madero",
+    "Palacio Barolo rooftop view"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Teatro Colón guided tour",
+      "priceUSD": 20
+    },
+    {
+      "name": "MALBA (Museo de Arte Latinoamericano de Buenos Aires)",
+      "priceUSD": 12
+    },
+    {
+      "name": "Tango show with dinner (San Telmo/La Ventana)",
+      "priceUSD": 90
+    },
+    {
+      "name": "Recoleta Cemetery guided tour",
+      "priceUSD": 15
+    },
+    {
+      "name": "Caminito open-air museum (La Boca)",
+      "priceUSD": 5
+    },
+    {
+      "name": "Palacio Barolo tower tour",
+      "priceUSD": 20
+    },
+    {
+      "name": "El Ateneo Grand Splendid bookstore tour",
+      "priceUSD": 0
+    },
+    {
+      "name": "Puerto Madero river dinner cruise",
+      "priceUSD": 60
+    },
+    {
+      "name": "Estancia day trip with asado and horseback riding",
+      "priceUSD": 130
+    },
+    {
+      "name": "Museo Evita",
+      "priceUSD": 8
+    },
+    {
+      "name": "Fútbol match at La Bombonera or El Monumental",
+      "priceUSD": 80
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Plaza de Mayo",
+    "Recoleta Cemetery grounds",
+    "Caminito street art (exterior)",
+    "San Telmo Sunday Market",
+    "Puerto Madero waterfront",
+    "Palermo Soho and Palermo Hollywood",
+    "Bosques de Palermo (Palermo Woods)",
+    "Avenida 9 de Julio and the Obelisco",
+    "El Ateneo Grand Splendid interior browsing"
+  ],
+  "museums": [
+    "MALBA",
+    "Museo Evita",
+    "Museo Nacional de Bellas Artes",
+    "Museo Histórico Nacional"
+  ],
+  "parks": [
+    "Bosques de Palermo",
+    "Reserva Ecológica Costanera Sur",
+    "Parque Tres de Febrero",
+    "Jardín Botánico Carlos Thays"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Tigre Delta",
+    "Colonia del Sacramento, Uruguay (via ferry)",
+    "San Antonio de Areco (gaucho town)",
+    "Estancia countryside day tour"
+  ],
+  "fromPriceUSD": 878,
+  "seo": {
+    "title": "Buenos Aires 10-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "buenos-aires-10-day-package",
+    "keywords": [
+      "Buenos Aires",
+      "Argentina",
+      "Buenos Aires, Argentina",
+      "Buenos Aires Province",
+      "Buenos Aires tour package",
+      "Buenos Aires vacation package",
+      "Buenos Aires holiday package",
+      "things to do in Buenos Aires",
+      "best time to visit Buenos Aires",
+      "Buenos Aires itinerary",
+      "10 day Buenos Aires itinerary",
+      "Buenos Aires flights and hotels",
+      "Buenos Aires all inclusive package",
+      "cheap Buenos Aires package",
+      "luxury Buenos Aires package"
+    ],
+    "canonicalUrl": "/packages/buenos-aires-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Buenos Aires Package",
+        "url": "/packages/buenos-aires-7-day-package"
+      },
+      {
+        "title": "14-Day Buenos Aires Package",
+        "url": "/packages/buenos-aires-14-day-package"
+      },
+      {
+        "title": "Barcelona 10-Day City Break",
+        "url": "/packages/barcelona-10-day-package"
+      },
+      {
+        "title": "Lisbon 10-Day City Break",
+        "url": "/packages/lisbon-10-day-package"
+      },
+      {
+        "title": "Paris 10-Day City Break",
+        "url": "/packages/paris-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Buenos Aires — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Buenos_Aires"
+      },
+      {
+        "title": "Buenos Aires — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Buenos_Aires"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1594 @@
+{
+  "id": "PKG-new-orleans-2D",
+  "slug": "new-orleans-2-day-package",
+  "destinationSlug": "new-orleans",
+  "destinationName": "New Orleans",
+  "country": "United States",
+  "region": "Louisiana",
+  "durationDays": 2,
+  "durationNights": 1,
+  "title": "New Orleans 2-Day City Break",
+  "metaTitle": "New Orleans 2-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 2-day trip to New Orleans, United States: round-trip flights, hotel, breakfast, transfers, and guided tours including National WWII Museum and Preservation Hall. Prices from $569 per person (estimate).",
+  "highlights": [
+    "National WWII Museum",
+    "Preservation Hall",
+    "French Quarter streets",
+    "Oak Alley Plantation"
+  ],
+  "overview": "Spend 2 days discovering New Orleans, United States — Humid subtropical climate with mild winters (highs around 18°C) and hot, sticky summers (highs 32-33°C with high humidity and frequent afternoon thunderstorms); hurricane season runs June to November. February to May is the sweet spot — Mardi Gras energy in February/March gives way to comfortable spring weather before summer humidity sets in. This itinerary blends National WWII Museum, Preservation Hall, French Quarter streets with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "1 night accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including National WWII Museum, Preservation Hall, French Quarter streets",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in New Orleans",
+      "description": "Land at Louis Armstrong New Orleans International Airport (MSY) and take your included private transfer to your hotel. With limited time on the ground, head straight out to National WWII Museum — Smithsonian-affiliated museum widely ranked among the best in the US. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "National WWII Museum"
+      ],
+      "overnight": "New Orleans"
+    },
+    {
+      "day": 2,
+      "title": "New Orleans Highlights & Departure",
+      "description": "Start early with a visit to Preservation Hall — Legendary intimate traditional jazz venue in the French Quarter. Grab a last taste of local life before your private transfer to MSY for your onward flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Preservation Hall",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Jazz Fest or Mardi Gras accommodation 6-12 months ahead — prices multiply and rooms sell out.",
+    "Only tour St. Louis Cemetery No. 1 with an official licensed guide; solo entry has been restricted for years.",
+    "Avoid summer (June-August) if humidity and hurricane risk are a concern — spring and fall are far more comfortable.",
+    "Ask locals or your hotel for a Frenchmen Street club recommendation rather than Bourbon Street for authentic live jazz.",
+    "Carry cash for street musicians, tip buckets and some smaller Creole restaurants that don't take cards.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Lightweight, breathable clothing for heat and humidity",
+    "A light rain jacket for sudden summer downpours",
+    "Comfortable shoes for uneven French Quarter sidewalks",
+    "Costume or bead-friendly outfit if visiting during Mardi Gras"
+  ],
+  "thingsToDo": [
+    "National WWII Museum",
+    "Preservation Hall",
+    "Steamboat Natchez Cruise",
+    "Audubon Aquarium of the Americas",
+    "Audubon Zoo",
+    "St. Louis Cemetery No. 1 guided tour",
+    "Mardi Gras World",
+    "The Cabildo",
+    "Swamp tour (Honey Island Swamp)",
+    "Ogden Museum of Southern Art",
+    "Hurricane Katrina exhibit at The Presbytère",
+    "French Quarter streets",
+    "Jackson Square",
+    "St. Louis Cathedral exterior",
+    "Frenchmen Street",
+    "Garden District walk",
+    "Mississippi Riverfront/Moonwalk",
+    "Bourbon Street",
+    "City Park",
+    "Magazine Street"
+  ],
+  "thingsToAvoid": [
+    "Overpriced, watered-down \"Hand Grenade\" and hurricane cocktails sold at Bourbon Street tourist bars.",
+    "Walking alone late at night outside the well-lit French Quarter and Garden District core.",
+    "Street hustlers offering a bet (\"I bet I can tell you where you got your shoes\") — it's a scripted scam.",
+    "Driving into the French Quarter — parking is scarce and expensive; walk or use rideshare instead.",
+    "Underestimating hurricane season (June-November) when booking a late-summer trip without travel insurance."
+  ],
+  "topRestaurants": [
+    "Commander's Palace — Haute Creole ($$$$)",
+    "Cafe du Monde — Beignets & Coffee ($)",
+    "Dooky Chase's Restaurant — Classic Creole ($$)",
+    "Galatoire's — French Creole ($$$)",
+    "Willie Mae's Scotch House — Fried Chicken/Soul Food ($)",
+    "Cochon — Cajun ($$$)",
+    "Acme Oyster House — Seafood/Oysters ($$)",
+    "Napoleon House — Creole/Sandwiches ($$)",
+    "Mother's Restaurant — Po'boys & Southern ($)"
+  ],
+  "topCafes": [
+    "Cafe du Monde (Decatur Street)",
+    "Spitfire Coffee",
+    "Coffee Science",
+    "French Truck Coffee",
+    "Envie Espresso Bar & Cafe",
+    "PJ's Coffee"
+  ],
+  "shoppingAreas": [
+    "Magazine Street boutiques",
+    "French Market",
+    "Royal Street antique galleries",
+    "Canal Place mall",
+    "Frenchmen Art Market"
+  ],
+  "nightlife": [
+    "Bourbon Street bars",
+    "Frenchmen Street live music clubs",
+    "Preservation Hall",
+    "The Spotted Cat Music Club",
+    "Carousel Bar at Hotel Monteleone",
+    "Tipitina's"
+  ],
+  "instagramSpots": [
+    "French Quarter balconies on Royal Street",
+    "Jackson Square with St. Louis Cathedral",
+    "Garden District mansion facades",
+    "Frenchmen Street neon signs",
+    "Mississippi Riverfront at sunset"
+  ],
+  "hiddenGems": [
+    "Bacchanal Wine Garden in Bywater",
+    "Backstreet Cultural Museum",
+    "Longue Vue House and Gardens",
+    "St. Roch Market food hall",
+    "Crescent Park riverside walk"
+  ],
+  "familyActivities": [
+    "Audubon Zoo",
+    "Audubon Aquarium of the Americas",
+    "Louisiana Children's Museum",
+    "Mardi Gras World tour",
+    "City Park carousel and Storyland"
+  ],
+  "adventureActivities": [
+    "Honey Island Swamp airboat tour",
+    "Cycling City Park and the Lafitte Greenway",
+    "Kayaking Bayou St. John",
+    "Ghost and vampire walking tours"
+  ],
+  "luxuryExperiences": [
+    "Tasting menu at Commander's Palace",
+    "Private jazz brunch with a chef's table",
+    "Luxury suite at The Roosevelt New Orleans",
+    "Private Mississippi River yacht charter"
+  ],
+  "honeymoonExperiences": [
+    "Candlelit dinner in a French Quarter courtyard restaurant",
+    "Evening carriage ride through the Quarter",
+    "Live jazz date night at Preservation Hall",
+    "Balcony suite stay overlooking Royal Street"
+  ],
+  "budgetExperiences": [
+    "Beignets and chicory coffee at Cafe du Monde",
+    "Free stroll through the French Quarter and Jackson Square",
+    "Frenchmen Street live music (many bars have no cover)",
+    "Self-guided Garden District walking tour"
+  ],
+  "estimatedDailyBudgetUSD": [
+    80,
+    175,
+    310,
+    580
+  ],
+  "safetyRating": 3,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 63,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 20,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Apr",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 33,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 33,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 27,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 22,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 18,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Mardi Gras",
+      "timing": "Late January to early March (Tuesday before Ash Wednesday)"
+    },
+    {
+      "name": "New Orleans Jazz & Heritage Festival (Jazz Fest)",
+      "timing": "Late April to early May"
+    },
+    {
+      "name": "French Quarter Festival",
+      "timing": "Mid-April"
+    },
+    {
+      "name": "Essence Festival of Culture",
+      "timing": "Fourth of July weekend"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Locals say \"y'all\" and greet strangers with easy small talk — friendliness is genuine, not a hustle.",
+    "Tipping 20% is standard at restaurants and for live music performers passing a tip bucket.",
+    "Beads and Mardi Gras throws are earned by cheering and interacting with parade floats, not demanded.",
+    "Dress is casual almost everywhere except a handful of fine-dining rooms in the French Quarter.",
+    "Public alcohol consumption is legal on Bourbon Street and much of the French Quarter, but respect noise rules in residential blocks."
+  ],
+  "localTransportGuide": "The historic St. Charles Avenue streetcar and RTA buses cover most visitor areas cheaply, and the French Quarter and Garden District are best explored on foot. Rideshares are the practical option for the airport and areas outside the streetcar lines, since the city's public transit network is limited beyond the core tourist routes.",
+  "bestTimeToVisit": "February to May is the sweet spot — Mardi Gras energy in February/March gives way to comfortable spring weather before summer humidity sets in.",
+  "weather": "Humid subtropical climate with mild winters (highs around 18°C) and hot, sticky summers (highs 32-33°C with high humidity and frequent afternoon thunderstorms); hurricane season runs June to November.",
+  "visaInformation": "Visa-free ESTA entry for UK, EU, Australian and other Visa Waiver Program passport holders for stays up to 90 days. Indian nationals and most other nationalities require a US B1/B2 visitor visa arranged in advance.",
+  "currency": "USD",
+  "languages": [
+    "English",
+    "French Creole"
+  ],
+  "timeZone": "CST (UTC-6)",
+  "averageFlightTime": "~15.2h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit New Orleans?",
+      "answer": "Visa-free ESTA entry for UK, EU, Australian and other Visa Waiver Program passport holders for stays up to 90 days. Indian nationals and most other nationalities require a US B1/B2 visitor visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit New Orleans?",
+      "answer": "February to May is the sweet spot — Mardi Gras energy in February/March gives way to comfortable spring weather before summer humidity sets in. Humid subtropical climate with mild winters (highs around 18°C) and hot, sticky summers (highs 32-33°C with high humidity and frequent afternoon thunderstorms); hurricane season runs June to November."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is New Orleans safe for tourists?",
+      "answer": "New Orleans is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to New Orleans?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Food",
+    "History",
+    "Nightlife",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "New Orleans",
+    "United States",
+    "New Orleans, United States",
+    "Louisiana",
+    "New Orleans tour package",
+    "New Orleans vacation package",
+    "New Orleans holiday package",
+    "things to do in New Orleans",
+    "best time to visit New Orleans",
+    "New Orleans itinerary",
+    "2 day New Orleans itinerary",
+    "New Orleans flights and hotels",
+    "New Orleans all inclusive package",
+    "cheap New Orleans package",
+    "luxury New Orleans package",
+    "New Orleans honeymoon package",
+    "New Orleans family vacation",
+    "New Orleans solo trip",
+    "New Orleans group tour",
+    "New Orleans weekend getaway",
+    "New Orleans guided tour",
+    "MSY flights",
+    "New Orleans travel guide",
+    "book New Orleans trip online",
+    "New Orleans trip cost",
+    "New Orleans packages 2 days",
+    "New Orleans city break",
+    "New Orleans culture",
+    "New Orleans food",
+    "New Orleans history",
+    "New Orleans nightlife",
+    "National WWII Museum",
+    "Preservation Hall",
+    "Steamboat Natchez Cruise",
+    "Audubon Aquarium of the Americas",
+    "Audubon Zoo",
+    "St. Louis Cemetery No. 1 guided tour",
+    "Mardi Gras World",
+    "The Cabildo",
+    "Swamp tour (Honey Island Swamp)",
+    "Ogden Museum of Southern Art",
+    "Hurricane Katrina exhibit at The Presbytère",
+    "French Quarter streets",
+    "Jackson Square",
+    "St. Louis Cathedral exterior",
+    "Frenchmen Street",
+    "Garden District walk",
+    "Mississippi Riverfront/Moonwalk",
+    "Bourbon Street",
+    "City Park"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "New Orleans, United States — French Quarter balconies",
+      "keywords": [
+        "New Orleans",
+        "United States",
+        "French Quarter balconies",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New Orleans French Quarter balconies",
+      "pexelsQuery": "New Orleans French Quarter balconies",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "New Orleans, United States — French Quarter balconies",
+      "keywords": [
+        "New Orleans",
+        "United States",
+        "French Quarter balconies",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New Orleans French Quarter balconies",
+      "pexelsQuery": "New Orleans French Quarter balconies",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "New Orleans, United States — Bourbon Street at night",
+      "keywords": [
+        "New Orleans",
+        "United States",
+        "Bourbon Street at night",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New Orleans Bourbon Street at night",
+      "pexelsQuery": "New Orleans Bourbon Street at night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "New Orleans, United States — Mardi Gras parade floats",
+      "keywords": [
+        "New Orleans",
+        "United States",
+        "Mardi Gras parade floats",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New Orleans Mardi Gras parade floats",
+      "pexelsQuery": "New Orleans Mardi Gras parade floats",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "New Orleans, United States — French Quarter balconies",
+      "keywords": [
+        "New Orleans",
+        "United States",
+        "French Quarter balconies",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New Orleans French Quarter balconies",
+      "pexelsQuery": "New Orleans French Quarter balconies",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New Orleans, United States — Bourbon Street at night",
+      "keywords": [
+        "New Orleans",
+        "United States",
+        "Bourbon Street at night",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New Orleans Bourbon Street at night",
+      "pexelsQuery": "New Orleans Bourbon Street at night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New Orleans, United States — Mardi Gras parade floats",
+      "keywords": [
+        "New Orleans",
+        "United States",
+        "Mardi Gras parade floats",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New Orleans Mardi Gras parade floats",
+      "pexelsQuery": "New Orleans Mardi Gras parade floats",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New Orleans, United States — jazz musicians on Frenchmen Street",
+      "keywords": [
+        "New Orleans",
+        "United States",
+        "jazz musicians on Frenchmen Street",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New Orleans jazz musicians on Frenchmen Street",
+      "pexelsQuery": "New Orleans jazz musicians on Frenchmen Street",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New Orleans, United States — National WWII Museum",
+      "keywords": [
+        "New Orleans",
+        "United States",
+        "National WWII Museum",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New Orleans National WWII Museum",
+      "pexelsQuery": "New Orleans National WWII Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New Orleans, United States — Preservation Hall",
+      "keywords": [
+        "New Orleans",
+        "United States",
+        "Preservation Hall",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New Orleans Preservation Hall",
+      "pexelsQuery": "New Orleans Preservation Hall",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New Orleans, United States — Steamboat Natchez Cruise",
+      "keywords": [
+        "New Orleans",
+        "United States",
+        "Steamboat Natchez Cruise",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New Orleans Steamboat Natchez Cruise",
+      "pexelsQuery": "New Orleans Steamboat Natchez Cruise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "New Orleans, United States — Audubon Aquarium of the Americas",
+      "keywords": [
+        "New Orleans",
+        "United States",
+        "Audubon Aquarium of the Americas",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "New Orleans Audubon Aquarium of the Americas",
+      "pexelsQuery": "New Orleans Audubon Aquarium of the Americas",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-new-orleans-2-1",
+      "author": "Priya Santos",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-11",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a solo trip and it was well paced. Hurricane Katrina exhibit at The Presbytère in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-2",
+      "author": "Omar Santos",
+      "country": "Switzerland",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-31",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Garden District walk and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-3",
+      "author": "Noah Garcia",
+      "country": "Singapore",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-14",
+      "title": "Best vacation we've had",
+      "body": "Our trip to New Orleans was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Swamp tour (Honey Island Swamp) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-4",
+      "author": "Arjun Botha",
+      "country": "Singapore",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-02-04",
+      "title": "Smooth from start to finish",
+      "body": "Booked this as a group trip and it was well paced. Swamp tour (Honey Island Swamp) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-new-orleans-2-5",
+      "author": "Noah Kowalski",
+      "country": "South Africa",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-06-15",
+      "title": "So many hidden gems included",
+      "body": "Our trip to New Orleans was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Jackson Square was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-new-orleans-2-6",
+      "author": "Lucas Johnson",
+      "country": "Canada",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-04-08",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Steamboat Natchez Cruise and Audubon Aquarium of the Americas. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-7",
+      "author": "Liam Santos",
+      "country": "Brazil",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-29",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to New Orleans was fantastic from start to finish. The hotel was clean and well located, and the guided visit to French Quarter streets was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-8",
+      "author": "Priya Brown",
+      "country": "Italy",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-01-08",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a group trip and it was well paced. City Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-new-orleans-2-9",
+      "author": "Liam Ivanov",
+      "country": "New Zealand",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-07",
+      "title": "Loved every moment",
+      "body": "Our trip to New Orleans was fantastic from start to finish. The hotel was clean and well located, and the guided visit to St. Louis Cathedral exterior was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-10",
+      "author": "David Novak",
+      "country": "Australia",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-06-01",
+      "title": "Smooth from start to finish",
+      "body": "New Orleans is stunning and this package covered the essentials well, especially Audubon Aquarium of the Americas. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-11",
+      "author": "Liam Fernandez",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-12-27",
+      "title": "Solid mid-range package",
+      "body": "Our trip to New Orleans was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Hurricane Katrina exhibit at The Presbytère was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-12",
+      "author": "Daniel Ivanov",
+      "country": "Switzerland",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2025-11-06",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Garden District walk and Frenchmen Street. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-13",
+      "author": "Sofia Novak",
+      "country": "Italy",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-12-28",
+      "title": "Great for families with kids",
+      "body": "Booked this as a solo trip and it was well paced. City Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-14",
+      "author": "James Cohen",
+      "country": "Germany",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-06-17",
+      "title": "Solid mid-range package",
+      "body": "Our trip to New Orleans was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Audubon Zoo was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-new-orleans-2-15",
+      "author": "Ethan Brown",
+      "country": "India",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-09-07",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Mardi Gras World and St. Louis Cathedral exterior. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-16",
+      "author": "Arjun Dubois",
+      "country": "France",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-01",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a group trip and it was well paced. St. Louis Cemetery No. 1 guided tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-17",
+      "author": "Daniel Patel",
+      "country": "Germany",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-01-31",
+      "title": "Perfect for our honeymoon",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Audubon Zoo and Preservation Hall. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-18",
+      "author": "Sofia Tanaka",
+      "country": "Germany",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-02",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a couple trip and it was well paced. Audubon Zoo in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-new-orleans-2-19",
+      "author": "James Costa",
+      "country": "Canada",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-06-10",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to New Orleans was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Steamboat Natchez Cruise was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-new-orleans-2-20",
+      "author": "Wei Smith",
+      "country": "India",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-29",
+      "title": "Adventure of a lifetime",
+      "body": "Booked this as a group trip and it was well paced. Mardi Gras World in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.1,
+    "food": 4.1,
+    "hotel": 4.2,
+    "transportation": 4.1,
+    "activities": 4.2,
+    "value": 4.1,
+    "cleanliness": 4.1,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "New Orleans Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Magazine Street boutiques"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "New Orleans Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "French Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "New Orleans Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 61,
+      "neighborhood": "Royal Street antique galleries"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "New Orleans Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 79,
+      "neighborhood": "Canal Place mall"
+    },
+    {
+      "tier": "Resort",
+      "name": "New Orleans Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 155,
+      "neighborhood": "Frenchmen Art Market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private New Orleans Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 244,
+      "neighborhood": "Bourbon Street bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The New Orleans Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 290,
+      "neighborhood": "Frenchmen Street live music clubs"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        213,
+        338
+      ],
+      "estimatedFlightHours": 3.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        206,
+        327
+      ],
+      "estimatedFlightHours": 3.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        615,
+        976
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        634,
+        1007
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        660,
+        1048
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        710,
+        1127
+      ],
+      "estimatedFlightHours": 12.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        627,
+        996
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        635,
+        1008
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        669,
+        1062
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1110,
+        1763
+      ],
+      "estimatedFlightHours": 20.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        970,
+        1540
+      ],
+      "estimatedFlightHours": 17.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1042,
+        1655
+      ],
+      "estimatedFlightHours": 18.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        876,
+        1391
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        913,
+        1450
+      ],
+      "estimatedFlightHours": 16.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1250,
+        1985
+      ],
+      "estimatedFlightHours": 22.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1162,
+        1845
+      ],
+      "estimatedFlightHours": 21.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1242,
+        1972
+      ],
+      "estimatedFlightHours": 22.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1293,
+        2053
+      ],
+      "estimatedFlightHours": 23.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1091,
+        1733
+      ],
+      "estimatedFlightHours": 19.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1170,
+        1859
+      ],
+      "estimatedFlightHours": 21.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1006,
+        1597
+      ],
+      "estimatedFlightHours": 18.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        972,
+        1543
+      ],
+      "estimatedFlightHours": 17.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        989,
+        1571
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        948,
+        1505
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1088,
+        1728
+      ],
+      "estimatedFlightHours": 19.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        621,
+        987
+      ],
+      "estimatedFlightHours": 11,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Louis Armstrong New Orleans International Airport (MSY)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        184,
+        292
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "National WWII Museum",
+    "Preservation Hall",
+    "Steamboat Natchez Cruise",
+    "Audubon Aquarium of the Americas",
+    "Audubon Zoo",
+    "St. Louis Cemetery No. 1 guided tour",
+    "Mardi Gras World",
+    "The Cabildo",
+    "Swamp tour (Honey Island Swamp)",
+    "Ogden Museum of Southern Art",
+    "Hurricane Katrina exhibit at The Presbytère",
+    "French Quarter streets",
+    "Jackson Square",
+    "St. Louis Cathedral exterior",
+    "Frenchmen Street",
+    "Garden District walk",
+    "Mississippi Riverfront/Moonwalk",
+    "Bourbon Street",
+    "City Park",
+    "Magazine Street",
+    "Oak Alley Plantation",
+    "Honey Island Swamp",
+    "Baton Rouge",
+    "Avery Island (Tabasco factory)",
+    "The Cabildo (Louisiana State Museum)",
+    "Backstreet Cultural Museum",
+    "Audubon Park",
+    "Crescent Park",
+    "Louis Armstrong Park",
+    "French Quarter balconies on Royal Street",
+    "Jackson Square with St. Louis Cathedral",
+    "Garden District mansion facades",
+    "Frenchmen Street neon signs",
+    "Mississippi Riverfront at sunset"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "National WWII Museum",
+      "priceUSD": 34
+    },
+    {
+      "name": "Preservation Hall",
+      "priceUSD": 25
+    },
+    {
+      "name": "Steamboat Natchez Cruise",
+      "priceUSD": 49
+    },
+    {
+      "name": "Audubon Aquarium of the Americas",
+      "priceUSD": 30
+    },
+    {
+      "name": "Audubon Zoo",
+      "priceUSD": 25
+    },
+    {
+      "name": "St. Louis Cemetery No. 1 guided tour",
+      "priceUSD": 30
+    },
+    {
+      "name": "Mardi Gras World",
+      "priceUSD": 25
+    },
+    {
+      "name": "The Cabildo",
+      "priceUSD": 8
+    },
+    {
+      "name": "Swamp tour (Honey Island Swamp)",
+      "priceUSD": 65
+    },
+    {
+      "name": "Ogden Museum of Southern Art",
+      "priceUSD": 16
+    },
+    {
+      "name": "Hurricane Katrina exhibit at The Presbytère",
+      "priceUSD": 8
+    }
+  ],
+  "attractionsFreeTop20": [
+    "French Quarter streets",
+    "Jackson Square",
+    "St. Louis Cathedral exterior",
+    "Frenchmen Street",
+    "Garden District walk",
+    "Mississippi Riverfront/Moonwalk",
+    "Bourbon Street",
+    "City Park",
+    "Magazine Street"
+  ],
+  "museums": [
+    "National WWII Museum",
+    "The Cabildo (Louisiana State Museum)",
+    "Ogden Museum of Southern Art",
+    "Backstreet Cultural Museum"
+  ],
+  "parks": [
+    "City Park",
+    "Audubon Park",
+    "Crescent Park",
+    "Louis Armstrong Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Oak Alley Plantation",
+    "Honey Island Swamp",
+    "Baton Rouge",
+    "Avery Island (Tabasco factory)"
+  ],
+  "fromPriceUSD": 569,
+  "seo": {
+    "title": "New Orleans 2-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "new-orleans-2-day-package",
+    "keywords": [
+      "New Orleans",
+      "United States",
+      "New Orleans, United States",
+      "Louisiana",
+      "New Orleans tour package",
+      "New Orleans vacation package",
+      "New Orleans holiday package",
+      "things to do in New Orleans",
+      "best time to visit New Orleans",
+      "New Orleans itinerary",
+      "2 day New Orleans itinerary",
+      "New Orleans flights and hotels",
+      "New Orleans all inclusive package",
+      "cheap New Orleans package",
+      "luxury New Orleans package"
+    ],
+    "canonicalUrl": "/packages/new-orleans-2-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day New Orleans Package",
+        "url": "/packages/new-orleans-3-day-package"
+      },
+      {
+        "title": "5-Day New Orleans Package",
+        "url": "/packages/new-orleans-5-day-package"
+      },
+      {
+        "title": "London 2-Day City Break",
+        "url": "/packages/london-2-day-package"
+      },
+      {
+        "title": "Lisbon 2-Day City Break",
+        "url": "/packages/lisbon-2-day-package"
+      },
+      {
+        "title": "Seoul 2-Day City Break",
+        "url": "/packages/seoul-2-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "New Orleans — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/New_Orleans"
+      },
+      {
+        "title": "New Orleans — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/New_Orleans"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1632 @@
+{
+  "id": "PKG-kruger-national-park-14D",
+  "slug": "kruger-national-park-14-day-package",
+  "destinationSlug": "kruger-national-park",
+  "destinationName": "Kruger National Park",
+  "country": "South Africa",
+  "region": "Southern Africa",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Kruger National Park 14-Day Wildlife Safari",
+  "metaTitle": "Kruger National Park 14-Day Wildlife Safari | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Kruger National Park, South Africa: round-trip flights, hotel, breakfast, transfers, and guided tours including Kruger National Park self-drive entry and Private guided game drive (open vehicle). Prices from $3084 per person (estimate).",
+  "highlights": [
+    "Kruger National Park self-drive entry",
+    "Private guided game drive (open vehicle)",
+    "Rest camp wildlife viewing",
+    "Bush walking safari with an armed ranger",
+    "All-inclusive private game reserve lodge bordering Kruger (Sabi Sands, Timbavati)",
+    "Panorama Route (God's Window, Three Rondavels, Bourke's Luck Potholes)"
+  ],
+  "overview": "Spend 14 days discovering Kruger National Park, South Africa — Subtropical savanna climate — hot, wet summers (highs around 30-32°C, November-March) and mild, dry winters (highs around 25°C, cold nights). May to September (dry winter season) for the best game viewing, when animals gather at limited water sources and vegetation is thinner. This itinerary blends Kruger National Park self-drive entry, Private guided game drive (open vehicle), Rest camp wildlife viewing with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Kruger National Park self-drive entry, Private guided game drive (open vehicle), Rest camp wildlife viewing",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Kruger National Park",
+      "description": "Land at Kruger Mpumalanga International Airport (MQP) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Kruger National Park self-drive entry — One of Africa's largest game reserves, home to the \"Big Five\". Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Kruger National Park self-drive entry"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 2,
+      "title": "Kruger National Park: Private guided game drive (open vehicle) & Bush walk with an armed ranger",
+      "description": "Morning visit to Private guided game drive (open vehicle) — Early morning and sunset drives with an expert tracker/guide. In the afternoon, continue to Bush walk with an armed ranger — On-foot safari experience focused on tracking and smaller details of the bush. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Private guided game drive (open vehicle)",
+        "Bush walk with an armed ranger"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 3,
+      "title": "Kruger National Park: Panorama Route day tour (Blyde River Canyon) & Rest camp wildlife viewing",
+      "description": "Morning visit to Panorama Route day tour (Blyde River Canyon) — Scenic drive past God's Window and the Three Rondavels, often combined with a Kruger visit. In the afternoon, continue to Rest camp wildlife viewing — Many camps have waterholes or hides where animals can be seen without a vehicle. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Panorama Route day tour (Blyde River Canyon)",
+        "Rest camp wildlife viewing"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Panorama Route (God's Window, Three Rondavels, Bourke's Luck Potholes)",
+      "description": "Full-day excursion to Panorama Route (God's Window, Three Rondavels, Bourke's Luck Potholes), a popular side trip from Kruger National Park. Return to Kruger National Park in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Panorama Route (God's Window, Three Rondavels, Bourke's Luck Potholes)",
+        "Free evening"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Punda Maria area in the far north (less crowded) — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Punda Maria area in the far north (less crowded)"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 6,
+      "title": "Kruger National Park: Kruger National Park self-drive entry & Private guided game drive (open vehicle)",
+      "description": "Morning visit to Kruger National Park self-drive entry — One of Africa's largest game reserves, home to the \"Big Five\". In the afternoon, continue to Private guided game drive (open vehicle) — Early morning and sunset drives with an expert tracker/guide. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Kruger National Park self-drive entry",
+        "Private guided game drive (open vehicle)"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Private game reserves bordering Kruger",
+      "description": "Full-day excursion to Private game reserves bordering Kruger, a popular side trip from Kruger National Park. Return to Kruger National Park in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Private game reserves bordering Kruger",
+        "Free evening"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 8,
+      "title": "Kruger National Park: Bush walk with an armed ranger & Panorama Route day tour (Blyde River Canyon)",
+      "description": "Morning visit to Bush walk with an armed ranger — On-foot safari experience focused on tracking and smaller details of the bush. In the afternoon, continue to Panorama Route day tour (Blyde River Canyon) — Scenic drive past God's Window and the Three Rondavels, often combined with a Kruger visit. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Bush walk with an armed ranger",
+        "Panorama Route day tour (Blyde River Canyon)"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Night drives for nocturnal species — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Night drives for nocturnal species"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Panorama Route (God's Window, Three Rondavels, Bourke's Luck Potholes)",
+      "description": "Full-day excursion to Panorama Route (God's Window, Three Rondavels, Bourke's Luck Potholes), a popular side trip from Kruger National Park. Return to Kruger National Park in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Panorama Route (God's Window, Three Rondavels, Bourke's Luck Potholes)",
+        "Free evening"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 11,
+      "title": "Kruger National Park: Rest camp wildlife viewing & Kruger National Park self-drive entry",
+      "description": "Morning visit to Rest camp wildlife viewing — Many camps have waterholes or hides where animals can be seen without a vehicle. In the afternoon, continue to Kruger National Park self-drive entry — One of Africa's largest game reserves, home to the \"Big Five\". Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Rest camp wildlife viewing",
+        "Kruger National Park self-drive entry"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 12,
+      "title": "Kruger National Park: Private guided game drive (open vehicle) & Bush walk with an armed ranger",
+      "description": "Morning visit to Private guided game drive (open vehicle) — Early morning and sunset drives with an expert tracker/guide. In the afternoon, continue to Bush walk with an armed ranger — On-foot safari experience focused on tracking and smaller details of the bush. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Private guided game drive (open vehicle)",
+        "Bush walk with an armed ranger"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Blyde River Canyon viewpoints on the Panorama Route — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Blyde River Canyon viewpoints on the Panorama Route"
+      ],
+      "overnight": "Kruger National Park"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Panorama Route day tour (Blyde River Canyon) or some souvenir shopping — before your private transfer to MQP for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Self-driving the public park is a budget-friendly, flexible way to experience Kruger if you're comfortable navigating and spotting wildlife yourself.",
+    "For guaranteed close sightings and expert tracking, a private reserve lodge bordering Kruger is worth the premium.",
+    "Book rest camp accommodation well in advance for school holiday periods (South African summer, December-January).",
+    "Combine Kruger with the Panorama Route for dramatic canyon scenery on the way in or out.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Neutral safari colors",
+    "Warm layers for cold winter mornings and evenings (June-August)",
+    "Binoculars",
+    "Malaria prophylaxis as advised by a doctor, particularly in summer"
+  ],
+  "thingsToDo": [
+    "Kruger National Park self-drive entry",
+    "Private guided game drive (open vehicle)",
+    "Bush walk with an armed ranger",
+    "Panorama Route day tour (Blyde River Canyon)",
+    "Rest camp wildlife viewing",
+    "Bush walking safari with an armed ranger",
+    "Night game drive for nocturnal predators",
+    "Multi-day mobile trail in a wilderness zone",
+    "Self-drive game viewing from a rental car",
+    "Junior ranger programs at select rest camps",
+    "Guided game drives suited to children"
+  ],
+  "thingsToAvoid": [
+    "Exiting your vehicle outside designated rest camps and picnic spots.",
+    "Speeding on park roads — fines are enforced and it endangers wildlife.",
+    "Traveling without malaria precautions, particularly during the wetter summer months."
+  ],
+  "topRestaurants": [
+    "Rest camp restaurants and boma dinners — South African braai-style and international ($$$)",
+    "Private lodge all-inclusive dining — Fine dining bush cuisine ($$$$)"
+  ],
+  "topCafes": [
+    "Rest camp coffee shops"
+  ],
+  "shoppingAreas": [
+    "Rest camp curio shops"
+  ],
+  "nightlife": [
+    "Boma dinner with traditional dancing (select camps)",
+    "Stargazing around the campfire"
+  ],
+  "instagramSpots": [
+    "Big Five sightings on a game drive",
+    "Sunrise over the bushveld",
+    "Sunset silhouette safari vehicle shot",
+    "Elephant herd crossing a road"
+  ],
+  "hiddenGems": [
+    "Punda Maria area in the far north (less crowded)",
+    "Night drives for nocturnal species",
+    "Blyde River Canyon viewpoints on the Panorama Route"
+  ],
+  "familyActivities": [
+    "Self-drive game viewing from a rental car",
+    "Junior ranger programs at select rest camps",
+    "Guided game drives suited to children"
+  ],
+  "adventureActivities": [
+    "Bush walking safari with an armed ranger",
+    "Night game drive for nocturnal predators",
+    "Multi-day mobile trail in a wilderness zone"
+  ],
+  "luxuryExperiences": [
+    "All-inclusive private game reserve lodge bordering Kruger (Sabi Sands, Timbavati)",
+    "Private vehicle with a dedicated guide and tracker",
+    "Fly-in safari with a bush-plane transfer"
+  ],
+  "honeymoonExperiences": [
+    "Private plunge-pool suite at a luxury bush lodge",
+    "Sundowner drinks overlooking a waterhole",
+    "Star-bed sleepout under the African sky"
+  ],
+  "budgetExperiences": [
+    "Self-drive through the public park in a rental car",
+    "SANParks rest camp accommodation instead of a private lodge"
+  ],
+  "estimatedDailyBudgetUSD": [
+    80,
+    160,
+    350,
+    900
+  ],
+  "safetyRating": 4,
+  "internetRating": 2.5,
+  "publicTransportRating": 2.5,
+  "walkingScore": 20,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Feb",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 28,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 27,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 31,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Kruger National Park anniversary events",
+      "timing": "May"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "10111",
+    "ambulance": "10177",
+    "fire": "10177"
+  },
+  "localEtiquette": [
+    "Follow all ranger and guide instructions strictly during game drives and walks.",
+    "Keep to speed limits and stay inside vehicles except at designated rest camps.",
+    "Tipping game rangers and trackers (10-15 USD per day) is customary at private lodges."
+  ],
+  "localTransportGuide": "Self-drive is popular and straightforward on Kruger's well-maintained tar and gravel roads within the public park, with speed limits strictly enforced for safety. Private reserves bordering Kruger provide their own open-vehicle game drives as part of an all-inclusive stay, with no self-driving involved.",
+  "bestTimeToVisit": "May to September (dry winter season) for the best game viewing, when animals gather at limited water sources and vegetation is thinner.",
+  "weather": "Subtropical savanna climate — hot, wet summers (highs around 30-32°C, November-March) and mild, dry winters (highs around 25°C, cold nights).",
+  "visaInformation": "South Africa is visa-free for stays up to 90 days for most Western passport holders including the US, UK, EU, Canada, and Australia. Indian nationals generally need a visa arranged in advance.",
+  "currency": "ZAR",
+  "languages": [
+    "English",
+    "Afrikaans"
+  ],
+  "timeZone": "SAST (UTC+2)",
+  "averageFlightTime": "~12.8h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Kruger Mpumalanga International Airport (MQP)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Kruger National Park?",
+      "answer": "South Africa is visa-free for stays up to 90 days for most Western passport holders including the US, UK, EU, Canada, and Australia. Indian nationals generally need a visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Kruger National Park?",
+      "answer": "May to September (dry winter season) for the best game viewing, when animals gather at limited water sources and vegetation is thinner. Subtropical savanna climate — hot, wet summers (highs around 30-32°C, November-March) and mild, dry winters (highs around 25°C, cold nights)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Kruger National Park safe for tourists?",
+      "answer": "Kruger National Park is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Kruger National Park?",
+      "answer": "The local currency is ZAR. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Wildlife",
+    "Adventure",
+    "Nature",
+    "Luxury",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Kruger National Park",
+    "South Africa",
+    "Kruger National Park, South Africa",
+    "Southern Africa",
+    "Kruger National Park tour package",
+    "Kruger National Park vacation package",
+    "Kruger National Park holiday package",
+    "things to do in Kruger National Park",
+    "best time to visit Kruger National Park",
+    "Kruger National Park itinerary",
+    "14 day Kruger National Park itinerary",
+    "Kruger National Park flights and hotels",
+    "Kruger National Park all inclusive package",
+    "cheap Kruger National Park package",
+    "luxury Kruger National Park package",
+    "Kruger National Park honeymoon package",
+    "Kruger National Park family vacation",
+    "Kruger National Park solo trip",
+    "Kruger National Park group tour",
+    "Kruger National Park weekend getaway",
+    "Kruger National Park guided tour",
+    "MQP flights",
+    "Kruger National Park travel guide",
+    "book Kruger National Park trip online",
+    "Kruger National Park trip cost",
+    "Kruger National Park packages 14 days",
+    "Kruger National Park wildlife",
+    "Kruger National Park adventure",
+    "Kruger National Park nature",
+    "Kruger National Park luxury",
+    "Kruger National Park bucket list",
+    "Kruger National Park self-drive entry",
+    "Private guided game drive (open vehicle)",
+    "Bush walk with an armed ranger",
+    "Panorama Route day tour (Blyde River Canyon)",
+    "Rest camp wildlife viewing",
+    "Rest camp restaurants and boma dinners",
+    "Private lodge all-inclusive dining",
+    "Big Five sightings on a game drive",
+    "Sunrise over the bushveld",
+    "Sunset silhouette safari vehicle shot",
+    "Elephant herd crossing a road",
+    "Punda Maria area in the far north (less crowded)",
+    "Night drives for nocturnal species",
+    "Blyde River Canyon viewpoints on the Panorama Route",
+    "South Africa tourism",
+    "Southern Africa travel",
+    "international vacation packages",
+    "Kruger National Park travel deals",
+    "Kruger National Park sightseeing"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Kruger National Park, South Africa — Kruger Big Five safari",
+      "keywords": [
+        "Kruger National Park",
+        "South Africa",
+        "Kruger Big Five safari",
+        "Wildlife",
+        "Adventure"
+      ],
+      "unsplashQuery": "Kruger National Park Kruger Big Five safari",
+      "pexelsQuery": "Kruger National Park Kruger Big Five safari",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Kruger National Park, South Africa — Kruger Big Five safari",
+      "keywords": [
+        "Kruger National Park",
+        "South Africa",
+        "Kruger Big Five safari",
+        "Wildlife",
+        "Adventure"
+      ],
+      "unsplashQuery": "Kruger National Park Kruger Big Five safari",
+      "pexelsQuery": "Kruger National Park Kruger Big Five safari",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Kruger National Park, South Africa — Elephant herd crossing road",
+      "keywords": [
+        "Kruger National Park",
+        "South Africa",
+        "Elephant herd crossing road",
+        "Wildlife",
+        "Adventure"
+      ],
+      "unsplashQuery": "Kruger National Park Elephant herd crossing road",
+      "pexelsQuery": "Kruger National Park Elephant herd crossing road",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Kruger National Park, South Africa — Bushveld sunrise safari vehicle",
+      "keywords": [
+        "Kruger National Park",
+        "South Africa",
+        "Bushveld sunrise safari vehicle",
+        "Wildlife",
+        "Adventure"
+      ],
+      "unsplashQuery": "Kruger National Park Bushveld sunrise safari vehicle",
+      "pexelsQuery": "Kruger National Park Bushveld sunrise safari vehicle",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Kruger National Park, South Africa — Kruger Big Five safari",
+      "keywords": [
+        "Kruger National Park",
+        "South Africa",
+        "Kruger Big Five safari",
+        "Wildlife",
+        "Adventure"
+      ],
+      "unsplashQuery": "Kruger National Park Kruger Big Five safari",
+      "pexelsQuery": "Kruger National Park Kruger Big Five safari",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Kruger National Park, South Africa — Elephant herd crossing road",
+      "keywords": [
+        "Kruger National Park",
+        "South Africa",
+        "Elephant herd crossing road",
+        "Wildlife",
+        "Adventure"
+      ],
+      "unsplashQuery": "Kruger National Park Elephant herd crossing road",
+      "pexelsQuery": "Kruger National Park Elephant herd crossing road",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Kruger National Park, South Africa — Bushveld sunrise safari vehicle",
+      "keywords": [
+        "Kruger National Park",
+        "South Africa",
+        "Bushveld sunrise safari vehicle",
+        "Wildlife",
+        "Adventure"
+      ],
+      "unsplashQuery": "Kruger National Park Bushveld sunrise safari vehicle",
+      "pexelsQuery": "Kruger National Park Bushveld sunrise safari vehicle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Kruger National Park, South Africa — Blyde River Canyon viewpoint",
+      "keywords": [
+        "Kruger National Park",
+        "South Africa",
+        "Blyde River Canyon viewpoint",
+        "Wildlife",
+        "Adventure"
+      ],
+      "unsplashQuery": "Kruger National Park Blyde River Canyon viewpoint",
+      "pexelsQuery": "Kruger National Park Blyde River Canyon viewpoint",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Kruger National Park, South Africa — Kruger National Park self-drive entry",
+      "keywords": [
+        "Kruger National Park",
+        "South Africa",
+        "Kruger National Park self-drive entry",
+        "Wildlife",
+        "Adventure"
+      ],
+      "unsplashQuery": "Kruger National Park Kruger National Park self-drive entry",
+      "pexelsQuery": "Kruger National Park Kruger National Park self-drive entry",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Kruger National Park, South Africa — Private guided game drive (open vehicle)",
+      "keywords": [
+        "Kruger National Park",
+        "South Africa",
+        "Private guided game drive (open vehicle)",
+        "Wildlife",
+        "Adventure"
+      ],
+      "unsplashQuery": "Kruger National Park Private guided game drive (open vehicle)",
+      "pexelsQuery": "Kruger National Park Private guided game drive (open vehicle)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Kruger National Park, South Africa — Bush walk with an armed ranger",
+      "keywords": [
+        "Kruger National Park",
+        "South Africa",
+        "Bush walk with an armed ranger",
+        "Wildlife",
+        "Adventure"
+      ],
+      "unsplashQuery": "Kruger National Park Bush walk with an armed ranger",
+      "pexelsQuery": "Kruger National Park Bush walk with an armed ranger",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Kruger National Park, South Africa — Panorama Route day tour (Blyde River Canyon)",
+      "keywords": [
+        "Kruger National Park",
+        "South Africa",
+        "Panorama Route day tour (Blyde River Canyon)",
+        "Wildlife",
+        "Adventure"
+      ],
+      "unsplashQuery": "Kruger National Park Panorama Route day tour (Blyde River Canyon)",
+      "pexelsQuery": "Kruger National Park Panorama Route day tour (Blyde River Canyon)",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-kruger-national-park-14-1",
+      "author": "Anna Santos",
+      "country": "UAE",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-08-14",
+      "title": "Smooth from start to finish",
+      "body": "Kruger National Park is stunning and this package covered the essentials well, especially Private guided game drive (open vehicle). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-2",
+      "author": "Omar Larsen",
+      "country": "UAE",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-06-24",
+      "title": "Adventure of a lifetime",
+      "body": "We added a couple of optional activities beyond Private guided game drive (open vehicle) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-3",
+      "author": "Liam Rossi",
+      "country": "Mexico",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-11",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Kruger National Park was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Rest camp wildlife viewing was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-4",
+      "author": "Olivia Kim",
+      "country": "United Kingdom",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-12-26",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Kruger National Park was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kruger National Park self-drive entry was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-5",
+      "author": "Olivia Williams",
+      "country": "Switzerland",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-03-22",
+      "title": "Consultant made it effortless",
+      "body": "Our trip to Kruger National Park was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Panorama Route day tour (Blyde River Canyon) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-6",
+      "author": "Anna Sharma",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4,
+      "date": "2025-04-05",
+      "title": "Would book again in a heartbeat",
+      "body": "Kruger National Park is stunning and this package covered the essentials well, especially Bush walk with an armed ranger. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-7",
+      "author": "Fatima Andersen",
+      "country": "Japan",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-12",
+      "title": "Highly recommend this package",
+      "body": "Bush walk with an armed ranger alone was worth the trip, but combined with Bush walk with an armed ranger this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-8",
+      "author": "Wei Costa",
+      "country": "Japan",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-12-15",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a group trip and it was well paced. Bush walk with an armed ranger in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-9",
+      "author": "Tom Botha",
+      "country": "Australia",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-06-05",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Kruger National Park self-drive entry and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-10",
+      "author": "Ethan Larsen",
+      "country": "UAE",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-31",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Private guided game drive (open vehicle) and Bush walk with an armed ranger. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-11",
+      "author": "Emma Botha",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-09-27",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Kruger National Park was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Private guided game drive (open vehicle) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-12",
+      "author": "Daniel Khan",
+      "country": "Canada",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-07-17",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Kruger National Park self-drive entry and Panorama Route day tour (Blyde River Canyon). Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-13",
+      "author": "Anna Johnson",
+      "country": "Switzerland",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-06-06",
+      "title": "Consultant made it effortless",
+      "body": "Kruger National Park is stunning and this package covered the essentials well, especially Panorama Route day tour (Blyde River Canyon). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-14",
+      "author": "Olivia Dubois",
+      "country": "Mexico",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-02-13",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Kruger National Park was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Rest camp wildlife viewing was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-15",
+      "author": "Mohammed Wang",
+      "country": "France",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-05-31",
+      "title": "Best vacation we've had",
+      "body": "Private guided game drive (open vehicle) alone was worth the trip, but combined with Panorama Route day tour (Blyde River Canyon) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-kruger-national-park-14-16",
+      "author": "Olivia Wang",
+      "country": "Netherlands",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-07",
+      "title": "So many hidden gems included",
+      "body": "Our trip to Kruger National Park was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Panorama Route day tour (Blyde River Canyon) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-17",
+      "author": "Omar Andersen",
+      "country": "France",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-11-03",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Private guided game drive (open vehicle) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-18",
+      "author": "Marco Santos",
+      "country": "Italy",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-11-24",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Rest camp wildlife viewing and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-kruger-national-park-14-19",
+      "author": "James Khan",
+      "country": "Mexico",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-06-05",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Kruger National Park was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Rest camp wildlife viewing was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-kruger-national-park-14-20",
+      "author": "Sofia Cohen",
+      "country": "UAE",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-02-03",
+      "title": "Five stars, will return",
+      "body": "Booked this as a group trip and it was well paced. Private guided game drive (open vehicle) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.3,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Kruger National Park Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Rest camp curio shops"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Kruger National Park Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 32,
+      "neighborhood": "Boma dinner with traditional dancing (select camps)"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Kruger National Park Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 56,
+      "neighborhood": "Stargazing around the campfire"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Kruger National Park Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 72,
+      "neighborhood": "Rest camp coffee shops"
+    },
+    {
+      "tier": "Resort",
+      "name": "Kruger National Park Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 175,
+      "neighborhood": "Rest camp curio shops"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Kruger National Park Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 378,
+      "neighborhood": "Boma dinner with traditional dancing (select camps)"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Kruger National Park Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 450,
+      "neighborhood": "Stargazing around the campfire"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1015,
+        1612
+      ],
+      "estimatedFlightHours": 18.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1050,
+        1667
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        723,
+        1148
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        698,
+        1108
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        694,
+        1102
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        625,
+        992
+      ],
+      "estimatedFlightHours": 11,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        657,
+        1044
+      ],
+      "estimatedFlightHours": 11.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        717,
+        1139
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        673,
+        1069
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        869,
+        1380
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        960,
+        1524
+      ],
+      "estimatedFlightHours": 17.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        627,
+        996
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        1023,
+        1625
+      ],
+      "estimatedFlightHours": 18.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        948,
+        1505
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        674,
+        1071
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        696,
+        1106
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        666,
+        1057
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        672,
+        1067
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        842,
+        1338
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        728,
+        1156
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        513,
+        814
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        485,
+        771
+      ],
+      "estimatedFlightHours": 8.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        502,
+        797
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        524,
+        832
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        108,
+        171
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        643,
+        1021
+      ],
+      "estimatedFlightHours": 11.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Kruger Mpumalanga International Airport (MQP)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1154,
+        1833
+      ],
+      "estimatedFlightHours": 20.9,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Kruger National Park self-drive entry",
+    "Private guided game drive (open vehicle)",
+    "Bush walk with an armed ranger",
+    "Panorama Route day tour (Blyde River Canyon)",
+    "Rest camp wildlife viewing",
+    "Panorama Route (God's Window, Three Rondavels, Bourke's Luck Potholes)",
+    "Private game reserves bordering Kruger",
+    "Stevenson-Hamilton Memorial Library and Museum (Skukuza)",
+    "Kruger National Park",
+    "Blyde River Canyon Nature Reserve",
+    "Big Five sightings on a game drive",
+    "Sunrise over the bushveld",
+    "Sunset silhouette safari vehicle shot",
+    "Elephant herd crossing a road"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Kruger National Park self-drive entry",
+      "priceUSD": 25
+    },
+    {
+      "name": "Private guided game drive (open vehicle)",
+      "priceUSD": 90
+    },
+    {
+      "name": "Bush walk with an armed ranger",
+      "priceUSD": 70
+    },
+    {
+      "name": "Panorama Route day tour (Blyde River Canyon)",
+      "priceUSD": 60
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Rest camp wildlife viewing"
+  ],
+  "museums": [
+    "Stevenson-Hamilton Memorial Library and Museum (Skukuza)"
+  ],
+  "parks": [
+    "Kruger National Park",
+    "Blyde River Canyon Nature Reserve"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Panorama Route (God's Window, Three Rondavels, Bourke's Luck Potholes)",
+    "Private game reserves bordering Kruger"
+  ],
+  "fromPriceUSD": 3084,
+  "seo": {
+    "title": "Kruger National Park 14-Day Wildlife Safari | Flights, Hotels & Tours Included",
+    "slug": "kruger-national-park-14-day-package",
+    "keywords": [
+      "Kruger National Park",
+      "South Africa",
+      "Kruger National Park, South Africa",
+      "Southern Africa",
+      "Kruger National Park tour package",
+      "Kruger National Park vacation package",
+      "Kruger National Park holiday package",
+      "things to do in Kruger National Park",
+      "best time to visit Kruger National Park",
+      "Kruger National Park itinerary",
+      "14 day Kruger National Park itinerary",
+      "Kruger National Park flights and hotels",
+      "Kruger National Park all inclusive package",
+      "cheap Kruger National Park package",
+      "luxury Kruger National Park package"
+    ],
+    "canonicalUrl": "/packages/kruger-national-park-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Kruger National Park Package",
+        "url": "/packages/kruger-national-park-10-day-package"
+      },
+      {
+        "title": "7-Day Kruger National Park Package",
+        "url": "/packages/kruger-national-park-7-day-package"
+      },
+      {
+        "title": "Galápagos Islands 14-Day Wildlife Safari",
+        "url": "/packages/galapagos-islands-14-day-package"
+      },
+      {
+        "title": "Serengeti 14-Day Wildlife Safari",
+        "url": "/packages/serengeti-14-day-package"
+      },
+      {
+        "title": "Victoria Falls 14-Day Adventure Tour",
+        "url": "/packages/victoria-falls-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Kruger National Park — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kruger_National_Park"
+      },
+      {
+        "title": "Kruger National Park — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Kruger_National_Park"
+      }
+    ]
+  }
+}

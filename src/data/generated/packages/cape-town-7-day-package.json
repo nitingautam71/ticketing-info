@@ -1626,16 +1626,16 @@
         "url": "/packages/cape-town-10-day-package"
       },
       {
+        "title": "Santiago 7-Day City Break",
+        "url": "/packages/santiago-7-day-package"
+      },
+      {
+        "title": "Auckland 7-Day City Break",
+        "url": "/packages/auckland-7-day-package"
+      },
+      {
         "title": "Bangkok 7-Day City Break",
         "url": "/packages/bangkok-7-day-package"
-      },
-      {
-        "title": "Hanoi 7-Day City Break",
-        "url": "/packages/hanoi-7-day-package"
-      },
-      {
-        "title": "Paris 7-Day City Break",
-        "url": "/packages/paris-7-day-package"
       }
     ],
     "externalLinks": [

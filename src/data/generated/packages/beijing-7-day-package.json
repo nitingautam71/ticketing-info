@@ -1,0 +1,1567 @@
+{
+  "id": "PKG-beijing-7D",
+  "slug": "beijing-7-day-package",
+  "destinationSlug": "beijing",
+  "destinationName": "Beijing",
+  "country": "China",
+  "region": "East Asia",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Beijing 7-Day Heritage Tour",
+  "metaTitle": "Beijing 7-Day Heritage Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Beijing, China: round-trip flights, hotel, breakfast, transfers, and guided tours including Forbidden City and Great Wall at Mutianyu. Prices from $1648 per person (estimate).",
+  "highlights": [
+    "Forbidden City",
+    "Great Wall at Mutianyu",
+    "Tiananmen Square",
+    "Great Wall at Mutianyu or Badaling"
+  ],
+  "overview": "Spend 7 days discovering Beijing, China — Continental climate — hot summers (highs around 31-32°C) and very cold, dry winters (highs around 2°C, occasional snow). March-May and September-October, for mild temperatures and generally clearer skies ideal for visiting the Great Wall. This itinerary blends Forbidden City, Great Wall at Mutianyu, Tiananmen Square with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Forbidden City, Great Wall at Mutianyu, Tiananmen Square",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Beijing",
+      "description": "Land at Beijing Capital International Airport (PEK) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Forbidden City — The vast former imperial palace complex at the heart of Beijing. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Forbidden City"
+      ],
+      "overnight": "Beijing"
+    },
+    {
+      "day": 2,
+      "title": "Beijing: Great Wall at Mutianyu & Summer Palace",
+      "description": "Morning visit to Great Wall at Mutianyu — One of the best-preserved, less crowded sections of the Great Wall. In the afternoon, continue to Summer Palace — Lakeside imperial retreat with pavilions, bridges, and gardens. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Great Wall at Mutianyu",
+        "Summer Palace"
+      ],
+      "overnight": "Beijing"
+    },
+    {
+      "day": 3,
+      "title": "Beijing: Temple of Heaven & Tiananmen Square",
+      "description": "Morning visit to Temple of Heaven — Ming-dynasty complex where emperors once prayed for good harvests. In the afternoon, continue to Tiananmen Square — One of the world's largest public squares, at the edge of the Forbidden City. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Temple of Heaven",
+        "Tiananmen Square"
+      ],
+      "overnight": "Beijing"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Great Wall at Mutianyu or Badaling",
+      "description": "Full-day excursion to Great Wall at Mutianyu or Badaling, a popular side trip from Beijing. Return to Beijing in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Great Wall at Mutianyu or Badaling",
+        "Free evening"
+      ],
+      "overnight": "Beijing"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Hutong neighborhoods around Gulou (Drum Tower) — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Hutong neighborhoods around Gulou (Drum Tower)"
+      ],
+      "overnight": "Beijing"
+    },
+    {
+      "day": 6,
+      "title": "Beijing: Houhai Lake area & Nanluoguxiang hutong",
+      "description": "Morning visit to Houhai Lake area — Lakeside hutong district with bars and traditional courtyard homes. In the afternoon, continue to Nanluoguxiang hutong — Historic alleyway lined with shops and snack stalls. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Houhai Lake area",
+        "Nanluoguxiang hutong"
+      ],
+      "overnight": "Beijing"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to 798 Art District or some souvenir shopping — before your private transfer to PEK for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Set up a VPN before arrival for blocked Western apps and sites.",
+    "Book Forbidden City tickets online in advance — daily visitor numbers are capped.",
+    "Choose Mutianyu over Badaling for a less crowded, equally spectacular Great Wall section.",
+    "Check the air quality index before planning an outdoor-heavy day, especially in winter.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Insulated jacket and warm layers for cold weather",
+    "A VPN set up before arrival",
+    "Warm layers for cold, dry winters; breathable clothing for hot summers",
+    "Comfortable shoes for extensive walking at the Forbidden City and Great Wall",
+    "A face mask for occasional high-pollution days"
+  ],
+  "thingsToDo": [
+    "Forbidden City",
+    "Great Wall at Mutianyu",
+    "Summer Palace",
+    "Temple of Heaven",
+    "Tiananmen Square",
+    "Houhai Lake area",
+    "Nanluoguxiang hutong",
+    "798 Art District",
+    "Hiking a less-restored Great Wall section (Jiankou, for experienced hikers)",
+    "Cycling the hutong alleyways",
+    "Toboggan ride down from the Mutianyu wall section",
+    "Beijing Zoo (giant pandas)",
+    "Summer Palace boat ride",
+    "Beijing Aquarium"
+  ],
+  "thingsToAvoid": [
+    "Arriving without a VPN arranged in advance.",
+    "Visiting the Great Wall at Badaling on a weekend or holiday — it gets extremely crowded.",
+    "Underestimating the Forbidden City's scale — budget at least half a day."
+  ],
+  "topRestaurants": [
+    "Da Dong Roast Duck — Peking duck ($$$)",
+    "Baoyuan Dumpling House — Handmade dumplings ($$)",
+    "Najia Xiaoguan — Traditional Beijing cuisine ($$)"
+  ],
+  "topCafes": [
+    "% Arabica Beijing",
+    "Sculpting in Time Cafe"
+  ],
+  "shoppingAreas": [
+    "Wangfujing Street",
+    "Panjiayuan Antique Market",
+    "Sanlitun shopping district"
+  ],
+  "nightlife": [
+    "Sanlitun bar street",
+    "Houhai Lake bars",
+    "Workers' Stadium nightlife area"
+  ],
+  "instagramSpots": [
+    "Great Wall at Mutianyu",
+    "Forbidden City rooftops",
+    "Temple of Heaven's circular hall",
+    "798 Art District murals"
+  ],
+  "hiddenGems": [
+    "Hutong neighborhoods around Gulou (Drum Tower)",
+    "Jingshan Park hilltop view over the Forbidden City",
+    "Ancient Observatory"
+  ],
+  "familyActivities": [
+    "Beijing Zoo (giant pandas)",
+    "Summer Palace boat ride",
+    "Beijing Aquarium"
+  ],
+  "adventureActivities": [
+    "Hiking a less-restored Great Wall section (Jiankou, for experienced hikers)",
+    "Cycling the hutong alleyways",
+    "Toboggan ride down from the Mutianyu wall section"
+  ],
+  "luxuryExperiences": [
+    "Private Great Wall tour with a historian guide",
+    "Peking duck tasting menu at Da Dong",
+    "Suite stay near the Forbidden City"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at the Temple of Heaven",
+    "Rickshaw tour of the hutongs at dusk",
+    "Private Great Wall visit avoiding crowds"
+  ],
+  "budgetExperiences": [
+    "Free Tiananmen Square visit",
+    "Hutong wander around Nanluoguxiang",
+    "Jingshan Park (low-cost entry) for a Forbidden City viewpoint"
+  ],
+  "estimatedDailyBudgetUSD": [
+    45,
+    95,
+    200,
+    480
+  ],
+  "safetyRating": 4.5,
+  "internetRating": 4,
+  "publicTransportRating": 4.5,
+  "walkingScore": 60,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 2,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 5,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 12,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 20,
+      "crowd": "Peak"
+    },
+    {
+      "month": "May",
+      "highC": 27,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 30,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Oct",
+      "highC": 18,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Nov",
+      "highC": 9,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 3,
+      "crowd": "Low"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Chinese New Year (Spring Festival)",
+      "timing": "January/February"
+    },
+    {
+      "name": "Mid-Autumn Festival",
+      "timing": "September/October"
+    },
+    {
+      "name": "National Day Golden Week",
+      "timing": "October 1-7"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "110",
+    "ambulance": "120",
+    "fire": "119"
+  },
+  "localEtiquette": [
+    "A VPN arranged before arrival is essential — Google, WhatsApp, and Instagram are blocked.",
+    "Business cards are exchanged with both hands and a slight bow.",
+    "Most payments are cashless via WeChat Pay or Alipay; carry cash as backup."
+  ],
+  "localTransportGuide": "The Beijing Subway is extensive, cheap, and has English signage, making it the easiest way to reach most major sites. For the Great Wall, most visitors book a tour bus or private driver, since public transport options are limited and time-consuming.",
+  "bestTimeToVisit": "March-May and September-October, for mild temperatures and generally clearer skies ideal for visiting the Great Wall.",
+  "weather": "Continental climate — hot summers (highs around 31-32°C) and very cold, dry winters (highs around 2°C, occasional snow).",
+  "visaInformation": "Most nationalities including the US, UK, EU, Canada, Australia, and India need a Chinese visa arranged in advance, though many travelers qualify for a 144-hour visa-free transit if arriving/departing via certain international gateways.",
+  "currency": "CNY",
+  "languages": [
+    "Mandarin"
+  ],
+  "timeZone": "CST (UTC+8)",
+  "averageFlightTime": "~10.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Beijing Capital International Airport (PEK)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Beijing?",
+      "answer": "Most nationalities including the US, UK, EU, Canada, Australia, and India need a Chinese visa arranged in advance, though many travelers qualify for a 144-hour visa-free transit if arriving/departing via certain international gateways."
+    },
+    {
+      "question": "What is the best time to visit Beijing?",
+      "answer": "March-May and September-October, for mild temperatures and generally clearer skies ideal for visiting the Great Wall. Continental climate — hot summers (highs around 31-32°C) and very cold, dry winters (highs around 2°C, occasional snow)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Beijing safe for tourists?",
+      "answer": "Beijing is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Beijing?",
+      "answer": "The local currency is CNY. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "History",
+    "Culture",
+    "Bucket List",
+    "City Break"
+  ],
+  "aiTags": [
+    "Beijing",
+    "China",
+    "Beijing, China",
+    "East Asia",
+    "Beijing tour package",
+    "Beijing vacation package",
+    "Beijing holiday package",
+    "things to do in Beijing",
+    "best time to visit Beijing",
+    "Beijing itinerary",
+    "7 day Beijing itinerary",
+    "Beijing flights and hotels",
+    "Beijing all inclusive package",
+    "cheap Beijing package",
+    "luxury Beijing package",
+    "Beijing honeymoon package",
+    "Beijing family vacation",
+    "Beijing solo trip",
+    "Beijing group tour",
+    "Beijing weekend getaway",
+    "Beijing guided tour",
+    "PEK flights",
+    "Beijing travel guide",
+    "book Beijing trip online",
+    "Beijing trip cost",
+    "Beijing packages 7 days",
+    "Beijing history",
+    "Beijing culture",
+    "Beijing bucket list",
+    "Beijing city break",
+    "Forbidden City",
+    "Great Wall at Mutianyu",
+    "Summer Palace",
+    "Temple of Heaven",
+    "Tiananmen Square",
+    "Houhai Lake area",
+    "Nanluoguxiang hutong",
+    "798 Art District",
+    "Da Dong Roast Duck",
+    "Baoyuan Dumpling House",
+    "Najia Xiaoguan",
+    "Forbidden City rooftops",
+    "Temple of Heaven's circular hall",
+    "798 Art District murals",
+    "Hutong neighborhoods around Gulou (Drum Tower)",
+    "Jingshan Park hilltop view over the Forbidden City",
+    "Ancient Observatory",
+    "China tourism",
+    "East Asia travel",
+    "international vacation packages"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Beijing, China — Great Wall Mutianyu mountains",
+      "keywords": [
+        "Beijing",
+        "China",
+        "Great Wall Mutianyu mountains",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Beijing Great Wall Mutianyu mountains",
+      "pexelsQuery": "Beijing Great Wall Mutianyu mountains",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Beijing, China — Great Wall Mutianyu mountains",
+      "keywords": [
+        "Beijing",
+        "China",
+        "Great Wall Mutianyu mountains",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Beijing Great Wall Mutianyu mountains",
+      "pexelsQuery": "Beijing Great Wall Mutianyu mountains",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Beijing, China — Forbidden City rooftops",
+      "keywords": [
+        "Beijing",
+        "China",
+        "Forbidden City rooftops",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Beijing Forbidden City rooftops",
+      "pexelsQuery": "Beijing Forbidden City rooftops",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Beijing, China — Temple of Heaven circular hall",
+      "keywords": [
+        "Beijing",
+        "China",
+        "Temple of Heaven circular hall",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Beijing Temple of Heaven circular hall",
+      "pexelsQuery": "Beijing Temple of Heaven circular hall",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Beijing, China — Great Wall Mutianyu mountains",
+      "keywords": [
+        "Beijing",
+        "China",
+        "Great Wall Mutianyu mountains",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Beijing Great Wall Mutianyu mountains",
+      "pexelsQuery": "Beijing Great Wall Mutianyu mountains",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Beijing, China — Forbidden City rooftops",
+      "keywords": [
+        "Beijing",
+        "China",
+        "Forbidden City rooftops",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Beijing Forbidden City rooftops",
+      "pexelsQuery": "Beijing Forbidden City rooftops",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Beijing, China — Temple of Heaven circular hall",
+      "keywords": [
+        "Beijing",
+        "China",
+        "Temple of Heaven circular hall",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Beijing Temple of Heaven circular hall",
+      "pexelsQuery": "Beijing Temple of Heaven circular hall",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Beijing, China — Tiananmen Square",
+      "keywords": [
+        "Beijing",
+        "China",
+        "Tiananmen Square",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Beijing Tiananmen Square",
+      "pexelsQuery": "Beijing Tiananmen Square",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Beijing, China — Forbidden City",
+      "keywords": [
+        "Beijing",
+        "China",
+        "Forbidden City",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Beijing Forbidden City",
+      "pexelsQuery": "Beijing Forbidden City",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Beijing, China — Great Wall at Mutianyu",
+      "keywords": [
+        "Beijing",
+        "China",
+        "Great Wall at Mutianyu",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Beijing Great Wall at Mutianyu",
+      "pexelsQuery": "Beijing Great Wall at Mutianyu",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Beijing, China — Summer Palace",
+      "keywords": [
+        "Beijing",
+        "China",
+        "Summer Palace",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Beijing Summer Palace",
+      "pexelsQuery": "Beijing Summer Palace",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Beijing, China — Temple of Heaven",
+      "keywords": [
+        "Beijing",
+        "China",
+        "Temple of Heaven",
+        "History",
+        "Culture"
+      ],
+      "unsplashQuery": "Beijing Temple of Heaven",
+      "pexelsQuery": "Beijing Temple of Heaven",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-beijing-7-1",
+      "author": "Sarah Khan",
+      "country": "New Zealand",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-03-28",
+      "title": "So many hidden gems included",
+      "body": "Beijing is stunning and this package covered the essentials well, especially Houhai Lake area. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-2",
+      "author": "Fatima Smith",
+      "country": "Spain",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-09-25",
+      "title": "Unforgettable trip!",
+      "body": "798 Art District alone was worth the trip, but combined with Temple of Heaven this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-3",
+      "author": "Elena Andersen",
+      "country": "France",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-03-26",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Summer Palace and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-beijing-7-4",
+      "author": "Fatima Garcia",
+      "country": "United Kingdom",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-02",
+      "title": "Great for families with kids",
+      "body": "Forbidden City alone was worth the trip, but combined with Nanluoguxiang hutong this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-5",
+      "author": "Sofia Nguyen",
+      "country": "Brazil",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-27",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a solo trip and it was well paced. Tiananmen Square in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-6",
+      "author": "Noah Wang",
+      "country": "UAE",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-07-27",
+      "title": "Highly recommend this package",
+      "body": "Our trip to Beijing was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Summer Palace was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-beijing-7-7",
+      "author": "Mohammed Patel",
+      "country": "South Africa",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-03",
+      "title": "Unforgettable trip!",
+      "body": "Houhai Lake area alone was worth the trip, but combined with Summer Palace this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-8",
+      "author": "Mohammed van Dijk",
+      "country": "Germany",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-15",
+      "title": "Consultant made it effortless",
+      "body": "Great Wall at Mutianyu alone was worth the trip, but combined with Forbidden City this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-beijing-7-9",
+      "author": "Emma Khan",
+      "country": "India",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-10-27",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Beijing was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Summer Palace was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-10",
+      "author": "Ethan Sharma",
+      "country": "Italy",
+      "rating": 4.4,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-01",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to 798 Art District and 798 Art District. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-11",
+      "author": "Sarah Brown",
+      "country": "Japan",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-06-12",
+      "title": "Best vacation we've had",
+      "body": "Beijing is stunning and this package covered the essentials well, especially Tiananmen Square. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-12",
+      "author": "Grace Tanaka",
+      "country": "Italy",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-07-13",
+      "title": "Perfect for our honeymoon",
+      "body": "We added a couple of optional activities beyond 798 Art District and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-13",
+      "author": "Grace Fernandez",
+      "country": "Canada",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-02",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Great Wall at Mutianyu and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-14",
+      "author": "James Rossi",
+      "country": "Saudi Arabia",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-05-13",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Beijing was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Nanluoguxiang hutong was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-15",
+      "author": "David Larsen",
+      "country": "UAE",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-06-10",
+      "title": "Beautiful destination, well organized",
+      "body": "Beijing is stunning and this package covered the essentials well, especially Temple of Heaven. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-16",
+      "author": "Ethan Wang",
+      "country": "Netherlands",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-26",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Houhai Lake area and Forbidden City. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-17",
+      "author": "Mohammed Ivanov",
+      "country": "Saudi Arabia",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-04-06",
+      "title": "Five stars, will return",
+      "body": "Nanluoguxiang hutong alone was worth the trip, but combined with Tiananmen Square this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-18",
+      "author": "Arjun Silva",
+      "country": "Netherlands",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-04-08",
+      "title": "Smooth from start to finish",
+      "body": "Booked this as a couple trip and it was well paced. Houhai Lake area in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-beijing-7-19",
+      "author": "Lucas Sharma",
+      "country": "Singapore",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-21",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Temple of Heaven and Temple of Heaven. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-beijing-7-20",
+      "author": "Olivia Cohen",
+      "country": "Saudi Arabia",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-16",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Beijing was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Nanluoguxiang hutong was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.2,
+    "activities": 4.3,
+    "value": 4.2,
+    "cleanliness": 4.3,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Beijing Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 10,
+      "neighborhood": "Wangfujing Street"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Beijing Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Panjiayuan Antique Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Beijing Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 33,
+      "neighborhood": "Sanlitun shopping district"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Beijing Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 43,
+      "neighborhood": "Sanlitun bar street"
+    },
+    {
+      "tier": "Resort",
+      "name": "Beijing Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 100,
+      "neighborhood": "Houhai Lake bars"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Beijing Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 202,
+      "neighborhood": "Workers' Stadium nightlife area"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Beijing Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 240,
+      "neighborhood": "% Arabica Beijing"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        870,
+        1382
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        842,
+        1337
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        665,
+        1056
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        670,
+        1064
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        638,
+        1014
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        664,
+        1054
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        743,
+        1180
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        642,
+        1019
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        653,
+        1037
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        723,
+        1149
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        829,
+        1316
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        349,
+        555
+      ],
+      "estimatedFlightHours": 5.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        228,
+        362
+      ],
+      "estimatedFlightHours": 3.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        145,
+        231
+      ],
+      "estimatedFlightHours": 2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        400,
+        635
+      ],
+      "estimatedFlightHours": 6.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        315,
+        500
+      ],
+      "estimatedFlightHours": 5.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        391,
+        621
+      ],
+      "estimatedFlightHours": 6.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        454,
+        721
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        282,
+        448
+      ],
+      "estimatedFlightHours": 4.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        320,
+        509
+      ],
+      "estimatedFlightHours": 5.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        499,
+        792
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        553,
+        879
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        521,
+        828
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        525,
+        834
+      ],
+      "estimatedFlightHours": 9.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        922,
+        1465
+      ],
+      "estimatedFlightHours": 16.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1348,
+        2141
+      ],
+      "estimatedFlightHours": 24.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Beijing Capital International Airport (PEK)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        977,
+        1551
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Forbidden City",
+    "Great Wall at Mutianyu",
+    "Summer Palace",
+    "Temple of Heaven",
+    "Tiananmen Square",
+    "Houhai Lake area",
+    "Nanluoguxiang hutong",
+    "798 Art District",
+    "Great Wall at Mutianyu or Badaling",
+    "Ming Tombs",
+    "National Museum of China",
+    "Palace Museum (Forbidden City)",
+    "Capital Museum",
+    "Beihai Park",
+    "Jingshan Park",
+    "Ritan Park",
+    "Forbidden City rooftops",
+    "Temple of Heaven's circular hall",
+    "798 Art District murals"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Forbidden City",
+      "priceUSD": 9
+    },
+    {
+      "name": "Great Wall at Mutianyu",
+      "priceUSD": 12
+    },
+    {
+      "name": "Summer Palace",
+      "priceUSD": 4
+    },
+    {
+      "name": "Temple of Heaven",
+      "priceUSD": 4
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Tiananmen Square",
+    "Houhai Lake area",
+    "Nanluoguxiang hutong",
+    "798 Art District"
+  ],
+  "museums": [
+    "National Museum of China",
+    "Palace Museum (Forbidden City)",
+    "Capital Museum"
+  ],
+  "parks": [
+    "Beihai Park",
+    "Jingshan Park",
+    "Ritan Park"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Great Wall at Mutianyu or Badaling",
+    "Ming Tombs",
+    "Summer Palace"
+  ],
+  "fromPriceUSD": 1648,
+  "seo": {
+    "title": "Beijing 7-Day Heritage Tour | Flights, Hotels & Tours Included",
+    "slug": "beijing-7-day-package",
+    "keywords": [
+      "Beijing",
+      "China",
+      "Beijing, China",
+      "East Asia",
+      "Beijing tour package",
+      "Beijing vacation package",
+      "Beijing holiday package",
+      "things to do in Beijing",
+      "best time to visit Beijing",
+      "Beijing itinerary",
+      "7 day Beijing itinerary",
+      "Beijing flights and hotels",
+      "Beijing all inclusive package",
+      "cheap Beijing package",
+      "luxury Beijing package"
+    ],
+    "canonicalUrl": "/packages/beijing-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Beijing Package",
+        "url": "/packages/beijing-5-day-package"
+      },
+      {
+        "title": "10-Day Beijing Package",
+        "url": "/packages/beijing-10-day-package"
+      },
+      {
+        "title": "Rome 7-Day City Break",
+        "url": "/packages/rome-7-day-package"
+      },
+      {
+        "title": "Venice 7-Day Romantic Getaway",
+        "url": "/packages/venice-7-day-package"
+      },
+      {
+        "title": "Florence 7-Day Cultural Tour",
+        "url": "/packages/florence-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Beijing — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Beijing"
+      },
+      {
+        "title": "Beijing — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Beijing"
+      }
+    ]
+  }
+}

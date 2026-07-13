@@ -1,0 +1,1723 @@
+{
+  "id": "PKG-san-diego-14D",
+  "slug": "san-diego-14-day-package",
+  "destinationSlug": "san-diego",
+  "destinationName": "San Diego",
+  "country": "United States",
+  "region": "California",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "San Diego 14-Day Beach Getaway",
+  "metaTitle": "San Diego 14-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to San Diego, United States: round-trip flights, hotel, breakfast, transfers, and guided tours including San Diego Zoo and San Diego Zoo Safari Park. Prices from $2444 per person (estimate).",
+  "highlights": [
+    "San Diego Zoo",
+    "San Diego Zoo Safari Park",
+    "Balboa Park",
+    "Tijuana, Mexico (border crossing)"
+  ],
+  "overview": "Spend 14 days discovering San Diego, United States — Mild semi-arid Mediterranean climate, one of the most consistent in the US: warm, dry summers (highs 25-27°C with low humidity) and mild winters (highs 18-19°C), with minimal rainfall concentrated Dec-Mar. March to May and September to November for warm, dry, uncrowded weather (highs 21-24°C); San Diego's mild climate makes it a solid year-round destination, though June brings a brief \"June gloom\" morning marine layer. This itinerary blends San Diego Zoo, San Diego Zoo Safari Park, Balboa Park with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including San Diego Zoo, San Diego Zoo Safari Park, Balboa Park",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in San Diego",
+      "description": "Land at San Diego International Airport (SAN) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to San Diego Zoo — World-renowned zoo in Balboa Park with pandas and a globally recognized conservation program. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "San Diego Zoo"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 2,
+      "title": "San Diego: San Diego Zoo Safari Park & USS Midway Museum",
+      "description": "Morning visit to San Diego Zoo Safari Park — Large safari-style wildlife park in Escondido, sister site to the main zoo. In the afternoon, continue to USS Midway Museum — Retired aircraft carrier turned floating naval aviation museum. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "San Diego Zoo Safari Park",
+        "USS Midway Museum"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 3,
+      "title": "San Diego: SeaWorld San Diego & Birch Aquarium at Scripps",
+      "description": "Morning visit to SeaWorld San Diego — Marine life theme park with shows and rides. In the afternoon, continue to Birch Aquarium at Scripps — Oceanographic aquarium affiliated with UC San Diego. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "SeaWorld San Diego",
+        "Birch Aquarium at Scripps"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Tijuana, Mexico (border crossing)",
+      "description": "Full-day excursion to Tijuana, Mexico (border crossing), a popular side trip from San Diego. Return to San Diego in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Tijuana, Mexico (border crossing)",
+        "Free evening"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Sunset Cliffs tide pools — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Sunset Cliffs tide pools"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 6,
+      "title": "San Diego: Cabrillo National Monument & Legoland California, Carlsbad",
+      "description": "Morning visit to Cabrillo National Monument — Historic lighthouse and tide pools at Point Loma, with whale-watching overlooks. In the afternoon, continue to Legoland California, Carlsbad — Family theme park roughly 35 minutes north of downtown. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Cabrillo National Monument",
+        "Legoland California, Carlsbad"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Julian mountain town",
+      "description": "Full-day excursion to Julian mountain town, a popular side trip from San Diego. Return to San Diego in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Julian mountain town",
+        "Free evening"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 8,
+      "title": "San Diego: Balboa Park & La Jolla Cove",
+      "description": "Morning visit to Balboa Park — Sprawling cultural park with Spanish Colonial architecture and gardens (individual museums ticketed). In the afternoon, continue to La Jolla Cove — Scenic cove famous for resident sea lions and seals. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Balboa Park",
+        "La Jolla Cove"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Spanish Village Art Center, Balboa Park — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Spanish Village Art Center, Balboa Park"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Temecula wine country",
+      "description": "Full-day excursion to Temecula wine country, a popular side trip from San Diego. Return to San Diego in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Temecula wine country",
+        "Free evening"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 11,
+      "title": "San Diego: Gaslamp Quarter & Sunset Cliffs Natural Park",
+      "description": "Morning visit to Gaslamp Quarter — Historic downtown entertainment district. In the afternoon, continue to Sunset Cliffs Natural Park — Dramatic coastal cliffs, especially photogenic at sunset. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Gaslamp Quarter",
+        "Sunset Cliffs Natural Park"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 12,
+      "title": "San Diego: Coronado Beach & Old Town San Diego State Historic Park",
+      "description": "Morning visit to Coronado Beach — Wide sandy beach facing the historic Hotel del Coronado. In the afternoon, continue to Old Town San Diego State Historic Park — Reconstructed original Spanish/Mexican-era settlement. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Coronado Beach",
+        "Old Town San Diego State Historic Park"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Mission Trails Regional Park — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Mission Trails Regional Park"
+      ],
+      "overnight": "San Diego"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Torrey Pines State Natural Reserve trails or some souvenir shopping — before your private transfer to SAN for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Buy a combined San Diego Zoo + Safari Park ticket if visiting both — it offers meaningful savings over separate admission.",
+    "Visit La Jolla Cove early morning for the best sea lion activity and easiest parking.",
+    "Balboa Park's museums offer a rotating free-admission Tuesday schedule by museum — check the current calendar before visiting.",
+    "Coronado is easily reached by a scenic ferry from downtown's Broadway Pier rather than driving over the bridge.",
+    "December-April is prime gray whale migration season for whale-watching boat tours departing from the harbor.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Swimwear and reef-safe sunscreen",
+    "Light layers — mornings can be cool and foggy even on warm days (\"June gloom\")",
+    "Swimwear and reef-safe sunscreen for beach time",
+    "Comfortable walking shoes for Balboa Park and coastal trails",
+    "A passport if planning a same-day Tijuana day trip"
+  ],
+  "thingsToDo": [
+    "San Diego Zoo",
+    "San Diego Zoo Safari Park",
+    "USS Midway Museum",
+    "SeaWorld San Diego",
+    "Birch Aquarium at Scripps",
+    "Cabrillo National Monument",
+    "Legoland California, Carlsbad",
+    "Balboa Park",
+    "La Jolla Cove",
+    "Gaslamp Quarter",
+    "Sunset Cliffs Natural Park",
+    "Coronado Beach",
+    "Old Town San Diego State Historic Park",
+    "Torrey Pines State Natural Reserve trails",
+    "Surfing lessons at Pacific Beach or La Jolla Shores",
+    "Kayaking the La Jolla sea caves",
+    "Hiking Torrey Pines State Natural Reserve",
+    "Whale watching boat tours (Dec-Apr gray whale migration)",
+    "USS Midway Museum flight deck",
+    "Legoland California"
+  ],
+  "thingsToAvoid": [
+    "Getting too close to sea lions/seals at La Jolla Cove — they are wild and protected, with fines for harassment.",
+    "Driving into Mexico without proper documentation and Mexican auto insurance — walk across or use a trolley/pedestrian crossing instead.",
+    "Underestimating June/July marine layer (\"June gloom\") — mornings can stay grey and cool into early afternoon.",
+    "Swimming at Sunset Cliffs — the area is known for strong currents and is better suited to sightseeing than swimming.",
+    "Assuming public transit alone covers the whole region — La Jolla, Coronado and inland attractions are much easier with a car."
+  ],
+  "topRestaurants": [
+    "Hodad's — American Burgers, Ocean Beach institution ($)",
+    "Puesto — Modern Mexican ($$)",
+    "The Fish Market, San Diego — Seafood, waterfront ($$$)",
+    "Herb & Wood — California Cuisine ($$$)",
+    "Lucha Libre Taco Shop — Mexican Street Food ($)",
+    "George's at the Cove, La Jolla — Californian, ocean-view fine dining ($$$$)",
+    "Phil's BBQ — American Barbecue ($$)"
+  ],
+  "topCafes": [
+    "Bird Rock Coffee Roasters",
+    "James Coffee Co.",
+    "Communal Coffee, North Park",
+    "Pannikin Coffee & Tea, La Jolla",
+    "Café Virtuoso"
+  ],
+  "shoppingAreas": [
+    "Gaslamp Quarter",
+    "Seaport Village",
+    "Westfield UTC",
+    "La Jolla Village shops",
+    "Little Italy Mercato farmers market"
+  ],
+  "nightlife": [
+    "Gaslamp Quarter bar and club strip",
+    "Pacific Beach (PB) bar scene",
+    "Stone Brewing World Bistro & Gardens",
+    "The Casbah live music venue",
+    "Waterfront rooftop bars downtown"
+  ],
+  "instagramSpots": [
+    "Sunset Cliffs Natural Park at golden hour",
+    "La Jolla Cove sea lions",
+    "Coronado Beach with Hotel del Coronado",
+    "Balboa Park's Spanish Colonial architecture",
+    "USS Midway flight deck views"
+  ],
+  "hiddenGems": [
+    "Sunset Cliffs tide pools",
+    "Spanish Village Art Center, Balboa Park",
+    "Mission Trails Regional Park",
+    "Windansea Beach, La Jolla"
+  ],
+  "familyActivities": [
+    "San Diego Zoo",
+    "SeaWorld San Diego",
+    "USS Midway Museum flight deck",
+    "Legoland California"
+  ],
+  "adventureActivities": [
+    "Surfing lessons at Pacific Beach or La Jolla Shores",
+    "Kayaking the La Jolla sea caves",
+    "Hiking Torrey Pines State Natural Reserve",
+    "Whale watching boat tours (Dec-Apr gray whale migration)"
+  ],
+  "luxuryExperiences": [
+    "Suite stay at the historic Hotel del Coronado",
+    "Private sunset sailing charter on San Diego Bay",
+    "Fine dining at George's at the Cove overlooking La Jolla",
+    "Private guided San Diego Zoo VIP experience"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at Sunset Cliffs Natural Park",
+    "Beachfront dinner in Coronado",
+    "Private sailing trip around San Diego Bay",
+    "Couple's spa day at a La Jolla resort"
+  ],
+  "budgetExperiences": [
+    "Free entry to Balboa Park grounds and gardens",
+    "Free sea lion viewing at La Jolla Cove",
+    "Coronado Beach and Sunset Cliffs sunset watching",
+    "Old Town San Diego State Historic Park self-guided walk"
+  ],
+  "estimatedDailyBudgetUSD": [
+    90,
+    190,
+    340,
+    700
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 60,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 25,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 23,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 18,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "San Diego Comic-Con",
+      "timing": "Late July"
+    },
+    {
+      "name": "San Diego County Fair",
+      "timing": "June, Del Mar"
+    },
+    {
+      "name": "San Diego Bay Wine & Food Festival",
+      "timing": "November"
+    },
+    {
+      "name": "Fleet Week San Diego",
+      "timing": "September-October"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Tipping 18-20% at restaurants is standard.",
+    "Beach towns like La Jolla and Pacific Beach have a relaxed, casual dress culture even at nicer restaurants.",
+    "Respect posted seal/sea lion viewing distances at La Jolla Cove — approaching too closely is both risky and can disturb protected wildlife.",
+    "San Diego sits right at the US-Mexico border — carry a passport if planning a same-day Tijuana crossing."
+  ],
+  "localTransportGuide": "San Diego is more spread out than downtown-centric cities, so renting a car is common for reaching La Jolla, Coronado and Torrey Pines; the compact San Diego Trolley and MTS buses cover downtown, the Gaslamp Quarter and the airport reasonably well. Coronado is reachable by the iconic Coronado Bridge or a scenic ferry from downtown.",
+  "bestTimeToVisit": "March to May and September to November for warm, dry, uncrowded weather (highs 21-24°C); San Diego's mild climate makes it a solid year-round destination, though June brings a brief \"June gloom\" morning marine layer.",
+  "weather": "Mild semi-arid Mediterranean climate, one of the most consistent in the US: warm, dry summers (highs 25-27°C with low humidity) and mild winters (highs 18-19°C), with minimal rainfall concentrated Dec-Mar.",
+  "visaInformation": "Citizens of Visa Waiver Program countries can enter with an approved ESTA for stays up to 90 days. Other nationalities, including Indian passport holders, require a B1/B2 visitor visa obtained in advance via a US embassy/consulate interview.",
+  "currency": "USD",
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "timeZone": "PST (UTC-8)",
+  "averageFlightTime": "~15.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "San Diego International Airport (SAN)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit San Diego?",
+      "answer": "Citizens of Visa Waiver Program countries can enter with an approved ESTA for stays up to 90 days. Other nationalities, including Indian passport holders, require a B1/B2 visitor visa obtained in advance via a US embassy/consulate interview."
+    },
+    {
+      "question": "What is the best time to visit San Diego?",
+      "answer": "March to May and September to November for warm, dry, uncrowded weather (highs 21-24°C); San Diego's mild climate makes it a solid year-round destination, though June brings a brief \"June gloom\" morning marine layer. Mild semi-arid Mediterranean climate, one of the most consistent in the US: warm, dry summers (highs 25-27°C with low humidity) and mild winters (highs 18-19°C), with minimal rainfall concentrated Dec-Mar."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is San Diego safe for tourists?",
+      "answer": "San Diego is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to San Diego?",
+      "answer": "The local currency is USD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include San Diego Zoo."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Family",
+    "Nature",
+    "City Break",
+    "Summer",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "San Diego",
+    "United States",
+    "San Diego, United States",
+    "California",
+    "San Diego tour package",
+    "San Diego vacation package",
+    "San Diego holiday package",
+    "things to do in San Diego",
+    "best time to visit San Diego",
+    "San Diego itinerary",
+    "14 day San Diego itinerary",
+    "San Diego flights and hotels",
+    "San Diego all inclusive package",
+    "cheap San Diego package",
+    "luxury San Diego package",
+    "San Diego honeymoon package",
+    "San Diego family vacation",
+    "San Diego solo trip",
+    "San Diego group tour",
+    "San Diego weekend getaway",
+    "San Diego guided tour",
+    "SAN flights",
+    "San Diego travel guide",
+    "book San Diego trip online",
+    "San Diego trip cost",
+    "San Diego packages 14 days",
+    "San Diego beach",
+    "San Diego family",
+    "San Diego nature",
+    "San Diego city break",
+    "San Diego summer",
+    "San Diego bucket list",
+    "San Diego Zoo",
+    "San Diego Zoo Safari Park",
+    "USS Midway Museum",
+    "SeaWorld San Diego",
+    "Birch Aquarium at Scripps",
+    "Cabrillo National Monument",
+    "Legoland California, Carlsbad",
+    "Balboa Park",
+    "La Jolla Cove",
+    "Gaslamp Quarter",
+    "Sunset Cliffs Natural Park",
+    "Coronado Beach",
+    "Old Town San Diego State Historic Park",
+    "Torrey Pines State Natural Reserve trails",
+    "Hodad's",
+    "Puesto",
+    "The Fish Market, San Diego",
+    "Herb & Wood"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "San Diego, United States — La Jolla Cove sea lions",
+      "keywords": [
+        "San Diego",
+        "United States",
+        "La Jolla Cove sea lions",
+        "Beach",
+        "Family"
+      ],
+      "unsplashQuery": "San Diego La Jolla Cove sea lions",
+      "pexelsQuery": "San Diego La Jolla Cove sea lions",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "San Diego, United States — La Jolla Cove sea lions",
+      "keywords": [
+        "San Diego",
+        "United States",
+        "La Jolla Cove sea lions",
+        "Beach",
+        "Family"
+      ],
+      "unsplashQuery": "San Diego La Jolla Cove sea lions",
+      "pexelsQuery": "San Diego La Jolla Cove sea lions",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "San Diego, United States — Sunset Cliffs golden hour",
+      "keywords": [
+        "San Diego",
+        "United States",
+        "Sunset Cliffs golden hour",
+        "Beach",
+        "Family"
+      ],
+      "unsplashQuery": "San Diego Sunset Cliffs golden hour",
+      "pexelsQuery": "San Diego Sunset Cliffs golden hour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "San Diego, United States — Coronado Beach Hotel del Coronado",
+      "keywords": [
+        "San Diego",
+        "United States",
+        "Coronado Beach Hotel del Coronado",
+        "Beach",
+        "Family"
+      ],
+      "unsplashQuery": "San Diego Coronado Beach Hotel del Coronado",
+      "pexelsQuery": "San Diego Coronado Beach Hotel del Coronado",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "San Diego, United States — La Jolla Cove sea lions",
+      "keywords": [
+        "San Diego",
+        "United States",
+        "La Jolla Cove sea lions",
+        "Beach",
+        "Family"
+      ],
+      "unsplashQuery": "San Diego La Jolla Cove sea lions",
+      "pexelsQuery": "San Diego La Jolla Cove sea lions",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "San Diego, United States — Sunset Cliffs golden hour",
+      "keywords": [
+        "San Diego",
+        "United States",
+        "Sunset Cliffs golden hour",
+        "Beach",
+        "Family"
+      ],
+      "unsplashQuery": "San Diego Sunset Cliffs golden hour",
+      "pexelsQuery": "San Diego Sunset Cliffs golden hour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "San Diego, United States — Coronado Beach Hotel del Coronado",
+      "keywords": [
+        "San Diego",
+        "United States",
+        "Coronado Beach Hotel del Coronado",
+        "Beach",
+        "Family"
+      ],
+      "unsplashQuery": "San Diego Coronado Beach Hotel del Coronado",
+      "pexelsQuery": "San Diego Coronado Beach Hotel del Coronado",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "San Diego, United States — Balboa Park architecture",
+      "keywords": [
+        "San Diego",
+        "United States",
+        "Balboa Park architecture",
+        "Beach",
+        "Family"
+      ],
+      "unsplashQuery": "San Diego Balboa Park architecture",
+      "pexelsQuery": "San Diego Balboa Park architecture",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "San Diego, United States — San Diego Zoo",
+      "keywords": [
+        "San Diego",
+        "United States",
+        "San Diego Zoo",
+        "Beach",
+        "Family"
+      ],
+      "unsplashQuery": "San Diego San Diego Zoo",
+      "pexelsQuery": "San Diego San Diego Zoo",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "San Diego, United States — San Diego Zoo Safari Park",
+      "keywords": [
+        "San Diego",
+        "United States",
+        "San Diego Zoo Safari Park",
+        "Beach",
+        "Family"
+      ],
+      "unsplashQuery": "San Diego San Diego Zoo Safari Park",
+      "pexelsQuery": "San Diego San Diego Zoo Safari Park",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "San Diego, United States — USS Midway Museum",
+      "keywords": [
+        "San Diego",
+        "United States",
+        "USS Midway Museum",
+        "Beach",
+        "Family"
+      ],
+      "unsplashQuery": "San Diego USS Midway Museum",
+      "pexelsQuery": "San Diego USS Midway Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "San Diego, United States — SeaWorld San Diego",
+      "keywords": [
+        "San Diego",
+        "United States",
+        "SeaWorld San Diego",
+        "Beach",
+        "Family"
+      ],
+      "unsplashQuery": "San Diego SeaWorld San Diego",
+      "pexelsQuery": "San Diego SeaWorld San Diego",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-san-diego-14-1",
+      "author": "Arjun Kim",
+      "country": "Mexico",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-12-14",
+      "title": "Exceeded our expectations",
+      "body": "Booked this as a solo trip and it was well paced. Coronado Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-2",
+      "author": "Elena Sharma",
+      "country": "Brazil",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-02-08",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Balboa Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-3",
+      "author": "Ethan Rossi",
+      "country": "South Korea",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-14",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Legoland California, Carlsbad and Birch Aquarium at Scripps. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-4",
+      "author": "Wei Wang",
+      "country": "Japan",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-21",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a group trip and it was well paced. Balboa Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-san-diego-14-5",
+      "author": "Sofia Khan",
+      "country": "India",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-24",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a solo trip and it was well paced. Birch Aquarium at Scripps in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-6",
+      "author": "Grace Larsen",
+      "country": "Canada",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-01",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond San Diego Zoo Safari Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-san-diego-14-7",
+      "author": "Mohammed Müller",
+      "country": "Germany",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-05",
+      "title": "Consultant made it effortless",
+      "body": "SeaWorld San Diego alone was worth the trip, but combined with Birch Aquarium at Scripps this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-8",
+      "author": "Anna van Dijk",
+      "country": "Japan",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-29",
+      "title": "So many hidden gems included",
+      "body": "San Diego is stunning and this package covered the essentials well, especially Balboa Park. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-9",
+      "author": "Lucas Botha",
+      "country": "Italy",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-09",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Torrey Pines State Natural Reserve trails and Balboa Park. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-10",
+      "author": "Liam van Dijk",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-17",
+      "title": "Best vacation we've had",
+      "body": "Our trip to San Diego was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Cabrillo National Monument was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-11",
+      "author": "Sofia Botha",
+      "country": "South Korea",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-03-29",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a family of 4 trip and it was well paced. Legoland California, Carlsbad in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-12",
+      "author": "Noah Botha",
+      "country": "Australia",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-07",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to San Diego was fantastic from start to finish. The hotel was clean and well located, and the guided visit to USS Midway Museum was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-san-diego-14-13",
+      "author": "Noah Novak",
+      "country": "Italy",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-08-18",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to San Diego was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Torrey Pines State Natural Reserve trails was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-14",
+      "author": "Chen Ibrahim",
+      "country": "Canada",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-14",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a couple trip and it was well paced. San Diego Zoo Safari Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-15",
+      "author": "Sofia Santos",
+      "country": "Switzerland",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-06-30",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a family of 4 trip and it was well paced. Coronado Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-16",
+      "author": "Chen Kim",
+      "country": "Brazil",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-10-29",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a group trip and it was well paced. Balboa Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-17",
+      "author": "Omar Botha",
+      "country": "Brazil",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-05-13",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond La Jolla Cove and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-san-diego-14-18",
+      "author": "Priya Kowalski",
+      "country": "South Korea",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-04",
+      "title": "Luxury without the hassle",
+      "body": "Booked this as a couple trip and it was well paced. Legoland California, Carlsbad in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-san-diego-14-19",
+      "author": "Liam Brown",
+      "country": "South Korea",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-06",
+      "title": "Highly recommend this package",
+      "body": "Our trip to San Diego was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Legoland California, Carlsbad was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-san-diego-14-20",
+      "author": "Anna Kowalski",
+      "country": "United States",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-03-11",
+      "title": "Best vacation we've had",
+      "body": "San Diego is stunning and this package covered the essentials well, especially San Diego Zoo. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.2,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "San Diego Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 20,
+      "neighborhood": "Gaslamp Quarter"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "San Diego Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 36,
+      "neighborhood": "Seaport Village"
+    },
+    {
+      "tier": "Apartment",
+      "name": "San Diego Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 67,
+      "neighborhood": "Westfield UTC"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "San Diego Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 86,
+      "neighborhood": "La Jolla Village shops"
+    },
+    {
+      "tier": "Resort",
+      "name": "San Diego Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 170,
+      "neighborhood": "Little Italy Mercato farmers market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private San Diego Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 294,
+      "neighborhood": "Gaslamp Quarter bar and club strip"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The San Diego Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 350,
+      "neighborhood": "Pacific Beach (PB) bar scene"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        359,
+        570
+      ],
+      "estimatedFlightHours": 6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        328,
+        521
+      ],
+      "estimatedFlightHours": 5.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        714,
+        1134
+      ],
+      "estimatedFlightHours": 12.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        738,
+        1172
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        754,
+        1197
+      ],
+      "estimatedFlightHours": 13.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        818,
+        1299
+      ],
+      "estimatedFlightHours": 14.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        756,
+        1200
+      ],
+      "estimatedFlightHours": 13.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        728,
+        1156
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        769,
+        1222
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        950,
+        1509
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        833,
+        1323
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1017,
+        1616
+      ],
+      "estimatedFlightHours": 18.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        726,
+        1153
+      ],
+      "estimatedFlightHours": 12.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        782,
+        1242
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1108,
+        1760
+      ],
+      "estimatedFlightHours": 20.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1051,
+        1669
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1110,
+        1763
+      ],
+      "estimatedFlightHours": 20.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1131,
+        1797
+      ],
+      "estimatedFlightHours": 20.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        937,
+        1488
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1038,
+        1648
+      ],
+      "estimatedFlightHours": 18.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1054,
+        1674
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1045,
+        1659
+      ],
+      "estimatedFlightHours": 18.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1049,
+        1666
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1011,
+        1605
+      ],
+      "estimatedFlightHours": 18.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1275,
+        2025
+      ],
+      "estimatedFlightHours": 23.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        780,
+        1239
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "San Diego International Airport (SAN)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        244,
+        387
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "San Diego Zoo",
+    "San Diego Zoo Safari Park",
+    "USS Midway Museum",
+    "SeaWorld San Diego",
+    "Birch Aquarium at Scripps",
+    "Cabrillo National Monument",
+    "Legoland California, Carlsbad",
+    "Balboa Park",
+    "La Jolla Cove",
+    "Gaslamp Quarter",
+    "Sunset Cliffs Natural Park",
+    "Coronado Beach",
+    "Old Town San Diego State Historic Park",
+    "Torrey Pines State Natural Reserve trails",
+    "Tijuana, Mexico (border crossing)",
+    "Julian mountain town",
+    "Temecula wine country",
+    "San Diego Museum of Art",
+    "Fleet Science Center",
+    "Torrey Pines State Natural Reserve",
+    "Mission Bay Park",
+    "La Jolla Shores",
+    "Pacific Beach",
+    "Mission Beach",
+    "Sunset Cliffs Natural Park at golden hour",
+    "La Jolla Cove sea lions",
+    "Coronado Beach with Hotel del Coronado",
+    "Balboa Park's Spanish Colonial architecture",
+    "USS Midway flight deck views"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "San Diego Zoo",
+      "priceUSD": 70
+    },
+    {
+      "name": "San Diego Zoo Safari Park",
+      "priceUSD": 75
+    },
+    {
+      "name": "USS Midway Museum",
+      "priceUSD": 33
+    },
+    {
+      "name": "SeaWorld San Diego",
+      "priceUSD": 90
+    },
+    {
+      "name": "Birch Aquarium at Scripps",
+      "priceUSD": 25
+    },
+    {
+      "name": "Cabrillo National Monument",
+      "priceUSD": 20
+    },
+    {
+      "name": "Legoland California, Carlsbad",
+      "priceUSD": 100
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Balboa Park",
+    "La Jolla Cove",
+    "Gaslamp Quarter",
+    "Sunset Cliffs Natural Park",
+    "Coronado Beach",
+    "Old Town San Diego State Historic Park",
+    "Torrey Pines State Natural Reserve trails"
+  ],
+  "museums": [
+    "USS Midway Museum",
+    "San Diego Museum of Art",
+    "Fleet Science Center"
+  ],
+  "parks": [
+    "Balboa Park",
+    "Torrey Pines State Natural Reserve",
+    "Mission Bay Park"
+  ],
+  "beaches": [
+    "Coronado Beach",
+    "La Jolla Shores",
+    "Pacific Beach",
+    "Mission Beach"
+  ],
+  "dayTrips": [
+    "Tijuana, Mexico (border crossing)",
+    "Julian mountain town",
+    "Temecula wine country",
+    "Legoland California, Carlsbad"
+  ],
+  "fromPriceUSD": 2444,
+  "seo": {
+    "title": "San Diego 14-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "san-diego-14-day-package",
+    "keywords": [
+      "San Diego",
+      "United States",
+      "San Diego, United States",
+      "California",
+      "San Diego tour package",
+      "San Diego vacation package",
+      "San Diego holiday package",
+      "things to do in San Diego",
+      "best time to visit San Diego",
+      "San Diego itinerary",
+      "14 day San Diego itinerary",
+      "San Diego flights and hotels",
+      "San Diego all inclusive package",
+      "cheap San Diego package",
+      "luxury San Diego package"
+    ],
+    "canonicalUrl": "/packages/san-diego-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day San Diego Package",
+        "url": "/packages/san-diego-10-day-package"
+      },
+      {
+        "title": "7-Day San Diego Package",
+        "url": "/packages/san-diego-7-day-package"
+      },
+      {
+        "title": "Perth 14-Day Beach Getaway",
+        "url": "/packages/perth-14-day-package"
+      },
+      {
+        "title": "Phuket 14-Day Beach Getaway",
+        "url": "/packages/phuket-14-day-package"
+      },
+      {
+        "title": "Costa Rica 14-Day Nature Retreat",
+        "url": "/packages/costa-rica-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "San Diego — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/San_Diego"
+      },
+      {
+        "title": "San Diego — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/San_Diego"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1613 @@
+{
+  "id": "PKG-leh-ladakh-7D",
+  "slug": "leh-ladakh-7-day-package",
+  "destinationSlug": "leh-ladakh",
+  "destinationName": "Leh-Ladakh",
+  "country": "India",
+  "region": "Ladakh",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Leh-Ladakh 7-Day Adventure Tour",
+  "metaTitle": "Leh-Ladakh 7-Day Adventure Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Leh-Ladakh, India: round-trip flights, hotel, breakfast, transfers, and guided tours including Leh Palace and Hemis Monastery. Prices from $1556 per person (estimate).",
+  "highlights": [
+    "Leh Palace",
+    "Hemis Monastery",
+    "Leh Main Bazaar",
+    "Driving Khardung La, one of the world's highest motorable passes",
+    "Pangong Lake"
+  ],
+  "overview": "Spend 7 days discovering Leh-Ladakh, India — High-altitude cold desert climate (Leh sits at roughly 3,500m): short, mild summers (highs 20-25°C but with strong UV and cold nights), and long, harsh winters (highs near or below freezing, lows dropping to -15°C or colder, with the Zanskar and Indus rivers partly freezing). Mid-May to September, when the high mountain passes are open and daytime highs reach a comfortable 15-25°C; the region is largely snowbound and inaccessible by road November to April. This itinerary blends Leh Palace, Hemis Monastery, Leh Main Bazaar with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Leh Palace, Hemis Monastery, Leh Main Bazaar",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Leh-Ladakh",
+      "description": "Land at Kushok Bakula Rimpochee Airport (IXL) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Leh Palace — Nine-story former royal palace overlooking the old town. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Leh Palace"
+      ],
+      "overnight": "Leh-Ladakh"
+    },
+    {
+      "day": 2,
+      "title": "Leh-Ladakh: Hemis Monastery & Thiksey Monastery",
+      "description": "Morning visit to Hemis Monastery — Largest and wealthiest monastery in Ladakh, home to the Hemis Festival. In the afternoon, continue to Thiksey Monastery — Tibetan-style monastery resembling a mini Potala Palace. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Hemis Monastery",
+        "Thiksey Monastery"
+      ],
+      "overnight": "Leh-Ladakh"
+    },
+    {
+      "day": 3,
+      "title": "Leh-Ladakh: Pangong Lake permit/entry area & Nubra Valley (Diskit Monastery & sand dunes)",
+      "description": "Morning visit to Pangong Lake permit/entry area — High-altitude endorheic lake spanning into Tibet, changes color through the day. In the afternoon, continue to Nubra Valley (Diskit Monastery & sand dunes) — High-altitude valley with Bactrian camel rides on cold desert dunes. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Pangong Lake permit/entry area",
+        "Nubra Valley (Diskit Monastery & sand dunes)"
+      ],
+      "overnight": "Leh-Ladakh"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Pangong Lake",
+      "description": "Full-day excursion to Pangong Lake, a popular side trip from Leh-Ladakh. Return to Leh-Ladakh in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Pangong Lake",
+        "Free evening"
+      ],
+      "overnight": "Leh-Ladakh"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Turtuk village near the Pakistan border — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Turtuk village near the Pakistan border"
+      ],
+      "overnight": "Leh-Ladakh"
+    },
+    {
+      "day": 6,
+      "title": "Leh-Ladakh: Magnetic Hill viewing area & Shanti Stupa",
+      "description": "Morning visit to Magnetic Hill viewing area — Optical-illusion \"gravity hill\" where vehicles appear to roll uphill. In the afternoon, continue to Shanti Stupa — White-domed Buddhist stupa built for world peace, with sweeping Leh views. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Magnetic Hill viewing area",
+        "Shanti Stupa"
+      ],
+      "overnight": "Leh-Ladakh"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Leh Main Bazaar or some souvenir shopping — before your private transfer to IXL for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Spend at least one full acclimatization day in Leh before any activity or altitude gain — rushing to Khardung La or Pangong on day one risks serious altitude sickness.",
+    "Arrange Inner Line Permits online in advance or through your hotel/travel agent in Leh; permits are checked at multiple checkpoints.",
+    "The road-accessible season is roughly late May to late September — flights operate more reliably outside this window.",
+    "Fly into Leh rather than driving in if short on time or acclimatization days — but flying in still requires rest before exertion.",
+    "Pangong Lake and Nubra Valley are typically visited via a two-to-three day loop, not as separate day trips, due to distance.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Warm layers even in summer — nights drop near freezing at altitude",
+    "High-SPF sunscreen and UV-protective sunglasses — sun intensity is extreme at altitude",
+    "Diamox or altitude-sickness medication after consulting a doctor",
+    "A basic first-aid kit and reusable water bottle since bottled water access is limited in remote valleys"
+  ],
+  "thingsToDo": [
+    "Leh Palace",
+    "Hemis Monastery",
+    "Thiksey Monastery",
+    "Pangong Lake permit/entry area",
+    "Nubra Valley (Diskit Monastery & sand dunes)",
+    "Magnetic Hill viewing area",
+    "Shanti Stupa",
+    "Leh Main Bazaar",
+    "Magnetic Hill",
+    "Confluence of Indus and Zanskar rivers",
+    "Hall of Fame museum grounds",
+    "Sankar Gompa",
+    "Driving Khardung La, one of the world's highest motorable passes",
+    "White-water rafting on the Zanskar/Indus rivers",
+    "Trekking in the Markha Valley",
+    "Mountain biking from Khardung La down to Leh",
+    "Magnetic Hill optical illusion stop",
+    "Bactrian camel rides in Nubra Valley",
+    "Leh Palace exploration",
+    "Hall of Fame military museum"
+  ],
+  "thingsToAvoid": [
+    "Overexertion (running, heavy luggage carrying, alcohol) within the first 24-48 hours of arrival — altitude sickness can be serious.",
+    "Skipping travel insurance that covers high-altitude evacuation.",
+    "Traveling without your Inner Line Permit paperwork to restricted zones — checkpoints will turn you back.",
+    "Relying on mobile data outside Leh town — network coverage is very limited in Nubra and Pangong.",
+    "Underestimating fuel/rest stops on long mountain drives — services are sparse between towns."
+  ],
+  "topRestaurants": [
+    "Gesmo Restaurant — Tibetan & Continental ($$)",
+    "Bon Appetit — Multi-cuisine, garden seating ($$)",
+    "Lamayuru Restaurant — Ladakhi & Tibetan ($)",
+    "Tibetan Kitchen — Tibetan ($$)",
+    "The Tibetan Kitchen Cafe, Leh Market — Tibetan & Ladakhi ($)",
+    "Penguin Garden Restaurant — Multi-cuisine ($$)"
+  ],
+  "topCafes": [
+    "Open Hand Cafe, Leh",
+    "Ladakh Sarai Cafe",
+    "Café Jeevan",
+    "Lala's Cafe, Leh Market",
+    "Bodhi Tree Cafe"
+  ],
+  "shoppingAreas": [
+    "Leh Main Bazaar",
+    "Ladakh Arts and Crafts House",
+    "Moti Market (Pashmina shawls)",
+    "Tibetan refugee handicraft stalls"
+  ],
+  "nightlife": [
+    "Stargazing at Pangong Lake or Nubra Valley campsites (minimal light pollution)",
+    "Evening bonfire at riverside campsites",
+    "Shanti Stupa illuminated at dusk"
+  ],
+  "instagramSpots": [
+    "Pangong Lake's shifting blue hues",
+    "Nubra Valley sand dunes with Bactrian camels",
+    "Shanti Stupa at sunset over Leh",
+    "Khardung La pass signboard",
+    "Thiksey Monastery tiered architecture"
+  ],
+  "hiddenGems": [
+    "Turtuk village near the Pakistan border",
+    "Tso Moriri Lake, quieter than Pangong",
+    "Hundar sand dunes at dawn",
+    "Lamayuru's \"Moonland\" landscape"
+  ],
+  "familyActivities": [
+    "Magnetic Hill optical illusion stop",
+    "Bactrian camel rides in Nubra Valley",
+    "Leh Palace exploration",
+    "Hall of Fame military museum"
+  ],
+  "adventureActivities": [
+    "Driving Khardung La, one of the world's highest motorable passes",
+    "White-water rafting on the Zanskar/Indus rivers",
+    "Trekking in the Markha Valley",
+    "Mountain biking from Khardung La down to Leh"
+  ],
+  "luxuryExperiences": [
+    "Luxury glamping at Pangong Lake or Nubra Valley",
+    "Private helicopter transfers to remote monasteries (seasonal)",
+    "Boutique heritage stay in a restored Ladakhi home",
+    "Private jeep safari with a personal guide and photographer"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at Pangong Lake together",
+    "Stargazing night at a Nubra Valley campsite",
+    "Private candlelit dinner overlooking the Indus Valley",
+    "Sunrise at Shanti Stupa over Leh"
+  ],
+  "budgetExperiences": [
+    "Shared taxi/group tour to Pangong Lake and Nubra Valley",
+    "Free viewpoints at Shanti Stupa and Magnetic Hill",
+    "Budget homestay in a Ladakhi family home",
+    "Walking tour of Leh's old town and bazaar"
+  ],
+  "estimatedDailyBudgetUSD": [
+    35,
+    90,
+    200,
+    480
+  ],
+  "safetyRating": 4,
+  "internetRating": 2,
+  "publicTransportRating": 2,
+  "walkingScore": 30,
+  "accessibilityRating": 1,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": -2,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 1,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 7,
+      "crowd": "Low"
+    },
+    {
+      "month": "Apr",
+      "highC": 13,
+      "crowd": "Low"
+    },
+    {
+      "month": "May",
+      "highC": 17,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 21,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 12,
+      "crowd": "Low"
+    },
+    {
+      "month": "Nov",
+      "highC": 5,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": -1,
+      "crowd": "Low"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Hemis Festival",
+      "timing": "June-July, masked Cham dances at Hemis Monastery"
+    },
+    {
+      "name": "Ladakh Festival",
+      "timing": "September, Leh-wide cultural celebration"
+    },
+    {
+      "name": "Losar (Ladakhi/Tibetan New Year)",
+      "timing": "December (per Tibetan lunar calendar)"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101"
+  },
+  "localEtiquette": [
+    "Acclimatize for at least 24-48 hours in Leh before any exertion or travel to higher passes — altitude sickness is a genuine risk at 3,500m+.",
+    "Remove shoes and dress modestly when entering monasteries (gompas); some restrict photography inside prayer halls.",
+    "Walk clockwise around Buddhist stupas, prayer wheels and mani walls, as is customary.",
+    "Ask permission before photographing monks or local Ladakhi families.",
+    "Respect military zones and checkpoints near the Pangong Lake/Nubra Valley border areas — follow permit rules exactly."
+  ],
+  "localTransportGuide": "Leh town is small and walkable, but reaching Pangong Lake, Nubra Valley or Khardung La requires a hired taxi/jeep or an organized tour due to permit requirements and rough mountain roads; self-drive rental motorcycles are hugely popular for the classic Ladakh road trip, but require prior riding experience at altitude.",
+  "bestTimeToVisit": "Mid-May to September, when the high mountain passes are open and daytime highs reach a comfortable 15-25°C; the region is largely snowbound and inaccessible by road November to April.",
+  "weather": "High-altitude cold desert climate (Leh sits at roughly 3,500m): short, mild summers (highs 20-25°C but with strong UV and cold nights), and long, harsh winters (highs near or below freezing, lows dropping to -15°C or colder, with the Zanskar and Indus rivers partly freezing).",
+  "visaInformation": "Most foreign nationals require an Indian e-Visa applied for online before travel; foreign nationals also need an Inner Line Permit (arranged easily online or on arrival in Leh) to visit areas like Pangong Lake, Nubra Valley and Khardung La. Indian citizens need no visa but do need the same Inner Line Permit for restricted areas; OCI/PIO cardholders travel visa-free with a linked foreign passport.",
+  "currency": "INR",
+  "languages": [
+    "Ladakhi",
+    "Hindi"
+  ],
+  "timeZone": "IST (UTC+5:30)",
+  "averageFlightTime": "~9.4h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Leh-Ladakh?",
+      "answer": "Most foreign nationals require an Indian e-Visa applied for online before travel; foreign nationals also need an Inner Line Permit (arranged easily online or on arrival in Leh) to visit areas like Pangong Lake, Nubra Valley and Khardung La. Indian citizens need no visa but do need the same Inner Line Permit for restricted areas; OCI/PIO cardholders travel visa-free with a linked foreign passport."
+    },
+    {
+      "question": "What is the best time to visit Leh-Ladakh?",
+      "answer": "Mid-May to September, when the high mountain passes are open and daytime highs reach a comfortable 15-25°C; the region is largely snowbound and inaccessible by road November to April. High-altitude cold desert climate (Leh sits at roughly 3,500m): short, mild summers (highs 20-25°C but with strong UV and cold nights), and long, harsh winters (highs near or below freezing, lows dropping to -15°C or colder, with the Zanskar and Indus rivers partly freezing)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Leh-Ladakh safe for tourists?",
+      "answer": "Leh-Ladakh is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Leh-Ladakh?",
+      "answer": "The local currency is INR. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Adventure",
+    "Nature",
+    "Bucket List",
+    "Road Trip",
+    "Culture"
+  ],
+  "aiTags": [
+    "Leh-Ladakh",
+    "India",
+    "Leh-Ladakh, India",
+    "Ladakh",
+    "Leh-Ladakh tour package",
+    "Leh-Ladakh vacation package",
+    "Leh-Ladakh holiday package",
+    "things to do in Leh-Ladakh",
+    "best time to visit Leh-Ladakh",
+    "Leh-Ladakh itinerary",
+    "7 day Leh-Ladakh itinerary",
+    "Leh-Ladakh flights and hotels",
+    "Leh-Ladakh all inclusive package",
+    "cheap Leh-Ladakh package",
+    "luxury Leh-Ladakh package",
+    "Leh-Ladakh honeymoon package",
+    "Leh-Ladakh family vacation",
+    "Leh-Ladakh solo trip",
+    "Leh-Ladakh group tour",
+    "Leh-Ladakh weekend getaway",
+    "Leh-Ladakh guided tour",
+    "IXL flights",
+    "Leh-Ladakh travel guide",
+    "book Leh-Ladakh trip online",
+    "Leh-Ladakh trip cost",
+    "Leh-Ladakh packages 7 days",
+    "Leh-Ladakh adventure",
+    "Leh-Ladakh nature",
+    "Leh-Ladakh bucket list",
+    "Leh-Ladakh road trip",
+    "Leh-Ladakh culture",
+    "Leh Palace",
+    "Hemis Monastery",
+    "Thiksey Monastery",
+    "Pangong Lake permit/entry area",
+    "Nubra Valley (Diskit Monastery & sand dunes)",
+    "Magnetic Hill viewing area",
+    "Shanti Stupa",
+    "Leh Main Bazaar",
+    "Magnetic Hill",
+    "Confluence of Indus and Zanskar rivers",
+    "Hall of Fame museum grounds",
+    "Sankar Gompa",
+    "Gesmo Restaurant",
+    "Bon Appetit",
+    "Lamayuru Restaurant",
+    "Tibetan Kitchen",
+    "The Tibetan Kitchen Cafe, Leh Market",
+    "Pangong Lake's shifting blue hues",
+    "Nubra Valley sand dunes with Bactrian camels"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Leh-Ladakh, India — Pangong Lake blue waters",
+      "keywords": [
+        "Leh-Ladakh",
+        "India",
+        "Pangong Lake blue waters",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Leh-Ladakh Pangong Lake blue waters",
+      "pexelsQuery": "Leh-Ladakh Pangong Lake blue waters",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Leh-Ladakh, India — Pangong Lake blue waters",
+      "keywords": [
+        "Leh-Ladakh",
+        "India",
+        "Pangong Lake blue waters",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Leh-Ladakh Pangong Lake blue waters",
+      "pexelsQuery": "Leh-Ladakh Pangong Lake blue waters",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Leh-Ladakh, India — Khardung La mountain pass",
+      "keywords": [
+        "Leh-Ladakh",
+        "India",
+        "Khardung La mountain pass",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Leh-Ladakh Khardung La mountain pass",
+      "pexelsQuery": "Leh-Ladakh Khardung La mountain pass",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Leh-Ladakh, India — Nubra Valley sand dunes",
+      "keywords": [
+        "Leh-Ladakh",
+        "India",
+        "Nubra Valley sand dunes",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Leh-Ladakh Nubra Valley sand dunes",
+      "pexelsQuery": "Leh-Ladakh Nubra Valley sand dunes",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Leh-Ladakh, India — Pangong Lake blue waters",
+      "keywords": [
+        "Leh-Ladakh",
+        "India",
+        "Pangong Lake blue waters",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Leh-Ladakh Pangong Lake blue waters",
+      "pexelsQuery": "Leh-Ladakh Pangong Lake blue waters",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Leh-Ladakh, India — Khardung La mountain pass",
+      "keywords": [
+        "Leh-Ladakh",
+        "India",
+        "Khardung La mountain pass",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Leh-Ladakh Khardung La mountain pass",
+      "pexelsQuery": "Leh-Ladakh Khardung La mountain pass",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Leh-Ladakh, India — Nubra Valley sand dunes",
+      "keywords": [
+        "Leh-Ladakh",
+        "India",
+        "Nubra Valley sand dunes",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Leh-Ladakh Nubra Valley sand dunes",
+      "pexelsQuery": "Leh-Ladakh Nubra Valley sand dunes",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Leh-Ladakh, India — Thiksey Monastery Ladakh",
+      "keywords": [
+        "Leh-Ladakh",
+        "India",
+        "Thiksey Monastery Ladakh",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Leh-Ladakh Thiksey Monastery Ladakh",
+      "pexelsQuery": "Leh-Ladakh Thiksey Monastery Ladakh",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Leh-Ladakh, India — Leh Palace",
+      "keywords": [
+        "Leh-Ladakh",
+        "India",
+        "Leh Palace",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Leh-Ladakh Leh Palace",
+      "pexelsQuery": "Leh-Ladakh Leh Palace",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Leh-Ladakh, India — Hemis Monastery",
+      "keywords": [
+        "Leh-Ladakh",
+        "India",
+        "Hemis Monastery",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Leh-Ladakh Hemis Monastery",
+      "pexelsQuery": "Leh-Ladakh Hemis Monastery",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Leh-Ladakh, India — Thiksey Monastery",
+      "keywords": [
+        "Leh-Ladakh",
+        "India",
+        "Thiksey Monastery",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Leh-Ladakh Thiksey Monastery",
+      "pexelsQuery": "Leh-Ladakh Thiksey Monastery",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Leh-Ladakh, India — Pangong Lake permit/entry area",
+      "keywords": [
+        "Leh-Ladakh",
+        "India",
+        "Pangong Lake permit/entry area",
+        "Adventure",
+        "Nature"
+      ],
+      "unsplashQuery": "Leh-Ladakh Pangong Lake permit/entry area",
+      "pexelsQuery": "Leh-Ladakh Pangong Lake permit/entry area",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-leh-ladakh-7-1",
+      "author": "Hiroshi Brown",
+      "country": "Spain",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-06-21",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Sankar Gompa alone was worth the trip, but combined with Thiksey Monastery this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-2",
+      "author": "Ethan Silva",
+      "country": "Australia",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-29",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Thiksey Monastery and Hall of Fame museum grounds. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-3",
+      "author": "Elena Wang",
+      "country": "France",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-01-20",
+      "title": "Loved every moment",
+      "body": "We added a couple of optional activities beyond Pangong Lake permit/entry area and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-4",
+      "author": "Elena Johnson",
+      "country": "South Korea",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-07-16",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Shanti Stupa and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-5",
+      "author": "Grace Dubois",
+      "country": "India",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-12-13",
+      "title": "Highly recommend this package",
+      "body": "We added a couple of optional activities beyond Nubra Valley (Diskit Monastery & sand dunes) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-6",
+      "author": "Ethan Santos",
+      "country": "Singapore",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-24",
+      "title": "A little rushed but still wonderful",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Magnetic Hill viewing area and Leh Palace. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-7",
+      "author": "Priya Silva",
+      "country": "Netherlands",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-12",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a family of 4 trip and it was well paced. Magnetic Hill in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-8",
+      "author": "Noah Brown",
+      "country": "South Africa",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-23",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Leh-Ladakh was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Leh Main Bazaar was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-9",
+      "author": "Daniel Cohen",
+      "country": "United Kingdom",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-17",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Leh Palace and Confluence of Indus and Zanskar rivers. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-10",
+      "author": "Sarah Andersen",
+      "country": "France",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-08",
+      "title": "Consultant made it effortless",
+      "body": "Leh-Ladakh is stunning and this package covered the essentials well, especially Pangong Lake permit/entry area. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-leh-ladakh-7-11",
+      "author": "Chen Tanaka",
+      "country": "Switzerland",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-01-30",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a family of 4 trip and it was well paced. Confluence of Indus and Zanskar rivers in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-12",
+      "author": "Chen Sharma",
+      "country": "South Korea",
+      "rating": 4.1,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-26",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a group trip and it was well paced. Shanti Stupa in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-leh-ladakh-7-13",
+      "author": "Sofia Wang",
+      "country": "Mexico",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-03-21",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a solo trip and it was well paced. Hall of Fame museum grounds in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-14",
+      "author": "Ava Tanaka",
+      "country": "Italy",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-02-07",
+      "title": "Luxury without the hassle",
+      "body": "Hall of Fame museum grounds alone was worth the trip, but combined with Shanti Stupa this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-leh-ladakh-7-15",
+      "author": "Chen Khan",
+      "country": "New Zealand",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-01-08",
+      "title": "Five stars, will return",
+      "body": "Booked this as a family of 4 trip and it was well paced. Magnetic Hill in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-16",
+      "author": "David Ivanov",
+      "country": "Netherlands",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-16",
+      "title": "Loved every moment",
+      "body": "Leh-Ladakh is stunning and this package covered the essentials well, especially Magnetic Hill. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-17",
+      "author": "Ava Botha",
+      "country": "Saudi Arabia",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-23",
+      "title": "Adventure of a lifetime",
+      "body": "Confluence of Indus and Zanskar rivers alone was worth the trip, but combined with Shanti Stupa this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-18",
+      "author": "Mia Botha",
+      "country": "South Africa",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-03",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Shanti Stupa and Confluence of Indus and Zanskar rivers. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-19",
+      "author": "Lucas Ibrahim",
+      "country": "Australia",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-07-22",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Thiksey Monastery and Hall of Fame museum grounds. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-leh-ladakh-7-20",
+      "author": "Ava Andersen",
+      "country": "New Zealand",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-01",
+      "title": "So many hidden gems included",
+      "body": "Magnetic Hill alone was worth the trip, but combined with Hemis Monastery this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.4,
+    "safety": 4.2,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Leh-Ladakh Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 8,
+      "neighborhood": "Leh Main Bazaar"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Leh-Ladakh Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 14,
+      "neighborhood": "Ladakh Arts and Crafts House"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Leh-Ladakh Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 31,
+      "neighborhood": "Moti Market (Pashmina shawls)"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Leh-Ladakh Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 41,
+      "neighborhood": "Tibetan refugee handicraft stalls"
+    },
+    {
+      "tier": "Resort",
+      "name": "Leh-Ladakh Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 100,
+      "neighborhood": "Stargazing at Pangong Lake or Nubra Valley campsites (minimal light pollution)"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Leh-Ladakh Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 202,
+      "neighborhood": "Evening bonfire at riverside campsites"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Leh-Ladakh Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 240,
+      "neighborhood": "Shanti Stupa illuminated at dusk"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        886,
+        1407
+      ],
+      "estimatedFlightHours": 15.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        876,
+        1391
+      ],
+      "estimatedFlightHours": 15.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        532,
+        845
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        525,
+        834
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        490,
+        779
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        483,
+        767
+      ],
+      "estimatedFlightHours": 8.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        580,
+        921
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        506,
+        803
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        496,
+        787
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        854,
+        1357
+      ],
+      "estimatedFlightHours": 15.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        999,
+        1586
+      ],
+      "estimatedFlightHours": 18,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        121,
+        192
+      ],
+      "estimatedFlightHours": 1.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        479,
+        760
+      ],
+      "estimatedFlightHours": 8.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        395,
+        628
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        405,
+        644
+      ],
+      "estimatedFlightHours": 6.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        310,
+        493
+      ],
+      "estimatedFlightHours": 5.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        384,
+        610
+      ],
+      "estimatedFlightHours": 6.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        469,
+        745
+      ],
+      "estimatedFlightHours": 8.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        428,
+        679
+      ],
+      "estimatedFlightHours": 7.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        360,
+        572
+      ],
+      "estimatedFlightHours": 6.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        247,
+        393
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        304,
+        483
+      ],
+      "estimatedFlightHours": 5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        271,
+        431
+      ],
+      "estimatedFlightHours": 4.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        281,
+        447
+      ],
+      "estimatedFlightHours": 4.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        691,
+        1098
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1125,
+        1787
+      ],
+      "estimatedFlightHours": 20.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Kushok Bakula Rimpochee Airport (IXL)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1091,
+        1733
+      ],
+      "estimatedFlightHours": 19.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Leh Palace",
+    "Hemis Monastery",
+    "Thiksey Monastery",
+    "Pangong Lake permit/entry area",
+    "Nubra Valley (Diskit Monastery & sand dunes)",
+    "Magnetic Hill viewing area",
+    "Shanti Stupa",
+    "Leh Main Bazaar",
+    "Magnetic Hill",
+    "Confluence of Indus and Zanskar rivers",
+    "Hall of Fame museum grounds",
+    "Sankar Gompa",
+    "Pangong Lake",
+    "Nubra Valley",
+    "Khardung La pass",
+    "Lamayuru Monastery",
+    "Hall of Fame museum",
+    "Central Asian Museum, Leh",
+    "Hemis National Park (snow leopard habitat)",
+    "Sham Valley trekking region",
+    "Pangong Lake's shifting blue hues",
+    "Nubra Valley sand dunes with Bactrian camels",
+    "Shanti Stupa at sunset over Leh",
+    "Khardung La pass signboard",
+    "Thiksey Monastery tiered architecture"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Leh Palace",
+      "priceUSD": 3
+    },
+    {
+      "name": "Hemis Monastery",
+      "priceUSD": 3
+    },
+    {
+      "name": "Thiksey Monastery",
+      "priceUSD": 2
+    },
+    {
+      "name": "Pangong Lake permit/entry area",
+      "priceUSD": 5
+    },
+    {
+      "name": "Nubra Valley (Diskit Monastery & sand dunes)",
+      "priceUSD": 8
+    },
+    {
+      "name": "Magnetic Hill viewing area",
+      "priceUSD": 0
+    },
+    {
+      "name": "Shanti Stupa",
+      "priceUSD": 0
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Leh Main Bazaar",
+    "Shanti Stupa",
+    "Magnetic Hill",
+    "Confluence of Indus and Zanskar rivers",
+    "Hall of Fame museum grounds",
+    "Sankar Gompa"
+  ],
+  "museums": [
+    "Hall of Fame museum",
+    "Central Asian Museum, Leh"
+  ],
+  "parks": [
+    "Hemis National Park (snow leopard habitat)",
+    "Sham Valley trekking region"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Pangong Lake",
+    "Nubra Valley",
+    "Khardung La pass",
+    "Lamayuru Monastery"
+  ],
+  "fromPriceUSD": 1556,
+  "seo": {
+    "title": "Leh-Ladakh 7-Day Adventure Tour | Flights, Hotels & Tours Included",
+    "slug": "leh-ladakh-7-day-package",
+    "keywords": [
+      "Leh-Ladakh",
+      "India",
+      "Leh-Ladakh, India",
+      "Ladakh",
+      "Leh-Ladakh tour package",
+      "Leh-Ladakh vacation package",
+      "Leh-Ladakh holiday package",
+      "things to do in Leh-Ladakh",
+      "best time to visit Leh-Ladakh",
+      "Leh-Ladakh itinerary",
+      "7 day Leh-Ladakh itinerary",
+      "Leh-Ladakh flights and hotels",
+      "Leh-Ladakh all inclusive package",
+      "cheap Leh-Ladakh package",
+      "luxury Leh-Ladakh package"
+    ],
+    "canonicalUrl": "/packages/leh-ladakh-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Leh-Ladakh Package",
+        "url": "/packages/leh-ladakh-5-day-package"
+      },
+      {
+        "title": "10-Day Leh-Ladakh Package",
+        "url": "/packages/leh-ladakh-10-day-package"
+      },
+      {
+        "title": "Cappadocia 7-Day Adventure Tour",
+        "url": "/packages/cappadocia-7-day-package"
+      },
+      {
+        "title": "Siem Reap 7-Day Cultural Tour",
+        "url": "/packages/siem-reap-7-day-package"
+      },
+      {
+        "title": "Kathmandu 7-Day Cultural Tour",
+        "url": "/packages/kathmandu-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Leh-Ladakh — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Leh-Ladakh"
+      },
+      {
+        "title": "Leh-Ladakh — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Leh-Ladakh"
+      }
+    ]
+  }
+}

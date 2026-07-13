@@ -1,0 +1,1512 @@
+{
+  "id": "PKG-cairns-3D",
+  "slug": "cairns-3-day-package",
+  "destinationSlug": "cairns",
+  "destinationName": "Cairns",
+  "country": "Australia",
+  "region": "Oceania",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Cairns 3-Day Nature Retreat",
+  "metaTitle": "Cairns 3-Day Nature Retreat | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Cairns, Australia: round-trip flights, hotel, breakfast, transfers, and guided tours including Great Barrier Reef day cruise and Kuranda Scenic Railway and Skyrail. Prices from $1894 per person (estimate).",
+  "highlights": [
+    "Great Barrier Reef day cruise",
+    "Kuranda Scenic Railway and Skyrail",
+    "Cairns Esplanade Lagoon",
+    "Scuba diving/snorkeling the Great Barrier Reef",
+    "Great Barrier Reef"
+  ],
+  "overview": "Spend 3 days discovering Cairns, Australia — Tropical climate — hot, humid wet season (November-May, highs around 31°C with heavy rain and cyclone risk) and a warm, dry season (June-October, highs around 26°C). June to October — the dry season, with lower humidity and minimal risk of the wet-season stinger jellyfish or cyclones. This itinerary blends Great Barrier Reef day cruise, Kuranda Scenic Railway and Skyrail, Cairns Esplanade Lagoon with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Great Barrier Reef day cruise, Kuranda Scenic Railway and Skyrail, Cairns Esplanade Lagoon",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Cairns",
+      "description": "Land at Cairns Airport (CNS) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Great Barrier Reef day cruise — Snorkeling or diving boat trip to the outer reef. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Great Barrier Reef day cruise"
+      ],
+      "overnight": "Cairns"
+    },
+    {
+      "day": 2,
+      "title": "Cairns: Kuranda Scenic Railway and Skyrail & Daintree Rainforest and Cape Tribulation day tour",
+      "description": "Morning visit to Kuranda Scenic Railway and Skyrail — Historic train up through the rainforest, return by cable car. In the afternoon, continue to Daintree Rainforest and Cape Tribulation day tour — Guided trip through the world's oldest tropical rainforest to where it meets the reef. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Kuranda Scenic Railway and Skyrail",
+        "Daintree Rainforest and Cape Tribulation day tour"
+      ],
+      "overnight": "Cairns"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Cairns Aquarium or some souvenir shopping — before your private transfer to CNS for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Great Barrier Reef tours in advance, and check whether the outer reef or a closer reef platform suits your snorkeling/diving level.",
+    "Visit during the dry season (June-October) to avoid stinger season and cyclone risk.",
+    "Combine Kuranda's scenic railway going up with the Skyrail cable car coming back for two different rainforest perspectives.",
+    "The Cairns Esplanade Lagoon is free and a great alternative to ocean swimming during stinger season.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Reef-safe sunscreen (often mandatory on reef tours)",
+    "A stinger suit or rash guard for wet-season swimming (Nov-May)",
+    "Lightweight, breathable clothing for the tropical heat",
+    "Insect repellent for rainforest excursions"
+  ],
+  "thingsToDo": [
+    "Great Barrier Reef day cruise",
+    "Kuranda Scenic Railway and Skyrail",
+    "Daintree Rainforest and Cape Tribulation day tour",
+    "Cairns Aquarium",
+    "Cairns Esplanade Lagoon",
+    "Cairns Night Markets",
+    "Esplanade boardwalk",
+    "Scuba diving/snorkeling the Great Barrier Reef",
+    "White-water rafting the Tully River",
+    "Skydiving over the reef and rainforest",
+    "Kuranda Koala Gardens and wildlife park"
+  ],
+  "thingsToAvoid": [
+    "Swimming in the ocean outside netted areas during stinger season (November-May) without a protective suit.",
+    "Touching coral or marine life on reef tours.",
+    "Booking a reef trip without checking weather/wind conditions, which affect visibility and comfort."
+  ],
+  "topRestaurants": [
+    "Ochre Restaurant — Native-Australian ingredients ($$$)",
+    "Prawn Star — Fresh prawns and seafood, dockside boat restaurant ($$)",
+    "C'Bar — Modern Australian, Esplanade views ($$)"
+  ],
+  "topCafes": [
+    "Caffiend Cairns",
+    "Perrotta's at the Gallery"
+  ],
+  "shoppingAreas": [
+    "Cairns Night Markets",
+    "Pier Shopping Centre",
+    "Rusty's Markets"
+  ],
+  "nightlife": [
+    "Esplanade bars",
+    "The Woolshed backpacker bar",
+    "Salt House waterfront lounge"
+  ],
+  "instagramSpots": [
+    "Great Barrier Reef aerial/underwater shots",
+    "Kuranda Skyrail over the rainforest canopy",
+    "Cairns Esplanade Lagoon sunset",
+    "Cape Tribulation where rainforest meets reef"
+  ],
+  "hiddenGems": [
+    "Josephine Falls swimming hole",
+    "Atherton Tablelands waterfalls and lakes",
+    "Fitzroy Island (day trip)"
+  ],
+  "familyActivities": [
+    "Cairns Esplanade Lagoon",
+    "Cairns Aquarium",
+    "Kuranda Koala Gardens and wildlife park"
+  ],
+  "adventureActivities": [
+    "Scuba diving/snorkeling the Great Barrier Reef",
+    "White-water rafting the Tully River",
+    "Skydiving over the reef and rainforest"
+  ],
+  "luxuryExperiences": [
+    "Private reef pontoon day cruise with a marine biologist guide",
+    "Overnight liveaboard dive boat to the outer reef",
+    "Luxury rainforest eco-lodge in Daintree"
+  ],
+  "honeymoonExperiences": [
+    "Private sailing charter to the reef",
+    "Daintree Rainforest overnight eco-lodge stay",
+    "Sunset at the Cairns Esplanade Lagoon"
+  ],
+  "budgetExperiences": [
+    "Free Esplanade Lagoon swimming",
+    "Cairns Night Markets browsing",
+    "Esplanade boardwalk birdwatching"
+  ],
+  "estimatedDailyBudgetUSD": [
+    65,
+    135,
+    270,
+    600
+  ],
+  "safetyRating": 4.5,
+  "internetRating": 4,
+  "publicTransportRating": 3.5,
+  "walkingScore": 55,
+  "accessibilityRating": 3.5,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Feb",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Mar",
+      "highC": 30,
+      "crowd": "Low"
+    },
+    {
+      "month": "Apr",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 27,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 30,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 31,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Cairns Festival",
+      "timing": "August-September"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "000",
+    "ambulance": "000",
+    "fire": "000"
+  },
+  "localEtiquette": [
+    "Reef etiquette is taken seriously — no touching coral or marine life, and reef-safe sunscreen is often mandated by tour operators.",
+    "Casual, relaxed dress is standard for this tropical tourist town.",
+    "Respect stinger-season warning signage and swim only in netted areas November-May."
+  ],
+  "localTransportGuide": "Central Cairns is walkable, especially the Esplanade area, but reaching the reef, Kuranda, or Daintree requires a booked tour, since these are boat- or vehicle-based excursions well outside the city. Rental cars are useful for the Atherton Tablelands and northern beaches at your own pace.",
+  "bestTimeToVisit": "June to October — the dry season, with lower humidity and minimal risk of the wet-season stinger jellyfish or cyclones.",
+  "weather": "Tropical climate — hot, humid wet season (November-May, highs around 31°C with heavy rain and cyclone risk) and a warm, dry season (June-October, highs around 26°C).",
+  "visaInformation": "All visitors to Australia need a visa or electronic travel authority arranged before departure — an eVisitor or ETA for most Western passport holders, or an e-visitor visa for Indian nationals, all applied for online in advance.",
+  "currency": "AUD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "AEST (UTC+10)",
+  "averageFlightTime": "~14.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Cairns Airport (CNS)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Cairns?",
+      "answer": "All visitors to Australia need a visa or electronic travel authority arranged before departure — an eVisitor or ETA for most Western passport holders, or an e-visitor visa for Indian nationals, all applied for online in advance."
+    },
+    {
+      "question": "What is the best time to visit Cairns?",
+      "answer": "June to October — the dry season, with lower humidity and minimal risk of the wet-season stinger jellyfish or cyclones. Tropical climate — hot, humid wet season (November-May, highs around 31°C with heavy rain and cyclone risk) and a warm, dry season (June-October, highs around 26°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Cairns safe for tourists?",
+      "answer": "Cairns is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Cairns?",
+      "answer": "The local currency is AUD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include Cairns Esplanade Lagoon."
+    }
+  ],
+  "categories": [
+    "Nature",
+    "Adventure",
+    "Wildlife",
+    "Bucket List",
+    "Family",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Cairns",
+    "Australia",
+    "Cairns, Australia",
+    "Oceania",
+    "Cairns tour package",
+    "Cairns vacation package",
+    "Cairns holiday package",
+    "things to do in Cairns",
+    "best time to visit Cairns",
+    "Cairns itinerary",
+    "3 day Cairns itinerary",
+    "Cairns flights and hotels",
+    "Cairns all inclusive package",
+    "cheap Cairns package",
+    "luxury Cairns package",
+    "Cairns honeymoon package",
+    "Cairns family vacation",
+    "Cairns solo trip",
+    "Cairns group tour",
+    "Cairns weekend getaway",
+    "Cairns guided tour",
+    "CNS flights",
+    "Cairns travel guide",
+    "book Cairns trip online",
+    "Cairns trip cost",
+    "Cairns packages 3 days",
+    "Cairns nature",
+    "Cairns adventure",
+    "Cairns wildlife",
+    "Cairns bucket list",
+    "Cairns family",
+    "Great Barrier Reef day cruise",
+    "Kuranda Scenic Railway and Skyrail",
+    "Daintree Rainforest and Cape Tribulation day tour",
+    "Cairns Aquarium",
+    "Cairns Esplanade Lagoon",
+    "Cairns Night Markets",
+    "Esplanade boardwalk",
+    "Ochre Restaurant",
+    "Prawn Star",
+    "C'Bar",
+    "Great Barrier Reef aerial/underwater shots",
+    "Kuranda Skyrail over the rainforest canopy",
+    "Cairns Esplanade Lagoon sunset",
+    "Cape Tribulation where rainforest meets reef",
+    "Josephine Falls swimming hole",
+    "Atherton Tablelands waterfalls and lakes",
+    "Fitzroy Island (day trip)",
+    "Australia tourism",
+    "Oceania travel"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Cairns, Australia — Great Barrier Reef underwater",
+      "keywords": [
+        "Cairns",
+        "Australia",
+        "Great Barrier Reef underwater",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cairns Great Barrier Reef underwater",
+      "pexelsQuery": "Cairns Great Barrier Reef underwater",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Cairns, Australia — Great Barrier Reef underwater",
+      "keywords": [
+        "Cairns",
+        "Australia",
+        "Great Barrier Reef underwater",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cairns Great Barrier Reef underwater",
+      "pexelsQuery": "Cairns Great Barrier Reef underwater",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Cairns, Australia — Kuranda Skyrail rainforest canopy",
+      "keywords": [
+        "Cairns",
+        "Australia",
+        "Kuranda Skyrail rainforest canopy",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cairns Kuranda Skyrail rainforest canopy",
+      "pexelsQuery": "Cairns Kuranda Skyrail rainforest canopy",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Cairns, Australia — Cairns Esplanade Lagoon sunset",
+      "keywords": [
+        "Cairns",
+        "Australia",
+        "Cairns Esplanade Lagoon sunset",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cairns Cairns Esplanade Lagoon sunset",
+      "pexelsQuery": "Cairns Cairns Esplanade Lagoon sunset",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Cairns, Australia — Great Barrier Reef underwater",
+      "keywords": [
+        "Cairns",
+        "Australia",
+        "Great Barrier Reef underwater",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cairns Great Barrier Reef underwater",
+      "pexelsQuery": "Cairns Great Barrier Reef underwater",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cairns, Australia — Kuranda Skyrail rainforest canopy",
+      "keywords": [
+        "Cairns",
+        "Australia",
+        "Kuranda Skyrail rainforest canopy",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cairns Kuranda Skyrail rainforest canopy",
+      "pexelsQuery": "Cairns Kuranda Skyrail rainforest canopy",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cairns, Australia — Cairns Esplanade Lagoon sunset",
+      "keywords": [
+        "Cairns",
+        "Australia",
+        "Cairns Esplanade Lagoon sunset",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cairns Cairns Esplanade Lagoon sunset",
+      "pexelsQuery": "Cairns Cairns Esplanade Lagoon sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cairns, Australia — Daintree Rainforest meets reef",
+      "keywords": [
+        "Cairns",
+        "Australia",
+        "Daintree Rainforest meets reef",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cairns Daintree Rainforest meets reef",
+      "pexelsQuery": "Cairns Daintree Rainforest meets reef",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cairns, Australia — Great Barrier Reef day cruise",
+      "keywords": [
+        "Cairns",
+        "Australia",
+        "Great Barrier Reef day cruise",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cairns Great Barrier Reef day cruise",
+      "pexelsQuery": "Cairns Great Barrier Reef day cruise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cairns, Australia — Kuranda Scenic Railway and Skyrail",
+      "keywords": [
+        "Cairns",
+        "Australia",
+        "Kuranda Scenic Railway and Skyrail",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cairns Kuranda Scenic Railway and Skyrail",
+      "pexelsQuery": "Cairns Kuranda Scenic Railway and Skyrail",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cairns, Australia — Daintree Rainforest and Cape Tribulation day tour",
+      "keywords": [
+        "Cairns",
+        "Australia",
+        "Daintree Rainforest and Cape Tribulation day tour",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cairns Daintree Rainforest and Cape Tribulation day tour",
+      "pexelsQuery": "Cairns Daintree Rainforest and Cape Tribulation day tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cairns, Australia — Cairns Aquarium",
+      "keywords": [
+        "Cairns",
+        "Australia",
+        "Cairns Aquarium",
+        "Nature",
+        "Adventure"
+      ],
+      "unsplashQuery": "Cairns Cairns Aquarium",
+      "pexelsQuery": "Cairns Cairns Aquarium",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-cairns-3-1",
+      "author": "Lucas Ivanov",
+      "country": "UAE",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-10",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Daintree Rainforest and Cape Tribulation day tour and Kuranda Scenic Railway and Skyrail. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-2",
+      "author": "Priya Ivanov",
+      "country": "South Korea",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-14",
+      "title": "Loved every moment",
+      "body": "Booked this as a couple trip and it was well paced. Cairns Aquarium in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-3",
+      "author": "David Santos",
+      "country": "Italy",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-09-26",
+      "title": "Loved every moment",
+      "body": "Cairns is stunning and this package covered the essentials well, especially Esplanade boardwalk. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-cairns-3-4",
+      "author": "Tom Patel",
+      "country": "Spain",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-05-12",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Esplanade boardwalk and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-5",
+      "author": "Anna Rossi",
+      "country": "Singapore",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-23",
+      "title": "Unforgettable trip!",
+      "body": "Cairns is stunning and this package covered the essentials well, especially Cairns Aquarium. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-6",
+      "author": "Chen Williams",
+      "country": "Germany",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-12-01",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a couple trip and it was well paced. Kuranda Scenic Railway and Skyrail in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-7",
+      "author": "Fatima Garcia",
+      "country": "Brazil",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-23",
+      "title": "Perfect for our honeymoon",
+      "body": "Cairns Esplanade Lagoon alone was worth the trip, but combined with Cairns Esplanade Lagoon this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-8",
+      "author": "James Kim",
+      "country": "South Korea",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-06-10",
+      "title": "Five stars, will return",
+      "body": "Our trip to Cairns was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Cairns Aquarium was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-9",
+      "author": "Sarah Kowalski",
+      "country": "Japan",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-10-10",
+      "title": "Exceeded our expectations",
+      "body": "Cairns is stunning and this package covered the essentials well, especially Cairns Aquarium. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-10",
+      "author": "Omar Ibrahim",
+      "country": "Canada",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-01-03",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Kuranda Scenic Railway and Skyrail and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-cairns-3-11",
+      "author": "Hiroshi van Dijk",
+      "country": "India",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-03-16",
+      "title": "Highly recommend this package",
+      "body": "Daintree Rainforest and Cape Tribulation day tour alone was worth the trip, but combined with Cairns Esplanade Lagoon this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-12",
+      "author": "James Dubois",
+      "country": "Singapore",
+      "rating": 3.6,
+      "foodRating": 3,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-26",
+      "title": "Five stars, will return",
+      "body": "Our trip to Cairns was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Daintree Rainforest and Cape Tribulation day tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-cairns-3-13",
+      "author": "Anna Nguyen",
+      "country": "Singapore",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-12-27",
+      "title": "Adventure of a lifetime",
+      "body": "Cairns is stunning and this package covered the essentials well, especially Daintree Rainforest and Cape Tribulation day tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-14",
+      "author": "Marco Brown",
+      "country": "South Africa",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-15",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Cairns Esplanade Lagoon and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-15",
+      "author": "Chen Andersen",
+      "country": "Canada",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-02",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a family of 4 trip and it was well paced. Great Barrier Reef day cruise in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-16",
+      "author": "Yuki Cohen",
+      "country": "South Africa",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-17",
+      "title": "Adventure of a lifetime",
+      "body": "Cairns Esplanade Lagoon alone was worth the trip, but combined with Kuranda Scenic Railway and Skyrail this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-cairns-3-17",
+      "author": "Sarah van Dijk",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-12",
+      "title": "Exceeded our expectations",
+      "body": "Cairns is stunning and this package covered the essentials well, especially Cairns Night Markets. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-18",
+      "author": "Sofia Garcia",
+      "country": "Spain",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-02-10",
+      "title": "Smooth from start to finish",
+      "body": "Booked this as a couple trip and it was well paced. Esplanade boardwalk in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-19",
+      "author": "Lucas Khan",
+      "country": "Germany",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-21",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Kuranda Scenic Railway and Skyrail and Cairns Aquarium. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cairns-3-20",
+      "author": "Fatima Johnson",
+      "country": "Canada",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-12-14",
+      "title": "Consultant made it effortless",
+      "body": "Great Barrier Reef day cruise alone was worth the trip, but combined with Cairns Aquarium this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.4,
+    "transportation": 4.4,
+    "activities": 4.3,
+    "value": 4.4,
+    "cleanliness": 4.3,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Cairns Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 14,
+      "neighborhood": "Cairns Night Markets"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Cairns Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 26,
+      "neighborhood": "Pier Shopping Centre"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Cairns Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 47,
+      "neighborhood": "Rusty's Markets"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Cairns Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 61,
+      "neighborhood": "Esplanade bars"
+    },
+    {
+      "tier": "Resort",
+      "name": "Cairns Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 135,
+      "neighborhood": "The Woolshed backpacker bar"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Cairns Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 252,
+      "neighborhood": "Salt House waterfront lounge"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Cairns Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 300,
+      "neighborhood": "Caffiend Cairns"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1188,
+        1887
+      ],
+      "estimatedFlightHours": 21.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1149,
+        1825
+      ],
+      "estimatedFlightHours": 20.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        1170,
+        1859
+      ],
+      "estimatedFlightHours": 21.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1173,
+        1863
+      ],
+      "estimatedFlightHours": 21.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        1139,
+        1809
+      ],
+      "estimatedFlightHours": 20.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1145,
+        1818
+      ],
+      "estimatedFlightHours": 20.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        1239,
+        1968
+      ],
+      "estimatedFlightHours": 22.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1146,
+        1820
+      ],
+      "estimatedFlightHours": 20.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1150,
+        1827
+      ],
+      "estimatedFlightHours": 20.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        218,
+        347
+      ],
+      "estimatedFlightHours": 3.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        337,
+        535
+      ],
+      "estimatedFlightHours": 5.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        722,
+        1146
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        502,
+        797
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        536,
+        852
+      ],
+      "estimatedFlightHours": 9.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        439,
+        698
+      ],
+      "estimatedFlightHours": 7.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        512,
+        813
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        462,
+        733
+      ],
+      "estimatedFlightHours": 8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        394,
+        626
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        397,
+        630
+      ],
+      "estimatedFlightHours": 6.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        459,
+        729
+      ],
+      "estimatedFlightHours": 7.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        860,
+        1366
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        921,
+        1462
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        887,
+        1408
+      ],
+      "estimatedFlightHours": 15.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        919,
+        1459
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        926,
+        1470
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1183,
+        1879
+      ],
+      "estimatedFlightHours": 21.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Cairns Airport (CNS)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1029,
+        1635
+      ],
+      "estimatedFlightHours": 18.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Great Barrier Reef day cruise",
+    "Kuranda Scenic Railway and Skyrail",
+    "Daintree Rainforest and Cape Tribulation day tour",
+    "Cairns Aquarium",
+    "Cairns Esplanade Lagoon",
+    "Cairns Night Markets",
+    "Esplanade boardwalk",
+    "Great Barrier Reef",
+    "Kuranda village",
+    "Daintree Rainforest and Cape Tribulation",
+    "Atherton Tablelands",
+    "Cairns Museum",
+    "Tanks Arts Centre",
+    "Cairns Botanic Gardens",
+    "Daintree National Park",
+    "Palm Cove Beach",
+    "Trinity Beach",
+    "Fitzroy Island beaches",
+    "Great Barrier Reef aerial/underwater shots",
+    "Kuranda Skyrail over the rainforest canopy",
+    "Cairns Esplanade Lagoon sunset",
+    "Cape Tribulation where rainforest meets reef"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Great Barrier Reef day cruise",
+      "priceUSD": 150
+    },
+    {
+      "name": "Kuranda Scenic Railway and Skyrail",
+      "priceUSD": 90
+    },
+    {
+      "name": "Daintree Rainforest and Cape Tribulation day tour",
+      "priceUSD": 130
+    },
+    {
+      "name": "Cairns Aquarium",
+      "priceUSD": 30
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Cairns Esplanade Lagoon",
+    "Cairns Night Markets",
+    "Esplanade boardwalk"
+  ],
+  "museums": [
+    "Cairns Museum",
+    "Tanks Arts Centre"
+  ],
+  "parks": [
+    "Cairns Botanic Gardens",
+    "Daintree National Park"
+  ],
+  "beaches": [
+    "Palm Cove Beach",
+    "Trinity Beach",
+    "Fitzroy Island beaches"
+  ],
+  "dayTrips": [
+    "Great Barrier Reef",
+    "Kuranda village",
+    "Daintree Rainforest and Cape Tribulation",
+    "Atherton Tablelands"
+  ],
+  "fromPriceUSD": 1894,
+  "seo": {
+    "title": "Cairns 3-Day Nature Retreat | Flights, Hotels & Tours Included",
+    "slug": "cairns-3-day-package",
+    "keywords": [
+      "Cairns",
+      "Australia",
+      "Cairns, Australia",
+      "Oceania",
+      "Cairns tour package",
+      "Cairns vacation package",
+      "Cairns holiday package",
+      "things to do in Cairns",
+      "best time to visit Cairns",
+      "Cairns itinerary",
+      "3 day Cairns itinerary",
+      "Cairns flights and hotels",
+      "Cairns all inclusive package",
+      "cheap Cairns package",
+      "luxury Cairns package"
+    ],
+    "canonicalUrl": "/packages/cairns-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Cairns Package",
+        "url": "/packages/cairns-2-day-package"
+      },
+      {
+        "title": "5-Day Cairns Package",
+        "url": "/packages/cairns-5-day-package"
+      },
+      {
+        "title": "Nairobi 3-Day Wildlife Safari",
+        "url": "/packages/nairobi-3-day-package"
+      },
+      {
+        "title": "Costa Rica 3-Day Nature Retreat",
+        "url": "/packages/costa-rica-3-day-package"
+      },
+      {
+        "title": "Galápagos Islands 3-Day Wildlife Safari",
+        "url": "/packages/galapagos-islands-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Cairns — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cairns"
+      },
+      {
+        "title": "Cairns — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Cairns"
+      }
+    ]
+  }
+}

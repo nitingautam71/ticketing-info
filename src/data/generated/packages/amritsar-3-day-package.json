@@ -1,0 +1,1538 @@
+{
+  "id": "PKG-amritsar-3D",
+  "slug": "amritsar-3-day-package",
+  "destinationSlug": "amritsar",
+  "destinationName": "Amritsar",
+  "country": "India",
+  "region": "Punjab",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Amritsar 3-Day Cultural Tour",
+  "metaTitle": "Amritsar 3-Day Cultural Tour | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Amritsar, India: round-trip flights, hotel, breakfast, transfers, and guided tours including Partition Museum and Maharaja Ranjit Singh Museum. Prices from $1252 per person (estimate).",
+  "highlights": [
+    "Partition Museum",
+    "Maharaja Ranjit Singh Museum",
+    "Golden Temple (Harmandir Sahib)",
+    "Wagah Border"
+  ],
+  "overview": "Spend 3 days discovering Amritsar, India — Continental climate typical of Punjab's plains: very hot, dry summers (highs 39-42°C in May-June), a moderate monsoon July-September, and cold, foggy winters (highs 18-20°C, near-freezing nights in January). October to March, with comfortable highs of 19-27°C for temple visits and the Wagah Border ceremony; avoid May-June when highs exceed 40°C. This itinerary blends Partition Museum, Maharaja Ranjit Singh Museum, Golden Temple (Harmandir Sahib) with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Partition Museum, Maharaja Ranjit Singh Museum, Golden Temple (Harmandir Sahib)",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Amritsar",
+      "description": "Land at Sri Guru Ram Dass Jee International Airport (ATQ) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Partition Museum — Moving museum documenting the 1947 Partition of India. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Partition Museum"
+      ],
+      "overnight": "Amritsar"
+    },
+    {
+      "day": 2,
+      "title": "Amritsar: Maharaja Ranjit Singh Museum & Gobindgarh Fort",
+      "description": "Morning visit to Maharaja Ranjit Singh Museum — Sikh Empire artifacts inside Ram Bagh gardens. In the afternoon, continue to Gobindgarh Fort — 18th-century fort with light shows and cultural exhibits. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Maharaja Ranjit Singh Museum",
+        "Gobindgarh Fort"
+      ],
+      "overnight": "Amritsar"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Jallianwala Bagh memorial museum or some souvenir shopping — before your private transfer to ATQ for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Visit the Golden Temple before sunrise or after 9pm for the most peaceful experience and best photos with fewer crowds.",
+    "Try the free langar meal at least once — sitting cross-legged with strangers from all walks of life is a core part of the experience.",
+    "Arrive at the Wagah Border by 3:30-4pm to get a good seat before the 5:15-5:45pm ceremony (timing shifts seasonally).",
+    "Amritsari kulcha (stuffed flatbread) with chole is the city's signature breakfast — try it at a local dhaba, not a hotel restaurant.",
+    "Leave shoes and socks at the free cloak counters outside the Golden Temple rather than carrying them.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "A scarf or bandana for covering your head at the Golden Temple (also provided free on-site)",
+    "Modest clothing — no shorts or sleeveless tops at religious sites",
+    "Comfortable shoes for walking on the marble parikrama (barefoot required inside)",
+    "Warm layers for cold, foggy winter mornings"
+  ],
+  "thingsToDo": [
+    "Partition Museum",
+    "Maharaja Ranjit Singh Museum",
+    "Gobindgarh Fort",
+    "Jallianwala Bagh memorial museum",
+    "Golden Temple (Harmandir Sahib)",
+    "Golden Temple langar hall",
+    "Jallianwala Bagh",
+    "Wagah Border ceremony",
+    "Hall Bazaar",
+    "Durgiana Temple",
+    "Cycling tour of the old city and Golden Temple surrounds",
+    "Day trip cycling/jeep tour to the Wagah Border villages",
+    "Street-food walking tour through Hall Bazaar",
+    "Gobindgarh Fort interactive exhibits",
+    "Golden Temple langar volunteering experience"
+  ],
+  "thingsToAvoid": [
+    "Bringing tobacco, alcohol, or leather goods into the Golden Temple complex.",
+    "Skipping the modesty dress code at religious sites — temple volunteers may turn you away.",
+    "Unlicensed guides near the Golden Temple charging inflated \"mandatory\" fees.",
+    "Walking barefoot for extended periods on the hot marble parikrama at midday in summer.",
+    "Rushing the Wagah Border visit — arrive early since security lines and seating fill up fast."
+  ],
+  "topRestaurants": [
+    "Kesar Da Dhaba — Punjabi, historic institution ($)",
+    "Bharawan Da Dhaba — Punjabi Vegetarian ($)",
+    "Brothers Dhaba — Punjabi ($)",
+    "Kulcha Land — Amritsari Kulcha ($)",
+    "Golden Temple langar — Free community vegetarian meal ($)",
+    "Crystal Restaurant — North Indian & Chinese ($$)",
+    "Beera Chicken House — Punjabi Tandoori ($$)"
+  ],
+  "topCafes": [
+    "Cafe Coffee Day, Lawrence Road",
+    "Barista, Ranjit Avenue",
+    "Novelty Sweets & Cafe",
+    "Ahuja Lassi corner shops"
+  ],
+  "shoppingAreas": [
+    "Hall Bazaar",
+    "Guru Bazaar (jewelry)",
+    "Katra Jaimal Singh Market (Punjabi jutti shoes)",
+    "Lawrence Road shopping strip"
+  ],
+  "nightlife": [
+    "Golden Temple illuminated night visit",
+    "Wagah Border evening ceremony energy",
+    "Rooftop dhaba dinners near the Golden Temple",
+    "Ram Bagh evening walk"
+  ],
+  "instagramSpots": [
+    "Golden Temple reflected in the sarovar at dawn",
+    "Golden Temple illuminated at night",
+    "Wagah Border ceremony",
+    "Jallianwala Bagh memorial well",
+    "Hall Bazaar lanes"
+  ],
+  "hiddenGems": [
+    "Gobindgarh Fort light show",
+    "Durgiana Temple lakeside",
+    "Partition Museum personal-story exhibits",
+    "Ram Tirath Temple (birthplace of Luv and Kush in Hindu mythology)"
+  ],
+  "familyActivities": [
+    "Wagah Border ceremony",
+    "Gobindgarh Fort interactive exhibits",
+    "Golden Temple langar volunteering experience",
+    "Maharaja Ranjit Singh Museum"
+  ],
+  "adventureActivities": [
+    "Cycling tour of the old city and Golden Temple surrounds",
+    "Day trip cycling/jeep tour to the Wagah Border villages",
+    "Street-food walking tour through Hall Bazaar"
+  ],
+  "luxuryExperiences": [
+    "Private early-morning Golden Temple tour before public crowds",
+    "Suite stay with a Golden Temple view balcony",
+    "Private car and VIP viewing arrangement for the Wagah Border ceremony",
+    "Fine dining Punjabi tasting menu at a heritage hotel"
+  ],
+  "honeymoonExperiences": [
+    "Sunrise visit to the Golden Temple together",
+    "Evening illumination viewing from the causeway",
+    "Quiet walk around Durgiana Temple lake",
+    "Rooftop dinner overlooking the old city"
+  ],
+  "budgetExperiences": [
+    "Free darshan and langar meal at the Golden Temple",
+    "Free entry to Jallianwala Bagh and the Wagah Border ceremony",
+    "Street food crawl on Hall Bazaar and Kesar Da Dhaba",
+    "Walking tour of the old city"
+  ],
+  "estimatedDailyBudgetUSD": [
+    15,
+    50,
+    120,
+    300
+  ],
+  "safetyRating": 4,
+  "internetRating": 3,
+  "publicTransportRating": 3,
+  "walkingScore": 42,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 18,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 22,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 28,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 35,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 39,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 40,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 35,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 34,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 34,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Nov",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Dec",
+      "highC": 20,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Baisakhi",
+      "timing": "April 13-14, Sikh harvest and new year festival"
+    },
+    {
+      "name": "Guru Nanak Gurpurab",
+      "timing": "November (per lunar calendar), Guru Nanak's birth anniversary"
+    },
+    {
+      "name": "Golden Temple anniversary illumination",
+      "timing": "Diwali period, October-November"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101"
+  },
+  "localEtiquette": [
+    "Cover your head with a scarf or bandana (provided free at the entrance) and remove shoes before entering the Golden Temple complex.",
+    "Do not smoke, drink alcohol, or bring leather items into the Golden Temple complex.",
+    "Wading in the temple's sacred pool (sarovar) is welcomed for ritual bathing but do so respectfully and modestly.",
+    "Accept langar (free community meal) food with both hands as a sign of respect.",
+    "Photography is generally allowed at the Golden Temple but avoid photographing worshippers up close without permission."
+  ],
+  "localTransportGuide": "Amritsar's old city around the Golden Temple is best explored on foot or by cycle-rickshaw; auto-rickshaws and Ola/Uber handle longer distances including the roughly 30km trip to the Wagah Border. Many hotels arrange shared taxis timed for the evening Wagah ceremony.",
+  "bestTimeToVisit": "October to March, with comfortable highs of 19-27°C for temple visits and the Wagah Border ceremony; avoid May-June when highs exceed 40°C.",
+  "weather": "Continental climate typical of Punjab's plains: very hot, dry summers (highs 39-42°C in May-June), a moderate monsoon July-September, and cold, foggy winters (highs 18-20°C, near-freezing nights in January).",
+  "visaInformation": "Most foreign nationals require an Indian e-Visa applied for online before travel. Indian citizens need no visa, and OCI/PIO cardholders travel visa-free with a linked foreign passport — relevant given the very large Punjabi diaspora that visits the Golden Temple regularly.",
+  "currency": "INR",
+  "languages": [
+    "Punjabi",
+    "Hindi"
+  ],
+  "timeZone": "IST (UTC+5:30)",
+  "averageFlightTime": "~9.4h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Amritsar?",
+      "answer": "Most foreign nationals require an Indian e-Visa applied for online before travel. Indian citizens need no visa, and OCI/PIO cardholders travel visa-free with a linked foreign passport — relevant given the very large Punjabi diaspora that visits the Golden Temple regularly."
+    },
+    {
+      "question": "What is the best time to visit Amritsar?",
+      "answer": "October to March, with comfortable highs of 19-27°C for temple visits and the Wagah Border ceremony; avoid May-June when highs exceed 40°C. Continental climate typical of Punjab's plains: very hot, dry summers (highs 39-42°C in May-June), a moderate monsoon July-September, and cold, foggy winters (highs 18-20°C, near-freezing nights in January)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Amritsar safe for tourists?",
+      "answer": "Amritsar is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Amritsar?",
+      "answer": "The local currency is INR. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "Culture",
+    "History",
+    "Food",
+    "Bucket List",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Amritsar",
+    "India",
+    "Amritsar, India",
+    "Punjab",
+    "Amritsar tour package",
+    "Amritsar vacation package",
+    "Amritsar holiday package",
+    "things to do in Amritsar",
+    "best time to visit Amritsar",
+    "Amritsar itinerary",
+    "3 day Amritsar itinerary",
+    "Amritsar flights and hotels",
+    "Amritsar all inclusive package",
+    "cheap Amritsar package",
+    "luxury Amritsar package",
+    "Amritsar honeymoon package",
+    "Amritsar family vacation",
+    "Amritsar solo trip",
+    "Amritsar group tour",
+    "Amritsar weekend getaway",
+    "Amritsar guided tour",
+    "ATQ flights",
+    "Amritsar travel guide",
+    "book Amritsar trip online",
+    "Amritsar trip cost",
+    "Amritsar packages 3 days",
+    "Amritsar culture",
+    "Amritsar history",
+    "Amritsar food",
+    "Amritsar bucket list",
+    "Partition Museum",
+    "Maharaja Ranjit Singh Museum",
+    "Gobindgarh Fort",
+    "Jallianwala Bagh memorial museum",
+    "Golden Temple (Harmandir Sahib)",
+    "Golden Temple langar hall",
+    "Jallianwala Bagh",
+    "Wagah Border ceremony",
+    "Hall Bazaar",
+    "Durgiana Temple",
+    "Kesar Da Dhaba",
+    "Bharawan Da Dhaba",
+    "Brothers Dhaba",
+    "Kulcha Land",
+    "Golden Temple langar",
+    "Golden Temple reflected in the sarovar at dawn",
+    "Golden Temple illuminated at night",
+    "Jallianwala Bagh memorial well",
+    "Hall Bazaar lanes",
+    "Gobindgarh Fort light show"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Amritsar, India — Golden Temple reflection",
+      "keywords": [
+        "Amritsar",
+        "India",
+        "Golden Temple reflection",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Amritsar Golden Temple reflection",
+      "pexelsQuery": "Amritsar Golden Temple reflection",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Amritsar, India — Golden Temple reflection",
+      "keywords": [
+        "Amritsar",
+        "India",
+        "Golden Temple reflection",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Amritsar Golden Temple reflection",
+      "pexelsQuery": "Amritsar Golden Temple reflection",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Amritsar, India — Golden Temple illuminated at night",
+      "keywords": [
+        "Amritsar",
+        "India",
+        "Golden Temple illuminated at night",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Amritsar Golden Temple illuminated at night",
+      "pexelsQuery": "Amritsar Golden Temple illuminated at night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Amritsar, India — Wagah Border ceremony",
+      "keywords": [
+        "Amritsar",
+        "India",
+        "Wagah Border ceremony",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Amritsar Wagah Border ceremony",
+      "pexelsQuery": "Amritsar Wagah Border ceremony",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Amritsar, India — Golden Temple reflection",
+      "keywords": [
+        "Amritsar",
+        "India",
+        "Golden Temple reflection",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Amritsar Golden Temple reflection",
+      "pexelsQuery": "Amritsar Golden Temple reflection",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amritsar, India — Golden Temple illuminated at night",
+      "keywords": [
+        "Amritsar",
+        "India",
+        "Golden Temple illuminated at night",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Amritsar Golden Temple illuminated at night",
+      "pexelsQuery": "Amritsar Golden Temple illuminated at night",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amritsar, India — Wagah Border ceremony",
+      "keywords": [
+        "Amritsar",
+        "India",
+        "Wagah Border ceremony",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Amritsar Wagah Border ceremony",
+      "pexelsQuery": "Amritsar Wagah Border ceremony",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amritsar, India — Amritsari langar hall",
+      "keywords": [
+        "Amritsar",
+        "India",
+        "Amritsari langar hall",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Amritsar Amritsari langar hall",
+      "pexelsQuery": "Amritsar Amritsari langar hall",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amritsar, India — Partition Museum",
+      "keywords": [
+        "Amritsar",
+        "India",
+        "Partition Museum",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Amritsar Partition Museum",
+      "pexelsQuery": "Amritsar Partition Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amritsar, India — Maharaja Ranjit Singh Museum",
+      "keywords": [
+        "Amritsar",
+        "India",
+        "Maharaja Ranjit Singh Museum",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Amritsar Maharaja Ranjit Singh Museum",
+      "pexelsQuery": "Amritsar Maharaja Ranjit Singh Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amritsar, India — Gobindgarh Fort",
+      "keywords": [
+        "Amritsar",
+        "India",
+        "Gobindgarh Fort",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Amritsar Gobindgarh Fort",
+      "pexelsQuery": "Amritsar Gobindgarh Fort",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Amritsar, India — Jallianwala Bagh memorial museum",
+      "keywords": [
+        "Amritsar",
+        "India",
+        "Jallianwala Bagh memorial museum",
+        "Culture",
+        "History"
+      ],
+      "unsplashQuery": "Amritsar Jallianwala Bagh memorial museum",
+      "pexelsQuery": "Amritsar Jallianwala Bagh memorial museum",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-amritsar-3-1",
+      "author": "James Andersen",
+      "country": "Mexico",
+      "rating": 3.6,
+      "foodRating": 3,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-04-19",
+      "title": "Five stars, will return",
+      "body": "Our trip to Amritsar was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Hall Bazaar was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-amritsar-3-2",
+      "author": "Wei Patel",
+      "country": "South Korea",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-29",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a couple trip and it was well paced. Golden Temple (Harmandir Sahib) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-3",
+      "author": "Nadia van Dijk",
+      "country": "Spain",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-27",
+      "title": "Smooth from start to finish",
+      "body": "Amritsar is stunning and this package covered the essentials well, especially Durgiana Temple. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-4",
+      "author": "Sofia Ivanov",
+      "country": "France",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-03-29",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a group trip and it was well paced. Gobindgarh Fort in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-5",
+      "author": "Priya Williams",
+      "country": "India",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-03-09",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a solo trip and it was well paced. Jallianwala Bagh memorial museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-6",
+      "author": "Wei Kim",
+      "country": "South Africa",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-05-02",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a couple trip and it was well paced. Jallianwala Bagh in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-7",
+      "author": "Nadia Ibrahim",
+      "country": "UAE",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-04-09",
+      "title": "Five stars, will return",
+      "body": "Amritsar is stunning and this package covered the essentials well, especially Jallianwala Bagh memorial museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-8",
+      "author": "Mia Andersen",
+      "country": "France",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-28",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Gobindgarh Fort and Hall Bazaar. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-9",
+      "author": "David Botha",
+      "country": "South Korea",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-01-17",
+      "title": "Consultant made it effortless",
+      "body": "Amritsar is stunning and this package covered the essentials well, especially Golden Temple (Harmandir Sahib). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-10",
+      "author": "Lucas Brown",
+      "country": "Italy",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-13",
+      "title": "Highly recommend this package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Durgiana Temple and Partition Museum. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-11",
+      "author": "Chen Williams",
+      "country": "Japan",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-11",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a family of 4 trip and it was well paced. Golden Temple langar hall in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-12",
+      "author": "Isabella Novak",
+      "country": "Germany",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-27",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Gobindgarh Fort and Wagah Border ceremony. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-13",
+      "author": "Anna Patel",
+      "country": "New Zealand",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-01-05",
+      "title": "Great value for money",
+      "body": "Amritsar is stunning and this package covered the essentials well, especially Jallianwala Bagh. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-14",
+      "author": "Emma Ivanov",
+      "country": "Mexico",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-17",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Amritsar was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Hall Bazaar was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-15",
+      "author": "Isabella Santos",
+      "country": "Netherlands",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-06-05",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Wagah Border ceremony and Golden Temple (Harmandir Sahib). Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-16",
+      "author": "Omar Williams",
+      "country": "Japan",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-12-09",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Golden Temple langar hall and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-17",
+      "author": "Priya Fernandez",
+      "country": "Singapore",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-03",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a solo trip and it was well paced. Golden Temple (Harmandir Sahib) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-18",
+      "author": "Daniel Novak",
+      "country": "Saudi Arabia",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-05",
+      "title": "Best vacation we've had",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Hall Bazaar and Jallianwala Bagh. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-amritsar-3-19",
+      "author": "Grace Nguyen",
+      "country": "Netherlands",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-03-27",
+      "title": "Loved every moment",
+      "body": "We added a couple of optional activities beyond Wagah Border ceremony and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-amritsar-3-20",
+      "author": "Fatima Patel",
+      "country": "Switzerland",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-27",
+      "title": "Smooth from start to finish",
+      "body": "Wagah Border ceremony alone was worth the trip, but combined with Wagah Border ceremony this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.4,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.4,
+    "cleanliness": 4.3,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Amritsar Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 3,
+      "neighborhood": "Hall Bazaar"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Amritsar Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 6,
+      "neighborhood": "Guru Bazaar (jewelry)"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Amritsar Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 18,
+      "neighborhood": "Katra Jaimal Singh Market (Punjabi jutti shoes)"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Amritsar Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 23,
+      "neighborhood": "Lawrence Road shopping strip"
+    },
+    {
+      "tier": "Resort",
+      "name": "Amritsar Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 60,
+      "neighborhood": "Golden Temple illuminated night visit"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Amritsar Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 126,
+      "neighborhood": "Wagah Border evening ceremony energy"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Amritsar Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 150,
+      "neighborhood": "Rooftop dhaba dinners near the Golden Temple"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        897,
+        1424
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        889,
+        1412
+      ],
+      "estimatedFlightHours": 16,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        533,
+        846
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        524,
+        833
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        490,
+        779
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        478,
+        759
+      ],
+      "estimatedFlightHours": 8.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        575,
+        914
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        507,
+        806
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        493,
+        783
+      ],
+      "estimatedFlightHours": 8.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        858,
+        1362
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1005,
+        1596
+      ],
+      "estimatedFlightHours": 18.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        105,
+        167
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        503,
+        799
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        420,
+        667
+      ],
+      "estimatedFlightHours": 7.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        404,
+        641
+      ],
+      "estimatedFlightHours": 6.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        314,
+        498
+      ],
+      "estimatedFlightHours": 5.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        383,
+        608
+      ],
+      "estimatedFlightHours": 6.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        467,
+        741
+      ],
+      "estimatedFlightHours": 8.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        440,
+        699
+      ],
+      "estimatedFlightHours": 7.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        366,
+        581
+      ],
+      "estimatedFlightHours": 6.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        224,
+        356
+      ],
+      "estimatedFlightHours": 3.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        283,
+        450
+      ],
+      "estimatedFlightHours": 4.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        249,
+        396
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        263,
+        417
+      ],
+      "estimatedFlightHours": 4.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        664,
+        1054
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1106,
+        1756
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1110,
+        1763
+      ],
+      "estimatedFlightHours": 20.1,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Partition Museum",
+    "Maharaja Ranjit Singh Museum",
+    "Gobindgarh Fort",
+    "Jallianwala Bagh memorial museum",
+    "Golden Temple (Harmandir Sahib)",
+    "Golden Temple langar hall",
+    "Jallianwala Bagh",
+    "Wagah Border ceremony",
+    "Hall Bazaar",
+    "Durgiana Temple",
+    "Wagah Border",
+    "Pul Kanjari heritage village",
+    "Dera Baba Nanak",
+    "Kapurthala (Jagatjit Palace)",
+    "Ram Bagh Gardens",
+    "Company Bagh",
+    "Golden Temple reflected in the sarovar at dawn",
+    "Golden Temple illuminated at night",
+    "Jallianwala Bagh memorial well",
+    "Hall Bazaar lanes"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Partition Museum",
+      "priceUSD": 3
+    },
+    {
+      "name": "Maharaja Ranjit Singh Museum",
+      "priceUSD": 1
+    },
+    {
+      "name": "Gobindgarh Fort",
+      "priceUSD": 3
+    },
+    {
+      "name": "Jallianwala Bagh memorial museum",
+      "priceUSD": 0
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Golden Temple (Harmandir Sahib)",
+    "Golden Temple langar hall",
+    "Jallianwala Bagh",
+    "Wagah Border ceremony",
+    "Hall Bazaar",
+    "Durgiana Temple"
+  ],
+  "museums": [
+    "Partition Museum",
+    "Maharaja Ranjit Singh Museum"
+  ],
+  "parks": [
+    "Ram Bagh Gardens",
+    "Company Bagh"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Wagah Border",
+    "Pul Kanjari heritage village",
+    "Dera Baba Nanak",
+    "Kapurthala (Jagatjit Palace)"
+  ],
+  "fromPriceUSD": 1252,
+  "seo": {
+    "title": "Amritsar 3-Day Cultural Tour | Flights, Hotels & Tours Included",
+    "slug": "amritsar-3-day-package",
+    "keywords": [
+      "Amritsar",
+      "India",
+      "Amritsar, India",
+      "Punjab",
+      "Amritsar tour package",
+      "Amritsar vacation package",
+      "Amritsar holiday package",
+      "things to do in Amritsar",
+      "best time to visit Amritsar",
+      "Amritsar itinerary",
+      "3 day Amritsar itinerary",
+      "Amritsar flights and hotels",
+      "Amritsar all inclusive package",
+      "cheap Amritsar package",
+      "luxury Amritsar package"
+    ],
+    "canonicalUrl": "/packages/amritsar-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Amritsar Package",
+        "url": "/packages/amritsar-2-day-package"
+      },
+      {
+        "title": "5-Day Amritsar Package",
+        "url": "/packages/amritsar-5-day-package"
+      },
+      {
+        "title": "Rome 3-Day City Break",
+        "url": "/packages/rome-3-day-package"
+      },
+      {
+        "title": "Florence 3-Day Cultural Tour",
+        "url": "/packages/florence-3-day-package"
+      },
+      {
+        "title": "Istanbul 3-Day City Break",
+        "url": "/packages/istanbul-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Amritsar — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amritsar"
+      },
+      {
+        "title": "Amritsar — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Amritsar"
+      }
+    ]
+  }
+}

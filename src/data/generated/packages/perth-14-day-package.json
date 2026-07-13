@@ -1,0 +1,1662 @@
+{
+  "id": "PKG-perth-14D",
+  "slug": "perth-14-day-package",
+  "destinationSlug": "perth",
+  "destinationName": "Perth",
+  "country": "Australia",
+  "region": "Oceania",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Perth 14-Day Beach Getaway",
+  "metaTitle": "Perth 14-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Perth, Australia: round-trip flights, hotel, breakfast, transfers, and guided tours including Rottnest Island day trip and AQWA (Aquarium of Western Australia). Prices from $3407 per person (estimate).",
+  "highlights": [
+    "Rottnest Island day trip",
+    "AQWA (Aquarium of Western Australia)",
+    "Kings Park and Botanic Garden",
+    "Rottnest Island"
+  ],
+  "overview": "Spend 14 days discovering Perth, Australia — Mediterranean climate — hot, dry summers (highs around 31-32°C, December-February) and mild, wetter winters (highs around 18°C, June-August). September-November and March-April, for warm but not extreme temperatures and lower rainfall. This itinerary blends Rottnest Island day trip, AQWA (Aquarium of Western Australia), Kings Park and Botanic Garden with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Rottnest Island day trip, AQWA (Aquarium of Western Australia), Kings Park and Botanic Garden",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Perth",
+      "description": "Land at Perth Airport (PER) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Rottnest Island day trip — Ferry to a car-free island famous for quokka selfies and beaches. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Rottnest Island day trip"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 2,
+      "title": "Perth: AQWA (Aquarium of Western Australia) & Pinnacles Desert tour",
+      "description": "Morning visit to AQWA (Aquarium of Western Australia) — Aquarium showcasing WA's marine life including sharks. In the afternoon, continue to Pinnacles Desert tour — Day trip to a surreal desert landscape of limestone spires north of Perth. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "AQWA (Aquarium of Western Australia)",
+        "Pinnacles Desert tour"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 3,
+      "title": "Perth: Fremantle Prison tour & Kings Park and Botanic Garden",
+      "description": "Morning visit to Fremantle Prison tour — Former colonial-era prison, now a heritage museum. In the afternoon, continue to Kings Park and Botanic Garden — One of the world's largest inner-city parks, with skyline views. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Fremantle Prison tour",
+        "Kings Park and Botanic Garden"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Rottnest Island",
+      "description": "Full-day excursion to Rottnest Island, a popular side trip from Perth. Return to Perth in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Rottnest Island",
+        "Free evening"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Wave Rock (further afield, near Hyden) — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Wave Rock (further afield, near Hyden)"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 6,
+      "title": "Perth: Cottesloe Beach & Fremantle Markets area",
+      "description": "Morning visit to Cottesloe Beach — Perth's iconic sunset beach. In the afternoon, continue to Fremantle Markets area — Historic port town with markets, street art, and cafés (market entry itself is free to browse). Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Cottesloe Beach",
+        "Fremantle Markets area"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Fremantle",
+      "description": "Full-day excursion to Fremantle, a popular side trip from Perth. Return to Perth in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Fremantle",
+        "Free evening"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 8,
+      "title": "Perth: Elizabeth Quay & Rottnest Island day trip",
+      "description": "Morning visit to Elizabeth Quay — Waterfront precinct on the Swan River. In the afternoon, continue to Rottnest Island day trip — Ferry to a car-free island famous for quokka selfies and beaches. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Elizabeth Quay",
+        "Rottnest Island day trip"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Yanchep National Park — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Yanchep National Park"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Swan Valley wine region",
+      "description": "Full-day excursion to Swan Valley wine region, a popular side trip from Perth. Return to Perth in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Swan Valley wine region",
+        "Free evening"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 11,
+      "title": "Perth: AQWA (Aquarium of Western Australia) & Pinnacles Desert tour",
+      "description": "Morning visit to AQWA (Aquarium of Western Australia) — Aquarium showcasing WA's marine life including sharks. In the afternoon, continue to Pinnacles Desert tour — Day trip to a surreal desert landscape of limestone spires north of Perth. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "AQWA (Aquarium of Western Australia)",
+        "Pinnacles Desert tour"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 12,
+      "title": "Perth: Fremantle Prison tour & Kings Park and Botanic Garden",
+      "description": "Morning visit to Fremantle Prison tour — Former colonial-era prison, now a heritage museum. In the afternoon, continue to Kings Park and Botanic Garden — One of the world's largest inner-city parks, with skyline views. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Fremantle Prison tour",
+        "Kings Park and Botanic Garden"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Fremantle's Bathers Beach — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Fremantle's Bathers Beach"
+      ],
+      "overnight": "Perth"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Cottesloe Beach or some souvenir shopping — before your private transfer to PER for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Take the ferry to Rottnest Island for at least a half-day — renting a bike there is the classic way to see it and spot quokkas.",
+    "Use the free CAT bus loops to get around the CBD and Fremantle without a fare.",
+    "Watch the sunset at Cottesloe Beach — it's a beloved local ritual.",
+    "Book a Pinnacles Desert tour combined with Yanchep National Park for a fuller day trip north of the city.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Strong sun protection year-round — WA's UV index runs high",
+    "Swimwear and beach gear",
+    "A light jacket for cooler winter evenings"
+  ],
+  "thingsToDo": [
+    "Rottnest Island day trip",
+    "AQWA (Aquarium of Western Australia)",
+    "Pinnacles Desert tour",
+    "Fremantle Prison tour",
+    "Kings Park and Botanic Garden",
+    "Cottesloe Beach",
+    "Fremantle Markets area",
+    "Elizabeth Quay",
+    "Cycling Rottnest Island",
+    "Swimming with wild dolphins at Rockingham",
+    "Surfing at Scarborough Beach",
+    "Rottnest Island bike ride and quokka spotting",
+    "AQWA aquarium",
+    "Kings Park playgrounds and picnic areas"
+  ],
+  "thingsToAvoid": [
+    "Touching or picking up quokkas on Rottnest Island — it's illegal and can result in a fine.",
+    "Underestimating WA's sun intensity — sunburn happens quickly even on cloudy days.",
+    "Skipping sun protection during outdoor day trips."
+  ],
+  "topRestaurants": [
+    "Wildflower — Native-Australian fine dining ($$$$)",
+    "Chow's Table — Chinese-Australian ($$)",
+    "Cicerello's Fremantle — Fish and chips, waterfront ($$)"
+  ],
+  "topCafes": [
+    "Print Hall Coffee",
+    "Boston Tea Party"
+  ],
+  "shoppingAreas": [
+    "Fremantle Markets",
+    "Murray Street Mall",
+    "King Street boutiques"
+  ],
+  "nightlife": [
+    "Northbridge bar and club district",
+    "Elizabeth Quay bars",
+    "Fremantle's Cappuccino Strip"
+  ],
+  "instagramSpots": [
+    "Rottnest Island quokka selfie",
+    "Cottesloe Beach sunset",
+    "Kings Park skyline view",
+    "Pinnacles Desert at sunrise"
+  ],
+  "hiddenGems": [
+    "Wave Rock (further afield, near Hyden)",
+    "Yanchep National Park",
+    "Fremantle's Bathers Beach"
+  ],
+  "familyActivities": [
+    "Rottnest Island bike ride and quokka spotting",
+    "AQWA aquarium",
+    "Kings Park playgrounds and picnic areas"
+  ],
+  "adventureActivities": [
+    "Cycling Rottnest Island",
+    "Swimming with wild dolphins at Rockingham",
+    "Surfing at Scarborough Beach"
+  ],
+  "luxuryExperiences": [
+    "Private Swan Valley wine tour",
+    "Suite stay overlooking Elizabeth Quay",
+    "Private Rottnest Island charter"
+  ],
+  "honeymoonExperiences": [
+    "Sunset picnic at Kings Park",
+    "Rottnest Island day trip together",
+    "Private Swan Valley vineyard lunch"
+  ],
+  "budgetExperiences": [
+    "Free Kings Park skyline views",
+    "Cottesloe Beach sunset",
+    "Fremantle Markets browsing"
+  ],
+  "estimatedDailyBudgetUSD": [
+    70,
+    145,
+    280,
+    600
+  ],
+  "safetyRating": 4.5,
+  "internetRating": 4.5,
+  "publicTransportRating": 4,
+  "walkingScore": 65,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 31,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 25,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 21,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 18,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 17,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 18,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 23,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 26,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 29,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Perth Festival",
+      "timing": "February-March"
+    },
+    {
+      "name": "Fringe World Festival",
+      "timing": "January-February"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "000",
+    "ambulance": "000",
+    "fire": "000"
+  },
+  "localEtiquette": [
+    "Perth has a relaxed, outdoorsy culture — casual dress is the norm even in many restaurants.",
+    "Tipping is not customary, though appreciated for excellent service.",
+    "Sun safety is taken seriously — locals routinely apply sunscreen and wear hats."
+  ],
+  "localTransportGuide": "Perth's train and bus network (Transperth) covers the metro area well, and the free CAT bus loops cover the CBD and Fremantle at no cost. Rottnest Island is reached by ferry from Perth, Fremantle, or Hillarys and is entirely car-free once there — bikes are the main way to get around.",
+  "bestTimeToVisit": "September-November and March-April, for warm but not extreme temperatures and lower rainfall.",
+  "weather": "Mediterranean climate — hot, dry summers (highs around 31-32°C, December-February) and mild, wetter winters (highs around 18°C, June-August).",
+  "visaInformation": "All visitors to Australia need a visa or electronic travel authority arranged before departure — an eVisitor or ETA for most Western passport holders, or an e-visitor visa for Indian nationals, all applied for online in advance.",
+  "currency": "AUD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "AWST (UTC+8)",
+  "averageFlightTime": "~14.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Perth Airport (PER)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Perth?",
+      "answer": "All visitors to Australia need a visa or electronic travel authority arranged before departure — an eVisitor or ETA for most Western passport holders, or an e-visitor visa for Indian nationals, all applied for online in advance."
+    },
+    {
+      "question": "What is the best time to visit Perth?",
+      "answer": "September-November and March-April, for warm but not extreme temperatures and lower rainfall. Mediterranean climate — hot, dry summers (highs around 31-32°C, December-February) and mild, wetter winters (highs around 18°C, June-August)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Perth safe for tourists?",
+      "answer": "Perth is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Perth?",
+      "answer": "The local currency is AUD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "It also works well for families — highlights include Rottnest Island bike ride and quokka spotting."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Nature",
+    "Family",
+    "Road Trip",
+    "City Break",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Perth",
+    "Australia",
+    "Perth, Australia",
+    "Oceania",
+    "Perth tour package",
+    "Perth vacation package",
+    "Perth holiday package",
+    "things to do in Perth",
+    "best time to visit Perth",
+    "Perth itinerary",
+    "14 day Perth itinerary",
+    "Perth flights and hotels",
+    "Perth all inclusive package",
+    "cheap Perth package",
+    "luxury Perth package",
+    "Perth honeymoon package",
+    "Perth family vacation",
+    "Perth solo trip",
+    "Perth group tour",
+    "Perth weekend getaway",
+    "Perth guided tour",
+    "PER flights",
+    "Perth travel guide",
+    "book Perth trip online",
+    "Perth trip cost",
+    "Perth packages 14 days",
+    "Perth beach",
+    "Perth nature",
+    "Perth family",
+    "Perth road trip",
+    "Perth city break",
+    "Perth bucket list",
+    "Rottnest Island day trip",
+    "AQWA (Aquarium of Western Australia)",
+    "Pinnacles Desert tour",
+    "Fremantle Prison tour",
+    "Kings Park and Botanic Garden",
+    "Cottesloe Beach",
+    "Fremantle Markets area",
+    "Elizabeth Quay",
+    "Wildflower",
+    "Chow's Table",
+    "Cicerello's Fremantle",
+    "Rottnest Island quokka selfie",
+    "Cottesloe Beach sunset",
+    "Kings Park skyline view",
+    "Pinnacles Desert at sunrise",
+    "Wave Rock (further afield, near Hyden)",
+    "Yanchep National Park",
+    "Fremantle's Bathers Beach"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Perth, Australia — Rottnest Island quokka selfie",
+      "keywords": [
+        "Perth",
+        "Australia",
+        "Rottnest Island quokka selfie",
+        "Beach",
+        "Nature"
+      ],
+      "unsplashQuery": "Perth Rottnest Island quokka selfie",
+      "pexelsQuery": "Perth Rottnest Island quokka selfie",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Perth, Australia — Rottnest Island quokka selfie",
+      "keywords": [
+        "Perth",
+        "Australia",
+        "Rottnest Island quokka selfie",
+        "Beach",
+        "Nature"
+      ],
+      "unsplashQuery": "Perth Rottnest Island quokka selfie",
+      "pexelsQuery": "Perth Rottnest Island quokka selfie",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Perth, Australia — Cottesloe Beach sunset",
+      "keywords": [
+        "Perth",
+        "Australia",
+        "Cottesloe Beach sunset",
+        "Beach",
+        "Nature"
+      ],
+      "unsplashQuery": "Perth Cottesloe Beach sunset",
+      "pexelsQuery": "Perth Cottesloe Beach sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Perth, Australia — Kings Park skyline view",
+      "keywords": [
+        "Perth",
+        "Australia",
+        "Kings Park skyline view",
+        "Beach",
+        "Nature"
+      ],
+      "unsplashQuery": "Perth Kings Park skyline view",
+      "pexelsQuery": "Perth Kings Park skyline view",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Perth, Australia — Rottnest Island quokka selfie",
+      "keywords": [
+        "Perth",
+        "Australia",
+        "Rottnest Island quokka selfie",
+        "Beach",
+        "Nature"
+      ],
+      "unsplashQuery": "Perth Rottnest Island quokka selfie",
+      "pexelsQuery": "Perth Rottnest Island quokka selfie",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Perth, Australia — Cottesloe Beach sunset",
+      "keywords": [
+        "Perth",
+        "Australia",
+        "Cottesloe Beach sunset",
+        "Beach",
+        "Nature"
+      ],
+      "unsplashQuery": "Perth Cottesloe Beach sunset",
+      "pexelsQuery": "Perth Cottesloe Beach sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Perth, Australia — Kings Park skyline view",
+      "keywords": [
+        "Perth",
+        "Australia",
+        "Kings Park skyline view",
+        "Beach",
+        "Nature"
+      ],
+      "unsplashQuery": "Perth Kings Park skyline view",
+      "pexelsQuery": "Perth Kings Park skyline view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Perth, Australia — Pinnacles Desert sunrise",
+      "keywords": [
+        "Perth",
+        "Australia",
+        "Pinnacles Desert sunrise",
+        "Beach",
+        "Nature"
+      ],
+      "unsplashQuery": "Perth Pinnacles Desert sunrise",
+      "pexelsQuery": "Perth Pinnacles Desert sunrise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Perth, Australia — Rottnest Island day trip",
+      "keywords": [
+        "Perth",
+        "Australia",
+        "Rottnest Island day trip",
+        "Beach",
+        "Nature"
+      ],
+      "unsplashQuery": "Perth Rottnest Island day trip",
+      "pexelsQuery": "Perth Rottnest Island day trip",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Perth, Australia — AQWA (Aquarium of Western Australia)",
+      "keywords": [
+        "Perth",
+        "Australia",
+        "AQWA (Aquarium of Western Australia)",
+        "Beach",
+        "Nature"
+      ],
+      "unsplashQuery": "Perth AQWA (Aquarium of Western Australia)",
+      "pexelsQuery": "Perth AQWA (Aquarium of Western Australia)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Perth, Australia — Pinnacles Desert tour",
+      "keywords": [
+        "Perth",
+        "Australia",
+        "Pinnacles Desert tour",
+        "Beach",
+        "Nature"
+      ],
+      "unsplashQuery": "Perth Pinnacles Desert tour",
+      "pexelsQuery": "Perth Pinnacles Desert tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Perth, Australia — Fremantle Prison tour",
+      "keywords": [
+        "Perth",
+        "Australia",
+        "Fremantle Prison tour",
+        "Beach",
+        "Nature"
+      ],
+      "unsplashQuery": "Perth Fremantle Prison tour",
+      "pexelsQuery": "Perth Fremantle Prison tour",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-perth-14-1",
+      "author": "Sarah Khan",
+      "country": "Italy",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-17",
+      "title": "Luxury without the hassle",
+      "body": "Perth is stunning and this package covered the essentials well, especially Elizabeth Quay. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-2",
+      "author": "Tom Kim",
+      "country": "Brazil",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-01-15",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Kings Park and Botanic Garden and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-3",
+      "author": "Omar Wang",
+      "country": "Switzerland",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-04-09",
+      "title": "Great value for money",
+      "body": "We added a couple of optional activities beyond Fremantle Markets area and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-4",
+      "author": "Anna Patel",
+      "country": "South Africa",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-05-02",
+      "title": "A little rushed but still wonderful",
+      "body": "Perth is stunning and this package covered the essentials well, especially Kings Park and Botanic Garden. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-5",
+      "author": "Chen Dubois",
+      "country": "United States",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-31",
+      "title": "Adventure of a lifetime",
+      "body": "Booked this as a solo trip and it was well paced. Rottnest Island day trip in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-6",
+      "author": "Sarah Williams",
+      "country": "UAE",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-12",
+      "title": "A little rushed but still wonderful",
+      "body": "Perth is stunning and this package covered the essentials well, especially Pinnacles Desert tour. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-7",
+      "author": "Omar Novak",
+      "country": "France",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-02-17",
+      "title": "Consultant made it effortless",
+      "body": "We added a couple of optional activities beyond Pinnacles Desert tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-8",
+      "author": "Daniel Kowalski",
+      "country": "United Kingdom",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-09-04",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Rottnest Island day trip and Cottesloe Beach. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-9",
+      "author": "Nadia Silva",
+      "country": "New Zealand",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-16",
+      "title": "Great value for money",
+      "body": "Perth is stunning and this package covered the essentials well, especially Cottesloe Beach. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-10",
+      "author": "Isabella Cohen",
+      "country": "France",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2025-11-27",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Pinnacles Desert tour and Fremantle Prison tour. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-11",
+      "author": "Sarah Sharma",
+      "country": "Mexico",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-01-24",
+      "title": "Great value for money",
+      "body": "Perth is stunning and this package covered the essentials well, especially Elizabeth Quay. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-perth-14-12",
+      "author": "Arjun Rossi",
+      "country": "South Africa",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-11",
+      "title": "Worth every penny",
+      "body": "Booked this as a group trip and it was well paced. Cottesloe Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-13",
+      "author": "Arjun Sharma",
+      "country": "New Zealand",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-12-12",
+      "title": "Loved every moment",
+      "body": "Booked this as a solo trip and it was well paced. Cottesloe Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-14",
+      "author": "Elena Ibrahim",
+      "country": "Australia",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-12-04",
+      "title": "Loved every moment",
+      "body": "We added a couple of optional activities beyond AQWA (Aquarium of Western Australia) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-perth-14-15",
+      "author": "Olivia Patel",
+      "country": "Brazil",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-05-03",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Perth was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kings Park and Botanic Garden was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-perth-14-16",
+      "author": "Liam Kowalski",
+      "country": "Germany",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-03-24",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Perth was fantastic from start to finish. The hotel was clean and well located, and the guided visit to AQWA (Aquarium of Western Australia) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-17",
+      "author": "Daniel Khan",
+      "country": "United Kingdom",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4,
+      "date": "2025-08-31",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Rottnest Island day trip and Fremantle Prison tour. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-18",
+      "author": "Mia Dubois",
+      "country": "South Africa",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-17",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Cottesloe Beach and AQWA (Aquarium of Western Australia). Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-perth-14-19",
+      "author": "Ava Brown",
+      "country": "France",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-09-27",
+      "title": "Exceeded our expectations",
+      "body": "Pinnacles Desert tour alone was worth the trip, but combined with Pinnacles Desert tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-perth-14-20",
+      "author": "Nadia Larsen",
+      "country": "United Kingdom",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-06-30",
+      "title": "Unforgettable trip!",
+      "body": "Perth is stunning and this package covered the essentials well, especially Rottnest Island day trip. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.5,
+    "food": 4.4,
+    "hotel": 4.5,
+    "transportation": 4.5,
+    "activities": 4.5,
+    "value": 4.4,
+    "cleanliness": 4.5,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Perth Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 15,
+      "neighborhood": "Fremantle Markets"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Perth Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 28,
+      "neighborhood": "Murray Street Mall"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Perth Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 51,
+      "neighborhood": "King Street boutiques"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Perth Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 65,
+      "neighborhood": "Northbridge bar and club district"
+    },
+    {
+      "tier": "Resort",
+      "name": "Perth Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 140,
+      "neighborhood": "Elizabeth Quay bars"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Perth Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 252,
+      "neighborhood": "Fremantle's Cappuccino Strip"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Perth Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 300,
+      "neighborhood": "Print Hall Coffee"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1428,
+        2268
+      ],
+      "estimatedFlightHours": 26.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1388,
+        2205
+      ],
+      "estimatedFlightHours": 25.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        1123,
+        1783
+      ],
+      "estimatedFlightHours": 20.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1108,
+        1760
+      ],
+      "estimatedFlightHours": 20.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        1077,
+        1710
+      ],
+      "estimatedFlightHours": 19.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1040,
+        1652
+      ],
+      "estimatedFlightHours": 18.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        1132,
+        1798
+      ],
+      "estimatedFlightHours": 20.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        1098,
+        1744
+      ],
+      "estimatedFlightHours": 19.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1074,
+        1705
+      ],
+      "estimatedFlightHours": 19.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        315,
+        500
+      ],
+      "estimatedFlightHours": 5.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        462,
+        734
+      ],
+      "estimatedFlightHours": 8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        646,
+        1026
+      ],
+      "estimatedFlightHours": 11.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        649,
+        1030
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        641,
+        1018
+      ],
+      "estimatedFlightHours": 11.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        360,
+        571
+      ],
+      "estimatedFlightHours": 6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        462,
+        734
+      ],
+      "estimatedFlightHours": 8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        378,
+        601
+      ],
+      "estimatedFlightHours": 6.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        294,
+        467
+      ],
+      "estimatedFlightHours": 4.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        452,
+        718
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        428,
+        679
+      ],
+      "estimatedFlightHours": 7.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        729,
+        1158
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        775,
+        1231
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        751,
+        1192
+      ],
+      "estimatedFlightHours": 13.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        791,
+        1256
+      ],
+      "estimatedFlightHours": 14.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        677,
+        1076
+      ],
+      "estimatedFlightHours": 12,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1057,
+        1678
+      ],
+      "estimatedFlightHours": 19.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Perth Airport (PER)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1251,
+        1987
+      ],
+      "estimatedFlightHours": 22.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Rottnest Island day trip",
+    "AQWA (Aquarium of Western Australia)",
+    "Pinnacles Desert tour",
+    "Fremantle Prison tour",
+    "Kings Park and Botanic Garden",
+    "Cottesloe Beach",
+    "Fremantle Markets area",
+    "Elizabeth Quay",
+    "Rottnest Island",
+    "Fremantle",
+    "Swan Valley wine region",
+    "Pinnacles Desert",
+    "WA Museum Boola Bardip",
+    "Fremantle Prison",
+    "Art Gallery of Western Australia",
+    "Hyde Park",
+    "Scarborough Beach",
+    "Rottnest Island beaches",
+    "Rottnest Island quokka selfie",
+    "Cottesloe Beach sunset",
+    "Kings Park skyline view",
+    "Pinnacles Desert at sunrise"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Rottnest Island day trip",
+      "priceUSD": 60
+    },
+    {
+      "name": "AQWA (Aquarium of Western Australia)",
+      "priceUSD": 25
+    },
+    {
+      "name": "Pinnacles Desert tour",
+      "priceUSD": 90
+    },
+    {
+      "name": "Fremantle Prison tour",
+      "priceUSD": 15
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Kings Park and Botanic Garden",
+    "Cottesloe Beach",
+    "Fremantle Markets area",
+    "Elizabeth Quay"
+  ],
+  "museums": [
+    "WA Museum Boola Bardip",
+    "Fremantle Prison",
+    "Art Gallery of Western Australia"
+  ],
+  "parks": [
+    "Kings Park and Botanic Garden",
+    "Hyde Park"
+  ],
+  "beaches": [
+    "Cottesloe Beach",
+    "Scarborough Beach",
+    "Rottnest Island beaches"
+  ],
+  "dayTrips": [
+    "Rottnest Island",
+    "Fremantle",
+    "Swan Valley wine region",
+    "Pinnacles Desert"
+  ],
+  "fromPriceUSD": 3407,
+  "seo": {
+    "title": "Perth 14-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "perth-14-day-package",
+    "keywords": [
+      "Perth",
+      "Australia",
+      "Perth, Australia",
+      "Oceania",
+      "Perth tour package",
+      "Perth vacation package",
+      "Perth holiday package",
+      "things to do in Perth",
+      "best time to visit Perth",
+      "Perth itinerary",
+      "14 day Perth itinerary",
+      "Perth flights and hotels",
+      "Perth all inclusive package",
+      "cheap Perth package",
+      "luxury Perth package"
+    ],
+    "canonicalUrl": "/packages/perth-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Perth Package",
+        "url": "/packages/perth-10-day-package"
+      },
+      {
+        "title": "7-Day Perth Package",
+        "url": "/packages/perth-7-day-package"
+      },
+      {
+        "title": "San Diego 14-Day Beach Getaway",
+        "url": "/packages/san-diego-14-day-package"
+      },
+      {
+        "title": "Phuket 14-Day Beach Getaway",
+        "url": "/packages/phuket-14-day-package"
+      },
+      {
+        "title": "Costa Rica 14-Day Nature Retreat",
+        "url": "/packages/costa-rica-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Perth — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Perth"
+      },
+      {
+        "title": "Perth — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Perth"
+      }
+    ]
+  }
+}

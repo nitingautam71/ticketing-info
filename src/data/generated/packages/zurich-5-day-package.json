@@ -1,0 +1,1631 @@
+{
+  "id": "PKG-zurich-5D",
+  "slug": "zurich-5-day-package",
+  "destinationSlug": "zurich",
+  "destinationName": "Zurich",
+  "country": "Switzerland",
+  "region": "Zurich",
+  "durationDays": 5,
+  "durationNights": 4,
+  "title": "Zurich 5-Day City Break",
+  "metaTitle": "Zurich 5-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 5-day trip to Zurich, Switzerland: round-trip flights, hotel, breakfast, transfers, and guided tours including Kunsthaus Zürich and Swiss National Museum (Landesmuseum). Prices from $1522 per person (estimate).",
+  "highlights": [
+    "Kunsthaus Zürich",
+    "Swiss National Museum (Landesmuseum)",
+    "Old Town (Altstadt)",
+    "Private chocolate and watchmaking tour",
+    "Rhine Falls near Schaffhausen"
+  ],
+  "overview": "Spend 5 days discovering Zurich, Switzerland — Temperate climate with cold winters (highs around 3-4°C in January, occasional snow) and mild-to-warm summers (highs around 24°C in July). June to September for lake activities and Alpine day trips; December for Christmas markets and easy access to nearby ski resorts. This itinerary blends Kunsthaus Zürich, Swiss National Museum (Landesmuseum), Old Town (Altstadt) with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "4 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Kunsthaus Zürich, Swiss National Museum (Landesmuseum), Old Town (Altstadt)",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Zurich",
+      "description": "Land at Zurich Airport (ZRH) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Kunsthaus Zürich — Switzerland's largest art museum. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Kunsthaus Zürich"
+      ],
+      "overnight": "Zurich"
+    },
+    {
+      "day": 2,
+      "title": "Zurich: Swiss National Museum (Landesmuseum) & Uetliberg funicular & viewing tower",
+      "description": "Morning visit to Swiss National Museum (Landesmuseum) — Switzerland's cultural history in a castle-like building. In the afternoon, continue to Uetliberg funicular & viewing tower — \"Zurich's mountain\" with panoramic city and lake views. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Swiss National Museum (Landesmuseum)",
+        "Uetliberg funicular & viewing tower"
+      ],
+      "overnight": "Zurich"
+    },
+    {
+      "day": 3,
+      "title": "Zurich: Lindt Home of Chocolate & FIFA World Football Museum",
+      "description": "Morning visit to Lindt Home of Chocolate — Interactive chocolate museum with a giant chocolate fountain. In the afternoon, continue to FIFA World Football Museum — Interactive museum on the history of football. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Lindt Home of Chocolate",
+        "FIFA World Football Museum"
+      ],
+      "overnight": "Zurich"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Rhine Falls near Schaffhausen",
+      "description": "Full-day excursion to Rhine Falls near Schaffhausen, a popular side trip from Zurich. Return to Zurich in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Rhine Falls near Schaffhausen",
+        "Free evening"
+      ],
+      "overnight": "Zurich"
+    },
+    {
+      "day": 5,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Rhine Falls boat tour or some souvenir shopping — before your private transfer to ZRH for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Switzerland is largely cash-optional but small vendors may still prefer cash or Twint.",
+    "The Zürich Card includes free public transport and museum discounts.",
+    "Swimming the Limmat river with a \"Wickelfisch\" waterproof bag is a beloved local summer activity.",
+    "Sunday quiet hours mean many shops are closed and loud activities are discouraged.",
+    "Day trips to Lucerne or the Rhine Falls are easy and fast by train.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "A warm coat for cold, occasionally snowy winters",
+    "Comfortable shoes for cobblestone Old Town streets",
+    "A swimsuit for summer lake swimming",
+    "Layered clothing for changeable Alpine-influenced weather"
+  ],
+  "thingsToDo": [
+    "Kunsthaus Zürich",
+    "Swiss National Museum (Landesmuseum)",
+    "Uetliberg funicular & viewing tower",
+    "Lindt Home of Chocolate",
+    "FIFA World Football Museum",
+    "Rhine Falls boat tour",
+    "Zurich Zoo",
+    "Grossmünster tower climb",
+    "Fraumünster Church",
+    "Lake Zurich steamboat cruise",
+    "Museum Rietberg",
+    "Old Town (Altstadt)",
+    "Bahnhofstrasse",
+    "Lake Zurich promenade",
+    "Lindenhof",
+    "Grossmünster exterior",
+    "Zurich West (Kreis 5)",
+    "Chinese Garden",
+    "Üetliberg hiking trails",
+    "Hiking and tobogganing on the Uetliberg"
+  ],
+  "thingsToAvoid": [
+    "Assuming this is a budget destination — Zurich ranks among the most expensive cities worldwide.",
+    "Jaywalking, which locals notice and disapprove of.",
+    "Loud noise or yard work on Sundays, which is culturally frowned upon.",
+    "Missing the last train or tram home as service frequency drops late at night.",
+    "Exchanging currency at the airport for a worse rate than in the city."
+  ],
+  "topRestaurants": [
+    "Zeughauskeller — Traditional Swiss ($$)",
+    "Kronenhalle — Swiss Fine Dining ($$$$)",
+    "Hiltl — Vegetarian ($$)",
+    "Swiss Chuchi — Traditional Fondue & Raclette ($$$)",
+    "Restaurant Rigiblick — Modern Swiss with a view ($$$)",
+    "Markthalle im Viadukt — International Street Food ($$)",
+    "Sternen Grill — Swiss Sausage Stand ($)",
+    "Werk8 — Modern European ($$$)"
+  ],
+  "topCafes": [
+    "Confiserie Sprüngli",
+    "Café Odeon",
+    "Kafischnaps",
+    "Barista Café",
+    "Blüemli Café"
+  ],
+  "shoppingAreas": [
+    "Bahnhofstrasse",
+    "Freitag Flagship Store",
+    "Niederdorf boutiques",
+    "Im Viadukt arches (Zurich West)",
+    "Jelmoli department store"
+  ],
+  "nightlife": [
+    "Kaufleuten club",
+    "Zurich West bars",
+    "Frau Gerolds Garten",
+    "Longstreet Bar",
+    "Supermarket club"
+  ],
+  "instagramSpots": [
+    "Lindenhof viewpoint over the Old Town",
+    "Grossmünster twin towers from the river",
+    "Lake Zurich promenade with Alps backdrop",
+    "Fraumünster Chagall windows",
+    "Zurich West street art"
+  ],
+  "hiddenGems": [
+    "Frau Gerolds Garten container bar and garden",
+    "Museum Rietberg's sculpture park",
+    "Chinese Garden",
+    "Wipkingen riverside path",
+    "Rieterpark"
+  ],
+  "familyActivities": [
+    "Zurich Zoo's Masoala rainforest hall",
+    "Lindt Home of Chocolate",
+    "Swiss National Museum interactive exhibits",
+    "Lake Zurich swimming at Seebad Enge"
+  ],
+  "adventureActivities": [
+    "Hiking and tobogganing on the Uetliberg",
+    "Swimming in the Limmat river in summer",
+    "Day-trip skiing near the city (Flumserberg)",
+    "Sailing or paddleboarding on Lake Zurich"
+  ],
+  "luxuryExperiences": [
+    "Private chocolate and watchmaking tour",
+    "Dining at Kronenhalle surrounded by original Picassos and Chagalls",
+    "Suite stay at Baur au Lac on the lake",
+    "Private Alps helicopter day trip"
+  ],
+  "honeymoonExperiences": [
+    "Sunset Lake Zurich steamboat cruise",
+    "Romantic dinner at Restaurant Rigiblick overlooking the city",
+    "Private walk through the Old Town and Lindenhof at dusk",
+    "Couples spa at a lakeside luxury hotel"
+  ],
+  "budgetExperiences": [
+    "Free wander through the Old Town and Lindenhof",
+    "Lake Zurich promenade at no cost",
+    "Free museum entry on first Sundays at some venues",
+    "Sternen Grill sausage stand meal"
+  ],
+  "estimatedDailyBudgetUSD": [
+    100,
+    230,
+    400,
+    800
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 82,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 3,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 5,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 9,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 13,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 18,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 21,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 24,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 8,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 4,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Sechseläuten",
+      "timing": "April, spring festival with the ceremonial burning of the Böögg snowman"
+    },
+    {
+      "name": "Zurich Street Parade",
+      "timing": "August, one of the largest techno street parades in Europe"
+    },
+    {
+      "name": "Zurich Film Festival",
+      "timing": "September-October"
+    },
+    {
+      "name": "Zurich HB Christmas Market",
+      "timing": "Late November to December"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "117",
+    "ambulance": "144",
+    "fire": "118"
+  },
+  "localEtiquette": [
+    "Punctuality is paramount — arrive on time or a few minutes early for any appointment.",
+    "Sunday \"Ruhezeit\" (quiet hours) are widely observed; avoid loud activities and most shops are closed.",
+    "Use the formal \"Sie\" address until invited to switch to informal terms.",
+    "Jaywalking is frowned upon even on quiet streets.",
+    "Recycling is separated meticulously — follow labeled bins if staying in an apartment."
+  ],
+  "localTransportGuide": "Zurich's ZVV network of trams, buses, trains and lake boats is extremely punctual and covers the whole canton on a zone-based ticket; the Zürich Card bundles unlimited transport with museum discounts. The compact city centre is easily walkable, while trains make day trips to Lucerne or the Rhine Falls simple without a car.",
+  "bestTimeToVisit": "June to September for lake activities and Alpine day trips; December for Christmas markets and easy access to nearby ski resorts.",
+  "weather": "Temperate climate with cold winters (highs around 3-4°C in January, occasional snow) and mild-to-warm summers (highs around 24°C in July).",
+  "visaInformation": "Switzerland is outside the EU but inside the Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance.",
+  "currency": "CHF",
+  "languages": [
+    "German"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~9.9h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Zurich Airport (ZRH)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Zurich?",
+      "answer": "Switzerland is outside the EU but inside the Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Zurich?",
+      "answer": "June to September for lake activities and Alpine day trips; December for Christmas markets and easy access to nearby ski resorts. Temperate climate with cold winters (highs around 3-4°C in January, occasional snow) and mild-to-warm summers (highs around 24°C in July)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Zurich safe for tourists?",
+      "answer": "Zurich is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Zurich?",
+      "answer": "The local currency is CHF. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Luxury",
+    "Culture",
+    "Nature",
+    "Shopping"
+  ],
+  "aiTags": [
+    "Zurich",
+    "Switzerland",
+    "Zurich, Switzerland",
+    "Zurich tour package",
+    "Zurich vacation package",
+    "Zurich holiday package",
+    "things to do in Zurich",
+    "best time to visit Zurich",
+    "Zurich itinerary",
+    "5 day Zurich itinerary",
+    "Zurich flights and hotels",
+    "Zurich all inclusive package",
+    "cheap Zurich package",
+    "luxury Zurich package",
+    "Zurich honeymoon package",
+    "Zurich family vacation",
+    "Zurich solo trip",
+    "Zurich group tour",
+    "Zurich weekend getaway",
+    "Zurich guided tour",
+    "ZRH flights",
+    "Zurich travel guide",
+    "book Zurich trip online",
+    "Zurich trip cost",
+    "Zurich packages 5 days",
+    "Zurich city break",
+    "Zurich luxury",
+    "Zurich culture",
+    "Zurich nature",
+    "Zurich shopping",
+    "Kunsthaus Zürich",
+    "Swiss National Museum (Landesmuseum)",
+    "Uetliberg funicular & viewing tower",
+    "Lindt Home of Chocolate",
+    "FIFA World Football Museum",
+    "Rhine Falls boat tour",
+    "Zurich Zoo",
+    "Grossmünster tower climb",
+    "Fraumünster Church",
+    "Lake Zurich steamboat cruise",
+    "Museum Rietberg",
+    "Old Town (Altstadt)",
+    "Bahnhofstrasse",
+    "Lake Zurich promenade",
+    "Lindenhof",
+    "Grossmünster exterior",
+    "Zurich West (Kreis 5)",
+    "Chinese Garden",
+    "Üetliberg hiking trails",
+    "Zeughauskeller"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Zurich, Switzerland — Lake Zurich Alps skyline",
+      "keywords": [
+        "Zurich",
+        "Switzerland",
+        "Lake Zurich Alps skyline",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Zurich Lake Zurich Alps skyline",
+      "pexelsQuery": "Zurich Lake Zurich Alps skyline",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Zurich, Switzerland — Lake Zurich Alps skyline",
+      "keywords": [
+        "Zurich",
+        "Switzerland",
+        "Lake Zurich Alps skyline",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Zurich Lake Zurich Alps skyline",
+      "pexelsQuery": "Zurich Lake Zurich Alps skyline",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Zurich, Switzerland — Grossmünster twin towers",
+      "keywords": [
+        "Zurich",
+        "Switzerland",
+        "Grossmünster twin towers",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Zurich Grossmünster twin towers",
+      "pexelsQuery": "Zurich Grossmünster twin towers",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Zurich, Switzerland — Bahnhofstrasse shopping",
+      "keywords": [
+        "Zurich",
+        "Switzerland",
+        "Bahnhofstrasse shopping",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Zurich Bahnhofstrasse shopping",
+      "pexelsQuery": "Zurich Bahnhofstrasse shopping",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Zurich, Switzerland — Lake Zurich Alps skyline",
+      "keywords": [
+        "Zurich",
+        "Switzerland",
+        "Lake Zurich Alps skyline",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Zurich Lake Zurich Alps skyline",
+      "pexelsQuery": "Zurich Lake Zurich Alps skyline",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Zurich, Switzerland — Grossmünster twin towers",
+      "keywords": [
+        "Zurich",
+        "Switzerland",
+        "Grossmünster twin towers",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Zurich Grossmünster twin towers",
+      "pexelsQuery": "Zurich Grossmünster twin towers",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Zurich, Switzerland — Bahnhofstrasse shopping",
+      "keywords": [
+        "Zurich",
+        "Switzerland",
+        "Bahnhofstrasse shopping",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Zurich Bahnhofstrasse shopping",
+      "pexelsQuery": "Zurich Bahnhofstrasse shopping",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Zurich, Switzerland — Uetliberg viewpoint",
+      "keywords": [
+        "Zurich",
+        "Switzerland",
+        "Uetliberg viewpoint",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Zurich Uetliberg viewpoint",
+      "pexelsQuery": "Zurich Uetliberg viewpoint",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Zurich, Switzerland — Kunsthaus Zürich",
+      "keywords": [
+        "Zurich",
+        "Switzerland",
+        "Kunsthaus Zürich",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Zurich Kunsthaus Zürich",
+      "pexelsQuery": "Zurich Kunsthaus Zürich",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Zurich, Switzerland — Swiss National Museum (Landesmuseum)",
+      "keywords": [
+        "Zurich",
+        "Switzerland",
+        "Swiss National Museum (Landesmuseum)",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Zurich Swiss National Museum (Landesmuseum)",
+      "pexelsQuery": "Zurich Swiss National Museum (Landesmuseum)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Zurich, Switzerland — Uetliberg funicular & viewing tower",
+      "keywords": [
+        "Zurich",
+        "Switzerland",
+        "Uetliberg funicular & viewing tower",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Zurich Uetliberg funicular & viewing tower",
+      "pexelsQuery": "Zurich Uetliberg funicular & viewing tower",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Zurich, Switzerland — Lindt Home of Chocolate",
+      "keywords": [
+        "Zurich",
+        "Switzerland",
+        "Lindt Home of Chocolate",
+        "City Break",
+        "Luxury"
+      ],
+      "unsplashQuery": "Zurich Lindt Home of Chocolate",
+      "pexelsQuery": "Zurich Lindt Home of Chocolate",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-zurich-5-1",
+      "author": "Ethan Ivanov",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-21",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to FIFA World Football Museum and Lake Zurich steamboat cruise. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-2",
+      "author": "Grace Nguyen",
+      "country": "Netherlands",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-05",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Lindenhof and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-3",
+      "author": "Emma Garcia",
+      "country": "Netherlands",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-16",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Zurich was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Lake Zurich promenade was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-4",
+      "author": "James Rossi",
+      "country": "Italy",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3,
+      "date": "2026-03-08",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Zurich was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Chinese Garden was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-5",
+      "author": "Tom Müller",
+      "country": "Japan",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-15",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Museum Rietberg and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-6",
+      "author": "Ethan Larsen",
+      "country": "South Africa",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-06-23",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Old Town (Altstadt) and Fraumünster Church. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-zurich-5-7",
+      "author": "Anna Khan",
+      "country": "South Korea",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-09-30",
+      "title": "Consultant made it effortless",
+      "body": "Zurich is stunning and this package covered the essentials well, especially Fraumünster Church. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-8",
+      "author": "Emma Williams",
+      "country": "UAE",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-16",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Zurich was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Grossmünster tower climb was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-zurich-5-9",
+      "author": "Lukas Dubois",
+      "country": "Canada",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-01-23",
+      "title": "Worth every penny",
+      "body": "Zurich is stunning and this package covered the essentials well, especially Uetliberg funicular & viewing tower. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-10",
+      "author": "Grace Wang",
+      "country": "Switzerland",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-05-05",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Lindenhof and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-11",
+      "author": "James Brown",
+      "country": "United Kingdom",
+      "rating": 3.6,
+      "foodRating": 3,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-12",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Zurich was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Swiss National Museum (Landesmuseum) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-12",
+      "author": "Grace Khan",
+      "country": "Saudi Arabia",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-10-24",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Grossmünster exterior and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-13",
+      "author": "Noah Brown",
+      "country": "New Zealand",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-22",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Zurich was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Bahnhofstrasse was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-14",
+      "author": "Lucas van Dijk",
+      "country": "United States",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-26",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Kunsthaus Zürich and Zurich West (Kreis 5). Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-zurich-5-15",
+      "author": "Ava Khan",
+      "country": "Saudi Arabia",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-12-25",
+      "title": "Solid mid-range package",
+      "body": "Grossmünster exterior alone was worth the trip, but combined with Grossmünster tower climb this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-16",
+      "author": "Mohammed Müller",
+      "country": "South Africa",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-09-04",
+      "title": "Great for families with kids",
+      "body": "Bahnhofstrasse alone was worth the trip, but combined with Üetliberg hiking trails this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-17",
+      "author": "Hiroshi Larsen",
+      "country": "South Korea",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-21",
+      "title": "Solid mid-range package",
+      "body": "Lake Zurich steamboat cruise alone was worth the trip, but combined with Bahnhofstrasse this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-18",
+      "author": "Hiroshi Williams",
+      "country": "Italy",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-05-28",
+      "title": "Worth every penny",
+      "body": "Üetliberg hiking trails alone was worth the trip, but combined with Rhine Falls boat tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-19",
+      "author": "James Ivanov",
+      "country": "Mexico",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3,
+      "safetyRating": 3.5,
+      "date": "2026-03-19",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Zurich was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Zurich West (Kreis 5) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-zurich-5-20",
+      "author": "Nadia Botha",
+      "country": "Australia",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-03-11",
+      "title": "Smooth from start to finish",
+      "body": "Zurich is stunning and this package covered the essentials well, especially Lindt Home of Chocolate. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.3,
+    "hotel": 4.2,
+    "transportation": 4.2,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Zurich Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 22,
+      "neighborhood": "Bahnhofstrasse"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Zurich Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 40,
+      "neighborhood": "Freitag Flagship Store"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Zurich Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 81,
+      "neighborhood": "Niederdorf boutiques"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Zurich Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 104,
+      "neighborhood": "Im Viadukt arches (Zurich West)"
+    },
+    {
+      "tier": "Resort",
+      "name": "Zurich Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 200,
+      "neighborhood": "Jelmoli department store"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Zurich Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 336,
+      "neighborhood": "Kaufleuten club"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Zurich Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 400,
+      "neighborhood": "Zurich West bars"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        534,
+        848
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        545,
+        865
+      ],
+      "estimatedFlightHours": 9.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        133,
+        211
+      ],
+      "estimatedFlightHours": 1.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        111,
+        177
+      ],
+      "estimatedFlightHours": 1.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        99,
+        157
+      ],
+      "estimatedFlightHours": 1.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        126,
+        200
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        167,
+        265
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        121,
+        192
+      ],
+      "estimatedFlightHours": 1.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        94,
+        149
+      ],
+      "estimatedFlightHours": 0.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1273,
+        2022
+      ],
+      "estimatedFlightHours": 23.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1405,
+        2232
+      ],
+      "estimatedFlightHours": 25.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        521,
+        828
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        768,
+        1220
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        710,
+        1127
+      ],
+      "estimatedFlightHours": 12.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        820,
+        1303
+      ],
+      "estimatedFlightHours": 14.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        729,
+        1158
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        798,
+        1268
+      ],
+      "estimatedFlightHours": 14.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        881,
+        1400
+      ],
+      "estimatedFlightHours": 15.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        830,
+        1318
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        779,
+        1237
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        421,
+        668
+      ],
+      "estimatedFlightHours": 7.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        379,
+        602
+      ],
+      "estimatedFlightHours": 6.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        400,
+        636
+      ],
+      "estimatedFlightHours": 6.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        360,
+        571
+      ],
+      "estimatedFlightHours": 6.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        684,
+        1087
+      ],
+      "estimatedFlightHours": 12.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        772,
+        1226
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Zurich Airport (ZRH)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        776,
+        1233
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Kunsthaus Zürich",
+    "Swiss National Museum (Landesmuseum)",
+    "Uetliberg funicular & viewing tower",
+    "Lindt Home of Chocolate",
+    "FIFA World Football Museum",
+    "Rhine Falls boat tour",
+    "Zurich Zoo",
+    "Grossmünster tower climb",
+    "Fraumünster Church",
+    "Lake Zurich steamboat cruise",
+    "Museum Rietberg",
+    "Old Town (Altstadt)",
+    "Bahnhofstrasse",
+    "Lake Zurich promenade",
+    "Lindenhof",
+    "Grossmünster exterior",
+    "Zurich West (Kreis 5)",
+    "Chinese Garden",
+    "Üetliberg hiking trails",
+    "Rhine Falls near Schaffhausen",
+    "Lucerne and Lake Lucerne",
+    "Rapperswil, the \"Town of Roses\"",
+    "Interlaken and the Jungfrau region",
+    "Swiss National Museum",
+    "Rieterpark",
+    "Zürichhorn Park",
+    "Platzspitz Park",
+    "Seebad Enge (Lake Zurich lido)",
+    "Mythenquai lakeside baths",
+    "Lindenhof viewpoint over the Old Town",
+    "Grossmünster twin towers from the river",
+    "Lake Zurich promenade with Alps backdrop",
+    "Fraumünster Chagall windows",
+    "Zurich West street art"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Kunsthaus Zürich",
+      "priceUSD": 26
+    },
+    {
+      "name": "Swiss National Museum (Landesmuseum)",
+      "priceUSD": 13
+    },
+    {
+      "name": "Uetliberg funicular & viewing tower",
+      "priceUSD": 10
+    },
+    {
+      "name": "Lindt Home of Chocolate",
+      "priceUSD": 18
+    },
+    {
+      "name": "FIFA World Football Museum",
+      "priceUSD": 26
+    },
+    {
+      "name": "Rhine Falls boat tour",
+      "priceUSD": 12
+    },
+    {
+      "name": "Zurich Zoo",
+      "priceUSD": 32
+    },
+    {
+      "name": "Grossmünster tower climb",
+      "priceUSD": 6
+    },
+    {
+      "name": "Fraumünster Church",
+      "priceUSD": 6
+    },
+    {
+      "name": "Lake Zurich steamboat cruise",
+      "priceUSD": 30
+    },
+    {
+      "name": "Museum Rietberg",
+      "priceUSD": 18
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Old Town (Altstadt)",
+    "Bahnhofstrasse",
+    "Lake Zurich promenade",
+    "Lindenhof",
+    "Grossmünster exterior",
+    "Zurich West (Kreis 5)",
+    "Chinese Garden",
+    "Üetliberg hiking trails"
+  ],
+  "museums": [
+    "Kunsthaus Zürich",
+    "Swiss National Museum",
+    "FIFA World Football Museum",
+    "Museum Rietberg"
+  ],
+  "parks": [
+    "Chinese Garden",
+    "Rieterpark",
+    "Zürichhorn Park",
+    "Platzspitz Park"
+  ],
+  "beaches": [
+    "Seebad Enge (Lake Zurich lido)",
+    "Mythenquai lakeside baths"
+  ],
+  "dayTrips": [
+    "Rhine Falls near Schaffhausen",
+    "Lucerne and Lake Lucerne",
+    "Rapperswil, the \"Town of Roses\"",
+    "Interlaken and the Jungfrau region"
+  ],
+  "fromPriceUSD": 1522,
+  "seo": {
+    "title": "Zurich 5-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "zurich-5-day-package",
+    "keywords": [
+      "Zurich",
+      "Switzerland",
+      "Zurich, Switzerland",
+      "Zurich tour package",
+      "Zurich vacation package",
+      "Zurich holiday package",
+      "things to do in Zurich",
+      "best time to visit Zurich",
+      "Zurich itinerary",
+      "5 day Zurich itinerary",
+      "Zurich flights and hotels",
+      "Zurich all inclusive package",
+      "cheap Zurich package",
+      "luxury Zurich package",
+      "Zurich honeymoon package"
+    ],
+    "canonicalUrl": "/packages/zurich-5-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Zurich Package",
+        "url": "/packages/zurich-3-day-package"
+      },
+      {
+        "title": "7-Day Zurich Package",
+        "url": "/packages/zurich-7-day-package"
+      },
+      {
+        "title": "Milan 5-Day City Break",
+        "url": "/packages/milan-5-day-package"
+      },
+      {
+        "title": "London 5-Day City Break",
+        "url": "/packages/london-5-day-package"
+      },
+      {
+        "title": "Istanbul 5-Day City Break",
+        "url": "/packages/istanbul-5-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Zurich — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zurich"
+      },
+      {
+        "title": "Zurich — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Zurich"
+      }
+    ]
+  }
+}

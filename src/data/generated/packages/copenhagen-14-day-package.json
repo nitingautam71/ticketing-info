@@ -1,0 +1,1742 @@
+{
+  "id": "PKG-copenhagen-14D",
+  "slug": "copenhagen-14-day-package",
+  "destinationSlug": "copenhagen",
+  "destinationName": "Copenhagen",
+  "country": "Denmark",
+  "region": "Capital Region",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Copenhagen 14-Day City Break",
+  "metaTitle": "Copenhagen 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Copenhagen, Denmark: round-trip flights, hotel, breakfast, transfers, and guided tours including Tivoli Gardens and Rosenborg Castle. Prices from $2658 per person (estimate).",
+  "highlights": [
+    "Tivoli Gardens",
+    "Rosenborg Castle",
+    "Nyhavn waterfront",
+    "Louisiana Museum of Modern Art (Humlebæk)"
+  ],
+  "overview": "Spend 14 days discovering Copenhagen, Denmark — Temperate climate with cold winters (highs around 2-3°C in December-January, limited daylight) and mild summers (highs around 21°C in July). May to September for warm weather, long days and outdoor cafe culture, with June-August being the busiest and priciest. This itinerary blends Tivoli Gardens, Rosenborg Castle, Nyhavn waterfront with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Tivoli Gardens, Rosenborg Castle, Nyhavn waterfront",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Copenhagen",
+      "description": "Land at Copenhagen Airport (CPH) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Tivoli Gardens — Historic amusement park and pleasure gardens in the city centre. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Tivoli Gardens"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 2,
+      "title": "Copenhagen: Rosenborg Castle & Christiansborg Palace Tower & Royal Reception Rooms",
+      "description": "Morning visit to Rosenborg Castle — Renaissance castle housing the Danish Crown Jewels. In the afternoon, continue to Christiansborg Palace Tower & Royal Reception Rooms — Seat of parliament with royal state rooms. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Rosenborg Castle",
+        "Christiansborg Palace Tower & Royal Reception Rooms"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 3,
+      "title": "Copenhagen: Ny Carlsberg Glyptotek & Amalienborg Palace Museum",
+      "description": "Morning visit to Ny Carlsberg Glyptotek — Art museum of antiquities and French Impressionist works. In the afternoon, continue to Amalienborg Palace Museum — Royal residence museum with historic apartments. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Ny Carlsberg Glyptotek",
+        "Amalienborg Palace Museum"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Louisiana Museum of Modern Art (Humlebæk)",
+      "description": "Full-day excursion to Louisiana Museum of Modern Art (Humlebæk), a popular side trip from Copenhagen. Return to Copenhagen in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Louisiana Museum of Modern Art (Humlebæk)",
+        "Free evening"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Freetown Christiania street art — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Freetown Christiania street art"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 6,
+      "title": "Copenhagen: Nyhavn canal boat tour & The Blue Planet (National Aquarium Denmark)",
+      "description": "Morning visit to Nyhavn canal boat tour — Canal cruise past the colorful harbor houses and palaces. In the afternoon, continue to The Blue Planet (National Aquarium Denmark) — Scandinavia's largest aquarium. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Nyhavn canal boat tour",
+        "The Blue Planet (National Aquarium Denmark)"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Kronborg Castle (Helsingør/Elsinore)",
+      "description": "Full-day excursion to Kronborg Castle (Helsingør/Elsinore), a popular side trip from Copenhagen. Return to Copenhagen in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Kronborg Castle (Helsingør/Elsinore)",
+        "Free evening"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 8,
+      "title": "Copenhagen: Freetown Christiania guided tour & Round Tower (Rundetaarn)",
+      "description": "Morning visit to Freetown Christiania guided tour — Guided walk through the self-governing community. In the afternoon, continue to Round Tower (Rundetaarn) — 17th-century tower with a spiral ramp and observatory. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Freetown Christiania guided tour",
+        "Round Tower (Rundetaarn)"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Assistens Cemetery — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Assistens Cemetery"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Roskilde & the Viking Ship Museum",
+      "description": "Full-day excursion to Roskilde & the Viking Ship Museum, a popular side trip from Copenhagen. Return to Copenhagen in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Roskilde & the Viking Ship Museum",
+        "Free evening"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 11,
+      "title": "Copenhagen: Louisiana Museum of Modern Art & Nyhavn waterfront",
+      "description": "Morning visit to Louisiana Museum of Modern Art — Renowned modern art museum on the coast north of the city. In the afternoon, continue to Nyhavn waterfront — Colorful 17th-century harbor lined with boats and cafes. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Louisiana Museum of Modern Art",
+        "Nyhavn waterfront"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 12,
+      "title": "Copenhagen: The Little Mermaid statue & Freetown Christiania",
+      "description": "Morning visit to The Little Mermaid statue — Iconic bronze statue on the Langelinie waterfront. In the afternoon, continue to Freetown Christiania — Self-governing enclave with street art and alternative culture. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "The Little Mermaid statue",
+        "Freetown Christiania"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include GreenKayak self-paddle canal tours — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "GreenKayak self-paddle canal tours"
+      ],
+      "overnight": "Copenhagen"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Strøget or some souvenir shopping — before your private transfer to CPH for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "The Copenhagen Card bundles free public transport with entry to 80+ attractions.",
+    "Book Noma or other top restaurants months in advance.",
+    "Cycle like a local — stay off bike lanes as a pedestrian and signal turns clearly.",
+    "Many national museums have free permanent collections.",
+    "Harbor bathing spots like Islands Brygge are free and popular in summer.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "A warm, windproof coat for coastal chill even in summer",
+    "Waterproof layers for frequent rain",
+    "Comfortable shoes for cycling and cobblestones",
+    "A swimsuit for harbor baths in summer"
+  ],
+  "thingsToDo": [
+    "Tivoli Gardens",
+    "Rosenborg Castle",
+    "Christiansborg Palace Tower & Royal Reception Rooms",
+    "Ny Carlsberg Glyptotek",
+    "Amalienborg Palace Museum",
+    "Nyhavn canal boat tour",
+    "The Blue Planet (National Aquarium Denmark)",
+    "Freetown Christiania guided tour",
+    "Round Tower (Rundetaarn)",
+    "Louisiana Museum of Modern Art",
+    "Nyhavn waterfront",
+    "The Little Mermaid statue",
+    "Freetown Christiania",
+    "Strøget",
+    "King's Garden (Kongens Have)",
+    "Assistens Cemetery",
+    "Superkilen",
+    "Amager Beach Park",
+    "Cycling the city's extensive bike-lane network",
+    "Canal kayaking via GreenKayak"
+  ],
+  "thingsToAvoid": [
+    "Walking or standing in designated bike lanes — cyclists move fast and won't stop.",
+    "Assuming cash works everywhere — Denmark is almost entirely cashless.",
+    "Visiting Tivoli Gardens without checking its seasonal opening dates.",
+    "Overpaying for food directly on Nyhavn's main tourist strip.",
+    "Missing the last Metro or train home from nightlife areas."
+  ],
+  "topRestaurants": [
+    "Noma — New Nordic Fine Dining ($$$$)",
+    "Restaurant Kadeau — New Nordic ($$$$)",
+    "Aamanns 1921 — Modern Smørrebrød ($$$)",
+    "Torvehallerne food market — Danish Street Food ($$)",
+    "Café Norden — Danish Café ($$)",
+    "Restaurant Schønnemann — Traditional Smørrebrød ($$$)",
+    "Höst — New Nordic ($$$)",
+    "Gasoline Grill — Gourmet Burgers ($)"
+  ],
+  "topCafes": [
+    "The Coffee Collective",
+    "Democratic Coffee",
+    "Prolog Coffee Bar",
+    "Café Dyrehaven",
+    "Sonny"
+  ],
+  "shoppingAreas": [
+    "Strøget",
+    "Torvehallerne food market",
+    "Illums Bolighus design store",
+    "Magasin du Nord",
+    "Jægersborggade boutiques"
+  ],
+  "nightlife": [
+    "Culture Box",
+    "Ruby cocktail bar",
+    "Nyhavn bars",
+    "Curfew speakeasy",
+    "Vega concert hall"
+  ],
+  "instagramSpots": [
+    "Nyhavn colorful houses",
+    "Amalienborg Palace square",
+    "Superkilen park",
+    "Round Tower spiral ramp view",
+    "Rosenborg Castle gardens"
+  ],
+  "hiddenGems": [
+    "Freetown Christiania street art",
+    "Assistens Cemetery",
+    "GreenKayak self-paddle canal tours",
+    "Reffen street food market",
+    "Superkilen park"
+  ],
+  "familyActivities": [
+    "Tivoli Gardens rides",
+    "The Blue Planet aquarium",
+    "Copenhagen Zoo",
+    "Experimentarium science museum"
+  ],
+  "adventureActivities": [
+    "Cycling the city's extensive bike-lane network",
+    "Canal kayaking via GreenKayak",
+    "Harbor bath swimming at Islands Brygge",
+    "Cycling day trip to Dyrehaven deer park"
+  ],
+  "luxuryExperiences": [
+    "Dining at Noma or Geranium",
+    "Private yacht cruise through the canals",
+    "Suite stay at Hotel d'Angleterre",
+    "Private Royal Copenhagen porcelain tour"
+  ],
+  "honeymoonExperiences": [
+    "Sunset canal cruise through Nyhavn",
+    "Romantic dinner at a Michelin-starred New Nordic restaurant",
+    "Couples bike tour through Frederiksberg Gardens",
+    "Private harbor bath spa evening"
+  ],
+  "budgetExperiences": [
+    "Free wander through Nyhavn and Strøget",
+    "Assistens Cemetery picnic",
+    "Free entry to Superkilen park",
+    "Self-guided bike tour along the harbor"
+  ],
+  "estimatedDailyBudgetUSD": [
+    90,
+    200,
+    350,
+    700
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 85,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 3,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 3,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 6,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 11,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 16,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 21,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 21,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 17,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 13,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 8,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 4,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Copenhagen Jazz Festival",
+      "timing": "July"
+    },
+    {
+      "name": "Distortion street festival",
+      "timing": "Late May to early June"
+    },
+    {
+      "name": "Copenhagen Pride",
+      "timing": "August"
+    },
+    {
+      "name": "Tivoli Christmas Market",
+      "timing": "Mid-November to December"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112"
+  },
+  "localEtiquette": [
+    "Cycling is the primary mode of transport — never walk or stand in a bike lane.",
+    "\"Hygge\" (cozy contentment) and modesty are core Danish values; avoid boasting about wealth or status.",
+    "Tipping is not expected since service is included, though rounding up is fine for great service.",
+    "Punctuality for reservations and meetings is taken seriously.",
+    "Danes value quiet, personal space on public transport — loud conversation draws attention."
+  ],
+  "localTransportGuide": "Copenhagen is one of the world's most bike-friendly cities — renting a city bike is often the fastest way around, with dedicated cycle lanes everywhere. The Metro, S-train and bus network run on a shared zone-based ticket, and the driverless Metro runs 24 hours including to the airport.",
+  "bestTimeToVisit": "May to September for warm weather, long days and outdoor cafe culture, with June-August being the busiest and priciest.",
+  "weather": "Temperate climate with cold winters (highs around 2-3°C in December-January, limited daylight) and mild summers (highs around 21°C in July).",
+  "visaInformation": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance.",
+  "currency": "DKK",
+  "languages": [
+    "Danish"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~9.8h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Copenhagen Airport (CPH)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Copenhagen?",
+      "answer": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Copenhagen?",
+      "answer": "May to September for warm weather, long days and outdoor cafe culture, with June-August being the busiest and priciest. Temperate climate with cold winters (highs around 2-3°C in December-January, limited daylight) and mild summers (highs around 21°C in July)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Copenhagen safe for tourists?",
+      "answer": "Copenhagen is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Copenhagen?",
+      "answer": "The local currency is DKK. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Food",
+    "Culture",
+    "Romantic",
+    "Nature",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Copenhagen",
+    "Denmark",
+    "Copenhagen, Denmark",
+    "Capital Region",
+    "Copenhagen tour package",
+    "Copenhagen vacation package",
+    "Copenhagen holiday package",
+    "things to do in Copenhagen",
+    "best time to visit Copenhagen",
+    "Copenhagen itinerary",
+    "14 day Copenhagen itinerary",
+    "Copenhagen flights and hotels",
+    "Copenhagen all inclusive package",
+    "cheap Copenhagen package",
+    "luxury Copenhagen package",
+    "Copenhagen honeymoon package",
+    "Copenhagen family vacation",
+    "Copenhagen solo trip",
+    "Copenhagen group tour",
+    "Copenhagen weekend getaway",
+    "Copenhagen guided tour",
+    "CPH flights",
+    "Copenhagen travel guide",
+    "book Copenhagen trip online",
+    "Copenhagen trip cost",
+    "Copenhagen packages 14 days",
+    "Copenhagen city break",
+    "Copenhagen food",
+    "Copenhagen culture",
+    "Copenhagen romantic",
+    "Copenhagen nature",
+    "Copenhagen bucket list",
+    "Tivoli Gardens",
+    "Rosenborg Castle",
+    "Christiansborg Palace Tower & Royal Reception Rooms",
+    "Ny Carlsberg Glyptotek",
+    "Amalienborg Palace Museum",
+    "Nyhavn canal boat tour",
+    "The Blue Planet (National Aquarium Denmark)",
+    "Freetown Christiania guided tour",
+    "Round Tower (Rundetaarn)",
+    "Louisiana Museum of Modern Art",
+    "Nyhavn waterfront",
+    "The Little Mermaid statue",
+    "Freetown Christiania",
+    "Strøget",
+    "King's Garden (Kongens Have)",
+    "Assistens Cemetery",
+    "Superkilen",
+    "Amager Beach Park"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Copenhagen, Denmark — Nyhavn colorful harbor houses",
+      "keywords": [
+        "Copenhagen",
+        "Denmark",
+        "Nyhavn colorful harbor houses",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Copenhagen Nyhavn colorful harbor houses",
+      "pexelsQuery": "Copenhagen Nyhavn colorful harbor houses",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Copenhagen, Denmark — Nyhavn colorful harbor houses",
+      "keywords": [
+        "Copenhagen",
+        "Denmark",
+        "Nyhavn colorful harbor houses",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Copenhagen Nyhavn colorful harbor houses",
+      "pexelsQuery": "Copenhagen Nyhavn colorful harbor houses",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Copenhagen, Denmark — Tivoli Gardens illuminated",
+      "keywords": [
+        "Copenhagen",
+        "Denmark",
+        "Tivoli Gardens illuminated",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Copenhagen Tivoli Gardens illuminated",
+      "pexelsQuery": "Copenhagen Tivoli Gardens illuminated",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Copenhagen, Denmark — Little Mermaid statue",
+      "keywords": [
+        "Copenhagen",
+        "Denmark",
+        "Little Mermaid statue",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Copenhagen Little Mermaid statue",
+      "pexelsQuery": "Copenhagen Little Mermaid statue",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Copenhagen, Denmark — Nyhavn colorful harbor houses",
+      "keywords": [
+        "Copenhagen",
+        "Denmark",
+        "Nyhavn colorful harbor houses",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Copenhagen Nyhavn colorful harbor houses",
+      "pexelsQuery": "Copenhagen Nyhavn colorful harbor houses",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Copenhagen, Denmark — Tivoli Gardens illuminated",
+      "keywords": [
+        "Copenhagen",
+        "Denmark",
+        "Tivoli Gardens illuminated",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Copenhagen Tivoli Gardens illuminated",
+      "pexelsQuery": "Copenhagen Tivoli Gardens illuminated",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Copenhagen, Denmark — Little Mermaid statue",
+      "keywords": [
+        "Copenhagen",
+        "Denmark",
+        "Little Mermaid statue",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Copenhagen Little Mermaid statue",
+      "pexelsQuery": "Copenhagen Little Mermaid statue",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Copenhagen, Denmark — Copenhagen canal cyclists",
+      "keywords": [
+        "Copenhagen",
+        "Denmark",
+        "Copenhagen canal cyclists",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Copenhagen Copenhagen canal cyclists",
+      "pexelsQuery": "Copenhagen Copenhagen canal cyclists",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Copenhagen, Denmark — Tivoli Gardens",
+      "keywords": [
+        "Copenhagen",
+        "Denmark",
+        "Tivoli Gardens",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Copenhagen Tivoli Gardens",
+      "pexelsQuery": "Copenhagen Tivoli Gardens",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Copenhagen, Denmark — Rosenborg Castle",
+      "keywords": [
+        "Copenhagen",
+        "Denmark",
+        "Rosenborg Castle",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Copenhagen Rosenborg Castle",
+      "pexelsQuery": "Copenhagen Rosenborg Castle",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Copenhagen, Denmark — Christiansborg Palace Tower & Royal Reception Rooms",
+      "keywords": [
+        "Copenhagen",
+        "Denmark",
+        "Christiansborg Palace Tower & Royal Reception Rooms",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Copenhagen Christiansborg Palace Tower & Royal Reception Rooms",
+      "pexelsQuery": "Copenhagen Christiansborg Palace Tower & Royal Reception Rooms",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Copenhagen, Denmark — Ny Carlsberg Glyptotek",
+      "keywords": [
+        "Copenhagen",
+        "Denmark",
+        "Ny Carlsberg Glyptotek",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Copenhagen Ny Carlsberg Glyptotek",
+      "pexelsQuery": "Copenhagen Ny Carlsberg Glyptotek",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-copenhagen-14-1",
+      "author": "James van Dijk",
+      "country": "Saudi Arabia",
+      "rating": 3.6,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-02-09",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Copenhagen was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Assistens Cemetery was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-2",
+      "author": "Grace Smith",
+      "country": "Japan",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-04-25",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Louisiana Museum of Modern Art and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-3",
+      "author": "Priya Müller",
+      "country": "France",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-03-09",
+      "title": "Great value for money",
+      "body": "Booked this as a family of 4 trip and it was well paced. Amalienborg Palace Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-copenhagen-14-4",
+      "author": "Noah van Dijk",
+      "country": "New Zealand",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-06-15",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Copenhagen was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Freetown Christiania was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-5",
+      "author": "Liam Sharma",
+      "country": "Netherlands",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-08-26",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Copenhagen was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Freetown Christiania was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-6",
+      "author": "David Williams",
+      "country": "Saudi Arabia",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-03-31",
+      "title": "Adventure of a lifetime",
+      "body": "Copenhagen is stunning and this package covered the essentials well, especially King's Garden (Kongens Have). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-7",
+      "author": "Hiroshi Ibrahim",
+      "country": "Italy",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-03-13",
+      "title": "Would book again in a heartbeat",
+      "body": "Superkilen alone was worth the trip, but combined with Louisiana Museum of Modern Art this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-copenhagen-14-8",
+      "author": "Marco Wang",
+      "country": "Switzerland",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-30",
+      "title": "Best vacation we've had",
+      "body": "We added a couple of optional activities beyond King's Garden (Kongens Have) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-9",
+      "author": "Ethan Novak",
+      "country": "United Kingdom",
+      "rating": 4.4,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-10-25",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Rosenborg Castle and Tivoli Gardens. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-10",
+      "author": "Nadia Ibrahim",
+      "country": "Canada",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-07-31",
+      "title": "Great value for money",
+      "body": "Copenhagen is stunning and this package covered the essentials well, especially Rosenborg Castle. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-copenhagen-14-11",
+      "author": "Fatima van Dijk",
+      "country": "Netherlands",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-10-01",
+      "title": "Unforgettable trip!",
+      "body": "Strøget alone was worth the trip, but combined with King's Garden (Kongens Have) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-12",
+      "author": "Anna Novak",
+      "country": "Brazil",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-11-14",
+      "title": "Highly recommend this package",
+      "body": "Copenhagen is stunning and this package covered the essentials well, especially Nyhavn waterfront. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-13",
+      "author": "Emma Costa",
+      "country": "France",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-10-06",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Copenhagen was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Amalienborg Palace Museum was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-copenhagen-14-14",
+      "author": "Hiroshi Müller",
+      "country": "Australia",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-03-12",
+      "title": "Great for families with kids",
+      "body": "Ny Carlsberg Glyptotek alone was worth the trip, but combined with Louisiana Museum of Modern Art this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-15",
+      "author": "Elena Andersen",
+      "country": "New Zealand",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-03",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Freetown Christiania and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-16",
+      "author": "Liam Fernandez",
+      "country": "Brazil",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-01-05",
+      "title": "Great for families with kids",
+      "body": "Our trip to Copenhagen was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Louisiana Museum of Modern Art was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-17",
+      "author": "Noah Rossi",
+      "country": "United Kingdom",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-05-27",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Copenhagen was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Tivoli Gardens was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-18",
+      "author": "Omar Tanaka",
+      "country": "Germany",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-06-07",
+      "title": "A little rushed but still wonderful",
+      "body": "We added a couple of optional activities beyond Amalienborg Palace Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-copenhagen-14-19",
+      "author": "Tom Wang",
+      "country": "Italy",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-10-04",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Superkilen and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-copenhagen-14-20",
+      "author": "Isabella Novak",
+      "country": "Canada",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2026-04-02",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Rosenborg Castle and Assistens Cemetery. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.4,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Copenhagen Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 20,
+      "neighborhood": "Strøget"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Copenhagen Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 36,
+      "neighborhood": "Torvehallerne food market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Copenhagen Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 70,
+      "neighborhood": "Illums Bolighus design store"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Copenhagen Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 90,
+      "neighborhood": "Magasin du Nord"
+    },
+    {
+      "tier": "Resort",
+      "name": "Copenhagen Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 175,
+      "neighborhood": "Jægersborggade boutiques"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Copenhagen Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 294,
+      "neighborhood": "Culture Box"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Copenhagen Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 350,
+      "neighborhood": "Ruby cocktail bar"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        524,
+        832
+      ],
+      "estimatedFlightHours": 9.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        528,
+        838
+      ],
+      "estimatedFlightHours": 9.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        145,
+        231
+      ],
+      "estimatedFlightHours": 2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        150,
+        239
+      ],
+      "estimatedFlightHours": 2.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        125,
+        198
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        187,
+        297
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        226,
+        359
+      ],
+      "estimatedFlightHours": 3.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        122,
+        193
+      ],
+      "estimatedFlightHours": 1.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        146,
+        232
+      ],
+      "estimatedFlightHours": 2.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1235,
+        1962
+      ],
+      "estimatedFlightHours": 22.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1343,
+        2133
+      ],
+      "estimatedFlightHours": 24.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        499,
+        792
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        705,
+        1119
+      ],
+      "estimatedFlightHours": 12.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        650,
+        1033
+      ],
+      "estimatedFlightHours": 11.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        796,
+        1265
+      ],
+      "estimatedFlightHours": 14.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        700,
+        1111
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        774,
+        1230
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        860,
+        1366
+      ],
+      "estimatedFlightHours": 15.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        783,
+        1243
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        746,
+        1185
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        425,
+        675
+      ],
+      "estimatedFlightHours": 7.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        395,
+        628
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        410,
+        651
+      ],
+      "estimatedFlightHours": 7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        368,
+        585
+      ],
+      "estimatedFlightHours": 6.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        743,
+        1180
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        830,
+        1318
+      ],
+      "estimatedFlightHours": 14.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Copenhagen Airport (CPH)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        763,
+        1212
+      ],
+      "estimatedFlightHours": 13.6,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Tivoli Gardens",
+    "Rosenborg Castle",
+    "Christiansborg Palace Tower & Royal Reception Rooms",
+    "Ny Carlsberg Glyptotek",
+    "Amalienborg Palace Museum",
+    "Nyhavn canal boat tour",
+    "The Blue Planet (National Aquarium Denmark)",
+    "Freetown Christiania guided tour",
+    "Round Tower (Rundetaarn)",
+    "Louisiana Museum of Modern Art",
+    "Nyhavn waterfront",
+    "The Little Mermaid statue",
+    "Freetown Christiania",
+    "Strøget",
+    "King's Garden (Kongens Have)",
+    "Assistens Cemetery",
+    "Superkilen",
+    "Amager Beach Park",
+    "Louisiana Museum of Modern Art (Humlebæk)",
+    "Kronborg Castle (Helsingør/Elsinore)",
+    "Roskilde & the Viking Ship Museum",
+    "Malmö, Sweden via the Øresund Bridge",
+    "National Museum of Denmark",
+    "SMK (National Gallery of Denmark)",
+    "King's Garden",
+    "Frederiksberg Gardens",
+    "Bellevue Beach",
+    "Nyhavn colorful houses",
+    "Amalienborg Palace square",
+    "Superkilen park",
+    "Round Tower spiral ramp view",
+    "Rosenborg Castle gardens"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Tivoli Gardens",
+      "priceUSD": 22
+    },
+    {
+      "name": "Rosenborg Castle",
+      "priceUSD": 16
+    },
+    {
+      "name": "Christiansborg Palace Tower & Royal Reception Rooms",
+      "priceUSD": 12
+    },
+    {
+      "name": "Ny Carlsberg Glyptotek",
+      "priceUSD": 17
+    },
+    {
+      "name": "Amalienborg Palace Museum",
+      "priceUSD": 13
+    },
+    {
+      "name": "Nyhavn canal boat tour",
+      "priceUSD": 18
+    },
+    {
+      "name": "The Blue Planet (National Aquarium Denmark)",
+      "priceUSD": 25
+    },
+    {
+      "name": "Freetown Christiania guided tour",
+      "priceUSD": 15
+    },
+    {
+      "name": "Round Tower (Rundetaarn)",
+      "priceUSD": 8
+    },
+    {
+      "name": "Louisiana Museum of Modern Art",
+      "priceUSD": 24
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Nyhavn waterfront",
+    "The Little Mermaid statue",
+    "Freetown Christiania",
+    "Strøget",
+    "King's Garden (Kongens Have)",
+    "Assistens Cemetery",
+    "Superkilen",
+    "Amager Beach Park"
+  ],
+  "museums": [
+    "Ny Carlsberg Glyptotek",
+    "National Museum of Denmark",
+    "SMK (National Gallery of Denmark)",
+    "Louisiana Museum of Modern Art"
+  ],
+  "parks": [
+    "King's Garden",
+    "Frederiksberg Gardens",
+    "Superkilen",
+    "Assistens Cemetery"
+  ],
+  "beaches": [
+    "Amager Beach Park",
+    "Bellevue Beach"
+  ],
+  "dayTrips": [
+    "Louisiana Museum of Modern Art (Humlebæk)",
+    "Kronborg Castle (Helsingør/Elsinore)",
+    "Roskilde & the Viking Ship Museum",
+    "Malmö, Sweden via the Øresund Bridge"
+  ],
+  "fromPriceUSD": 2658,
+  "seo": {
+    "title": "Copenhagen 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "copenhagen-14-day-package",
+    "keywords": [
+      "Copenhagen",
+      "Denmark",
+      "Copenhagen, Denmark",
+      "Capital Region",
+      "Copenhagen tour package",
+      "Copenhagen vacation package",
+      "Copenhagen holiday package",
+      "things to do in Copenhagen",
+      "best time to visit Copenhagen",
+      "Copenhagen itinerary",
+      "14 day Copenhagen itinerary",
+      "Copenhagen flights and hotels",
+      "Copenhagen all inclusive package",
+      "cheap Copenhagen package",
+      "luxury Copenhagen package"
+    ],
+    "canonicalUrl": "/packages/copenhagen-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Copenhagen Package",
+        "url": "/packages/copenhagen-10-day-package"
+      },
+      {
+        "title": "7-Day Copenhagen Package",
+        "url": "/packages/copenhagen-7-day-package"
+      },
+      {
+        "title": "Paris 14-Day City Break",
+        "url": "/packages/paris-14-day-package"
+      },
+      {
+        "title": "Rome 14-Day City Break",
+        "url": "/packages/rome-14-day-package"
+      },
+      {
+        "title": "Barcelona 14-Day City Break",
+        "url": "/packages/barcelona-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Copenhagen — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Copenhagen"
+      },
+      {
+        "title": "Copenhagen — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Copenhagen"
+      }
+    ]
+  }
+}

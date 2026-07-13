@@ -1,0 +1,1534 @@
+{
+  "id": "PKG-cartagena-3D",
+  "slug": "cartagena-3-day-package",
+  "destinationSlug": "cartagena",
+  "destinationName": "Cartagena",
+  "country": "Colombia",
+  "region": "South America",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Cartagena 3-Day Beach Getaway",
+  "metaTitle": "Cartagena 3-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Cartagena, Colombia: round-trip flights, hotel, breakfast, transfers, and guided tours including Castillo San Felipe de Barajas and Palacio de la Inquisición. Prices from $627 per person (estimate).",
+  "highlights": [
+    "Castillo San Felipe de Barajas",
+    "Palacio de la Inquisición",
+    "Ciudad Amurallada (Walled City)",
+    "Sunset cocktails atop the city wall at Café del Mar",
+    "Islas del Rosario"
+  ],
+  "overview": "Spend 3 days discovering Cartagena, Colombia — Hot and humid Caribbean coastal climate year-round, highs around 31-33°C, with a rainier season roughly May to November. December to April — the dry season, with lower humidity and less rain than the rest of the year. This itinerary blends Castillo San Felipe de Barajas, Palacio de la Inquisición, Ciudad Amurallada (Walled City) with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Castillo San Felipe de Barajas, Palacio de la Inquisición, Ciudad Amurallada (Walled City)",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Cartagena",
+      "description": "Land at Rafael Núñez International Airport (CTG) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Castillo San Felipe de Barajas — Massive 17th-century Spanish fortress overlooking the city. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Castillo San Felipe de Barajas"
+      ],
+      "overnight": "Cartagena"
+    },
+    {
+      "day": 2,
+      "title": "Cartagena: Palacio de la Inquisición & Islas del Rosario boat tour",
+      "description": "Morning visit to Palacio de la Inquisición — Museum on the colonial-era Spanish Inquisition. In the afternoon, continue to Islas del Rosario boat tour — Day trip to a coral-reef archipelago. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Palacio de la Inquisición",
+        "Islas del Rosario boat tour"
+      ],
+      "overnight": "Cartagena"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Museo del Oro Zenú or some souvenir shopping — before your private transfer to CTG for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Walk the city walls near sunset for the best light and cooler temperatures.",
+    "Book Islas del Rosario boat tours through a reputable operator rather than a beach tout.",
+    "Negotiate politely with street vendors in the Walled City — bartering is expected.",
+    "Stay hydrated; the heat and humidity are intense even in the \"cooler\" dry season.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Lightweight, breathable clothing for the heat and humidity",
+    "Strong sun protection — hat, sunscreen, sunglasses",
+    "Comfortable sandals for cobblestones and beach transitions"
+  ],
+  "thingsToDo": [
+    "Castillo San Felipe de Barajas",
+    "Palacio de la Inquisición",
+    "Islas del Rosario boat tour",
+    "Museo del Oro Zenú",
+    "Convento de la Popa",
+    "Ciudad Amurallada (Walled City)",
+    "Plaza Santo Domingo",
+    "Las Bóvedas",
+    "Getsemaní street art",
+    "City wall sunset walk",
+    "Snorkeling at Islas del Rosario",
+    "Kitesurfing near La Boquilla",
+    "Mud volcano visit at El Totumo",
+    "Islas del Rosario boat day trip",
+    "Oceanario aquarium at Islas del Rosario",
+    "Horse-and-carriage ride through the Walled City"
+  ],
+  "thingsToAvoid": [
+    "Wandering outside the Walled City/Getsemaní/Bocagrande tourist areas alone at night.",
+    "Booking boat tours from unlicensed operators on the street — verify life jackets and permits.",
+    "Underestimating the midday heat — plan strenuous sightseeing for morning or late afternoon."
+  ],
+  "topRestaurants": [
+    "La Cevichería — Seafood ceviche ($$)",
+    "Carmen — Modern Colombian ($$$$)",
+    "Restaurante Don Juan — Caribbean-Colombian ($$$)",
+    "La Mulata — Colombian home cooking ($$)",
+    "Alma — Colombian fine dining ($$$$)"
+  ],
+  "topCafes": [
+    "Café del Mar (city wall)",
+    "Época Espresso Bar",
+    "Ábaco Libros y Café"
+  ],
+  "shoppingAreas": [
+    "Las Bóvedas handicraft shops",
+    "Getsemaní markets",
+    "Centro shopping streets"
+  ],
+  "nightlife": [
+    "Café del Mar sunset drinks on the wall",
+    "Getsemaní bars and salsa clubs",
+    "Plaza de la Trinidad street parties"
+  ],
+  "instagramSpots": [
+    "Colorful balconies of the Walled City",
+    "Getsemaní murals",
+    "Castillo San Felipe at sunset",
+    "Plaza Santo Domingo"
+  ],
+  "hiddenGems": [
+    "Barrio Manga's Republican-era mansions",
+    "Mercado de Bazurto local market",
+    "Playa Blanca on Isla Barú"
+  ],
+  "familyActivities": [
+    "Islas del Rosario boat day trip",
+    "Oceanario aquarium at Islas del Rosario",
+    "Horse-and-carriage ride through the Walled City"
+  ],
+  "adventureActivities": [
+    "Snorkeling at Islas del Rosario",
+    "Kitesurfing near La Boquilla",
+    "Mud volcano visit at El Totumo"
+  ],
+  "luxuryExperiences": [
+    "Private sunset sail along the city walls",
+    "Suite in a converted colonial mansion hotel",
+    "Private catamaran day trip to Islas del Rosario"
+  ],
+  "honeymoonExperiences": [
+    "Sunset cocktails atop the city wall at Café del Mar",
+    "Private beach day at Islas del Rosario",
+    "Candlelit rooftop dinner in the Walled City"
+  ],
+  "budgetExperiences": [
+    "Free wander through the Walled City and Getsemaní",
+    "Free sunset walk along the ramparts",
+    "Local lunch (menú del día) near Mercado de Bazurto"
+  ],
+  "estimatedDailyBudgetUSD": [
+    40,
+    80,
+    170,
+    400
+  ],
+  "safetyRating": 3.5,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 70,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 31,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jul",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Aug",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Nov",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 31,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Cartagena Independence Day celebrations",
+      "timing": "November 11"
+    },
+    {
+      "name": "Cartagena International Film Festival",
+      "timing": "March"
+    },
+    {
+      "name": "Hay Festival Cartagena",
+      "timing": "January-February"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "123",
+    "ambulance": "123",
+    "fire": "119"
+  },
+  "localEtiquette": [
+    "The walled city is touristy — friendly but firm negotiation is expected with street vendors.",
+    "Modest, light clothing is fine for the heat; swimwear belongs on the beach, not the historic streets.",
+    "Greet with a handshake or, among friends, a single cheek kiss."
+  ],
+  "localTransportGuide": "The Walled City and Getsemaní are entirely walkable. For trips further out (Bocagrande, the airport, day-trip departure docks), taxis and rideshare apps are inexpensive and the easiest option — agree on a fare or use the app's estimate before riding.",
+  "bestTimeToVisit": "December to April — the dry season, with lower humidity and less rain than the rest of the year.",
+  "weather": "Hot and humid Caribbean coastal climate year-round, highs around 31-33°C, with a rainier season roughly May to November.",
+  "visaInformation": "Visa-free entry for stays up to 90 days for US, UK, EU, Canadian, and Australian passport holders. Indian nationals need a Colombian e-visa arranged in advance.",
+  "currency": "COP",
+  "languages": [
+    "Spanish"
+  ],
+  "timeZone": "COT (UTC-5)",
+  "averageFlightTime": "~16.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Rafael Núñez International Airport (CTG)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Cartagena?",
+      "answer": "Visa-free entry for stays up to 90 days for US, UK, EU, Canadian, and Australian passport holders. Indian nationals need a Colombian e-visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Cartagena?",
+      "answer": "December to April — the dry season, with lower humidity and less rain than the rest of the year. Hot and humid Caribbean coastal climate year-round, highs around 31-33°C, with a rainier season roughly May to November."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Cartagena safe for tourists?",
+      "answer": "Cartagena is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Cartagena?",
+      "answer": "The local currency is COP. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Cartagena is one of our most-booked honeymoon destinations, especially the Sunset cocktails atop the city wall at Café del Mar experience."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "City Break",
+    "History",
+    "Culture",
+    "Romantic",
+    "Honeymoon",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Cartagena",
+    "Colombia",
+    "Cartagena, Colombia",
+    "South America",
+    "Cartagena tour package",
+    "Cartagena vacation package",
+    "Cartagena holiday package",
+    "things to do in Cartagena",
+    "best time to visit Cartagena",
+    "Cartagena itinerary",
+    "3 day Cartagena itinerary",
+    "Cartagena flights and hotels",
+    "Cartagena all inclusive package",
+    "cheap Cartagena package",
+    "luxury Cartagena package",
+    "Cartagena honeymoon package",
+    "Cartagena family vacation",
+    "Cartagena solo trip",
+    "Cartagena group tour",
+    "Cartagena weekend getaway",
+    "Cartagena guided tour",
+    "CTG flights",
+    "Cartagena travel guide",
+    "book Cartagena trip online",
+    "Cartagena trip cost",
+    "Cartagena packages 3 days",
+    "Cartagena beach",
+    "Cartagena city break",
+    "Cartagena history",
+    "Cartagena culture",
+    "Cartagena romantic",
+    "Cartagena honeymoon",
+    "Castillo San Felipe de Barajas",
+    "Palacio de la Inquisición",
+    "Islas del Rosario boat tour",
+    "Museo del Oro Zenú",
+    "Convento de la Popa",
+    "Ciudad Amurallada (Walled City)",
+    "Plaza Santo Domingo",
+    "Las Bóvedas",
+    "Getsemaní street art",
+    "City wall sunset walk",
+    "La Cevichería",
+    "Carmen",
+    "Restaurante Don Juan",
+    "La Mulata",
+    "Alma",
+    "Colorful balconies of the Walled City",
+    "Getsemaní murals",
+    "Castillo San Felipe at sunset"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Cartagena, Colombia — Cartagena Walled City colorful balconies",
+      "keywords": [
+        "Cartagena",
+        "Colombia",
+        "Cartagena Walled City colorful balconies",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Cartagena Cartagena Walled City colorful balconies",
+      "pexelsQuery": "Cartagena Cartagena Walled City colorful balconies",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Cartagena, Colombia — Cartagena Walled City colorful balconies",
+      "keywords": [
+        "Cartagena",
+        "Colombia",
+        "Cartagena Walled City colorful balconies",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Cartagena Cartagena Walled City colorful balconies",
+      "pexelsQuery": "Cartagena Cartagena Walled City colorful balconies",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Cartagena, Colombia — Getsemaní street art",
+      "keywords": [
+        "Cartagena",
+        "Colombia",
+        "Getsemaní street art",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Cartagena Getsemaní street art",
+      "pexelsQuery": "Cartagena Getsemaní street art",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Cartagena, Colombia — Castillo San Felipe sunset",
+      "keywords": [
+        "Cartagena",
+        "Colombia",
+        "Castillo San Felipe sunset",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Cartagena Castillo San Felipe sunset",
+      "pexelsQuery": "Cartagena Castillo San Felipe sunset",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Cartagena, Colombia — Cartagena Walled City colorful balconies",
+      "keywords": [
+        "Cartagena",
+        "Colombia",
+        "Cartagena Walled City colorful balconies",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Cartagena Cartagena Walled City colorful balconies",
+      "pexelsQuery": "Cartagena Cartagena Walled City colorful balconies",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cartagena, Colombia — Getsemaní street art",
+      "keywords": [
+        "Cartagena",
+        "Colombia",
+        "Getsemaní street art",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Cartagena Getsemaní street art",
+      "pexelsQuery": "Cartagena Getsemaní street art",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cartagena, Colombia — Castillo San Felipe sunset",
+      "keywords": [
+        "Cartagena",
+        "Colombia",
+        "Castillo San Felipe sunset",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Cartagena Castillo San Felipe sunset",
+      "pexelsQuery": "Cartagena Castillo San Felipe sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cartagena, Colombia — Islas del Rosario turquoise water",
+      "keywords": [
+        "Cartagena",
+        "Colombia",
+        "Islas del Rosario turquoise water",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Cartagena Islas del Rosario turquoise water",
+      "pexelsQuery": "Cartagena Islas del Rosario turquoise water",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cartagena, Colombia — Castillo San Felipe de Barajas",
+      "keywords": [
+        "Cartagena",
+        "Colombia",
+        "Castillo San Felipe de Barajas",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Cartagena Castillo San Felipe de Barajas",
+      "pexelsQuery": "Cartagena Castillo San Felipe de Barajas",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cartagena, Colombia — Palacio de la Inquisición",
+      "keywords": [
+        "Cartagena",
+        "Colombia",
+        "Palacio de la Inquisición",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Cartagena Palacio de la Inquisición",
+      "pexelsQuery": "Cartagena Palacio de la Inquisición",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cartagena, Colombia — Islas del Rosario boat tour",
+      "keywords": [
+        "Cartagena",
+        "Colombia",
+        "Islas del Rosario boat tour",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Cartagena Islas del Rosario boat tour",
+      "pexelsQuery": "Cartagena Islas del Rosario boat tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Cartagena, Colombia — Museo del Oro Zenú",
+      "keywords": [
+        "Cartagena",
+        "Colombia",
+        "Museo del Oro Zenú",
+        "Beach",
+        "City Break"
+      ],
+      "unsplashQuery": "Cartagena Museo del Oro Zenú",
+      "pexelsQuery": "Cartagena Museo del Oro Zenú",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-cartagena-3-1",
+      "author": "Isabella Wang",
+      "country": "United States",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-02",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Castillo San Felipe de Barajas and Las Bóvedas. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-2",
+      "author": "Fatima Andersen",
+      "country": "Japan",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-01-14",
+      "title": "Great value for money",
+      "body": "Ciudad Amurallada (Walled City) alone was worth the trip, but combined with Plaza Santo Domingo this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-3",
+      "author": "Nadia Cohen",
+      "country": "Japan",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-02-23",
+      "title": "Worth every penny",
+      "body": "Cartagena is stunning and this package covered the essentials well, especially Ciudad Amurallada (Walled City). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-cartagena-3-4",
+      "author": "Liam Johnson",
+      "country": "Netherlands",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-05-23",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Cartagena was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Las Bóvedas was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-5",
+      "author": "Mia Rossi",
+      "country": "United States",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-25",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Castillo San Felipe de Barajas and City wall sunset walk. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-6",
+      "author": "Daniel Botha",
+      "country": "Germany",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-12-03",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Islas del Rosario boat tour and City wall sunset walk. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-7",
+      "author": "Sarah Larsen",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-14",
+      "title": "Consultant made it effortless",
+      "body": "Cartagena is stunning and this package covered the essentials well, especially Las Bóvedas. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-8",
+      "author": "Grace Rossi",
+      "country": "UAE",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-03-05",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Museo del Oro Zenú and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-9",
+      "author": "James Botha",
+      "country": "New Zealand",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-01-11",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Cartagena was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Plaza Santo Domingo was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-10",
+      "author": "Yuki Tanaka",
+      "country": "India",
+      "rating": 4,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-11",
+      "title": "Consultant made it effortless",
+      "body": "Museo del Oro Zenú alone was worth the trip, but combined with Getsemaní street art this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-cartagena-3-11",
+      "author": "Emma Costa",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-02-26",
+      "title": "Highly recommend this package",
+      "body": "Our trip to Cartagena was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Ciudad Amurallada (Walled City) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-12",
+      "author": "Tom Tanaka",
+      "country": "United Kingdom",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-24",
+      "title": "Would book again in a heartbeat",
+      "body": "We added a couple of optional activities beyond Castillo San Felipe de Barajas and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-13",
+      "author": "Grace Cohen",
+      "country": "Saudi Arabia",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-03-19",
+      "title": "Five stars, will return",
+      "body": "We added a couple of optional activities beyond Getsemaní street art and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-14",
+      "author": "Noah Garcia",
+      "country": "Canada",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-01-02",
+      "title": "Adventure of a lifetime",
+      "body": "Our trip to Cartagena was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Palacio de la Inquisición was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-15",
+      "author": "Noah Costa",
+      "country": "Saudi Arabia",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-08-06",
+      "title": "Five stars, will return",
+      "body": "Our trip to Cartagena was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Getsemaní street art was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-16",
+      "author": "Fatima Cohen",
+      "country": "Germany",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-27",
+      "title": "Perfect for our honeymoon",
+      "body": "Islas del Rosario boat tour alone was worth the trip, but combined with Convento de la Popa this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-17",
+      "author": "Grace Khan",
+      "country": "Australia",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-05-28",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Palacio de la Inquisición and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-18",
+      "author": "Grace Ibrahim",
+      "country": "South Africa",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-06-05",
+      "title": "So many hidden gems included",
+      "body": "We added a couple of optional activities beyond Plaza Santo Domingo and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-19",
+      "author": "Olivia Andersen",
+      "country": "Spain",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-25",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Cartagena was fantastic from start to finish. The hotel was clean and well located, and the guided visit to City wall sunset walk was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-cartagena-3-20",
+      "author": "Ava Andersen",
+      "country": "Spain",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-28",
+      "title": "Worth every penny",
+      "body": "City wall sunset walk alone was worth the trip, but combined with Islas del Rosario boat tour this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.2,
+    "hotel": 4.3,
+    "transportation": 4.3,
+    "activities": 4.2,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Cartagena Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 9,
+      "neighborhood": "Las Bóvedas handicraft shops"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Cartagena Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 16,
+      "neighborhood": "Getsemaní markets"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Cartagena Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 28,
+      "neighborhood": "Centro shopping streets"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Cartagena Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 36,
+      "neighborhood": "Café del Mar sunset drinks on the wall"
+    },
+    {
+      "tier": "Resort",
+      "name": "Cartagena Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 85,
+      "neighborhood": "Getsemaní bars and salsa clubs"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Cartagena Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 168,
+      "neighborhood": "Plaza de la Trinidad street parties"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Cartagena Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 200,
+      "neighborhood": "Café del Mar (city wall)"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        320,
+        509
+      ],
+      "estimatedFlightHours": 5.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        345,
+        548
+      ],
+      "estimatedFlightHours": 5.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        661,
+        1050
+      ],
+      "estimatedFlightHours": 11.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        672,
+        1068
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        706,
+        1121
+      ],
+      "estimatedFlightHours": 12.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        732,
+        1162
+      ],
+      "estimatedFlightHours": 13,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        634,
+        1007
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        687,
+        1091
+      ],
+      "estimatedFlightHours": 12.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        706,
+        1121
+      ],
+      "estimatedFlightHours": 12.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1132,
+        1798
+      ],
+      "estimatedFlightHours": 20.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        976,
+        1550
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1144,
+        1817
+      ],
+      "estimatedFlightHours": 20.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        1067,
+        1694
+      ],
+      "estimatedFlightHours": 19.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1102,
+        1750
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1428,
+        2268
+      ],
+      "estimatedFlightHours": 26.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1326,
+        2106
+      ],
+      "estimatedFlightHours": 24.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1412,
+        2242
+      ],
+      "estimatedFlightHours": 25.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1484,
+        2357
+      ],
+      "estimatedFlightHours": 27.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1283,
+        2037
+      ],
+      "estimatedFlightHours": 23.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1352,
+        2147
+      ],
+      "estimatedFlightHours": 24.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1043,
+        1656
+      ],
+      "estimatedFlightHours": 18.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        989,
+        1571
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1018,
+        1617
+      ],
+      "estimatedFlightHours": 18.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        981,
+        1558
+      ],
+      "estimatedFlightHours": 17.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        933,
+        1482
+      ],
+      "estimatedFlightHours": 16.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        431,
+        684
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Rafael Núñez International Airport (CTG)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        274,
+        435
+      ],
+      "estimatedFlightHours": 4.4,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Castillo San Felipe de Barajas",
+    "Palacio de la Inquisición",
+    "Islas del Rosario boat tour",
+    "Museo del Oro Zenú",
+    "Convento de la Popa",
+    "Ciudad Amurallada (Walled City)",
+    "Plaza Santo Domingo",
+    "Las Bóvedas",
+    "Getsemaní street art",
+    "City wall sunset walk",
+    "Islas del Rosario",
+    "Playa Blanca / Isla Barú",
+    "Volcán del Totumo mud bath",
+    "Museo Naval del Caribe",
+    "Parque del Centenario",
+    "Parque de la Marina",
+    "Playa Blanca (Isla Barú)",
+    "Bocagrande Beach",
+    "Islas del Rosario beaches",
+    "Colorful balconies of the Walled City",
+    "Getsemaní murals",
+    "Castillo San Felipe at sunset"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Castillo San Felipe de Barajas",
+      "priceUSD": 10
+    },
+    {
+      "name": "Palacio de la Inquisición",
+      "priceUSD": 8
+    },
+    {
+      "name": "Islas del Rosario boat tour",
+      "priceUSD": 45
+    },
+    {
+      "name": "Museo del Oro Zenú",
+      "priceUSD": 2
+    },
+    {
+      "name": "Convento de la Popa",
+      "priceUSD": 6
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Ciudad Amurallada (Walled City)",
+    "Plaza Santo Domingo",
+    "Las Bóvedas",
+    "Getsemaní street art",
+    "City wall sunset walk"
+  ],
+  "museums": [
+    "Palacio de la Inquisición",
+    "Museo del Oro Zenú",
+    "Museo Naval del Caribe"
+  ],
+  "parks": [
+    "Parque del Centenario",
+    "Parque de la Marina"
+  ],
+  "beaches": [
+    "Playa Blanca (Isla Barú)",
+    "Bocagrande Beach",
+    "Islas del Rosario beaches"
+  ],
+  "dayTrips": [
+    "Islas del Rosario",
+    "Playa Blanca / Isla Barú",
+    "Volcán del Totumo mud bath"
+  ],
+  "fromPriceUSD": 627,
+  "seo": {
+    "title": "Cartagena 3-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "cartagena-3-day-package",
+    "keywords": [
+      "Cartagena",
+      "Colombia",
+      "Cartagena, Colombia",
+      "South America",
+      "Cartagena tour package",
+      "Cartagena vacation package",
+      "Cartagena holiday package",
+      "things to do in Cartagena",
+      "best time to visit Cartagena",
+      "Cartagena itinerary",
+      "3 day Cartagena itinerary",
+      "Cartagena flights and hotels",
+      "Cartagena all inclusive package",
+      "cheap Cartagena package",
+      "luxury Cartagena package"
+    ],
+    "canonicalUrl": "/packages/cartagena-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Cartagena Package",
+        "url": "/packages/cartagena-2-day-package"
+      },
+      {
+        "title": "5-Day Cartagena Package",
+        "url": "/packages/cartagena-5-day-package"
+      },
+      {
+        "title": "Paris 3-Day City Break",
+        "url": "/packages/paris-3-day-package"
+      },
+      {
+        "title": "Venice 3-Day Romantic Getaway",
+        "url": "/packages/venice-3-day-package"
+      },
+      {
+        "title": "Galle 3-Day Beach Getaway",
+        "url": "/packages/galle-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Cartagena — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cartagena"
+      },
+      {
+        "title": "Cartagena — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Cartagena"
+      }
+    ]
+  }
+}

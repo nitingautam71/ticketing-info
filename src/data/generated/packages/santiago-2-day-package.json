@@ -1,0 +1,1591 @@
+{
+  "id": "PKG-santiago-2D",
+  "slug": "santiago-2-day-package",
+  "destinationSlug": "santiago",
+  "destinationName": "Santiago",
+  "country": "Chile",
+  "region": "Santiago Metropolitan Region",
+  "durationDays": 2,
+  "durationNights": 1,
+  "title": "Santiago 2-Day City Break",
+  "metaTitle": "Santiago 2-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 2-day trip to Santiago, Chile: round-trip flights, hotel, breakfast, transfers, and guided tours including Cerro San Cristóbal funicular and summit and La Chascona (Pablo Neruda's house). Prices from $1022 per person (estimate).",
+  "highlights": [
+    "Cerro San Cristóbal funicular and summit",
+    "La Chascona (Pablo Neruda's house)",
+    "Plaza de Armas",
+    "Skiing at Valle Nevado or Portillo (winter)",
+    "Valparaíso and Viña del Mar"
+  ],
+  "overview": "Spend 2 days discovering Santiago, Chile — Mediterranean climate with a reversed Southern Hemisphere calendar — hot, dry summers (highs around 30°C, Dec-Feb) and cool, damp winters (highs around 14-15°C, Jun-Aug), with the Andes visible on clear days. September to November (spring) and March to May (fall) bring mild, clear weather ideal for exploring the city and nearby Andes; December-February is a hot, dry summer good for day trips to vineyards or the coast. This itinerary blends Cerro San Cristóbal funicular and summit, La Chascona (Pablo Neruda's house), Plaza de Armas with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "1 night accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Cerro San Cristóbal funicular and summit, La Chascona (Pablo Neruda's house), Plaza de Armas",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Santiago",
+      "description": "Land at Arturo Merino Benítez International Airport (SCL) and take your included private transfer to your hotel. With limited time on the ground, head straight out to Cerro San Cristóbal funicular and summit — Hilltop park with a Virgin Mary statue and panoramic Andes views. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Cerro San Cristóbal funicular and summit"
+      ],
+      "overnight": "Santiago"
+    },
+    {
+      "day": 2,
+      "title": "Santiago Highlights & Departure",
+      "description": "Start early with a visit to La Chascona (Pablo Neruda's house) — One of poet Pablo Neruda's eccentric Santiago homes. Grab a last taste of local life before your private transfer to SCL for your onward flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "La Chascona (Pablo Neruda's house)",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Visit on a clear day (common after rain or wind clears smog) for the best Andes mountain views from Cerro San Cristóbal or Sky Costanera.",
+    "A day trip to Valparaíso is worthwhile but book transport ahead — it's about 90 minutes each way.",
+    "Book Boragó or other top restaurants weeks in advance — reservations are essential for Santiago's best tables.",
+    "The bip! card works for both Metro and buses and can be purchased/loaded at any Metro station.",
+    "Winter (June-August) is ski season at nearby Andean resorts, reachable as an easy day trip from the city.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Layers — spring/fall days can be warm at noon and cool once the sun sets behind the Andes",
+    "Sunscreen and sunglasses for the high-altitude, intense Andean sun",
+    "A warm jacket for winter (Jun-Aug) evenings",
+    "Comfortable shoes for hilly Bellavista/Cerro Santa Lucía walking"
+  ],
+  "thingsToDo": [
+    "Cerro San Cristóbal funicular and summit",
+    "La Chascona (Pablo Neruda's house)",
+    "Museo Chileno de Arte Precolombino",
+    "Palacio de La Moneda cultural center exhibits",
+    "Concha y Toro Winery tour (Maipo Valley)",
+    "Valparaíso and Viña del Mar day tour",
+    "Museo de la Memoria y los Derechos Humanos",
+    "Cajón del Maipo day trip (San José de Maipo)",
+    "Santiago hop-on-hop-off city tour",
+    "Valle Nevado/Andes ski day trip (winter)",
+    "Sky Costanera observation deck",
+    "Plaza de Armas",
+    "Bellavista neighborhood",
+    "Barrio Lastarria",
+    "Cerro Santa Lucía",
+    "Mercado Central exterior and stalls",
+    "Parque Bicentenario",
+    "La Moneda Palace changing of the guard",
+    "Providencia and Las Condes walk",
+    "Parque Forestal"
+  ],
+  "thingsToAvoid": [
+    "Scheduling a mountain-view day during high smog periods (common in winter temperature inversions) — check air quality first.",
+    "Walking alone late at night in less touristy downtown areas away from Lastarria/Providencia/Las Condes.",
+    "Assuming all restaurants take cards — smaller local spots may be cash-only.",
+    "Underestimating the altitude and sun on Cajón del Maipo or ski day trips — hydrate and use sunscreen.",
+    "Visiting during major public protests without checking current safety advisories for downtown areas."
+  ],
+  "topRestaurants": [
+    "Boragó — Chilean Fine Dining/Foraged Cuisine ($$$$)",
+    "Mercado Central seafood stalls — Fresh Seafood ($$)",
+    "Peumayen Ancestral Food — Indigenous Chilean ($$$)",
+    "Liguria Providencia — Traditional Chilean Bistro ($$)",
+    "Fuente Alemana — Chilean Sandwiches (Lomito) ($)",
+    "Bocanáriz — Chilean Wine Bar ($$$)",
+    "99 Restaurant — Contemporary Chilean ($$$)",
+    "Emporio La Rosa — Artisanal Ice Cream ($)",
+    "Ambrosia Bistro — Modern Chilean/French ($$$)"
+  ],
+  "topCafes": [
+    "Café Colonia",
+    "Wonderland Coffee",
+    "Café Melba",
+    "Blue Jar Coffee Roasters",
+    "Ona Vegana Cafe",
+    "Cafe Etnia"
+  ],
+  "shoppingAreas": [
+    "Barrio Lastarria boutiques",
+    "Costanera Center mall",
+    "Patronato garment district",
+    "Mercado Central",
+    "Los Dominicos crafts market"
+  ],
+  "nightlife": [
+    "Bellavista bar district",
+    "Barrio Suecia (Providencia)",
+    "Sky Costanera rooftop bar",
+    "Bar The Clinic",
+    "La Feria nightclub"
+  ],
+  "instagramSpots": [
+    "Cerro San Cristóbal Virgin Mary statue with city/Andes backdrop",
+    "Bellavista street art murals",
+    "Plaza de Armas cathedral",
+    "Sky Costanera view of the Andes",
+    "La Chascona colorful house"
+  ],
+  "hiddenGems": [
+    "Cerro Santa Lucía hidden fountains and staircases",
+    "Barrio Yungay historic houses",
+    "Parque Bicentenario flamingos",
+    "Museo de la Memoria for a sobering historical perspective",
+    "Cajón del Maipo hot springs"
+  ],
+  "familyActivities": [
+    "Cerro San Cristóbal zoo and funicular",
+    "Parque Bicentenario flamingo ponds",
+    "Museo Interactivo Mirador (children's science museum)",
+    "Fantasilandia amusement park",
+    "Santiago Metropolitan Park bike rentals"
+  ],
+  "adventureActivities": [
+    "Skiing at Valle Nevado or Portillo (winter)",
+    "Hiking or biking Cajón del Maipo canyon",
+    "Rock climbing at Cerro San Cristóbal",
+    "Rafting or kayaking near the Maipo River"
+  ],
+  "luxuryExperiences": [
+    "Private Concha y Toro or boutique vineyard wine tour",
+    "Tasting menu at Boragó (World's 50 Best regular)",
+    "Suite stay at The Ritz-Carlton Santiago with Andes views",
+    "Private helicopter tour of the Andes"
+  ],
+  "honeymoonExperiences": [
+    "Sunset dinner at Sky Costanera with Andes views",
+    "Private wine country day trip to Maipo Valley",
+    "Romantic walk through Barrio Lastarria and Bellavista",
+    "Cajón del Maipo hot springs retreat for two"
+  ],
+  "budgetExperiences": [
+    "Free hike up Cerro Santa Lucía",
+    "Lomito sandwich at Fuente Alemana for a few dollars",
+    "Free changing-of-the-guard ceremony at La Moneda",
+    "Wander Bellavista street art for free"
+  ],
+  "estimatedDailyBudgetUSD": [
+    38,
+    95,
+    210,
+    420
+  ],
+  "safetyRating": 4,
+  "internetRating": 4,
+  "publicTransportRating": 4,
+  "walkingScore": 74,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 30,
+      "crowd": "High"
+    },
+    {
+      "month": "Feb",
+      "highC": 29,
+      "crowd": "High"
+    },
+    {
+      "month": "Mar",
+      "highC": 27,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 23,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 18,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jun",
+      "highC": 14,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 14,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Aug",
+      "highC": 16,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Sep",
+      "highC": 19,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 23,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 26,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 29,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Fiestas Patrias (Chilean Independence Day)",
+      "timing": "September 18-19"
+    },
+    {
+      "name": "Santiago a Mil theatre festival",
+      "timing": "January"
+    },
+    {
+      "name": "Vendimia (grape harvest festival, Maipo Valley)",
+      "timing": "March-April"
+    },
+    {
+      "name": "Lollapalooza Chile",
+      "timing": "March"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "133",
+    "ambulance": "131",
+    "fire": "132"
+  },
+  "localEtiquette": [
+    "Greeting with a single cheek kiss (even between strangers being introduced) is standard, similar to Argentina.",
+    "Tipping 10% at restaurants is customary and often suggested on the bill as \"propina sugerida.\"",
+    "Chileans tend to be more reserved and formal on first meeting compared to some neighboring cultures — punctuality is valued.",
+    "Chilean Spanish uses distinct slang and a fast, dropped-consonant accent — locals appreciate patience from visitors learning it.",
+    "Discussing the Pinochet era and politics is common among Chileans themselves but best approached with sensitivity as a visitor."
+  ],
+  "localTransportGuide": "The Santiago Metro is clean, efficient and covers most tourist areas — load a bip! card for the metro and connecting buses. Taxis and rideshare apps are affordable and widely used for reaching neighborhoods like Bellavista or Vitacura that sit further from metro lines.",
+  "bestTimeToVisit": "September to November (spring) and March to May (fall) bring mild, clear weather ideal for exploring the city and nearby Andes; December-February is a hot, dry summer good for day trips to vineyards or the coast.",
+  "weather": "Mediterranean climate with a reversed Southern Hemisphere calendar — hot, dry summers (highs around 30°C, Dec-Feb) and cool, damp winters (highs around 14-15°C, Jun-Aug), with the Andes visible on clear days.",
+  "visaInformation": "Visa-free entry for most Western passport holders (US, UK, EU, Canada, Australia) for tourist stays up to 90 days. Indian nationals typically need a Chilean visa arranged in advance of travel.",
+  "currency": "CLP",
+  "languages": [
+    "Spanish"
+  ],
+  "timeZone": "CLT (UTC-4)",
+  "averageFlightTime": "~18.2h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Arturo Merino Benítez International Airport (SCL)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Santiago?",
+      "answer": "Visa-free entry for most Western passport holders (US, UK, EU, Canada, Australia) for tourist stays up to 90 days. Indian nationals typically need a Chilean visa arranged in advance of travel."
+    },
+    {
+      "question": "What is the best time to visit Santiago?",
+      "answer": "September to November (spring) and March to May (fall) bring mild, clear weather ideal for exploring the city and nearby Andes; December-February is a hot, dry summer good for day trips to vineyards or the coast. Mediterranean climate with a reversed Southern Hemisphere calendar — hot, dry summers (highs around 30°C, Dec-Feb) and cool, damp winters (highs around 14-15°C, Jun-Aug), with the Andes visible on clear days."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Santiago safe for tourists?",
+      "answer": "Santiago is generally safe for tourists who take standard precautions — avoid poorly lit areas at night, keep valuables secure, and use licensed transport."
+    },
+    {
+      "question": "What currency should I bring to Santiago?",
+      "answer": "The local currency is CLP. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Food",
+    "Nature",
+    "Adventure",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Santiago",
+    "Chile",
+    "Santiago, Chile",
+    "Santiago Metropolitan Region",
+    "Santiago tour package",
+    "Santiago vacation package",
+    "Santiago holiday package",
+    "things to do in Santiago",
+    "best time to visit Santiago",
+    "Santiago itinerary",
+    "2 day Santiago itinerary",
+    "Santiago flights and hotels",
+    "Santiago all inclusive package",
+    "cheap Santiago package",
+    "luxury Santiago package",
+    "Santiago honeymoon package",
+    "Santiago family vacation",
+    "Santiago solo trip",
+    "Santiago group tour",
+    "Santiago weekend getaway",
+    "Santiago guided tour",
+    "SCL flights",
+    "Santiago travel guide",
+    "book Santiago trip online",
+    "Santiago trip cost",
+    "Santiago packages 2 days",
+    "Santiago city break",
+    "Santiago culture",
+    "Santiago food",
+    "Santiago nature",
+    "Santiago adventure",
+    "Cerro San Cristóbal funicular and summit",
+    "La Chascona (Pablo Neruda's house)",
+    "Museo Chileno de Arte Precolombino",
+    "Palacio de La Moneda cultural center exhibits",
+    "Concha y Toro Winery tour (Maipo Valley)",
+    "Valparaíso and Viña del Mar day tour",
+    "Museo de la Memoria y los Derechos Humanos",
+    "Cajón del Maipo day trip (San José de Maipo)",
+    "Santiago hop-on-hop-off city tour",
+    "Valle Nevado/Andes ski day trip (winter)",
+    "Sky Costanera observation deck",
+    "Plaza de Armas",
+    "Bellavista neighborhood",
+    "Barrio Lastarria",
+    "Cerro Santa Lucía",
+    "Mercado Central exterior and stalls",
+    "Parque Bicentenario",
+    "La Moneda Palace changing of the guard",
+    "Providencia and Las Condes walk"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Santiago, Chile — Cerro San Cristóbal Andes view",
+      "keywords": [
+        "Santiago",
+        "Chile",
+        "Cerro San Cristóbal Andes view",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Santiago Cerro San Cristóbal Andes view",
+      "pexelsQuery": "Santiago Cerro San Cristóbal Andes view",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Santiago, Chile — Cerro San Cristóbal Andes view",
+      "keywords": [
+        "Santiago",
+        "Chile",
+        "Cerro San Cristóbal Andes view",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Santiago Cerro San Cristóbal Andes view",
+      "pexelsQuery": "Santiago Cerro San Cristóbal Andes view",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Santiago, Chile — Sky Costanera skyline sunset",
+      "keywords": [
+        "Santiago",
+        "Chile",
+        "Sky Costanera skyline sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Santiago Sky Costanera skyline sunset",
+      "pexelsQuery": "Santiago Sky Costanera skyline sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Santiago, Chile — Bellavista street art murals",
+      "keywords": [
+        "Santiago",
+        "Chile",
+        "Bellavista street art murals",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Santiago Bellavista street art murals",
+      "pexelsQuery": "Santiago Bellavista street art murals",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Santiago, Chile — Cerro San Cristóbal Andes view",
+      "keywords": [
+        "Santiago",
+        "Chile",
+        "Cerro San Cristóbal Andes view",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Santiago Cerro San Cristóbal Andes view",
+      "pexelsQuery": "Santiago Cerro San Cristóbal Andes view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santiago, Chile — Sky Costanera skyline sunset",
+      "keywords": [
+        "Santiago",
+        "Chile",
+        "Sky Costanera skyline sunset",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Santiago Sky Costanera skyline sunset",
+      "pexelsQuery": "Santiago Sky Costanera skyline sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santiago, Chile — Bellavista street art murals",
+      "keywords": [
+        "Santiago",
+        "Chile",
+        "Bellavista street art murals",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Santiago Bellavista street art murals",
+      "pexelsQuery": "Santiago Bellavista street art murals",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santiago, Chile — Valparaíso colorful hillside houses",
+      "keywords": [
+        "Santiago",
+        "Chile",
+        "Valparaíso colorful hillside houses",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Santiago Valparaíso colorful hillside houses",
+      "pexelsQuery": "Santiago Valparaíso colorful hillside houses",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santiago, Chile — Cerro San Cristóbal funicular and summit",
+      "keywords": [
+        "Santiago",
+        "Chile",
+        "Cerro San Cristóbal funicular and summit",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Santiago Cerro San Cristóbal funicular and summit",
+      "pexelsQuery": "Santiago Cerro San Cristóbal funicular and summit",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santiago, Chile — La Chascona (Pablo Neruda's house)",
+      "keywords": [
+        "Santiago",
+        "Chile",
+        "La Chascona (Pablo Neruda's house)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Santiago La Chascona (Pablo Neruda's house)",
+      "pexelsQuery": "Santiago La Chascona (Pablo Neruda's house)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santiago, Chile — Museo Chileno de Arte Precolombino",
+      "keywords": [
+        "Santiago",
+        "Chile",
+        "Museo Chileno de Arte Precolombino",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Santiago Museo Chileno de Arte Precolombino",
+      "pexelsQuery": "Santiago Museo Chileno de Arte Precolombino",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Santiago, Chile — Palacio de La Moneda cultural center exhibits",
+      "keywords": [
+        "Santiago",
+        "Chile",
+        "Palacio de La Moneda cultural center exhibits",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Santiago Palacio de La Moneda cultural center exhibits",
+      "pexelsQuery": "Santiago Palacio de La Moneda cultural center exhibits",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-santiago-2-1",
+      "author": "Tom Wang",
+      "country": "Saudi Arabia",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-02-22",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Parque Bicentenario and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-2",
+      "author": "James Johnson",
+      "country": "Switzerland",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-06-17",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Santiago was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Mercado Central exterior and stalls was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-santiago-2-3",
+      "author": "Tom Santos",
+      "country": "United States",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-19",
+      "title": "Unforgettable trip!",
+      "body": "We added a couple of optional activities beyond Cerro San Cristóbal funicular and summit and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-4",
+      "author": "Fatima Patel",
+      "country": "Brazil",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-04-14",
+      "title": "Consultant made it effortless",
+      "body": "Plaza de Armas alone was worth the trip, but combined with Cerro Santa Lucía this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-santiago-2-5",
+      "author": "Sofia Khan",
+      "country": "South Korea",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-17",
+      "title": "A little rushed but still wonderful",
+      "body": "Booked this as a solo trip and it was well paced. Valle Nevado/Andes ski day trip (winter) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-6",
+      "author": "Sarah Johnson",
+      "country": "United Kingdom",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-05-21",
+      "title": "Solid mid-range package",
+      "body": "Santiago is stunning and this package covered the essentials well, especially La Chascona (Pablo Neruda's house). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-7",
+      "author": "Marco Nguyen",
+      "country": "Mexico",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-11-22",
+      "title": "Consultant made it effortless",
+      "body": "We added a couple of optional activities beyond La Moneda Palace changing of the guard and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-8",
+      "author": "Liam Ibrahim",
+      "country": "India",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-01-21",
+      "title": "Beautiful destination, well organized",
+      "body": "Our trip to Santiago was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Museo de la Memoria y los Derechos Humanos was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-santiago-2-9",
+      "author": "Olivia Johnson",
+      "country": "Brazil",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-19",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Santiago was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Plaza de Armas was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-10",
+      "author": "Olivia Khan",
+      "country": "United Kingdom",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-05-07",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Santiago was fantastic from start to finish. The hotel was clean and well located, and the guided visit to La Chascona (Pablo Neruda's house) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-11",
+      "author": "Anna Rossi",
+      "country": "Canada",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-05-12",
+      "title": "Highly recommend this package",
+      "body": "Santiago is stunning and this package covered the essentials well, especially Museo Chileno de Arte Precolombino. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-santiago-2-12",
+      "author": "Daniel Santos",
+      "country": "Canada",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4,
+      "date": "2025-10-31",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Museo Chileno de Arte Precolombino and Valle Nevado/Andes ski day trip (winter). Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-13",
+      "author": "David van Dijk",
+      "country": "Germany",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-07",
+      "title": "Luxury without the hassle",
+      "body": "Santiago is stunning and this package covered the essentials well, especially Concha y Toro Winery tour (Maipo Valley). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-santiago-2-14",
+      "author": "Marco Andersen",
+      "country": "Switzerland",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-05-13",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Mercado Central exterior and stalls and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-santiago-2-15",
+      "author": "Anna Rossi",
+      "country": "Netherlands",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-12-22",
+      "title": "Five stars, will return",
+      "body": "Santiago is stunning and this package covered the essentials well, especially Cerro Santa Lucía. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-16",
+      "author": "Isabella Andersen",
+      "country": "United States",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-04-06",
+      "title": "So many hidden gems included",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Cerro San Cristóbal funicular and summit and Cerro San Cristóbal funicular and summit. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-17",
+      "author": "Isabella Wang",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-01",
+      "title": "Consultant made it effortless",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Sky Costanera observation deck and Plaza de Armas. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-18",
+      "author": "James Larsen",
+      "country": "Canada",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-01-18",
+      "title": "Best vacation we've had",
+      "body": "Our trip to Santiago was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Museo Chileno de Arte Precolombino was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-19",
+      "author": "Fatima Kowalski",
+      "country": "South Africa",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-13",
+      "title": "Consultant made it effortless",
+      "body": "Bellavista neighborhood alone was worth the trip, but combined with Cerro San Cristóbal funicular and summit this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-santiago-2-20",
+      "author": "Tom Ibrahim",
+      "country": "Brazil",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-02-16",
+      "title": "Five stars, will return",
+      "body": "We added a couple of optional activities beyond Plaza de Armas and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.4,
+    "hotel": 4.3,
+    "transportation": 4.4,
+    "activities": 4.4,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Santiago Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 8,
+      "neighborhood": "Barrio Lastarria boutiques"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Santiago Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 15,
+      "neighborhood": "Costanera Center mall"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Santiago Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 33,
+      "neighborhood": "Patronato garment district"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Santiago Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 43,
+      "neighborhood": "Mercado Central"
+    },
+    {
+      "tier": "Resort",
+      "name": "Santiago Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 105,
+      "neighborhood": "Los Dominicos crafts market"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Santiago Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 176,
+      "neighborhood": "Bellavista bar district"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Santiago Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 210,
+      "neighborhood": "Barrio Suecia (Providencia)"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        673,
+        1069
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        700,
+        1111
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        920,
+        1461
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        918,
+        1458
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        951,
+        1511
+      ],
+      "estimatedFlightHours": 17.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        937,
+        1488
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        850,
+        1350
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        944,
+        1500
+      ],
+      "estimatedFlightHours": 17,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        939,
+        1492
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        896,
+        1423
+      ],
+      "estimatedFlightHours": 16.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        775,
+        1231
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1299,
+        2063
+      ],
+      "estimatedFlightHours": 23.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        1322,
+        2099
+      ],
+      "estimatedFlightHours": 24.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1403,
+        2228
+      ],
+      "estimatedFlightHours": 25.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1261,
+        2003
+      ],
+      "estimatedFlightHours": 22.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1352,
+        2147
+      ],
+      "estimatedFlightHours": 24.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1272,
+        2021
+      ],
+      "estimatedFlightHours": 23.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1204,
+        1912
+      ],
+      "estimatedFlightHours": 21.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1349,
+        2142
+      ],
+      "estimatedFlightHours": 24.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1340,
+        2128
+      ],
+      "estimatedFlightHours": 24.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        1142,
+        1814
+      ],
+      "estimatedFlightHours": 20.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        1084,
+        1721
+      ],
+      "estimatedFlightHours": 19.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1118,
+        1775
+      ],
+      "estimatedFlightHours": 20.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        1107,
+        1758
+      ],
+      "estimatedFlightHours": 20,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        740,
+        1175
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        264,
+        419
+      ],
+      "estimatedFlightHours": 4.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Arturo Merino Benítez International Airport (SCL)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        554,
+        880
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Cerro San Cristóbal funicular and summit",
+    "La Chascona (Pablo Neruda's house)",
+    "Museo Chileno de Arte Precolombino",
+    "Palacio de La Moneda cultural center exhibits",
+    "Concha y Toro Winery tour (Maipo Valley)",
+    "Valparaíso and Viña del Mar day tour",
+    "Museo de la Memoria y los Derechos Humanos",
+    "Cajón del Maipo day trip (San José de Maipo)",
+    "Santiago hop-on-hop-off city tour",
+    "Valle Nevado/Andes ski day trip (winter)",
+    "Sky Costanera observation deck",
+    "Plaza de Armas",
+    "Bellavista neighborhood",
+    "Barrio Lastarria",
+    "Cerro Santa Lucía",
+    "Mercado Central exterior and stalls",
+    "Parque Bicentenario",
+    "La Moneda Palace changing of the guard",
+    "Providencia and Las Condes walk",
+    "Parque Forestal",
+    "Valparaíso and Viña del Mar",
+    "Cajón del Maipo",
+    "Concha y Toro Winery, Maipo Valley",
+    "Valle Nevado (winter skiing)",
+    "La Chascona (Neruda House)",
+    "Museo Nacional de Bellas Artes",
+    "Cerro San Cristóbal / Parque Metropolitano",
+    "Cerro San Cristóbal Virgin Mary statue with city/Andes backdrop",
+    "Bellavista street art murals",
+    "Plaza de Armas cathedral",
+    "Sky Costanera view of the Andes",
+    "La Chascona colorful house"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Cerro San Cristóbal funicular and summit",
+      "priceUSD": 12
+    },
+    {
+      "name": "La Chascona (Pablo Neruda's house)",
+      "priceUSD": 12
+    },
+    {
+      "name": "Museo Chileno de Arte Precolombino",
+      "priceUSD": 8
+    },
+    {
+      "name": "Palacio de La Moneda cultural center exhibits",
+      "priceUSD": 5
+    },
+    {
+      "name": "Concha y Toro Winery tour (Maipo Valley)",
+      "priceUSD": 35
+    },
+    {
+      "name": "Valparaíso and Viña del Mar day tour",
+      "priceUSD": 70
+    },
+    {
+      "name": "Museo de la Memoria y los Derechos Humanos",
+      "priceUSD": 0
+    },
+    {
+      "name": "Cajón del Maipo day trip (San José de Maipo)",
+      "priceUSD": 60
+    },
+    {
+      "name": "Santiago hop-on-hop-off city tour",
+      "priceUSD": 25
+    },
+    {
+      "name": "Valle Nevado/Andes ski day trip (winter)",
+      "priceUSD": 100
+    },
+    {
+      "name": "Sky Costanera observation deck",
+      "priceUSD": 20
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Plaza de Armas",
+    "Bellavista neighborhood",
+    "Barrio Lastarria",
+    "Cerro Santa Lucía",
+    "Mercado Central exterior and stalls",
+    "Parque Bicentenario",
+    "La Moneda Palace changing of the guard",
+    "Providencia and Las Condes walk",
+    "Parque Forestal"
+  ],
+  "museums": [
+    "Museo Chileno de Arte Precolombino",
+    "Museo de la Memoria y los Derechos Humanos",
+    "La Chascona (Neruda House)",
+    "Museo Nacional de Bellas Artes"
+  ],
+  "parks": [
+    "Cerro San Cristóbal / Parque Metropolitano",
+    "Cerro Santa Lucía",
+    "Parque Bicentenario",
+    "Parque Forestal"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Valparaíso and Viña del Mar",
+    "Cajón del Maipo",
+    "Concha y Toro Winery, Maipo Valley",
+    "Valle Nevado (winter skiing)"
+  ],
+  "fromPriceUSD": 1022,
+  "seo": {
+    "title": "Santiago 2-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "santiago-2-day-package",
+    "keywords": [
+      "Santiago",
+      "Chile",
+      "Santiago, Chile",
+      "Santiago Metropolitan Region",
+      "Santiago tour package",
+      "Santiago vacation package",
+      "Santiago holiday package",
+      "things to do in Santiago",
+      "best time to visit Santiago",
+      "Santiago itinerary",
+      "2 day Santiago itinerary",
+      "Santiago flights and hotels",
+      "Santiago all inclusive package",
+      "cheap Santiago package",
+      "luxury Santiago package"
+    ],
+    "canonicalUrl": "/packages/santiago-2-day-package",
+    "internalLinks": [
+      {
+        "title": "3-Day Santiago Package",
+        "url": "/packages/santiago-3-day-package"
+      },
+      {
+        "title": "5-Day Santiago Package",
+        "url": "/packages/santiago-5-day-package"
+      },
+      {
+        "title": "Cape Town 2-Day City Break",
+        "url": "/packages/cape-town-2-day-package"
+      },
+      {
+        "title": "Auckland 2-Day City Break",
+        "url": "/packages/auckland-2-day-package"
+      },
+      {
+        "title": "Bangkok 2-Day City Break",
+        "url": "/packages/bangkok-2-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Santiago — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Santiago"
+      },
+      {
+        "title": "Santiago — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Santiago"
+      }
+    ]
+  }
+}

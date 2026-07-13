@@ -1,0 +1,1747 @@
+{
+  "id": "PKG-stockholm-14D",
+  "slug": "stockholm-14-day-package",
+  "destinationSlug": "stockholm",
+  "destinationName": "Stockholm",
+  "country": "Sweden",
+  "region": "Stockholm County",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Stockholm 14-Day City Break",
+  "metaTitle": "Stockholm 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Stockholm, Sweden: round-trip flights, hotel, breakfast, transfers, and guided tours including Vasa Museum and Skansen. Prices from $2672 per person (estimate).",
+  "highlights": [
+    "Vasa Museum",
+    "Skansen",
+    "Gamla Stan",
+    "Drottningholm Palace"
+  ],
+  "overview": "Spend 14 days discovering Stockholm, Sweden — Cold, dark winters (highs around 0°C in December-January with very short days) and mild, bright summers (highs around 22°C in July) with up to 18 hours of daylight in June. June to August for long daylight (near-midnight sun) and warm weather; May and September offer fewer crowds. This itinerary blends Vasa Museum, Skansen, Gamla Stan with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Vasa Museum, Skansen, Gamla Stan",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Stockholm",
+      "description": "Land at Stockholm Arlanda Airport (ARN) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Vasa Museum — A nearly fully intact 17th-century warship raised from the harbor. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Vasa Museum"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 2,
+      "title": "Stockholm: Skansen & ABBA The Museum",
+      "description": "Morning visit to Skansen — Open-air museum of historic buildings with a Nordic wildlife park. In the afternoon, continue to ABBA The Museum — Interactive museum celebrating the iconic pop group. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Skansen",
+        "ABBA The Museum"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 3,
+      "title": "Stockholm: Royal Palace (Kungliga slottet) & Gröna Lund",
+      "description": "Morning visit to Royal Palace (Kungliga slottet) — Working royal palace with the State Apartments. In the afternoon, continue to Gröna Lund — Historic seaside amusement park. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Royal Palace (Kungliga slottet)",
+        "Gröna Lund"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Drottningholm Palace",
+      "description": "Full-day excursion to Drottningholm Palace, a popular side trip from Stockholm. Return to Stockholm in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Drottningholm Palace",
+        "Free evening"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Rosendals Trädgård organic garden café — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Rosendals Trädgård organic garden café"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 6,
+      "title": "Stockholm: Fotografiska & Nordic Museum",
+      "description": "Morning visit to Fotografiska — Contemporary photography museum in a former customs house. In the afternoon, continue to Nordic Museum — Swedish cultural history from the 1500s to today. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Fotografiska",
+        "Nordic Museum"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Stockholm Archipelago boat tour",
+      "description": "Full-day excursion to Stockholm Archipelago boat tour, a popular side trip from Stockholm. Return to Stockholm in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Stockholm Archipelago boat tour",
+        "Free evening"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 8,
+      "title": "Stockholm: Stockholm City Hall Tower & Junibacken",
+      "description": "Morning visit to Stockholm City Hall Tower — Iconic tower overlooking the venue of the Nobel banquet. In the afternoon, continue to Junibacken — Astrid Lindgren-themed children's museum. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Stockholm City Hall Tower",
+        "Junibacken"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Skeppsholmen island — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Skeppsholmen island"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Sigtuna, Sweden's oldest town",
+      "description": "Full-day excursion to Sigtuna, Sweden's oldest town, a popular side trip from Stockholm. Return to Stockholm in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Sigtuna, Sweden's oldest town",
+        "Free evening"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 11,
+      "title": "Stockholm: Drottningholm Palace & Livrustkammaren (Royal Armoury)",
+      "description": "Morning visit to Drottningholm Palace — UNESCO-listed royal residence outside the city. In the afternoon, continue to Livrustkammaren (Royal Armoury) — Royal regalia, coronation costumes and coaches. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Drottningholm Palace",
+        "Livrustkammaren (Royal Armoury)"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 12,
+      "title": "Stockholm: Gamla Stan & Stortorget",
+      "description": "Morning visit to Gamla Stan — Medieval old town with narrow cobbled streets. In the afternoon, continue to Stortorget — Gamla Stan's iconic colorful main square. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Gamla Stan",
+        "Stortorget"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Vitabergsparken — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Vitabergsparken"
+      ],
+      "overnight": "Stockholm"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Djurgården island or some souvenir shopping — before your private transfer to ARN for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "The Stockholm Pass bundles many museum entries with transport for a packed itinerary.",
+    "Visit the Vasa Museum early to avoid tour-group crowds.",
+    "Book Frantzén or other top tables months ahead.",
+    "Take a ferry rather than a bus to Djurgården for the scenic approach.",
+    "Midsummer weekend sees the city empty out as locals head to the countryside.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "A heavy insulated coat for winter's cold and darkness",
+    "Layers for mild but changeable summer weather",
+    "Waterproof shoes for snow or rain",
+    "Sunglasses for near-midnight-sun summer evenings"
+  ],
+  "thingsToDo": [
+    "Vasa Museum",
+    "Skansen",
+    "ABBA The Museum",
+    "Royal Palace (Kungliga slottet)",
+    "Gröna Lund",
+    "Fotografiska",
+    "Nordic Museum",
+    "Stockholm City Hall Tower",
+    "Junibacken",
+    "Drottningholm Palace",
+    "Livrustkammaren (Royal Armoury)",
+    "Gamla Stan",
+    "Stortorget",
+    "Djurgården island",
+    "Monteliusvägen",
+    "Södermalm neighborhood",
+    "Fjällgatan viewpoint",
+    "Riddarholmen",
+    "Kungsträdgården",
+    "Kayaking the archipelago waterways"
+  ],
+  "thingsToAvoid": [
+    "Assuming shops accept cash — Sweden is almost entirely cashless.",
+    "Walking Gamla Stan's cobblestones in heels.",
+    "Missing the last Tunnelbana or ferry after a night out.",
+    "Underestimating how dark and cold December-January can feel.",
+    "Overpaying for food directly on Stortorget's tourist-facing terraces."
+  ],
+  "topRestaurants": [
+    "Pelikan — Traditional Swedish ($$)",
+    "Meatballs for the People — Swedish Meatballs ($$)",
+    "Oaxen Krog — New Nordic Fine Dining ($$$$)",
+    "Nystekt Strömming (Söder Torg stall) — Fried Herring Street Food ($)",
+    "Frantzén — Michelin Fine Dining ($$$$)",
+    "Rutabaga — Vegetarian Fine Dining ($$$)",
+    "Kryp In — Traditional Swedish ($$$)",
+    "Urban Deli — Modern Swedish/Deli ($$)"
+  ],
+  "topCafes": [
+    "Vete-Katten",
+    "Fabrique Stenugnsbageri",
+    "Drop Coffee",
+    "Café Pascal",
+    "Saturnus",
+    "Sturekatten"
+  ],
+  "shoppingAreas": [
+    "Biblioteksgatan boutiques",
+    "Södermalm's SoFo district",
+    "Drottninggatan",
+    "NK department store",
+    "Östermalms Saluhall food hall"
+  ],
+  "nightlife": [
+    "Trädgården outdoor club",
+    "Under Kastanjen wine bar",
+    "Marie Laveau",
+    "Spy Bar",
+    "Icebar Stockholm"
+  ],
+  "instagramSpots": [
+    "Stortorget colorful Gamla Stan square",
+    "Monteliusvägen skyline walk",
+    "Fjällgatan harbor viewpoint",
+    "Vasa Museum ship hall",
+    "Rosendals Trädgård garden café"
+  ],
+  "hiddenGems": [
+    "Rosendals Trädgård organic garden café",
+    "Skeppsholmen island",
+    "Vitabergsparken",
+    "Fotografiska rooftop café view",
+    "Mariaberget quiet lanes"
+  ],
+  "familyActivities": [
+    "Skansen zoo and open-air museum",
+    "Junibacken storybook museum",
+    "Gröna Lund amusement park",
+    "Aquaria Water Museum"
+  ],
+  "adventureActivities": [
+    "Kayaking the archipelago waterways",
+    "Stockholm Archipelago island-hopping boat trip",
+    "Ice skating at Kungsträdgården in winter",
+    "Cycling Djurgården's park paths"
+  ],
+  "luxuryExperiences": [
+    "Dining at Frantzén",
+    "Private archipelago yacht charter",
+    "Suite stay at the Grand Hôtel Stockholm",
+    "Private guided after-hours Vasa Museum tour"
+  ],
+  "honeymoonExperiences": [
+    "Sunset walk along Monteliusvägen",
+    "Private boat cruise through the archipelago",
+    "Romantic dinner in Gamla Stan",
+    "Couples spa at a lakeside sauna"
+  ],
+  "budgetExperiences": [
+    "Free wander through Gamla Stan and Södermalm",
+    "Djurgården island picnic",
+    "Monteliusvägen and Fjällgatan viewpoints",
+    "Free-entry days at some museums"
+  ],
+  "estimatedDailyBudgetUSD": [
+    90,
+    200,
+    340,
+    680
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 80,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 0,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 0,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 4,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 9,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 15,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 20,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 21,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 16,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 10,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 5,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 1,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Midsummer (Midsommar)",
+      "timing": "Friday between June 19-25, Sweden's biggest traditional celebration"
+    },
+    {
+      "name": "Stockholm Pride",
+      "timing": "Late July to early August"
+    },
+    {
+      "name": "Stockholm Culture Festival",
+      "timing": "August"
+    },
+    {
+      "name": "Nobel Prize Day",
+      "timing": "December 10"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112"
+  },
+  "localEtiquette": [
+    "Remove your shoes when entering someone's home.",
+    "Take a numbered ticket (\"ta en kölapp\") and wait your turn in shops, pharmacies and offices.",
+    "Swedes value personal space and quiet, measured conversation, especially on transport.",
+    "\"Fika\" — a coffee-and-pastry break — is an important daily social ritual, not a rushed errand.",
+    "Punctuality is expected for both social and business meetings."
+  ],
+  "localTransportGuide": "Stockholm's SL network of metro (Tunnelbana), buses, trams and commuter trains covers the whole city and archipelago on a shared zone ticket loaded onto an SL Access card. The Tunnelbana's art-filled stations are worth riding for their own sake, and ferries connect central Stockholm to Djurgården and the archipelago islands.",
+  "bestTimeToVisit": "June to August for long daylight (near-midnight sun) and warm weather; May and September offer fewer crowds.",
+  "weather": "Cold, dark winters (highs around 0°C in December-January with very short days) and mild, bright summers (highs around 22°C in July) with up to 18 hours of daylight in June.",
+  "visaInformation": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance.",
+  "currency": "SEK",
+  "languages": [
+    "Swedish"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~9.9h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Stockholm Arlanda Airport (ARN)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Stockholm?",
+      "answer": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Stockholm?",
+      "answer": "June to August for long daylight (near-midnight sun) and warm weather; May and September offer fewer crowds. Cold, dark winters (highs around 0°C in December-January with very short days) and mild, bright summers (highs around 22°C in July) with up to 18 hours of daylight in June."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Stockholm safe for tourists?",
+      "answer": "Stockholm is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Stockholm?",
+      "answer": "The local currency is SEK. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Nature",
+    "Food",
+    "Winter",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Stockholm",
+    "Sweden",
+    "Stockholm, Sweden",
+    "Stockholm County",
+    "Stockholm tour package",
+    "Stockholm vacation package",
+    "Stockholm holiday package",
+    "things to do in Stockholm",
+    "best time to visit Stockholm",
+    "Stockholm itinerary",
+    "14 day Stockholm itinerary",
+    "Stockholm flights and hotels",
+    "Stockholm all inclusive package",
+    "cheap Stockholm package",
+    "luxury Stockholm package",
+    "Stockholm honeymoon package",
+    "Stockholm family vacation",
+    "Stockholm solo trip",
+    "Stockholm group tour",
+    "Stockholm weekend getaway",
+    "Stockholm guided tour",
+    "ARN flights",
+    "Stockholm travel guide",
+    "book Stockholm trip online",
+    "Stockholm trip cost",
+    "Stockholm packages 14 days",
+    "Stockholm city break",
+    "Stockholm culture",
+    "Stockholm nature",
+    "Stockholm food",
+    "Stockholm winter",
+    "Stockholm bucket list",
+    "Vasa Museum",
+    "Skansen",
+    "ABBA The Museum",
+    "Royal Palace (Kungliga slottet)",
+    "Gröna Lund",
+    "Fotografiska",
+    "Nordic Museum",
+    "Stockholm City Hall Tower",
+    "Junibacken",
+    "Drottningholm Palace",
+    "Livrustkammaren (Royal Armoury)",
+    "Gamla Stan",
+    "Stortorget",
+    "Djurgården island",
+    "Monteliusvägen",
+    "Södermalm neighborhood",
+    "Fjällgatan viewpoint",
+    "Riddarholmen"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Stockholm, Sweden — Gamla Stan colorful old town",
+      "keywords": [
+        "Stockholm",
+        "Sweden",
+        "Gamla Stan colorful old town",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Stockholm Gamla Stan colorful old town",
+      "pexelsQuery": "Stockholm Gamla Stan colorful old town",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Stockholm, Sweden — Gamla Stan colorful old town",
+      "keywords": [
+        "Stockholm",
+        "Sweden",
+        "Gamla Stan colorful old town",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Stockholm Gamla Stan colorful old town",
+      "pexelsQuery": "Stockholm Gamla Stan colorful old town",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Stockholm, Sweden — Vasa Museum warship",
+      "keywords": [
+        "Stockholm",
+        "Sweden",
+        "Vasa Museum warship",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Stockholm Vasa Museum warship",
+      "pexelsQuery": "Stockholm Vasa Museum warship",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Stockholm, Sweden — Stockholm archipelago islands",
+      "keywords": [
+        "Stockholm",
+        "Sweden",
+        "Stockholm archipelago islands",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Stockholm Stockholm archipelago islands",
+      "pexelsQuery": "Stockholm Stockholm archipelago islands",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Stockholm, Sweden — Gamla Stan colorful old town",
+      "keywords": [
+        "Stockholm",
+        "Sweden",
+        "Gamla Stan colorful old town",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Stockholm Gamla Stan colorful old town",
+      "pexelsQuery": "Stockholm Gamla Stan colorful old town",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Stockholm, Sweden — Vasa Museum warship",
+      "keywords": [
+        "Stockholm",
+        "Sweden",
+        "Vasa Museum warship",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Stockholm Vasa Museum warship",
+      "pexelsQuery": "Stockholm Vasa Museum warship",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Stockholm, Sweden — Stockholm archipelago islands",
+      "keywords": [
+        "Stockholm",
+        "Sweden",
+        "Stockholm archipelago islands",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Stockholm Stockholm archipelago islands",
+      "pexelsQuery": "Stockholm Stockholm archipelago islands",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Stockholm, Sweden — Stortorget square Sweden",
+      "keywords": [
+        "Stockholm",
+        "Sweden",
+        "Stortorget square Sweden",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Stockholm Stortorget square Sweden",
+      "pexelsQuery": "Stockholm Stortorget square Sweden",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Stockholm, Sweden — Vasa Museum",
+      "keywords": [
+        "Stockholm",
+        "Sweden",
+        "Vasa Museum",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Stockholm Vasa Museum",
+      "pexelsQuery": "Stockholm Vasa Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Stockholm, Sweden — Skansen",
+      "keywords": [
+        "Stockholm",
+        "Sweden",
+        "Skansen",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Stockholm Skansen",
+      "pexelsQuery": "Stockholm Skansen",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Stockholm, Sweden — ABBA The Museum",
+      "keywords": [
+        "Stockholm",
+        "Sweden",
+        "ABBA The Museum",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Stockholm ABBA The Museum",
+      "pexelsQuery": "Stockholm ABBA The Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Stockholm, Sweden — Royal Palace (Kungliga slottet)",
+      "keywords": [
+        "Stockholm",
+        "Sweden",
+        "Royal Palace (Kungliga slottet)",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Stockholm Royal Palace (Kungliga slottet)",
+      "pexelsQuery": "Stockholm Royal Palace (Kungliga slottet)",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-stockholm-14-1",
+      "author": "Fatima Larsen",
+      "country": "Brazil",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-08-21",
+      "title": "Worth every penny",
+      "body": "Livrustkammaren (Royal Armoury) alone was worth the trip, but combined with Riddarholmen this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-2",
+      "author": "Nadia Smith",
+      "country": "Spain",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-27",
+      "title": "Great for families with kids",
+      "body": "Stockholm is stunning and this package covered the essentials well, especially Kungsträdgården. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-3",
+      "author": "Nadia van Dijk",
+      "country": "India",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-01-26",
+      "title": "Best vacation we've had",
+      "body": "Stockholm is stunning and this package covered the essentials well, especially Nordic Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-stockholm-14-4",
+      "author": "Yuki Silva",
+      "country": "United States",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-12",
+      "title": "Great for families with kids",
+      "body": "Vasa Museum alone was worth the trip, but combined with Royal Palace (Kungliga slottet) this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-5",
+      "author": "Sarah Andersen",
+      "country": "France",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-06-26",
+      "title": "Worth every penny",
+      "body": "Stockholm is stunning and this package covered the essentials well, especially Fotografiska. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-6",
+      "author": "Lukas Williams",
+      "country": "Spain",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-04-12",
+      "title": "A little rushed but still wonderful",
+      "body": "Stockholm is stunning and this package covered the essentials well, especially Kungsträdgården. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-7",
+      "author": "Mia Larsen",
+      "country": "Germany",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-27",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Gröna Lund and Djurgården island. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-8",
+      "author": "Arjun Novak",
+      "country": "Spain",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-25",
+      "title": "Perfect for our honeymoon",
+      "body": "Booked this as a group trip and it was well paced. Kungsträdgården in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-9",
+      "author": "Emma van Dijk",
+      "country": "Japan",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-03-26",
+      "title": "Solid mid-range package",
+      "body": "Our trip to Stockholm was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Livrustkammaren (Royal Armoury) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-10",
+      "author": "Ava Kim",
+      "country": "Canada",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-09-14",
+      "title": "Amazing itinerary, zero stress",
+      "body": "ABBA The Museum alone was worth the trip, but combined with Fjällgatan viewpoint this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-stockholm-14-11",
+      "author": "Grace Smith",
+      "country": "Netherlands",
+      "rating": 4.9,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-03-18",
+      "title": "Loved every moment",
+      "body": "We added a couple of optional activities beyond Monteliusvägen and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-stockholm-14-12",
+      "author": "Hiroshi Nguyen",
+      "country": "India",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-06-01",
+      "title": "Smooth from start to finish",
+      "body": "Nordic Museum alone was worth the trip, but combined with Skansen this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-13",
+      "author": "Elena Botha",
+      "country": "Japan",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-16",
+      "title": "Solid mid-range package",
+      "body": "We added a couple of optional activities beyond Livrustkammaren (Royal Armoury) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-14",
+      "author": "Mohammed Johnson",
+      "country": "Japan",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2026-03-13",
+      "title": "Loved every moment",
+      "body": "Drottningholm Palace alone was worth the trip, but combined with Fjällgatan viewpoint this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-15",
+      "author": "Yuki Garcia",
+      "country": "Saudi Arabia",
+      "rating": 4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-27",
+      "title": "So many hidden gems included",
+      "body": "Södermalm neighborhood alone was worth the trip, but combined with Riddarholmen this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-16",
+      "author": "Lucas Johnson",
+      "country": "Brazil",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-08-30",
+      "title": "Perfect for our honeymoon",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Gamla Stan and Vasa Museum. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-17",
+      "author": "Arjun van Dijk",
+      "country": "Germany",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-08-25",
+      "title": "Loved every moment",
+      "body": "Booked this as a solo trip and it was well paced. Gröna Lund in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-18",
+      "author": "Tom Patel",
+      "country": "India",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-09-24",
+      "title": "A little rushed but still wonderful",
+      "body": "We added a couple of optional activities beyond Fotografiska and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-19",
+      "author": "Lukas Ibrahim",
+      "country": "Australia",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-27",
+      "title": "Consultant made it effortless",
+      "body": "Stockholm is stunning and this package covered the essentials well, especially Royal Palace (Kungliga slottet). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-stockholm-14-20",
+      "author": "Lukas Ibrahim",
+      "country": "UAE",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-02-15",
+      "title": "Unforgettable trip!",
+      "body": "Stockholm is stunning and this package covered the essentials well, especially Nordic Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.4,
+    "hotel": 4.3,
+    "transportation": 4.4,
+    "activities": 4.4,
+    "value": 4.4,
+    "cleanliness": 4.4,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Stockholm Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 20,
+      "neighborhood": "Biblioteksgatan boutiques"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Stockholm Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 36,
+      "neighborhood": "Södermalm's SoFo district"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Stockholm Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 70,
+      "neighborhood": "Drottninggatan"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Stockholm Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 90,
+      "neighborhood": "NK department store"
+    },
+    {
+      "tier": "Resort",
+      "name": "Stockholm Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 170,
+      "neighborhood": "Östermalms Saluhall food hall"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Stockholm Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 286,
+      "neighborhood": "Trädgården outdoor club"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Stockholm Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 340,
+      "neighborhood": "Under Kastanjen wine bar"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        533,
+        846
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        534,
+        848
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        180,
+        286
+      ],
+      "estimatedFlightHours": 2.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        188,
+        298
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        162,
+        258
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        219,
+        348
+      ],
+      "estimatedFlightHours": 3.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        264,
+        419
+      ],
+      "estimatedFlightHours": 4.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        158,
+        251
+      ],
+      "estimatedFlightHours": 2.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        183,
+        290
+      ],
+      "estimatedFlightHours": 2.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1204,
+        1912
+      ],
+      "estimatedFlightHours": 21.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1306,
+        2074
+      ],
+      "estimatedFlightHours": 23.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        479,
+        760
+      ],
+      "estimatedFlightHours": 8.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        666,
+        1058
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        614,
+        975
+      ],
+      "estimatedFlightHours": 10.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        773,
+        1227
+      ],
+      "estimatedFlightHours": 13.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        674,
+        1071
+      ],
+      "estimatedFlightHours": 11.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        751,
+        1193
+      ],
+      "estimatedFlightHours": 13.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        837,
+        1330
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        751,
+        1192
+      ],
+      "estimatedFlightHours": 13.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        719,
+        1142
+      ],
+      "estimatedFlightHours": 12.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        420,
+        667
+      ],
+      "estimatedFlightHours": 7.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        398,
+        632
+      ],
+      "estimatedFlightHours": 6.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        408,
+        648
+      ],
+      "estimatedFlightHours": 7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        367,
+        583
+      ],
+      "estimatedFlightHours": 6.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        767,
+        1218
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        866,
+        1376
+      ],
+      "estimatedFlightHours": 15.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Stockholm Arlanda Airport (ARN)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        769,
+        1222
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Vasa Museum",
+    "Skansen",
+    "ABBA The Museum",
+    "Royal Palace (Kungliga slottet)",
+    "Gröna Lund",
+    "Fotografiska",
+    "Nordic Museum",
+    "Stockholm City Hall Tower",
+    "Junibacken",
+    "Drottningholm Palace",
+    "Livrustkammaren (Royal Armoury)",
+    "Gamla Stan",
+    "Stortorget",
+    "Djurgården island",
+    "Monteliusvägen",
+    "Södermalm neighborhood",
+    "Fjällgatan viewpoint",
+    "Riddarholmen",
+    "Kungsträdgården",
+    "Stockholm Archipelago boat tour",
+    "Sigtuna, Sweden's oldest town",
+    "Uppsala",
+    "Djurgården",
+    "Hagaparken",
+    "Vitabergsparken",
+    "Smedsuddsbadet",
+    "Långholmen beach",
+    "Stortorget colorful Gamla Stan square",
+    "Monteliusvägen skyline walk",
+    "Fjällgatan harbor viewpoint",
+    "Vasa Museum ship hall",
+    "Rosendals Trädgård garden café"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Vasa Museum",
+      "priceUSD": 19
+    },
+    {
+      "name": "Skansen",
+      "priceUSD": 22
+    },
+    {
+      "name": "ABBA The Museum",
+      "priceUSD": 28
+    },
+    {
+      "name": "Royal Palace (Kungliga slottet)",
+      "priceUSD": 17
+    },
+    {
+      "name": "Gröna Lund",
+      "priceUSD": 20
+    },
+    {
+      "name": "Fotografiska",
+      "priceUSD": 24
+    },
+    {
+      "name": "Nordic Museum",
+      "priceUSD": 15
+    },
+    {
+      "name": "Stockholm City Hall Tower",
+      "priceUSD": 12
+    },
+    {
+      "name": "Junibacken",
+      "priceUSD": 20
+    },
+    {
+      "name": "Drottningholm Palace",
+      "priceUSD": 14
+    },
+    {
+      "name": "Livrustkammaren (Royal Armoury)",
+      "priceUSD": 12
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Gamla Stan",
+    "Stortorget",
+    "Djurgården island",
+    "Monteliusvägen",
+    "Södermalm neighborhood",
+    "Fjällgatan viewpoint",
+    "Riddarholmen",
+    "Kungsträdgården"
+  ],
+  "museums": [
+    "Vasa Museum",
+    "Nordic Museum",
+    "ABBA The Museum",
+    "Fotografiska"
+  ],
+  "parks": [
+    "Djurgården",
+    "Kungsträdgården",
+    "Hagaparken",
+    "Vitabergsparken"
+  ],
+  "beaches": [
+    "Smedsuddsbadet",
+    "Långholmen beach"
+  ],
+  "dayTrips": [
+    "Drottningholm Palace",
+    "Stockholm Archipelago boat tour",
+    "Sigtuna, Sweden's oldest town",
+    "Uppsala"
+  ],
+  "fromPriceUSD": 2672,
+  "seo": {
+    "title": "Stockholm 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "stockholm-14-day-package",
+    "keywords": [
+      "Stockholm",
+      "Sweden",
+      "Stockholm, Sweden",
+      "Stockholm County",
+      "Stockholm tour package",
+      "Stockholm vacation package",
+      "Stockholm holiday package",
+      "things to do in Stockholm",
+      "best time to visit Stockholm",
+      "Stockholm itinerary",
+      "14 day Stockholm itinerary",
+      "Stockholm flights and hotels",
+      "Stockholm all inclusive package",
+      "cheap Stockholm package",
+      "luxury Stockholm package"
+    ],
+    "canonicalUrl": "/packages/stockholm-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Stockholm Package",
+        "url": "/packages/stockholm-10-day-package"
+      },
+      {
+        "title": "7-Day Stockholm Package",
+        "url": "/packages/stockholm-7-day-package"
+      },
+      {
+        "title": "Munich 14-Day City Break",
+        "url": "/packages/munich-14-day-package"
+      },
+      {
+        "title": "Vienna 14-Day Cultural Tour",
+        "url": "/packages/vienna-14-day-package"
+      },
+      {
+        "title": "Cape Town 14-Day City Break",
+        "url": "/packages/cape-town-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Stockholm — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stockholm"
+      },
+      {
+        "title": "Stockholm — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Stockholm"
+      }
+    ]
+  }
+}

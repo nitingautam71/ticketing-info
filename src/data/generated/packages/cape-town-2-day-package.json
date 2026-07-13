@@ -1562,16 +1562,16 @@
         "url": "/packages/cape-town-5-day-package"
       },
       {
+        "title": "Santiago 2-Day City Break",
+        "url": "/packages/santiago-2-day-package"
+      },
+      {
+        "title": "Auckland 2-Day City Break",
+        "url": "/packages/auckland-2-day-package"
+      },
+      {
         "title": "Bangkok 2-Day City Break",
         "url": "/packages/bangkok-2-day-package"
-      },
-      {
-        "title": "Hanoi 2-Day City Break",
-        "url": "/packages/hanoi-2-day-package"
-      },
-      {
-        "title": "Paris 2-Day City Break",
-        "url": "/packages/paris-2-day-package"
       }
     ],
     "externalLinks": [

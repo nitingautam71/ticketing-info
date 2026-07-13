@@ -1,0 +1,1600 @@
+{
+  "id": "PKG-langkawi-10D",
+  "slug": "langkawi-10-day-package",
+  "destinationSlug": "langkawi",
+  "destinationName": "Langkawi",
+  "country": "Malaysia",
+  "region": "Southeast Asia",
+  "durationDays": 10,
+  "durationNights": 9,
+  "title": "Langkawi 10-Day Beach Getaway",
+  "metaTitle": "Langkawi 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 10-day trip to Langkawi, Malaysia: round-trip flights, hotel, breakfast, transfers, and guided tours including Langkawi Sky Bridge and Cable Car and Mangrove and eagle-watching boat tour. Prices from $2130 per person (estimate).",
+  "highlights": [
+    "Langkawi Sky Bridge and Cable Car",
+    "Mangrove and eagle-watching boat tour",
+    "Pantai Cenang",
+    "Cable car and Sky Bridge",
+    "Private beachfront villa with a plunge pool",
+    "Kilim Karst Geoforest Park mangrove tour"
+  ],
+  "overview": "Spend 10 days discovering Langkawi, Malaysia — Tropical climate — warm year-round (highs around 31-32°C), with a wetter monsoon season roughly June to October. November to April, the dry season, for the best beach and boat-tour conditions. This itinerary blends Langkawi Sky Bridge and Cable Car, Mangrove and eagle-watching boat tour, Pantai Cenang with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "9 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Langkawi Sky Bridge and Cable Car, Mangrove and eagle-watching boat tour, Pantai Cenang",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Langkawi",
+      "description": "Land at Langkawi International Airport (LGK) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Langkawi Sky Bridge and Cable Car — Curved pedestrian bridge and cable car ride high above the rainforest. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Langkawi Sky Bridge and Cable Car"
+      ],
+      "overnight": "Langkawi"
+    },
+    {
+      "day": 2,
+      "title": "Langkawi: Mangrove and eagle-watching boat tour & Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah)",
+      "description": "Morning visit to Mangrove and eagle-watching boat tour — Guided river tour through mangrove forests spotting eagles and monkeys. In the afternoon, continue to Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah) — Boat trip to a freshwater lagoon lake and a white-sand beach island. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Mangrove and eagle-watching boat tour",
+        "Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah)"
+      ],
+      "overnight": "Langkawi"
+    },
+    {
+      "day": 3,
+      "title": "Langkawi: Underwater World Langkawi & Pantai Cenang",
+      "description": "Morning visit to Underwater World Langkawi — Aquarium featuring regional marine life and penguins. In the afternoon, continue to Pantai Cenang — The island's liveliest beach, lined with bars and restaurants. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Underwater World Langkawi",
+        "Pantai Cenang"
+      ],
+      "overnight": "Langkawi"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Kilim Karst Geoforest Park mangrove tour",
+      "description": "Full-day excursion to Kilim Karst Geoforest Park mangrove tour, a popular side trip from Langkawi. Return to Langkawi in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Kilim Karst Geoforest Park mangrove tour",
+        "Free evening"
+      ],
+      "overnight": "Langkawi"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Tanjung Rhu Beach (quieter than Pantai Cenang) — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Tanjung Rhu Beach (quieter than Pantai Cenang)"
+      ],
+      "overnight": "Langkawi"
+    },
+    {
+      "day": 6,
+      "title": "Langkawi: Telaga Tujuh (Seven Wells Waterfall) & Kuah town waterfront",
+      "description": "Morning visit to Telaga Tujuh (Seven Wells Waterfall) — Cascading natural pools accessible via a short hike. In the afternoon, continue to Kuah town waterfront — Duty-free shopping town with an eagle statue landmark. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Telaga Tujuh (Seven Wells Waterfall)",
+        "Kuah town waterfront"
+      ],
+      "overnight": "Langkawi"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Island-hopping to Pulau Dayang Bunting",
+      "description": "Full-day excursion to Island-hopping to Pulau Dayang Bunting, a popular side trip from Langkawi. Return to Langkawi in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Island-hopping to Pulau Dayang Bunting",
+        "Free evening"
+      ],
+      "overnight": "Langkawi"
+    },
+    {
+      "day": 8,
+      "title": "Langkawi: Langkawi Sky Bridge and Cable Car & Mangrove and eagle-watching boat tour",
+      "description": "Morning visit to Langkawi Sky Bridge and Cable Car — Curved pedestrian bridge and cable car ride high above the rainforest. In the afternoon, continue to Mangrove and eagle-watching boat tour — Guided river tour through mangrove forests spotting eagles and monkeys. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Langkawi Sky Bridge and Cable Car",
+        "Mangrove and eagle-watching boat tour"
+      ],
+      "overnight": "Langkawi"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Durian Perangin Waterfall — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Durian Perangin Waterfall"
+      ],
+      "overnight": "Langkawi"
+    },
+    {
+      "day": 10,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah) or some souvenir shopping — before your private transfer to LGK for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Take advantage of duty-free shopping in Kuah for chocolate, alcohol, and electronics.",
+    "Book the Sky Bridge and cable car for early morning to avoid both crowds and afternoon haze.",
+    "Rent a scooter or car for the day to reach quieter beaches like Tanjung Rhu.",
+    "Combine a mangrove tour with the Sky Bridge for a full day covering both nature and views.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Swimwear and beachwear",
+    "Reef-safe sunscreen",
+    "A light rain jacket for the wetter months",
+    "Comfortable sandals for waterfall hikes"
+  ],
+  "thingsToDo": [
+    "Langkawi Sky Bridge and Cable Car",
+    "Mangrove and eagle-watching boat tour",
+    "Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah)",
+    "Underwater World Langkawi",
+    "Pantai Cenang",
+    "Telaga Tujuh (Seven Wells Waterfall)",
+    "Kuah town waterfront",
+    "Cable car and Sky Bridge",
+    "Mangrove kayaking in Kilim Geoforest Park",
+    "Jet skiing and parasailing at Pantai Cenang",
+    "Underwater World Langkawi aquarium",
+    "Island-hopping boat tour",
+    "Cable car and Sky Bridge visit"
+  ],
+  "thingsToAvoid": [
+    "Visiting the Sky Bridge on a hazy or rainy day — the views are the whole point.",
+    "Swimming outside marked areas during monsoon season swells.",
+    "Renting a scooter without prior riding experience — roads have limited lighting at night."
+  ],
+  "topRestaurants": [
+    "Orkid Ria Seafood — Fresh seafood, floating restaurant ($$)",
+    "Yellow Cafe Langkawi — Beachfront international ($$)",
+    "Bon Ton Restaurant — Malaysian fine dining ($$$)"
+  ],
+  "topCafes": [
+    "The Loaf",
+    "Cabana Beach Bar"
+  ],
+  "shoppingAreas": [
+    "Kuah duty-free shops",
+    "Pantai Cenang night market"
+  ],
+  "nightlife": [
+    "Pantai Cenang beach bars",
+    "Reggae Bar Langkawi"
+  ],
+  "instagramSpots": [
+    "Langkawi Sky Bridge over the rainforest",
+    "Pantai Cenang sunset",
+    "Seven Wells Waterfall pools",
+    "Cable car view over the islands"
+  ],
+  "hiddenGems": [
+    "Tanjung Rhu Beach (quieter than Pantai Cenang)",
+    "Durian Perangin Waterfall",
+    "Kilim Karst Geoforest Park"
+  ],
+  "familyActivities": [
+    "Underwater World Langkawi aquarium",
+    "Island-hopping boat tour",
+    "Cable car and Sky Bridge visit"
+  ],
+  "adventureActivities": [
+    "Cable car and Sky Bridge",
+    "Mangrove kayaking in Kilim Geoforest Park",
+    "Jet skiing and parasailing at Pantai Cenang"
+  ],
+  "luxuryExperiences": [
+    "Overwater or beachfront villa at a five-star resort",
+    "Private island-hopping yacht charter",
+    "Sunset dinner cruise"
+  ],
+  "honeymoonExperiences": [
+    "Private beachfront villa with a plunge pool",
+    "Sunset cable car ride together",
+    "Private island-hopping boat trip to a secluded beach"
+  ],
+  "budgetExperiences": [
+    "Free Pantai Cenang beach time",
+    "Seven Wells Waterfall hike",
+    "Duty-free shopping in Kuah town"
+  ],
+  "estimatedDailyBudgetUSD": [
+    40,
+    85,
+    190,
+    460
+  ],
+  "safetyRating": 4.5,
+  "internetRating": 4,
+  "publicTransportRating": 3,
+  "walkingScore": 30,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 31,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 32,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "Apr",
+      "highC": 32,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 32,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Oct",
+      "highC": 31,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 31,
+      "crowd": "High"
+    },
+    {
+      "month": "Dec",
+      "highC": 31,
+      "crowd": "Peak"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Langkawi International Maritime and Aerospace Exhibition (LIMA)",
+      "timing": "Biennial, odd years, March"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "999",
+    "ambulance": "999",
+    "fire": "994"
+  },
+  "localEtiquette": [
+    "Modest dress is appreciated away from resort pools and beaches.",
+    "Alcohol is available (Langkawi is duty-free) but consume discreetly outside resort areas.",
+    "Respect marine park rules on the mangrove and island tours."
+  ],
+  "localTransportGuide": "Renting a car or scooter is the easiest way to explore Langkawi's spread-out beaches and attractions, since public transport is minimal. Taxis and resort shuttles are also available but pricier for repeated use.",
+  "bestTimeToVisit": "November to April, the dry season, for the best beach and boat-tour conditions.",
+  "weather": "Tropical climate — warm year-round (highs around 31-32°C), with a wetter monsoon season roughly June to October.",
+  "visaInformation": "Malaysia is visa-free for stays up to 90 days for most Western passport holders including the US, UK, EU, Canada, and Australia. Indian nationals can apply for an eVisa or eNTRI online. Langkawi is also a duty-free island.",
+  "currency": "MYR",
+  "languages": [
+    "Malay",
+    "English"
+  ],
+  "timeZone": "MYT (UTC+8)",
+  "averageFlightTime": "~10.7h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Langkawi International Airport (LGK)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Langkawi?",
+      "answer": "Malaysia is visa-free for stays up to 90 days for most Western passport holders including the US, UK, EU, Canada, and Australia. Indian nationals can apply for an eVisa or eNTRI online. Langkawi is also a duty-free island."
+    },
+    {
+      "question": "What is the best time to visit Langkawi?",
+      "answer": "November to April, the dry season, for the best beach and boat-tour conditions. Tropical climate — warm year-round (highs around 31-32°C), with a wetter monsoon season roughly June to October."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Langkawi safe for tourists?",
+      "answer": "Langkawi is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Langkawi?",
+      "answer": "The local currency is MYR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Langkawi is one of our most-booked honeymoon destinations, especially the Private beachfront villa with a plunge pool experience. It also works well for families — highlights include Underwater World Langkawi aquarium."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Honeymoon",
+    "Nature",
+    "Family",
+    "Adventure",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Langkawi",
+    "Malaysia",
+    "Langkawi, Malaysia",
+    "Southeast Asia",
+    "Langkawi tour package",
+    "Langkawi vacation package",
+    "Langkawi holiday package",
+    "things to do in Langkawi",
+    "best time to visit Langkawi",
+    "Langkawi itinerary",
+    "10 day Langkawi itinerary",
+    "Langkawi flights and hotels",
+    "Langkawi all inclusive package",
+    "cheap Langkawi package",
+    "luxury Langkawi package",
+    "Langkawi honeymoon package",
+    "Langkawi family vacation",
+    "Langkawi solo trip",
+    "Langkawi group tour",
+    "Langkawi weekend getaway",
+    "Langkawi guided tour",
+    "LGK flights",
+    "Langkawi travel guide",
+    "book Langkawi trip online",
+    "Langkawi trip cost",
+    "Langkawi packages 10 days",
+    "Langkawi beach",
+    "Langkawi honeymoon",
+    "Langkawi nature",
+    "Langkawi family",
+    "Langkawi adventure",
+    "Langkawi bucket list",
+    "Langkawi Sky Bridge and Cable Car",
+    "Mangrove and eagle-watching boat tour",
+    "Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah)",
+    "Underwater World Langkawi",
+    "Pantai Cenang",
+    "Telaga Tujuh (Seven Wells Waterfall)",
+    "Kuah town waterfront",
+    "Orkid Ria Seafood",
+    "Yellow Cafe Langkawi",
+    "Bon Ton Restaurant",
+    "Langkawi Sky Bridge over the rainforest",
+    "Pantai Cenang sunset",
+    "Seven Wells Waterfall pools",
+    "Cable car view over the islands",
+    "Tanjung Rhu Beach (quieter than Pantai Cenang)",
+    "Durian Perangin Waterfall",
+    "Kilim Karst Geoforest Park",
+    "Malaysia tourism"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Langkawi, Malaysia — Langkawi Sky Bridge rainforest",
+      "keywords": [
+        "Langkawi",
+        "Malaysia",
+        "Langkawi Sky Bridge rainforest",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Langkawi Langkawi Sky Bridge rainforest",
+      "pexelsQuery": "Langkawi Langkawi Sky Bridge rainforest",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Langkawi, Malaysia — Langkawi Sky Bridge rainforest",
+      "keywords": [
+        "Langkawi",
+        "Malaysia",
+        "Langkawi Sky Bridge rainforest",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Langkawi Langkawi Sky Bridge rainforest",
+      "pexelsQuery": "Langkawi Langkawi Sky Bridge rainforest",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Langkawi, Malaysia — Pantai Cenang sunset",
+      "keywords": [
+        "Langkawi",
+        "Malaysia",
+        "Pantai Cenang sunset",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Langkawi Pantai Cenang sunset",
+      "pexelsQuery": "Langkawi Pantai Cenang sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Langkawi, Malaysia — Seven Wells Waterfall",
+      "keywords": [
+        "Langkawi",
+        "Malaysia",
+        "Seven Wells Waterfall",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Langkawi Seven Wells Waterfall",
+      "pexelsQuery": "Langkawi Seven Wells Waterfall",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Langkawi, Malaysia — Langkawi Sky Bridge rainforest",
+      "keywords": [
+        "Langkawi",
+        "Malaysia",
+        "Langkawi Sky Bridge rainforest",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Langkawi Langkawi Sky Bridge rainforest",
+      "pexelsQuery": "Langkawi Langkawi Sky Bridge rainforest",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Langkawi, Malaysia — Pantai Cenang sunset",
+      "keywords": [
+        "Langkawi",
+        "Malaysia",
+        "Pantai Cenang sunset",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Langkawi Pantai Cenang sunset",
+      "pexelsQuery": "Langkawi Pantai Cenang sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Langkawi, Malaysia — Seven Wells Waterfall",
+      "keywords": [
+        "Langkawi",
+        "Malaysia",
+        "Seven Wells Waterfall",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Langkawi Seven Wells Waterfall",
+      "pexelsQuery": "Langkawi Seven Wells Waterfall",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Langkawi, Malaysia — Mangrove eagle boat tour",
+      "keywords": [
+        "Langkawi",
+        "Malaysia",
+        "Mangrove eagle boat tour",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Langkawi Mangrove eagle boat tour",
+      "pexelsQuery": "Langkawi Mangrove eagle boat tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Langkawi, Malaysia — Langkawi Sky Bridge and Cable Car",
+      "keywords": [
+        "Langkawi",
+        "Malaysia",
+        "Langkawi Sky Bridge and Cable Car",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Langkawi Langkawi Sky Bridge and Cable Car",
+      "pexelsQuery": "Langkawi Langkawi Sky Bridge and Cable Car",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Langkawi, Malaysia — Mangrove and eagle-watching boat tour",
+      "keywords": [
+        "Langkawi",
+        "Malaysia",
+        "Mangrove and eagle-watching boat tour",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Langkawi Mangrove and eagle-watching boat tour",
+      "pexelsQuery": "Langkawi Mangrove and eagle-watching boat tour",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Langkawi, Malaysia — Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah)",
+      "keywords": [
+        "Langkawi",
+        "Malaysia",
+        "Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah)",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Langkawi Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah)",
+      "pexelsQuery": "Langkawi Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah)",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Langkawi, Malaysia — Underwater World Langkawi",
+      "keywords": [
+        "Langkawi",
+        "Malaysia",
+        "Underwater World Langkawi",
+        "Beach",
+        "Honeymoon"
+      ],
+      "unsplashQuery": "Langkawi Underwater World Langkawi",
+      "pexelsQuery": "Langkawi Underwater World Langkawi",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-langkawi-10-1",
+      "author": "Olivia Ivanov",
+      "country": "Italy",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-02-10",
+      "title": "Luxury without the hassle",
+      "body": "Our trip to Langkawi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kuah town waterfront was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-langkawi-10-2",
+      "author": "Priya Santos",
+      "country": "South Korea",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-31",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a couple trip and it was well paced. Underwater World Langkawi in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-langkawi-10-3",
+      "author": "Olivia van Dijk",
+      "country": "Singapore",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-07-28",
+      "title": "Highly recommend this package",
+      "body": "Our trip to Langkawi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Underwater World Langkawi was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-langkawi-10-4",
+      "author": "Sofia Smith",
+      "country": "South Korea",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-12-30",
+      "title": "Smooth from start to finish",
+      "body": "Booked this as a group trip and it was well paced. Underwater World Langkawi in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-langkawi-10-5",
+      "author": "Anna Silva",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-17",
+      "title": "Beautiful destination, well organized",
+      "body": "Langkawi is stunning and this package covered the essentials well, especially Underwater World Langkawi. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-langkawi-10-6",
+      "author": "Lucas Silva",
+      "country": "Brazil",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-01-07",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Underwater World Langkawi and Langkawi Sky Bridge and Cable Car. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-langkawi-10-7",
+      "author": "Olivia Garcia",
+      "country": "France",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-10-25",
+      "title": "A little rushed but still wonderful",
+      "body": "Our trip to Langkawi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Mangrove and eagle-watching boat tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-langkawi-10-8",
+      "author": "Olivia Garcia",
+      "country": "Switzerland",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-06-09",
+      "title": "Unforgettable trip!",
+      "body": "Our trip to Langkawi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Telaga Tujuh (Seven Wells Waterfall) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-langkawi-10-9",
+      "author": "Arjun Khan",
+      "country": "Singapore",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-06-11",
+      "title": "Smooth from start to finish",
+      "body": "Booked this as a solo trip and it was well paced. Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-langkawi-10-10",
+      "author": "Lukas Larsen",
+      "country": "United States",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2026-03-11",
+      "title": "Worth every penny",
+      "body": "Langkawi is stunning and this package covered the essentials well, especially Langkawi Sky Bridge and Cable Car. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-langkawi-10-11",
+      "author": "Isabella Williams",
+      "country": "United States",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-03-11",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Langkawi Sky Bridge and Cable Car and Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah). Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-langkawi-10-12",
+      "author": "Arjun Brown",
+      "country": "United Kingdom",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-01-23",
+      "title": "Five stars, will return",
+      "body": "Booked this as a group trip and it was well paced. Langkawi Sky Bridge and Cable Car in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-langkawi-10-13",
+      "author": "James Kim",
+      "country": "Brazil",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-01-29",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Langkawi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Underwater World Langkawi was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-langkawi-10-14",
+      "author": "Tom Novak",
+      "country": "Singapore",
+      "rating": 5,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-10-24",
+      "title": "Worth every penny",
+      "body": "We added a couple of optional activities beyond Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-langkawi-10-15",
+      "author": "Ethan Garcia",
+      "country": "United States",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-19",
+      "title": "Beautiful destination, well organized",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Langkawi Sky Bridge and Cable Car and Pantai Cenang. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-langkawi-10-16",
+      "author": "Emma Khan",
+      "country": "Italy",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-08-20",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Langkawi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Kuah town waterfront was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-langkawi-10-17",
+      "author": "Anna Ivanov",
+      "country": "India",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-01-20",
+      "title": "Great value for money",
+      "body": "Langkawi is stunning and this package covered the essentials well, especially Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-langkawi-10-18",
+      "author": "James Sharma",
+      "country": "France",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-11-04",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Langkawi was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-langkawi-10-19",
+      "author": "Sofia Patel",
+      "country": "Switzerland",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-03-31",
+      "title": "Worth every penny",
+      "body": "Booked this as a family of 4 trip and it was well paced. Telaga Tujuh (Seven Wells Waterfall) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-langkawi-10-20",
+      "author": "Anna Novak",
+      "country": "New Zealand",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-05-07",
+      "title": "Consultant made it effortless",
+      "body": "Langkawi is stunning and this package covered the essentials well, especially Pantai Cenang. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    }
+  ],
+  "ratings": {
+    "overall": 4.2,
+    "food": 4.2,
+    "hotel": 4.3,
+    "transportation": 4.2,
+    "activities": 4.1,
+    "value": 4.2,
+    "cleanliness": 4.2,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Langkawi Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 9,
+      "neighborhood": "Kuah duty-free shops"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Langkawi Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 16,
+      "neighborhood": "Pantai Cenang night market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Langkawi Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 30,
+      "neighborhood": "Pantai Cenang beach bars"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Langkawi Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 38,
+      "neighborhood": "Reggae Bar Langkawi"
+    },
+    {
+      "tier": "Resort",
+      "name": "Langkawi Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 95,
+      "neighborhood": "The Loaf"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Langkawi Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 193,
+      "neighborhood": "Cabana Beach Bar"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Langkawi Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 230,
+      "neighborhood": "Kuah duty-free shops"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        1142,
+        1813
+      ],
+      "estimatedFlightHours": 20.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        1121,
+        1781
+      ],
+      "estimatedFlightHours": 20.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        809,
+        1285
+      ],
+      "estimatedFlightHours": 14.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        800,
+        1270
+      ],
+      "estimatedFlightHours": 14.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        766,
+        1216
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        750,
+        1191
+      ],
+      "estimatedFlightHours": 13.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        848,
+        1347
+      ],
+      "estimatedFlightHours": 15.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        783,
+        1243
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        769,
+        1222
+      ],
+      "estimatedFlightHours": 13.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        583,
+        926
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        735,
+        1168
+      ],
+      "estimatedFlightHours": 13.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        325,
+        516
+      ],
+      "estimatedFlightHours": 5.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        453,
+        720
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        396,
+        629
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        128,
+        204
+      ],
+      "estimatedFlightHours": 1.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        136,
+        216
+      ],
+      "estimatedFlightHours": 1.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        106,
+        169
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        192,
+        305
+      ],
+      "estimatedFlightHours": 2.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        257,
+        408
+      ],
+      "estimatedFlightHours": 4.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        142,
+        225
+      ],
+      "estimatedFlightHours": 2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        451,
+        716
+      ],
+      "estimatedFlightHours": 7.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        510,
+        810
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        477,
+        757
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        509,
+        809
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        693,
+        1100
+      ],
+      "estimatedFlightHours": 12.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1229,
+        1952
+      ],
+      "estimatedFlightHours": 22.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Langkawi International Airport (LGK)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        1267,
+        2013
+      ],
+      "estimatedFlightHours": 23,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Langkawi Sky Bridge and Cable Car",
+    "Mangrove and eagle-watching boat tour",
+    "Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah)",
+    "Underwater World Langkawi",
+    "Pantai Cenang",
+    "Telaga Tujuh (Seven Wells Waterfall)",
+    "Kuah town waterfront",
+    "Kilim Karst Geoforest Park mangrove tour",
+    "Island-hopping to Pulau Dayang Bunting",
+    "Thailand border day trip (Koh Lipe, seasonal)",
+    "Laman Padi Rice Garden and Museum",
+    "Kilim Karst Geoforest Park",
+    "Langkawi Wildlife Park",
+    "Tanjung Rhu Beach",
+    "Pulau Beras Basah",
+    "Langkawi Sky Bridge over the rainforest",
+    "Pantai Cenang sunset",
+    "Seven Wells Waterfall pools",
+    "Cable car view over the islands"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Langkawi Sky Bridge and Cable Car",
+      "priceUSD": 20
+    },
+    {
+      "name": "Mangrove and eagle-watching boat tour",
+      "priceUSD": 35
+    },
+    {
+      "name": "Island-hopping tour (Pulau Dayang Bunting, Pulau Beras Basah)",
+      "priceUSD": 30
+    },
+    {
+      "name": "Underwater World Langkawi",
+      "priceUSD": 20
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Pantai Cenang",
+    "Telaga Tujuh (Seven Wells Waterfall)",
+    "Kuah town waterfront"
+  ],
+  "museums": [
+    "Laman Padi Rice Garden and Museum"
+  ],
+  "parks": [
+    "Kilim Karst Geoforest Park",
+    "Langkawi Wildlife Park"
+  ],
+  "beaches": [
+    "Pantai Cenang",
+    "Tanjung Rhu Beach",
+    "Pulau Beras Basah"
+  ],
+  "dayTrips": [
+    "Kilim Karst Geoforest Park mangrove tour",
+    "Island-hopping to Pulau Dayang Bunting",
+    "Thailand border day trip (Koh Lipe, seasonal)"
+  ],
+  "fromPriceUSD": 2130,
+  "seo": {
+    "title": "Langkawi 10-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "langkawi-10-day-package",
+    "keywords": [
+      "Langkawi",
+      "Malaysia",
+      "Langkawi, Malaysia",
+      "Southeast Asia",
+      "Langkawi tour package",
+      "Langkawi vacation package",
+      "Langkawi holiday package",
+      "things to do in Langkawi",
+      "best time to visit Langkawi",
+      "Langkawi itinerary",
+      "10 day Langkawi itinerary",
+      "Langkawi flights and hotels",
+      "Langkawi all inclusive package",
+      "cheap Langkawi package",
+      "luxury Langkawi package"
+    ],
+    "canonicalUrl": "/packages/langkawi-10-day-package",
+    "internalLinks": [
+      {
+        "title": "7-Day Langkawi Package",
+        "url": "/packages/langkawi-7-day-package"
+      },
+      {
+        "title": "14-Day Langkawi Package",
+        "url": "/packages/langkawi-14-day-package"
+      },
+      {
+        "title": "Phuket 10-Day Beach Getaway",
+        "url": "/packages/phuket-10-day-package"
+      },
+      {
+        "title": "Costa Rica 10-Day Nature Retreat",
+        "url": "/packages/costa-rica-10-day-package"
+      },
+      {
+        "title": "Andaman Islands 10-Day Beach Getaway",
+        "url": "/packages/andaman-islands-10-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Langkawi — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Langkawi"
+      },
+      {
+        "title": "Langkawi — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Langkawi"
+      }
+    ]
+  }
+}

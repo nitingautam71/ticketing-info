@@ -1,0 +1,1748 @@
+{
+  "id": "PKG-nassau-14D",
+  "slug": "nassau-14-day-package",
+  "destinationSlug": "nassau",
+  "destinationName": "Nassau",
+  "country": "Bahamas",
+  "region": "New Providence",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Nassau 14-Day Beach Getaway",
+  "metaTitle": "Nassau 14-Day Beach Getaway | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Nassau, Bahamas: round-trip flights, hotel, breakfast, transfers, and guided tours including Atlantis Paradise Island Aquaventure Water Park and The Dig at Atlantis. Prices from $2351 per person (estimate).",
+  "highlights": [
+    "Atlantis Paradise Island Aquaventure Water Park",
+    "The Dig at Atlantis",
+    "Cable Beach",
+    "Private overwater bungalow stay at Atlantis",
+    "Sunset catamaran cruise along the coast",
+    "Blue Lagoon Island"
+  ],
+  "overview": "Spend 14 days discovering Nassau, Bahamas — Tropical climate, warm year-round (highs 27-32°C) with a wetter, more humid summer and a real hurricane risk from June to November, peaking August-October. December to April is the dry season with warm days, lower humidity and no hurricane risk, making it the most popular and priciest window. This itinerary blends Atlantis Paradise Island Aquaventure Water Park, The Dig at Atlantis, Cable Beach with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Atlantis Paradise Island Aquaventure Water Park, The Dig at Atlantis, Cable Beach",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Nassau",
+      "description": "Land at Lynden Pindling International Airport (NAS) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Atlantis Paradise Island Aquaventure Water Park — Massive water park with slides, a lazy river and marine habitats. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Atlantis Paradise Island Aquaventure Water Park"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 2,
+      "title": "Nassau: The Dig at Atlantis & Blue Lagoon Island",
+      "description": "Morning visit to The Dig at Atlantis — Aquarium-style marine exhibit walk-through beneath the resort. In the afternoon, continue to Blue Lagoon Island — Private island day trip with dolphin encounters and a beach. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "The Dig at Atlantis",
+        "Blue Lagoon Island"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 3,
+      "title": "Nassau: Pirates of Nassau Museum & Ardastra Gardens and Wildlife Conservation Centre",
+      "description": "Morning visit to Pirates of Nassau Museum — Interactive museum on the Golden Age of Piracy. In the afternoon, continue to Ardastra Gardens and Wildlife Conservation Centre — Zoo and gardens known for marching flamingo shows. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Pirates of Nassau Museum",
+        "Ardastra Gardens and Wildlife Conservation Centre"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Blue Lagoon Island",
+      "description": "Full-day excursion to Blue Lagoon Island, a popular side trip from Nassau. Return to Nassau in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Blue Lagoon Island",
+        "Free evening"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Adelaide Village fishing beach — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Adelaide Village fishing beach"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 6,
+      "title": "Nassau: Nassau catamaran/snorkel day cruise & Fort Charlotte guided tour",
+      "description": "Morning visit to Nassau catamaran/snorkel day cruise — Half-day sail and snorkel tour along the coast. In the afternoon, continue to Fort Charlotte guided tour — Largest fort in the Bahamas with a moat and dungeons. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Nassau catamaran/snorkel day cruise",
+        "Fort Charlotte guided tour"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Exuma swimming pigs excursion",
+      "description": "Full-day excursion to Exuma swimming pigs excursion, a popular side trip from Nassau. Return to Nassau in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Exuma swimming pigs excursion",
+        "Free evening"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 8,
+      "title": "Nassau: Swimming pigs day trip (Exuma, from Nassau) & Graycliff Chocolatier tour and tasting",
+      "description": "Morning visit to Swimming pigs day trip (Exuma, from Nassau) — Boat excursion to see the famous swimming pigs of Exuma. In the afternoon, continue to Graycliff Chocolatier tour and tasting — Bean-to-bar chocolate factory tour in a historic mansion. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Swimming pigs day trip (Exuma, from Nassau)",
+        "Graycliff Chocolatier tour and tasting"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Clifton Heritage National Park — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Clifton Heritage National Park"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Paradise Island",
+      "description": "Full-day excursion to Paradise Island, a popular side trip from Nassau. Return to Nassau in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Paradise Island",
+        "Free evening"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 11,
+      "title": "Nassau: Nassau Straw Market shopping (guided) & John Watling's Distillery tour",
+      "description": "Morning visit to Nassau Straw Market shopping (guided) — Craft and souvenir shopping tour with cultural context. In the afternoon, continue to John Watling's Distillery tour — Rum distillery tour and tasting on a colonial-era estate. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Nassau Straw Market shopping (guided)",
+        "John Watling's Distillery tour"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 12,
+      "title": "Nassau: Cable Beach & Junkanoo Beach",
+      "description": "Morning visit to Cable Beach — Wide, popular public beach lined with resorts. In the afternoon, continue to Junkanoo Beach — Central, lively beach walkable from downtown cruise port. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Cable Beach",
+        "Junkanoo Beach"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Jaws Beach — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Jaws Beach"
+      ],
+      "overnight": "Nassau"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Queen's Staircase or some souvenir shopping — before your private transfer to NAS for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "US dollars are accepted 1:1 everywhere, so there's rarely a need to exchange for Bahamian dollars.",
+    "Book Aquaventure Water Park tickets online — day-pass access for non-Atlantis guests is limited and sells out.",
+    "Visit Arawak Cay (\"Fish Fry\") for far more authentic, cheaper Bahamian food than most resort restaurants.",
+    "Time a trip outside the June-November hurricane season if flexible, especially avoiding August-October.",
+    "A swimming-pigs day trip to Exuma is a full-day commitment by small plane or boat — book well ahead.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Lightweight, breathable clothing and a reusable water bottle",
+    "Swimwear and reef-safe sunscreen",
+    "Lightweight, breathable clothing plus a cover-up for leaving the beach",
+    "Reef-safe sunscreen — reef protection rules apply at some sites",
+    "A light rain jacket for sudden tropical showers",
+    "US dollars are accepted everywhere so minimal currency exchange is needed"
+  ],
+  "thingsToDo": [
+    "Atlantis Paradise Island Aquaventure Water Park",
+    "The Dig at Atlantis",
+    "Blue Lagoon Island",
+    "Pirates of Nassau Museum",
+    "Ardastra Gardens and Wildlife Conservation Centre",
+    "Nassau catamaran/snorkel day cruise",
+    "Fort Charlotte guided tour",
+    "Swimming pigs day trip (Exuma, from Nassau)",
+    "Graycliff Chocolatier tour and tasting",
+    "Nassau Straw Market shopping (guided)",
+    "John Watling's Distillery tour",
+    "Cable Beach",
+    "Junkanoo Beach",
+    "Queen's Staircase",
+    "Fort Fincastle",
+    "Nassau Straw Market",
+    "Government House grounds",
+    "Bay Street",
+    "Woodes Rogers Walk",
+    "Arawak Cay (\"Fish Fry\")"
+  ],
+  "thingsToAvoid": [
+    "Wandering away from tourist areas of downtown Nassau alone after dark — petty crime rises off the main strip.",
+    "Skipping travel insurance during hurricane season — cancellations and delays are common June-November.",
+    "Overpaying at cruise-port souvenir stalls without a bit of friendly haggling at the Straw Market.",
+    "Touching or standing on coral reefs while snorkeling — it damages fragile ecosystems and can cut skin.",
+    "Assuming resort-fee inclusions — read the fine print, as many Nassau resorts add mandatory daily resort fees."
+  ],
+  "topRestaurants": [
+    "Arawak Cay conch shacks — Bahamian Seafood ($)",
+    "Twin Brothers Restaurant — Bahamian ($$)",
+    "Graycliff Restaurant — Fine Dining Continental ($$$$)",
+    "The Poop Deck — Seafood ($$)",
+    "Bahamian Cookin' Restaurant — Local Bahamian ($$)",
+    "Café Matisse — Italian ($$$)",
+    "Fish Fry conch stands — Conch Salad/Fritters ($)",
+    "Luciano's of Chicago — Steak & Seafood ($$$$)",
+    "Athena Cafe — Bahamian/American ($$)"
+  ],
+  "topCafes": [
+    "Cafe Matisse courtyard",
+    "Starbucks Marina Village",
+    "Bahamian Coffee Roasters",
+    "Coco Cay Coffee Cart",
+    "The Green Parrot Bar & Grill (coffee/brunch)"
+  ],
+  "shoppingAreas": [
+    "Bay Street shops",
+    "Nassau Straw Market",
+    "Marina Village at Atlantis",
+    "Port Lucaya-style duty-free jewelry stores",
+    "Prince George Wharf shops"
+  ],
+  "nightlife": [
+    "Atlantis Casino",
+    "Señor Frog's Nassau",
+    "Aura Nightclub at Atlantis",
+    "Bay Street bars",
+    "Sky Beach Club"
+  ],
+  "instagramSpots": [
+    "Queen's Staircase",
+    "Cable Beach turquoise water",
+    "Atlantis Royal Towers bridge",
+    "Junkanoo Beach at sunset",
+    "Fort Fincastle harbor view"
+  ],
+  "hiddenGems": [
+    "Adelaide Village fishing beach",
+    "Clifton Heritage National Park",
+    "Jaws Beach",
+    "Compass Point colorful cottages",
+    "Potter's Cay conch stands"
+  ],
+  "familyActivities": [
+    "Aquaventure Water Park at Atlantis",
+    "Ardastra Gardens flamingo show",
+    "Blue Lagoon Island dolphin encounters",
+    "The Dig marine exhibit",
+    "Clifton Heritage Park nature trails"
+  ],
+  "adventureActivities": [
+    "Swimming with pigs day trip to Exuma",
+    "Snorkeling and diving Bahamian reefs and wrecks",
+    "Jet skiing off Cable Beach",
+    "Parasailing over Nassau Harbour"
+  ],
+  "luxuryExperiences": [
+    "Private overwater bungalow stay at Atlantis",
+    "Private yacht charter to the Exuma Cays",
+    "High-stakes evening at the Atlantis Casino",
+    "Fine dining tasting menu at Graycliff"
+  ],
+  "honeymoonExperiences": [
+    "Sunset catamaran cruise along the coast",
+    "Private beach dinner on Blue Lagoon Island",
+    "Couples spa day at an Atlantis resort",
+    "Swim with dolphins experience for two"
+  ],
+  "budgetExperiences": [
+    "Free swim at Junkanoo or Cable Beach",
+    "Conch fritters and salad at Arawak Cay for a few dollars",
+    "Climb the free Queen's Staircase and Fort Fincastle",
+    "Wander Bay Street and the Straw Market"
+  ],
+  "estimatedDailyBudgetUSD": [
+    95,
+    210,
+    400,
+    750
+  ],
+  "safetyRating": 3,
+  "internetRating": 3,
+  "publicTransportRating": 3,
+  "walkingScore": 52,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Feb",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Mar",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Apr",
+      "highC": 28,
+      "crowd": "High"
+    },
+    {
+      "month": "May",
+      "highC": 29,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Jul",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Aug",
+      "highC": 32,
+      "crowd": "Low"
+    },
+    {
+      "month": "Sep",
+      "highC": 31,
+      "crowd": "Low"
+    },
+    {
+      "month": "Oct",
+      "highC": 29,
+      "crowd": "Low"
+    },
+    {
+      "month": "Nov",
+      "highC": 27,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Dec",
+      "highC": 26,
+      "crowd": "High"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Junkanoo",
+      "timing": "Boxing Day (Dec 26) and New Year's Day parades"
+    },
+    {
+      "name": "Bahamas Carnival",
+      "timing": "May"
+    },
+    {
+      "name": "Bahamas Independence Day celebrations",
+      "timing": "July 10"
+    },
+    {
+      "name": "Great Exuma Regatta (nearby island, popular add-on)",
+      "timing": "Late April"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911 / 919",
+    "ambulance": "911 / 919",
+    "fire": "911 / 919"
+  },
+  "localEtiquette": [
+    "Greet with \"Good morning/afternoon\" before starting any transaction — it's expected local courtesy.",
+    "Tipping 15% is standard at restaurants; many resorts add an automatic service/resort fee — check your bill.",
+    "Modest cover-ups are expected off the beach — swimwear is for the beach/pool only, not town streets.",
+    "\"Bahamian time\" runs relaxed — service and buses may run behind schedule; patience is expected.",
+    "Straw market vendors expect polite haggling on crafts, but fixed-price shops do not."
+  ],
+  "localTransportGuide": "Jitney buses (privately run local buses) are the cheapest way around New Providence island but run on loose schedules; taxis are metered or fixed-rate and widely available at hotels and the cruise port. Many visitors base themselves at a resort and book excursions directly rather than relying on public transport.",
+  "bestTimeToVisit": "December to April is the dry season with warm days, lower humidity and no hurricane risk, making it the most popular and priciest window.",
+  "weather": "Tropical climate, warm year-round (highs 27-32°C) with a wetter, more humid summer and a real hurricane risk from June to November, peaking August-October.",
+  "visaInformation": "Visa-free entry for most Western passport holders (US, UK, EU, Canada, Australia) for tourist stays up to 90 days; the US dollar is accepted everywhere alongside the pegged Bahamian dollar. Indian passport holders should check current requirements — a valid US, UK, Canadian or Schengen visa often facilitates visa-free or visa-on-arrival entry.",
+  "currency": "BSD",
+  "languages": [
+    "English"
+  ],
+  "timeZone": "EST (UTC-5)",
+  "averageFlightTime": "~15.3h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Lynden Pindling International Airport (NAS)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Nassau?",
+      "answer": "Visa-free entry for most Western passport holders (US, UK, EU, Canada, Australia) for tourist stays up to 90 days; the US dollar is accepted everywhere alongside the pegged Bahamian dollar. Indian passport holders should check current requirements — a valid US, UK, Canadian or Schengen visa often facilitates visa-free or visa-on-arrival entry."
+    },
+    {
+      "question": "What is the best time to visit Nassau?",
+      "answer": "December to April is the dry season with warm days, lower humidity and no hurricane risk, making it the most popular and priciest window. Tropical climate, warm year-round (highs 27-32°C) with a wetter, more humid summer and a real hurricane risk from June to November, peaking August-October."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Nassau safe for tourists?",
+      "answer": "Nassau is safe for tourists who stay alert, particularly around tourist hotspots and transport hubs — avoid displaying valuables and use hotel-recommended transport after dark."
+    },
+    {
+      "question": "What currency should I bring to Nassau?",
+      "answer": "The local currency is BSD. Carry some cash for smaller vendors — card acceptance can be inconsistent outside major hotels and malls."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "Yes — Nassau is one of our most-booked honeymoon destinations, especially the Sunset catamaran cruise along the coast experience. It also works well for families — highlights include Aquaventure Water Park at Atlantis."
+    }
+  ],
+  "categories": [
+    "Beach",
+    "Luxury",
+    "Family",
+    "Honeymoon",
+    "Nightlife",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Nassau",
+    "Bahamas",
+    "Nassau, Bahamas",
+    "New Providence",
+    "Nassau tour package",
+    "Nassau vacation package",
+    "Nassau holiday package",
+    "things to do in Nassau",
+    "best time to visit Nassau",
+    "Nassau itinerary",
+    "14 day Nassau itinerary",
+    "Nassau flights and hotels",
+    "Nassau all inclusive package",
+    "cheap Nassau package",
+    "luxury Nassau package",
+    "Nassau honeymoon package",
+    "Nassau family vacation",
+    "Nassau solo trip",
+    "Nassau group tour",
+    "Nassau weekend getaway",
+    "Nassau guided tour",
+    "NAS flights",
+    "Nassau travel guide",
+    "book Nassau trip online",
+    "Nassau trip cost",
+    "Nassau packages 14 days",
+    "Nassau beach",
+    "Nassau luxury",
+    "Nassau family",
+    "Nassau honeymoon",
+    "Nassau nightlife",
+    "Nassau bucket list",
+    "Atlantis Paradise Island Aquaventure Water Park",
+    "The Dig at Atlantis",
+    "Blue Lagoon Island",
+    "Pirates of Nassau Museum",
+    "Ardastra Gardens and Wildlife Conservation Centre",
+    "Nassau catamaran/snorkel day cruise",
+    "Fort Charlotte guided tour",
+    "Swimming pigs day trip (Exuma, from Nassau)",
+    "Graycliff Chocolatier tour and tasting",
+    "Nassau Straw Market shopping (guided)",
+    "John Watling's Distillery tour",
+    "Cable Beach",
+    "Junkanoo Beach",
+    "Queen's Staircase",
+    "Fort Fincastle",
+    "Nassau Straw Market",
+    "Government House grounds",
+    "Bay Street"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Nassau, Bahamas — Atlantis Paradise Island resort",
+      "keywords": [
+        "Nassau",
+        "Bahamas",
+        "Atlantis Paradise Island resort",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nassau Atlantis Paradise Island resort",
+      "pexelsQuery": "Nassau Atlantis Paradise Island resort",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Nassau, Bahamas — Atlantis Paradise Island resort",
+      "keywords": [
+        "Nassau",
+        "Bahamas",
+        "Atlantis Paradise Island resort",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nassau Atlantis Paradise Island resort",
+      "pexelsQuery": "Nassau Atlantis Paradise Island resort",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Nassau, Bahamas — Cable Beach turquoise water",
+      "keywords": [
+        "Nassau",
+        "Bahamas",
+        "Cable Beach turquoise water",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nassau Cable Beach turquoise water",
+      "pexelsQuery": "Nassau Cable Beach turquoise water",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Nassau, Bahamas — Queen's Staircase Nassau",
+      "keywords": [
+        "Nassau",
+        "Bahamas",
+        "Queen's Staircase Nassau",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nassau Queen's Staircase Nassau",
+      "pexelsQuery": "Nassau Queen's Staircase Nassau",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Nassau, Bahamas — Atlantis Paradise Island resort",
+      "keywords": [
+        "Nassau",
+        "Bahamas",
+        "Atlantis Paradise Island resort",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nassau Atlantis Paradise Island resort",
+      "pexelsQuery": "Nassau Atlantis Paradise Island resort",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nassau, Bahamas — Cable Beach turquoise water",
+      "keywords": [
+        "Nassau",
+        "Bahamas",
+        "Cable Beach turquoise water",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nassau Cable Beach turquoise water",
+      "pexelsQuery": "Nassau Cable Beach turquoise water",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nassau, Bahamas — Queen's Staircase Nassau",
+      "keywords": [
+        "Nassau",
+        "Bahamas",
+        "Queen's Staircase Nassau",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nassau Queen's Staircase Nassau",
+      "pexelsQuery": "Nassau Queen's Staircase Nassau",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nassau, Bahamas — swimming pigs Exuma",
+      "keywords": [
+        "Nassau",
+        "Bahamas",
+        "swimming pigs Exuma",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nassau swimming pigs Exuma",
+      "pexelsQuery": "Nassau swimming pigs Exuma",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nassau, Bahamas — Atlantis Paradise Island Aquaventure Water Park",
+      "keywords": [
+        "Nassau",
+        "Bahamas",
+        "Atlantis Paradise Island Aquaventure Water Park",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nassau Atlantis Paradise Island Aquaventure Water Park",
+      "pexelsQuery": "Nassau Atlantis Paradise Island Aquaventure Water Park",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nassau, Bahamas — The Dig at Atlantis",
+      "keywords": [
+        "Nassau",
+        "Bahamas",
+        "The Dig at Atlantis",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nassau The Dig at Atlantis",
+      "pexelsQuery": "Nassau The Dig at Atlantis",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nassau, Bahamas — Blue Lagoon Island",
+      "keywords": [
+        "Nassau",
+        "Bahamas",
+        "Blue Lagoon Island",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nassau Blue Lagoon Island",
+      "pexelsQuery": "Nassau Blue Lagoon Island",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Nassau, Bahamas — Pirates of Nassau Museum",
+      "keywords": [
+        "Nassau",
+        "Bahamas",
+        "Pirates of Nassau Museum",
+        "Beach",
+        "Luxury"
+      ],
+      "unsplashQuery": "Nassau Pirates of Nassau Museum",
+      "pexelsQuery": "Nassau Pirates of Nassau Museum",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-nassau-14-1",
+      "author": "James Nguyen",
+      "country": "Saudi Arabia",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-05-16",
+      "title": "Loved every moment",
+      "body": "Our trip to Nassau was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Government House grounds was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-2",
+      "author": "Omar Ivanov",
+      "country": "United States",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-04-12",
+      "title": "Exceeded our expectations",
+      "body": "We added a couple of optional activities beyond Atlantis Paradise Island Aquaventure Water Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-nassau-14-3",
+      "author": "Marco Botha",
+      "country": "Canada",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-05-29",
+      "title": "Best vacation we've had",
+      "body": "We added a couple of optional activities beyond Blue Lagoon Island and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-4",
+      "author": "Priya Garcia",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-05-28",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a group trip and it was well paced. John Watling's Distillery tour in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-nassau-14-5",
+      "author": "Ethan Garcia",
+      "country": "Spain",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-06-17",
+      "title": "Highly recommend this package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Arawak Cay (\"Fish Fry\") and Arawak Cay (\"Fish Fry\"). Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-6",
+      "author": "Sarah Tanaka",
+      "country": "Netherlands",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-11-13",
+      "title": "Unforgettable trip!",
+      "body": "Nassau is stunning and this package covered the essentials well, especially Fort Fincastle. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-nassau-14-7",
+      "author": "Elena Kim",
+      "country": "India",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-08-02",
+      "title": "Luxury without the hassle",
+      "body": "We added a couple of optional activities beyond Fort Charlotte guided tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-8",
+      "author": "Arjun Fernandez",
+      "country": "Mexico",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-22",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a group trip and it was well paced. Bay Street in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-9",
+      "author": "Arjun Costa",
+      "country": "UAE",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-25",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a solo trip and it was well paced. Swimming pigs day trip (Exuma, from Nassau) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-10",
+      "author": "Emma Larsen",
+      "country": "Australia",
+      "rating": 3.7,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-28",
+      "title": "Great value for money",
+      "body": "Our trip to Nassau was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Pirates of Nassau Museum was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-11",
+      "author": "Noah Larsen",
+      "country": "South Africa",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2025-04-28",
+      "title": "Perfect for our honeymoon",
+      "body": "Our trip to Nassau was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Junkanoo Beach was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-12",
+      "author": "Priya Kim",
+      "country": "South Africa",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-02-11",
+      "title": "Great for families with kids",
+      "body": "Booked this as a group trip and it was well paced. Junkanoo Beach in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-nassau-14-13",
+      "author": "Daniel Larsen",
+      "country": "New Zealand",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-06-27",
+      "title": "Would book again in a heartbeat",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Queen's Staircase and Swimming pigs day trip (Exuma, from Nassau). Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-14",
+      "author": "Isabella Rossi",
+      "country": "India",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-10-30",
+      "title": "Five stars, will return",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Fort Charlotte guided tour and Nassau Straw Market shopping (guided). Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-15",
+      "author": "Mia Rossi",
+      "country": "United States",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-03-25",
+      "title": "Adventure of a lifetime",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Atlantis Paradise Island Aquaventure Water Park and Cable Beach. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-16",
+      "author": "Noah Garcia",
+      "country": "South Africa",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-12-29",
+      "title": "Smooth from start to finish",
+      "body": "Our trip to Nassau was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Junkanoo Beach was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-17",
+      "author": "Ethan Nguyen",
+      "country": "Spain",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-06-11",
+      "title": "Exceeded our expectations",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Arawak Cay (\"Fish Fry\") and Woodes Rogers Walk. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-18",
+      "author": "Marco Andersen",
+      "country": "India",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-01-31",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Fort Charlotte guided tour and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-nassau-14-19",
+      "author": "Arjun Dubois",
+      "country": "UAE",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-04-04",
+      "title": "Unforgettable trip!",
+      "body": "Booked this as a family of 4 trip and it was well paced. Swimming pigs day trip (Exuma, from Nassau) in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-nassau-14-20",
+      "author": "Fatima Botha",
+      "country": "Italy",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-27",
+      "title": "A little rushed but still wonderful",
+      "body": "Woodes Rogers Walk alone was worth the trip, but combined with Arawak Cay (\"Fish Fry\") this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.4,
+    "transportation": 4.4,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Nassau Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 21,
+      "neighborhood": "Bay Street shops"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Nassau Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 38,
+      "neighborhood": "Nassau Straw Market"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Nassau Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 74,
+      "neighborhood": "Marina Village at Atlantis"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Nassau Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 95,
+      "neighborhood": "Port Lucaya-style duty-free jewelry stores"
+    },
+    {
+      "tier": "Resort",
+      "name": "Nassau Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 200,
+      "neighborhood": "Prince George Wharf shops"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Nassau Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 315,
+      "neighborhood": "Atlantis Casino"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Nassau Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 375,
+      "neighborhood": "Señor Frog's Nassau"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        205,
+        325
+      ],
+      "estimatedFlightHours": 3.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        227,
+        360
+      ],
+      "estimatedFlightHours": 3.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        582,
+        925
+      ],
+      "estimatedFlightHours": 10.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        598,
+        949
+      ],
+      "estimatedFlightHours": 10.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        628,
+        998
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        667,
+        1060
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        575,
+        914
+      ],
+      "estimatedFlightHours": 10.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        605,
+        961
+      ],
+      "estimatedFlightHours": 10.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        632,
+        1004
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1178,
+        1871
+      ],
+      "estimatedFlightHours": 21.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1028,
+        1632
+      ],
+      "estimatedFlightHours": 18.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        1049,
+        1666
+      ],
+      "estimatedFlightHours": 19,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        960,
+        1524
+      ],
+      "estimatedFlightHours": 17.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        987,
+        1567
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1311,
+        2082
+      ],
+      "estimatedFlightHours": 23.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1210,
+        1922
+      ],
+      "estimatedFlightHours": 22,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1296,
+        2059
+      ],
+      "estimatedFlightHours": 23.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1368,
+        2172
+      ],
+      "estimatedFlightHours": 24.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1173,
+        1863
+      ],
+      "estimatedFlightHours": 21.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1233,
+        1958
+      ],
+      "estimatedFlightHours": 22.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        977,
+        1551
+      ],
+      "estimatedFlightHours": 17.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        932,
+        1481
+      ],
+      "estimatedFlightHours": 16.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        956,
+        1519
+      ],
+      "estimatedFlightHours": 17.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        915,
+        1454
+      ],
+      "estimatedFlightHours": 16.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        990,
+        1573
+      ],
+      "estimatedFlightHours": 17.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        535,
+        849
+      ],
+      "estimatedFlightHours": 9.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Lynden Pindling International Airport (NAS)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        244,
+        387
+      ],
+      "estimatedFlightHours": 3.9,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Atlantis Paradise Island Aquaventure Water Park",
+    "The Dig at Atlantis",
+    "Blue Lagoon Island",
+    "Pirates of Nassau Museum",
+    "Ardastra Gardens and Wildlife Conservation Centre",
+    "Nassau catamaran/snorkel day cruise",
+    "Fort Charlotte guided tour",
+    "Swimming pigs day trip (Exuma, from Nassau)",
+    "Graycliff Chocolatier tour and tasting",
+    "Nassau Straw Market shopping (guided)",
+    "John Watling's Distillery tour",
+    "Cable Beach",
+    "Junkanoo Beach",
+    "Queen's Staircase",
+    "Fort Fincastle",
+    "Nassau Straw Market",
+    "Government House grounds",
+    "Bay Street",
+    "Woodes Rogers Walk",
+    "Arawak Cay (\"Fish Fry\")",
+    "Exuma swimming pigs excursion",
+    "Paradise Island",
+    "Rose Island boat trip",
+    "National Art Gallery of the Bahamas",
+    "Clifton Heritage National Park",
+    "Botanical Gardens of Nassau",
+    "Jaws Beach",
+    "Cable Beach turquoise water",
+    "Atlantis Royal Towers bridge",
+    "Junkanoo Beach at sunset",
+    "Fort Fincastle harbor view"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Atlantis Paradise Island Aquaventure Water Park",
+      "priceUSD": 150
+    },
+    {
+      "name": "The Dig at Atlantis",
+      "priceUSD": 40
+    },
+    {
+      "name": "Blue Lagoon Island",
+      "priceUSD": 89
+    },
+    {
+      "name": "Pirates of Nassau Museum",
+      "priceUSD": 15
+    },
+    {
+      "name": "Ardastra Gardens and Wildlife Conservation Centre",
+      "priceUSD": 22
+    },
+    {
+      "name": "Nassau catamaran/snorkel day cruise",
+      "priceUSD": 75
+    },
+    {
+      "name": "Fort Charlotte guided tour",
+      "priceUSD": 10
+    },
+    {
+      "name": "Swimming pigs day trip (Exuma, from Nassau)",
+      "priceUSD": 300
+    },
+    {
+      "name": "Graycliff Chocolatier tour and tasting",
+      "priceUSD": 25
+    },
+    {
+      "name": "Nassau Straw Market shopping (guided)",
+      "priceUSD": 0
+    },
+    {
+      "name": "John Watling's Distillery tour",
+      "priceUSD": 15
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Cable Beach",
+    "Junkanoo Beach",
+    "Queen's Staircase",
+    "Fort Fincastle",
+    "Nassau Straw Market",
+    "Government House grounds",
+    "Bay Street",
+    "Woodes Rogers Walk",
+    "Arawak Cay (\"Fish Fry\")"
+  ],
+  "museums": [
+    "Pirates of Nassau Museum",
+    "National Art Gallery of the Bahamas"
+  ],
+  "parks": [
+    "Ardastra Gardens and Wildlife Conservation Centre",
+    "Clifton Heritage National Park",
+    "Botanical Gardens of Nassau"
+  ],
+  "beaches": [
+    "Cable Beach",
+    "Junkanoo Beach",
+    "Jaws Beach"
+  ],
+  "dayTrips": [
+    "Blue Lagoon Island",
+    "Exuma swimming pigs excursion",
+    "Paradise Island",
+    "Rose Island boat trip"
+  ],
+  "fromPriceUSD": 2351,
+  "seo": {
+    "title": "Nassau 14-Day Beach Getaway | Flights, Hotels & Tours Included",
+    "slug": "nassau-14-day-package",
+    "keywords": [
+      "Nassau",
+      "Bahamas",
+      "Nassau, Bahamas",
+      "New Providence",
+      "Nassau tour package",
+      "Nassau vacation package",
+      "Nassau holiday package",
+      "things to do in Nassau",
+      "best time to visit Nassau",
+      "Nassau itinerary",
+      "14 day Nassau itinerary",
+      "Nassau flights and hotels",
+      "Nassau all inclusive package",
+      "cheap Nassau package",
+      "luxury Nassau package"
+    ],
+    "canonicalUrl": "/packages/nassau-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Nassau Package",
+        "url": "/packages/nassau-10-day-package"
+      },
+      {
+        "title": "7-Day Nassau Package",
+        "url": "/packages/nassau-7-day-package"
+      },
+      {
+        "title": "Phuket 14-Day Beach Getaway",
+        "url": "/packages/phuket-14-day-package"
+      },
+      {
+        "title": "Cancun 14-Day Beach Getaway",
+        "url": "/packages/cancun-14-day-package"
+      },
+      {
+        "title": "Punta Cana 14-Day Beach Getaway",
+        "url": "/packages/punta-cana-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Nassau — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nassau"
+      },
+      {
+        "title": "Nassau — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Nassau"
+      }
+    ]
+  }
+}

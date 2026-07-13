@@ -1,0 +1,1603 @@
+{
+  "id": "PKG-montreal-3D",
+  "slug": "montreal-3-day-package",
+  "destinationSlug": "montreal",
+  "destinationName": "Montreal",
+  "country": "Canada",
+  "region": "Quebec",
+  "durationDays": 3,
+  "durationNights": 2,
+  "title": "Montreal 3-Day City Break",
+  "metaTitle": "Montreal 3-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 3-day trip to Montreal, Canada: round-trip flights, hotel, breakfast, transfers, and guided tours including Notre-Dame Basilica of Montreal and Montreal Biodome. Prices from $539 per person (estimate).",
+  "highlights": [
+    "Notre-Dame Basilica of Montreal",
+    "Montreal Biodome",
+    "Old Montreal (Vieux-Montréal) streets",
+    "Quebec City"
+  ],
+  "overview": "Spend 3 days discovering Montreal, Canada — Humid continental climate with cold, snowy winters (highs often below 0°C, Dec-Feb) and warm, humid summers (highs around 26-27°C, Jun-Aug). June to September brings warm days, packed festival calendars and lively terrasses; February-March suits winter and Igloofest lovers who dress for the cold. This itinerary blends Notre-Dame Basilica of Montreal, Montreal Biodome, Old Montreal (Vieux-Montréal) streets with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "2 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Notre-Dame Basilica of Montreal, Montreal Biodome, Old Montreal (Vieux-Montréal) streets",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Montreal",
+      "description": "Land at Montréal-Trudeau International Airport (YUL) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Notre-Dame Basilica of Montreal — Gothic Revival basilica with a dazzling blue-and-gold interior. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Notre-Dame Basilica of Montreal"
+      ],
+      "overnight": "Montreal"
+    },
+    {
+      "day": 2,
+      "title": "Montreal: Montreal Biodome & Montreal Botanical Garden",
+      "description": "Morning visit to Montreal Biodome — Indoor ecosystems recreating four distinct environments. In the afternoon, continue to Montreal Botanical Garden — One of the world's great botanical gardens including a Chinese and Japanese garden. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Montreal Biodome",
+        "Montreal Botanical Garden"
+      ],
+      "overnight": "Montreal"
+    },
+    {
+      "day": 3,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Old Port of Montreal attractions or some souvenir shopping — before your private transfer to YUL for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Try smoked meat at Schwartz's or poutine at La Banquise — both are genuine local institutions, not tourist traps.",
+    "Book Jazz Fest or Just for Laughs accommodations early — downtown hotels fill up fast in summer.",
+    "The Underground City is a great way to avoid winter cold while still reaching shops, the Metro and Bell Centre.",
+    "Bixi bike-share is a cheap, fun way to cover the Plateau and Old Montreal in summer.",
+    "Most service staff switch fluently to English if greeted first in French — it's a courtesy, not a requirement.",
+    "With a short stay, book your must-see attractions in advance to avoid losing time to queues."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "A heavy winter coat and insulated boots if visiting December-March",
+    "Comfortable shoes for cobblestone streets in Old Montreal",
+    "Light layers for humid summer days",
+    "A few basic French phrases go a long way with locals"
+  ],
+  "thingsToDo": [
+    "Notre-Dame Basilica of Montreal",
+    "Montreal Biodome",
+    "Montreal Botanical Garden",
+    "Old Port of Montreal attractions",
+    "Musée des beaux-arts de Montréal (MMFA)",
+    "Pointe-à-Callière Museum",
+    "Mount Royal lookout and Chalet",
+    "Montreal Science Centre",
+    "Insectarium de Montréal",
+    "Rio Tinto Alcan Planetarium",
+    "La Ronde amusement park",
+    "Old Montreal (Vieux-Montréal) streets",
+    "Mount Royal Park",
+    "Rue Saint-Paul",
+    "Jean-Talon Market",
+    "Plateau Mont-Royal streets",
+    "Notre-Dame Basilica exterior",
+    "La Fontaine Park",
+    "Underground City (RÉSO)",
+    "Lachine Canal bike path"
+  ],
+  "thingsToAvoid": [
+    "Underestimating deep winter cold — wind chill regularly pushes temperatures well below what the forecast shows.",
+    "Assuming everything is bilingual — some smaller Francophone establishments operate mostly in French.",
+    "Driving in Old Montreal — narrow one-way cobblestone streets and limited parking make walking easier.",
+    "Skipping reservations at Joe Beef or Toqué! — both book out weeks ahead.",
+    "Missing the last Metro (around 1am) and getting stranded without a rideshare plan."
+  ],
+  "topRestaurants": [
+    "Schwartz's Deli — Montreal Smoked Meat ($)",
+    "Au Pied de Cochon — Quebecois Comfort Food ($$$)",
+    "Joe Beef — Modern Quebecois ($$$$)",
+    "La Banquise — Poutine ($)",
+    "Toqué! — Haute Quebecois ($$$$)",
+    "Beauty's Luncheonette — Classic Diner/Bagels ($)",
+    "St-Viateur Bagel — Montreal-Style Bagels ($)",
+    "Le Vin Papillon — Wine Bar/Small Plates ($$$)",
+    "Olive et Gourmando — Cafe/Bakery ($$)"
+  ],
+  "topCafes": [
+    "Cafe Myriade",
+    "Dispatch Coffee",
+    "Tommy Cafe",
+    "Cafe Olimpico",
+    "Pikolo Espresso Bar",
+    "Crew Collective & Cafe"
+  ],
+  "shoppingAreas": [
+    "Rue Sainte-Catherine",
+    "Underground City (RÉSO) malls",
+    "Jean-Talon Market",
+    "Rue Saint-Paul boutiques",
+    "Marché Bonsecours"
+  ],
+  "nightlife": [
+    "Rue Crescent bars",
+    "Saint-Laurent Boulevard (\"The Main\")",
+    "Old Montreal cocktail lounges",
+    "Igloofest outdoor winter parties",
+    "Quartier des Spectacles"
+  ],
+  "instagramSpots": [
+    "Mount Royal Chalet skyline view",
+    "Notre-Dame Basilica interior",
+    "Plateau Mont-Royal spiral staircases",
+    "Old Port waterfront with La Grande Roue",
+    "Rue Saint-Paul cobblestones"
+  ],
+  "hiddenGems": [
+    "Marché Bonsecours dome hall",
+    "Habitat 67 exterior viewing",
+    "Parc Jean-Drapeau trails",
+    "Atwater Market",
+    "Ruelles vertes (green laneways) of the Plateau"
+  ],
+  "familyActivities": [
+    "Montreal Biodome",
+    "La Ronde amusement park",
+    "Montreal Science Centre",
+    "Montreal Botanical Garden and Insectarium",
+    "Old Port Ferris wheel and zipline"
+  ],
+  "adventureActivities": [
+    "Ziplining over the Old Port",
+    "Cycling the Lachine Canal path",
+    "Kayaking the Lachine Rapids",
+    "Ice skating on Mount Royal's Beaver Lake in winter"
+  ],
+  "luxuryExperiences": [
+    "Tasting menu at Toqué!",
+    "Private Old Montreal horse-drawn carriage ride",
+    "Suite stay at Hôtel Le St-James",
+    "Private wine cellar dinner in Old Montreal"
+  ],
+  "honeymoonExperiences": [
+    "Sunset picnic on Mount Royal",
+    "Romantic dinner at Le Vin Papillon",
+    "Horse-drawn calèche ride through Old Montreal",
+    "Winter ice-skating date at Beaver Lake"
+  ],
+  "budgetExperiences": [
+    "Free skyline view from the Mount Royal Chalet",
+    "Smoked meat sandwich at Schwartz's for a few dollars",
+    "Wander Old Montreal and Rue Saint-Paul",
+    "Free summer outdoor concerts in the Quartier des Spectacles"
+  ],
+  "estimatedDailyBudgetUSD": [
+    75,
+    165,
+    300,
+    550
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 4,
+  "walkingScore": 79,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": -4,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": -3,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 3,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 11,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 19,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Jun",
+      "highC": 24,
+      "crowd": "High"
+    },
+    {
+      "month": "Jul",
+      "highC": 26,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 13,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 6,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": -1,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Montreal International Jazz Festival",
+      "timing": "Late June to early July"
+    },
+    {
+      "name": "Just for Laughs Comedy Festival",
+      "timing": "Mid-to-late July"
+    },
+    {
+      "name": "Igloofest",
+      "timing": "January, outdoor winter electronic music festival"
+    },
+    {
+      "name": "Osheaga Music and Arts Festival",
+      "timing": "Late July to early August"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911"
+  },
+  "localEtiquette": [
+    "Starting conversations with \"Bonjour\" (or \"Bonjour/Hi\") is appreciated even if the rest continues in English.",
+    "Tipping 15-18% at restaurants and bars is standard, similar to the rest of Canada.",
+    "Quebec French has its own vocabulary and accent distinct from France — locals appreciate visitors attempting French phrases.",
+    "Terrasse (patio) culture is central to summer social life — expect lively outdoor dining until late.",
+    "Winter requires genuine cold-weather etiquette: stamping snow off boots indoors, dressing warmly for outdoor waits."
+  ],
+  "localTransportGuide": "The STM Metro is efficient, colorful and covers the island well, complemented by an extensive bus network and the BIXI bike-share in warmer months. The Underground City (RÉSO) lets you walk between many downtown buildings, shops and Metro stations without going outside — handy in winter.",
+  "bestTimeToVisit": "June to September brings warm days, packed festival calendars and lively terrasses; February-March suits winter and Igloofest lovers who dress for the cold.",
+  "weather": "Humid continental climate with cold, snowy winters (highs often below 0°C, Dec-Feb) and warm, humid summers (highs around 26-27°C, Jun-Aug).",
+  "visaInformation": "Visa-exempt eTA (Electronic Travel Authorization) for UK, EU, Australian and other eligible passport holders arriving by air for short stays. Indian nationals and most other nationalities require a Canadian visitor visa (TRV) arranged in advance.",
+  "currency": "CAD",
+  "languages": [
+    "French",
+    "English"
+  ],
+  "timeZone": "EST (UTC-5)",
+  "averageFlightTime": "~13.5h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Montréal-Trudeau International Airport (YUL)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Montreal?",
+      "answer": "Visa-exempt eTA (Electronic Travel Authorization) for UK, EU, Australian and other eligible passport holders arriving by air for short stays. Indian nationals and most other nationalities require a Canadian visitor visa (TRV) arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Montreal?",
+      "answer": "June to September brings warm days, packed festival calendars and lively terrasses; February-March suits winter and Igloofest lovers who dress for the cold. Humid continental climate with cold, snowy winters (highs often below 0°C, Dec-Feb) and warm, humid summers (highs around 26-27°C, Jun-Aug)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Montreal safe for tourists?",
+      "answer": "Montreal is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Montreal?",
+      "answer": "The local currency is CAD. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Culture",
+    "Food",
+    "History",
+    "Nightlife",
+    "Weekend Getaway"
+  ],
+  "aiTags": [
+    "Montreal",
+    "Canada",
+    "Montreal, Canada",
+    "Quebec",
+    "Montreal tour package",
+    "Montreal vacation package",
+    "Montreal holiday package",
+    "things to do in Montreal",
+    "best time to visit Montreal",
+    "Montreal itinerary",
+    "3 day Montreal itinerary",
+    "Montreal flights and hotels",
+    "Montreal all inclusive package",
+    "cheap Montreal package",
+    "luxury Montreal package",
+    "Montreal honeymoon package",
+    "Montreal family vacation",
+    "Montreal solo trip",
+    "Montreal group tour",
+    "Montreal weekend getaway",
+    "Montreal guided tour",
+    "YUL flights",
+    "Montreal travel guide",
+    "book Montreal trip online",
+    "Montreal trip cost",
+    "Montreal packages 3 days",
+    "Montreal city break",
+    "Montreal culture",
+    "Montreal food",
+    "Montreal history",
+    "Montreal nightlife",
+    "Notre-Dame Basilica of Montreal",
+    "Montreal Biodome",
+    "Montreal Botanical Garden",
+    "Old Port of Montreal attractions",
+    "Musée des beaux-arts de Montréal (MMFA)",
+    "Pointe-à-Callière Museum",
+    "Mount Royal lookout and Chalet",
+    "Montreal Science Centre",
+    "Insectarium de Montréal",
+    "Rio Tinto Alcan Planetarium",
+    "La Ronde amusement park",
+    "Old Montreal (Vieux-Montréal) streets",
+    "Mount Royal Park",
+    "Rue Saint-Paul",
+    "Jean-Talon Market",
+    "Plateau Mont-Royal streets",
+    "Notre-Dame Basilica exterior",
+    "La Fontaine Park",
+    "Underground City (RÉSO)"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Montreal, Canada — Mount Royal skyline view",
+      "keywords": [
+        "Montreal",
+        "Canada",
+        "Mount Royal skyline view",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Montreal Mount Royal skyline view",
+      "pexelsQuery": "Montreal Mount Royal skyline view",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Montreal, Canada — Mount Royal skyline view",
+      "keywords": [
+        "Montreal",
+        "Canada",
+        "Mount Royal skyline view",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Montreal Mount Royal skyline view",
+      "pexelsQuery": "Montreal Mount Royal skyline view",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Montreal, Canada — Notre-Dame Basilica interior",
+      "keywords": [
+        "Montreal",
+        "Canada",
+        "Notre-Dame Basilica interior",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Montreal Notre-Dame Basilica interior",
+      "pexelsQuery": "Montreal Notre-Dame Basilica interior",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Montreal, Canada — Old Montreal cobblestone streets",
+      "keywords": [
+        "Montreal",
+        "Canada",
+        "Old Montreal cobblestone streets",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Montreal Old Montreal cobblestone streets",
+      "pexelsQuery": "Montreal Old Montreal cobblestone streets",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Montreal, Canada — Mount Royal skyline view",
+      "keywords": [
+        "Montreal",
+        "Canada",
+        "Mount Royal skyline view",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Montreal Mount Royal skyline view",
+      "pexelsQuery": "Montreal Mount Royal skyline view",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Montreal, Canada — Notre-Dame Basilica interior",
+      "keywords": [
+        "Montreal",
+        "Canada",
+        "Notre-Dame Basilica interior",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Montreal Notre-Dame Basilica interior",
+      "pexelsQuery": "Montreal Notre-Dame Basilica interior",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Montreal, Canada — Old Montreal cobblestone streets",
+      "keywords": [
+        "Montreal",
+        "Canada",
+        "Old Montreal cobblestone streets",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Montreal Old Montreal cobblestone streets",
+      "pexelsQuery": "Montreal Old Montreal cobblestone streets",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Montreal, Canada — Plateau spiral staircases",
+      "keywords": [
+        "Montreal",
+        "Canada",
+        "Plateau spiral staircases",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Montreal Plateau spiral staircases",
+      "pexelsQuery": "Montreal Plateau spiral staircases",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Montreal, Canada — Notre-Dame Basilica of Montreal",
+      "keywords": [
+        "Montreal",
+        "Canada",
+        "Notre-Dame Basilica of Montreal",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Montreal Notre-Dame Basilica of Montreal",
+      "pexelsQuery": "Montreal Notre-Dame Basilica of Montreal",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Montreal, Canada — Montreal Biodome",
+      "keywords": [
+        "Montreal",
+        "Canada",
+        "Montreal Biodome",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Montreal Montreal Biodome",
+      "pexelsQuery": "Montreal Montreal Biodome",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Montreal, Canada — Montreal Botanical Garden",
+      "keywords": [
+        "Montreal",
+        "Canada",
+        "Montreal Botanical Garden",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Montreal Montreal Botanical Garden",
+      "pexelsQuery": "Montreal Montreal Botanical Garden",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Montreal, Canada — Old Port of Montreal attractions",
+      "keywords": [
+        "Montreal",
+        "Canada",
+        "Old Port of Montreal attractions",
+        "City Break",
+        "Culture"
+      ],
+      "unsplashQuery": "Montreal Old Port of Montreal attractions",
+      "pexelsQuery": "Montreal Old Port of Montreal attractions",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-montreal-3-1",
+      "author": "Sarah Williams",
+      "country": "Saudi Arabia",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-06-08",
+      "title": "Consultant made it effortless",
+      "body": "Montreal is stunning and this package covered the essentials well, especially Notre-Dame Basilica exterior. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-2",
+      "author": "Ethan Williams",
+      "country": "UAE",
+      "rating": 4.4,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 5,
+      "date": "2025-10-30",
+      "title": "Luxury without the hassle",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Montreal Science Centre and Old Montreal (Vieux-Montréal) streets. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-3",
+      "author": "Fatima Brown",
+      "country": "India",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-05-10",
+      "title": "Adventure of a lifetime",
+      "body": "Mount Royal lookout and Chalet alone was worth the trip, but combined with Jean-Talon Market this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-4",
+      "author": "Noah Garcia",
+      "country": "India",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-16",
+      "title": "Loved every moment",
+      "body": "Our trip to Montreal was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Mount Royal lookout and Chalet was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-5",
+      "author": "Priya Sharma",
+      "country": "South Africa",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-10-23",
+      "title": "So many hidden gems included",
+      "body": "Booked this as a solo trip and it was well paced. Mount Royal Park in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-6",
+      "author": "Nadia Khan",
+      "country": "Spain",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-01-11",
+      "title": "Loved every moment",
+      "body": "Montreal is stunning and this package covered the essentials well, especially Lachine Canal bike path. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-7",
+      "author": "Noah Brown",
+      "country": "Germany",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-08-11",
+      "title": "Worth every penny",
+      "body": "Our trip to Montreal was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Musée des beaux-arts de Montréal (MMFA) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-8",
+      "author": "Lucas Johnson",
+      "country": "New Zealand",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-04-22",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Rue Saint-Paul and Old Montreal (Vieux-Montréal) streets. Great communication from the consultant before departure too.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-montreal-3-9",
+      "author": "Elena Kowalski",
+      "country": "United States",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-07-14",
+      "title": "Worth every penny",
+      "body": "We added a couple of optional activities beyond Notre-Dame Basilica of Montreal and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-10",
+      "author": "Marco Kowalski",
+      "country": "India",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-02",
+      "title": "Amazing itinerary, zero stress",
+      "body": "We added a couple of optional activities beyond Mount Royal lookout and Chalet and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-11",
+      "author": "Omar Andersen",
+      "country": "New Zealand",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-07-09",
+      "title": "Consultant made it effortless",
+      "body": "We added a couple of optional activities beyond Rue Saint-Paul and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-12",
+      "author": "Fatima Brown",
+      "country": "Switzerland",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-03-11",
+      "title": "Exceeded our expectations",
+      "body": "Plateau Mont-Royal streets alone was worth the trip, but combined with Mount Royal lookout and Chalet this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-13",
+      "author": "Daniel Dubois",
+      "country": "India",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-06-27",
+      "title": "Unforgettable trip!",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Mount Royal lookout and Chalet and Rue Saint-Paul. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-14",
+      "author": "James Johnson",
+      "country": "Italy",
+      "rating": 3.6,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2026-06-02",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Montreal was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Underground City (RÉSO) was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-15",
+      "author": "Lucas Botha",
+      "country": "Brazil",
+      "rating": 4.3,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-16",
+      "title": "Solid mid-range package",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Old Montreal (Vieux-Montréal) streets and Old Montreal (Vieux-Montréal) streets. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-16",
+      "author": "Mohammed Larsen",
+      "country": "South Korea",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-12-13",
+      "title": "Great value for money",
+      "body": "Rio Tinto Alcan Planetarium alone was worth the trip, but combined with Plateau Mont-Royal streets this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-17",
+      "author": "Arjun Botha",
+      "country": "Switzerland",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-03-09",
+      "title": "Great value for money",
+      "body": "Booked this as a solo trip and it was well paced. Plateau Mont-Royal streets in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-18",
+      "author": "Mia Novak",
+      "country": "Singapore",
+      "rating": 4.4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-28",
+      "title": "Worth every penny",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Insectarium de Montréal and Montreal Biodome. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-19",
+      "author": "Daniel Sharma",
+      "country": "Canada",
+      "rating": 4.5,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-01-21",
+      "title": "A little rushed but still wonderful",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Montreal Botanical Garden and Mount Royal Park. Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-montreal-3-20",
+      "author": "Wei Ivanov",
+      "country": "United States",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-05-21",
+      "title": "Five stars, will return",
+      "body": "Booked this as a group trip and it was well paced. Notre-Dame Basilica of Montreal in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.3,
+    "food": 4.3,
+    "hotel": 4.3,
+    "transportation": 4.2,
+    "activities": 4.3,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.3,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Montreal Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 17,
+      "neighborhood": "Rue Sainte-Catherine"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Montreal Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 30,
+      "neighborhood": "Underground City (RÉSO) malls"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Montreal Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 58,
+      "neighborhood": "Jean-Talon Market"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Montreal Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 74,
+      "neighborhood": "Rue Saint-Paul boutiques"
+    },
+    {
+      "tier": "Resort",
+      "name": "Montreal Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 150,
+      "neighborhood": "Marché Bonsecours"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Montreal Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 231,
+      "neighborhood": "Rue Crescent bars"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Montreal Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 275,
+      "neighborhood": "Saint-Laurent Boulevard (\"The Main\")"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        115,
+        182
+      ],
+      "estimatedFlightHours": 1.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        113,
+        180
+      ],
+      "estimatedFlightHours": 1.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        454,
+        721
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        474,
+        753
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        499,
+        792
+      ],
+      "estimatedFlightHours": 8.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        552,
+        876
+      ],
+      "estimatedFlightHours": 9.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        476,
+        756
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        473,
+        752
+      ],
+      "estimatedFlightHours": 8.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        509,
+        809
+      ],
+      "estimatedFlightHours": 8.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1234,
+        1960
+      ],
+      "estimatedFlightHours": 22.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1116,
+        1773
+      ],
+      "estimatedFlightHours": 20.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        890,
+        1413
+      ],
+      "estimatedFlightHours": 16,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        827,
+        1314
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        839,
+        1332
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        1146,
+        1820
+      ],
+      "estimatedFlightHours": 20.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1045,
+        1659
+      ],
+      "estimatedFlightHours": 18.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1131,
+        1796
+      ],
+      "estimatedFlightHours": 20.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        1207,
+        1917
+      ],
+      "estimatedFlightHours": 21.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        1029,
+        1634
+      ],
+      "estimatedFlightHours": 18.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        1070,
+        1700
+      ],
+      "estimatedFlightHours": 19.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        843,
+        1339
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        810,
+        1287
+      ],
+      "estimatedFlightHours": 14.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        827,
+        1314
+      ],
+      "estimatedFlightHours": 14.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        785,
+        1247
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        1010,
+        1604
+      ],
+      "estimatedFlightHours": 18.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        666,
+        1057
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Montréal-Trudeau International Airport (YUL)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        346,
+        549
+      ],
+      "estimatedFlightHours": 5.8,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Notre-Dame Basilica of Montreal",
+    "Montreal Biodome",
+    "Montreal Botanical Garden",
+    "Old Port of Montreal attractions",
+    "Musée des beaux-arts de Montréal (MMFA)",
+    "Pointe-à-Callière Museum",
+    "Mount Royal lookout and Chalet",
+    "Montreal Science Centre",
+    "Insectarium de Montréal",
+    "Rio Tinto Alcan Planetarium",
+    "La Ronde amusement park",
+    "Old Montreal (Vieux-Montréal) streets",
+    "Mount Royal Park",
+    "Rue Saint-Paul",
+    "Jean-Talon Market",
+    "Plateau Mont-Royal streets",
+    "Notre-Dame Basilica exterior",
+    "La Fontaine Park",
+    "Underground City (RÉSO)",
+    "Lachine Canal bike path",
+    "Quebec City",
+    "Laurentian Mountains (Mont-Tremblant)",
+    "Ottawa",
+    "Eastern Townships wine country",
+    "McCord Stewart Museum",
+    "Parc Jean-Drapeau",
+    "Mount Royal Chalet skyline view",
+    "Notre-Dame Basilica interior",
+    "Plateau Mont-Royal spiral staircases",
+    "Old Port waterfront with La Grande Roue",
+    "Rue Saint-Paul cobblestones"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Notre-Dame Basilica of Montreal",
+      "priceUSD": 12
+    },
+    {
+      "name": "Montreal Biodome",
+      "priceUSD": 24
+    },
+    {
+      "name": "Montreal Botanical Garden",
+      "priceUSD": 22
+    },
+    {
+      "name": "Old Port of Montreal attractions",
+      "priceUSD": 25
+    },
+    {
+      "name": "Musée des beaux-arts de Montréal (MMFA)",
+      "priceUSD": 24
+    },
+    {
+      "name": "Pointe-à-Callière Museum",
+      "priceUSD": 22
+    },
+    {
+      "name": "Mount Royal lookout and Chalet",
+      "priceUSD": 0
+    },
+    {
+      "name": "Montreal Science Centre",
+      "priceUSD": 22
+    },
+    {
+      "name": "Insectarium de Montréal",
+      "priceUSD": 22
+    },
+    {
+      "name": "Rio Tinto Alcan Planetarium",
+      "priceUSD": 22
+    },
+    {
+      "name": "La Ronde amusement park",
+      "priceUSD": 55
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Old Montreal (Vieux-Montréal) streets",
+    "Mount Royal Park",
+    "Rue Saint-Paul",
+    "Jean-Talon Market",
+    "Plateau Mont-Royal streets",
+    "Notre-Dame Basilica exterior",
+    "La Fontaine Park",
+    "Underground City (RÉSO)",
+    "Lachine Canal bike path"
+  ],
+  "museums": [
+    "Musée des beaux-arts de Montréal (MMFA)",
+    "Pointe-à-Callière Museum",
+    "Montreal Science Centre",
+    "McCord Stewart Museum"
+  ],
+  "parks": [
+    "Mount Royal Park",
+    "La Fontaine Park",
+    "Montreal Botanical Garden",
+    "Parc Jean-Drapeau"
+  ],
+  "beaches": [],
+  "dayTrips": [
+    "Quebec City",
+    "Laurentian Mountains (Mont-Tremblant)",
+    "Ottawa",
+    "Eastern Townships wine country"
+  ],
+  "fromPriceUSD": 539,
+  "seo": {
+    "title": "Montreal 3-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "montreal-3-day-package",
+    "keywords": [
+      "Montreal",
+      "Canada",
+      "Montreal, Canada",
+      "Quebec",
+      "Montreal tour package",
+      "Montreal vacation package",
+      "Montreal holiday package",
+      "things to do in Montreal",
+      "best time to visit Montreal",
+      "Montreal itinerary",
+      "3 day Montreal itinerary",
+      "Montreal flights and hotels",
+      "Montreal all inclusive package",
+      "cheap Montreal package",
+      "luxury Montreal package"
+    ],
+    "canonicalUrl": "/packages/montreal-3-day-package",
+    "internalLinks": [
+      {
+        "title": "2-Day Montreal Package",
+        "url": "/packages/montreal-2-day-package"
+      },
+      {
+        "title": "5-Day Montreal Package",
+        "url": "/packages/montreal-5-day-package"
+      },
+      {
+        "title": "London 3-Day City Break",
+        "url": "/packages/london-3-day-package"
+      },
+      {
+        "title": "Lisbon 3-Day City Break",
+        "url": "/packages/lisbon-3-day-package"
+      },
+      {
+        "title": "Seoul 3-Day City Break",
+        "url": "/packages/seoul-3-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Montreal — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Montreal"
+      },
+      {
+        "title": "Montreal — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Montreal"
+      }
+    ]
+  }
+}

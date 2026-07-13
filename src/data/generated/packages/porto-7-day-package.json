@@ -1,0 +1,1590 @@
+{
+  "id": "PKG-porto-7D",
+  "slug": "porto-7-day-package",
+  "destinationSlug": "porto",
+  "destinationName": "Porto",
+  "country": "Portugal",
+  "region": "Southern Europe",
+  "durationDays": 7,
+  "durationNights": 6,
+  "title": "Porto 7-Day City Break",
+  "metaTitle": "Porto 7-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 7-day trip to Porto, Portugal: round-trip flights, hotel, breakfast, transfers, and guided tours including Livraria Lello and Port wine cellar tour, Vila Nova de Gaia. Prices from $1228 per person (estimate).",
+  "highlights": [
+    "Livraria Lello",
+    "Port wine cellar tour, Vila Nova de Gaia",
+    "Ribeira district",
+    "Douro Valley vineyards"
+  ],
+  "overview": "Spend 7 days discovering Porto, Portugal — Mild Atlantic climate — warm, mostly dry summers (highs around 25°C), cool, rainy winters (highs around 14°C). May to September for warm, dry weather; September-October also brings the grape harvest in the Douro Valley. This itinerary blends Livraria Lello, Port wine cellar tour, Vila Nova de Gaia, Ribeira district with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "6 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Livraria Lello, Port wine cellar tour, Vila Nova de Gaia, Ribeira district",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Porto",
+      "description": "Land at Francisco Sá Carneiro Airport (OPO) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Livraria Lello — Ornate neo-Gothic bookshop said to have inspired Harry Potter aesthetics. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Livraria Lello"
+      ],
+      "overnight": "Porto"
+    },
+    {
+      "day": 2,
+      "title": "Porto: Port wine cellar tour, Vila Nova de Gaia & Torre dos Clérigos",
+      "description": "Morning visit to Port wine cellar tour, Vila Nova de Gaia — Guided tasting tour at a historic port wine lodge. In the afternoon, continue to Torre dos Clérigos — Baroque bell tower with panoramic city views. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Port wine cellar tour, Vila Nova de Gaia",
+        "Torre dos Clérigos"
+      ],
+      "overnight": "Porto"
+    },
+    {
+      "day": 3,
+      "title": "Porto: Palácio da Bolsa & Douro Valley wine region day trip",
+      "description": "Morning visit to Palácio da Bolsa — Lavish 19th-century stock exchange palace, including the Arabian Hall. In the afternoon, continue to Douro Valley wine region day trip — Boat or train excursion through terraced vineyard hills. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Palácio da Bolsa",
+        "Douro Valley wine region day trip"
+      ],
+      "overnight": "Porto"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Douro Valley vineyards",
+      "description": "Full-day excursion to Douro Valley vineyards, a popular side trip from Porto. Return to Porto in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Douro Valley vineyards",
+        "Free evening"
+      ],
+      "overnight": "Porto"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include São Bento railway station azulejo murals — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "São Bento railway station azulejo murals"
+      ],
+      "overnight": "Porto"
+    },
+    {
+      "day": 6,
+      "title": "Porto: Six Bridges river cruise & Ribeira district",
+      "description": "Morning visit to Six Bridges river cruise — Boat tour of Porto's six Douro River bridges. In the afternoon, continue to Ribeira district — UNESCO-listed riverside old town of colorful, stacked houses. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Six Bridges river cruise",
+        "Ribeira district"
+      ],
+      "overnight": "Porto"
+    },
+    {
+      "day": 7,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Dom Luís I Bridge or some souvenir shopping — before your private transfer to OPO for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "Book Livraria Lello tickets online in advance to skip the entry queue.",
+    "Try a francesinha (Porto's iconic sandwich) at a local favorite like Cervejaria Gazela, not just tourist spots.",
+    "A Douro Valley day trip by train is cheaper and just as scenic as an organized tour.",
+    "Cross the Dom Luís I Bridge on the upper deck for the best photos of the Ribeira.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Swimwear and reef-safe sunscreen",
+    "Comfortable shoes for steep, cobbled hills",
+    "A light rain jacket, even in summer",
+    "A warmer layer for cool evenings by the river"
+  ],
+  "thingsToDo": [
+    "Livraria Lello",
+    "Port wine cellar tour, Vila Nova de Gaia",
+    "Torre dos Clérigos",
+    "Palácio da Bolsa",
+    "Douro Valley wine region day trip",
+    "Six Bridges river cruise",
+    "Ribeira district",
+    "Dom Luís I Bridge",
+    "Porto Cathedral (Sé)",
+    "Miradouro da Vitória",
+    "Mercado do Bolhão",
+    "Douro Valley kayaking",
+    "Surfing at Matosinhos Beach",
+    "Cycling the Foz do Douro coastal path",
+    "Sea Life Porto aquarium",
+    "World of Discoveries interactive museum"
+  ],
+  "thingsToAvoid": [
+    "Wearing flip-flops or heels on Ribeira's steep, uneven cobblestones.",
+    "Skipping reservations at popular restaurants like DOP or Cantinho do Avillez.",
+    "Assuming all port wine cellars are the same — tour quality and pricing vary widely between lodges."
+  ],
+  "topRestaurants": [
+    "Cantinho do Avillez — Modern Portuguese ($$$)",
+    "Cervejaria Gazela — Francesinha sandwich specialist ($)",
+    "Taberna Santo António — Traditional Portuguese ($$)",
+    "DOP — Contemporary Portuguese fine dining ($$$$)",
+    "Casa Guedes — Roast pork sandwiches ($)"
+  ],
+  "topCafes": [
+    "Majestic Café",
+    "Combi Coffee",
+    "Fábrica Coffee Roasters"
+  ],
+  "shoppingAreas": [
+    "Rua de Santa Catarina",
+    "Mercado do Bolhão",
+    "Rua das Flores boutiques"
+  ],
+  "nightlife": [
+    "Ribeira riverside bars",
+    "Galerias de Paris bar street",
+    "Port wine tasting rooms in Vila Nova de Gaia"
+  ],
+  "instagramSpots": [
+    "Ribeira colorful houses from across the river",
+    "Dom Luís I Bridge at sunset",
+    "Livraria Lello staircase",
+    "Azulejo tiles at São Bento Station"
+  ],
+  "hiddenGems": [
+    "São Bento railway station azulejo murals",
+    "Jardins do Palácio de Cristal",
+    "Foz do Douro beachfront"
+  ],
+  "familyActivities": [
+    "Sea Life Porto aquarium",
+    "World of Discoveries interactive museum",
+    "Six Bridges river cruise"
+  ],
+  "adventureActivities": [
+    "Douro Valley kayaking",
+    "Surfing at Matosinhos Beach",
+    "Cycling the Foz do Douro coastal path"
+  ],
+  "luxuryExperiences": [
+    "Private Douro Valley wine estate tour with lunch",
+    "Suite stay at a historic Ribeira palace hotel",
+    "Private sunset river cruise with port tasting"
+  ],
+  "honeymoonExperiences": [
+    "Sunset at Miradouro da Vitória",
+    "Private port wine tasting for two in Vila Nova de Gaia",
+    "Douro Valley overnight vineyard escape"
+  ],
+  "budgetExperiences": [
+    "Free wander through Ribeira and across Dom Luís I Bridge",
+    "São Bento Station azulejo tiles (free)",
+    "Casa Guedes budget sandwich lunch"
+  ],
+  "estimatedDailyBudgetUSD": [
+    55,
+    105,
+    200,
+    440
+  ],
+  "safetyRating": 4.5,
+  "internetRating": 4.5,
+  "publicTransportRating": 4,
+  "walkingScore": 75,
+  "accessibilityRating": 3,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": 13,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 14,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 17,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 18,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 20,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 23,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 25,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 24,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 20,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 16,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 13,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Festa de São João",
+      "timing": "June 23-24"
+    },
+    {
+      "name": "Porto Wine Fest",
+      "timing": "November"
+    },
+    {
+      "name": "NOS Primavera Sound Porto",
+      "timing": "June"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112"
+  },
+  "localEtiquette": [
+    "Greet with a handshake, or a light cheek kiss between women and mixed pairs among acquaintances.",
+    "Meals are unhurried — rushing a waiter for the bill is considered impolite.",
+    "Dress modestly when visiting churches (covered shoulders and knees)."
+  ],
+  "localTransportGuide": "Central Porto is compact and walkable, though hilly — comfortable shoes matter. The Metro do Porto light rail connects the airport, suburbs, and coast; the historic Linha 22 tram and funicular up from the riverside are fun, practical ways to handle the steep Ribeira slopes.",
+  "bestTimeToVisit": "May to September for warm, dry weather; September-October also brings the grape harvest in the Douro Valley.",
+  "weather": "Mild Atlantic climate — warm, mostly dry summers (highs around 25°C), cool, rainy winters (highs around 14°C).",
+  "visaInformation": "Schengen area — visa-free entry for stays up to 90 days within a 180-day period for US, UK, Canadian, Australian, and EU passport holders. Other nationalities, including India, should check Schengen short-stay visa requirements in advance.",
+  "currency": "EUR",
+  "languages": [
+    "Portuguese"
+  ],
+  "timeZone": "WET (UTC+0)",
+  "averageFlightTime": "~11h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Francisco Sá Carneiro Airport (OPO)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Porto?",
+      "answer": "Schengen area — visa-free entry for stays up to 90 days within a 180-day period for US, UK, Canadian, Australian, and EU passport holders. Other nationalities, including India, should check Schengen short-stay visa requirements in advance."
+    },
+    {
+      "question": "What is the best time to visit Porto?",
+      "answer": "May to September for warm, dry weather; September-October also brings the grape harvest in the Douro Valley. Mild Atlantic climate — warm, mostly dry summers (highs around 25°C), cool, rainy winters (highs around 14°C)."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Porto safe for tourists?",
+      "answer": "Porto is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Porto?",
+      "answer": "The local currency is EUR. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Food",
+    "Culture",
+    "Romantic",
+    "History"
+  ],
+  "aiTags": [
+    "Porto",
+    "Portugal",
+    "Porto, Portugal",
+    "Southern Europe",
+    "Porto tour package",
+    "Porto vacation package",
+    "Porto holiday package",
+    "things to do in Porto",
+    "best time to visit Porto",
+    "Porto itinerary",
+    "7 day Porto itinerary",
+    "Porto flights and hotels",
+    "Porto all inclusive package",
+    "cheap Porto package",
+    "luxury Porto package",
+    "Porto honeymoon package",
+    "Porto family vacation",
+    "Porto solo trip",
+    "Porto group tour",
+    "Porto weekend getaway",
+    "Porto guided tour",
+    "OPO flights",
+    "Porto travel guide",
+    "book Porto trip online",
+    "Porto trip cost",
+    "Porto packages 7 days",
+    "Porto city break",
+    "Porto food",
+    "Porto culture",
+    "Porto romantic",
+    "Porto history",
+    "Livraria Lello",
+    "Port wine cellar tour, Vila Nova de Gaia",
+    "Torre dos Clérigos",
+    "Palácio da Bolsa",
+    "Douro Valley wine region day trip",
+    "Six Bridges river cruise",
+    "Ribeira district",
+    "Dom Luís I Bridge",
+    "Porto Cathedral (Sé)",
+    "Miradouro da Vitória",
+    "Mercado do Bolhão",
+    "Cantinho do Avillez",
+    "Cervejaria Gazela",
+    "Taberna Santo António",
+    "DOP",
+    "Casa Guedes",
+    "Ribeira colorful houses from across the river",
+    "Dom Luís I Bridge at sunset",
+    "Livraria Lello staircase"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Porto, Portugal — Ribeira colorful riverfront",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "Ribeira colorful riverfront",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Porto Ribeira colorful riverfront",
+      "pexelsQuery": "Porto Ribeira colorful riverfront",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Porto, Portugal — Ribeira colorful riverfront",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "Ribeira colorful riverfront",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Porto Ribeira colorful riverfront",
+      "pexelsQuery": "Porto Ribeira colorful riverfront",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Porto, Portugal — Dom Luís I Bridge sunset",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "Dom Luís I Bridge sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Porto Dom Luís I Bridge sunset",
+      "pexelsQuery": "Porto Dom Luís I Bridge sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Porto, Portugal — Port wine cellars Vila Nova de Gaia",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "Port wine cellars Vila Nova de Gaia",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Porto Port wine cellars Vila Nova de Gaia",
+      "pexelsQuery": "Porto Port wine cellars Vila Nova de Gaia",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Porto, Portugal — Ribeira colorful riverfront",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "Ribeira colorful riverfront",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Porto Ribeira colorful riverfront",
+      "pexelsQuery": "Porto Ribeira colorful riverfront",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Porto, Portugal — Dom Luís I Bridge sunset",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "Dom Luís I Bridge sunset",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Porto Dom Luís I Bridge sunset",
+      "pexelsQuery": "Porto Dom Luís I Bridge sunset",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Porto, Portugal — Port wine cellars Vila Nova de Gaia",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "Port wine cellars Vila Nova de Gaia",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Porto Port wine cellars Vila Nova de Gaia",
+      "pexelsQuery": "Porto Port wine cellars Vila Nova de Gaia",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Porto, Portugal — Douro Valley vineyards",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "Douro Valley vineyards",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Porto Douro Valley vineyards",
+      "pexelsQuery": "Porto Douro Valley vineyards",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Porto, Portugal — Livraria Lello",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "Livraria Lello",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Porto Livraria Lello",
+      "pexelsQuery": "Porto Livraria Lello",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Porto, Portugal — Port wine cellar tour, Vila Nova de Gaia",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "Port wine cellar tour, Vila Nova de Gaia",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Porto Port wine cellar tour, Vila Nova de Gaia",
+      "pexelsQuery": "Porto Port wine cellar tour, Vila Nova de Gaia",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Porto, Portugal — Torre dos Clérigos",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "Torre dos Clérigos",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Porto Torre dos Clérigos",
+      "pexelsQuery": "Porto Torre dos Clérigos",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Porto, Portugal — Palácio da Bolsa",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "Palácio da Bolsa",
+        "City Break",
+        "Food"
+      ],
+      "unsplashQuery": "Porto Palácio da Bolsa",
+      "pexelsQuery": "Porto Palácio da Bolsa",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-porto-7-1",
+      "author": "Daniel Santos",
+      "country": "Japan",
+      "rating": 4.5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-05-29",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Ribeira district and Livraria Lello. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-porto-7-2",
+      "author": "Sarah Fernandez",
+      "country": "France",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-29",
+      "title": "Worth every penny",
+      "body": "Porto is stunning and this package covered the essentials well, especially Torre dos Clérigos. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-porto-7-3",
+      "author": "Lucas Novak",
+      "country": "Australia",
+      "rating": 4.3,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-08-17",
+      "title": "Loved every moment",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Port wine cellar tour, Vila Nova de Gaia and Porto Cathedral (Sé). Great communication from the consultant before departure too.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-porto-7-4",
+      "author": "Arjun Patel",
+      "country": "Canada",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-11-21",
+      "title": "Beautiful destination, well organized",
+      "body": "Booked this as a group trip and it was well paced. Port wine cellar tour, Vila Nova de Gaia in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-porto-7-5",
+      "author": "Lukas Ivanov",
+      "country": "Australia",
+      "rating": 4.6,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-03-03",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Porto is stunning and this package covered the essentials well, especially Port wine cellar tour, Vila Nova de Gaia. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-porto-7-6",
+      "author": "Yuki Ivanov",
+      "country": "Italy",
+      "rating": 4,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-04",
+      "title": "A little rushed but still wonderful",
+      "body": "Mercado do Bolhão alone was worth the trip, but combined with Dom Luís I Bridge this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-porto-7-7",
+      "author": "David Garcia",
+      "country": "Germany",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-07-03",
+      "title": "Luxury without the hassle",
+      "body": "Porto is stunning and this package covered the essentials well, especially Torre dos Clérigos. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-porto-7-8",
+      "author": "Nadia Rossi",
+      "country": "Saudi Arabia",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-10-18",
+      "title": "Highly recommend this package",
+      "body": "Porto is stunning and this package covered the essentials well, especially Porto Cathedral (Sé). The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-porto-7-9",
+      "author": "Fatima Larsen",
+      "country": "Spain",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-02-17",
+      "title": "Highly recommend this package",
+      "body": "Mercado do Bolhão alone was worth the trip, but combined with Six Bridges river cruise this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-porto-7-10",
+      "author": "Elena Tanaka",
+      "country": "South Korea",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-12-26",
+      "title": "A little rushed but still wonderful",
+      "body": "We added a couple of optional activities beyond Six Bridges river cruise and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-porto-7-11",
+      "author": "Wei Tanaka",
+      "country": "Canada",
+      "rating": 4.1,
+      "foodRating": 4,
+      "hotelRating": 3.5,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-04-14",
+      "title": "Best vacation we've had",
+      "body": "Booked this as a family of 4 trip and it was well paced. Port wine cellar tour, Vila Nova de Gaia in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-porto-7-12",
+      "author": "Priya Johnson",
+      "country": "Canada",
+      "rating": 4.2,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2025-01-16",
+      "title": "Highly recommend this package",
+      "body": "Booked this as a group trip and it was well paced. Port wine cellar tour, Vila Nova de Gaia in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-porto-7-13",
+      "author": "Wei Fernandez",
+      "country": "Mexico",
+      "rating": 4.1,
+      "foodRating": 4.5,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4.5,
+      "date": "2026-04-21",
+      "title": "Five stars, will return",
+      "body": "Booked this as a solo trip and it was well paced. Miradouro da Vitória in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-porto-7-14",
+      "author": "Ethan Nguyen",
+      "country": "Mexico",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-02-23",
+      "title": "Perfect for our honeymoon",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Miradouro da Vitória and Torre dos Clérigos. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-porto-7-15",
+      "author": "Tom Khan",
+      "country": "Switzerland",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-06-13",
+      "title": "Smooth from start to finish",
+      "body": "We added a couple of optional activities beyond Porto Cathedral (Sé) and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-porto-7-16",
+      "author": "Sarah Garcia",
+      "country": "Italy",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-04-08",
+      "title": "Loved every moment",
+      "body": "Porto is stunning and this package covered the essentials well, especially Mercado do Bolhão. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-porto-7-17",
+      "author": "Ethan Rossi",
+      "country": "Japan",
+      "rating": 4.4,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2025-03-16",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Six Bridges river cruise and Six Bridges river cruise. Great communication from the consultant before departure too.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-porto-7-18",
+      "author": "Ava Fernandez",
+      "country": "India",
+      "rating": 3.9,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 3.5,
+      "date": "2026-05-26",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Palácio da Bolsa alone was worth the trip, but combined with Dom Luís I Bridge this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-porto-7-19",
+      "author": "James Khan",
+      "country": "Brazil",
+      "rating": 3.6,
+      "foodRating": 3,
+      "hotelRating": 3.5,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 3.5,
+      "date": "2025-07-13",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Our trip to Porto was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Ribeira district was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-porto-7-20",
+      "author": "David Larsen",
+      "country": "Mexico",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-08-31",
+      "title": "Five stars, will return",
+      "body": "Porto is stunning and this package covered the essentials well, especially Miradouro da Vitória. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.4,
+    "hotel": 4.4,
+    "transportation": 4.3,
+    "activities": 4.4,
+    "value": 4.4,
+    "cleanliness": 4.4,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Porto Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 12,
+      "neighborhood": "Rua de Santa Catarina"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Porto Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 22,
+      "neighborhood": "Mercado do Bolhão"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Porto Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 37,
+      "neighborhood": "Rua das Flores boutiques"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Porto Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 47,
+      "neighborhood": "Ribeira riverside bars"
+    },
+    {
+      "tier": "Resort",
+      "name": "Porto Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 100,
+      "neighborhood": "Galerias de Paris bar street"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Porto Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 185,
+      "neighborhood": "Port wine tasting rooms in Vila Nova de Gaia"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Porto Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 220,
+      "neighborhood": "Majestic Café"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        463,
+        736
+      ],
+      "estimatedFlightHours": 8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        484,
+        768
+      ],
+      "estimatedFlightHours": 8.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        172,
+        273
+      ],
+      "estimatedFlightHours": 2.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        164,
+        261
+      ],
+      "estimatedFlightHours": 2.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        197,
+        313
+      ],
+      "estimatedFlightHours": 3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        203,
+        323
+      ],
+      "estimatedFlightHours": 3.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        107,
+        170
+      ],
+      "estimatedFlightHours": 1.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        193,
+        306
+      ],
+      "estimatedFlightHours": 2.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        187,
+        297
+      ],
+      "estimatedFlightHours": 2.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1382,
+        2195
+      ],
+      "estimatedFlightHours": 25.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1482,
+        2354
+      ],
+      "estimatedFlightHours": 27.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        628,
+        998
+      ],
+      "estimatedFlightHours": 11.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        863,
+        1370
+      ],
+      "estimatedFlightHours": 15.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        811,
+        1288
+      ],
+      "estimatedFlightHours": 14.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        927,
+        1472
+      ],
+      "estimatedFlightHours": 16.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        838,
+        1331
+      ],
+      "estimatedFlightHours": 15,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        904,
+        1436
+      ],
+      "estimatedFlightHours": 16.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        985,
+        1565
+      ],
+      "estimatedFlightHours": 17.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        939,
+        1492
+      ],
+      "estimatedFlightHours": 16.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        888,
+        1411
+      ],
+      "estimatedFlightHours": 16,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        515,
+        818
+      ],
+      "estimatedFlightHours": 9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        465,
+        738
+      ],
+      "estimatedFlightHours": 8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        492,
+        782
+      ],
+      "estimatedFlightHours": 8.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        453,
+        720
+      ],
+      "estimatedFlightHours": 7.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        683,
+        1084
+      ],
+      "estimatedFlightHours": 12.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        668,
+        1061
+      ],
+      "estimatedFlightHours": 11.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Francisco Sá Carneiro Airport (OPO)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        701,
+        1114
+      ],
+      "estimatedFlightHours": 12.4,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Livraria Lello",
+    "Port wine cellar tour, Vila Nova de Gaia",
+    "Torre dos Clérigos",
+    "Palácio da Bolsa",
+    "Douro Valley wine region day trip",
+    "Six Bridges river cruise",
+    "Ribeira district",
+    "Dom Luís I Bridge",
+    "Porto Cathedral (Sé)",
+    "Miradouro da Vitória",
+    "Mercado do Bolhão",
+    "Douro Valley vineyards",
+    "Braga and Bom Jesus do Monte",
+    "Guimarães, the \"birthplace of Portugal\"",
+    "World of Discoveries",
+    "Serralves Museum of Contemporary Art",
+    "Porto Wine Museum",
+    "Jardins do Palácio de Cristal",
+    "Parque da Cidade",
+    "Serralves Park",
+    "Foz do Douro Beach",
+    "Matosinhos Beach",
+    "Ribeira colorful houses from across the river",
+    "Dom Luís I Bridge at sunset",
+    "Livraria Lello staircase",
+    "Azulejo tiles at São Bento Station"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Livraria Lello",
+      "priceUSD": 8
+    },
+    {
+      "name": "Port wine cellar tour, Vila Nova de Gaia",
+      "priceUSD": 20
+    },
+    {
+      "name": "Torre dos Clérigos",
+      "priceUSD": 8
+    },
+    {
+      "name": "Palácio da Bolsa",
+      "priceUSD": 12
+    },
+    {
+      "name": "Douro Valley wine region day trip",
+      "priceUSD": 90
+    },
+    {
+      "name": "Six Bridges river cruise",
+      "priceUSD": 20
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Ribeira district",
+    "Dom Luís I Bridge",
+    "Porto Cathedral (Sé)",
+    "Miradouro da Vitória",
+    "Mercado do Bolhão"
+  ],
+  "museums": [
+    "World of Discoveries",
+    "Serralves Museum of Contemporary Art",
+    "Porto Wine Museum"
+  ],
+  "parks": [
+    "Jardins do Palácio de Cristal",
+    "Parque da Cidade",
+    "Serralves Park"
+  ],
+  "beaches": [
+    "Foz do Douro Beach",
+    "Matosinhos Beach"
+  ],
+  "dayTrips": [
+    "Douro Valley vineyards",
+    "Braga and Bom Jesus do Monte",
+    "Guimarães, the \"birthplace of Portugal\""
+  ],
+  "fromPriceUSD": 1228,
+  "seo": {
+    "title": "Porto 7-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "porto-7-day-package",
+    "keywords": [
+      "Porto",
+      "Portugal",
+      "Porto, Portugal",
+      "Southern Europe",
+      "Porto tour package",
+      "Porto vacation package",
+      "Porto holiday package",
+      "things to do in Porto",
+      "best time to visit Porto",
+      "Porto itinerary",
+      "7 day Porto itinerary",
+      "Porto flights and hotels",
+      "Porto all inclusive package",
+      "cheap Porto package",
+      "luxury Porto package"
+    ],
+    "canonicalUrl": "/packages/porto-7-day-package",
+    "internalLinks": [
+      {
+        "title": "5-Day Porto Package",
+        "url": "/packages/porto-5-day-package"
+      },
+      {
+        "title": "10-Day Porto Package",
+        "url": "/packages/porto-10-day-package"
+      },
+      {
+        "title": "Paris 7-Day City Break",
+        "url": "/packages/paris-7-day-package"
+      },
+      {
+        "title": "Rome 7-Day City Break",
+        "url": "/packages/rome-7-day-package"
+      },
+      {
+        "title": "Florence 7-Day Cultural Tour",
+        "url": "/packages/florence-7-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Porto — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Porto"
+      },
+      {
+        "title": "Porto — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Porto"
+      }
+    ]
+  }
+}

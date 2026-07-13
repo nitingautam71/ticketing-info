@@ -1,0 +1,1744 @@
+{
+  "id": "PKG-oslo-14D",
+  "slug": "oslo-14-day-package",
+  "destinationSlug": "oslo",
+  "destinationName": "Oslo",
+  "country": "Norway",
+  "region": "Oslo",
+  "durationDays": 14,
+  "durationNights": 13,
+  "title": "Oslo 14-Day City Break",
+  "metaTitle": "Oslo 14-Day City Break | Flights, Hotels & Tours Included",
+  "metaDescription": "Book a 14-day trip to Oslo, Norway: round-trip flights, hotel, breakfast, transfers, and guided tours including Fram Museum and Kon-Tiki Museum. Prices from $2855 per person (estimate).",
+  "highlights": [
+    "Fram Museum",
+    "Kon-Tiki Museum",
+    "Vigeland Sculpture Park",
+    "Hiking and skiing at Holmenkollen and Nordmarka forest",
+    "Holmenkollen ski jump and forest"
+  ],
+  "overview": "Spend 14 days discovering Oslo, Norway — Cold, snowy winters (highs around -1°C in January) and mild summers (highs around 22°C in July) with very long summer daylight hours. May to September for hiking, fjord cruises and long daylight; December to February for snow activities and Christmas markets. This itinerary blends Fram Museum, Kon-Tiki Museum, Vigeland Sculpture Park with free time to explore at your own pace, backed by round-trip flights, handpicked accommodation, and a dedicated travel consultant from enquiry through departure.",
+  "included": [
+    "Round-trip economy-class airfare from your selected origin city (upgrade to premium economy or business available)",
+    "13 nights accommodation in your selected category (Budget, Mid-range, Premium, or Luxury)",
+    "Daily breakfast at your hotel",
+    "Private round-trip airport-to-hotel transfers",
+    "Daily local transport as per the itinerary",
+    "Guided tours including Fram Museum, Kon-Tiki Museum, Vigeland Sculpture Park",
+    "All entrance fees for attractions and activities listed in the itinerary",
+    "Applicable taxes and OTA service fee",
+    "Dedicated travel consultant support from booking through departure"
+  ],
+  "notIncluded": [
+    "Visa fees and travel document costs (see Visa Information)",
+    "Travel insurance (strongly recommended, available as an add-on)",
+    "Lunches and dinners except where noted in the itinerary",
+    "Personal expenses, souvenirs, and gratuities",
+    "Optional activities not listed in the day-by-day itinerary",
+    "Airline seat selection and baggage upgrades",
+    "Any fare difference for premium economy or business class upgrades"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Oslo",
+      "description": "Land at Oslo Airport, Gardermoen (OSL) and take your included private transfer to your hotel. After settling in, ease into the trip with a relaxed visit to Fram Museum — The polar exploration ship Fram, tied to Amundsen and Nansen. Round off the evening with a welcome dinner introducing you to local flavors.",
+      "meals": [
+        "Welcome Dinner"
+      ],
+      "activities": [
+        "Airport pickup & hotel check-in",
+        "Fram Museum"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 2,
+      "title": "Oslo: Kon-Tiki Museum & Norwegian Museum of Cultural History",
+      "description": "Morning visit to Kon-Tiki Museum — Thor Heyerdahl's original balsa raft and the Ra II. In the afternoon, continue to Norwegian Museum of Cultural History — Open-air museum of historic Norwegian buildings. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Kon-Tiki Museum",
+        "Norwegian Museum of Cultural History"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 3,
+      "title": "Oslo: Munch Museum & Akershus Fortress & Castle",
+      "description": "Morning visit to Munch Museum — The world's largest collection of Edvard Munch's work, including The Scream. In the afternoon, continue to Akershus Fortress & Castle — Medieval fortress and royal mausoleum on the harbor. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Munch Museum",
+        "Akershus Fortress & Castle"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Holmenkollen ski jump and forest",
+      "description": "Full-day excursion to Holmenkollen ski jump and forest, a popular side trip from Oslo. Return to Oslo in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Holmenkollen ski jump and forest",
+        "Free evening"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 5,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Ekebergparken sculpture park — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Ekebergparken sculpture park"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 6,
+      "title": "Oslo: Holmenkollen Ski Museum & Tower & Norwegian Maritime Museum",
+      "description": "Morning visit to Holmenkollen Ski Museum & Tower — Ski jump tower with museum and zipline. In the afternoon, continue to Norwegian Maritime Museum — Norway's seafaring history and shipbuilding heritage. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Holmenkollen Ski Museum & Tower",
+        "Norwegian Maritime Museum"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Oslofjord island ferries (Hovedøya)",
+      "description": "Full-day excursion to Oslofjord island ferries (Hovedøya), a popular side trip from Oslo. Return to Oslo in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Oslofjord island ferries (Hovedøya)",
+        "Free evening"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 8,
+      "title": "Oslo: The Royal Palace guided tour & TusenFryd amusement park",
+      "description": "Morning visit to The Royal Palace guided tour — Norway's royal residence, open for summer guided tours. In the afternoon, continue to TusenFryd amusement park — Norway's largest amusement park outside the city. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "The Royal Palace guided tour",
+        "TusenFryd amusement park"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 9,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Damstredet & Telthusbakken lanes — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Damstredet & Telthusbakken lanes"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 10,
+      "title": "Day Trip to Fredrikstad Old Town",
+      "description": "Full-day excursion to Fredrikstad Old Town, a popular side trip from Oslo. Return to Oslo in the evening with time free to explore on your own.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Guided day trip: Fredrikstad Old Town",
+        "Free evening"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 11,
+      "title": "Oslo: Natural History Museum & Botanical Garden greenhouses & Vigeland Sculpture Park",
+      "description": "Morning visit to Natural History Museum & Botanical Garden greenhouses — Historic glasshouses and geology collection. In the afternoon, continue to Vigeland Sculpture Park — Frognerparken's open-air park with 200+ Gustav Vigeland sculptures. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Natural History Museum & Botanical Garden greenhouses",
+        "Vigeland Sculpture Park"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 12,
+      "title": "Oslo: Oslo Opera House roof & Akerselva river walk",
+      "description": "Morning visit to Oslo Opera House roof — Walkable sloped marble roof over the fjord. In the afternoon, continue to Akerselva river walk — Green riverside path through Oslo's old industrial district. Evening free to explore local restaurants and nightlife.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Oslo Opera House roof",
+        "Akerselva river walk"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 13,
+      "title": "Leisure Day & Optional Activities",
+      "description": "A lighter day to recharge, shop, or add an optional experience. Popular choices include Sørenga seawater pool — your consultant can book add-ons like this on request.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Free time / optional add-ons",
+        "Sørenga seawater pool"
+      ],
+      "overnight": "Oslo"
+    },
+    {
+      "day": 14,
+      "title": "Departure Day",
+      "description": "Enjoy a final morning at leisure — perhaps one last visit to Aker Brygge & Tjuvholmen or some souvenir shopping — before your private transfer to OSL for your departure flight.",
+      "meals": [
+        "Breakfast"
+      ],
+      "activities": [
+        "Last-minute shopping / free time",
+        "Airport transfer & departure"
+      ],
+      "overnight": "—"
+    }
+  ],
+  "travelTips": [
+    "The Oslo Pass bundles transport with free entry to most major museums.",
+    "Alcohol is only sold in shops via the state-run Vinmonopolet with limited hours — plan ahead.",
+    "Book Maaemo or other top tables months in advance.",
+    "The T-bane to Holmenkollen offers some of the best free fjord views in the city.",
+    "Grocery-store meals and the Mathallen food hall stretch a budget further than restaurants.",
+    "Pace yourself — this itinerary includes free time so you are not rushing between every attraction."
+  ],
+  "packingList": [
+    "Valid passport (6+ months validity)",
+    "Phone charger & universal adapter",
+    "Comfortable walking shoes",
+    "Copies of booking confirmations and travel insurance",
+    "Insulated jacket and warm layers for cold weather",
+    "Swimwear and reef-safe sunscreen",
+    "A warm waterproof coat for cold, wet winters",
+    "Layered clothing for mild but changeable summers",
+    "Sturdy shoes for forest and fjord-side trails",
+    "Sunglasses for long summer daylight hours"
+  ],
+  "thingsToDo": [
+    "Fram Museum",
+    "Kon-Tiki Museum",
+    "Norwegian Museum of Cultural History",
+    "Munch Museum",
+    "Akershus Fortress & Castle",
+    "Holmenkollen Ski Museum & Tower",
+    "Norwegian Maritime Museum",
+    "The Royal Palace guided tour",
+    "TusenFryd amusement park",
+    "Natural History Museum & Botanical Garden greenhouses",
+    "Vigeland Sculpture Park",
+    "Oslo Opera House roof",
+    "Akerselva river walk",
+    "Aker Brygge & Tjuvholmen",
+    "Oslo Cathedral",
+    "Grünerløkka neighborhood",
+    "Ekebergparken",
+    "Damstredet & Telthusbakken",
+    "Hiking and skiing at Holmenkollen and Nordmarka forest",
+    "Kayaking the Oslofjord"
+  ],
+  "thingsToAvoid": [
+    "Assuming restaurant and bar prices resemble the rest of Europe — alcohol especially is very expensive.",
+    "Missing the last T-bane or ferry after a night out.",
+    "Hiking Nordmarka trails without checking the weather first.",
+    "Expecting to buy alcohol after 8pm or on Sundays.",
+    "Underestimating how expensive taxis are compared to public transport."
+  ],
+  "topRestaurants": [
+    "Maaemo — Michelin 3-star New Nordic ($$$$)",
+    "Fiskeriet Youngstorget — Fish & Chips / Seafood ($$)",
+    "Kontrast — New Nordic Fine Dining ($$$$)",
+    "Olympen — Traditional Norwegian ($$)",
+    "Mathallen Oslo food hall — Norwegian / International Street Food ($$)",
+    "Lofoten Fiskerestaurant — Seafood ($$$)",
+    "Rest — Sustainable Nordic ($$$)",
+    "Sentralen Restaurant — Nordic Bistro ($$)"
+  ],
+  "topCafes": [
+    "Fuglen",
+    "Tim Wendelboe",
+    "Kaffebrenneriet",
+    "Java Espressobar",
+    "Supreme Roastworks",
+    "Åpent Bakeri"
+  ],
+  "shoppingAreas": [
+    "Karl Johans Gate",
+    "Grünerløkka vintage shops",
+    "Aker Brygge waterfront mall",
+    "Bogstadveien",
+    "Mathallen Oslo food hall"
+  ],
+  "nightlife": [
+    "Territoriet wine bar (Grünerløkka)",
+    "Aker Brygge nightlife strip",
+    "Blå concert venue",
+    "Jaeger nightclub",
+    "Himkok cocktail distillery bar"
+  ],
+  "instagramSpots": [
+    "Vigeland Sculpture Park's Monolith",
+    "Oslo Opera House rooftop",
+    "Damstredet colorful houses",
+    "Ekebergparken fjord viewpoint",
+    "Aker Brygge waterfront at sunset"
+  ],
+  "hiddenGems": [
+    "Ekebergparken sculpture park",
+    "Damstredet & Telthusbakken lanes",
+    "Sørenga seawater pool",
+    "Bygdøy peninsula beaches",
+    "Nordmarka forest trails just outside the city"
+  ],
+  "familyActivities": [
+    "Vigeland Sculpture Park exploration",
+    "TusenFryd amusement park",
+    "Norwegian Museum of Cultural History open-air exhibits",
+    "Oslofjord island-hopping ferries"
+  ],
+  "adventureActivities": [
+    "Hiking and skiing at Holmenkollen and Nordmarka forest",
+    "Kayaking the Oslofjord",
+    "Ziplining at the Holmenkollen ski jump",
+    "Cycling the Akerselva river trail"
+  ],
+  "luxuryExperiences": [
+    "Dining at Maaemo",
+    "Private fjord cruise with a seafood platter",
+    "Suite stay at The Thief with rooftop spa",
+    "Private Holmenkollen ski-jump VIP experience"
+  ],
+  "honeymoonExperiences": [
+    "Sunset cruise on the Oslofjord",
+    "Romantic dinner overlooking Aker Brygge harbor",
+    "Private sculpture park walk at Vigeland",
+    "Couples sauna and cold-plunge at Sørenga"
+  ],
+  "budgetExperiences": [
+    "Free wander through Vigeland Sculpture Park",
+    "Walking the Oslo Opera House roof",
+    "Exploring Grünerløkka and the Akerselva river for free",
+    "Ferry-hopping to nearby fjord islands on a transit pass"
+  ],
+  "estimatedDailyBudgetUSD": [
+    100,
+    220,
+    380,
+    750
+  ],
+  "safetyRating": 5,
+  "internetRating": 5,
+  "publicTransportRating": 5,
+  "walkingScore": 78,
+  "accessibilityRating": 4,
+  "weatherByMonth": [
+    {
+      "month": "Jan",
+      "highC": -1,
+      "crowd": "Low"
+    },
+    {
+      "month": "Feb",
+      "highC": 0,
+      "crowd": "Low"
+    },
+    {
+      "month": "Mar",
+      "highC": 4,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Apr",
+      "highC": 9,
+      "crowd": "Medium"
+    },
+    {
+      "month": "May",
+      "highC": 15,
+      "crowd": "High"
+    },
+    {
+      "month": "Jun",
+      "highC": 19,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Jul",
+      "highC": 22,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Aug",
+      "highC": 20,
+      "crowd": "Peak"
+    },
+    {
+      "month": "Sep",
+      "highC": 15,
+      "crowd": "High"
+    },
+    {
+      "month": "Oct",
+      "highC": 9,
+      "crowd": "Medium"
+    },
+    {
+      "month": "Nov",
+      "highC": 3,
+      "crowd": "Low"
+    },
+    {
+      "month": "Dec",
+      "highC": 0,
+      "crowd": "Medium"
+    }
+  ],
+  "festivalCalendar": [
+    {
+      "name": "Norwegian Constitution Day",
+      "timing": "May 17, huge children's parades citywide"
+    },
+    {
+      "name": "Oslo Jazz Festival",
+      "timing": "August"
+    },
+    {
+      "name": "Øyafestivalen",
+      "timing": "August, major music festival"
+    },
+    {
+      "name": "Youngstorget Christmas Market",
+      "timing": "December"
+    }
+  ],
+  "emergencyContacts": {
+    "police": "112",
+    "ambulance": "113",
+    "fire": "110"
+  },
+  "localEtiquette": [
+    "Remove your shoes when entering someone's home.",
+    "Norwegians value personal space and quiet on public transport.",
+    "\"Friluftsliv\" (outdoor living) is a deeply held cultural value — respect nature and marked trails.",
+    "Alcohol beyond light beer is only sold in shops via the state-run Vinmonopolet, with limited hours.",
+    "Punctuality for meetings and reservations is expected."
+  ],
+  "localTransportGuide": "Oslo's Ruter network of metro (T-bane), trams, buses and ferries runs on a shared zone ticket, and the T-bane is the easiest way up to Holmenkollen or across town. Ferries from Aker Brygge are a scenic and practical way to reach Oslofjord islands like Hovedøya in summer.",
+  "bestTimeToVisit": "May to September for hiking, fjord cruises and long daylight; December to February for snow activities and Christmas markets.",
+  "weather": "Cold, snowy winters (highs around -1°C in January) and mild summers (highs around 22°C in July) with very long summer daylight hours.",
+  "visaInformation": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance.",
+  "currency": "NOK",
+  "languages": [
+    "Norwegian"
+  ],
+  "timeZone": "CET (UTC+1)",
+  "averageFlightTime": "~10h from major hubs (estimate; varies by origin — see Suggested Flights)",
+  "nearestAirport": "Oslo Airport, Gardermoen (OSL)",
+  "cancellationPolicy": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed.",
+  "termsAndConditions": [
+    "Pricing shown is per person based on the traveler type and tier selected and is an estimate pending live fare and rate confirmation.",
+    "Passports must be valid for at least 6 months beyond the return date for most destinations — confirm the exact requirement for your nationality.",
+    "Itinerary order may change due to weather, local conditions, or attraction closures; inclusions remain equivalent.",
+    "Solo travelers incur a single-room supplement, reflected in the Solo pricing tier.",
+    "This package does not include international travel insurance unless explicitly listed under Included.",
+    "Prices shown in a currency other than USD are approximate conversions at the rate noted and are not a payment quote."
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a visa to visit Oslo?",
+      "answer": "Schengen area — visa-free entry for US, UK, Canadian, Australian and EU passport holders for stays up to 90 days within a 180-day period. Other nationalities, including Indian passport holders, need a Schengen visa arranged in advance."
+    },
+    {
+      "question": "What is the best time to visit Oslo?",
+      "answer": "May to September for hiking, fjord cruises and long daylight; December to February for snow activities and Christmas markets. Cold, snowy winters (highs around -1°C in January) and mild summers (highs around 22°C in July) with very long summer daylight hours."
+    },
+    {
+      "question": "What's included in this package?",
+      "answer": "Round-trip airfare, accommodation, daily breakfast, airport transfers, daily local transport, and guided tours to the attractions listed in the itinerary. See the Included / Not Included sections for full detail."
+    },
+    {
+      "question": "Can the itinerary be customized?",
+      "answer": "Yes — this itinerary is a starting point. Your travel consultant can add, remove, or reorder activities, extend your stay, or upgrade your hotel category before you book."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Cancellations made 30+ days before departure: full refund minus a $99 processing fee. 15-29 days before departure: 50% refund. 0-14 days before departure or no-show: non-refundable. Airline and hotel supplier cancellation terms may be stricter than this policy and apply in addition — your travel consultant confirms exact terms before payment is taken. No online payment is collected on this site; a consultant confirms final pricing and availability with you directly before any booking is confirmed."
+    },
+    {
+      "question": "Is Oslo safe for tourists?",
+      "answer": "Oslo is rated very safe for tourists, with low rates of violent crime. Usual travel precautions (watch belongings in crowds, use licensed taxis) still apply."
+    },
+    {
+      "question": "What currency should I bring to Oslo?",
+      "answer": "The local currency is NOK. Cards and mobile payments are widely accepted, and ATMs are easy to find."
+    },
+    {
+      "question": "Is this package good for a honeymoon or family trip?",
+      "answer": "This itinerary suits couples, solo travelers, and small groups equally well — talk to your consultant about tailoring it further."
+    }
+  ],
+  "categories": [
+    "City Break",
+    "Nature",
+    "Culture",
+    "Adventure",
+    "Winter",
+    "Bucket List"
+  ],
+  "aiTags": [
+    "Oslo",
+    "Norway",
+    "Oslo, Norway",
+    "Oslo tour package",
+    "Oslo vacation package",
+    "Oslo holiday package",
+    "things to do in Oslo",
+    "best time to visit Oslo",
+    "Oslo itinerary",
+    "14 day Oslo itinerary",
+    "Oslo flights and hotels",
+    "Oslo all inclusive package",
+    "cheap Oslo package",
+    "luxury Oslo package",
+    "Oslo honeymoon package",
+    "Oslo family vacation",
+    "Oslo solo trip",
+    "Oslo group tour",
+    "Oslo weekend getaway",
+    "Oslo guided tour",
+    "OSL flights",
+    "Oslo travel guide",
+    "book Oslo trip online",
+    "Oslo trip cost",
+    "Oslo packages 14 days",
+    "Oslo city break",
+    "Oslo nature",
+    "Oslo culture",
+    "Oslo adventure",
+    "Oslo winter",
+    "Oslo bucket list",
+    "Fram Museum",
+    "Kon-Tiki Museum",
+    "Norwegian Museum of Cultural History",
+    "Munch Museum",
+    "Akershus Fortress & Castle",
+    "Holmenkollen Ski Museum & Tower",
+    "Norwegian Maritime Museum",
+    "The Royal Palace guided tour",
+    "TusenFryd amusement park",
+    "Natural History Museum & Botanical Garden greenhouses",
+    "Vigeland Sculpture Park",
+    "Oslo Opera House roof",
+    "Akerselva river walk",
+    "Aker Brygge & Tjuvholmen",
+    "Oslo Cathedral",
+    "Grünerløkka neighborhood",
+    "Ekebergparken",
+    "Damstredet & Telthusbakken",
+    "Maaemo"
+  ],
+  "images": [
+    {
+      "role": "hero",
+      "altText": "Oslo, Norway — Vigeland Sculpture Park Monolith",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "Vigeland Sculpture Park Monolith",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Oslo Vigeland Sculpture Park Monolith",
+      "pexelsQuery": "Oslo Vigeland Sculpture Park Monolith",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "role": "thumbnail",
+      "altText": "Oslo, Norway — Vigeland Sculpture Park Monolith",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "Vigeland Sculpture Park Monolith",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Oslo Vigeland Sculpture Park Monolith",
+      "pexelsQuery": "Oslo Vigeland Sculpture Park Monolith",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "role": "landscape",
+      "altText": "Oslo, Norway — Oslo Opera House roof",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "Oslo Opera House roof",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Oslo Oslo Opera House roof",
+      "pexelsQuery": "Oslo Oslo Opera House roof",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "portrait",
+      "altText": "Oslo, Norway — Oslofjord sunset cruise",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "Oslofjord sunset cruise",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Oslo Oslofjord sunset cruise",
+      "pexelsQuery": "Oslo Oslofjord sunset cruise",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "role": "gallery",
+      "altText": "Oslo, Norway — Vigeland Sculpture Park Monolith",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "Vigeland Sculpture Park Monolith",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Oslo Vigeland Sculpture Park Monolith",
+      "pexelsQuery": "Oslo Vigeland Sculpture Park Monolith",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Oslo, Norway — Oslo Opera House roof",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "Oslo Opera House roof",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Oslo Oslo Opera House roof",
+      "pexelsQuery": "Oslo Oslo Opera House roof",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Oslo, Norway — Oslofjord sunset cruise",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "Oslofjord sunset cruise",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Oslo Oslofjord sunset cruise",
+      "pexelsQuery": "Oslo Oslofjord sunset cruise",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Oslo, Norway — Grünerløkka colorful streets",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "Grünerløkka colorful streets",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Oslo Grünerløkka colorful streets",
+      "pexelsQuery": "Oslo Grünerløkka colorful streets",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Oslo, Norway — Fram Museum",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "Fram Museum",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Oslo Fram Museum",
+      "pexelsQuery": "Oslo Fram Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Oslo, Norway — Kon-Tiki Museum",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "Kon-Tiki Museum",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Oslo Kon-Tiki Museum",
+      "pexelsQuery": "Oslo Kon-Tiki Museum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Oslo, Norway — Norwegian Museum of Cultural History",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "Norwegian Museum of Cultural History",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Oslo Norwegian Museum of Cultural History",
+      "pexelsQuery": "Oslo Norwegian Museum of Cultural History",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "role": "gallery",
+      "altText": "Oslo, Norway — Munch Museum",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "Munch Museum",
+        "City Break",
+        "Nature"
+      ],
+      "unsplashQuery": "Oslo Munch Museum",
+      "pexelsQuery": "Oslo Munch Museum",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "reviews": [
+    {
+      "id": "REV-oslo-14-1",
+      "author": "Sarah van Dijk",
+      "country": "Australia",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-02-11",
+      "title": "Smooth from start to finish",
+      "body": "Oslo is stunning and this package covered the essentials well, especially Munch Museum. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-2",
+      "author": "Daniel Ivanov",
+      "country": "Spain",
+      "rating": 4.5,
+      "foodRating": 5,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4,
+      "date": "2026-06-12",
+      "title": "Great value for money",
+      "body": "Everything was handled for us — flights, hotel, transfers, and tours to Damstredet & Telthusbakken and Holmenkollen Ski Museum & Tower. Great communication from the consultant before departure too.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-3",
+      "author": "Mohammed Khan",
+      "country": "Brazil",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 3.5,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-01-06",
+      "title": "Worth every penny",
+      "body": "Vigeland Sculpture Park alone was worth the trip, but combined with Norwegian Museum of Cultural History this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-oslo-14-4",
+      "author": "Wei Kim",
+      "country": "Japan",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-09-01",
+      "title": "Solid mid-range package",
+      "body": "Booked this as a group trip and it was well paced. Natural History Museum & Botanical Garden greenhouses in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-5",
+      "author": "Fatima Khan",
+      "country": "Mexico",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-05-30",
+      "title": "Loved every moment",
+      "body": "Grünerløkka neighborhood alone was worth the trip, but combined with Natural History Museum & Botanical Garden greenhouses this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-6",
+      "author": "Elena Ivanov",
+      "country": "South Africa",
+      "rating": 4.8,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-04-19",
+      "title": "Five stars, will return",
+      "body": "We added a couple of optional activities beyond Oslo Opera House roof and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "couple",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-oslo-14-7",
+      "author": "Olivia Botha",
+      "country": "Singapore",
+      "rating": 3.8,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-09-13",
+      "title": "Would book again in a heartbeat",
+      "body": "Our trip to Oslo was fantastic from start to finish. The hotel was clean and well located, and the guided visit to The Royal Palace guided tour was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-8",
+      "author": "Nadia Nguyen",
+      "country": "Saudi Arabia",
+      "rating": 4.7,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2026-01-23",
+      "title": "Unforgettable trip!",
+      "body": "Oslo is stunning and this package covered the essentials well, especially Grünerløkka neighborhood. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-9",
+      "author": "Mohammed Ivanov",
+      "country": "Italy",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 3.5,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-11-23",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Ekebergparken alone was worth the trip, but combined with Munch Museum this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-10",
+      "author": "Sarah Kim",
+      "country": "Netherlands",
+      "rating": 4.7,
+      "foodRating": 5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-11-18",
+      "title": "Perfect for our honeymoon",
+      "body": "Oslo is stunning and this package covered the essentials well, especially Aker Brygge & Tjuvholmen. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-11",
+      "author": "Priya Novak",
+      "country": "Australia",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-01-09",
+      "title": "Consultant made it effortless",
+      "body": "Booked this as a family of 4 trip and it was well paced. Munch Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "family4",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-oslo-14-12",
+      "author": "Priya Patel",
+      "country": "United States",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2025-07-17",
+      "title": "Great value for money",
+      "body": "Booked this as a group trip and it was well paced. Fram Museum in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-oslo-14-13",
+      "author": "Lukas Santos",
+      "country": "India",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4.5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2026-05-20",
+      "title": "Exceeded our expectations",
+      "body": "Oslo is stunning and this package covered the essentials well, especially Holmenkollen Ski Museum & Tower. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "solo",
+      "verifiedBooking": false
+    },
+    {
+      "id": "REV-oslo-14-14",
+      "author": "Lukas Patel",
+      "country": "Saudi Arabia",
+      "rating": 4.6,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 4.5,
+      "activitiesRating": 5,
+      "valueRating": 4,
+      "cleanlinessRating": 5,
+      "safetyRating": 4.5,
+      "date": "2025-10-29",
+      "title": "Would book again in a heartbeat",
+      "body": "Oslo is stunning and this package covered the essentials well, especially Oslo Cathedral. The hotel could have been a little closer to the center but transport was easy.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-15",
+      "author": "Noah Tanaka",
+      "country": "Canada",
+      "rating": 3.8,
+      "foodRating": 3.5,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 3.5,
+      "valueRating": 4,
+      "cleanlinessRating": 4,
+      "safetyRating": 4,
+      "date": "2026-02-28",
+      "title": "Worth every penny",
+      "body": "Our trip to Oslo was fantastic from start to finish. The hotel was clean and well located, and the guided visit to Norwegian Museum of Cultural History was a real highlight. Airport transfers were on time both ways.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-16",
+      "author": "Omar Khan",
+      "country": "Italy",
+      "rating": 4.8,
+      "foodRating": 4.5,
+      "hotelRating": 4.5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2026-03-05",
+      "title": "Great for families with kids",
+      "body": "We added a couple of optional activities beyond Ekebergparken and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-17",
+      "author": "Tom Dubois",
+      "country": "United Kingdom",
+      "rating": 5,
+      "foodRating": 4.5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 5,
+      "safetyRating": 5,
+      "date": "2025-03-28",
+      "title": "Beautiful destination, well organized",
+      "body": "We added a couple of optional activities beyond Kon-Tiki Museum and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "solo",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-18",
+      "author": "Ava van Dijk",
+      "country": "Saudi Arabia",
+      "rating": 3.9,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 3.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 3.5,
+      "safetyRating": 4,
+      "date": "2025-07-23",
+      "title": "Great for families with kids",
+      "body": "Oslo Cathedral alone was worth the trip, but combined with Ekebergparken this itinerary really delivered. Breakfast at the hotel was good every day and the local guide was knowledgeable.",
+      "travelerType": "couple",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-19",
+      "author": "Marco Tanaka",
+      "country": "Brazil",
+      "rating": 4.9,
+      "foodRating": 5,
+      "hotelRating": 5,
+      "transportRating": 5,
+      "activitiesRating": 5,
+      "valueRating": 5,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 5,
+      "date": "2025-06-30",
+      "title": "Perfect for our honeymoon",
+      "body": "We added a couple of optional activities beyond Vigeland Sculpture Park and don't regret it. Good value for what was included, and the food recommendations from our guide were spot on.",
+      "travelerType": "family4",
+      "verifiedBooking": true
+    },
+    {
+      "id": "REV-oslo-14-20",
+      "author": "Arjun Botha",
+      "country": "New Zealand",
+      "rating": 4.2,
+      "foodRating": 4,
+      "hotelRating": 4,
+      "transportRating": 4.5,
+      "activitiesRating": 4,
+      "valueRating": 4,
+      "cleanlinessRating": 4.5,
+      "safetyRating": 4.5,
+      "date": "2025-04-25",
+      "title": "Amazing itinerary, zero stress",
+      "body": "Booked this as a group trip and it was well paced. Akerselva river walk in particular stood out. A couple of the transfers ran a little late but nothing that spoiled the trip.",
+      "travelerType": "group8",
+      "verifiedBooking": true
+    }
+  ],
+  "ratings": {
+    "overall": 4.4,
+    "food": 4.4,
+    "hotel": 4.4,
+    "transportation": 4.4,
+    "activities": 4.5,
+    "value": 4.3,
+    "cleanliness": 4.3,
+    "safety": 4.4,
+    "reviewCount": 20
+  },
+  "suggestedHotels": [
+    {
+      "tier": "Hostel",
+      "name": "Oslo Backpackers Hostel",
+      "starRating": 2,
+      "pricePerNightUSD": 22,
+      "neighborhood": "Karl Johans Gate"
+    },
+    {
+      "tier": "Budget Hotel",
+      "name": "Oslo Traveler Inn",
+      "starRating": 2.5,
+      "pricePerNightUSD": 40,
+      "neighborhood": "Grünerløkka vintage shops"
+    },
+    {
+      "tier": "Apartment",
+      "name": "Oslo Serviced Apartments",
+      "starRating": 3.5,
+      "pricePerNightUSD": 77,
+      "neighborhood": "Aker Brygge waterfront mall"
+    },
+    {
+      "tier": "Mid-range Hotel",
+      "name": "Oslo Grand Hotel",
+      "starRating": 3.5,
+      "pricePerNightUSD": 99,
+      "neighborhood": "Bogstadveien"
+    },
+    {
+      "tier": "Resort",
+      "name": "Oslo Bay Resort & Spa",
+      "starRating": 4.5,
+      "pricePerNightUSD": 190,
+      "neighborhood": "Mathallen Oslo food hall"
+    },
+    {
+      "tier": "Villa",
+      "name": "Private Oslo Villa Retreat",
+      "starRating": 5,
+      "pricePerNightUSD": 315,
+      "neighborhood": "Territoriet wine bar (Grünerløkka)"
+    },
+    {
+      "tier": "Luxury Hotel",
+      "name": "The Oslo Palace Hotel",
+      "starRating": 5,
+      "pricePerNightUSD": 375,
+      "neighborhood": "Aker Brygge nightlife strip"
+    }
+  ],
+  "suggestedFlights": [
+    {
+      "originMarket": "US",
+      "originAirport": "New York (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "United Airlines",
+        "Delta Air Lines",
+        "American Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        504,
+        801
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CA",
+      "originAirport": "Toronto (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Air Canada",
+        "WestJet"
+      ],
+      "estimatedRoundTripUSD": [
+        506,
+        803
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "GB",
+      "originAirport": "London (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "British Airways",
+        "Virgin Atlantic"
+      ],
+      "estimatedRoundTripUSD": [
+        160,
+        254
+      ],
+      "estimatedFlightHours": 2.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "FR",
+      "originAirport": "Paris (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Air France",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        173,
+        275
+      ],
+      "estimatedFlightHours": 2.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "DE",
+      "originAirport": "Frankfurt (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Lufthansa",
+        "Condor"
+      ],
+      "estimatedRoundTripUSD": [
+        156,
+        247
+      ],
+      "estimatedFlightHours": 2.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IT",
+      "originAirport": "Rome (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "ITA Airways",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        222,
+        352
+      ],
+      "estimatedFlightHours": 3.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ES",
+      "originAirport": "Madrid (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Iberia",
+        "Air Europa"
+      ],
+      "estimatedRoundTripUSD": [
+        249,
+        396
+      ],
+      "estimatedFlightHours": 4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NL",
+      "originAirport": "Amsterdam (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "KLM",
+        "Lufthansa"
+      ],
+      "estimatedRoundTripUSD": [
+        143,
+        227
+      ],
+      "estimatedFlightHours": 2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "CH",
+      "originAirport": "Zurich (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Swiss International Air Lines",
+        "Edelweiss Air"
+      ],
+      "estimatedRoundTripUSD": [
+        178,
+        282
+      ],
+      "estimatedFlightHours": 2.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AU",
+      "originAirport": "Sydney (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Qantas",
+        "Virgin Australia"
+      ],
+      "estimatedRoundTripUSD": [
+        1229,
+        1952
+      ],
+      "estimatedFlightHours": 22.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "NZ",
+      "originAirport": "Auckland (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Air New Zealand",
+        "Qantas"
+      ],
+      "estimatedRoundTripUSD": [
+        1320,
+        2097
+      ],
+      "estimatedFlightHours": 24,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "IN",
+      "originAirport": "Delhi (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Air India",
+        "IndiGo",
+        "Vistara"
+      ],
+      "estimatedRoundTripUSD": [
+        509,
+        809
+      ],
+      "estimatedFlightHours": 8.8,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "JP",
+      "originAirport": "Tokyo (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Japan Airlines",
+        "ANA"
+      ],
+      "estimatedRoundTripUSD": [
+        683,
+        1085
+      ],
+      "estimatedFlightHours": 12.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KR",
+      "originAirport": "Seoul (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Korean Air",
+        "Asiana Airlines"
+      ],
+      "estimatedRoundTripUSD": [
+        634,
+        1007
+      ],
+      "estimatedFlightHours": 11.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SG",
+      "originAirport": "Singapore (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot"
+      ],
+      "estimatedRoundTripUSD": [
+        802,
+        1274
+      ],
+      "estimatedFlightHours": 14.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "TH",
+      "originAirport": "Bangkok (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Thai Airways",
+        "Thai AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        703,
+        1116
+      ],
+      "estimatedFlightHours": 12.5,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MY",
+      "originAirport": "Kuala Lumpur (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Malaysia Airlines",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        781,
+        1241
+      ],
+      "estimatedFlightHours": 14,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ID",
+      "originAirport": "Jakarta (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Garuda Indonesia",
+        "AirAsia"
+      ],
+      "estimatedRoundTripUSD": [
+        867,
+        1377
+      ],
+      "estimatedFlightHours": 15.6,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "PH",
+      "originAirport": "Manila (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Philippine Airlines",
+        "Cebu Pacific"
+      ],
+      "estimatedRoundTripUSD": [
+        776,
+        1233
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "VN",
+      "originAirport": "Ho Chi Minh City (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Vietnam Airlines",
+        "VietJet Air"
+      ],
+      "estimatedRoundTripUSD": [
+        748,
+        1188
+      ],
+      "estimatedFlightHours": 13.3,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "AE",
+      "originAirport": "Dubai (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Emirates",
+        "flydubai"
+      ],
+      "estimatedRoundTripUSD": [
+        448,
+        711
+      ],
+      "estimatedFlightHours": 7.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "SA",
+      "originAirport": "Riyadh (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Saudia",
+        "flynas"
+      ],
+      "estimatedRoundTripUSD": [
+        422,
+        671
+      ],
+      "estimatedFlightHours": 7.2,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "QA",
+      "originAirport": "Doha (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        434,
+        690
+      ],
+      "estimatedFlightHours": 7.4,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "KW",
+      "originAirport": "Kuwait City (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Kuwait Airways",
+        "Jazeera Airways"
+      ],
+      "estimatedRoundTripUSD": [
+        394,
+        625
+      ],
+      "estimatedFlightHours": 6.7,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "ZA",
+      "originAirport": "Johannesburg (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "South African Airways",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        778,
+        1235
+      ],
+      "estimatedFlightHours": 13.9,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "BR",
+      "originAirport": "São Paulo (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "LATAM Airlines",
+        "Emirates"
+      ],
+      "estimatedRoundTripUSD": [
+        845,
+        1342
+      ],
+      "estimatedFlightHours": 15.1,
+      "isEstimate": true
+    },
+    {
+      "originMarket": "MX",
+      "originAirport": "Mexico City (major international gateway)",
+      "destinationAirport": "Oslo Airport, Gardermoen (OSL)",
+      "airlines": [
+        "Aeroméxico",
+        "Volaris"
+      ],
+      "estimatedRoundTripUSD": [
+        741,
+        1177
+      ],
+      "estimatedFlightHours": 13.2,
+      "isEstimate": true
+    }
+  ],
+  "attractionsTop50": [
+    "Fram Museum",
+    "Kon-Tiki Museum",
+    "Norwegian Museum of Cultural History",
+    "Munch Museum",
+    "Akershus Fortress & Castle",
+    "Holmenkollen Ski Museum & Tower",
+    "Norwegian Maritime Museum",
+    "The Royal Palace guided tour",
+    "TusenFryd amusement park",
+    "Natural History Museum & Botanical Garden greenhouses",
+    "Vigeland Sculpture Park",
+    "Oslo Opera House roof",
+    "Akerselva river walk",
+    "Aker Brygge & Tjuvholmen",
+    "Oslo Cathedral",
+    "Grünerløkka neighborhood",
+    "Ekebergparken",
+    "Damstredet & Telthusbakken",
+    "Holmenkollen ski jump and forest",
+    "Oslofjord island ferries (Hovedøya)",
+    "Fredrikstad Old Town",
+    "Drammen",
+    "Vigeland Sculpture Park (Frognerparken)",
+    "St. Hanshaugen",
+    "Botanical Garden",
+    "Sørenga seawater pool",
+    "Huk Beach (Bygdøy)",
+    "Vigeland Sculpture Park's Monolith",
+    "Oslo Opera House rooftop",
+    "Damstredet colorful houses",
+    "Ekebergparken fjord viewpoint",
+    "Aker Brygge waterfront at sunset"
+  ],
+  "attractionsPaidTop20": [
+    {
+      "name": "Fram Museum",
+      "priceUSD": 17
+    },
+    {
+      "name": "Kon-Tiki Museum",
+      "priceUSD": 16
+    },
+    {
+      "name": "Norwegian Museum of Cultural History",
+      "priceUSD": 20
+    },
+    {
+      "name": "Munch Museum",
+      "priceUSD": 22
+    },
+    {
+      "name": "Akershus Fortress & Castle",
+      "priceUSD": 12
+    },
+    {
+      "name": "Holmenkollen Ski Museum & Tower",
+      "priceUSD": 18
+    },
+    {
+      "name": "Norwegian Maritime Museum",
+      "priceUSD": 14
+    },
+    {
+      "name": "The Royal Palace guided tour",
+      "priceUSD": 18
+    },
+    {
+      "name": "TusenFryd amusement park",
+      "priceUSD": 45
+    },
+    {
+      "name": "Natural History Museum & Botanical Garden greenhouses",
+      "priceUSD": 10
+    }
+  ],
+  "attractionsFreeTop20": [
+    "Vigeland Sculpture Park",
+    "Oslo Opera House roof",
+    "Akerselva river walk",
+    "Aker Brygge & Tjuvholmen",
+    "Oslo Cathedral",
+    "Grünerløkka neighborhood",
+    "Ekebergparken",
+    "Damstredet & Telthusbakken"
+  ],
+  "museums": [
+    "Munch Museum",
+    "Fram Museum",
+    "Kon-Tiki Museum",
+    "Norwegian Museum of Cultural History"
+  ],
+  "parks": [
+    "Vigeland Sculpture Park (Frognerparken)",
+    "Ekebergparken",
+    "St. Hanshaugen",
+    "Botanical Garden"
+  ],
+  "beaches": [
+    "Sørenga seawater pool",
+    "Huk Beach (Bygdøy)"
+  ],
+  "dayTrips": [
+    "Holmenkollen ski jump and forest",
+    "Oslofjord island ferries (Hovedøya)",
+    "Fredrikstad Old Town",
+    "Drammen"
+  ],
+  "fromPriceUSD": 2855,
+  "seo": {
+    "title": "Oslo 14-Day City Break | Flights, Hotels & Tours Included",
+    "slug": "oslo-14-day-package",
+    "keywords": [
+      "Oslo",
+      "Norway",
+      "Oslo, Norway",
+      "Oslo tour package",
+      "Oslo vacation package",
+      "Oslo holiday package",
+      "things to do in Oslo",
+      "best time to visit Oslo",
+      "Oslo itinerary",
+      "14 day Oslo itinerary",
+      "Oslo flights and hotels",
+      "Oslo all inclusive package",
+      "cheap Oslo package",
+      "luxury Oslo package",
+      "Oslo honeymoon package"
+    ],
+    "canonicalUrl": "/packages/oslo-14-day-package",
+    "internalLinks": [
+      {
+        "title": "10-Day Oslo Package",
+        "url": "/packages/oslo-10-day-package"
+      },
+      {
+        "title": "7-Day Oslo Package",
+        "url": "/packages/oslo-7-day-package"
+      },
+      {
+        "title": "Helsinki 14-Day City Break",
+        "url": "/packages/helsinki-14-day-package"
+      },
+      {
+        "title": "Cape Town 14-Day City Break",
+        "url": "/packages/cape-town-14-day-package"
+      },
+      {
+        "title": "Darjeeling 14-Day Nature Retreat",
+        "url": "/packages/darjeeling-14-day-package"
+      }
+    ],
+    "externalLinks": [
+      {
+        "title": "Oslo — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Oslo"
+      },
+      {
+        "title": "Oslo — Wikivoyage Travel Guide",
+        "url": "https://en.wikivoyage.org/wiki/Oslo"
+      }
+    ]
+  }
+}
