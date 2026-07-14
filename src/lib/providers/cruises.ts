@@ -1,21 +1,17 @@
-import { readFileSync, readdirSync } from 'node:fs';
-import { join } from 'node:path';
-import type { CruisePackage, CruiseSearchResult, CruisePricingBreakdown, CruiseTravelerType, CruisePricingTier, CruiseLine, Ship, CruisePort } from '@/lib/cruises/types';
+import { gunzipSync } from 'node:zlib';
+import type { Prisma } from '@prisma/client';
+import { prisma } from '@/lib/db';
+import type { CruisePackage, CruiseSearchResult, CruisePricingBreakdown, CruiseTravelerType, CruisePricingTier, CruiseLine, Ship, CruisePort, CruiseImageAsset, CruiseSearchFilters, CruiseCategory } from '@/lib/cruises/types';
 import { computeCruisePricing } from '@/lib/cruises/pricing';
 import { CRUISE_LINES, CRUISE_LINES_BY_ID } from '@/lib/cruises/cruise-lines';
-import { SHIPS_BY_ID } from '@/lib/cruises/ships';
-import { PORTS_BY_ID } from '@/lib/cruises/ports';
+import { SHIPS, SHIPS_BY_ID } from '@/lib/cruises/ships';
+import { PORTS, PORTS_BY_ID } from '@/lib/cruises/ports';
 
-const CRUISE_LINE_LOGO_BY_NAME: Record<string, string> = Object.fromEntries(
-  CRUISE_LINES.filter((l) => l.logoUrl).map((l) => [l.name, l.logoUrl as string])
-);
-
-/** CruiseSearchResult (the search-index shape) only carries the line's display name, not its id. */
-export function getCruiseLineLogoUrl(cruiseLineName: string): string | undefined {
-  return CRUISE_LINE_LOGO_BY_NAME[cruiseLineName];
-}
-
-const DATA_DIR = join(process.cwd(), 'src', 'data', 'generated', 'cruises');
+// The cruise catalog lives in Postgres (CruiseCatalog table): searchable columns for
+// list/filter pages plus the full CruisePackage payload gzipped per row. It used to be
+// 10,641 JSON files read via readFileSync, which dragged ~490MB into every serverless
+// bundle that imported this module and pushed Vercel past the Hobby-plan function cap.
+// Seeded by scripts/seed-catalog-db.ts after scripts/generate-cruises.ts.
 
 // Known-good Unsplash photo URLs, bucketed by cruise type — a stand-in for card/hero
 // thumbnails until a real image search/DAM integration resolves each package's
@@ -65,54 +61,26 @@ export function getDisplayImageUrl(slug: string, destination: string, categories
   return pool[imageHashSeed(slug) % pool.length];
 }
 
-// Static lists cache
-let cruiseLinesCache: CruiseLine[] | null = null;
-let shipsCache: Ship[] | null = null;
-let portsCache: CruisePort[] | null = null;
+const CRUISE_LINE_LOGO_BY_NAME: Record<string, string> = Object.fromEntries(
+  CRUISE_LINES.filter((l) => l.logoUrl).map((l) => [l.name, l.logoUrl as string])
+);
 
+/** CruiseSearchResult (the search-index shape) only carries the line's display name, not its id. */
+export function getCruiseLineLogoUrl(cruiseLineName: string): string | undefined {
+  return CRUISE_LINE_LOGO_BY_NAME[cruiseLineName];
+}
+
+// Entity lists are small curated TS data — served straight from the modules.
 export function loadCruiseLines(): CruiseLine[] {
-  if (!cruiseLinesCache) {
-    try {
-      cruiseLinesCache = JSON.parse(readFileSync(join(DATA_DIR, 'cruise-lines.json'), 'utf8')) as CruiseLine[];
-    } catch {
-      cruiseLinesCache = [];
-    }
-  }
-  return cruiseLinesCache;
+  return CRUISE_LINES;
 }
 
 export function loadShips(): Ship[] {
-  if (!shipsCache) {
-    try {
-      shipsCache = JSON.parse(readFileSync(join(DATA_DIR, 'ships.json'), 'utf8')) as Ship[];
-    } catch {
-      shipsCache = [];
-    }
-  }
-  return shipsCache;
+  return SHIPS;
 }
 
 export function loadPorts(): CruisePort[] {
-  if (!portsCache) {
-    try {
-      portsCache = JSON.parse(readFileSync(join(DATA_DIR, 'ports.json'), 'utf8')) as CruisePort[];
-    } catch {
-      portsCache = [];
-    }
-  }
-  return portsCache;
-}
-
-let indexCache: CruiseSearchResult[] | null = null;
-export function loadCruisesIndex(): CruiseSearchResult[] {
-  if (!indexCache) {
-    try {
-      indexCache = JSON.parse(readFileSync(join(DATA_DIR, 'packages-index.json'), 'utf8')) as CruiseSearchResult[];
-    } catch {
-      indexCache = [];
-    }
-  }
-  return indexCache;
+  return PORTS;
 }
 
 export interface CruiseFacets {
@@ -122,39 +90,45 @@ export interface CruiseFacets {
 }
 
 let facetsCache: CruiseFacets | null = null;
-export function getCruiseFacets(): CruiseFacets {
+export async function getCruiseFacets(): Promise<CruiseFacets> {
   if (!facetsCache) {
-    const index = loadCruisesIndex();
+    const [destinations, cruiseLines, departurePorts] = await Promise.all([
+      prisma.cruiseCatalog.findMany({ distinct: ['destination'], select: { destination: true }, orderBy: { destination: 'asc' } }),
+      prisma.cruiseCatalog.findMany({ distinct: ['cruiseLineName'], select: { cruiseLineName: true }, orderBy: { cruiseLineName: 'asc' } }),
+      prisma.cruiseCatalog.findMany({ distinct: ['departurePortName'], select: { departurePortName: true }, orderBy: { departurePortName: 'asc' } }),
+    ]);
     facetsCache = {
-      destinations: Array.from(new Set(index.map((c) => c.destination))).filter(Boolean).sort(),
-      cruiseLines: Array.from(new Set(index.map((c) => c.cruiseLineName))).filter(Boolean).sort(),
-      departurePorts: Array.from(new Set(index.map((c) => c.departurePortName))).filter(Boolean).sort(),
+      destinations: destinations.map((r) => r.destination),
+      cruiseLines: cruiseLines.map((r) => r.cruiseLineName),
+      departurePorts: departurePorts.map((r) => r.departurePortName),
     };
   }
   return facetsCache;
 }
 
+// Small per-instance cache for decompressed detail payloads.
 const detailCache = new Map<string, CruisePackage>();
-export function getCruiseBySlug(slug: string): CruisePackage | null {
+const DETAIL_CACHE_MAX = 300;
+
+export async function getCruiseBySlug(slug: string): Promise<CruisePackage | null> {
   const cached = detailCache.get(slug);
   if (cached) return cached;
-  try {
-    const pkg = JSON.parse(readFileSync(join(DATA_DIR, 'packages', `${slug}.json`), 'utf8')) as CruisePackage;
-    detailCache.set(slug, pkg);
-    return pkg;
-  } catch {
-    return null;
+
+  const row = await prisma.cruiseCatalog.findUnique({ where: { slug }, select: { detail: true } });
+  if (!row) return null;
+
+  const pkg = JSON.parse(gunzipSync(Buffer.from(row.detail)).toString('utf8')) as CruisePackage;
+  if (detailCache.size >= DETAIL_CACHE_MAX) {
+    const oldest = detailCache.keys().next().value;
+    if (oldest) detailCache.delete(oldest);
   }
+  detailCache.set(slug, pkg);
+  return pkg;
 }
 
-export function listAllCruiseSlugs(): string[] {
-  try {
-    return readdirSync(join(DATA_DIR, 'packages'))
-      .filter((f) => f.endsWith('.json'))
-      .map((f) => f.replace(/\.json$/, ''));
-  } catch {
-    return [];
-  }
+export async function listAllCruiseSlugs(): Promise<string[]> {
+  const rows = await prisma.cruiseCatalog.findMany({ select: { slug: true }, orderBy: { slug: 'asc' } });
+  return rows.map((r) => r.slug);
 }
 
 export function getCruisePricing(
@@ -195,7 +169,7 @@ export function getAllCruisePricingTiers(
   ) as Record<CruisePricingTier, CruisePricingBreakdown>;
 }
 
-// Search/filter matching against the full in-memory index, with real pagination.
+// Search/filter matching against the catalog table, with real pagination.
 export interface CruiseSearchParams {
   q?: string;
   destinations?: string[];
@@ -220,73 +194,55 @@ export interface CruiseSearchResponse {
 }
 
 export async function searchCruises(params: CruiseSearchParams = {}): Promise<CruiseSearchResponse> {
-  const index = loadCruisesIndex();
-  let filtered = index;
+  const where: Prisma.CruiseCatalogWhereInput = {};
 
   const q = (params.q || '').trim().toLowerCase();
-  if (q) {
-    filtered = filtered.filter(
-      (p) =>
-        p.title.toLowerCase().includes(q) ||
-        p.cruiseLineName.toLowerCase().includes(q) ||
-        p.shipName.toLowerCase().includes(q) ||
-        p.destination.toLowerCase().includes(q) ||
-        p.departurePortName.toLowerCase().includes(q) ||
-        p.aiSearchTags.some((tag) => tag.toLowerCase().includes(q))
-    );
+  if (q) where.searchText = { contains: q };
+  if (params.destinations?.length) where.destination = { in: params.destinations };
+  if (params.cruiseLines?.length) where.cruiseLineName = { in: params.cruiseLines };
+  if (params.departurePorts?.length) where.departurePortName = { in: params.departurePorts };
+  if (params.durations?.length) where.durationCats = { hasSome: params.durations };
+  if (params.riverCruise !== undefined) where.riverCruise = params.riverCruise;
+  if (params.oceanCruise !== undefined) where.oceanCruise = params.oceanCruise;
+  if (params.adultsOnly) where.adultsOnly = true;
+  if (params.minPrice !== undefined || params.maxPrice !== undefined) {
+    where.fromPriceUSD = {
+      ...(params.minPrice !== undefined ? { gte: Math.floor(params.minPrice) } : {}),
+      ...(params.maxPrice !== undefined ? { lte: Math.ceil(params.maxPrice) } : {}),
+    };
   }
 
-  if (params.destinations?.length) {
-    const set = new Set(params.destinations);
-    filtered = filtered.filter((p) => set.has(p.destination));
-  }
-
-  if (params.durations?.length) {
-    const set = new Set(params.durations);
-    filtered = filtered.filter((p) => p.filters?.duration?.some((d) => set.has(d)));
-  }
-
-  if (params.cruiseLines?.length) {
-    const set = new Set(params.cruiseLines);
-    filtered = filtered.filter((p) => set.has(p.cruiseLineName));
-  }
-
-  if (params.departurePorts?.length) {
-    const set = new Set(params.departurePorts);
-    filtered = filtered.filter((p) => set.has(p.departurePortName));
-  }
-
-  if (params.riverCruise !== undefined) {
-    filtered = filtered.filter((p) => p.filters?.riverCruise === params.riverCruise);
-  }
-
-  if (params.oceanCruise !== undefined) {
-    filtered = filtered.filter((p) => p.filters?.oceanCruise === params.oceanCruise);
-  }
-
-  if (params.adultsOnly) {
-    filtered = filtered.filter((p) => p.filters?.adultsOnly === true);
-  }
-
-  if (params.minPrice !== undefined) {
-    filtered = filtered.filter((p) => p.fromPriceUSD >= params.minPrice!);
-  }
-
-  if (params.maxPrice !== undefined) {
-    filtered = filtered.filter((p) => p.fromPriceUSD <= params.maxPrice!);
-  }
-
-  const total = filtered.length;
   const limit = params.limit && params.limit > 0 ? params.limit : 24;
+  const total = await prisma.cruiseCatalog.count({ where });
   const totalPages = Math.max(1, Math.ceil(total / limit));
   const page = Math.min(Math.max(1, params.page ?? 1), totalPages);
-  const start = (page - 1) * limit;
 
-  return {
-    results: filtered.slice(start, start + limit),
-    total,
-    page,
-    limit,
-    totalPages,
-  };
+  const rows = await prisma.cruiseCatalog.findMany({
+    where,
+    orderBy: { slug: 'asc' },
+    skip: (page - 1) * limit,
+    take: limit,
+    omit: { detail: true, searchText: true },
+  });
+
+  const results: CruiseSearchResult[] = rows.map((r) => ({
+    id: `PKG-CRUISE-${r.slug.toUpperCase()}`,
+    slug: r.slug,
+    title: r.title,
+    cruiseLineName: r.cruiseLineName,
+    shipName: r.shipName,
+    destination: r.destination,
+    departurePortName: r.departurePortName,
+    arrivalPortName: r.arrivalPortName,
+    durationNights: r.durationNights,
+    categories: r.categories as CruiseCategory[],
+    fromPriceUSD: r.fromPriceUSD,
+    ratingOverall: r.ratingOverall,
+    reviewCount: r.reviewCount,
+    heroImage: r.heroImage as unknown as CruiseImageAsset,
+    aiSearchTags: [],
+    filters: r.filters as Partial<CruiseSearchFilters>,
+  }));
+
+  return { results, total, page, limit, totalPages };
 }

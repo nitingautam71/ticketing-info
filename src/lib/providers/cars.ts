@@ -1,12 +1,18 @@
-import { readFileSync, readdirSync } from 'node:fs';
-import { join } from 'node:path';
-import type { CarListing, CarSearchResult, CarPricingBreakdown, RentalDurationTier, RentalCompany, VehicleCategory } from '@/lib/cars/types';
+import { gunzipSync } from 'node:zlib';
+import type { Prisma } from '@prisma/client';
+import { prisma } from '@/lib/db';
+import type { CarListing, CarSearchResult, CarPricingBreakdown, RentalDurationTier, RentalCompany, VehicleCategory, Transmission, FuelType, LocationType, CompanyTier, CarImageAsset, CarSearchFilters } from '@/lib/cars/types';
 import { computeCarPricing, type CarPricingOptions } from '@/lib/cars/pricing';
 import { RENTAL_COMPANIES, RENTAL_COMPANIES_BY_ID } from '@/lib/cars/companies';
 import { VEHICLES_BY_ID } from '@/lib/cars/vehicles';
 import { LOCATIONS_BY_ID } from '@/lib/cars/locations';
+import { generateCompanyReviews } from '@/lib/cars/generator';
 
-const DATA_DIR = join(process.cwd(), 'src', 'data', 'generated', 'cars');
+// The car rental catalog lives in Postgres (CarCatalog table): searchable columns for
+// list/filter pages plus the full CarListing payload gzipped per row. It used to be
+// 17,165 JSON files read via readFileSync, which dragged ~360MB into every serverless
+// bundle that imported this module and pushed Vercel past the Hobby-plan function cap.
+// Seeded by scripts/seed-catalog-db.ts after scripts/generate-cars.ts.
 
 // Known-good Unsplash photo URLs, bucketed by vehicle category — a stand-in for
 // card/hero thumbnails until a real image DAM resolves each listing's unsplashQuery to
@@ -82,34 +88,21 @@ export function getCarCompanyLogoUrl(companyName: string): string | undefined {
   return COMPANY_LOGO_BY_NAME[companyName];
 }
 
-// ---------- Cached loaders ----------
-
-let companiesCache: RentalCompany[] | null = null;
-export function loadCarCompanies(): RentalCompany[] {
-  if (!companiesCache) {
-    try {
-      companiesCache = JSON.parse(readFileSync(join(DATA_DIR, 'companies.json'), 'utf8')) as RentalCompany[];
-    } catch {
-      companiesCache = [];
-    }
-  }
-  return companiesCache;
-}
-
+// Companies are small curated TS data; their 20 reviews are deterministic, so they're
+// generated on demand rather than stored — no DB or filesystem involved.
+const companiesCache = new Map<string, RentalCompany>();
 export function getCarCompanyById(id: string): RentalCompany | undefined {
-  return loadCarCompanies().find((c) => c.id === id);
+  const cached = companiesCache.get(id);
+  if (cached) return cached;
+  const facts = RENTAL_COMPANIES_BY_ID[id];
+  if (!facts) return undefined;
+  const company: RentalCompany = { ...facts, reviews: generateCompanyReviews(facts) };
+  companiesCache.set(id, company);
+  return company;
 }
 
-let indexCache: CarSearchResult[] | null = null;
-export function loadCarsIndex(): CarSearchResult[] {
-  if (!indexCache) {
-    try {
-      indexCache = JSON.parse(readFileSync(join(DATA_DIR, 'listings-index.json'), 'utf8')) as CarSearchResult[];
-    } catch {
-      indexCache = [];
-    }
-  }
-  return indexCache;
+export function loadCarCompanies(): RentalCompany[] {
+  return RENTAL_COMPANIES.map((c) => getCarCompanyById(c.id)!)
 }
 
 export interface CarFacets {
@@ -121,41 +114,49 @@ export interface CarFacets {
 }
 
 let facetsCache: CarFacets | null = null;
-export function getCarFacets(): CarFacets {
+export async function getCarFacets(): Promise<CarFacets> {
   if (!facetsCache) {
-    const index = loadCarsIndex();
+    const [companies, countries, cities, categories, brands] = await Promise.all([
+      prisma.carCatalog.findMany({ distinct: ['companyName'], select: { companyName: true }, orderBy: { companyName: 'asc' } }),
+      prisma.carCatalog.findMany({ distinct: ['country'], select: { country: true }, orderBy: { country: 'asc' } }),
+      prisma.carCatalog.findMany({ distinct: ['city'], select: { city: true }, orderBy: { city: 'asc' } }),
+      prisma.carCatalog.findMany({ distinct: ['category'], select: { category: true }, orderBy: { category: 'asc' } }),
+      prisma.carCatalog.findMany({ distinct: ['brand'], select: { brand: true }, orderBy: { brand: 'asc' } }),
+    ]);
     facetsCache = {
-      companies: Array.from(new Set(index.map((c) => c.companyName))).filter(Boolean).sort(),
-      countries: Array.from(new Set(index.map((c) => c.country))).filter(Boolean).sort(),
-      cities: Array.from(new Set(index.map((c) => c.city))).filter(Boolean).sort(),
-      categories: Array.from(new Set(index.map((c) => c.category))).filter(Boolean).sort(),
-      brands: Array.from(new Set(index.map((c) => c.brand))).filter(Boolean).sort(),
+      companies: companies.map((r) => r.companyName),
+      countries: countries.map((r) => r.country),
+      cities: cities.map((r) => r.city),
+      categories: categories.map((r) => r.category),
+      brands: brands.map((r) => r.brand),
     };
   }
   return facetsCache;
 }
 
+// Small per-instance cache for decompressed detail payloads.
 const detailCache = new Map<string, CarListing>();
-export function getCarBySlug(slug: string): CarListing | null {
+const DETAIL_CACHE_MAX = 300;
+
+export async function getCarBySlug(slug: string): Promise<CarListing | null> {
   const cached = detailCache.get(slug);
   if (cached) return cached;
-  try {
-    const listing = JSON.parse(readFileSync(join(DATA_DIR, 'listings', `${slug}.json`), 'utf8')) as CarListing;
-    detailCache.set(slug, listing);
-    return listing;
-  } catch {
-    return null;
+
+  const row = await prisma.carCatalog.findUnique({ where: { slug }, select: { detail: true } });
+  if (!row) return null;
+
+  const listing = JSON.parse(gunzipSync(Buffer.from(row.detail)).toString('utf8')) as CarListing;
+  if (detailCache.size >= DETAIL_CACHE_MAX) {
+    const oldest = detailCache.keys().next().value;
+    if (oldest) detailCache.delete(oldest);
   }
+  detailCache.set(slug, listing);
+  return listing;
 }
 
-export function listAllCarSlugs(): string[] {
-  try {
-    return readdirSync(join(DATA_DIR, 'listings'))
-      .filter((f) => f.endsWith('.json'))
-      .map((f) => f.replace(/\.json$/, ''));
-  } catch {
-    return [];
-  }
+export async function listAllCarSlugs(): Promise<string[]> {
+  const rows = await prisma.carCatalog.findMany({ select: { slug: true }, orderBy: { slug: 'asc' } });
+  return rows.map((r) => r.slug);
 }
 
 // ---------- Live pricing ----------
@@ -209,92 +210,72 @@ export interface CarSearchResponse {
 }
 
 export async function searchCars(params: CarSearchParams = {}): Promise<CarSearchResponse> {
-  const index = loadCarsIndex();
-  let filtered = index;
+  const where: Prisma.CarCatalogWhereInput = {};
 
   const q = (params.q || '').trim().toLowerCase();
-  if (q) {
-    filtered = filtered.filter(
-      (c) =>
-        c.title.toLowerCase().includes(q) ||
-        c.brand.toLowerCase().includes(q) ||
-        c.model.toLowerCase().includes(q) ||
-        c.companyName.toLowerCase().includes(q) ||
-        c.city.toLowerCase().includes(q) ||
-        c.country.toLowerCase().includes(q) ||
-        c.locationName.toLowerCase().includes(q) ||
-        c.aiSearchTags.some((tag) => tag.includes(q))
-    );
+  if (q) where.searchText = { contains: q };
+  if (params.companies?.length) where.companyName = { in: params.companies };
+  if (params.countries?.length) where.country = { in: params.countries };
+  if (params.cities?.length) where.city = { in: params.cities };
+  if (params.categories?.length) where.category = { in: params.categories };
+  if (params.brands?.length) where.brand = { in: params.brands };
+  if (params.transmission) where.transmission = params.transmission;
+  if (params.evOnly) where.ev = true;
+  if (params.hybridOnly) where.hybrid = true;
+  if (params.luxuryOnly) where.luxury = true;
+  if (params.minSeats !== undefined) where.seats = { gte: params.minSeats };
+  if (params.airportPickup) where.airportPickup = true;
+  if (params.unlimitedMileage) where.unlimitedMileage = true;
+  if (params.freeCancellation) where.freeCancellation = true;
+  if (params.petFriendly) where.petFriendly = true;
+  if (params.oneWay) where.oneWayAvailable = true;
+  if (params.minPrice !== undefined || params.maxPrice !== undefined) {
+    where.fromPricePerDayUSD = {
+      ...(params.minPrice !== undefined ? { gte: Math.floor(params.minPrice) } : {}),
+      ...(params.maxPrice !== undefined ? { lte: Math.ceil(params.maxPrice) } : {}),
+    };
   }
 
-  if (params.companies?.length) {
-    const set = new Set(params.companies);
-    filtered = filtered.filter((c) => set.has(c.companyName));
-  }
-  if (params.countries?.length) {
-    const set = new Set(params.countries);
-    filtered = filtered.filter((c) => set.has(c.country));
-  }
-  if (params.cities?.length) {
-    const set = new Set(params.cities);
-    filtered = filtered.filter((c) => set.has(c.city));
-  }
-  if (params.categories?.length) {
-    const set = new Set(params.categories);
-    filtered = filtered.filter((c) => set.has(c.category));
-  }
-  if (params.brands?.length) {
-    const set = new Set(params.brands);
-    filtered = filtered.filter((c) => set.has(c.brand));
-  }
-  if (params.transmission) {
-    filtered = filtered.filter((c) => c.transmission === params.transmission);
-  }
-  if (params.evOnly) {
-    filtered = filtered.filter((c) => c.filters?.ev === true);
-  }
-  if (params.hybridOnly) {
-    filtered = filtered.filter((c) => c.filters?.hybrid === true);
-  }
-  if (params.luxuryOnly) {
-    filtered = filtered.filter((c) => c.filters?.luxury === true);
-  }
-  if (params.minSeats !== undefined) {
-    filtered = filtered.filter((c) => c.seats >= params.minSeats!);
-  }
-  if (params.minPrice !== undefined) {
-    filtered = filtered.filter((c) => c.fromPricePerDayUSD >= params.minPrice!);
-  }
-  if (params.maxPrice !== undefined) {
-    filtered = filtered.filter((c) => c.fromPricePerDayUSD <= params.maxPrice!);
-  }
-  if (params.airportPickup) {
-    filtered = filtered.filter((c) => c.filters?.airportPickup === true);
-  }
-  if (params.unlimitedMileage) {
-    filtered = filtered.filter((c) => c.filters?.unlimitedMileage === true);
-  }
-  if (params.freeCancellation) {
-    filtered = filtered.filter((c) => c.filters?.freeCancellation === true);
-  }
-  if (params.petFriendly) {
-    filtered = filtered.filter((c) => c.filters?.petFriendly === true);
-  }
-  if (params.oneWay) {
-    filtered = filtered.filter((c) => c.filters?.oneWayAvailable === true);
-  }
-
-  const total = filtered.length;
   const limit = params.limit && params.limit > 0 ? params.limit : 24;
+  const total = await prisma.carCatalog.count({ where });
   const totalPages = Math.max(1, Math.ceil(total / limit));
   const page = Math.min(Math.max(1, params.page ?? 1), totalPages);
-  const start = (page - 1) * limit;
 
-  return {
-    results: filtered.slice(start, start + limit),
-    total,
-    page,
-    limit,
-    totalPages,
-  };
+  const rows = await prisma.carCatalog.findMany({
+    where,
+    orderBy: { slug: 'asc' },
+    skip: (page - 1) * limit,
+    take: limit,
+    omit: { detail: true, searchText: true },
+  });
+
+  const results: CarSearchResult[] = rows.map((r) => ({
+    id: `CAR-${r.slug.toUpperCase()}`,
+    slug: r.slug,
+    title: r.title,
+    companyName: r.companyName,
+    companyTier: r.companyTier as CompanyTier,
+    brand: r.brand,
+    model: r.model,
+    year: r.year,
+    category: r.category as VehicleCategory,
+    transmission: r.transmission as Transmission,
+    fuelType: r.fuelType as FuelType,
+    seats: r.seats,
+    doors: r.doors,
+    luggage: r.luggage,
+    locationName: r.locationName,
+    locationType: r.locationType as LocationType,
+    city: r.city,
+    country: r.country,
+    countryCode: r.countryCode,
+    fromPricePerDayUSD: r.fromPricePerDayUSD,
+    ratingOverall: r.ratingOverall,
+    reviewCount: r.reviewCount,
+    heroImage: r.heroImage as unknown as CarImageAsset,
+    aiSearchTags: [],
+    filters: r.filters as Partial<CarSearchFilters>,
+  }));
+
+  return { results, total, page, limit, totalPages };
 }

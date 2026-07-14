@@ -17,7 +17,7 @@ interface PageProps {
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
-  const listing = getCarBySlug(slug);
+  const listing = await getCarBySlug(slug);
   if (!listing) return {};
 
   const image = getDisplayImageUrl(listing.slug, listing.category);
@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
 export default async function CarDetailPage({ params }: PageProps) {
   const { slug } = await params;
-  const listing = getCarBySlug(slug);
+  const listing = await getCarBySlug(slug);
   if (!listing) notFound();
 
   const initialPricing = getCarPricing(listing, 'US', 'daily');

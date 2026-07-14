@@ -7,7 +7,7 @@ const VALID_TIERS: CruisePricingTier[] = ['budget', 'midRange', 'premium', 'luxu
 
 export async function GET(req: Request, { params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const pkg = getCruiseBySlug(slug);
+  const pkg = await getCruiseBySlug(slug);
   if (!pkg) {
     return NextResponse.json({ error: 'Cruise package not found' }, { status: 404 });
   }
