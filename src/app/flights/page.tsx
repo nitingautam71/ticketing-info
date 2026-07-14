@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import HeroSection from '@/components/layout/HeroSection';
 import FlightSearch from '@/components/search/FlightSearch';
+import FeaturedFlightDeals from '@/components/flights/FeaturedFlightDeals';
 import { HERO_COPY } from '@/lib/nav';
 
 export const metadata: Metadata = {
@@ -22,6 +23,7 @@ export default function FlightsPage() {
       <HeroSection eyebrow={hero.eyebrow} title={hero.title} sub={hero.sub} />
       <div className="flex-1 max-w-7xl w-full mx-auto px-4 md:px-8 relative z-20 -mt-20 md:-mt-16 pb-16">
         <FlightSearch />
+        <FeaturedFlightDeals />
       </div>
     </div>
   );
