@@ -1,0 +1,83 @@
+# Standalone GraphQL Schema for Car Rental Vertical
+
+type RentalCompany {
+  id: ID!
+  name: String!
+  slug: String!
+  tier: String!
+  commissionRate: Float!
+  hqCountry: String!
+  logoUrl: String
+  description: String!
+  keySellingPoints: [String!]!
+}
+
+type VehicleModel {
+  id: ID!
+  brand: String!
+  model: String!
+  year: Int!
+  category: String!
+  transmission: String!
+  fuelType: String!
+  engine: String!
+  horsepower: Int!
+  driveType: String!
+  doors: Int!
+  seats: Int!
+  fuelEconomy: String!
+  rangeKm: Int!
+}
+
+type RentalLocation {
+  id: ID!
+  name: String!
+  slug: String!
+  type: String!
+  city: String!
+  country: String!
+  countryCode: String!
+  region: String!
+  lat: Float!
+  lon: Float!
+  currency: String!
+  airportCode: String
+  oneWaySupported: Boolean!
+  crossBorderAllowed: Boolean!
+}
+
+type CarSearchResult {
+  id: ID!
+  slug: String!
+  title: String!
+  companyName: String!
+  brand: String!
+  model: String!
+  year: Int!
+  category: String!
+  transmission: String!
+  fuelType: String!
+  seats: Int!
+  locationName: String!
+  city: String!
+  country: String!
+  fromPricePerDayUSD: Float!
+  ratingOverall: Float!
+  reviewCount: Int!
+}
+
+type Query {
+  rentalCompanies: [RentalCompany!]!
+  vehicles(category: String, brand: String): [VehicleModel!]!
+  locations(country: String, type: String): [RentalLocation!]!
+  searchCars(
+    q: String
+    company: String
+    country: String
+    category: String
+    transmission: String
+    maxPricePerDay: Float
+    page: Int
+    limit: Int
+  ): [CarSearchResult!]!
+}
