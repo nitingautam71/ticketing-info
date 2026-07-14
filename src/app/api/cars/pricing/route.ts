@@ -15,7 +15,7 @@ export async function POST(req: Request) {
       return NextResponse.json({ error: 'Missing car listing slug' }, { status: 400 });
     }
 
-    const listing = getCarBySlug(slug);
+    const listing = await getCarBySlug(slug);
     if (!listing) {
       return NextResponse.json({ error: 'Car rental listing not found' }, { status: 404 });
     }

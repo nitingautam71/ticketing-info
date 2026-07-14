@@ -6,7 +6,7 @@ const VALID_TIERS: RentalDurationTier[] = ['hourly', 'halfDay', 'daily', 'weeken
 
 export async function GET(req: Request, { params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const listing = getCarBySlug(slug);
+  const listing = await getCarBySlug(slug);
   if (!listing) {
     return NextResponse.json({ error: 'Car rental listing not found' }, { status: 404 });
   }

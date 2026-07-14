@@ -120,9 +120,9 @@ model Lead {
   stage         LeadStage     @default(new)
   priority      LeadPriority  @default(normal)
 
-  name    String
-  email   String?
-  phone   String?
+  name  String
+  email String?
+  phone String?
 
   message    String?
   notes      String?
@@ -187,12 +187,12 @@ model Customer {
 // as "pending" the moment a lead is captured and are moved to "confirmed" by
 // an admin once payment/ticketing is settled offline (phone, WhatsApp, bank transfer).
 model Booking {
-  id         String        @id @default(cuid())
-  displayId  String        @unique // e.g. BK-20260711-000042
-  createdAt  DateTime      @default(now())
-  updatedAt  DateTime      @updatedAt
-  vertical   Vertical
-  status     BookingStatus @default(pending)
+  id        String        @id @default(cuid())
+  displayId String        @unique // e.g. BK-20260711-000042
+  createdAt DateTime      @default(now())
+  updatedAt DateTime      @updatedAt
+  vertical  Vertical
+  status    BookingStatus @default(pending)
 
   title         String
   subtitle      String?
@@ -276,8 +276,8 @@ model Quotation {
   discount  Float @default(0)
   total     Float
 
-  status              String    @default("draft") // draft | sent | accepted | rejected | expired
-  validUntil          DateTime?
+  status               String    @default("draft") // draft | sent | accepted | rejected | expired
+  validUntil           DateTime?
   convertedToBookingId String?
 }
 
@@ -318,15 +318,15 @@ model CardAuthorization {
   booking   Booking @relation(fields: [bookingId], references: [id], onDelete: Cascade)
   bookingId String
 
-  cardholderName  String
-  cardLast4       String
-  cardBrand       String?
-  amount          Float
-  currency        String  @default("USD")
-  declarationText String
+  cardholderName   String
+  cardLast4        String
+  cardBrand        String?
+  amount           Float
+  currency         String    @default("USD")
+  declarationText  String
   signatureDataUrl String?
-  signedAt        DateTime?
-  ipAddress       String?
+  signedAt         DateTime?
+  ipAddress        String?
 
   @@index([bookingId])
 }
@@ -391,7 +391,7 @@ model CommunicationLog {
   createdAt DateTime @default(now())
 
   channel       CommChannel
-  direction     String  @default("outbound") // inbound | outbound
+  direction     String      @default("outbound") // inbound | outbound
   content       String
   attachmentUrl String?
 
@@ -539,10 +539,10 @@ model Destination {
 }
 
 model Package {
-  id              String   @id @default(cuid())
-  createdAt       DateTime @default(now())
-  updatedAt       DateTime @updatedAt
-  slug            String   @unique
+  id              String      @id @default(cuid())
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+  slug            String      @unique
   destination     Destination @relation(fields: [destinationId], references: [id])
   destinationId   String
   destinationSlug String
@@ -563,4 +563,89 @@ model Package {
   @@index([destinationId])
   @@index([fromPriceUSD])
   @@index([durationDays])
+}
+
+// ---- Cruise & Car rental catalogs ----
+// The generated cruise/car catalogs (10,641 + 17,165 records, ~850MB as JSON files)
+// used to ship inside the Next.js serverless bundles via readFileSync, which forced
+// Vercel to split routes into many functions and blew the Hobby-plan 12-function
+// deployment cap. They live here instead: searchable columns for the list/filter
+// pages, plus the full detail payload gzipped in `detail` (fits Neon's storage tier;
+// decompressed + cached in-memory by src/lib/providers/{cruises,cars}.ts).
+
+model CruiseCatalog {
+  slug              String   @id
+  title             String
+  cruiseLineName    String
+  shipName          String
+  destination       String
+  departurePortName String
+  arrivalPortName   String
+  durationNights    Int
+  categories        String[]
+  durationCats      String[] // e.g. "5-8 Nights" buckets, from filters.duration
+  fromPriceUSD      Int
+  ratingOverall     Float
+  reviewCount       Int
+  riverCruise       Boolean
+  oceanCruise       Boolean
+  adultsOnly        Boolean
+  expedition        Boolean
+  heroImage         Json // CruiseImageAsset
+  filters           Json // Partial<CruiseSearchFilters> subset used by result cards
+  searchText        String // lowercased haystack (title/line/ship/ports/tags) for q lookups
+  detail            Bytes // gzipped full CruisePackage JSON
+
+  @@index([destination])
+  @@index([cruiseLineName])
+  @@index([departurePortName])
+  @@index([fromPriceUSD])
+}
+
+model CarCatalog {
+  slug               String  @id
+  title              String
+  companyId          String
+  companyName        String
+  companyTier        String
+  brand              String
+  model              String
+  year               Int
+  category           String
+  transmission       String
+  fuelType           String
+  seats              Int
+  doors              Int
+  luggage            Int
+  locationName       String
+  locationType       String
+  city               String
+  country            String
+  countryCode        String
+  fromPricePerDayUSD Int
+  ratingOverall      Float
+  reviewCount        Int
+  ev                 Boolean
+  hybrid             Boolean
+  luxury             Boolean
+  budget             Boolean
+  airportPickup      Boolean
+  unlimitedMileage   Boolean
+  freeCancellation   Boolean
+  petFriendly        Boolean
+  oneWayAvailable    Boolean
+  familyTravel       Boolean
+  businessTravel     Boolean
+  adventureTravel    Boolean
+  heroImage          Json // CarImageAsset
+  filters            Json // Partial<CarSearchFilters> subset used by result cards
+  searchText         String // lowercased haystack (title/brand/model/company/location/tags)
+  detail             Bytes // gzipped full CarListing JSON
+
+  @@index([country])
+  @@index([city])
+  @@index([companyName])
+  @@index([category])
+  @@index([brand])
+  @@index([fromPricePerDayUSD])
 }

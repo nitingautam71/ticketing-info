@@ -18,7 +18,7 @@ interface PageProps {
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
-  const pkg = getCruiseBySlug(slug);
+  const pkg = await getCruiseBySlug(slug);
   if (!pkg) return {};
 
   const image = getDisplayImageUrl(pkg.slug, pkg.destination, pkg.categories);
@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
 export default async function CruiseDetailPage({ params }: PageProps) {
   const { slug } = await params;
-  const pkg = getCruiseBySlug(slug);
+  const pkg = await getCruiseBySlug(slug);
   if (!pkg) notFound();
 
   const initialPricing = getCruisePricing(pkg, 'US', 'couple', 'midRange');

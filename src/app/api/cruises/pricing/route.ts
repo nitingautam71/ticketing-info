@@ -14,7 +14,7 @@ export async function POST(req: Request) {
       return NextResponse.json({ error: 'Missing cruise package slug' }, { status: 400 });
     }
 
-    const pkg = getCruiseBySlug(slug);
+    const pkg = await getCruiseBySlug(slug);
     if (!pkg) {
       return NextResponse.json({ error: 'Cruise package not found' }, { status: 404 });
     }
