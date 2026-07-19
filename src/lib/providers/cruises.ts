@@ -3,6 +3,7 @@ import type { Prisma } from '@prisma/client';
 import { prisma } from '@/lib/db';
 import type { CruisePackage, CruiseSearchResult, CruisePricingBreakdown, CruiseTravelerType, CruisePricingTier, CruiseLine, Ship, CruisePort, CruiseImageAsset, CruiseSearchFilters, CruiseCategory } from '@/lib/cruises/types';
 import { computeCruisePricing } from '@/lib/cruises/pricing';
+import type { CruiseHubStats } from '@/lib/cruises/hubs';
 import { CRUISE_LINES, CRUISE_LINES_BY_ID } from '@/lib/cruises/cruise-lines';
 import { SHIPS, SHIPS_BY_ID } from '@/lib/cruises/ships';
 import { PORTS, PORTS_BY_ID } from '@/lib/cruises/ports';
@@ -167,6 +168,96 @@ export function getAllCruisePricingTiers(
   return Object.fromEntries(
     tiers.map((tier) => [tier, getCruisePricing(pkg, originMarketCode, travelerType, tier)])
   ) as Record<CruisePricingTier, CruisePricingBreakdown>;
+}
+
+// --- Hub page aggregates (destination / cruise line / departure port SEO hubs) ---
+
+type HubDimension = 'destination' | 'cruiseLineName' | 'departurePortName';
+
+async function getHubStats(dimension: HubDimension, value: string): Promise<CruiseHubStats | null> {
+  const where = { [dimension]: value } as Prisma.CruiseCatalogWhereInput;
+
+  const agg = await prisma.cruiseCatalog.aggregate({
+    where,
+    _count: { _all: true },
+    _min: { fromPriceUSD: true, durationNights: true },
+    _max: { durationNights: true },
+  });
+  if (agg._count._all === 0) return null;
+
+  const [lineGroups, destGroups] = await Promise.all([
+    dimension === 'cruiseLineName'
+      ? Promise.resolve([])
+      : prisma.cruiseCatalog.groupBy({
+          by: ['cruiseLineName'],
+          where,
+          _count: { _all: true },
+          orderBy: { _count: { cruiseLineName: 'desc' } },
+          take: 4,
+        }),
+    dimension === 'destination'
+      ? Promise.resolve([])
+      : prisma.cruiseCatalog.groupBy({
+          by: ['destination'],
+          where,
+          _count: { _all: true },
+          orderBy: { _count: { destination: 'desc' } },
+          take: 4,
+        }),
+  ]);
+
+  return {
+    count: agg._count._all,
+    minPriceUSD: agg._min.fromPriceUSD ?? 0,
+    minNights: agg._min.durationNights ?? 0,
+    maxNights: agg._max.durationNights ?? 0,
+    topLines: lineGroups.map((g) => g.cruiseLineName),
+    topDestinations: destGroups.map((g) => g.destination),
+  };
+}
+
+export function getDestinationHubStats(destination: string) {
+  return getHubStats('destination', destination);
+}
+
+export function getLineHubStats(cruiseLineName: string) {
+  return getHubStats('cruiseLineName', cruiseLineName);
+}
+
+export function getPortHubStats(departurePortName: string) {
+  return getHubStats('departurePortName', departurePortName);
+}
+
+/** Highest-rated sailings for a hub's featured grid. */
+export async function getTopCruises(
+  filter: Partial<Record<HubDimension, string>>,
+  limit = 6
+): Promise<CruiseSearchResult[]> {
+  const rows = await prisma.cruiseCatalog.findMany({
+    where: filter as Prisma.CruiseCatalogWhereInput,
+    orderBy: [{ ratingOverall: 'desc' }, { reviewCount: 'desc' }],
+    take: limit,
+    omit: { detail: true, searchText: true },
+  });
+
+  return rows.map((r) => ({
+    id: `PKG-CRUISE-${r.slug.toUpperCase()}`,
+    slug: r.slug,
+    title: r.title,
+    cruiseLineName: r.cruiseLineName,
+    shipName: r.shipName,
+    destination: r.destination,
+    departurePortName: r.departurePortName,
+    arrivalPortName: r.arrivalPortName,
+    durationNights: r.durationNights,
+    categories: r.categories as CruiseCategory[],
+    fromPriceUSD: r.fromPriceUSD,
+    ratingOverall: r.ratingOverall,
+    reviewCount: r.reviewCount,
+    heroImage: r.heroImage as unknown as CruiseImageAsset,
+    aiSearchTags: [],
+    filters: r.filters as Partial<CruiseSearchFilters>,
+  }));
 }
 
 // Search/filter matching against the catalog table, with real pagination.

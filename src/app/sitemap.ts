@@ -1,5 +1,8 @@
 import type { MetadataRoute } from 'next';
 import { prisma } from '@/lib/db';
+import { DESTINATION_HUBS, portHubPath } from '@/lib/cruises/hubs';
+import { CRUISE_LINES } from '@/lib/cruises/cruise-lines';
+import { getCruiseFacets } from '@/lib/providers/cruises';
 
 const PUBLIC_ROUTES = [
   '/',
@@ -51,5 +54,21 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.6,
   }));
 
-  return [...staticEntries, ...blogEntries];
+  // Cruise hub cluster: destination + cruise line pages are static content
+  // modules; port pages only exist where the catalog actually has departures.
+  const facets = await getCruiseFacets();
+  const cruiseHubPaths = [
+    ...DESTINATION_HUBS.map((hub) => `/cruises/destination/${hub.slug}`),
+    ...CRUISE_LINES.map((line) => `/cruises/line/${line.slug}`),
+    ...facets.departurePorts.map((name) => portHubPath(name)).filter((p): p is string => p !== null),
+  ];
+
+  const cruiseHubEntries: MetadataRoute.Sitemap = cruiseHubPaths.map((path) => ({
+    url: `${siteUrl}${path}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.8,
+  }));
+
+  return [...staticEntries, ...cruiseHubEntries, ...blogEntries];
 }

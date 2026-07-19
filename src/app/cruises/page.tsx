@@ -7,6 +7,8 @@ import CruiseSearchBar from '@/components/cruises/CruiseSearchBar';
 import CruisePagination from '@/components/cruises/CruisePagination';
 import { HERO_COPY } from '@/lib/nav';
 import { searchCruises, getCruiseFacets, getDisplayImageUrl, getCruiseLineLogoUrl } from '@/lib/providers/cruises';
+import CruiseHubLinks from '@/components/cruises/hub/CruiseHubLinks';
+import CruiseCallCta from '@/components/cruises/CruiseCallCta';
 import { Ship, LayoutGrid } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -139,7 +141,13 @@ export default async function CruisesPage({ searchParams }: CruisesPageProps) {
             )}
           </div>
         </div>
+
+        <div className="mt-12">
+          <CruiseCallCta placement="cruise_index" heading="Not sure which cruise? That's literally our job." />
+        </div>
       </div>
+
+      <CruiseHubLinks departurePorts={facets.departurePorts} />
     </div>
   );
 }
