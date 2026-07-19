@@ -1,7 +1,6 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import {
-  DESTINATION_HUBS,
   DESTINATION_HUBS_BY_SLUG,
   buildDestinationFaqs,
   destinationHubPath,
@@ -11,6 +10,9 @@ import {
 import { getDestinationHubStats, getTopCruises, getCruiseFacets } from '@/lib/providers/cruises';
 import CruiseHubLayout, { type HubLinkGroup } from '@/components/cruises/hub/CruiseHubLayout';
 
+// On-demand ISR: rendered on first request and cached for an hour. No
+// generateStaticParams — build environments (CI, Vercel) must not need a
+// reachable database to compile the site.
 export const revalidate = 3600;
 
 // Popular with U.S. searchers — the default related-destinations rail.
@@ -101,8 +103,4 @@ export default async function CruiseDestinationPage({ params }: PageProps) {
       linkGroups={linkGroups}
     />
   );
-}
-
-export function generateStaticParams() {
-  return DESTINATION_HUBS.map((hub) => ({ slug: hub.slug }));
 }

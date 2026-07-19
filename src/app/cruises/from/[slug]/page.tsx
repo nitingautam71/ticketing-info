@@ -136,7 +136,3 @@ export default async function CruisePortPage({ params }: PageProps) {
     </CruiseHubLayout>
   );
 }
-
-export function generateStaticParams() {
-  return PORTS.map((port) => ({ slug: port.id }));
-}

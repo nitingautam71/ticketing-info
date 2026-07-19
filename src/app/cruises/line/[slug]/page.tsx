@@ -142,7 +142,3 @@ export default async function CruiseLinePage({ params }: PageProps) {
     </CruiseHubLayout>
   );
 }
-
-export function generateStaticParams() {
-  return CRUISE_LINES.map((line) => ({ slug: line.slug }));
-}
