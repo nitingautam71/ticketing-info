@@ -3,15 +3,18 @@
 import { Phone, MessageCircle } from 'lucide-react';
 import { telLink, whatsappLink, businessPhoneDisplay } from '@/lib/whatsapp';
 import { trackEvent, trackConversion } from '@/lib/analytics';
+import { beaconCallClick } from '@/lib/attribution';
 
 export default function LpCallWhatsappButtons({ theme, whatsappMessage }: { theme: string; whatsappMessage: string }) {
   const onCall = () => {
     trackEvent('click_to_call', { source: 'lp_inline', theme });
     trackConversion(process.env.NEXT_PUBLIC_GOOGLE_ADS_LABEL_CALL, { theme });
+    beaconCallClick({ channel: 'call', placement: 'lp_inline', phone: businessPhoneDisplay() });
   };
   const onWhatsapp = () => {
     trackEvent('whatsapp_click', { source: 'lp_inline', theme });
     trackConversion(process.env.NEXT_PUBLIC_GOOGLE_ADS_LABEL_WHATSAPP, { theme });
+    beaconCallClick({ channel: 'whatsapp', placement: 'lp_inline' });
   };
 
   return (

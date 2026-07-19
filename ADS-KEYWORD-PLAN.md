@@ -1,6 +1,6 @@
 # Google Ads Keyword Plan — Ticketing-Info
 
-Buyer-intent keywords for the 4 paid-traffic landing pages (`/lp/*`), grouped into tight ad-group themes.
+Buyer-intent keywords for the 5 paid-traffic landing pages (`/lp/*`), grouped into tight ad-group themes.
 These are deliberately narrower and more transactional than `SEO-CONTENT-PLAN.md` — that document targets
 research-stage searchers Google should rank organically over months; this one targets people typing a query
 with a credit card in hand, right now, that we bid on directly. Built on the same market research validated
@@ -67,6 +67,29 @@ data before launch, not as a final locked list.
 | train ticket confirmation help | Phrase | 🟡 |
 | waitlist ticket confirmation chances | Broad-match modifier | 🟡 |
 | train seat availability check | Broad | 🟢 |
+
+## Ad Group 5 — Cruise Deals (`/lp/cruise-deals`)
+
+U.S.-audience group (unlike groups 1–4, which skew NRI/India routes). Serve U.S. geo-targets, daytime
+bid adjustments, and **call extensions on every ad** — the whole point of this vertical is inbound phone
+calls (see `CRUISE-CALL-ENGINE.md`).
+
+| Keyword | Match type to start | Intent |
+|---|---|---|
+| cruise travel agent | Phrase | 🔴 |
+| cruise travel agent near me | Phrase | 🔴 |
+| book a cruise by phone | Phrase | 🔴 |
+| [destination] cruise deals (Caribbean, Bahamas, Alaska…) | Phrase (per destination hub) | 🔴 |
+| cruises from [port] (Miami, Fort Lauderdale, Galveston…) | Phrase (per port hub) | 🔴 |
+| last minute cruise deals | Phrase | 🔴 |
+| [cruise line] cruise deals (Royal Caribbean, Carnival…) | Phrase (per line hub) | 🟡 |
+| cheap caribbean cruises all inclusive | Phrase | 🟡 |
+| first time cruise advice | Broad | 🟢 (remarketing feed for the hub pages) |
+| cruises | Broad | 🟢 (high volume — cap budget hard or skip) |
+
+Destination/port/line template keywords should deep-link to the matching SEO hub
+(`/cruises/destination/*`, `/cruises/from/*`, `/cruises/line/*`) rather than the generic LP — message
+match lifts Quality Score and the hubs carry the same call CTAs with full attribution.
 
 ## Notes for the first two weeks
 

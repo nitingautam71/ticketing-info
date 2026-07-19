@@ -8,6 +8,7 @@ import { BookingEnquiryProvider } from '@/components/leads/BookingEnquiryContext
 import JsonLd from '@/components/seo/JsonLd';
 import { travelAgencyJsonLd } from '@/lib/structuredData';
 import GoogleAnalytics from '@/components/analytics/GoogleAnalytics';
+import AttributionCapture from '@/components/analytics/AttributionCapture';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter', weight: ['400', '500', '600', '700', '800', '900'] });
 const fraunces = Fraunces({ subsets: ['latin'], variable: '--font-fraunces', weight: ['300', '400', '500', '600'], style: ['normal', 'italic'] });
@@ -51,6 +52,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="min-h-screen bg-neutral-950 text-neutral-50 flex flex-col font-sans antialiased">
         <JsonLd data={travelAgencyJsonLd()} />
         <GoogleAnalytics />
+        <AttributionCapture />
         <BookingEnquiryProvider>
           <Header />
           <main className="flex-1 flex flex-col">{children}</main>

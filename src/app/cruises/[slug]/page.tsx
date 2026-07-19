@@ -6,6 +6,7 @@ import { Ship, Anchor, Star, ArrowLeft, Shield } from 'lucide-react';
 import { getCruiseBySlug, getCruisePricing, getDisplayImageUrl, getCruiseLineLogoUrl } from '@/lib/providers/cruises';
 import JsonLd from '@/components/seo/JsonLd';
 import CruisePricingWidget from '@/components/cruises/CruisePricingWidget';
+import CruiseCallCta from '@/components/cruises/CruiseCallCta';
 import ItineraryTimeline from '@/components/cruises/ItineraryTimeline';
 import OnboardExperience from '@/components/cruises/OnboardExperience';
 import ShoreExcursions from '@/components/cruises/ShoreExcursions';
@@ -136,6 +137,12 @@ export default async function CruiseDetailPage({ params }: PageProps) {
 
           {/* Live pricing configurator + cabin fare table + per-cabin booking */}
           <CruisePricingWidget pkg={pkg} initialPricing={initialPricing} />
+
+          <CruiseCallCta
+            placement="cruise_detail"
+            heading={`Questions about ${pkg.shipName}? Ask a consultant who knows her.`}
+            whatsappMessage={`Hi! I'm interested in the "${pkg.title}" cruise.`}
+          />
 
           {/* Itinerary Timeline */}
           <div className="bg-white dark:bg-slate-900 border border-slate-100 dark:border-slate-800/80 rounded-2xl p-6 shadow-sm">

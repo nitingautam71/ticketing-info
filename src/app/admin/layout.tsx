@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { LayoutDashboard, Users, UserCog, CheckSquare, BookOpen, Mail, LogOut, Star, HelpCircle, Newspaper, Settings, IdCard } from 'lucide-react';
+import { LayoutDashboard, Users, UserCog, CheckSquare, BookOpen, Mail, LogOut, Star, HelpCircle, Newspaper, Settings, IdCard, PhoneCall } from 'lucide-react';
 
 export const metadata: Metadata = {
   robots: { index: false, follow: false },
@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 const ADMIN_NAV = [
   { href: '/admin', label: 'Dashboard', icon: LayoutDashboard },
   { href: '/admin/leads', label: 'Leads', icon: Users },
+  { href: '/admin/calls', label: 'Call Clicks', icon: PhoneCall },
   { href: '/admin/customers', label: 'Customers', icon: IdCard },
   { href: '/admin/agents', label: 'Agents', icon: UserCog },
   { href: '/admin/tasks', label: 'Tasks', icon: CheckSquare },
