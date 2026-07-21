@@ -11,29 +11,31 @@ export interface FeaturedCorridor {
   label: string;
 }
 
-export const FEATURED_CORRIDORS_US: FeaturedCorridor[] = [
+// Amtrak corridors featured on the hub, split into the fast Northeast/state
+// corridors and the iconic long-distance overnight routes.
+export const FEATURED_CORRIDORS_NEC: FeaturedCorridor[] = [
   { from: 'new-york', to: 'washington-dc', label: 'New York → Washington DC' },
   { from: 'new-york', to: 'boston', label: 'New York → Boston' },
-  { from: 'miami', to: 'orlando', label: 'Miami → Orlando' },
+  { from: 'philadelphia', to: 'harrisburg', label: 'Philadelphia → Harrisburg' },
   { from: 'los-angeles', to: 'san-diego', label: 'Los Angeles → San Diego' },
   { from: 'seattle', to: 'portland', label: 'Seattle → Portland' },
   { from: 'chicago', to: 'milwaukee', label: 'Chicago → Milwaukee' },
+  { from: 'oakland', to: 'bakersfield', label: 'Oakland → Bakersfield' },
+  { from: 'raleigh', to: 'charlotte', label: 'Raleigh → Charlotte' },
+];
+
+export const FEATURED_CORRIDORS_LONG_DISTANCE: FeaturedCorridor[] = [
+  { from: 'chicago', to: 'san-francisco-bay-area', label: 'Chicago → SF Bay (Zephyr)' },
+  { from: 'chicago', to: 'seattle', label: 'Chicago → Seattle (Empire Builder)' },
+  { from: 'seattle', to: 'los-angeles', label: 'Seattle → LA (Coast Starlight)' },
+  { from: 'new-york', to: 'miami', label: 'New York → Miami (Silver Star)' },
+  { from: 'chicago', to: 'new-orleans', label: 'Chicago → New Orleans' },
   { from: 'new-york', to: 'chicago', label: 'New York → Chicago' },
-  { from: 'anchorage', to: 'fairbanks', label: 'Anchorage → Fairbanks' },
+  { from: 'lorton', to: 'sanford', label: 'Lorton → Sanford (Auto Train)' },
+  { from: 'washington-dc', to: 'st-albans', label: 'Washington DC → Vermont' },
 ];
 
-export const FEATURED_CORRIDORS_IN: FeaturedCorridor[] = [
-  { from: 'mumbai', to: 'delhi', label: 'Mumbai → Delhi' },
-  { from: 'delhi', to: 'varanasi', label: 'Delhi → Varanasi' },
-  { from: 'delhi', to: 'agra', label: 'Delhi → Agra' },
-  { from: 'delhi', to: 'jaipur', label: 'Delhi → Jaipur' },
-  { from: 'chennai', to: 'bengaluru', label: 'Chennai → Bengaluru' },
-  { from: 'mumbai', to: 'goa', label: 'Mumbai → Goa' },
-  { from: 'kolkata', to: 'delhi', label: 'Kolkata → Delhi' },
-  { from: 'delhi', to: 'katra', label: 'Delhi → Katra (Vaishno Devi)' },
-];
-
-export const FEATURED_CORRIDORS = [...FEATURED_CORRIDORS_US, ...FEATURED_CORRIDORS_IN];
+export const FEATURED_CORRIDORS = [...FEATURED_CORRIDORS_NEC, ...FEATURED_CORRIDORS_LONG_DISTANCE];
 
 /**
  * Every city-pair corridor that at least one bundled service actually covers,
@@ -60,14 +62,14 @@ export function allCorridorPairs(): { from: string; to: string }[] {
   });
 }
 
-/** Train slugs highlighted on the hub page. */
+/** Amtrak train slugs highlighted on the hub page. */
 export const FEATURED_TRAINS = [
   'acela',
-  'brightline-florida',
   'california-zephyr',
   'coast-starlight',
-  'denali-star',
-  'vande-bharat-new-delhi-varanasi',
-  'mumbai-rajdhani',
-  'gatimaan-express',
+  'empire-builder',
+  'auto-train',
+  'silver-star',
+  'southwest-chief',
+  'vermonter',
 ];

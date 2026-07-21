@@ -3,7 +3,8 @@
 // serverless bundle — searches need zero external calls. Mutable state (service
 // disruptions, admin notes) lives in Postgres as TrainServiceOverride.
 
-export type TrainCountry = 'US' | 'IN';
+// US today; 'CA' reserved for future Canadian cross-border operators (VIA Rail).
+export type TrainCountry = 'US' | 'CA';
 
 export type StationFacility =
   | 'parking'
@@ -19,11 +20,11 @@ export type StationFacility =
   | 'checked_baggage';
 
 export interface TrainStation {
-  /** Operator station code (Amtrak 3-letter / Indian Railways code). */
+  /** Operator station code (Amtrak 3-letter code). */
   code: string;
   name: string;
   city: string;
-  /** State (US) or state/UT (India). */
+  /** US state (or Canadian province for future cross-border stations). */
   region: string;
   country: TrainCountry;
   /** URL slug for /trains/station/[slug] — unique across the dataset. */
@@ -53,6 +54,14 @@ export interface TrainOperator {
   name: string;
   country: TrainCountry;
   website: string;
+  /**
+   * Feature flag: only enabled operators' services and stations are active in
+   * search, pages, sitemap and AI grounding. Disabled operators are
+   * placeholders that can be switched on through configuration (flip this flag)
+   * without any code change — the platform is Amtrak-only today, with
+   * Brightline, Alaska Railroad and VIA Rail staged for future activation.
+   */
+  enabled: boolean;
   /** How Ticketing-Info fulfils bookings for this operator today. */
   bookingModel: string;
   description: string;
@@ -75,7 +84,7 @@ export interface TrainClassFare {
   name: string;
   /** Indicative end-to-end one-way fare — real fares are dynamic. */
   fare: number;
-  currency: 'USD' | 'INR';
+  currency: 'USD' | 'CAD';
   perks: string[];
 }
 

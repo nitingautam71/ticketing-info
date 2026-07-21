@@ -8,7 +8,7 @@ export function formatDuration(minutes: number): string {
 }
 
 export function formatFare(cls: Pick<TrainClassFare, 'fare' | 'currency'>): string {
-  return cls.currency === 'INR' ? `₹${cls.fare.toLocaleString('en-IN')}` : `$${cls.fare.toLocaleString('en-US')}`;
+  return cls.currency === 'CAD' ? `C$${cls.fare.toLocaleString('en-US')}` : `$${cls.fare.toLocaleString('en-US')}`;
 }
 
 export function cheapestFareLabel(classes: TrainClassFare[]): string | null {

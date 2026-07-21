@@ -1,6 +1,7 @@
 import { prisma } from '@/lib/db';
-import { allServices } from '@/lib/trains/engine';
-import { TRAIN_STATIONS, stationByCode } from '@/lib/trains/data/stations';
+import { activeStations, allServices } from '@/lib/trains/engine';
+import { stationByCode } from '@/lib/trains/data/stations';
+import { TRAIN_OPERATORS } from '@/lib/trains/data/operators';
 import TrainOverrideEditor from '@/components/admin/trains/TrainOverrideEditor';
 
 export const dynamic = 'force-dynamic';
@@ -31,14 +32,16 @@ async function loadTrainAdminData() {
 export default async function AdminTrainsPage() {
   const { overrides, totalSearches, corridorGroups, zeroResultGroups } = await loadTrainAdminData();
   const services = allServices();
+  const stations = activeStations();
   const trains = services.map((s) => ({ slug: s.slug, name: s.name })).sort((a, b) => a.name.localeCompare(b.name));
+  const liveOperators = TRAIN_OPERATORS.filter((o) => o.enabled);
 
   return (
     <div className="space-y-6">
       <div>
-        <h1 className="text-2xl font-bold text-white">Rail Services</h1>
+        <h1 className="text-2xl font-bold text-white">Amtrak Rail Services</h1>
         <p className="text-sm text-neutral-400 mt-1">
-          Post disruption and suspension notices against bundled timetables (notices always win, cached 60s) and watch what travellers are searching.
+          Post disruption and suspension notices against bundled Amtrak timetables (notices always win, cached 60s) and watch what travellers are searching.
         </p>
       </div>
 
@@ -52,12 +55,37 @@ export default async function AdminTrainsPage() {
           <p className="text-2xl font-black text-white mt-1">{overrides.length}</p>
         </div>
         <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-5">
-          <p className="text-[10px] text-neutral-500 font-bold uppercase">Timetable</p>
-          <p className="text-sm font-bold text-white mt-1 leading-snug">{services.length} services · {TRAIN_STATIONS.length} stations</p>
+          <p className="text-[10px] text-neutral-500 font-bold uppercase">Active timetable</p>
+          <p className="text-sm font-bold text-white mt-1 leading-snug">{services.length} services · {stations.length} stations</p>
         </div>
         <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-5">
-          <p className="text-[10px] text-neutral-500 font-bold uppercase">Networks</p>
-          <p className="text-sm font-bold text-white mt-1 leading-snug">Amtrak · Brightline · Alaska RR · Indian Railways</p>
+          <p className="text-[10px] text-neutral-500 font-bold uppercase">Live networks</p>
+          <p className="text-sm font-bold text-white mt-1 leading-snug">{liveOperators.map((o) => o.name).join(' · ')}</p>
+        </div>
+      </div>
+
+      {/* Operator registry — enable additional networks via configuration */}
+      <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-6 space-y-3">
+        <div className="flex items-center justify-between flex-wrap gap-2">
+          <h2 className="text-sm font-bold text-white">Operators</h2>
+          <p className="text-[10px] text-neutral-500">Enable a network by setting <code className="text-neutral-300">enabled: true</code> in src/lib/trains/data/operators.ts — no other code change.</p>
+        </div>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+          {TRAIN_OPERATORS.map((o) => (
+            <div key={o.id} className="flex items-center justify-between bg-neutral-950 border border-neutral-850 rounded-xl px-4 py-2.5">
+              <div>
+                <p className="text-xs font-bold text-white">{o.name}</p>
+                <p className="text-[10px] text-neutral-500">{o.country === 'CA' ? 'Canada' : 'United States'}</p>
+              </div>
+              <span
+                className={`text-[10px] uppercase font-bold tracking-wider border px-2.5 py-1 rounded-full ${
+                  o.enabled ? 'bg-emerald-950/60 text-emerald-400 border-emerald-900' : 'bg-neutral-900 text-neutral-500 border-neutral-800'
+                }`}
+              >
+                {o.enabled ? 'Enabled' : 'Disabled'}
+              </span>
+            </div>
+          ))}
         </div>
       </div>
 

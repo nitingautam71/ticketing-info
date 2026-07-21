@@ -10,11 +10,51 @@ vi.mock('@/lib/db', () => ({
   },
 }));
 
-const { searchCorridor, allServices, servicesAtStation, outboundTimetable, trainBySlug } = await import('./engine');
-const { TRAIN_STATIONS, stationByCode, stationBySlug, resolveStations } = await import('./data/stations');
-const { TRAIN_OPERATORS, operatorById } = await import('./data/operators');
+const { searchCorridor, allServices, servicesAtStation, activeStations, outboundTimetable, trainBySlug } = await import('./engine');
+const { TRAIN_STATIONS, stationByCode, stationBySlug, resolveStations, activeStationsList } = await import('./data/stations');
+const { TRAIN_OPERATORS, operatorById, enabledOperators, isOperatorEnabled } = await import('./data/operators');
+const { railProvider } = await import('@/lib/providers/trains');
 const { allCorridorPairs } = await import('./popular');
 const { formatDuration, formatFare } = await import('./format');
+
+describe('operator gating (Amtrak-only today)', () => {
+  it('enables only Amtrak; Brightline, Alaska Railroad and VIA Rail are disabled placeholders', () => {
+    expect(isOperatorEnabled('amtrak')).toBe(true);
+    expect(isOperatorEnabled('brightline')).toBe(false);
+    expect(isOperatorEnabled('alaska-railroad')).toBe(false);
+    expect(isOperatorEnabled('via-rail')).toBe(false);
+    expect(enabledOperators().map((o) => o.id)).toEqual(['amtrak']);
+  });
+
+  it('keeps disabled placeholders in the registry for future activation', () => {
+    expect(operatorById('via-rail')).toBeDefined();
+    expect(operatorById('brightline')).toBeDefined();
+  });
+
+  it('active catalog is Amtrak-only; the full catalog still holds placeholder data', () => {
+    expect(allServices().every((s) => s.operator === 'amtrak')).toBe(true);
+    // Brightline/Alaska data is retained but filtered out of the active catalog.
+    expect(railProvider.allServices().some((s) => s.operator === 'brightline')).toBe(true);
+    expect(railProvider.services().some((s) => s.operator === 'brightline')).toBe(false);
+  });
+});
+
+describe('India has been fully removed', () => {
+  it('no station, service or operator is Indian', () => {
+    expect(TRAIN_STATIONS.some((s) => (s.country as string) === 'IN')).toBe(false);
+    expect(railProvider.allServices().some((s) => (s.country as string) === 'IN')).toBe(false);
+    expect(TRAIN_OPERATORS.some((o) => o.id === 'indian-railways')).toBe(false);
+    for (const code of ['NDLS', 'CSMT', 'MAS', 'HWH']) expect(stationByCode(code)).toBeUndefined();
+  });
+
+  it('does not resolve Indian cities or return Indian corridors', async () => {
+    expect(resolveStations('delhi')).toHaveLength(0);
+    expect(resolveStations('mumbai')).toHaveLength(0);
+    expect(await searchCorridor('mumbai', 'delhi')).toBeNull();
+    expect(trainBySlug('mumbai-rajdhani')).toBeUndefined();
+    expect(trainBySlug('gatimaan-express')).toBeUndefined();
+  });
+});
 
 describe('dataset integrity', () => {
   it('has unique station codes and slugs', () => {
@@ -24,13 +64,13 @@ describe('dataset integrity', () => {
     expect(slugs.size).toBe(TRAIN_STATIONS.length);
   });
 
-  it('has unique train slugs', () => {
-    const slugs = new Set(allServices().map((s) => s.slug));
-    expect(slugs.size).toBe(allServices().length);
+  it('has unique train slugs across the full catalog', () => {
+    const all = railProvider.allServices();
+    expect(new Set(all.map((s) => s.slug)).size).toBe(all.length);
   });
 
   it('references only known stations and operators from every service', () => {
-    for (const service of allServices()) {
+    for (const service of railProvider.allServices()) {
       expect(operatorById(service.operator), `operator for ${service.slug}`).toBeDefined();
       for (const stop of service.stops) {
         expect(stationByCode(stop.station), `station ${stop.station} on ${service.slug}`).toBeDefined();
@@ -39,7 +79,7 @@ describe('dataset integrity', () => {
   });
 
   it('has monotonically increasing stop times ending at the stated duration', () => {
-    for (const service of allServices()) {
+    for (const service of railProvider.allServices()) {
       expect(service.stops.length, service.slug).toBeGreaterThanOrEqual(2);
       for (let i = 1; i < service.stops.length; i++) {
         expect(service.stops[i].minutesFromStart, `${service.slug} stop ${i}`).toBeGreaterThan(service.stops[i - 1].minutesFromStart);
@@ -48,20 +88,31 @@ describe('dataset integrity', () => {
     }
   });
 
-  it('gives every service at least one priced class in a single currency', () => {
-    for (const service of allServices()) {
+  it('gives every service USD (or future CAD) fares, one currency each', () => {
+    for (const service of railProvider.allServices()) {
       expect(service.classes.length, service.slug).toBeGreaterThan(0);
       const currencies = new Set(service.classes.map((c) => c.currency));
       expect(currencies.size, service.slug).toBe(1);
-      expect([...currencies][0]).toBe(service.country === 'IN' ? 'INR' : 'USD');
+      expect(['USD', 'CAD']).toContain([...currencies][0]);
       for (const cls of service.classes) expect(cls.fare, `${service.slug} ${cls.code}`).toBeGreaterThan(0);
     }
   });
+});
 
-  it('covers both target markets across four operators', () => {
-    expect(TRAIN_OPERATORS).toHaveLength(4);
-    expect(allServices().some((s) => s.country === 'US')).toBe(true);
-    expect(allServices().some((s) => s.country === 'IN')).toBe(true);
+describe('Amtrak route coverage', () => {
+  const REQUIRED = [
+    'acela', 'northeast-regional', 'california-zephyr', 'empire-builder', 'coast-starlight',
+    'southwest-chief', 'texas-eagle', 'silver-star', 'silver-meteor', 'capitol-limited',
+    'lake-shore-limited', 'crescent', 'cardinal', 'auto-train', 'sunset-limited',
+    'city-of-new-orleans', 'borealis', 'downeaster', 'pacific-surfliner', 'san-joaquins',
+    'amtrak-cascades', 'keystone-service', 'carolinian', 'palmetto', 'piedmont',
+    'missouri-river-runner', 'lincoln-service', 'hiawatha', 'heartland-flyer', 'maple-leaf',
+    'adirondack', 'ethan-allen-express', 'vermonter',
+  ];
+
+  it('includes every headline Amtrak service from the brief', () => {
+    const slugs = new Set(allServices().map((s) => s.slug));
+    for (const slug of REQUIRED) expect(slugs.has(slug), `missing ${slug}`).toBe(true);
   });
 });
 
@@ -73,10 +124,9 @@ describe('station resolution', () => {
   });
 
   it('resolves a multi-station city slug to every station in that city', () => {
-    const delhi = resolveStations('delhi');
-    expect(delhi.length).toBeGreaterThan(1);
-    expect(delhi.map((s) => s.code)).toContain('NDLS');
-    expect(delhi.map((s) => s.code)).toContain('NZM');
+    const boston = resolveStations('boston');
+    expect(boston.length).toBeGreaterThan(1);
+    expect(boston.map((s) => s.code)).toEqual(expect.arrayContaining(['BOS', 'BON']));
   });
 
   it('returns nothing for an unknown place', () => {
@@ -91,7 +141,6 @@ describe('corridor search', () => {
     const names = result!.journeys.map((j) => j.service.name);
     expect(names).toContain('Acela');
     expect(names).toContain('Northeast Regional');
-    // Acela is the fastest thing on the corridor.
     expect(result!.fastest?.service.slug).toBe('acela');
   });
 
@@ -110,12 +159,19 @@ describe('corridor search', () => {
     expect(shortBuilder.classes[0].fare).toBeLessThan(fullBuilder.classes[0].fare);
   });
 
-  it('computes an overnight arrival with a day offset', async () => {
-    const result = await searchCorridor('mumbai', 'delhi');
-    const rajdhani = result!.journeys.find((j) => j.service.slug === 'mumbai-rajdhani')!;
-    expect(rajdhani.departureTime).toBe('17:00');
-    expect(rajdhani.arrivalDayOffset).toBe(1);
-    expect(rajdhani.durationMin).toBe(930);
+  it('computes an overnight arrival with a day offset (Capitol Limited)', async () => {
+    const result = await searchCorridor('chicago', 'washington-dc');
+    const capitol = result!.journeys.find((j) => j.service.slug === 'capitol-limited')!;
+    expect(capitol.departureTime).toBe('16:05');
+    expect(capitol.arrivalDayOffset).toBe(1);
+    expect(capitol.durationMin).toBe(1075);
+  });
+
+  it('handles the nonstop Auto Train as a single overnight segment', async () => {
+    const result = await searchCorridor('lorton', 'sanford');
+    const auto = result!.journeys.find((j) => j.service.slug === 'auto-train')!;
+    expect(auto.intermediateStops).toBe(0);
+    expect(auto.arrivalDayOffset).toBe(1);
   });
 
   it('counts intermediate stops on a segment', async () => {
@@ -124,8 +180,8 @@ describe('corridor search', () => {
     expect(acela.intermediateStops).toBe(3); // Newark, Philadelphia, Baltimore
   });
 
-  it('picks the cheapest journey by fare, normalising currency', async () => {
-    const result = await searchCorridor('delhi', 'agra');
+  it('picks the cheapest journey by fare', async () => {
+    const result = await searchCorridor('new-york', 'washington-dc');
     expect(result!.cheapest).toBeDefined();
     const cheapestFare = Math.min(...result!.cheapest!.classes.map((c) => c.fare));
     for (const j of result!.journeys) {
@@ -134,9 +190,14 @@ describe('corridor search', () => {
   });
 
   it('returns null for unknown places and empty journeys for uncovered pairs', async () => {
-    expect(await searchCorridor('atlantis', 'delhi')).toBeNull();
-    const uncovered = await searchCorridor('anchorage', 'varanasi');
+    expect(await searchCorridor('atlantis', 'new-york')).toBeNull();
+    const uncovered = await searchCorridor('bakersfield', 'miami');
     expect(uncovered!.journeys).toHaveLength(0);
+  });
+
+  it('only ever surfaces enabled (Amtrak) operators', async () => {
+    const all = await searchCorridor('new-york', 'washington-dc');
+    expect(all!.journeys.every((j) => j.operator.id === 'amtrak' && j.operator.enabled)).toBe(true);
   });
 
   it('never returns a segment travelling backwards in time', async () => {
@@ -172,19 +233,46 @@ describe('timetables and station boards', () => {
     const builder = board.find((d) => d.service.slug === 'empire-builder' && d.direction === 'outbound');
     expect(builder?.terminating).toBe(true);
   });
+
+  it('shows no active departures at a disabled-operator-only station', () => {
+    expect(servicesAtStation('ANC')).toHaveLength(0); // Anchorage — Alaska Railroad only
+    expect(servicesAtStation('BLM')).toHaveLength(0); // MiamiCentral — Brightline only
+  });
+});
+
+describe('active stations', () => {
+  it('activeStations and activeStationsList agree and exclude placeholder-only stations', () => {
+    const byService = new Set(activeStations().map((s) => s.code));
+    const byOperator = new Set(activeStationsList().map((s) => s.code));
+    expect(byService).toEqual(byOperator);
+    expect(byService.has('ANC')).toBe(false); // Alaska-only
+    expect(byService.has('BLM')).toBe(false); // Brightline-only
+    expect(byService.has('NYP')).toBe(true);
+  });
+
+  it('every active station has a resolvable slug and at least one active service', () => {
+    for (const station of activeStations()) {
+      expect(stationBySlug(station.slug)?.code).toBe(station.code);
+      expect(servicesAtStation(station.code).length, `${station.code} has no active service`).toBeGreaterThan(0);
+    }
+  });
 });
 
 describe('corridor enumeration for the sitemap', () => {
-  it('produces unique, well-formed city pairs', () => {
+  it('produces unique, well-formed city pairs, none touching a disabled operator', () => {
     const pairs = allCorridorPairs();
     expect(pairs.length).toBeGreaterThan(100);
     const keys = new Set(pairs.map((p) => `${p.from}|${p.to}`));
     expect(keys.size).toBe(pairs.length);
     for (const p of pairs) expect(p.from).not.toBe(p.to);
+    const disabledCities = ['anchorage', 'fairbanks', 'talkeetna', 'seward', 'aventura', 'boca-raton'];
+    for (const p of pairs) {
+      expect(disabledCities).not.toContain(p.from);
+      expect(disabledCities).not.toContain(p.to);
+    }
   });
 
-  it('lists every enumerated pair as a resolvable corridor', async () => {
-    // Sample the first 50 so the suite stays fast; a broken slug would fail here.
+  it('lists a sample of enumerated pairs as resolvable corridors', async () => {
     for (const { from, to } of allCorridorPairs().slice(0, 50)) {
       const result = await searchCorridor(from, to);
       expect(result, `${from} -> ${to}`).not.toBeNull();
@@ -193,20 +281,11 @@ describe('corridor enumeration for the sitemap', () => {
 });
 
 describe('formatting', () => {
-  it('formats durations and fares per currency', () => {
+  it('formats durations and USD/CAD fares', () => {
     expect(formatDuration(89)).toBe('1h 29m');
     expect(formatDuration(120)).toBe('2h');
     expect(formatDuration(45)).toBe('45m');
     expect(formatFare({ fare: 89, currency: 'USD' })).toBe('$89');
-    expect(formatFare({ fare: 3610, currency: 'INR' })).toBe('₹3,610');
-  });
-});
-
-describe('station pages', () => {
-  it('gives every station a resolvable slug and at least one calling service', () => {
-    for (const station of TRAIN_STATIONS) {
-      expect(stationBySlug(station.slug)?.code).toBe(station.code);
-      expect(servicesAtStation(station.code).length, `${station.code} has no services`).toBeGreaterThan(0);
-    }
+    expect(formatFare({ fare: 799, currency: 'CAD' })).toBe('C$799');
   });
 });

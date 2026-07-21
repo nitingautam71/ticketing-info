@@ -2,12 +2,13 @@
 
 import { useEffect, useId, useMemo, useRef, useState } from 'react';
 import { ChevronDown } from 'lucide-react';
-import { TRAIN_STATIONS, stationByCode } from '@/lib/trains/data/stations';
+import { activeStationsList, stationByCode } from '@/lib/trains/data/stations';
+import type { TrainCountry } from '@/lib/trains/types';
 
-const SORTED = [...TRAIN_STATIONS].sort((a, b) => a.city.localeCompare(b.city) || a.name.localeCompare(b.name));
+const SORTED = activeStationsList().sort((a, b) => a.city.localeCompare(b.city) || a.name.localeCompare(b.name));
 
-function countryFlag(country: 'US' | 'IN'): string {
-  return country === 'US' ? '🇺🇸' : '🇮🇳';
+function countryFlag(country: TrainCountry): string {
+  return country === 'CA' ? '🇨🇦' : '🇺🇸';
 }
 
 /**

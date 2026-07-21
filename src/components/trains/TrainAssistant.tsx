@@ -11,9 +11,9 @@ interface Message {
 
 const SUGGESTIONS = [
   'What is the fastest train from New York to Washington DC?',
-  'Which class should I book on the Mumbai Rajdhani?',
+  'Should I book a Roomette or Bedroom on the California Zephyr?',
   'Does the Acela have Wi-Fi?',
-  'Can I take my dog on the train from Delhi to Agra?',
+  'Can I take my dog on the Pacific Surfliner?',
   'Which rail pass is best for a 2-week USA trip?',
 ];
 
@@ -107,7 +107,7 @@ export default function TrainAssistant() {
           value={input}
           onChange={(e) => setInput(e.target.value)}
           maxLength={600}
-          placeholder="Ask anything — e.g. “Train or flight from Chennai to Bengaluru?”"
+          placeholder="Ask anything — e.g. “Train or flight from Chicago to Denver?”"
           aria-label="Ask the rail assistant"
           className="flex-1 bg-neutral-950 border border-neutral-800 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:ring-1 focus:ring-emerald-500"
         />

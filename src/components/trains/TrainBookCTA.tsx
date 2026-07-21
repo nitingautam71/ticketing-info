@@ -7,7 +7,7 @@ import { trackEvent } from '@/lib/analytics';
 export interface BookableClass {
   name: string;
   fare: number;
-  currency: 'USD' | 'INR';
+  currency: 'USD' | 'CAD';
   fareLabel: string;
   perks: string[];
 }
@@ -43,7 +43,7 @@ export default function TrainBookCTA({
       vertical: 'train',
       title: `${trainName} (${trainNumbers})`,
       subtitle: `${fromName} → ${toName} • ${cls.name}`,
-      price: cls.currency === 'INR' ? Math.round(cls.fare / 84) : cls.fare,
+      price: cls.currency === 'CAD' ? Math.round(cls.fare * 0.73) : cls.fare,
       date: 'Flexible',
       details: {
         operator: operatorName,

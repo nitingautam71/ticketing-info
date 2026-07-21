@@ -1,4 +1,5 @@
 import type { StationFacility, TrainCountry, TrainStation } from '../types';
+import { isOperatorEnabled } from './operators';
 
 export function trainSlugify(input: string): string {
   return input
@@ -79,7 +80,33 @@ const US_STATIONS: TrainStation[] = [
   st('SAC', 'Sacramento Valley Station', 'Sacramento', 'California', 'US', 38.5843, -121.5006, ['amtrak'], ['SacRT light rail']),
   st('PDX', 'Portland Union Station', 'Portland', 'Oregon', 'US', 45.5289, -122.6766, ['amtrak'], ['MAX Light Rail', 'Portland Streetcar']),
   st('SEA', 'Seattle King Street Station', 'Seattle', 'Washington', 'US', 47.5984, -122.33, ['amtrak'], ['Link light rail to Sea-Tac Airport', 'Sounder'], MAJOR),
-  // --- Brightline (Florida) ---
+  // --- Auto Train ---
+  st('LOR', 'Lorton Auto Train Terminal', 'Lorton', 'Virginia', 'US', 38.7043, -77.2205, ['amtrak'], ['I-95 park-and-ride for vehicles'], STAFFED),
+  st('SFA', 'Sanford Auto Train Terminal', 'Sanford', 'Florida', 'US', 28.8003, -81.2686, ['amtrak'], ['Central Florida road connections'], STAFFED),
+  // --- New England / Downeaster ---
+  st('BON', 'Boston North Station', 'Boston', 'Massachusetts', 'US', 42.3663, -71.0622, ['amtrak'], ['MBTA Orange & Green lines', 'MBTA commuter rail'], MAJOR),
+  st('POR', 'Portland Transportation Center', 'Portland (Maine)', 'Maine', 'US', 43.6591, -70.2568, ['amtrak'], ['Concord Coach Lines', 'Metro buses']),
+  st('BRK', 'Brunswick Maine Street Station', 'Brunswick', 'Maine', 'US', 43.9146, -69.9653, ['amtrak'], ['Downtown Brunswick', 'Bowdoin College shuttle']),
+  st('SPG', 'Springfield Union Station', 'Springfield', 'Massachusetts', 'US', 42.1015, -72.5898, ['amtrak'], ['PVTA buses', 'CTrail Hartford Line']),
+  st('RUD', 'Rutland Station', 'Rutland', 'Vermont', 'US', 43.6106, -72.9726, ['amtrak'], ['Marble Valley Regional Transit']),
+  st('BTN', 'Burlington Union Station', 'Burlington', 'Vermont', 'US', 44.4759, -73.2121, ['amtrak'], ['GMT buses', 'Lake Champlain ferries']),
+  st('SAB', 'St. Albans Station', 'St. Albans', 'Vermont', 'US', 44.8109, -73.0837, ['amtrak'], ['Northwest Vermont road connections']),
+  // --- New York State / cross-border corridors (US portions) ---
+  st('NFL', 'Niagara Falls Station', 'Niagara Falls', 'New York', 'US', 43.0962, -79.0377, ['amtrak'], ['NFTA buses', 'US–Canada border crossing']),
+  st('PLB', 'Plattsburgh Station', 'Plattsburgh', 'New York', 'US', 44.6995, -73.4529, ['amtrak'], ['Adirondack Trailways', 'Lake Champlain ferry']),
+  // --- Keystone (Pennsylvania) ---
+  st('HAR', 'Harrisburg Transportation Center', 'Harrisburg', 'Pennsylvania', 'US', 40.2606, -76.8837, ['amtrak'], ['Capital Area Transit', 'Keystone/Pennsylvanian hub'], MAJOR),
+  st('LNC', 'Lancaster Station', 'Lancaster', 'Pennsylvania', 'US', 40.0587, -76.3055, ['amtrak'], ['Red Rose Transit']),
+  // --- Piedmont / Carolinian (North Carolina) ---
+  st('GRO', 'Greensboro Depot', 'Greensboro', 'North Carolina', 'US', 36.0726, -79.792, ['amtrak'], ['Greensboro Transit Authority', 'PART regional buses']),
+  // --- San Joaquins (California Central Valley) ---
+  st('OKJ', 'Oakland Jack London Square', 'Oakland', 'California', 'US', 37.7949, -122.2769, ['amtrak'], ['BART (12th St shuttle)', 'AC Transit', 'SF Bay Ferry']),
+  st('SKN', 'Stockton San Joaquin Street', 'Stockton', 'California', 'US', 37.9577, -121.2908, ['amtrak'], ['San Joaquin RTD buses']),
+  st('FNO', 'Fresno Station', 'Fresno', 'California', 'US', 36.7395, -119.7889, ['amtrak'], ['Fresno Area Express']),
+  st('BFD', 'Bakersfield Station', 'Bakersfield', 'California', 'US', 35.3733, -119.0187, ['amtrak'], ['Thruway bus to Los Angeles', 'GET buses']),
+  // --- Heartland Flyer (Oklahoma–Texas) ---
+  st('OKC', 'Oklahoma City Santa Fe Depot', 'Oklahoma City', 'Oklahoma', 'US', 35.4676, -97.5164, ['amtrak'], ['EMBARK streetcar & buses']),
+  // --- Brightline (Florida) — disabled placeholder operator ---
   st('BLM', 'MiamiCentral (Brightline)', 'Miami', 'Florida', 'US', 25.7789, -80.1953, ['brightline'], ['Metrorail & Metromover at Government Center', 'Tri-Rail'], MAJOR),
   st('BLA', 'Aventura (Brightline)', 'Aventura', 'Florida', 'US', 25.9565, -80.1471, ['brightline'], ['Aventura Mall shuttle']),
   st('BLF', 'Fort Lauderdale (Brightline)', 'Fort Lauderdale', 'Florida', 'US', 26.1224, -80.1443, ['brightline'], ['Broward County Transit', 'FLL Airport rideshare']),
@@ -94,58 +121,7 @@ const US_STATIONS: TrainStation[] = [
   st('SEW', 'Seward Depot', 'Seward', 'Alaska', 'US', 60.1195, -149.4422, ['alaska-railroad'], ['Cruise port walkway']),
 ];
 
-const IN_STATIONS: TrainStation[] = [
-  // --- Delhi NCR ---
-  st('NDLS', 'New Delhi Railway Station', 'Delhi', 'Delhi', 'IN', 28.6431, 77.2197, ['indian-railways'], ['Delhi Metro Yellow & Airport Express Line', 'IGI Airport via Airport Express'], MAJOR),
-  st('NZM', 'Hazrat Nizamuddin Railway Station', 'Delhi', 'Delhi', 'IN', 28.5883, 77.2545, ['indian-railways'], ['Delhi Metro Pink Line (Hazrat Nizamuddin)'], MAJOR),
-  // --- Mumbai ---
-  st('CSMT', 'Chhatrapati Shivaji Maharaj Terminus', 'Mumbai', 'Maharashtra', 'IN', 18.9398, 72.8355, ['indian-railways'], ['Mumbai Suburban (Central & Harbour lines)', 'Metro Line 3'], MAJOR),
-  st('BCT', 'Mumbai Central', 'Mumbai', 'Maharashtra', 'IN', 18.9696, 72.8195, ['indian-railways'], ['Mumbai Suburban (Western line)', 'Metro Line 3'], MAJOR),
-  // --- Metros & state capitals ---
-  st('MAS', 'MGR Chennai Central', 'Chennai', 'Tamil Nadu', 'IN', 13.0827, 80.2757, ['indian-railways'], ['Chennai Metro (Blue & Green lines)', 'Chennai Suburban'], MAJOR),
-  st('SBC', 'KSR Bengaluru City Junction', 'Bengaluru', 'Karnataka', 'IN', 12.9779, 77.5713, ['indian-railways'], ['Namma Metro (Green & Purple lines)'], MAJOR),
-  st('HWH', 'Howrah Junction', 'Kolkata', 'West Bengal', 'IN', 22.5839, 88.3434, ['indian-railways'], ['Kolkata Metro Green Line (Howrah Maidan)', 'Hooghly ferries'], MAJOR),
-  st('SC', 'Secunderabad Junction', 'Hyderabad', 'Telangana', 'IN', 17.4344, 78.5013, ['indian-railways'], ['Hyderabad Metro (Blue Line)', 'MMTS'], MAJOR),
-  st('PUNE', 'Pune Junction', 'Pune', 'Maharashtra', 'IN', 18.5289, 73.8744, ['indian-railways'], ['Pune Metro', 'PMPML buses'], MAJOR),
-  st('ADI', 'Ahmedabad Junction', 'Ahmedabad', 'Gujarat', 'IN', 23.0272, 72.6015, ['indian-railways'], ['Ahmedabad Metro', 'BRTS'], MAJOR),
-  st('GNC', 'Gandhinagar Capital', 'Gandhinagar', 'Gujarat', 'IN', 23.223, 72.6493, ['indian-railways'], ['Hotel Leela above station', 'Ahmedabad Metro Phase 2']),
-  st('JP', 'Jaipur Junction', 'Jaipur', 'Rajasthan', 'IN', 26.9196, 75.7878, ['indian-railways'], ['Jaipur Metro (Pink Line)'], MAJOR),
-  st('LKO', 'Lucknow Charbagh', 'Lucknow', 'Uttar Pradesh', 'IN', 26.8312, 80.9218, ['indian-railways'], ['Lucknow Metro (Red Line)'], MAJOR),
-  st('CNB', 'Kanpur Central', 'Kanpur', 'Uttar Pradesh', 'IN', 26.4536, 80.3508, ['indian-railways'], ['Kanpur Metro'], MAJOR),
-  st('BPL', 'Bhopal Junction', 'Bhopal', 'Madhya Pradesh', 'IN', 23.2685, 77.4123, ['indian-railways'], ['BCLL buses'], MAJOR),
-  st('RKMP', 'Rani Kamlapati Station', 'Bhopal', 'Madhya Pradesh', 'IN', 23.2233, 77.4344, ['indian-railways'], ['World-class redeveloped station', 'BCLL buses'], MAJOR),
-  st('NGP', 'Nagpur Junction', 'Nagpur', 'Maharashtra', 'IN', 21.1525, 79.0821, ['indian-railways'], ['Nagpur Metro (Orange & Aqua lines)'], MAJOR),
-  st('PNBE', 'Patna Junction', 'Patna', 'Bihar', 'IN', 25.6032, 85.1229, ['indian-railways'], ['Patna Metro (under construction)'], MAJOR),
-  st('BBS', 'Bhubaneswar Railway Station', 'Bhubaneswar', 'Odisha', 'IN', 20.2665, 85.8438, ['indian-railways'], ['Mo Bus city services'], MAJOR),
-  st('VSKP', 'Visakhapatnam Junction', 'Visakhapatnam', 'Andhra Pradesh', 'IN', 17.7228, 83.2913, ['indian-railways'], ['APSRTC buses'], MAJOR),
-  // --- South ---
-  st('TVC', 'Thiruvananthapuram Central', 'Thiruvananthapuram', 'Kerala', 'IN', 8.4875, 76.9525, ['indian-railways'], ['KSRTC hub adjacent'], MAJOR),
-  st('ERS', 'Ernakulam Junction', 'Kochi', 'Kerala', 'IN', 9.9698, 76.2911, ['indian-railways'], ['Kochi Metro (Ernakulam South)'], MAJOR),
-  st('CBE', 'Coimbatore Junction', 'Coimbatore', 'Tamil Nadu', 'IN', 10.9971, 76.9674, ['indian-railways'], ['TNSTC buses'], MAJOR),
-  st('MYS', 'Mysuru Junction', 'Mysuru', 'Karnataka', 'IN', 12.3163, 76.6455, ['indian-railways'], ['KSRTC city buses']),
-  st('MAO', 'Madgaon Junction', 'Goa', 'Goa', 'IN', 15.2708, 73.9797, ['indian-railways'], ['Kadamba buses', 'Dabolim Airport taxis']),
-  // --- East & Northeast ---
-  st('GHY', 'Guwahati Railway Station', 'Guwahati', 'Assam', 'IN', 26.1818, 91.7539, ['indian-railways'], ['ASTC buses'], MAJOR),
-  st('NJP', 'New Jalpaiguri Junction', 'Siliguri', 'West Bengal', 'IN', 26.6906, 88.4285, ['indian-railways'], ['Darjeeling Himalayan Railway', 'Bagdogra Airport taxis']),
-  // --- North ---
-  st('JAT', 'Jammu Tawi Railway Station', 'Jammu', 'Jammu & Kashmir', 'IN', 32.7118, 74.8666, ['indian-railways'], ['JKSRTC buses'], MAJOR),
-  st('SVDK', 'Shri Mata Vaishno Devi Katra', 'Katra', 'Jammu & Kashmir', 'IN', 32.9917, 74.9313, ['indian-railways'], ['Vaishno Devi yatra base', 'Helicopter bookings nearby']),
-  st('ASR', 'Amritsar Junction', 'Amritsar', 'Punjab', 'IN', 31.6335, 74.8656, ['indian-railways'], ['Free Golden Temple bus'], MAJOR),
-  st('CDG', 'Chandigarh Junction', 'Chandigarh', 'Chandigarh', 'IN', 30.6954, 76.8266, ['indian-railways'], ['CTU buses'], MAJOR),
-  st('DDN', 'Dehradun Railway Station', 'Dehradun', 'Uttarakhand', 'IN', 30.3165, 78.0322, ['indian-railways'], ['Mussoorie taxis', 'Uttarakhand Roadways']),
-  // --- UP / MP corridor ---
-  st('VNS', 'Varanasi Junction', 'Varanasi', 'Uttar Pradesh', 'IN', 25.3298, 82.9862, ['indian-railways'], ['Ghats 4 km', 'UPSRTC buses'], MAJOR),
-  st('PRYJ', 'Prayagraj Junction', 'Prayagraj', 'Uttar Pradesh', 'IN', 25.4443, 81.8253, ['indian-railways'], ['City buses'], MAJOR),
-  st('AGC', 'Agra Cantt', 'Agra', 'Uttar Pradesh', 'IN', 27.1591, 77.9905, ['indian-railways'], ['Taj Mahal 6 km', 'UPSRTC buses'], MAJOR),
-  st('GWL', 'Gwalior Junction', 'Gwalior', 'Madhya Pradesh', 'IN', 26.2124, 78.1772, ['indian-railways'], ['City buses']),
-  st('VGLJ', 'Virangana Lakshmibai Jhansi Junction', 'Jhansi', 'Uttar Pradesh', 'IN', 25.4484, 78.5685, ['indian-railways'], ['Orchha taxis 16 km']),
-  // --- West ---
-  st('ST', 'Surat Railway Station', 'Surat', 'Gujarat', 'IN', 21.2049, 72.8411, ['indian-railways'], ['Surat BRTS'], MAJOR),
-  st('BRC', 'Vadodara Junction', 'Vadodara', 'Gujarat', 'IN', 22.3105, 73.1812, ['indian-railways'], ['City buses'], MAJOR),
-  st('KOTA', 'Kota Junction', 'Kota', 'Rajasthan', 'IN', 25.1792, 75.8443, ['indian-railways'], ['City buses']),
-];
-
-export const TRAIN_STATIONS: TrainStation[] = [...US_STATIONS, ...IN_STATIONS];
+export const TRAIN_STATIONS: TrainStation[] = [...US_STATIONS];
 
 const byCode = new Map(TRAIN_STATIONS.map((s) => [s.code, s]));
 const bySlug = new Map(TRAIN_STATIONS.map((s) => [s.slug, s]));
@@ -154,11 +130,21 @@ export function stationByCode(code: string): TrainStation | undefined {
   return byCode.get(code.toUpperCase());
 }
 
+/**
+ * Stations served by at least one enabled operator (Amtrak today). Pure /
+ * DB-free — safe to import in client components for the search combobox.
+ * Disabled placeholders (Brightline, Alaska Railroad) are excluded until their
+ * operator is switched on.
+ */
+export function activeStationsList(): TrainStation[] {
+  return TRAIN_STATIONS.filter((s) => s.operators.some(isOperatorEnabled));
+}
+
 export function stationBySlug(slug: string): TrainStation | undefined {
   return bySlug.get(slug.toLowerCase());
 }
 
-/** All stations sharing a city slug (e.g. 'delhi' → NDLS, NZM, ANVT). */
+/** All stations sharing a city slug (e.g. 'boston' → BOS, BON). */
 export function stationsByCitySlug(citySlug: string): TrainStation[] {
   const c = citySlug.toLowerCase();
   return TRAIN_STATIONS.filter((s) => s.citySlug === c);
