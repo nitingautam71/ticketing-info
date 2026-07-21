@@ -46,7 +46,7 @@ export function corridorFaqs(result: CorridorResult): Faq[] {
     const label = cheapestFareLabel(cheapest.classes);
     faqs.push({
       question: `How much does the train from ${from} to ${to} cost?`,
-      answer: `Indicative fares start ${label ?? 'low'} on the ${cheapest.service.name}. Rail fares are dynamic (and quota-based in India), so exact pricing is confirmed at booking. Premium classes with meals and lounge access cost more.`,
+      answer: `Indicative fares start ${label ?? 'low'} on the ${cheapest.service.name}. Amtrak fares are dynamic and rise as seats sell, so exact pricing is confirmed at booking. Business Class, First Class and sleeper accommodations cost more.`,
     });
   }
   faqs.push({

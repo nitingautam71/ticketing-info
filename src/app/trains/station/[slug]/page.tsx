@@ -43,9 +43,12 @@ export default async function StationPage({ params }: { params: Promise<Params> 
   if (!station) notFound();
 
   const departures = servicesAtStation(station.code);
+  // Stations served only by a disabled placeholder operator (Brightline,
+  // Alaska Railroad) have no active service — keep them out of the index.
+  if (departures.length === 0) notFound();
   const trainNames = [...new Set(departures.map((d) => d.service.name))];
   const faqs = stationFaqs(station, trainNames);
-  const siblings = stationsByCitySlug(station.citySlug).filter((s) => s.code !== station.code);
+  const siblings = stationsByCitySlug(station.citySlug).filter((s) => s.code !== station.code && servicesAtStation(s.code).length > 0);
   const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${station.lat},${station.lon}`;
 
   const jsonLd = {

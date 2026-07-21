@@ -9,7 +9,7 @@ import { INSURANCE_PLANS } from '@/lib/insurance/plans';
 import { INSURANCE_PROVIDERS } from '@/lib/insurance/providers';
 import { CATEGORY_PAGES } from '@/lib/insurance/categories';
 import { INSURANCE_GUIDES } from '@/lib/insurance/guides';
-import { TRAIN_STATIONS } from '@/lib/trains/data/stations';
+import { activeStationsList } from '@/lib/trains/data/stations';
 import { railProvider } from '@/lib/providers/trains';
 import { allCorridorPairs } from '@/lib/trains/popular';
 
@@ -120,7 +120,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // demand (ISR), so listing them costs nothing until they're crawled.
   const trainHubPaths = [
     '/trains/passes',
-    ...TRAIN_STATIONS.map((s) => `/trains/station/${s.slug}`),
+    ...activeStationsList().map((s) => `/trains/station/${s.slug}`),
     ...railProvider.services().map((s) => `/trains/train/${s.slug}`),
   ];
   const trainCorridorPaths = allCorridorPairs().map(({ from, to }) => `/trains/route/${from}/${to}`);

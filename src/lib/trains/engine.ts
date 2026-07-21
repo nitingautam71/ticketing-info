@@ -108,7 +108,7 @@ function segmentFares(service: TrainService, segmentMin: number): TrainClassFare
   const factor = Math.max(0.35, Math.min(1, segmentMin / service.durationMin));
   return service.classes.map((c) => ({
     ...c,
-    fare: c.currency === 'INR' ? Math.round((c.fare * factor) / 5) * 5 : Math.round(c.fare * factor),
+    fare: Math.round(c.fare * factor),
   }));
 }
 
@@ -191,9 +191,13 @@ export async function searchCorridor(from: string, to: string): Promise<Corridor
   return { from: fromStations, to: toStations, journeys, fastest, cheapest };
 }
 
+// Rough conversion so "cheapest" can compare across currencies. The active
+// catalog is USD-only (Amtrak); CAD is here for future VIA Rail cross-border.
+const TO_USD: Record<string, number> = { USD: 1, CAD: 0.73 };
+
 function minFareUsdEquivalent(j: TrainJourney): number {
   const min = Math.min(...j.classes.map((c) => c.fare));
-  return j.classes[0]?.currency === 'INR' ? min / 84 : min;
+  return min * (TO_USD[j.classes[0]?.currency ?? 'USD'] ?? 1);
 }
 
 // ---- Lookups for pages & grounding ----
@@ -204,6 +208,28 @@ export function trainBySlug(slug: string): TrainService | undefined {
 
 export function allServices(): TrainService[] {
   return railProvider.services();
+}
+
+/**
+ * Stations reachable by at least one active service (i.e. served by an enabled
+ * operator). Disabled-placeholder stations — Brightline, Alaska Railroad — are
+ * excluded from the directory, sitemap and station pages until their operator
+ * is switched on. Sorted by city for stable listing.
+ */
+export function activeStations(): TrainStation[] {
+  const served = new Set<string>();
+  for (const service of railProvider.services()) {
+    for (const stop of service.stops) served.add(stop.station);
+  }
+  return railProvider
+    .stations()
+    .filter((s) => served.has(s.code))
+    .sort((a, b) => a.city.localeCompare(b.city) || a.name.localeCompare(b.name));
+}
+
+/** True when a station is served by an active (enabled-operator) service. */
+export function isStationActive(code: string): boolean {
+  return servicesAtStation(code).length > 0;
 }
 
 export interface StationDeparture {

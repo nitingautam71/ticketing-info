@@ -108,7 +108,7 @@ export default function TrainOverrideEditor({
             onChange={(e) => setNotes(e.target.value)}
             maxLength={1000}
             rows={2}
-            placeholder="e.g. Cancelled 12–18 Aug for monsoon track works between Ratnagiri and Madgaon."
+            placeholder="e.g. Cancelled 12–18 Aug for track work between Albany and Buffalo; bus bridge in place."
             className="w-full bg-neutral-950 border border-neutral-800 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:ring-1 focus:ring-emerald-500"
           />
         </div>

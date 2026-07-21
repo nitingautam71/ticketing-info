@@ -53,7 +53,7 @@ export default function TrainSearchForm({
   return (
     <form onSubmit={submit} className={compact ? 'space-y-3' : 'bg-neutral-900 border border-neutral-800 p-6 rounded-2xl shadow-xl space-y-4'}>
       <div className="grid grid-cols-1 md:grid-cols-[1fr_auto_1fr] gap-4 items-end">
-        <StationSelect label="From" value={from} onChange={setFrom} placeholder="e.g. New York or NDLS" />
+        <StationSelect label="From" value={from} onChange={setFrom} placeholder="e.g. New York or NYP" />
         <button
           type="button"
           onClick={swap}
@@ -62,7 +62,7 @@ export default function TrainSearchForm({
         >
           <ArrowLeftRight className="w-4 h-4" aria-hidden />
         </button>
-        <StationSelect label="To" value={to} onChange={setTo} placeholder="e.g. Washington DC or Agra" />
+        <StationSelect label="To" value={to} onChange={setTo} placeholder="e.g. Washington DC or WAS" />
       </div>
       {error && (
         <p role="alert" className="text-xs text-red-400">
@@ -70,7 +70,7 @@ export default function TrainSearchForm({
         </p>
       )}
       <div className="flex items-center justify-between gap-4 pt-1 flex-wrap">
-        <p className="text-[10px] text-neutral-600">Covers Amtrak, Brightline, Alaska Railroad and Indian Railways premium trains.</p>
+        <p className="text-[10px] text-neutral-600">Covers Amtrak across the US — Acela, the Northeast Corridor, state corridors and long-distance routes.</p>
         <button
           type="submit"
           disabled={navigating}

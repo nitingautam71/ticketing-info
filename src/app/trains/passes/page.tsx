@@ -6,13 +6,13 @@ import { breadcrumbJsonLd, faqPageJsonLd } from '@/lib/structuredData';
 import JsonLd from '@/components/seo/JsonLd';
 
 export const metadata: Metadata = {
-  title: 'Rail Passes — USA Rail Pass, Indian Railways Circular Tickets & More',
+  title: 'Amtrak Rail Passes — USA Rail Pass, California Rail Pass & More',
   description:
-    'Compare rail passes for the US and beyond: Amtrak USA Rail Pass, California Rail Pass, Brightline passes, Indian Railways circular journey tickets, Eurail and Japan Rail Pass — with expert recommendations on when a pass beats point-to-point tickets.',
+    'Compare Amtrak rail passes: the USA Rail Pass, California Rail Pass and multi-ride/monthly corridor passes — with expert advice on when a pass beats point-to-point Amtrak tickets.',
   alternates: { canonical: '/trains/passes' },
   openGraph: {
-    title: 'Rail Passes Compared | Ticketing-Info',
-    description: 'USA Rail Pass, Indian Railways circular tickets, Eurail, JR Pass — which pass fits your trip, and when point-to-point wins.',
+    title: 'Amtrak Rail Passes Compared | Ticketing-Info',
+    description: 'USA Rail Pass, California Rail Pass and multi-ride passes — which Amtrak pass fits your trip, and when point-to-point wins.',
   },
 };
 
@@ -28,9 +28,9 @@ const PASS_FAQS = [
       'No — the USA Rail Pass covers Coach seats on most Amtrak routes for 10 segments in 30 days. Acela and Auto Train are excluded, and sleeper accommodation requires paying the full accommodation charge on top.',
   },
   {
-    question: 'Is there an all-India rail pass for tourists?',
+    question: 'Which pass is best for a long US rail trip?',
     answer:
-      'The classic Indrail Pass has been discontinued. The closest equivalents are Indian Railways circular journey tickets (telescopic fares for self-planned loops, up to 56 days) and IRCTC tourist-train packages — our rail desk handles the paperwork for both.',
+      'For a multi-city cross-country trip the USA Rail Pass (10 segments in 30 days) is usually the winner; for California-only travel the California Rail Pass is cheaper; and for repeated trips on one corridor an Amtrak 10-ride or monthly pass beats walk-up fares. We price all three against your exact itinerary before recommending one.',
   },
   {
     question: 'Can you plan my itinerary around a pass?',
@@ -62,7 +62,7 @@ export default function RailPassesPage() {
           </p>
           <h1 className="font-display text-3xl md:text-5xl text-white font-medium leading-tight max-w-3xl">One pass, many trains.</h1>
           <p className="text-neutral-300 text-sm md:text-base mt-4 max-w-2xl leading-relaxed">
-            Multi-journey passes for the US, India and beyond — and honest advice on when point-to-point tickets are the better deal.
+            Multi-journey Amtrak passes across the US — and honest advice on when point-to-point tickets are the better deal.
           </p>
         </div>
       </section>
@@ -70,10 +70,13 @@ export default function RailPassesPage() {
       <div className="max-w-5xl w-full mx-auto px-4 md:px-8 mt-10 space-y-8">
         <section aria-label="Available rail passes" className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {RAIL_PASSES.map((p) => (
-            <article key={p.slug} className="bg-neutral-900 border border-neutral-800 rounded-2xl p-6 space-y-3">
+            <article key={p.slug} className={`bg-neutral-900 border rounded-2xl p-6 space-y-3 ${p.available ? 'border-neutral-800' : 'border-neutral-850 opacity-70'}`}>
               <div className="flex items-start justify-between gap-3">
                 <div>
-                  <h2 className="text-sm font-bold text-white">{p.name}</h2>
+                  <h2 className="text-sm font-bold text-white">
+                    {p.name}
+                    {!p.available && <span className="ml-2 text-[9px] uppercase font-bold tracking-wider text-sky-300 bg-sky-950/50 border border-sky-900 rounded-full px-2 py-0.5">Coming soon</span>}
+                  </h2>
                   <p className="text-[10px] text-neutral-500 mt-0.5">{p.operator}</p>
                 </div>
                 <span className="text-xs font-black text-emerald-400 shrink-0">{p.price}</span>
