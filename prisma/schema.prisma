@@ -588,6 +588,56 @@ model Package {
   @@index([durationDays])
 }
 
+// ---- Visa checker platform ----
+// The base ruleset (199 passports x 199 destinations) ships with the app as a
+// compiled dataset (src/data/visas/matrix.json, built by scripts/visas/build-matrix.mjs)
+// so checks never depend on a DB round-trip for the common case. These tables hold
+// only what must be mutable or accumulated at runtime: admin corrections to
+// individual rules, and an analytics log of performed checks.
+
+enum VisaCategory {
+  visa_free
+  visa_on_arrival
+  e_visa
+  eta
+  visa_required
+  no_admission
+  home_country
+}
+
+// An admin-edited correction for one (passport, destination) pair. Overrides
+// always win over the bundled matrix, and survive dataset refreshes.
+model VisaRuleOverride {
+  id              String       @id @default(cuid())
+  createdAt       DateTime     @default(now())
+  updatedAt       DateTime     @updatedAt
+  passportCode    String // ISO2, uppercase
+  destinationCode String // ISO2, uppercase
+  category        VisaCategory
+  allowedStayDays Int?
+  notes           String? // rendered on the public result — keep it official-tone
+  updatedBy       String?
+
+  @@unique([passportCode, destinationCode])
+  @@index([destinationCode])
+}
+
+// One row per visa check performed via the API or AI assistant — powers the
+// admin analytics (top corridors, nationality trends). No PII is stored.
+model VisaCheckLog {
+  id              String   @id @default(cuid())
+  createdAt       DateTime @default(now())
+  passportCode    String
+  destinationCode String
+  category        String?
+  purpose         String?
+  source          String? // 'api' | 'assistant'
+
+  @@index([createdAt])
+  @@index([passportCode])
+  @@index([destinationCode])
+}
+
 // ---- Cruise & Car rental catalogs ----
 // The generated cruise/car catalogs (10,641 + 17,165 records, ~850MB as JSON files)
 // used to ship inside the Next.js serverless bundles via readFileSync, which forced

@@ -3,6 +3,8 @@ import { prisma } from '@/lib/db';
 import { DESTINATION_HUBS, portHubPath } from '@/lib/cruises/hubs';
 import { CRUISE_LINES } from '@/lib/cruises/cruise-lines';
 import { getCruiseFacets } from '@/lib/providers/cruises';
+import { VISA_COUNTRIES, countryByCode } from '@/lib/visas/countries';
+import { TOP_PASSPORTS } from '@/lib/visas/popular';
 
 const PUBLIC_ROUTES = [
   '/',
@@ -70,5 +72,23 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
-  return [...staticEntries, ...cruiseHubEntries, ...blogEntries];
+  // Visa cluster: every passport & destination hub, plus the full pair matrix
+  // for the passports our traffic actually comes from (~8k URLs). Remaining
+  // pairs resolve on demand and get discovered through internal links.
+  const visaHubPaths = VISA_COUNTRIES.flatMap((c) => [`/visas/passport/${c.slug}`, `/visas/destination/${c.slug}`]);
+  const visaPairPaths = TOP_PASSPORTS.flatMap((code) => {
+    const passport = countryByCode(code);
+    if (!passport) return [];
+    return VISA_COUNTRIES.filter((dest) => dest.code !== passport.code).map((dest) => `/visas/${passport.slug}/${dest.slug}`);
+  });
+
+  const hubSet = new Set(visaHubPaths);
+  const visaEntries: MetadataRoute.Sitemap = [...visaHubPaths, ...visaPairPaths].map((path) => ({
+    url: `${siteUrl}${path}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: hubSet.has(path) ? 0.8 : 0.7,
+  }));
+
+  return [...staticEntries, ...cruiseHubEntries, ...visaEntries, ...blogEntries];
 }
