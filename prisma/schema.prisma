@@ -638,6 +638,36 @@ model VisaCheckLog {
   @@index([destinationCode])
 }
 
+// ---- Rail platform ----
+// Bundled timetables (src/lib/trains/data) are the base truth; only mutable
+// state lives here: per-train disruption/suspension notices set by the rail
+// desk (always win, 60s in-memory cache) and search analytics.
+
+model TrainServiceOverride {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  trainSlug String   @unique // slug from the bundled services dataset
+  status    String // 'running' | 'disrupted' | 'suspended'
+  notes     String? // rendered on public pages — keep it official-tone
+  updatedBy String?
+}
+
+// One row per corridor search via API, corridor page or AI assistant. No PII.
+model TrainSearchLog {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  fromQuery String
+  toQuery   String
+  fromCode  String?
+  toCode    String?
+  results   Int      @default(0)
+  source    String? // 'api' | 'corridor-page' | 'assistant'
+
+  @@index([createdAt])
+  @@index([fromCode, toCode])
+}
+
 // ---- Cruise & Car rental catalogs ----
 // The generated cruise/car catalogs (10,641 + 17,165 records, ~850MB as JSON files)
 // used to ship inside the Next.js serverless bundles via readFileSync, which forced

@@ -5,6 +5,9 @@ import { CRUISE_LINES } from '@/lib/cruises/cruise-lines';
 import { getCruiseFacets } from '@/lib/providers/cruises';
 import { VISA_COUNTRIES, countryByCode } from '@/lib/visas/countries';
 import { TOP_PASSPORTS } from '@/lib/visas/popular';
+import { TRAIN_STATIONS } from '@/lib/trains/data/stations';
+import { railProvider } from '@/lib/providers/trains';
+import { allCorridorPairs } from '@/lib/trains/popular';
 
 const PUBLIC_ROUTES = [
   '/',
@@ -90,5 +93,23 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: hubSet.has(path) ? 0.8 : 0.7,
   }));
 
-  return [...staticEntries, ...cruiseHubEntries, ...visaEntries, ...blogEntries];
+  // Rail cluster: station guides, named-train pages and every city-pair
+  // corridor a bundled service actually covers. Corridor pages materialise on
+  // demand (ISR), so listing them costs nothing until they're crawled.
+  const trainHubPaths = [
+    '/trains/passes',
+    ...TRAIN_STATIONS.map((s) => `/trains/station/${s.slug}`),
+    ...railProvider.services().map((s) => `/trains/train/${s.slug}`),
+  ];
+  const trainCorridorPaths = allCorridorPairs().map(({ from, to }) => `/trains/route/${from}/${to}`);
+
+  const trainHubSet = new Set(trainHubPaths);
+  const trainEntries: MetadataRoute.Sitemap = [...trainHubPaths, ...trainCorridorPaths].map((path) => ({
+    url: `${siteUrl}${path}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: trainHubSet.has(path) ? 0.8 : 0.7,
+  }));
+
+  return [...staticEntries, ...cruiseHubEntries, ...visaEntries, ...trainEntries, ...blogEntries];
 }
