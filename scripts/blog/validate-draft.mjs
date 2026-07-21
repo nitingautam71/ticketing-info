@@ -118,9 +118,15 @@ let draft;
 try {
   draft = JSON.parse(draftRaw);
 } catch (firstErr) {
+  const repairedRaw = escapeControlCharsInJsonStrings(draftRaw);
   try {
-    draft = JSON.parse(escapeControlCharsInJsonStrings(draftRaw));
-    console.log(`Note: ${draftPath} had raw control characters inside a JSON string (e.g. an unescaped newline) - repaired automatically.`);
+    draft = JSON.parse(repairedRaw);
+    // The repair above only fixes the in-memory copy used for validation. If we
+    // don't also write it back, the still-broken raw file is what gets committed
+    // and later fails downstream in publish-draft.mjs (which has no repair logic
+    // and parses the committed file as-is) - this bit us on 2026-07-21.
+    writeFileSync(draftPath, repairedRaw);
+    console.log(`Note: ${draftPath} had raw control characters inside a JSON string (e.g. an unescaped newline) - repaired automatically and rewritten to disk.`);
   } catch {
     fail(`Draft file ${draftPath} is not valid JSON: ${firstErr.message}`);
   }

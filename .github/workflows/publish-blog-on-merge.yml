@@ -7,6 +7,16 @@ on:
   pull_request:
     types: [closed]
     branches: [main]
+  workflow_dispatch:
+    inputs:
+      draft_file:
+        description: >
+          Path to a content/blog-drafts/*.json file already on main to (re)publish,
+          e.g. content/blog-drafts/2026-07-21-foo.json. Recovery hatch for when a
+          draft merged successfully but the publish step itself failed (e.g. bad
+          JSON that only validate-draft.mjs's repair caught).
+        required: true
+        type: string
 
 permissions:
   contents: read
@@ -15,14 +25,15 @@ permissions:
 jobs:
   publish:
     if: >
-      github.event.pull_request.merged == true &&
-      startsWith(github.event.pull_request.head.ref, 'blog-drafts/')
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.pull_request.merged == true &&
+      startsWith(github.event.pull_request.head.ref, 'blog-drafts/'))
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.base.ref }}
+          ref: ${{ github.event_name == 'workflow_dispatch' && 'main' || github.event.pull_request.base.ref }}
 
       - uses: actions/setup-node@v4
         with:
@@ -30,6 +41,7 @@ jobs:
 
       - name: Find draft files added by this PR
         id: files
+        if: github.event_name == 'pull_request'
         env:
           GH_TOKEN: ${{ github.token }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
@@ -44,13 +56,13 @@ jobs:
           } >> "$GITHUB_OUTPUT"
 
       - name: Publish draft(s) via admin API
-        if: steps.files.outputs.files != ''
+        if: github.event_name == 'workflow_dispatch' || steps.files.outputs.files != ''
         env:
           SITE_URL: ${{ vars.SITE_URL }}
           ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
-          DRAFT_FILES: ${{ steps.files.outputs.files }}
+          DRAFT_FILES: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.draft_file || steps.files.outputs.files }}
         run: node scripts/blog/publish-draft.mjs
 
       - name: No draft files found
-        if: steps.files.outputs.files == ''
+        if: github.event_name == 'pull_request' && steps.files.outputs.files == ''
         run: echo "No content/blog-drafts/*.json files in this PR - nothing to publish."
