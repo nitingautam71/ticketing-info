@@ -10,6 +10,9 @@ env:
   # the env var to exist; the build/tests never open a live connection.
   DATABASE_URL: "postgresql://user:password@localhost:5432/ci_placeholder"
   ADMIN_PASSWORD: "ci-placeholder"
+  # google-ads-api ships enormous generated type definitions; tsc/next-build OOM
+  # on the default Node heap without this.
+  NODE_OPTIONS: "--max-old-space-size=6144"
 
 jobs:
   build-and-test:

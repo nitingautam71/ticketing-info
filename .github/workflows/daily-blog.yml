@@ -25,6 +25,9 @@ env:
   # unrelated to the real ADMIN_PASSWORD secret used by publish-blog-on-merge.yml.
   DATABASE_URL: 'postgresql://user:password@localhost:5432/ci_placeholder'
   ADMIN_PASSWORD: 'ci-placeholder'
+  # google-ads-api ships enormous generated type definitions; next-build OOMs on
+  # the default Node heap without this (mirrors ci.yml).
+  NODE_OPTIONS: '--max-old-space-size=6144'
 
 jobs:
   generate:
