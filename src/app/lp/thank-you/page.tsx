@@ -12,7 +12,6 @@ const THEME_COPY: Record<string, string> = {
   'flight-booking': "A flight specialist will call or WhatsApp you within 30 minutes during business hours to confirm fares and book your seats.",
   'visa-assistance': 'A visa consultant will review your request and call or WhatsApp you within a few hours to walk through documents and next steps.',
   'tour-packages': 'A travel consultant will call or WhatsApp you within a few hours with a customized package and pricing.',
-  'train-bus-tickets': 'A booking agent will call or WhatsApp you shortly to confirm train/bus availability and quota options.',
 };
 
 export default async function LpThankYouPage({ searchParams }: { searchParams: Promise<{ theme?: string; vertical?: string }> }) {

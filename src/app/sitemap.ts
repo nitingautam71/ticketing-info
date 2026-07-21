@@ -35,7 +35,6 @@ const PUBLIC_ROUTES = [
 const LANDING_PAGE_ROUTES = [
   '/flights/usa-to-india-flight-tickets',
   '/visas/oci-vs-indian-visa-for-nris',
-  '/trains/senior-citizen-train-ticket-discount',
 ];
 
 export const dynamic = 'force-dynamic';
