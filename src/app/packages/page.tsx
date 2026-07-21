@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import HeroSection from '@/components/layout/HeroSection';
 import PackageSearch from '@/components/search/PackageSearch';
 import FeaturedPackages from '@/components/packages/FeaturedPackages';
+import InsuranceCrossSell from '@/components/insurance/InsuranceCrossSell';
 import { HERO_COPY } from '@/lib/nav';
 
 export const metadata: Metadata = {
@@ -23,6 +24,7 @@ export default function PackagesPage() {
       <div className="flex-1 max-w-7xl w-full mx-auto px-4 md:px-8 relative z-20 -mt-20 md:-mt-16 pb-16 space-y-12">
         <PackageSearch />
         <FeaturedPackages />
+        <InsuranceCrossSell context="your holiday" />
       </div>
     </div>
   );

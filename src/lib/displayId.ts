@@ -31,3 +31,5 @@ async function nextDisplayId(prefix: string): Promise<string> {
 export const generateLeadDisplayId = () => nextDisplayId('LD');
 export const generateBookingDisplayId = () => nextDisplayId('BK');
 export const generateQuotationDisplayId = () => nextDisplayId('QT');
+export const generatePolicyDisplayId = () => nextDisplayId('PL');
+export const generateClaimDisplayId = () => nextDisplayId('CL');

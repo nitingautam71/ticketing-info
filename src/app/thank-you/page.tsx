@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import ThankYouTracker from './ThankYouTracker';
 import ThankYouActions from './ThankYouActions';
+import InsuranceCrossSell from '@/components/insurance/InsuranceCrossSell';
 
 export const metadata: Metadata = {
   title: 'Thank You',
@@ -39,6 +40,10 @@ export default async function ThankYouPage({ searchParams }: { searchParams: Pro
       <p className="text-neutral-400 text-sm max-w-sm mb-8">{copy.body}</p>
 
       <ThankYouActions />
+
+      <div className="w-full text-left mt-8">
+        <InsuranceCrossSell context="the trip you just enquired about" />
+      </div>
 
       <Link href="/" className="text-xs font-bold text-neutral-500 hover:text-white transition-colors mt-8">
         ← Back to homepage
