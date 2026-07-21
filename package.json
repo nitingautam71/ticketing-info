@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-    "typecheck": "tsc --noEmit",
+    "typecheck": "node --max-old-space-size=6144 node_modules/typescript/bin/tsc --noEmit",
     "test": "vitest run",
     "postinstall": "prisma generate",
     "db:push": "prisma db push",
@@ -18,8 +18,11 @@
     "generate:packages-sql": "tsx scripts/generate-sql-seed.ts"
   },
   "dependencies": {
+    "@google-analytics/data": "^6.1.0",
     "@google/genai": "^2.11.0",
     "@prisma/client": "6.19.3",
+    "google-ads-api": "^24.1.0",
+    "googleapis": "^173.0.0",
     "lucide-react": "^0.546.0",
     "motion": "^12.23.24",
     "next": "^16.2.10",
