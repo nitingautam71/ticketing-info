@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useCallback, useSyncExternalStore } from 'react';
 
 /**
  * GDPR / ePrivacy cookie-consent banner. Non-essential tracking (GA4 + Google
@@ -8,19 +8,41 @@ import { useEffect, useState } from 'react';
  * how the visitor grants or refuses it. The choice is stored in the `ti_consent`
  * cookie for a year and pushed to Google Consent Mode via `gtag('consent',
  * 'update', …)` so tags react without a page reload.
+ *
+ * The stored choice is read through useSyncExternalStore (not an effect), which
+ * keeps SSR/hydration consistent — the banner renders nothing on the server and
+ * during hydration, then appears on the client only if no choice exists yet.
  */
 
 const CONSENT_COOKIE = 'ti_consent';
 
 type Gtag = (...args: unknown[]) => void;
 
+const listeners = new Set<() => void>();
+
+function emitChange() {
+  for (const listener of listeners) listener();
+}
+
+function subscribe(onChange: () => void) {
+  listeners.add(onChange);
+  return () => listeners.delete(onChange);
+}
+
+/** Client snapshot: the stored consent value, or null if the visitor hasn't chosen. */
+function getChoice(): string | null {
+  const match = document.cookie.split('; ').find((c) => c.startsWith(`${CONSENT_COOKIE}=`));
+  return match ? match.slice(CONSENT_COOKIE.length + 1) : null;
+}
+
+/** Server snapshot: non-null so the banner is never server-rendered (avoids a hydration flash). */
+function getServerChoice(): string {
+  return 'ssr';
+}
+
 function setConsentCookie(value: 'granted' | 'denied') {
   const oneYear = 60 * 60 * 24 * 365;
   document.cookie = `${CONSENT_COOKIE}=${value}; path=/; max-age=${oneYear}; SameSite=Lax`;
-}
-
-function hasStoredChoice() {
-  return document.cookie.split('; ').some((c) => c.startsWith(`${CONSENT_COOKIE}=`));
 }
 
 function updateGoogleConsent(granted: boolean) {
@@ -37,19 +59,15 @@ function updateGoogleConsent(granted: boolean) {
 }
 
 export default function ConsentBanner() {
-  const [visible, setVisible] = useState(false);
+  const choice = useSyncExternalStore(subscribe, getChoice, getServerChoice);
 
-  useEffect(() => {
-    if (!hasStoredChoice()) setVisible(true);
-  }, []);
-
-  function choose(granted: boolean) {
+  const choose = useCallback((granted: boolean) => {
     setConsentCookie(granted ? 'granted' : 'denied');
     updateGoogleConsent(granted);
-    setVisible(false);
-  }
+    emitChange();
+  }, []);
 
-  if (!visible) return null;
+  if (choice !== null) return null; // already decided (or SSR/hydration) — hide
 
   return (
     <div
