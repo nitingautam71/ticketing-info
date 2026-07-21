@@ -2,8 +2,13 @@ import { NextResponse } from 'next/server';
 import { ZodError } from 'zod';
 import { prisma } from '@/lib/db';
 import { agentSchema } from '@/lib/agents';
+import { requireAdmin } from '@/lib/adminAuth';
+import { logAdminAction } from '@/lib/adminAudit';
 
 export async function POST(req: Request) {
+  const denied = await requireAdmin(req);
+  if (denied) return denied;
+
   try {
     const body = await req.json();
     const input = agentSchema.parse(body);
@@ -14,6 +19,7 @@ export async function POST(req: Request) {
         phone: input.phone || undefined,
       },
     });
+    await logAdminAction('agent.created', 'Agent', agent.id);
     return NextResponse.json({ success: true, agent });
   } catch (err) {
     if (err instanceof ZodError) {

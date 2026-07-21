@@ -1,5 +1,5 @@
 import { NextResponse, type NextRequest } from 'next/server';
-import { ADMIN_SESSION_COOKIE, adminSessionToken } from '@/lib/adminAuth';
+import { ADMIN_SESSION_COOKIE, adminSessionToken, constantTimeEqual } from '@/lib/adminAuth';
 
 const PUBLIC_PATHS = new Set(['/admin/login', '/api/admin/login']);
 
@@ -10,7 +10,7 @@ export async function proxy(req: NextRequest) {
   const session = req.cookies.get(ADMIN_SESSION_COOKIE)?.value;
   const expected = await adminSessionToken();
 
-  if (!session || session !== expected) {
+  if (!session || !constantTimeEqual(session, expected)) {
     if (pathname.startsWith('/api/')) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }

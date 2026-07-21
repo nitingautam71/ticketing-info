@@ -2,8 +2,13 @@ import { NextResponse } from 'next/server';
 import { ZodError } from 'zod';
 import { prisma } from '@/lib/db';
 import { blogPostSchema } from '@/lib/cms';
+import { requireAdmin } from '@/lib/adminAuth';
+import { logAdminAction } from '@/lib/adminAudit';
 
 export async function POST(req: Request) {
+  const denied = await requireAdmin(req);
+  if (denied) return denied;
+
   try {
     const body = await req.json();
     const input = blogPostSchema.parse(body);
@@ -24,6 +29,7 @@ export async function POST(req: Request) {
         publishedAt: input.published ? new Date() : undefined,
       },
     });
+    await logAdminAction('blog.created', 'BlogPost', post.id, { slug: post.slug });
     return NextResponse.json({ success: true, post });
   } catch (err) {
     if (err instanceof ZodError) {

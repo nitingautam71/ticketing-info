@@ -1,6 +1,31 @@
 import { NextResponse } from 'next/server';
+import { z } from 'zod';
 import { GoogleGenAI } from '@google/genai';
 import { rateLimit, clientIp, tooManyRequestsResponse } from '@/lib/rateLimit';
+
+// Bound the request so a client can't inflate Gemini token spend (cost DoS) by
+// sending a huge conversation. Each turn is length-capped, the number of turns
+// is capped, and a total-character budget is enforced across the whole history.
+const MAX_MESSAGE_CHARS = 2000;
+const MAX_HISTORY_TURNS = 10;
+const MAX_HISTORY_CHARS = 12_000;
+
+const chatSchema = z.object({
+  message: z.string().trim().min(1, 'Message is required').max(MAX_MESSAGE_CHARS, 'Message is too long (max 2000 characters)'),
+  history: z
+    .array(
+      z.object({
+        sender: z.enum(['user', 'assistant']),
+        text: z.string().max(MAX_MESSAGE_CHARS),
+      }),
+    )
+    .max(MAX_HISTORY_TURNS)
+    .optional()
+    .default([])
+    .refine((h) => h.reduce((n, m) => n + m.text.length, 0) <= MAX_HISTORY_CHARS, {
+      message: 'Conversation history is too large',
+    }),
+});
 
 const apiKey = process.env.GEMINI_API_KEY;
 const ai = apiKey ? new GoogleGenAI({ apiKey }) : null;
@@ -62,23 +87,20 @@ You may output multiple widgets if needed inside separate \`\`\`json_widget bloc
 Respond in an inviting, premium tone. Always make clear that final pricing and booking is confirmed by a human travel consultant, not booked instantly.
 `;
 
-interface ChatHistoryMessage {
-  sender: 'user' | 'assistant';
-  text: string;
-}
-
 export async function POST(req: Request) {
   const { allowed, resetAt } = rateLimit(`ai-chat:${clientIp(req)}`, 10, 60_000);
   if (!allowed) return tooManyRequestsResponse(resetAt);
 
-  const { message, history = [] } = (await req.json()) as { message: string; history?: ChatHistoryMessage[] };
-
-  if (!message || typeof message !== 'string' || message.trim().length === 0) {
-    return NextResponse.json({ error: 'Message is required' }, { status: 400 });
+  let parsed: z.infer<typeof chatSchema>;
+  try {
+    parsed = chatSchema.parse(await req.json());
+  } catch (err) {
+    if (err instanceof z.ZodError) {
+      return NextResponse.json({ error: err.issues[0]?.message ?? 'Invalid input' }, { status: 400 });
+    }
+    return NextResponse.json({ error: 'Invalid JSON body' }, { status: 400 });
   }
-  if (message.length > 2000) {
-    return NextResponse.json({ error: 'Message is too long (max 2000 characters)' }, { status: 400 });
-  }
+  const { message, history } = parsed;
 
   if (!ai) {
     return NextResponse.json({

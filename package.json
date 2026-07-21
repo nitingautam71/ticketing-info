@@ -14,6 +14,7 @@
     "db:push": "prisma db push",
     "db:seed": "tsx prisma/seed.ts",
     "db:seed:packages": "tsx prisma/seed-packages.ts",
+    "db:encrypt-pii": "tsx scripts/encrypt-pii-backfill.ts",
     "generate:packages": "tsx scripts/generate-packages.ts",
     "generate:packages-sql": "tsx scripts/generate-sql-seed.ts"
   },

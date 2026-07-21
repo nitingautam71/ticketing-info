@@ -8,6 +8,7 @@ import { BookingEnquiryProvider } from '@/components/leads/BookingEnquiryContext
 import JsonLd from '@/components/seo/JsonLd';
 import { travelAgencyJsonLd } from '@/lib/structuredData';
 import GoogleAnalytics from '@/components/analytics/GoogleAnalytics';
+import ConsentBanner from '@/components/analytics/ConsentBanner';
 import AttributionCapture from '@/components/analytics/AttributionCapture';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter', weight: ['400', '500', '600', '700', '800', '900'] });
@@ -58,6 +59,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <main className="flex-1 flex flex-col">{children}</main>
           <Footer />
           <WhatsAppFab />
+          <ConsentBanner />
         </BookingEnquiryProvider>
       </body>
     </html>

@@ -1,8 +1,13 @@
 import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/db';
 import { LEAD_STAGES, LEAD_PRIORITIES } from '@/lib/leadLifecycle';
+import { requireAdmin } from '@/lib/adminAuth';
+import { logAdminAction } from '@/lib/adminAudit';
 
 export async function PATCH(req: Request, { params }: { params: Promise<{ id: string }> }) {
+  const denied = await requireAdmin(req);
+  if (denied) return denied;
+
   const { id } = await params;
   const body = await req.json();
   const data: Record<string, unknown> = {};
@@ -34,5 +39,6 @@ export async function PATCH(req: Request, { params }: { params: Promise<{ id: st
   }
 
   const lead = await prisma.lead.update({ where: { id }, data });
+  await logAdminAction('lead.updated', 'Lead', id, { fields: Object.keys(data) });
   return NextResponse.json({ success: true, lead });
 }

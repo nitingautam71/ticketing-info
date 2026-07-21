@@ -1,4 +1,5 @@
 import { z } from 'zod';
+import { encryptPii } from '@/lib/crypto/pii';
 
 export const customerSchema = z.object({
   name: z.string().trim().min(2).max(120),
@@ -32,9 +33,11 @@ export function toCustomerData(input: CustomerInput) {
     gender: input.gender || undefined,
     dob: input.dob ? new Date(input.dob) : undefined,
     nationality: input.nationality || undefined,
-    passportNumber: input.passportNumber || undefined,
+    // Sensitive identity fields are encrypted at rest (no-op unless
+    // PII_ENCRYPTION_KEY is set). Decrypt on read via decryptPii().
+    passportNumber: encryptPii(input.passportNumber),
     passportExpiry: input.passportExpiry ? new Date(input.passportExpiry) : undefined,
-    visaStatus: input.visaStatus || undefined,
+    visaStatus: encryptPii(input.visaStatus),
     addressStreet: input.addressStreet || undefined,
     addressCity: input.addressCity || undefined,
     addressCountry: input.addressCountry || undefined,
