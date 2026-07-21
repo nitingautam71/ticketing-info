@@ -1,7 +1,7 @@
 import { prisma } from '@/lib/db';
 import { countryByCode } from '@/lib/visas/countries';
 import { INSURANCE_PLANS, planById } from '@/lib/insurance/plans';
-import { providerById } from '@/lib/insurance/providers';
+import { INSURANCE_PROVIDERS, providerById } from '@/lib/insurance/providers';
 import PlanOverrideEditor from '@/components/admin/insurance/PlanOverrideEditor';
 import PolicyManager from '@/components/admin/insurance/PolicyManager';
 
@@ -67,7 +67,9 @@ export default async function AdminInsurancePage() {
         </div>
         <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-5">
           <p className="text-[10px] text-neutral-500 font-bold uppercase">Catalog</p>
-          <p className="text-sm font-bold text-white mt-1 leading-snug">{INSURANCE_PLANS.length} plans · 13 insurers, bundled + curated</p>
+          <p className="text-sm font-bold text-white mt-1 leading-snug">
+            {INSURANCE_PLANS.length} plans · {INSURANCE_PROVIDERS.length} insurers, bundled + curated
+          </p>
         </div>
       </div>
 

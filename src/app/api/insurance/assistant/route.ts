@@ -4,7 +4,8 @@ import { GoogleGenAI } from '@google/genai';
 import { logInsuranceQuote, quotePlans } from '@/lib/insurance/engine';
 import { mandatoryInsuranceNote, destinationRegion, REGION_MEDICAL_CONTEXT } from '@/lib/insurance/regions';
 import { INSURANCE_DISCLAIMER, type PlanCategory } from '@/lib/insurance/types';
-import { countryByCode, VISA_COUNTRIES } from '@/lib/visas/countries';
+import { detectTripContext } from '@/lib/insurance/detect';
+import { countryByCode } from '@/lib/visas/countries';
 import { clientIp, rateLimit, tooManyRequestsResponse } from '@/lib/rateLimit';
 
 /**
@@ -28,23 +29,6 @@ const askSchema = z.object({
 
 const apiKey = process.env.GEMINI_API_KEY;
 const ai = apiKey ? new GoogleGenAI({ apiKey }) : null;
-
-/** Find up to two country mentions (longest names first so "Papua New Guinea"
- * wins over "Guinea"). First hit = destination unless residence keywords say otherwise. */
-function detectCountries(question: string): string[] {
-  const q = question.toLowerCase();
-  const hits: { code: string; index: number; len: number }[] = [];
-  for (const c of VISA_COUNTRIES) {
-    const idx = q.indexOf(c.name.toLowerCase());
-    if (idx !== -1) hits.push({ code: c.code, index: idx, len: c.name.length });
-  }
-  hits.sort((a, b) => a.index - b.index || b.len - a.len);
-  const filtered: typeof hits = [];
-  for (const h of hits) {
-    if (!filtered.some((f) => h.index >= f.index && h.index < f.index + f.len)) filtered.push(h);
-  }
-  return filtered.slice(0, 2).map((h) => h.code);
-}
 
 const KEYWORD_CATEGORIES: [RegExp, PlanCategory][] = [
   [/student|universit|study|college/i, 'student'],
@@ -73,9 +57,12 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: 'Invalid JSON body' }, { status: 400 });
   }
 
-  const detected = detectCountries(parsed.question);
-  const destinationCode = parsed.destination?.toUpperCase() ?? detected[0];
-  const residenceCode = parsed.residence?.toUpperCase() ?? detected[1] ?? 'IN';
+  // Explicit widget selection wins; otherwise read the trip out of the text.
+  // Directional cues matter: "USA trip from India" must not resolve India as
+  // the destination, or the advisor answers the wrong question confidently.
+  const detected = detectTripContext(parsed.question);
+  const destinationCode = parsed.destination?.toUpperCase() ?? detected.destinationCode;
+  const residenceCode = parsed.residence?.toUpperCase() ?? detected.residenceCode ?? 'IN';
   const categories = KEYWORD_CATEGORIES.filter(([re]) => re.test(parsed.question)).map(([, c]) => c).slice(0, 3);
 
   let grounding = 'No destination was identified in this question — ask the user where they are travelling and from which country.';
@@ -94,8 +81,14 @@ export async function POST(req: Request) {
       annual: categories.includes('annual_multi_trip'),
     });
     const region = destinationRegion(residenceCode, destinationCode);
+    const residenceAssumed = !parsed.residence && !detected.residenceCode;
     grounding = JSON.stringify({
       residence: countryByCode(residenceCode)?.name,
+      // The advisor must not present a guessed residence as fact — a wrong
+      // guess silently changes which market's plans (and prices) apply.
+      residenceIsAssumed: residenceAssumed
+        ? 'The traveller did not state where they live; India was assumed. Say so and invite them to correct it.'
+        : false,
       destination: countryByCode(destinationCode)?.name,
       assumedTrip: `14 days, single traveller age ${age} (estimates scale with real inputs)`,
       mandatoryInsurance: mandatoryInsuranceNote(destinationCode) ?? 'Not an entry requirement for this destination',

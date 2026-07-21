@@ -8,7 +8,7 @@ The insurance marketplace layer of Ticketing-Info.org: plan comparison and indic
                     ┌──────────────────────────────────────────────┐
                     │  src/lib/insurance/ (bundled, curated)       │
                     │  providers.ts  13 insurer profiles           │
-                    │  plans.ts      29 plan benefit tables+rates  │
+                    │  plans.ts      32 plan benefit tables+rates  │
                     │  regions.ts    rating regions, Schengen set, │
                     │                mandatory-insurance rules     │
                     │  categories/guides/coverage/seo/popular      │
@@ -43,9 +43,9 @@ The insurance marketplace layer of Ticketing-Info.org: plan comparison and indic
 | Layer | Source | Refresh |
 |---|---|---|
 | Provider profiles (13: Allianz, Travel Guard, Seven Corners, IMG, World Nomads, Travelex; Tata AIG, ICICI Lombard, HDFC ERGO, Bajaj Allianz, Reliance, Care, Digit) | `providers.ts`, public pages | code review / PR |
-| Plan benefit tables + rating inputs (29 plans, 26 comparable benefit slots) | `plans.ts`, public brochures | code review / PR; per-plan runtime correction via `/admin/insurance` |
+| Plan benefit tables + rating inputs (32 plans, 26 comparable benefit slots) | `plans.ts`, public brochures | code review / PR; per-plan runtime correction via `/admin/insurance` |
 | Rating regions, Schengen set, mandatory-insurance rules (15+ destinations), medical-cost context | `regions.ts` | code review / PR |
-| Trip-type landing content (17), guides (10), coverage glossary (26) | `categories.ts`, `guides.ts`, `coverage.ts` | code review / PR |
+| Trip-type landing content (17), guides (11), coverage glossary (26) | `categories.ts`, `guides.ts`, `coverage.ts` | code review / PR |
 | Plan adjustments (hide plan, premium multiplier, public note) | `InsurancePlanOverride` via `/admin/insurance` | live (60s cache) |
 | Quote analytics | `InsuranceQuoteLog` | live |
 | Policies & claims tracked by the desk | `InsurancePolicy`, `InsuranceClaim` (PL-/CL- display IDs) | live |
@@ -72,11 +72,11 @@ The server detects the destination/residence (longest-country-name matching) and
 |---|---|---|
 | `/insurance` | Hub: quote form, corridors, trip types, AI advisor, provider strip, destination chips, guides, FAQ (+JSON-LD) | static |
 | `/insurance/quotes` | Canonical comparison results: sort, 3-way compare table, per-plan lead capture, exclusions explained | dynamic, `noindex` |
-| `/insurance/plan/[slug]` | 29 plan pages: full benefit schedule, exclusions, claim process, FAQs (+JSON-LD) | SSG, ISR 24h |
+| `/insurance/plan/[slug]` | 32 plan pages: full benefit schedule, exclusions, claim process, FAQs (+JSON-LD) | SSG, ISR 24h |
 | `/insurance/type/[slug]` | 17 trip-type landers (Schengen, student, seniors, visitors-USA/India, cruise, adventure…) | SSG, ISR 24h |
 | `/insurance/provider/[slug]` | 13 insurer profiles: plans, product families, claims contacts | SSG, ISR 24h |
 | `/insurance/destination/[slug]` | 199 destination guides: mandatory rules, cost context, plans by market, visa cross-link | on-demand ISR 24h |
-| `/insurance/guides`, `/insurance/guides/[slug]` | Content hub: 10 long-form guides (+Article & FAQ JSON-LD) | SSG, ISR 24h |
+| `/insurance/guides`, `/insurance/guides/[slug]` | Content hub: 11 long-form guides (+Article & FAQ JSON-LD) | SSG, ISR 24h |
 | `/admin/insurance` | Quote analytics, plan overrides, policy & claim tracker | dynamic |
 
 Cross-sell: destination-aware insurance card on visa pair pages; cruise-specific card on `/cruises`; cards on `/packages` and the post-enquiry thank-you page. Always optional, never pre-checked.
