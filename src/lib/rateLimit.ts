@@ -40,9 +40,21 @@ export function rateLimit(key: string, limit: number, windowMs: number): { allow
 }
 
 export function clientIp(req: Request): string {
+  // Prefer headers set by the Vercel edge (not client-spoofable) over the raw
+  // `x-forwarded-for`, whose left-most value is attacker-controlled and can be
+  // used to fragment/evade per-IP rate-limit buckets. `x-real-ip` and
+  // `x-vercel-forwarded-for` are populated by the platform from the actual TCP
+  // peer, so they are trustworthy; fall back to XFF only when those are absent.
+  const realIp = req.headers.get('x-real-ip');
+  if (realIp) return realIp.trim();
+
+  const vercelForwarded = req.headers.get('x-vercel-forwarded-for');
+  if (vercelForwarded) return vercelForwarded.split(',')[0].trim();
+
   const forwardedFor = req.headers.get('x-forwarded-for');
   if (forwardedFor) return forwardedFor.split(',')[0].trim();
-  return req.headers.get('x-real-ip') || 'unknown';
+
+  return 'unknown';
 }
 
 export function tooManyRequestsResponse(resetAt: number) {

@@ -2,8 +2,13 @@ import { NextResponse } from 'next/server';
 import { ZodError } from 'zod';
 import { prisma } from '@/lib/db';
 import { communicationSchema } from '@/lib/communications';
+import { requireAdmin } from '@/lib/adminAuth';
+import { logAdminAction } from '@/lib/adminAudit';
 
 export async function POST(req: Request) {
+  const denied = await requireAdmin(req);
+  if (denied) return denied;
+
   try {
     const body = await req.json();
     const input = communicationSchema.parse(body);
@@ -17,6 +22,7 @@ export async function POST(req: Request) {
         bookingId: input.bookingId || undefined,
       },
     });
+    await logAdminAction('communication.created', 'CommunicationLog', communication.id, { channel: input.channel });
     return NextResponse.json({ success: true, communication });
   } catch (err) {
     if (err instanceof ZodError) {

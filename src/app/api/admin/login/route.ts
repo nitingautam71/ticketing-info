@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { ADMIN_SESSION_COOKIE, adminSessionToken } from '@/lib/adminAuth';
+import { ADMIN_SESSION_COOKIE, adminSessionToken, constantTimeEqual } from '@/lib/adminAuth';
 import { rateLimit, clientIp, tooManyRequestsResponse } from '@/lib/rateLimit';
 
 export async function POST(req: Request) {
@@ -8,7 +8,8 @@ export async function POST(req: Request) {
 
   const { password } = await req.json();
 
-  if (!process.env.ADMIN_PASSWORD || password !== process.env.ADMIN_PASSWORD) {
+  const expected = process.env.ADMIN_PASSWORD;
+  if (!expected || typeof password !== 'string' || !constantTimeEqual(password, expected)) {
     return NextResponse.json({ error: 'Incorrect password' }, { status: 401 });
   }
 

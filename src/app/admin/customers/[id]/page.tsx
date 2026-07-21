@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import { prisma } from '@/lib/db';
+import { decryptPii } from '@/lib/crypto/pii';
 import CustomerEditForm from '@/components/admin/CustomerEditForm';
 
 export const dynamic = 'force-dynamic';
@@ -37,9 +38,9 @@ export default async function AdminCustomerDetailPage({ params }: { params: Prom
           gender: customer.gender ?? '',
           dob: toDateInput(customer.dob),
           nationality: customer.nationality ?? '',
-          passportNumber: customer.passportNumber ?? '',
+          passportNumber: decryptPii(customer.passportNumber),
           passportExpiry: toDateInput(customer.passportExpiry),
-          visaStatus: customer.visaStatus ?? '',
+          visaStatus: decryptPii(customer.visaStatus),
           addressStreet: customer.addressStreet ?? '',
           addressCity: customer.addressCity ?? '',
           addressCountry: customer.addressCountry ?? '',
