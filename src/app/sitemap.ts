@@ -5,6 +5,10 @@ import { CRUISE_LINES } from '@/lib/cruises/cruise-lines';
 import { getCruiseFacets } from '@/lib/providers/cruises';
 import { VISA_COUNTRIES, countryByCode } from '@/lib/visas/countries';
 import { TOP_PASSPORTS } from '@/lib/visas/popular';
+import { INSURANCE_PLANS } from '@/lib/insurance/plans';
+import { INSURANCE_PROVIDERS } from '@/lib/insurance/providers';
+import { CATEGORY_PAGES } from '@/lib/insurance/categories';
+import { INSURANCE_GUIDES } from '@/lib/insurance/guides';
 import { TRAIN_STATIONS } from '@/lib/trains/data/stations';
 import { railProvider } from '@/lib/providers/trains';
 import { allCorridorPairs } from '@/lib/trains/popular';
@@ -93,6 +97,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: hubSet.has(path) ? 0.8 : 0.7,
   }));
 
+  // Insurance cluster: trip-type, plan, provider and guide pages are bundled
+  // content; destination guides exist for every country (on-demand ISR).
+  const insuranceHubPaths = [
+    ...CATEGORY_PAGES.map((c) => `/insurance/type/${c.slug}`),
+    ...INSURANCE_PLANS.map((p) => `/insurance/plan/${p.slug}`),
+    ...INSURANCE_PROVIDERS.map((p) => `/insurance/provider/${p.slug}`),
+    '/insurance/guides',
+    ...INSURANCE_GUIDES.map((g) => `/insurance/guides/${g.slug}`),
+  ];
+  const insuranceDestinationPaths = VISA_COUNTRIES.map((c) => `/insurance/destination/${c.slug}`);
+
+  const insuranceHubSet = new Set(insuranceHubPaths);
+  const insuranceEntries: MetadataRoute.Sitemap = [...insuranceHubPaths, ...insuranceDestinationPaths].map((path) => ({
+    url: `${siteUrl}${path}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: insuranceHubSet.has(path) ? 0.8 : 0.7,
+  }));
   // Rail cluster: station guides, named-train pages and every city-pair
   // corridor a bundled service actually covers. Corridor pages materialise on
   // demand (ISR), so listing them costs nothing until they're crawled.
@@ -110,6 +132,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     changeFrequency: 'weekly',
     priority: trainHubSet.has(path) ? 0.8 : 0.7,
   }));
-
-  return [...staticEntries, ...cruiseHubEntries, ...visaEntries, ...trainEntries, ...blogEntries];
+  return [...staticEntries, ...cruiseHubEntries, ...visaEntries, ...insuranceEntries, ...trainEntries, ...blogEntries];
 }

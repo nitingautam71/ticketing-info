@@ -9,6 +9,7 @@ import { HERO_COPY } from '@/lib/nav';
 import { searchCruises, getCruiseFacets, getDisplayImageUrl, getCruiseLineLogoUrl } from '@/lib/providers/cruises';
 import CruiseHubLinks from '@/components/cruises/hub/CruiseHubLinks';
 import CruiseCallCta from '@/components/cruises/CruiseCallCta';
+import InsuranceCrossSell from '@/components/insurance/InsuranceCrossSell';
 import { Ship, LayoutGrid } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -144,6 +145,10 @@ export default async function CruisesPage({ searchParams }: CruisesPageProps) {
 
         <div className="mt-12">
           <CruiseCallCta placement="cruise_index" heading="Not sure which cruise? That's literally our job." />
+        </div>
+
+        <div className="mt-6">
+          <InsuranceCrossSell context="your cruise" href="/insurance/type/cruise" />
         </div>
       </div>
 

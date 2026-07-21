@@ -135,10 +135,11 @@ model Lead {
   assignedAgent   Agent?  @relation(fields: [assignedAgentId], references: [id])
   assignedAgentId String?
 
-  bookings       Booking[]
-  quotations     Quotation[]
-  tasks          Task[]
-  communications CommunicationLog[]
+  bookings          Booking[]
+  quotations        Quotation[]
+  tasks             Task[]
+  communications    CommunicationLog[]
+  insurancePolicies InsurancePolicy[]
 
   @@index([stage])
   @@index([vertical])
@@ -175,12 +176,13 @@ model Customer {
   totalSpend Float   @default(0)
   notes      String?
 
-  leads          Lead[]
-  bookings       Booking[]
-  passengers     Passenger[]
-  quotations     Quotation[]
-  documents      Document[]
-  communications CommunicationLog[]
+  leads             Lead[]
+  bookings          Booking[]
+  passengers        Passenger[]
+  quotations        Quotation[]
+  documents         Document[]
+  communications    CommunicationLog[]
+  insurancePolicies InsurancePolicy[]
 }
 
 // A booking request/confirmation. Since MVP has no online payment, these start
@@ -636,6 +638,121 @@ model VisaCheckLog {
   @@index([createdAt])
   @@index([passportCode])
   @@index([destinationCode])
+}
+
+// ---- Travel insurance platform ----
+// The plan catalog (providers, benefit tables, rating inputs) ships with the
+// app as curated TypeScript modules (src/lib/insurance/), so quoting needs no
+// DB round-trip. These tables hold only what must be mutable or accumulated at
+// runtime: admin corrections to plans, quote analytics, and the policy/claim
+// records our consultants manage for customers.
+
+// Admin-edited state for one catalog plan: deactivate it, adjust the estimate,
+// or attach a public note. Survives catalog refreshes (keyed by stable planId).
+model InsurancePlanOverride {
+  id                String   @id @default(cuid())
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+  planId            String   @unique // matches InsurancePlan.id in the bundled catalog
+  active            Boolean  @default(true)
+  premiumMultiplier Float? // scales the engine's indicative estimate (e.g. 1.1)
+  notes             String? // rendered on public quote cards — keep it official-tone
+  updatedBy         String?
+}
+
+// One row per quote run via the API, widget, or AI assistant — powers the
+// admin analytics (top corridors, traveller mix). No PII is stored.
+model InsuranceQuoteLog {
+  id           String   @id @default(cuid())
+  createdAt    DateTime @default(now())
+  residence    String // ISO2
+  destination  String // ISO2
+  durationDays Int
+  travellers   Int
+  ageBand      String? // oldest traveller's band, e.g. "61-70"
+  categories   String[]
+  topPlanId    String? // highest-ranked plan shown
+  source       String? // 'api' | 'widget' | 'assistant'
+
+  @@index([createdAt])
+  @@index([destination])
+  @@index([residence])
+}
+
+enum InsurancePolicyStatus {
+  quote_requested
+  awaiting_payment
+  active
+  expired
+  cancelled
+}
+
+// A policy our consultants arranged for a customer. The insurer issues and
+// owns the actual contract — this record tracks it inside our CRM (renewal
+// reminders, documents, claims help). PII beyond the customer link stays in
+// `details` and follows the same handling rules as Booking.details.
+model InsurancePolicy {
+  id           String                @id @default(cuid())
+  displayId    String                @unique // e.g. PL-20260721-000012
+  createdAt    DateTime              @default(now())
+  updatedAt    DateTime              @updatedAt
+  status       InsurancePolicyStatus @default(quote_requested)
+  providerName String
+  planId       String? // catalog plan id, when it came from our comparison
+  planName     String
+  policyNumber String? // insurer-issued number once bound
+  premium      Float?
+  currency     String                @default("USD")
+  startDate    DateTime?
+  endDate      DateTime?
+  travellers   Int                   @default(1)
+  details      Json? // trip + traveller details as captured at purchase
+  notes        String?
+
+  customer   Customer? @relation(fields: [customerId], references: [id])
+  customerId String?
+  lead       Lead?     @relation(fields: [leadId], references: [id])
+  leadId     String?
+
+  claims InsuranceClaim[]
+
+  @@index([status])
+  @@index([customerId])
+  @@index([endDate])
+}
+
+enum InsuranceClaimStatus {
+  draft
+  submitted_to_insurer
+  in_review
+  info_requested
+  approved
+  paid
+  rejected
+  closed
+}
+
+// A claim we are helping a customer pursue with the insurer. The insurer
+// adjudicates; we track the timeline and paperwork on the customer's behalf.
+model InsuranceClaim {
+  id             String               @id @default(cuid())
+  displayId      String               @unique // e.g. CL-20260721-000003
+  createdAt      DateTime             @default(now())
+  updatedAt      DateTime             @updatedAt
+  status         InsuranceClaimStatus @default(draft)
+  claimType      String // medical | trip_cancellation | baggage | delay | other
+  description    String?
+  amountClaimed  Float?
+  amountApproved Float?
+  currency       String               @default("USD")
+  insurerRef     String? // insurer's claim reference number
+  timeline       Json? // [{ at: ISO date, status, note }]
+
+  policy   InsurancePolicy @relation(fields: [policyId], references: [id], onDelete: Cascade)
+  policyId String
+
+  @@index([status])
+  @@index([policyId])
 }
 
 // ---- Rail platform ----

@@ -226,7 +226,7 @@ export default async function VisaPairPage({ params }: { params: Promise<Params>
         {/* Cross-sell */}
         <section aria-label="Complete your trip" className="grid grid-cols-1 sm:grid-cols-3 gap-4 print:hidden">
           {[
-            { href: '/insurance', title: 'Travel Insurance', sub: 'Often mandatory for visa approval — get a compliant policy.' },
+            { href: `/insurance/destination/${destination.slug}`, title: `${destination.name} Travel Insurance`, sub: 'Often mandatory for visa approval — get a compliant policy.' },
             { href: '/flights', title: `Flights to ${destination.name}`, sub: 'Refundable reservations that work as visa proof of travel.' },
             { href: '/hotels', title: 'Hotel Bookings', sub: 'Confirmations accepted by embassies, free-cancellation options.' },
           ].map((c) => (
