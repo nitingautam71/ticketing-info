@@ -1,86 +1,55 @@
-export interface VisaInfo {
-  destinationCountry: string;
-  visaRequired: boolean;
-  maxStayDays?: number;
-  processingTime?: string;
-  fee?: number;
-  requirements?: string[];
-}
-
-export interface VisaCheckParams {
-  nationality: string;
-  destination: string;
-}
-
-interface VisaProvider {
-  check(params: VisaCheckParams): Promise<VisaInfo>;
-}
+import matrixJson from '@/data/visas/matrix.json';
+import type { VisaBaseRule, VisaCategory } from '@/lib/visas/types';
 
 /**
- * Rule-of-thumb visa checker for lead-gen purposes only — not authoritative
- * immigration advice. Swap for a real visa-rules API (e.g. Sherpa, VisaHQ)
- * before relying on it for anything beyond a conversation-starter.
+ * Visa rules data-provider abstraction. The engine (src/lib/visas/engine.ts)
+ * consumes this interface only, so the underlying source can be swapped —
+ * bundled Passport Index dataset today; a commercial feed (Sherpa, IATA
+ * Timatic AutoCheck, TravelDoc) tomorrow — without touching business logic.
+ * Admin corrections from the VisaRuleOverride table are layered on top by the
+ * engine regardless of which provider is active.
  */
-class MockVisaProvider implements VisaProvider {
-  async check({ nationality, destination }: VisaCheckParams): Promise<VisaInfo> {
-    const nat = (nationality || 'United States').toLowerCase();
-    const dest = (destination || 'United Kingdom').toLowerCase();
+export interface VisaRulesProvider {
+  readonly id: string;
+  /** Base short-stay (tourism) rule for a passport/destination ISO2 pair. */
+  baseRule(passportCode: string, destinationCode: string): VisaBaseRule | undefined;
+}
 
-    let requirements: string[] = [
-      'Valid passport (at least 6 months validity)',
-      'Proof of onward travel/return flight',
-      'Proof of sufficient travel funds',
-    ];
-    let visaRequired = false;
-    let maxStay = 90;
-    let processing = 'Not required';
-    let fee = 0;
+interface MatrixShape {
+  destinations: string[];
+  rows: Record<string, string[]>;
+}
 
-    if (dest.includes('united kingdom') || dest.includes('uk')) {
-      if (['united states', 'canada', 'australia', 'germany', 'france', 'japan'].some((c) => nat.includes(c))) {
-        visaRequired = false;
-        maxStay = 180;
-      } else {
-        visaRequired = true;
-        maxStay = 180;
-        processing = '10 - 15 Business Days';
-        fee = 150;
-        requirements.push('Detailed travel itinerary', 'Bank statements for past 3 months', 'Letter of invitation/hotel booking voucher');
-      }
-    } else if (dest.includes('japan')) {
-      if (['united states', 'canada', 'germany', 'france', 'united kingdom'].some((c) => nat.includes(c))) {
-        visaRequired = false;
-        maxStay = 90;
-      } else {
-        visaRequired = true;
-        maxStay = 90;
-        processing = '5 - 7 Business Days';
-        fee = 30;
-        requirements.push('Sponsorship or hotel guarantee form', 'Income tax certificates', 'Completed Visa Application Form with photo');
-      }
-    } else {
-      if (['united states', 'germany', 'united kingdom'].some((c) => nat.includes(c))) {
-        visaRequired = false;
-      } else {
-        visaRequired = true;
-        processing = '7 - 10 Business Days';
-        fee = 60;
-      }
+const TOKEN_CATEGORY: Record<string, VisaCategory> = {
+  F: 'visa_free',
+  VOA: 'visa_on_arrival',
+  EV: 'e_visa',
+  ETA: 'eta',
+  VR: 'visa_required',
+  X: 'no_admission',
+  H: 'home_country',
+};
+
+/** Compiled Passport Index dataset (MIT, github.com/ilyankou/passport-index-dataset),
+ * built by scripts/visas/build-matrix.mjs. ~217KB in-bundle, zero-latency lookups. */
+class PassportIndexProvider implements VisaRulesProvider {
+  readonly id = 'passport-index';
+  private matrix = matrixJson as MatrixShape;
+  private destIndex = new Map(this.matrix.destinations.map((code, i) => [code, i]));
+
+  baseRule(passportCode: string, destinationCode: string): VisaBaseRule | undefined {
+    const row = this.matrix.rows[passportCode.toUpperCase()];
+    const col = this.destIndex.get(destinationCode.toUpperCase());
+    if (!row || col === undefined) return undefined;
+
+    const token = row[col];
+    if (token.startsWith('F') && token.length > 1) {
+      return { category: 'visa_free', allowedStayDays: Number(token.slice(1)), source: 'passport-index' };
     }
-
-    return {
-      destinationCountry: destination || 'United Kingdom',
-      visaRequired,
-      maxStayDays: maxStay,
-      processingTime: processing,
-      fee,
-      requirements,
-    };
+    const category = TOKEN_CATEGORY[token];
+    if (!category) return undefined;
+    return { category, source: 'passport-index' };
   }
 }
 
-export const visaProvider: VisaProvider = new MockVisaProvider();
-
-export async function checkVisa(params: VisaCheckParams): Promise<VisaInfo> {
-  return visaProvider.check(params);
-}
+export const visaRulesProvider: VisaRulesProvider = new PassportIndexProvider();
