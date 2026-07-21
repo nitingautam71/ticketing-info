@@ -1,73 +1,38 @@
-export interface TrainClass {
-  name: string;
-  price: number;
-}
+import type { TrainOperator, TrainService, TrainStation } from '@/lib/trains/types';
+import { TRAIN_STATIONS } from '@/lib/trains/data/stations';
+import { TRAIN_OPERATORS } from '@/lib/trains/data/operators';
+import { US_TRAIN_SERVICES } from '@/lib/trains/data/services-us';
+import { IN_TRAIN_SERVICES } from '@/lib/trains/data/services-in';
 
-export interface Train {
+/**
+ * Rail content provider abstraction. Everything downstream (engine, pages,
+ * search API, AI grounding) consumes this interface, so integrating a live
+ * operator feed — an IRCTC-authorised booking partner for India, an Amtrak
+ * agency channel or GDS rail content for the US, or a commercial aggregator
+ * like SilverRail/Trainline Partner Solutions — means implementing another
+ * provider here without touching business logic. See TRAIN-PLATFORM.md for the
+ * provider comparison and integration sequence.
+ */
+export interface RailContentProvider {
   id: string;
-  operator: string;
-  trainNumber: string;
-  departureStation: string;
-  arrivalStation: string;
-  departureTime: string;
-  arrivalTime: string;
-  duration: string;
-  price: number;
-  classes: TrainClass[];
+  stations(): TrainStation[];
+  operators(): TrainOperator[];
+  services(): TrainService[];
 }
 
-export interface TrainSearchParams {
-  from: string;
-  to: string;
-}
-
-interface TrainProvider {
-  search(params: TrainSearchParams): Promise<Train[]>;
-}
-
-class MockTrainProvider implements TrainProvider {
-  async search({ from, to }: TrainSearchParams): Promise<Train[]> {
-    const fromName = from || 'Paris';
-    const toName = to || 'London';
-    return [
-      {
-        id: 'TR-301',
-        operator: 'Eurostar',
-        trainNumber: 'EST9012',
-        departureStation: `${fromName} Gare du Nord`,
-        arrivalStation: `${toName} St Pancras Intl`,
-        departureTime: '08:15 AM',
-        arrivalTime: '10:35 AM',
-        duration: '2h 20m',
-        price: 89,
-        classes: [
-          { name: 'Standard', price: 89 },
-          { name: 'Standard Premier', price: 149 },
-          { name: 'Business Premier', price: 289 },
-        ],
-      },
-      {
-        id: 'TR-302',
-        operator: 'Eurostar',
-        trainNumber: 'EST9054',
-        departureStation: `${fromName} Gare du Nord`,
-        arrivalStation: `${toName} St Pancras Intl`,
-        departureTime: '01:45 PM',
-        arrivalTime: '04:05 PM',
-        duration: '2h 20m',
-        price: 115,
-        classes: [
-          { name: 'Standard', price: 115 },
-          { name: 'Standard Premier', price: 175 },
-          { name: 'Business Premier', price: 320 },
-        ],
-      },
-    ];
+/** Curated timetable dataset bundled at build time: zero external calls per
+ * search, survives provider/DB outages, refreshed via code review. */
+class BundledRailProvider implements RailContentProvider {
+  id = 'bundled-2026';
+  stations(): TrainStation[] {
+    return TRAIN_STATIONS;
+  }
+  operators(): TrainOperator[] {
+    return TRAIN_OPERATORS;
+  }
+  services(): TrainService[] {
+    return [...US_TRAIN_SERVICES, ...IN_TRAIN_SERVICES];
   }
 }
 
-export const trainProvider: TrainProvider = new MockTrainProvider();
-
-export async function searchTrains(params: TrainSearchParams): Promise<Train[]> {
-  return trainProvider.search(params);
-}
+export const railProvider: RailContentProvider = new BundledRailProvider();

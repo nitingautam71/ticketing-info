@@ -9,6 +9,9 @@ import { INSURANCE_PLANS } from '@/lib/insurance/plans';
 import { INSURANCE_PROVIDERS } from '@/lib/insurance/providers';
 import { CATEGORY_PAGES } from '@/lib/insurance/categories';
 import { INSURANCE_GUIDES } from '@/lib/insurance/guides';
+import { TRAIN_STATIONS } from '@/lib/trains/data/stations';
+import { railProvider } from '@/lib/providers/trains';
+import { allCorridorPairs } from '@/lib/trains/popular';
 
 const PUBLIC_ROUTES = [
   '/',
@@ -112,6 +115,22 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     changeFrequency: 'weekly',
     priority: insuranceHubSet.has(path) ? 0.8 : 0.7,
   }));
+  // Rail cluster: station guides, named-train pages and every city-pair
+  // corridor a bundled service actually covers. Corridor pages materialise on
+  // demand (ISR), so listing them costs nothing until they're crawled.
+  const trainHubPaths = [
+    '/trains/passes',
+    ...TRAIN_STATIONS.map((s) => `/trains/station/${s.slug}`),
+    ...railProvider.services().map((s) => `/trains/train/${s.slug}`),
+  ];
+  const trainCorridorPaths = allCorridorPairs().map(({ from, to }) => `/trains/route/${from}/${to}`);
 
-  return [...staticEntries, ...cruiseHubEntries, ...visaEntries, ...insuranceEntries, ...blogEntries];
+  const trainHubSet = new Set(trainHubPaths);
+  const trainEntries: MetadataRoute.Sitemap = [...trainHubPaths, ...trainCorridorPaths].map((path) => ({
+    url: `${siteUrl}${path}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: trainHubSet.has(path) ? 0.8 : 0.7,
+  }));
+  return [...staticEntries, ...cruiseHubEntries, ...visaEntries, ...insuranceEntries, ...trainEntries, ...blogEntries];
 }
