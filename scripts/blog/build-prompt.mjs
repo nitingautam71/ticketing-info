@@ -90,6 +90,7 @@ The file must contain exactly this JSON shape:
 - Stay on today's region (${region.label}). If you genuinely find no relevant ${region.label} travel news from the past 24 hours, do not switch regions and do not create any file - instead respond with only the text: NO_NEWS_FOUND: <one sentence reason>
 - The content field must contain 500-800 words of actual article body (the Sources section is in addition to that range, but keep the total reasonable).
 - Never fabricate a source URL. Only cite articles you actually fetched or saw in search results.
+- The file must be syntactically valid JSON. Every literal double-quote character (") that appears inside a string value - e.g. a quoted phrase, a nicknamed policy, a title-within-a-title - must be escaped as \\" or replaced with a curly/smart quote (" "). Prefer avoiding literal quotation marks in the content field entirely unless directly quoting a source; when you do quote, escape it. Before writing the file, mentally re-check every string value for stray unescaped " characters.
 `;
 
 console.log(prompt);
