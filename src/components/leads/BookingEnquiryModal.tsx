@@ -1,13 +1,50 @@
 'use client';
 
 import { useState } from 'react';
-import { X, Phone, MessageCircle, Send, CheckCircle2, ShieldCheck } from 'lucide-react';
+import Link from 'next/link';
+import { X, Phone, MessageCircle, Send, CheckCircle2, ShieldCheck, ArrowRight } from 'lucide-react';
 import type { BookingEnquiryItem } from '@/lib/types';
 import { telLink, whatsappLink, businessPhoneDisplay } from '@/lib/whatsapp';
-import { trackEvent } from '@/lib/analytics';
+import { trackEvent, trackConversion } from '@/lib/analytics';
+
+// Post-enquiry attach suggestions — each click is a fresh cross-vertical lead.
+const CROSS_SELL: Record<string, { href: string; label: string; sub: string }[]> = {
+  flight: [
+    { href: '/insurance', label: 'Travel insurance', sub: 'Cover delays, cancellations & medical emergencies' },
+    { href: '/transfers', label: 'Airport transfer', sub: 'Private or shared — be met on arrival' },
+    { href: '/hotels', label: 'Add a hotel', sub: 'Free-cancellation options at your destination' },
+  ],
+  hotel: [
+    { href: '/transfers', label: 'Airport transfer', sub: 'Door-to-hotel, arranged in advance' },
+    { href: '/insurance', label: 'Travel insurance', sub: 'Protect your trip and belongings' },
+    { href: '/cars', label: 'Rent a car', sub: 'Explore beyond the hotel' },
+  ],
+  package: [
+    { href: '/insurance', label: 'Travel insurance', sub: 'Cover the whole package' },
+    { href: '/visas', label: 'Visa checker', sub: 'Confirm entry requirements' },
+  ],
+  cruise: [
+    { href: '/flights', label: 'Flights to the port', sub: 'Get to your embarkation city' },
+    { href: '/insurance', label: 'Cruise insurance', sub: 'Missed-port & medical cover' },
+    { href: '/transfers', label: 'Port transfer', sub: 'Pier-to-airport transfers' },
+  ],
+};
+
+function crossSellFor(vertical: string) {
+  return (
+    CROSS_SELL[vertical] ?? [
+      { href: '/insurance', label: 'Travel insurance', sub: 'Cover delays, cancellations & medical' },
+      { href: '/flights', label: 'Flights', sub: 'Compare fares for your trip' },
+    ]
+  );
+}
 
 function pingLead(item: BookingEnquiryItem, contactMethod: 'call' | 'whatsapp') {
   trackEvent(contactMethod === 'whatsapp' ? 'whatsapp_click' : 'click_to_call', { source: 'booking_modal', vertical: item.vertical });
+  trackConversion(
+    contactMethod === 'whatsapp' ? process.env.NEXT_PUBLIC_GOOGLE_ADS_LABEL_WHATSAPP : process.env.NEXT_PUBLIC_GOOGLE_ADS_LABEL_CALL,
+    { source: 'booking_modal', vertical: item.vertical },
+  );
   fetch('/api/leads', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -62,6 +99,7 @@ export default function BookingEnquiryModal({ item, onClose }: { item: BookingEn
       });
       if (!res.ok) throw new Error('Failed to submit enquiry');
       trackEvent('generate_lead', { method: 'booking_enquiry', vertical: item.vertical });
+      trackConversion(process.env.NEXT_PUBLIC_GOOGLE_ADS_LABEL_LEAD, { method: 'booking_enquiry', vertical: item.vertical });
       setIsSubmitted(true);
     } catch {
       setError('Something went wrong submitting your enquiry. Please call or WhatsApp us directly instead.');
@@ -212,6 +250,28 @@ export default function BookingEnquiryModal({ item, onClose }: { item: BookingEn
                   <MessageCircle className="w-4 h-4 text-emerald-400" /> WhatsApp
                 </a>
               </div>
+
+              <div className="w-full max-w-sm space-y-2 pt-2 text-left">
+                <p className="text-[11px] font-bold text-neutral-400 uppercase tracking-wider text-center">Make it a complete trip</p>
+                {crossSellFor(item.vertical).map((c) => (
+                  <Link
+                    key={c.href}
+                    href={c.href}
+                    onClick={() => {
+                      trackEvent('cross_sell_click', { from: item.vertical, to: c.href });
+                      onClose();
+                    }}
+                    className="flex items-center justify-between gap-3 bg-neutral-950 border border-neutral-800 hover:border-emerald-500/40 rounded-xl px-4 py-2.5 transition-colors group"
+                  >
+                    <div className="min-w-0">
+                      <p className="text-xs font-bold text-white truncate">{c.label}</p>
+                      <p className="text-[10px] text-neutral-400 truncate">{c.sub}</p>
+                    </div>
+                    <ArrowRight className="w-4 h-4 text-neutral-600 group-hover:text-emerald-400 transition-colors shrink-0" />
+                  </Link>
+                ))}
+              </div>
+
               <button onClick={onClose} className="w-full max-w-sm bg-emerald-600 hover:bg-emerald-500 text-white font-medium py-3 rounded-xl cursor-pointer transition-colors">
                 Done
               </button>

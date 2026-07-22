@@ -59,8 +59,14 @@ export interface FlightSearchParams {
   from: string;
   to: string;
   date: string;
+  /** Return date for round trips; empty/undefined for one-way. */
+  returnDate?: string;
   cabinClass: CabinClass;
   adults: number;
+  /** Ages 2–11 at their own seat. */
+  children: number;
+  /** Under 2, lap infants; cannot exceed the number of adults. */
+  infants: number;
 }
 
 interface FlightProvider {
@@ -159,7 +165,7 @@ function formatDuration(totalMinutes: number): string {
  * else in the app needs to change.
  */
 class MockFlightProvider implements FlightProvider {
-  async search({ from, to, cabinClass }: FlightSearchParams): Promise<Flight[]> {
+  async search({ from, to, cabinClass, adults, children, infants }: FlightSearchParams): Promise<Flight[]> {
     const fCode = (from || 'JFK').toUpperCase();
     const tCode = (to || 'LHR').toUpperCase();
 
@@ -221,10 +227,12 @@ class MockFlightProvider implements FlightProvider {
             },
           ];
 
-      let basePrice = 250 + Math.floor(Math.random() * 600);
-      if (cabinClass === 'Premium Economy') basePrice *= 1.5;
-      if (cabinClass === 'Business') basePrice *= 3;
-      if (cabinClass === 'First') basePrice *= 5;
+      let perPerson = 250 + Math.floor(Math.random() * 600);
+      if (cabinClass === 'Premium Economy') perPerson *= 1.5;
+      if (cabinClass === 'Business') perPerson *= 3;
+      if (cabinClass === 'First') perPerson *= 5;
+      // Total across the whole party: children pay full seat fare, lap infants ~10%.
+      const partyTotal = perPerson * adults + perPerson * children + perPerson * 0.1 * infants;
 
       results.push({
         id: `FL-${fCode}-${tCode}-${flNum}-${i}`,
@@ -241,7 +249,7 @@ class MockFlightProvider implements FlightProvider {
         stops,
         stopoverAirports,
         segments,
-        price: Math.floor(basePrice),
+        price: Math.floor(partyTotal),
         class: cabinClass,
         baggage: airline.bag,
       });
@@ -449,13 +457,15 @@ function defaultDepartureDate(): string {
  * notes before wiring an actual booking flow to this provider.
  */
 class SkyScrapperFlightProvider implements FlightProvider {
-  async search({ from, to, date, cabinClass, adults }: FlightSearchParams): Promise<Flight[]> {
+  async search({ from, to, date, returnDate, cabinClass, adults, children, infants }: FlightSearchParams): Promise<Flight[]> {
     const originCode = (from || 'JFK').toUpperCase();
     const destCode = (to || 'LHR').toUpperCase();
     const searchDate = date || defaultDepartureDate();
-    const paxCount = Math.min(9, Math.max(1, adults || 1));
+    const adultCount = Math.min(9, Math.max(1, adults || 1));
+    const childCount = Math.min(8, Math.max(0, children || 0));
+    const infantCount = Math.min(adultCount, Math.max(0, infants || 0));
 
-    const cacheKey = `${originCode}|${destCode}|${searchDate}|${cabinClass}|${paxCount}`;
+    const cacheKey = `${originCode}|${destCode}|${searchDate}|${returnDate || ''}|${cabinClass}|${adultCount}|${childCount}|${infantCount}`;
     const cached = searchCache.get(cacheKey);
     if (cached && cached.expires > Date.now()) return cached.flights;
 
@@ -467,8 +477,13 @@ class SkyScrapperFlightProvider implements FlightProvider {
       originEntityId: origin.entityId,
       destinationEntityId: destination.entityId,
       date: searchDate,
+      ...(returnDate ? { returnDate } : {}),
       cabinClass: CABIN_CLASS_PARAM[cabinClass],
-      adults: String(paxCount),
+      adults: String(adultCount),
+      // Sky Scrapper's param spelling: `childrens`. Kept best-effort — the party
+      // composition is captured on the lead regardless of exact supplier pricing.
+      childrens: String(childCount),
+      infants: String(infantCount),
       currency: 'USD',
       market: 'en-US',
       countryCode: 'US',
@@ -549,7 +564,10 @@ class SkyScrapperFlightProvider implements FlightProvider {
       .sort((a, b) => a.price - b.price)
       .slice(0, 20);
 
-    if (flights.length === 0) throw new Error('Sky Scrapper returned zero itineraries for this route/date');
+    // Genuine no-results: return empty so the API route can answer 200 [] ("no
+    // flights") rather than a 5xx error. Don't cache empties — the route/date may
+    // have availability on a later query.
+    if (flights.length === 0) return flights;
 
     searchCache.set(cacheKey, { flights, expires: Date.now() + 5 * 60 * 1000 });
     return flights;

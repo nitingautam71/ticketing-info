@@ -94,7 +94,7 @@ export default function DatePicker({ range, label, startValue, endValue, onChang
   return (
     <div className={`relative ${containerClassName || ''}`} ref={containerRef}>
       {!compact && <label className="block text-xs font-semibold text-neutral-400 mb-1">{label || (range ? 'Dates' : 'Date')}</label>}
-      <button type="button" onClick={() => setIsOpen((v) => !v)} className={triggerClassName}>
+      <button type="button" onClick={() => setIsOpen((v) => !v)} aria-haspopup="dialog" aria-expanded={isOpen} className={triggerClassName}>
         {!compact && <CalendarIcon className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-neutral-500" />}
         {range ? (
           <span className={startValue ? 'text-white' : 'text-neutral-500'}>
@@ -111,6 +111,7 @@ export default function DatePicker({ range, label, startValue, endValue, onChang
             <button
               type="button"
               onClick={() => setVisibleMonth((m) => new Date(m.getFullYear(), m.getMonth() - 1, 1))}
+              aria-label="Previous month"
               className="p-1.5 rounded-lg text-neutral-400 hover:text-white hover:bg-neutral-800 cursor-pointer transition-colors"
             >
               <ChevronLeft className="w-4 h-4" />
@@ -119,6 +120,7 @@ export default function DatePicker({ range, label, startValue, endValue, onChang
             <button
               type="button"
               onClick={() => setVisibleMonth((m) => new Date(m.getFullYear(), m.getMonth() + 1, 1))}
+              aria-label="Next month"
               className="p-1.5 rounded-lg text-neutral-400 hover:text-white hover:bg-neutral-800 cursor-pointer transition-colors"
             >
               <ChevronRight className="w-4 h-4" />
@@ -147,6 +149,8 @@ export default function DatePicker({ range, label, startValue, endValue, onChang
                   type="button"
                   disabled={isDisabled}
                   onClick={() => handleDayClick(d)}
+                  aria-label={d.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })}
+                  aria-pressed={isStart || isEnd}
                   className={`text-xs h-8 rounded-lg font-semibold transition-colors cursor-pointer disabled:cursor-not-allowed disabled:text-neutral-700 ${
                     isStart || isEnd ? 'bg-emerald-600 text-white' : inRange ? 'bg-emerald-500/15 text-emerald-300' : isDisabled ? '' : 'text-neutral-300 hover:bg-neutral-800'
                   }`}

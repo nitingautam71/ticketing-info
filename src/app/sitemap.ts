@@ -12,6 +12,7 @@ import { INSURANCE_GUIDES } from '@/lib/insurance/guides';
 import { activeStationsList } from '@/lib/trains/data/stations';
 import { railProvider } from '@/lib/providers/trains';
 import { allCorridorPairs } from '@/lib/trains/popular';
+import { allFlightRoutePairs } from '@/lib/flights/routes';
 
 const PUBLIC_ROUTES = [
   '/',
@@ -131,5 +132,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     changeFrequency: 'weekly',
     priority: trainHubSet.has(path) ? 0.8 : 0.7,
   }));
-  return [...staticEntries, ...cruiseHubEntries, ...visaEntries, ...insuranceEntries, ...trainEntries, ...blogEntries];
+
+  // Flight route cluster: curated city-pair pages (US-origin), prerendered from a
+  // static module. High-intent commercial pages, so they rank just under the hubs.
+  const flightRouteEntries: MetadataRoute.Sitemap = allFlightRoutePairs().map(({ from, to }) => ({
+    url: `${siteUrl}/flights/${from}/${to}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.75,
+  }));
+
+  return [...staticEntries, ...flightRouteEntries, ...cruiseHubEntries, ...visaEntries, ...insuranceEntries, ...trainEntries, ...blogEntries];
 }

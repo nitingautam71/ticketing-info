@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useId, useRef, useState } from 'react';
 import { Plane, Loader2, Clock } from 'lucide-react';
 
 interface Airport {
@@ -55,6 +55,8 @@ export default function AirportAutocomplete({ label, value, onChange, placeholde
   const [highlightedIndex, setHighlightedIndex] = useState(-1);
   const containerRef = useRef<HTMLDivElement>(null);
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const listboxId = useId();
+  const inputId = useId();
 
   // Sync local text with an externally-driven value (e.g. the "swap airports" button) without an effect.
   if (value !== prevValue) {
@@ -133,9 +135,10 @@ export default function AirportAutocomplete({ label, value, onChange, placeholde
 
   return (
     <div className={`relative ${containerClassName || ''}`} ref={containerRef}>
-      {label && <label className="block text-xs font-semibold text-neutral-400 mb-1">{label}</label>}
+      {label && <label htmlFor={inputId} className="block text-xs font-semibold text-neutral-400 mb-1">{label}</label>}
       <div className="relative">
         <input
+          id={inputId}
           type="text"
           value={query}
           onChange={(e) => handleInput(e.target.value)}
@@ -143,6 +146,12 @@ export default function AirportAutocomplete({ label, value, onChange, placeholde
           onKeyDown={handleKeyDown}
           placeholder={placeholder}
           autoComplete="off"
+          role="combobox"
+          aria-expanded={isOpen && visibleList.length > 0}
+          aria-controls={listboxId}
+          aria-autocomplete="list"
+          aria-activedescendant={highlightedIndex >= 0 ? `${listboxId}-opt-${highlightedIndex}` : undefined}
+          aria-label={label || placeholder || 'Airport or city'}
           className={inputClassName}
         />
         {!compact && <Plane className={`absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-neutral-500 ${rotateIcon ? 'rotate-45' : 'shrink-0'}`} />}
@@ -150,13 +159,21 @@ export default function AirportAutocomplete({ label, value, onChange, placeholde
       </div>
 
       {isOpen && visibleList.length > 0 && (
-        <div className="absolute z-20 mt-1.5 w-full min-w-[260px] bg-neutral-900 border border-neutral-800 rounded-xl shadow-2xl overflow-hidden">
+        <div
+          id={listboxId}
+          role="listbox"
+          aria-label={label || 'Airport suggestions'}
+          className="absolute z-20 mt-1.5 w-full min-w-[260px] bg-neutral-900 border border-neutral-800 rounded-xl shadow-2xl overflow-hidden"
+        >
           {showingRecents && (
             <p className="px-4 pt-2.5 pb-1 text-[10px] font-bold uppercase tracking-wide text-neutral-500">Recent searches</p>
           )}
           {visibleList.map((airport, i) => (
             <button
               key={airport.code}
+              id={`${listboxId}-opt-${i}`}
+              role="option"
+              aria-selected={highlightedIndex === i}
               type="button"
               onClick={() => selectAirport(airport)}
               onMouseEnter={() => setHighlightedIndex(i)}

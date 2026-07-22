@@ -52,3 +52,50 @@ export function toggleSetValue<T>(set: Set<T>, value: T): Set<T> {
   else next.add(value);
   return next;
 }
+
+/**
+ * Client-computed ranking badges keyed by flight id. Only applied when the
+ * provider didn't supply its own `tags` (i.e. the mock path, or a supplier that
+ * omits them) — otherwise we defer to the provider's Cheapest/Fastest/Recommended.
+ */
+export function computeBadges(flights: Flight[]): Map<string, string[]> {
+  const map = new Map<string, string[]>();
+  if (flights.length === 0 || flights.some((f) => f.tags && f.tags.length > 0)) return map;
+
+  const add = (id: string, tag: string) => {
+    const cur = map.get(id) ?? [];
+    if (!cur.includes(tag)) cur.push(tag);
+    map.set(id, cur);
+  };
+
+  const cheapest = flights.reduce((a, b) => (b.price < a.price ? b : a));
+  const fastest = flights.reduce((a, b) => (parseDurationMinutes(b.duration) < parseDurationMinutes(a.duration) ? b : a));
+  add(cheapest.id, 'Cheapest');
+  add(fastest.id, 'Fastest');
+
+  const maxPrice = Math.max(...flights.map((f) => f.price), 1);
+  const maxDuration = Math.max(...flights.map((f) => parseDurationMinutes(f.duration)), 1);
+  const bestValue = flights.reduce((a, b) => {
+    const sa = a.price / maxPrice + parseDurationMinutes(a.duration) / maxDuration;
+    const sb = b.price / maxPrice + parseDurationMinutes(b.duration) / maxDuration;
+    return sb < sa ? b : a;
+  });
+  add(bestValue.id, 'Best value');
+  return map;
+}
+
+/**
+ * Layover/trip-risk read-out from an itinerary's own segment timings — the sort
+ * of thing OTAs bury. Flags a tight (missable) connection or an unusually long
+ * layover so travellers see the real quality of a stop, not just "1 stop".
+ */
+export function connectionWarning(flight: Flight): { label: string; tone: 'warn' | 'muted' } | null {
+  if (!flight.segments || flight.segments.length < 2) return null;
+  const layovers = flight.segments.map((s) => s.layoverMinutes).filter((m): m is number => m != null);
+  if (layovers.length === 0) return null;
+  const min = Math.min(...layovers);
+  const max = Math.max(...layovers);
+  if (min < 75) return { label: `Tight ${Math.floor(min / 60)}h ${min % 60}m connection`, tone: 'warn' };
+  if (max >= 300) return { label: `Long ${Math.floor(max / 60)}h layover`, tone: 'muted' };
+  return null;
+}

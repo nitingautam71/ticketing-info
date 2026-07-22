@@ -1,14 +1,17 @@
 'use client';
 
 import Image from 'next/image';
-import { Plane, Clock, MapPin, Tag, Flame } from 'lucide-react';
+import { Plane, Clock, MapPin, Flame } from 'lucide-react';
 import { useBookingEnquiry } from '@/components/leads/BookingEnquiryContext';
+import { trackEvent } from '@/lib/analytics';
 
-// Launch-offer deal cards for the world's busiest international airports.
-// Fares are illustrative ESTIMATES (economy round-trip from the listed hub) with a
-// promotional 50%-off launch price — final fares are always confirmed by a consultant,
-// consistent with the site's lead-gen model. Every Unsplash photo ID below was
-// verified to resolve (HTTP 200) before being committed.
+// Featured-route cards for the world's busiest international airports.
+// Prices are illustrative ESTIMATES for an economy round-trip from the listed sample
+// hub and are labelled as such — there is deliberately no fabricated "was" price or
+// percentage discount (that would be a deceptive former-price comparison under FTC
+// 16 CFR §233). Final fares are always confirmed by a consultant, consistent with the
+// site's lead-gen model. Every Unsplash photo ID below was verified to resolve (HTTP
+// 200) before being committed.
 interface FlightDeal {
   code: string;
   airport: string;
@@ -18,7 +21,7 @@ interface FlightDeal {
   fromHub: string; // sample origin used for the illustrative fare
   flightTime: string;
   airlines: string[];
-  wasPriceUSD: number; // estimated economy round-trip retail
+  estRoundTripUSD: number; // estimated economy round-trip fare (not a discounted/"was" price)
   highlights: string[];
   image: string;
   imageAlt: string;
@@ -34,7 +37,7 @@ const DEALS: FlightDeal[] = [
     fromHub: 'London (LHR)',
     flightTime: '~9h 20m nonstop',
     airlines: ['Delta Air Lines', 'British Airways', 'Virgin Atlantic'],
-    wasPriceUSD: 980,
+    estRoundTripUSD: 980,
     highlights: ['Georgia Aquarium & World of Coca-Cola', 'Martin Luther King Jr. National Historical Park', 'Gateway hub to 150+ US domestic routes'],
     image: 'https://images.unsplash.com/photo-1575917649705-5b59aaa12e6b?w=800&auto=format&fit=crop&q=60',
     imageAlt: 'Atlanta downtown skyline at dusk',
@@ -48,7 +51,7 @@ const DEALS: FlightDeal[] = [
     fromHub: 'New Delhi (DEL)',
     flightTime: '~3h 45m nonstop',
     airlines: ['Emirates', 'Air India', 'IndiGo'],
-    wasPriceUSD: 420,
+    estRoundTripUSD: 420,
     highlights: ['Burj Khalifa & Dubai Mall', 'Desert safari with Bedouin dinner', 'Visa-on-arrival for many nationalities'],
     image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&auto=format&fit=crop&q=60',
     imageAlt: 'Dubai skyline with Burj Khalifa',
@@ -62,7 +65,7 @@ const DEALS: FlightDeal[] = [
     fromHub: 'Singapore (SIN)',
     flightTime: '~7h 10m nonstop',
     airlines: ['Japan Airlines', 'ANA', 'Singapore Airlines'],
-    wasPriceUSD: 760,
+    estRoundTripUSD: 760,
     highlights: ['Senso-ji Temple & Shibuya Crossing', '20 min by monorail to central Tokyo', 'Visa-waiver for 68 nationalities'],
     image: 'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&auto=format&fit=crop&q=60',
     imageAlt: 'Tokyo street with Tokyo Tower at night',
@@ -76,7 +79,7 @@ const DEALS: FlightDeal[] = [
     fromHub: 'London (LHR)',
     flightTime: '~9h 45m nonstop',
     airlines: ['American Airlines', 'British Airways'],
-    wasPriceUSD: 1020,
+    estRoundTripUSD: 1020,
     highlights: ['Fort Worth Stockyards rodeo culture', 'Sixth Floor Museum at Dealey Plaza', 'Onward reach across the whole US & Latin America'],
     image: 'https://images.unsplash.com/photo-1545194445-dddb8f4487c6?w=800&auto=format&fit=crop&q=60',
     imageAlt: 'Dallas skyline at sunset',
@@ -90,7 +93,7 @@ const DEALS: FlightDeal[] = [
     fromHub: 'Singapore (SIN)',
     flightTime: '~5h 30m nonstop',
     airlines: ['China Eastern Airlines', 'Air China', 'Singapore Airlines'],
-    wasPriceUSD: 620,
+    estRoundTripUSD: 620,
     highlights: ['The Bund riverfront skyline', 'World\'s fastest commercial train (Maglev)', '15-day visa-free transit for many markets'],
     image: 'https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2?w=800&auto=format&fit=crop&q=60',
     imageAlt: 'Shanghai Pudong skyline with Oriental Pearl Tower',
@@ -104,7 +107,7 @@ const DEALS: FlightDeal[] = [
     fromHub: 'New Delhi (DEL)',
     flightTime: '~15h nonstop',
     airlines: ['United Airlines', 'Air India', 'American Airlines'],
-    wasPriceUSD: 1350,
+    estRoundTripUSD: 1350,
     highlights: ['Millennium Park & Cloud Gate ("The Bean")', 'Art Institute of Chicago', 'Architecture river cruise'],
     image: 'https://images.unsplash.com/photo-1494522855154-9297ac14b55f?w=800&auto=format&fit=crop&q=60',
     imageAlt: 'Chicago skyline and river',
@@ -118,7 +121,7 @@ const DEALS: FlightDeal[] = [
     fromHub: 'New York (JFK)',
     flightTime: '~7h nonstop',
     airlines: ['British Airways', 'Virgin Atlantic', 'Delta Air Lines'],
-    wasPriceUSD: 890,
+    estRoundTripUSD: 890,
     highlights: ['Buckingham Palace & Tower of London', 'West End theatre district', '15 min to Paddington on the Heathrow Express'],
     image: 'https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&auto=format&fit=crop&q=60',
     imageAlt: 'London Tower Bridge and skyline',
@@ -132,7 +135,7 @@ const DEALS: FlightDeal[] = [
     fromHub: 'Dubai (DXB)',
     flightTime: '~6h 15m nonstop',
     airlines: ['Thai Airways', 'Emirates'],
-    wasPriceUSD: 540,
+    estRoundTripUSD: 540,
     highlights: ['Grand Palace & Wat Arun', 'Chatuchak weekend market', 'Easy hops to Phuket, Krabi & Koh Samui'],
     image: 'https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=800&auto=format&fit=crop&q=60',
     imageAlt: 'Bangkok temple at sunset',
@@ -146,7 +149,7 @@ const DEALS: FlightDeal[] = [
     fromHub: 'London (LHR)',
     flightTime: '~8h 30m nonstop',
     airlines: ['Air India', 'British Airways', 'Vistara'],
-    wasPriceUSD: 820,
+    estRoundTripUSD: 820,
     highlights: ['Red Fort & Chandni Chowk', 'Day trip to the Taj Mahal (Agra)', 'e-Visa available for 170+ nationalities'],
     image: 'https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&auto=format&fit=crop&q=60',
     imageAlt: 'India Gate, New Delhi',
@@ -156,25 +159,23 @@ const DEALS: FlightDeal[] = [
 export default function FeaturedFlightDeals() {
   const { open } = useBookingEnquiry();
 
-  const claim = (deal: FlightDeal) => {
-    const offerPrice = Math.round(deal.wasPriceUSD / 2);
+  const enquire = (deal: FlightDeal) => {
+    trackEvent('flight_deal_enquire', { code: deal.code, city: deal.city });
     open({
       vertical: 'flight',
-      title: `50% OFF launch fare — ${deal.city} (${deal.code})`,
-      subtitle: `${deal.airport} • from ${deal.fromHub} • Economy round-trip`,
-      price: offerPrice,
+      title: `Fare enquiry — ${deal.city} (${deal.code})`,
+      subtitle: `${deal.airport} • sample fare from ${deal.fromHub} • Economy round-trip`,
+      price: deal.estRoundTripUSD,
       date: 'Flexible',
       details: {
-        promotion: '50% off launch offer',
         destinationAirport: `${deal.airport} (${deal.code})`,
         city: deal.city,
         country: deal.country,
         sampleOrigin: deal.fromHub,
         typicalFlightTime: deal.flightTime,
         airlines: deal.airlines,
-        estimatedRetailUSD: deal.wasPriceUSD,
-        offerPriceUSD: offerPrice,
-        note: 'Estimated economy round-trip fare; exact routing, dates, and final price confirmed by a consultant.',
+        estimatedRoundTripUSD: deal.estRoundTripUSD,
+        note: 'Estimated economy round-trip fare from the sample origin; exact routing, dates, and final price confirmed by a consultant.',
       },
     });
   };
@@ -183,81 +184,75 @@ export default function FeaturedFlightDeals() {
     <section className="mt-12 space-y-5">
       <div className="flex items-center gap-2">
         <Flame className="w-4 h-4 text-sky-400" />
-        <h2 className="text-sm font-bold text-white uppercase tracking-wider">50% Off Launch Fares — The World&apos;s Busiest Airports</h2>
+        <h2 className="text-sm font-bold text-white uppercase tracking-wider">Popular Routes — The World&apos;s Busiest Airports</h2>
       </div>
       <p className="text-neutral-400 text-xs -mt-3">
-        Limited-time half-price estimated fares to nine flagship hubs. Claim a deal and a consultant locks in your dates and final price.
+        Sample economy round-trip fares to nine flagship hubs. Enquire on a route and a consultant compares live fares and locks in your dates and final price.
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {DEALS.map((deal) => {
-          const offerPrice = Math.round(deal.wasPriceUSD / 2);
-          return (
-            <div
-              key={deal.code}
-              className="bg-neutral-900 border border-neutral-800 rounded-2xl overflow-hidden shadow-lg hover:border-sky-800 transition-colors flex flex-col group"
-            >
-              <div className="h-44 relative bg-neutral-950">
-                <Image
-                  src={deal.image}
-                  alt={deal.imageAlt}
-                  fill
-                  sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
-                  className="object-cover opacity-90 group-hover:scale-105 transition-transform duration-500"
-                />
-                <div className="absolute top-4 left-4 bg-sky-600 px-2.5 py-1 rounded-full text-[11px] text-white font-black uppercase tracking-wider flex items-center gap-1">
-                  <Tag className="w-3 h-3" /> 50% OFF
-                </div>
-                <div className="absolute bottom-3 right-4 bg-neutral-950/80 backdrop-blur px-2.5 py-1 rounded-lg text-lg font-black text-white tracking-widest">
-                  {deal.code}
-                </div>
-              </div>
-
-              <div className="p-5 space-y-3 flex-1 flex flex-col justify-between">
-                <div className="space-y-2">
-                  <h3 className="text-base font-bold text-white tracking-tight leading-snug">{deal.city}, {deal.country}</h3>
-                  <p className="text-[11px] text-neutral-500 flex items-center gap-1 -mt-1">
-                    <MapPin className="w-3 h-3 shrink-0" /> {deal.airport}
-                  </p>
-                  <p className="text-xs text-neutral-400 leading-relaxed">{deal.blurb}</p>
-
-                  <div className="flex flex-wrap gap-x-4 gap-y-1 text-[11px] text-neutral-400 pt-1">
-                    <span className="flex items-center gap-1"><Plane className="w-3 h-3" /> from {deal.fromHub}</span>
-                    <span className="flex items-center gap-1"><Clock className="w-3 h-3" /> {deal.flightTime}</span>
-                  </div>
-                  <p className="text-[11px] text-neutral-500">{deal.airlines.join(' · ')}</p>
-
-                  <ul className="space-y-1 pt-1">
-                    {deal.highlights.map((h) => (
-                      <li key={h} className="text-[11px] text-neutral-300 flex items-start gap-1.5">
-                        <span className="text-sky-400 mt-0.5">✓</span> {h}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-
-                <div className="border-t border-neutral-800/60 pt-3 flex justify-between items-center">
-                  <div>
-                    <p className="text-[10px] text-neutral-500 line-through">was ~${deal.wasPriceUSD.toLocaleString()} est.</p>
-                    <p className="text-lg font-black text-white">
-                      ${offerPrice.toLocaleString()} <span className="text-[10px] font-semibold text-neutral-400">round-trip est.</span>
-                    </p>
-                  </div>
-                  <button
-                    onClick={() => claim(deal)}
-                    className="bg-sky-600 hover:bg-sky-500 text-white font-bold text-xs px-4 py-2.5 rounded-xl cursor-pointer transition-colors"
-                  >
-                    Claim 50% Off
-                  </button>
-                </div>
+        {DEALS.map((deal) => (
+          <div
+            key={deal.code}
+            className="bg-neutral-900 border border-neutral-800 rounded-2xl overflow-hidden shadow-lg hover:border-sky-800 transition-colors flex flex-col group"
+          >
+            <div className="h-44 relative bg-neutral-950">
+              <Image
+                src={deal.image}
+                alt={deal.imageAlt}
+                fill
+                sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+                className="object-cover opacity-90 group-hover:scale-105 transition-transform duration-500"
+              />
+              <div className="absolute bottom-3 right-4 bg-neutral-950/80 backdrop-blur px-2.5 py-1 rounded-lg text-lg font-black text-white tracking-widest">
+                {deal.code}
               </div>
             </div>
-          );
-        })}
+
+            <div className="p-5 space-y-3 flex-1 flex flex-col justify-between">
+              <div className="space-y-2">
+                <h3 className="text-base font-bold text-white tracking-tight leading-snug">{deal.city}, {deal.country}</h3>
+                <p className="text-[11px] text-neutral-500 flex items-center gap-1 -mt-1">
+                  <MapPin className="w-3 h-3 shrink-0" /> {deal.airport}
+                </p>
+                <p className="text-xs text-neutral-400 leading-relaxed">{deal.blurb}</p>
+
+                <div className="flex flex-wrap gap-x-4 gap-y-1 text-[11px] text-neutral-400 pt-1">
+                  <span className="flex items-center gap-1"><Plane className="w-3 h-3" /> from {deal.fromHub}</span>
+                  <span className="flex items-center gap-1"><Clock className="w-3 h-3" /> {deal.flightTime}</span>
+                </div>
+                <p className="text-[11px] text-neutral-500">{deal.airlines.join(' · ')}</p>
+
+                <ul className="space-y-1 pt-1">
+                  {deal.highlights.map((h) => (
+                    <li key={h} className="text-[11px] text-neutral-300 flex items-start gap-1.5">
+                      <span className="text-sky-400 mt-0.5">✓</span> {h}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+
+              <div className="border-t border-neutral-800/60 pt-3 flex justify-between items-center">
+                <div>
+                  <p className="text-[10px] text-neutral-500 font-semibold">Economy round-trip</p>
+                  <p className="text-lg font-black text-white">
+                    from ${deal.estRoundTripUSD.toLocaleString()} <span className="text-[10px] font-semibold text-neutral-400">est.</span>
+                  </p>
+                </div>
+                <button
+                  onClick={() => enquire(deal)}
+                  className="bg-sky-600 hover:bg-sky-500 text-white font-bold text-xs px-4 py-2.5 rounded-xl cursor-pointer transition-colors"
+                >
+                  Get a fare quote
+                </button>
+              </div>
+            </div>
+          </div>
+        ))}
       </div>
       <p className="text-neutral-600 text-[10px] leading-relaxed">
-        Fares are estimated economy round-trips from the listed sample origin and vary by date and availability. The 50% launch
-        discount applies to the estimated retail fare; your consultant confirms the final routed price before any payment.
+        Fares are estimated economy round-trips from the listed sample origin and vary by date, availability, and cabin. They are
+        indicative only — your consultant confirms the exact routed price before any payment is taken.
       </p>
     </section>
   );

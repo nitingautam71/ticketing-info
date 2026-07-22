@@ -2,8 +2,9 @@
 
 import { useState } from 'react';
 import Image from 'next/image';
-import { ChevronRight, AlertCircle, Briefcase, X, CheckCircle2, Leaf } from 'lucide-react';
+import { ChevronRight, AlertCircle, Briefcase, X, CheckCircle2, Leaf, Timer } from 'lucide-react';
 import type { Flight } from '@/lib/providers/flights';
+import { connectionWarning } from '@/lib/flightDisplay';
 
 function AirlineLogo({ url, code }: { url?: string; code: string }) {
   const [failed, setFailed] = useState(false);
@@ -25,18 +26,22 @@ interface FlightResultCardProps {
   flight: Flight;
   isSelected: boolean;
   onSelect: () => void;
+  /** Client-computed ranking badges (used when the provider supplies none). */
+  badges?: string[];
 }
 
-export default function FlightResultCard({ flight: f, isSelected, onSelect }: FlightResultCardProps) {
+export default function FlightResultCard({ flight: f, isSelected, onSelect, badges }: FlightResultCardProps) {
+  const allTags = [...(f.tags ?? []), ...(badges ?? [])];
+  const conn = connectionWarning(f);
   return (
     <div
       className={`bg-neutral-900 border rounded-2xl overflow-hidden shadow-md transition-all group ${
         isSelected ? 'border-emerald-500' : 'border-neutral-800 hover:border-neutral-700'
       }`}
     >
-      {f.tags && f.tags.length > 0 && (
-        <div className="flex gap-1.5 px-5 pt-3">
-          {f.tags.map((tag) => (
+      {allTags.length > 0 && (
+        <div className="flex flex-wrap gap-1.5 px-5 pt-3">
+          {allTags.map((tag) => (
             <span key={tag} className="text-[10px] font-bold uppercase tracking-wide px-2 py-0.5 rounded-full bg-emerald-500/15 text-emerald-400 border border-emerald-500/30">
               {tag}
             </span>
@@ -105,6 +110,11 @@ export default function FlightResultCard({ flight: f, isSelected, onSelect }: Fl
             <span className="flex items-center gap-1.5">
               <Briefcase className="w-3.5 h-3.5 text-neutral-500" /> {f.baggage}
             </span>
+            {conn && (
+              <span className={`flex items-center gap-1 px-2 py-0.5 rounded-full border ${conn.tone === 'warn' ? 'border-amber-500/30 text-amber-400' : 'border-neutral-700 text-neutral-400'}`}>
+                <Timer className="w-3 h-3" /> {conn.label}
+              </span>
+            )}
             {f.farePolicy && (
               <>
                 <span
