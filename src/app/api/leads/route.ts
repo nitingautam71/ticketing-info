@@ -1,6 +1,7 @@
-import { NextResponse } from 'next/server';
+import { NextResponse, after } from 'next/server';
 import { ZodError } from 'zod';
 import { leadSchema, createLead } from '@/lib/leads';
+import { notifyNewLead } from '@/lib/notifications';
 import { rateLimit, clientIp, tooManyRequestsResponse } from '@/lib/rateLimit';
 
 export async function POST(req: Request) {
@@ -17,6 +18,9 @@ export async function POST(req: Request) {
   try {
     const input = leadSchema.parse(body);
     const lead = await createLead(input);
+    // Alert the team after the response is sent — the enquiry is already saved,
+    // so a slow/failing webhook can't delay or break lead capture.
+    after(() => notifyNewLead(lead));
     return NextResponse.json({ success: true, id: lead.id });
   } catch (err) {
     if (err instanceof ZodError) {
